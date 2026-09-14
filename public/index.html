@@ -521,6 +521,110 @@
             margin-bottom: 12px;
             text-align: center;
         }
+
+        /* Responsive Breakpoints for Mobile & Tablet */
+        @media (max-width: 900px) {
+            .dashboard-container { padding: 0 4px; }
+            .kpi-row { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+            .cards-grid { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 14px 10px 60px; }
+            .top-navbar {
+                flex-direction: column;
+                align-items: stretch;
+                padding: 14px 16px;
+                gap: 12px;
+            }
+            .brand-title { text-align: center; font-size: 1.15rem; }
+            .nav-controls {
+                justify-content: space-between;
+                width: 100%;
+                gap: 8px;
+            }
+            .theme-picker {
+                flex: 1;
+                justify-content: center;
+                overflow-x: auto;
+            }
+            .theme-btn { padding: 6px 8px; font-size: 0.74rem; }
+            .btn-sheet, .btn-logout {
+                padding: 7px 10px;
+                font-size: 0.78rem;
+                white-space: nowrap;
+            }
+
+            .kpi-row {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 8px;
+            }
+            .kpi-box { padding: 12px 14px; border-radius: 12px; }
+            .kpi-label { font-size: 0.7rem; }
+            .kpi-num { font-size: 1.5rem; }
+
+            .verdict-banner { padding: 16px 14px; margin-bottom: 18px; }
+            .verdict-banner h2 { font-size: 1.05rem; }
+            .verdict-quote { font-size: 0.92rem; }
+
+            .toolbar {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 10px;
+                padding: 10px 12px;
+            }
+            .search-input {
+                max-width: 100%;
+                width: 100%;
+                font-size: 16px; /* Prevents auto-zoom on iOS Safari */
+            }
+            .filter-tabs {
+                display: flex;
+                width: 100%;
+                gap: 6px;
+            }
+            .filter-btn {
+                flex: 1;
+                text-align: center;
+                padding: 8px 4px;
+                font-size: 0.74rem;
+            }
+
+            .cards-grid {
+                grid-template-columns: 1fr;
+                gap: 16px;
+            }
+            .carousel-container {
+                height: 230px;
+            }
+            .product-title {
+                font-size: 0.98rem;
+                height: auto;
+                max-height: 3em;
+                -webkit-line-clamp: 2;
+            }
+            .stores-row {
+                flex-direction: row;
+                gap: 6px;
+            }
+            .btn-store {
+                padding: 10px 8px;
+                font-size: 0.76rem;
+            }
+
+            .login-card {
+                padding: 26px 18px;
+                border-radius: 16px;
+            }
+            .login-input {
+                font-size: 16px; /* Prevents auto-zoom on iOS Safari */
+                padding: 11px 14px;
+            }
+            .btn-submit-login {
+                padding: 14px;
+                font-size: 0.92rem;
+            }
+        }
     </style>
 </head>
 <body>
