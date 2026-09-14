@@ -61,6 +61,10 @@ class Settings(BaseSettings):
         default="https://www.amazon.com/dp/B0EXAMPLE", alias="REFERENCE_WINNER_URL"
     )
 
+    # Telegram Notifications (Optional)
+    telegram_bot_token: Optional[str] = Field(default=None, alias="TELEGRAM_BOT_TOKEN")
+    telegram_chat_id: Optional[str] = Field(default=None, alias="TELEGRAM_CHAT_ID")
+
 
 @lru_cache
 def get_settings() -> Settings:

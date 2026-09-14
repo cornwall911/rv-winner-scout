@@ -12,6 +12,7 @@ from rv_winner_scout.adapters.exposure.public_search_adapter import PublicExposu
 from rv_winner_scout.adapters.http.client import ResilientHttpClient
 from rv_winner_scout.adapters.persistence.sqlite_checkpoint import SQLiteCheckpointStore
 from rv_winner_scout.adapters.sheets.gsheets_adapter import GoogleSheetsAdapter
+from rv_winner_scout.adapters.telegram.notifier import TelegramNotifier
 from rv_winner_scout.adapters.walmart.search_adapter import WalmartSearchAdapter
 from rv_winner_scout.config.constants import MAIN_AMAZON_SOURCE
 from rv_winner_scout.config.settings import Settings, get_settings
@@ -63,6 +64,7 @@ class PipelineOrchestrator:
         self.sheets_adapter = GoogleSheetsAdapter(
             settings=self.settings, backup_service=self.backup_service
         )
+        self.telegram_notifier = TelegramNotifier(settings=self.settings)
 
     async def run(
         self, mode: Optional[str] = None, fresh: bool = False
@@ -335,7 +337,7 @@ class PipelineOrchestrator:
                     logger.info("Google Sheets update skipped (unconfigured credentials or spreadsheet ID)")
 
                 # -------------------------------------------------------------
-                # STAGE 15: Health report conclusion
+                # STAGE 15: Health report conclusion & Telegram dispatch
                 # -------------------------------------------------------------
                 final_health = health.build_report()
                 logger.info(
@@ -345,14 +347,36 @@ class PipelineOrchestrator:
                     final_health.products_verified,
                     len(winners),
                 )
+
+                if self.telegram_notifier.is_configured:
+                    try:
+                        await self.telegram_notifier.notify_run_completed(
+                            reviewed_count=len(unique_candidates),
+                            winners=winners,
+                            near_misses=near_misses,
+                            health=final_health,
+                        )
+                    except Exception as t_exc:
+                        logger.warning("Telegram notification dispatch failed: %s", t_exc)
+
                 return report_markdown, final_health
 
             except DeadlineExceededError as exc:
                 health.set_fatal_failure("Global deadline exceeded before pipeline completion")
+                if self.telegram_notifier.is_configured:
+                    try:
+                        await self.telegram_notifier.notify_failure("Global deadline exceeded", run_id=run_id)
+                    except Exception:
+                        pass
                 return self._conclude_run(len(raw_products) if "raw_products" in locals() else 0, [], [], health)
             except Exception as exc:
                 health.set_fatal_failure(f"Unhandled pipeline exception: {exc}")
                 logger.exception("Fatal pipeline error: %s", exc)
+                if self.telegram_notifier.is_configured:
+                    try:
+                        await self.telegram_notifier.notify_failure(str(exc), run_id=run_id)
+                    except Exception:
+                        pass
                 return self._conclude_run(0, [], [], health)
             finally:
                 await self.http_client.close()
