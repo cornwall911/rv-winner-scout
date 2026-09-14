@@ -525,10 +525,192 @@ def generate_executive_dashboard_html(
             color: var(--accent);
             border-color: var(--accent);
         }}
+
+        /* Logout Button */
+        .btn-logout {{
+            background: var(--bg-card-alt);
+            border: 1px solid var(--border-color);
+            color: var(--text-secondary);
+            padding: 8px 14px;
+            border-radius: 8px;
+            font-size: 0.82rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s;
+        }}
+        .btn-logout:hover {{
+            background: rgba(239, 68, 68, 0.15);
+            border-color: #EF4444;
+            color: #EF4444;
+        }}
+
+        /* Login Screen Overlay */
+        .login-overlay {{
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: rgba(10, 10, 12, 0.92);
+            backdrop-filter: blur(18px);
+            -webkit-backdrop-filter: blur(18px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 99999;
+            padding: 20px;
+        }}
+        .login-card {{
+            background: var(--bg-surface);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            padding: 38px 32px;
+            width: 100%;
+            max-width: 410px;
+            box-shadow: 0 24px 60px rgba(0, 0, 0, 0.7);
+            text-align: center;
+            animation: modalFadeIn 0.3s ease-out;
+        }}
+        @keyframes modalFadeIn {{
+            from {{ opacity: 0; transform: scale(0.95) translateY(10px); }}
+            to {{ opacity: 1; transform: scale(1) translateY(0); }}
+        }}
+        .login-icon {{
+            font-size: 2.4rem;
+            margin-bottom: 12px;
+            display: inline-block;
+        }}
+        .login-title {{
+            font-size: 1.35rem;
+            font-weight: 800;
+            color: var(--text-primary);
+            letter-spacing: -0.3px;
+            margin-bottom: 6px;
+        }}
+        .login-subtitle {{
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-bottom: 24px;
+        }}
+        .login-form {{
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            text-align: left;
+        }}
+        .form-group {{
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }}
+        .form-group label {{
+            font-size: 0.78rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--text-secondary);
+            letter-spacing: 0.5px;
+        }}
+        .login-input {{
+            width: 100%;
+            background: var(--bg-card-alt);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            padding: 12px 16px;
+            color: var(--text-primary);
+            font-size: 0.95rem;
+            outline: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }}
+        .login-input:focus {{
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px var(--accent-soft);
+        }}
+        .login-options {{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 0.82rem;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }}
+        .remember-label {{
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            cursor: pointer;
+            user-select: none;
+        }}
+        .remember-label input[type="checkbox"] {{
+            accent-color: var(--accent);
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+        }}
+        .btn-submit-login {{
+            background: var(--accent);
+            color: #000;
+            border: none;
+            border-radius: 10px;
+            padding: 13px;
+            font-size: 0.95rem;
+            font-weight: 700;
+            cursor: pointer;
+            margin-top: 10px;
+            transition: opacity 0.2s, transform 0.1s;
+        }}
+        .btn-submit-login:hover {{ opacity: 0.92; }}
+        .btn-submit-login:active {{ transform: scale(0.98); }}
+        .login-error {{
+            background: rgba(239, 68, 68, 0.15);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            color: #EF4444;
+            padding: 10px;
+            border-radius: 8px;
+            font-size: 0.82rem;
+            font-weight: 600;
+            display: none;
+            margin-bottom: 12px;
+            text-align: center;
+        }}
     </style>
 </head>
 <body>
-    <div class="dashboard-container">
+    <!-- Login Screen Overlay -->
+    <div class="login-overlay" id="loginOverlay">
+        <div class="login-card">
+            <div class="login-icon">🔒</div>
+            <h2 class="login-title">RV WINNER SCOUT</h2>
+            <p class="login-subtitle">Authorized B2B Client Access</p>
+            
+            <div class="login-error" id="loginError">Incorrect username or password.</div>
+
+            <form class="login-form" onsubmit="event.preventDefault(); attemptLogin();">
+                <div class="form-group">
+                    <label for="loginUser">Username</label>
+                    <input type="text" id="loginUser" class="login-input" placeholder="Enter username" autocomplete="username" required autofocus />
+                </div>
+                
+                <div class="form-group">
+                    <label for="loginPass">Password</label>
+                    <input type="password" id="loginPass" class="login-input" placeholder="••••••••••••" autocomplete="current-password" required />
+                </div>
+
+                <div class="login-options">
+                    <label class="remember-label">
+                        <input type="checkbox" id="rememberMe" checked />
+                        <span>Remember me</span>
+                    </label>
+                </div>
+
+                <button type="submit" class="btn-submit-login" id="loginSubmitBtn">Access Dashboard</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="dashboard-container" id="dashboardContainer" style="display: none;">
         <!-- Top Navbar -->
         <header class="top-navbar">
             <div class="brand-title">RV WINNER SCOUT</div>
@@ -545,6 +727,10 @@ def generate_executive_dashboard_html(
                 <a href="{sheet_url}" target="_blank" class="btn-sheet">
                     📊 Google Sheets
                 </a>
+
+                <button class="btn-logout" onclick="logout()" title="Sign Out">
+                    🔒 Sign Out
+                </button>
             </div>
         </header>
 
@@ -683,6 +869,94 @@ def generate_executive_dashboard_html(
             btn.classList.add('active');
             filterCards();
         }}
+
+        // 5. Authentication & Client Access Gate
+        const AUTH_USER = "almostafa";
+        const AUTH_HASH = "d7f6bc259795aebde3360364c91c781ac93edc0feaa81dead8d512f40376d726";
+        const AUTH_STORAGE_KEY = "scout_portal_session_token";
+
+        async function computeSHA256(text) {{
+            if (window.crypto && window.crypto.subtle) {{
+                const msgBuffer = new TextEncoder().encode(text);
+                const hashBuffer = await window.crypto.subtle.digest('SHA-256', msgBuffer);
+                const hashArray = Array.from(new Uint8Array(hashBuffer));
+                return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+            }} else {{
+                // Fallback direct match for non-crypto contexts
+                return text === "Almostafa311911@z" ? AUTH_HASH : "invalid";
+            }}
+        }}
+
+        function checkAuth() {{
+            const remembered = localStorage.getItem(AUTH_STORAGE_KEY);
+            const session = sessionStorage.getItem(AUTH_STORAGE_KEY);
+
+            if (remembered === AUTH_HASH || session === AUTH_HASH) {{
+                showDashboard();
+            }} else {{
+                showLogin();
+            }}
+        }}
+
+        function showDashboard() {{
+            const overlay = document.getElementById('loginOverlay');
+            const container = document.getElementById('dashboardContainer');
+            if (overlay) overlay.style.display = 'none';
+            if (container) container.style.display = 'block';
+        }}
+
+        function showLogin() {{
+            const overlay = document.getElementById('loginOverlay');
+            const container = document.getElementById('dashboardContainer');
+            if (overlay) overlay.style.display = 'flex';
+            if (container) container.style.display = 'none';
+            const userInput = document.getElementById('loginUser');
+            if (userInput) userInput.focus();
+        }}
+
+        async function attemptLogin() {{
+            const userField = document.getElementById('loginUser');
+            const passField = document.getElementById('loginPass');
+            const rememberMe = document.getElementById('rememberMe').checked;
+            const errorElem = document.getElementById('loginError');
+
+            errorElem.style.display = 'none';
+            const userVal = userField.value.trim().toLowerCase();
+            const passVal = passField.value;
+
+            if (!userVal || !passVal) {{
+                errorElem.innerText = "Please provide both username and password.";
+                errorElem.style.display = 'block';
+                return;
+            }}
+
+            const computedHash = await computeSHA256(passVal);
+
+            if (userVal === AUTH_USER && computedHash === AUTH_HASH) {{
+                if (rememberMe) {{
+                    localStorage.setItem(AUTH_STORAGE_KEY, AUTH_HASH);
+                }} else {{
+                    sessionStorage.setItem(AUTH_STORAGE_KEY, AUTH_HASH);
+                }}
+                showDashboard();
+            }} else {{
+                errorElem.innerText = "Incorrect username or password. Access denied.";
+                errorElem.style.display = 'block';
+                passField.value = '';
+                passField.focus();
+            }}
+        }}
+
+        function logout() {{
+            localStorage.removeItem(AUTH_STORAGE_KEY);
+            sessionStorage.removeItem(AUTH_STORAGE_KEY);
+            const passField = document.getElementById('loginPass');
+            if (passField) passField.value = '';
+            showLogin();
+        }}
+
+        // Run authentication check on startup
+        checkAuth();
     </script>
 </body>
 </html>
