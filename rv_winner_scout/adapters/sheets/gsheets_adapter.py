@@ -141,6 +141,11 @@ class GoogleSheetsAdapter(GoogleSheetsPort):
                 title=self.settings.sheet_name, rows=1000, cols=len(SHEET_HEADERS)
             )
 
+        try:
+            worksheet.freeze(rows=1)
+        except Exception:
+            pass
+
         existing_rows = worksheet.get_all_values()
         rows_to_insert: List[List[Any]] = []
 

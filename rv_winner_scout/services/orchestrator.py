@@ -28,6 +28,7 @@ from rv_winner_scout.domain.exceptions import (
     RunLockActiveError,
 )
 from rv_winner_scout.domain.models import ProductCandidate, RunHealthReport
+from rv_winner_scout.reporting.dashboard_generator import save_dashboard
 from rv_winner_scout.reporting.formatter import format_full_report
 from rv_winner_scout.services.backup_service import BackupService
 from rv_winner_scout.services.deadline_manager import DeadlineManager
@@ -301,15 +302,27 @@ class PipelineOrchestrator:
                     self.checkpoint_store.save_candidate(run_id, w)
 
                 # -------------------------------------------------------------
-                # STAGE 12: Final report generation
+                # STAGE 12: Final report generation (Markdown & Executive HTML)
                 # -------------------------------------------------------------
-                logger.info("Stage 12: Generating Markdown report...")
+                logger.info("Stage 12: Generating Markdown report and Executive HTML Dashboard...")
                 report_markdown = format_full_report(
                     reviewed_count=len(unique_candidates),
                     winners=winners,
                     near_misses=near_misses,
                     health=health.build_report(),
                 )
+                try:
+                    dashboard_file = save_dashboard(
+                        reviewed_count=len(unique_candidates),
+                        winners=winners,
+                        near_misses=near_misses,
+                        health=health.build_report(),
+                        data_dir=self.settings.data_dir,
+                        spreadsheet_id=self.settings.spreadsheet_id,
+                    )
+                    logger.info("Executive Dashboard generated at: %s", dashboard_file)
+                except Exception as d_exc:
+                    logger.warning("Could not generate HTML dashboard: %s", d_exc)
 
                 # -------------------------------------------------------------
                 # STAGE 13 & 14: Google Sheets update & Pre-mutation backup
