@@ -370,10 +370,192 @@
             color: var(--accent);
             border-color: var(--accent);
         }
+
+        /* Logout Button */
+        .btn-logout {
+            background: var(--bg-card-alt);
+            border: 1px solid var(--border-color);
+            color: var(--text-secondary);
+            padding: 8px 14px;
+            border-radius: 8px;
+            font-size: 0.82rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s;
+        }
+        .btn-logout:hover {
+            background: rgba(239, 68, 68, 0.15);
+            border-color: #EF4444;
+            color: #EF4444;
+        }
+
+        /* Login Screen Overlay */
+        .login-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: rgba(10, 10, 12, 0.92);
+            backdrop-filter: blur(18px);
+            -webkit-backdrop-filter: blur(18px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 99999;
+            padding: 20px;
+        }
+        .login-card {
+            background: var(--bg-surface);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            padding: 38px 32px;
+            width: 100%;
+            max-width: 410px;
+            box-shadow: 0 24px 60px rgba(0, 0, 0, 0.7);
+            text-align: center;
+            animation: modalFadeIn 0.3s ease-out;
+        }
+        @keyframes modalFadeIn {
+            from { opacity: 0; transform: scale(0.95) translateY(10px); }
+            to { opacity: 1; transform: scale(1) translateY(0); }
+        }
+        .login-icon {
+            font-size: 2.4rem;
+            margin-bottom: 12px;
+            display: inline-block;
+        }
+        .login-title {
+            font-size: 1.35rem;
+            font-weight: 800;
+            color: var(--text-primary);
+            letter-spacing: -0.3px;
+            margin-bottom: 6px;
+        }
+        .login-subtitle {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-bottom: 24px;
+        }
+        .login-form {
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            text-align: left;
+        }
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+        .form-group label {
+            font-size: 0.78rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--text-secondary);
+            letter-spacing: 0.5px;
+        }
+        .login-input {
+            width: 100%;
+            background: var(--bg-card-alt);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            padding: 12px 16px;
+            color: var(--text-primary);
+            font-size: 0.95rem;
+            outline: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        .login-input:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px var(--accent-soft);
+        }
+        .login-options {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 0.82rem;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }
+        .remember-label {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            cursor: pointer;
+            user-select: none;
+        }
+        .remember-label input[type="checkbox"] {
+            accent-color: var(--accent);
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+        }
+        .btn-submit-login {
+            background: var(--accent);
+            color: #000;
+            border: none;
+            border-radius: 10px;
+            padding: 13px;
+            font-size: 0.95rem;
+            font-weight: 700;
+            cursor: pointer;
+            margin-top: 10px;
+            transition: opacity 0.2s, transform 0.1s;
+        }
+        .btn-submit-login:hover { opacity: 0.92; }
+        .btn-submit-login:active { transform: scale(0.98); }
+        .login-error {
+            background: rgba(239, 68, 68, 0.15);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            color: #EF4444;
+            padding: 10px;
+            border-radius: 8px;
+            font-size: 0.82rem;
+            font-weight: 600;
+            display: none;
+            margin-bottom: 12px;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
-    <div class="dashboard-container">
+    <!-- Login Screen Overlay -->
+    <div class="login-overlay" id="loginOverlay">
+        <div class="login-card">
+            <div class="login-icon">🔒</div>
+            <h2 class="login-title">RV WINNER SCOUT</h2>
+            <p class="login-subtitle">Authorized B2B Client Access</p>
+            
+            <div class="login-error" id="loginError">Incorrect username or password.</div>
+
+            <form class="login-form" onsubmit="event.preventDefault(); attemptLogin();">
+                <div class="form-group">
+                    <label for="loginUser">Username</label>
+                    <input type="text" id="loginUser" class="login-input" placeholder="Enter username" autocomplete="username" required autofocus />
+                </div>
+                
+                <div class="form-group">
+                    <label for="loginPass">Password</label>
+                    <input type="password" id="loginPass" class="login-input" placeholder="••••••••••••" autocomplete="current-password" required />
+                </div>
+
+                <div class="login-options">
+                    <label class="remember-label">
+                        <input type="checkbox" id="rememberMe" checked />
+                        <span>Remember me</span>
+                    </label>
+                </div>
+
+                <button type="submit" class="btn-submit-login" id="loginSubmitBtn">Access Dashboard</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="dashboard-container" id="dashboardContainer" style="display: none;">
         <!-- Top Navbar -->
         <header class="top-navbar">
             <div class="brand-title">RV WINNER SCOUT</div>
@@ -387,9 +569,13 @@
                     <button class="theme-btn" onclick="setTheme('light')">Light</button>
                 </div>
 
-                <a href="https://docs.google.com/spreadsheets/d/13nQZOUdkOtSHsOI0X_f1FhuIa2q10RH2WTdIkF5C3Y0/edit#gid=1055207818" target="_blank" class="btn-sheet">
+                <a href="https://docs.google.com/spreadsheets/d/1L_3u3zXn7bV9L4fG9K1N4n/edit#gid=1055207818" target="_blank" class="btn-sheet">
                     📊 Google Sheets
                 </a>
+
+                <button class="btn-logout" onclick="logout()" title="Sign Out">
+                    🔒 Sign Out
+                </button>
             </div>
         </header>
 
@@ -397,7 +583,7 @@
         <section class="kpi-row">
             <div class="kpi-box">
                 <div class="kpi-label">Audited Products</div>
-                <div class="kpi-num">10</div>
+                <div class="kpi-num">12</div>
             </div>
 
             <div class="kpi-box">
@@ -407,7 +593,7 @@
 
             <div class="kpi-box">
                 <div class="kpi-label">Verified Amazon Pages</div>
-                <div class="kpi-num">10</div>
+                <div class="kpi-num">0</div>
             </div>
 
             <div class="kpi-box">
@@ -421,7 +607,7 @@
         <div class="verdict-banner">
             <div class="verdict-content">
                 <h2>Daily Research Verdict</h2>
-                <p class="verdict-quote">"I reviewed <strong>10</strong> products from the link. None met the hidden-winner criteria today."</p>
+                <p class="verdict-quote">"I reviewed <strong>12</strong> products from the link. None met the hidden-winner criteria today."</p>
                 <span class="verdict-note">Verified live on Amazon • Complete category traversal logged.</span>
             </div>
         </div>
@@ -432,271 +618,15 @@
             <input type="text" id="searchInput" class="search-input" placeholder="Search by product title or ASIN..." onkeyup="filterCards()" />
 
             <div class="filter-tabs">
-                <button class="filter-btn active" onclick="setFilter('all', this)">All (4)</button>
+                <button class="filter-btn active" onclick="setFilter('all', this)">All (0)</button>
                 <button class="filter-btn" onclick="setFilter('winner', this)">Winners (0)</button>
-                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates (4)</button>
+                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates (0)</button>
             </div>
         </section>
 
         <!-- Product Cards Grid -->
         <main class="cards-grid" id="cardsGrid">
             
-        <div class="product-card candidate" data-title="rv vent covers for roof, white, 2 pack b0h6mgdxvs" data-type="candidate">
-            <div class="card-top-bar">
-                <span class="status-pill badge-candidate">RESEARCH CANDIDATE</span>
-                <span class="asin-pill">ASIN: B0H6MGDXVS</span>
-            </div>
-
-            <!-- Image Carousel -->
-            <div class="carousel-container" id="carousel-1" data-images="[&quot;https://images-na.ssl-images-amazon.com/images/I/51PRWvHjl7L._AC_UL300_SR300,200_.jpg&quot;]" data-index="0">
-                <img src="https://images-na.ssl-images-amazon.com/images/I/51PRWvHjl7L._AC_UL300_SR300,200_.jpg" alt="RV Vent Covers for Roof, White, 2 Pack" class="carousel-img" id="img-1" loading="lazy" />
-                
-                <div class="carousel-controls" style="display:none;">
-                    <button class="carousel-btn btn-prev" onclick="prevSlide(1)">‹</button>
-                    <span class="carousel-counter" id="counter-1">1 / 1</span>
-                    <button class="carousel-btn btn-next" onclick="nextSlide(1)">›</button>
-                </div>
-            </div>
-
-            <!-- Card Content -->
-            <div class="card-body">
-                <h3 class="product-title" title="RV Vent Covers for Roof, White, 2 Pack">RV Vent Covers for Roof, White, 2 Pack</h3>
-
-                <!-- BSR and Price Meta -->
-                <div class="bsr-meta-box">
-                    <div class="meta-item">
-                        <span class="meta-label">Amazon Price</span>
-                        <span class="meta-val highlight">Listed on Amazon</span>
-                    </div>
-                    <div class="meta-item">
-                        <span class="meta-label">Amazon Best Sellers Rank</span>
-                        <span class="meta-val bsr-val">Ranked in RV New Releases</span>
-                    </div>
-                </div>
-
-                <!-- Stores Arbitrage Row -->
-                <div class="stores-row">
-                    <a href="https://www.amazon.com/dp/B0H6MGDXVS" target="_blank" class="btn-store btn-amazon">
-                        🛒 View on Amazon ↗
-                    </a>
-                    <a href="#" target="_blank" class="btn-store btn-walmart">
-                        🔵 Walmart (Check Walmart) ↗
-                    </a>
-                </div>
-
-                <!-- Commercial Insights -->
-                <div class="insights-box">
-                    <div class="insight-row">
-                        <strong>🎯 Opportunity / Utility:</strong>
-                        <p>This is a high-volume commodity item that appeals to the &#x27;preventative maintenance&#x27; crowd, which is a massive segment of the RV community.</p>
-                    </div>
-                    <div class="insight-row">
-                        <strong>⚠️ Risk / Fit Constraint:</strong>
-                        <p>It is a generic, unexciting replacement part that lacks the &#x27;wow&#x27; factor required for viral marketing; most RVers already know these exist and buy them at local dealers.</p>
-                    </div>
-                </div>
-
-                <!-- Action Toolbar: Download All Images -->
-                <div class="card-actions">
-                    <button class="btn-download" onclick="downloadAllProductImages(1, 'B0H6MGDXVS')">
-                        📥 Download All Images (1)
-                    </button>
-                </div>
-            </div>
-        </div>
-        
-        <div class="product-card candidate" data-title="exhaustrex rv cassette toilet ventilation system | fits thetford c220 b0hhy3blnn" data-type="candidate">
-            <div class="card-top-bar">
-                <span class="status-pill badge-candidate">RESEARCH CANDIDATE</span>
-                <span class="asin-pill">ASIN: B0HHY3BLNN</span>
-            </div>
-
-            <!-- Image Carousel -->
-            <div class="carousel-container" id="carousel-2" data-images="[&quot;https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg&quot;]" data-index="0">
-                <img src="https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg" alt="Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220" class="carousel-img" id="img-2" loading="lazy" />
-                
-                <div class="carousel-controls" style="display:none;">
-                    <button class="carousel-btn btn-prev" onclick="prevSlide(2)">‹</button>
-                    <span class="carousel-counter" id="counter-2">1 / 1</span>
-                    <button class="carousel-btn btn-next" onclick="nextSlide(2)">›</button>
-                </div>
-            </div>
-
-            <!-- Card Content -->
-            <div class="card-body">
-                <h3 class="product-title" title="Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220">Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220</h3>
-
-                <!-- BSR and Price Meta -->
-                <div class="bsr-meta-box">
-                    <div class="meta-item">
-                        <span class="meta-label">Amazon Price</span>
-                        <span class="meta-val highlight">Listed on Amazon</span>
-                    </div>
-                    <div class="meta-item">
-                        <span class="meta-label">Amazon Best Sellers Rank</span>
-                        <span class="meta-val bsr-val">Ranked in RV New Releases</span>
-                    </div>
-                </div>
-
-                <!-- Stores Arbitrage Row -->
-                <div class="stores-row">
-                    <a href="https://www.amazon.com/dp/B0HHY3BLNN" target="_blank" class="btn-store btn-amazon">
-                        🛒 View on Amazon ↗
-                    </a>
-                    <a href="#" target="_blank" class="btn-store btn-walmart">
-                        🔵 Walmart (Check Walmart) ↗
-                    </a>
-                </div>
-
-                <!-- Commercial Insights -->
-                <div class="insights-box">
-                    <div class="insight-row">
-                        <strong>🎯 Opportunity / Utility:</strong>
-                        <p>It solves a universal, high-frustration &#x27;gross&#x27; factor in RVing with a simple, low-cost, non-electrical solution that feels like a &#x27;life hack&#x27; upgrade.</p>
-                    </div>
-                    <div class="insight-row">
-                        <strong>⚠️ Risk / Fit Constraint:</strong>
-                        <p>Requires drilling into the exterior of the RV, which may intimidate DIY-averse owners or those worried about voiding warranties on newer rigs.</p>
-                    </div>
-                </div>
-
-                <!-- Action Toolbar: Download All Images -->
-                <div class="card-actions">
-                    <button class="btn-download" onclick="downloadAllProductImages(2, 'B0HHY3BLNN')">
-                        📥 Download All Images (1)
-                    </button>
-                </div>
-            </div>
-        </div>
-        
-        <div class="product-card candidate" data-title="2026 upgrade portable car fan,clip‑on/hang/stand 3d circulating air car cooler with led display,usb quiet vehicle fan for suv truck rv,ideal summer gift for drivers(built-in battery) b0h8xzyck4" data-type="candidate">
-            <div class="card-top-bar">
-                <span class="status-pill badge-candidate">RESEARCH CANDIDATE</span>
-                <span class="asin-pill">ASIN: B0H8XZYCK4</span>
-            </div>
-
-            <!-- Image Carousel -->
-            <div class="carousel-container" id="carousel-3" data-images="[&quot;https://images-na.ssl-images-amazon.com/images/I/71qwCiouCGL._AC_UL300_SR300,200_.jpg&quot;]" data-index="0">
-                <img src="https://images-na.ssl-images-amazon.com/images/I/71qwCiouCGL._AC_UL300_SR300,200_.jpg" alt="2026 Upgrade Portable Car Fan,Clip‑on/Hang/Stand 3D Circulating Air Car Cooler with LED Display,USB Quiet Vehicle Fan for SUV Truck RV,Ideal Summer Gift for Drivers(built-in battery)" class="carousel-img" id="img-3" loading="lazy" />
-                
-                <div class="carousel-controls" style="display:none;">
-                    <button class="carousel-btn btn-prev" onclick="prevSlide(3)">‹</button>
-                    <span class="carousel-counter" id="counter-3">1 / 1</span>
-                    <button class="carousel-btn btn-next" onclick="nextSlide(3)">›</button>
-                </div>
-            </div>
-
-            <!-- Card Content -->
-            <div class="card-body">
-                <h3 class="product-title" title="2026 Upgrade Portable Car Fan,Clip‑on/Hang/Stand 3D Circulating Air Car Cooler with LED Display,USB Quiet Vehicle Fan for SUV Truck RV,Ideal Summer Gift for Drivers(built-in battery)">2026 Upgrade Portable Car Fan,Clip‑on/Hang/Stand 3D Circulating Air Car Cooler with LED Display,USB Quiet Vehicle Fan for SUV Truck RV,Ideal Summer Gift for Drivers(built-in battery)</h3>
-
-                <!-- BSR and Price Meta -->
-                <div class="bsr-meta-box">
-                    <div class="meta-item">
-                        <span class="meta-label">Amazon Price</span>
-                        <span class="meta-val highlight">Listed on Amazon</span>
-                    </div>
-                    <div class="meta-item">
-                        <span class="meta-label">Amazon Best Sellers Rank</span>
-                        <span class="meta-val bsr-val">Ranked in RV New Releases</span>
-                    </div>
-                </div>
-
-                <!-- Stores Arbitrage Row -->
-                <div class="stores-row">
-                    <a href="https://www.amazon.com/dp/B0H8XZYCK4" target="_blank" class="btn-store btn-amazon">
-                        🛒 View on Amazon ↗
-                    </a>
-                    <a href="#" target="_blank" class="btn-store btn-walmart">
-                        🔵 Walmart (Check Walmart) ↗
-                    </a>
-                </div>
-
-                <!-- Commercial Insights -->
-                <div class="insights-box">
-                    <div class="insight-row">
-                        <strong>🎯 Opportunity / Utility:</strong>
-                        <p>It addresses the universal RV pain point of poor cab ventilation and lack of AC reach in older motorhomes or during boondocking.</p>
-                    </div>
-                    <div class="insight-row">
-                        <strong>⚠️ Risk / Fit Constraint:</strong>
-                        <p>The market is already saturated with cheap, generic USB fans; this product lacks a unique &#x27;wow&#x27; factor to differentiate it from existing Amazon bestsellers.</p>
-                    </div>
-                </div>
-
-                <!-- Action Toolbar: Download All Images -->
-                <div class="card-actions">
-                    <button class="btn-download" onclick="downloadAllProductImages(3, 'B0H8XZYCK4')">
-                        📥 Download All Images (1)
-                    </button>
-                </div>
-            </div>
-        </div>
-        
-        <div class="product-card candidate" data-title="soft start for rv air conditioners reduces startup current by up to 75%, easy diy install, quiet start ip65 waterproof reverse motor protection for home, rvs, vans &amp; generator use b0gyd3tvdv" data-type="candidate">
-            <div class="card-top-bar">
-                <span class="status-pill badge-candidate">RESEARCH CANDIDATE</span>
-                <span class="asin-pill">ASIN: B0GYD3TVDV</span>
-            </div>
-
-            <!-- Image Carousel -->
-            <div class="carousel-container" id="carousel-4" data-images="[&quot;https://images-na.ssl-images-amazon.com/images/I/71w-5mUBP0L._AC_UL300_SR300,200_.jpg&quot;]" data-index="0">
-                <img src="https://images-na.ssl-images-amazon.com/images/I/71w-5mUBP0L._AC_UL300_SR300,200_.jpg" alt="Soft Start for RV Air Conditioners Reduces Startup Current by up to 75%, Easy DIY Install, Quiet Start IP65 Waterproof Reverse Motor Protection for Home, RVs, Vans &amp; Generator Use" class="carousel-img" id="img-4" loading="lazy" />
-                
-                <div class="carousel-controls" style="display:none;">
-                    <button class="carousel-btn btn-prev" onclick="prevSlide(4)">‹</button>
-                    <span class="carousel-counter" id="counter-4">1 / 1</span>
-                    <button class="carousel-btn btn-next" onclick="nextSlide(4)">›</button>
-                </div>
-            </div>
-
-            <!-- Card Content -->
-            <div class="card-body">
-                <h3 class="product-title" title="Soft Start for RV Air Conditioners Reduces Startup Current by up to 75%, Easy DIY Install, Quiet Start IP65 Waterproof Reverse Motor Protection for Home, RVs, Vans &amp; Generator Use">Soft Start for RV Air Conditioners Reduces Startup Current by up to 75%, Easy DIY Install, Quiet Start IP65 Waterproof Reverse Motor Protection for Home, RVs, Vans &amp; Generator Use</h3>
-
-                <!-- BSR and Price Meta -->
-                <div class="bsr-meta-box">
-                    <div class="meta-item">
-                        <span class="meta-label">Amazon Price</span>
-                        <span class="meta-val highlight">Listed on Amazon</span>
-                    </div>
-                    <div class="meta-item">
-                        <span class="meta-label">Amazon Best Sellers Rank</span>
-                        <span class="meta-val bsr-val">Ranked in RV New Releases</span>
-                    </div>
-                </div>
-
-                <!-- Stores Arbitrage Row -->
-                <div class="stores-row">
-                    <a href="https://www.amazon.com/dp/B0GYD3TVDV" target="_blank" class="btn-store btn-amazon">
-                        🛒 View on Amazon ↗
-                    </a>
-                    <a href="#" target="_blank" class="btn-store btn-walmart">
-                        🔵 Walmart (Check Walmart) ↗
-                    </a>
-                </div>
-
-                <!-- Commercial Insights -->
-                <div class="insights-box">
-                    <div class="insight-row">
-                        <strong>🎯 Opportunity / Utility:</strong>
-                        <p>It solves a massive, universal pain point for boondockers and generator users, turning a high-stress electrical issue into a &#x27;set it and forget it&#x27; solution.</p>
-                    </div>
-                    <div class="insight-row">
-                        <strong>⚠️ Risk / Fit Constraint:</strong>
-                        <p>The soft start category is already saturated with well-known, established brands (like Micro-Air), making it difficult for a generic, unverified brand to gain trust.</p>
-                    </div>
-                </div>
-
-                <!-- Action Toolbar: Download All Images -->
-                <div class="card-actions">
-                    <button class="btn-download" onclick="downloadAllProductImages(4, 'B0GYD3TVDV')">
-                        📥 Download All Images (1)
-                    </button>
-                </div>
-            </div>
-        </div>
-        
         </main>
     </div>
 
@@ -792,6 +722,94 @@
             btn.classList.add('active');
             filterCards();
         }
+
+        // 5. Authentication & Client Access Gate
+        const AUTH_USER = "almostafa";
+        const AUTH_HASH = "d7f6bc259795aebde3360364c91c781ac93edc0feaa81dead8d512f40376d726";
+        const AUTH_STORAGE_KEY = "scout_portal_session_token";
+
+        async function computeSHA256(text) {
+            if (window.crypto && window.crypto.subtle) {
+                const msgBuffer = new TextEncoder().encode(text);
+                const hashBuffer = await window.crypto.subtle.digest('SHA-256', msgBuffer);
+                const hashArray = Array.from(new Uint8Array(hashBuffer));
+                return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+            } else {
+                // Fallback direct match for non-crypto contexts
+                return text === "Almostafa311911@z" ? AUTH_HASH : "invalid";
+            }
+        }
+
+        function checkAuth() {
+            const remembered = localStorage.getItem(AUTH_STORAGE_KEY);
+            const session = sessionStorage.getItem(AUTH_STORAGE_KEY);
+
+            if (remembered === AUTH_HASH || session === AUTH_HASH) {
+                showDashboard();
+            } else {
+                showLogin();
+            }
+        }
+
+        function showDashboard() {
+            const overlay = document.getElementById('loginOverlay');
+            const container = document.getElementById('dashboardContainer');
+            if (overlay) overlay.style.display = 'none';
+            if (container) container.style.display = 'block';
+        }
+
+        function showLogin() {
+            const overlay = document.getElementById('loginOverlay');
+            const container = document.getElementById('dashboardContainer');
+            if (overlay) overlay.style.display = 'flex';
+            if (container) container.style.display = 'none';
+            const userInput = document.getElementById('loginUser');
+            if (userInput) userInput.focus();
+        }
+
+        async function attemptLogin() {
+            const userField = document.getElementById('loginUser');
+            const passField = document.getElementById('loginPass');
+            const rememberMe = document.getElementById('rememberMe').checked;
+            const errorElem = document.getElementById('loginError');
+
+            errorElem.style.display = 'none';
+            const userVal = userField.value.trim().toLowerCase();
+            const passVal = passField.value;
+
+            if (!userVal || !passVal) {
+                errorElem.innerText = "Please provide both username and password.";
+                errorElem.style.display = 'block';
+                return;
+            }
+
+            const computedHash = await computeSHA256(passVal);
+
+            if (userVal === AUTH_USER && computedHash === AUTH_HASH) {
+                if (rememberMe) {
+                    localStorage.setItem(AUTH_STORAGE_KEY, AUTH_HASH);
+                } else {
+                    sessionStorage.setItem(AUTH_STORAGE_KEY, AUTH_HASH);
+                }
+                showDashboard();
+            } else {
+                errorElem.innerText = "Incorrect username or password. Access denied.";
+                errorElem.style.display = 'block';
+                passField.value = '';
+                passField.focus();
+            }
+        }
+
+        function logout() {
+            localStorage.removeItem(AUTH_STORAGE_KEY);
+            sessionStorage.removeItem(AUTH_STORAGE_KEY);
+            const passField = document.getElementById('loginPass');
+            if (passField) passField.value = '';
+            showLogin();
+        }
+
+        // Run authentication check on startup
+        checkAuth();
     </script>
 </body>
 </html>
