@@ -81,7 +81,43 @@ class AmazonProductVerifier:
         if match:
             newness_evidence.append(f"Date First Available: {match.group(1).strip()}")
 
-        # 5. Buy Box Availability
+        # 5. Extract Image Gallery (All Available Product Photos)
+        images: List[str] = []
+        seen_imgs = set()
+        # Find high-res image URLs in raw HTML scripts
+        hi_res_matches = re.findall(r'"hiRes"\s*:\s*"(https://[^"]+)"', html)
+        large_matches = re.findall(r'"large"\s*:\s*"(https://[^"]+)"', html)
+        dynamic_matches = re.findall(r'https://m\.media-amazon\.com/images/I/[A-Za-z0-9+_-]+\.(?:jpg|png)', html)
+
+        for img in hi_res_matches + large_matches + dynamic_matches:
+            if any(k in img for k in ["sprite", "icon", "transparent-pixel", "grey-pixel"]):
+                continue
+            clean_img = img.split("._")[0] + ".jpg" if "._" in img else img
+            if clean_img not in seen_imgs:
+                seen_imgs.add(clean_img)
+                images.append(clean_img)
+
+        # Fallback to DOM images
+        if not images:
+            for img_node in soup.select("#altImages img, #imageBlock img, #landingImage"):
+                src = img_node.get("src") or img_node.get("data-old-hires")
+                if src and src.startswith("http") and src not in seen_imgs:
+                    seen_imgs.add(src)
+                    images.append(src)
+
+        # 6. Extract Best Sellers Rank (BSR)
+        bsr_rank: Optional[str] = None
+        bsr_match = re.search(r"Best Sellers Rank\s*[:\n]?\s*#?([0-9,]+)\s*in\s*([^(\n<]+)", html, re.IGNORECASE)
+        if bsr_match:
+            rank_num = bsr_match.group(1).strip()
+            cat = bsr_match.group(2).strip().replace("&amp;", "&")
+            bsr_rank = f"#{rank_num} in {cat[:32]}"
+        else:
+            sec_match = re.search(r"#([0-9,]+)\s*in\s*([A-Za-z0-9 &',-]{4,32})", html)
+            if sec_match:
+                bsr_rank = f"#{sec_match.group(1)} in {sec_match.group(2).strip()}"
+
+        # 7. Buy Box Availability
         has_buy_box = bool(soup.select_one("#add-to-cart-button, #buy-now-button, #buyBoxAccordion"))
 
         # Determine Verification State
@@ -100,6 +136,9 @@ class AmazonProductVerifier:
             asin=asin,
             canonical_url=canonical_url,
             displayed_price=price_val,
+            image_url=images[0] if images else None,
+            images=images,
+            bsr_rank=bsr_rank,
             bullet_points=bullets,
             buy_box_available=has_buy_box,
             newness_evidence=newness_evidence,

@@ -25,6 +25,8 @@ class RawAmazonProduct(BaseModel):
     asin: str
     displayed_price: Optional[float] = None
     image_url: Optional[str] = None
+    images: List[str] = Field(default_factory=list)
+    bsr_rank: Optional[str] = None
     category: str
     subcategory: Optional[str] = None
     source_page_url: str
@@ -39,6 +41,8 @@ class VerifiedAmazonProduct(BaseModel):
     canonical_url: str
     displayed_price: Optional[float] = None
     image_url: Optional[str] = None
+    images: List[str] = Field(default_factory=list)
+    bsr_rank: Optional[str] = None
     bullet_points: List[str] = Field(default_factory=list)
     buy_box_available: bool = True
     newness_evidence: List[str] = Field(default_factory=list)
