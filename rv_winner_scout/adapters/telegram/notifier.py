@@ -67,10 +67,11 @@ class TelegramNotifier:
             return False
 
         sheet_link = (
-            f"https://docs.google.com/spreadsheets/d/{self.settings.spreadsheet_id}/edit#gid=1055207818"
+            f"https://docs.google.com/spreadsheets/d/{self.settings.spreadsheet_id}/edit"
             if self.settings.spreadsheet_id
             else "https://docs.google.com"
         )
+        dashboard_url = "https://almostafa-scout.mostafanabil53550.workers.dev/"
 
         date_str = health.end_time.strftime("%Y-%m-%d")
 
@@ -105,7 +106,7 @@ class TelegramNotifier:
                 "═══════════════════════════",
                 "📊 <b>تم تسجيل كافة التفاصيل في الشيت:</b>",
                 f"👉 <a href='{sheet_link}'>فتح جدول Research Log في Google Sheets</a>",
-                "🌐 <a href='https://cornwall911.github.io/rv-winner-scout/'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
+                f"🌐 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
             ])
             msg = "\n".join(lines)
         else:
@@ -141,7 +142,7 @@ class TelegramNotifier:
                 "",
                 "═══════════════════════════",
                 f"👉 <a href='{sheet_link}'>فتح سجل Research Log في Google Sheets</a>",
-                "🌐 <a href='https://cornwall911.github.io/rv-winner-scout/'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
+                f"🌐 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
             ])
             msg = "\n".join(lines)
 

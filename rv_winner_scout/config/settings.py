@@ -37,8 +37,8 @@ class Settings(BaseSettings):
 
     # Execution and Mode Controls
     # Options: smoke | small | full
-    run_mode: str = Field(default="smoke", alias="RUN_MODE")
-    max_products_per_run: int = Field(default=10, alias="MAX_PRODUCTS_PER_RUN")
+    run_mode: str = Field(default="full", alias="RUN_MODE")
+    max_products_per_run: int = Field(default=250, alias="MAX_PRODUCTS_PER_RUN")
     global_deadline_minutes: int = Field(default=45, alias="GLOBAL_DEADLINE_MINUTES")
 
     # Network, Timing, and Circuit Breaker

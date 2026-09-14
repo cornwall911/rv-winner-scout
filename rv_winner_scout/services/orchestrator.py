@@ -79,13 +79,14 @@ class PipelineOrchestrator:
         # Set product limits according to mode
         if run_mode_val == RunMode.SMOKE.value:
             max_categories = 1
-            max_products = 5
+            max_products = 10
         elif run_mode_val == RunMode.SMALL.value:
-            max_categories = 2
-            max_products = 15
+            max_categories = 4
+            max_products = 30
         else:
-            max_categories = 10
-            max_products = self.settings.max_products_per_run
+            # Full category coverage as mandated by prompt
+            max_categories = None
+            max_products = max(self.settings.max_products_per_run, 250)
 
         logger.info("Starting RV Winner Scout run %s in [%s] mode (max: %d)", run_id, run_mode_val, max_products)
 
@@ -106,7 +107,7 @@ class PipelineOrchestrator:
                     health.set_fatal_failure(f"Category discovery failed: {exc}")
                     return self._conclude_run(0, [], [], health)
 
-                categories_to_crawl = categories[:max_categories]
+                categories_to_crawl = categories if max_categories is None else categories[:max_categories]
 
                 # -------------------------------------------------------------
                 # STAGE 2: Complete crawl
