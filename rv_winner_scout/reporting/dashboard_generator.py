@@ -15,16 +15,17 @@ def generate_executive_dashboard_html(
     near_misses: List[ProductCandidate],
     health: RunHealthReport,
     spreadsheet_id: Optional[str] = None,
+    candidates: Optional[List[ProductCandidate]] = None,
 ) -> str:
     """Renders a clean, eye-friendly, theme-switchable dashboard with image carousel & batch download."""
     run_date = health.end_time.strftime("%Y-%m-%d")
     sheet_url = (
-        f"https://docs.google.com/spreadsheets/d/{spreadsheet_id}/edit#gid=1055207818"
+        f"https://docs.google.com/spreadsheets/d/{spreadsheet_id}/edit"
         if spreadsheet_id
         else "https://docs.google.com"
     )
 
-    all_candidates = winners + near_misses
+    all_candidates = winners + near_misses + (candidates or [])
     cards_html = ""
 
     for idx, cand in enumerate(all_candidates, 1):
@@ -971,6 +972,7 @@ def save_dashboard(
     health: RunHealthReport,
     data_dir: str = "data",
     spreadsheet_id: Optional[str] = None,
+    candidates: Optional[List[ProductCandidate]] = None,
 ) -> str:
     """Generates and writes dashboard to reports directory."""
     html_str = generate_executive_dashboard_html(
@@ -979,6 +981,7 @@ def save_dashboard(
         near_misses=near_misses,
         health=health,
         spreadsheet_id=spreadsheet_id,
+        candidates=candidates,
     )
     reports_dir = os.path.join(data_dir, "reports")
     os.makedirs(reports_dir, exist_ok=True)
