@@ -698,12 +698,12 @@
 
             <div class="kpi-box">
                 <div class="kpi-label">Verified Amazon Pages</div>
-                <div class="kpi-num">0</div>
+                <div class="kpi-num">1</div>
             </div>
 
             <div class="kpi-box">
                 <div class="kpi-label">Filtered / Sub-Threshold</div>
-                <div class="kpi-num">10</div>
+                <div class="kpi-num">9</div>
             </div>
         </section>
 
@@ -723,24 +723,79 @@
             <input type="text" id="searchInput" class="search-input" placeholder="Search by product title or ASIN..." onkeyup="filterCards()" />
 
             <div class="filter-tabs">
-                <button class="filter-btn active" onclick="setFilter('all', this)">All (0)</button>
+                <button class="filter-btn active" onclick="setFilter('all', this)">All (1)</button>
                 <button class="filter-btn" onclick="setFilter('winner', this)">Winners (0)</button>
-                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates (0)</button>
+                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates (1)</button>
             </div>
         </section>
 
         <!-- Product Cards Grid -->
         <main class="cards-grid" id="cardsGrid">
             
-        <div style="grid-column: 1 / -1; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 16px; padding: 48px 24px; text-align: center; box-shadow: var(--card-shadow);">
-            <div style="font-size: 2.8rem; margin-bottom: 14px;">📡</div>
-            <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--text-primary); margin-bottom: 8px;">Scout Pipeline Initialized & Ready</h3>
-            <p style="color: var(--text-secondary); max-width: 540px; margin: 0 auto; font-size: 0.92rem; line-height: 1.6;">
-                The autonomous research engine is configured and waiting for the next scout run. 
-                All discovered RV New Releases will be audited against the 18 pain points, verified with live pricing & Amazon BSR, and logged directly here.
-            </p>
+        <div class="product-card candidate" data-title="3313107.015 rv ac condenser fan blade for dometic b0hg13d3mx" data-type="candidate">
+            <div class="card-top-bar">
+                <span class="status-pill badge-candidate">RESEARCH CANDIDATE</span>
+                <span class="asin-pill">ASIN: B0HG13D3MX</span>
+            </div>
+
+            <!-- Image Carousel -->
+            <div class="carousel-container" id="carousel-1" data-images="[&quot;https://m.media-amazon.com/images/I/61qlPVXhShL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71byvo8ZgZL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81PMohku4kL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81P2k-ICDaL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71jf0FuKlTL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71x4AcQRftL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/31OoW0A7+TL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/512nPRiAQYL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51gJ4iYk-QL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51vCTMd1pGL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51BxBQJMrvL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/519qJoHxwDL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51IsLsTLibL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41Rl1pMhUWL.jpg&quot;]" data-index="0">
+                <img src="https://m.media-amazon.com/images/I/61qlPVXhShL.jpg" alt="3313107.015 RV AC Condenser Fan Blade for Dometic" class="carousel-img" id="img-1" loading="lazy" referrerpolicy="no-referrer" onerror="handleImgError(this)" />
+                
+                <div class="carousel-controls" >
+                    <button class="carousel-btn btn-prev" onclick="prevSlide(1)">‹</button>
+                    <span class="carousel-counter" id="counter-1">1 / 14</span>
+                    <button class="carousel-btn btn-next" onclick="nextSlide(1)">›</button>
+                </div>
+            </div>
+
+            <!-- Card Content -->
+            <div class="card-body">
+                <h3 class="product-title" title="3313107.015 RV AC Condenser Fan Blade for Dometic">3313107.015 RV AC Condenser Fan Blade for Dometic</h3>
+
+                <!-- BSR and Price Meta -->
+                <div class="bsr-meta-box">
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Price</span>
+                        <span class="meta-val highlight">$16.50</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Best Sellers Rank</span>
+                        <span class="meta-val bsr-val">Ranked in RV New Releases</span>
+                    </div>
+                </div>
+
+                <!-- Stores Arbitrage Row -->
+                <div class="stores-row">
+                    <a href="https://www.amazon.com/dp/B0HG13D3MX" target="_blank" rel="noopener noreferrer" class="btn-store btn-amazon">
+                        🛒 View on Amazon ↗
+                    </a>
+                    <a href="https://www.walmart.com/search?q=3313107.015+RV+AC+Condenser+Fan+Blade+for+Dometic" target="_blank" rel="noopener noreferrer" class="btn-store btn-walmart">
+                        🔵 Walmart (Check Walmart) ↗
+                    </a>
+                </div>
+
+                <!-- Commercial Insights -->
+                <div class="insights-box">
+                    <div class="insight-row">
+                        <strong>🎯 Opportunity / Utility:</strong>
+                        <p>It targets a high-pain, high-cost maintenance issue with a low-cost, DIY-friendly solution that saves RVers hundreds in labor fees.</p>
+                    </div>
+                    <div class="insight-row">
+                        <strong>⚠️ Risk / Fit Constraint:</strong>
+                        <p>It is a commodity replacement part, not a &#x27;discovery&#x27; product; most RVers will only search for this when their AC is already broken, limiting impulse interest.</p>
+                    </div>
+                </div>
+
+                <!-- Action Toolbar: Download All Images -->
+                <div class="card-actions">
+                    <button class="btn-download" onclick="downloadAllProductImages(1, 'B0HG13D3MX')">
+                        📥 Download All Images (14)
+                    </button>
+                </div>
+            </div>
         </div>
-    
+        
         </main>
     </div>
 
