@@ -144,8 +144,14 @@ class GoogleSheetsAdapter(GoogleSheetsPort):
 
         try:
             worksheet.freeze(rows=1)
-        except Exception:
-            pass
+            worksheet.format("A1:AD1", {
+                "backgroundColor": {"red": 0.08, "green": 0.12, "blue": 0.20},
+                "textFormat": {"foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}, "bold": True, "fontSize": 10},
+                "horizontalAlignment": "CENTER",
+                "verticalAlignment": "MIDDLE",
+            })
+        except Exception as fmt_err:
+            logger.debug("Could not format header row: %s", fmt_err)
 
         existing_rows = worksheet.get_all_values()
         rows_to_insert: List[List[Any]] = []

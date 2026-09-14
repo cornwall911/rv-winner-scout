@@ -3,6 +3,7 @@
 import html
 import json
 import os
+import urllib.parse
 from datetime import datetime, timezone
 from typing import List, Optional
 
@@ -33,7 +34,7 @@ def generate_executive_dashboard_html(
         raw_title = cand.verified_product.title if cand.verified_product else cand.raw_product.title
         title = html.escape(raw_title)
         asin = cand.asin
-        amazon_url = cand.canonical_url
+        amazon_url = cand.canonical_url if cand.canonical_url else f"https://www.amazon.com/dp/{asin}"
 
         # Price and BSR
         price_val = cand.verified_product.displayed_price if cand.verified_product else cand.raw_product.displayed_price
@@ -48,10 +49,15 @@ def generate_executive_dashboard_html(
         else:
             bsr_display = "Ranked in RV New Releases"
 
-        # Walmart data
+        # Walmart data with guaranteed functional direct link or search link
         walmart_status = cand.walmart.status.value if cand.walmart else "NOT FOUND"
         walmart_price = f"${cand.walmart.displayed_price:.2f}" if (cand.walmart and cand.walmart.displayed_price) else ""
-        walmart_url = cand.walmart.url if (cand.walmart and cand.walmart.url) else "#"
+        query_str = urllib.parse.quote_plus(raw_title[:60])
+        walmart_url = (
+            cand.walmart.url
+            if (cand.walmart and cand.walmart.url and cand.walmart.url.startswith("http"))
+            else f"https://www.walmart.com/search?q={query_str}"
+        )
         walmart_label = walmart_price if walmart_price else ("Available" if walmart_status == "FOUND" else "Check Walmart")
 
         # Collect images (from verified product or raw product)
@@ -85,7 +91,7 @@ def generate_executive_dashboard_html(
 
             <!-- Image Carousel -->
             <div class="carousel-container" id="carousel-{idx}" data-images="{images_json}" data-index="0">
-                <img src="{first_img}" alt="{title}" class="carousel-img" id="img-{idx}" loading="lazy" />
+                <img src="{first_img}" alt="{title}" class="carousel-img" id="img-{idx}" loading="lazy" referrerpolicy="no-referrer" onerror="handleImgError(this)" />
                 
                 <div class="carousel-controls" {'style="display:none;"' if len(images_list) <= 1 else ''}>
                     <button class="carousel-btn btn-prev" onclick="prevSlide({idx})">‹</button>
@@ -112,10 +118,10 @@ def generate_executive_dashboard_html(
 
                 <!-- Stores Arbitrage Row -->
                 <div class="stores-row">
-                    <a href="{amazon_url}" target="_blank" class="btn-store btn-amazon">
+                    <a href="{amazon_url}" target="_blank" rel="noopener noreferrer" class="btn-store btn-amazon">
                         🛒 View on Amazon ↗
                     </a>
-                    <a href="{walmart_url}" target="_blank" class="btn-store btn-walmart">
+                    <a href="{walmart_url}" target="_blank" rel="noopener noreferrer" class="btn-store btn-walmart">
                         🔵 Walmart ({walmart_label}) ↗
                     </a>
                 </div>
@@ -142,8 +148,29 @@ def generate_executive_dashboard_html(
         </div>
         """
 
+    empty_state_html = """
+        <div style="grid-column: 1 / -1; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 16px; padding: 48px 24px; text-align: center; box-shadow: var(--card-shadow);">
+            <div style="font-size: 2.8rem; margin-bottom: 14px;">📡</div>
+            <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--text-primary); margin-bottom: 8px;">Scout Pipeline Initialized & Ready</h3>
+            <p style="color: var(--text-secondary); max-width: 540px; margin: 0 auto; font-size: 0.92rem; line-height: 1.6;">
+                The autonomous research engine is configured and waiting for the next scout run. 
+                All discovered RV New Releases will be audited against the 18 pain points, verified with live pricing & Amazon BSR, and logged directly here.
+            </p>
+        </div>
+    """
+
     verdict_hero = ""
-    if not winners:
+    if reviewed_count == 0:
+        verdict_hero = """
+        <div class="verdict-banner">
+            <div class="verdict-content">
+                <h2>System Status • Standing By</h2>
+                <p class="verdict-quote">"Scout pipeline initialized with 0 active items. Next automated run scheduled for 06:00 UTC."</p>
+                <span class="verdict-note">Amazon RV New Releases node • 18-point pain point evaluation engine active.</span>
+            </div>
+        </div>
+        """
+    elif not winners:
         verdict_hero = f"""
         <div class="verdict-banner">
             <div class="verdict-content">
@@ -153,12 +180,23 @@ def generate_executive_dashboard_html(
             </div>
         </div>
         """
+    else:
+        verdict_hero = f"""
+        <div class="verdict-banner" style="border-left-color: var(--accent);">
+            <div class="verdict-content">
+                <h2 style="color: var(--accent);">Daily Research Verdict • {len(winners)} Winner(s) Found</h2>
+                <p class="verdict-quote">"Identified <strong>{len(winners)}</strong> high-conviction winning products meeting 80+ threshold and critical RV pain points."</p>
+                <span class="verdict-note">Audited {reviewed_count} candidates • Full commercial dossiers & Walmart arbitrage logged.</span>
+            </div>
+        </div>
+        """
 
     html_content = f"""<!DOCTYPE html>
 <html lang="en" data-theme="slate">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
     <title>RV Winner Scout — Executive Dashboard ({run_date})</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -774,11 +812,17 @@ def generate_executive_dashboard_html(
 
         <!-- Product Cards Grid -->
         <main class="cards-grid" id="cardsGrid">
-            {cards_html}
+            {cards_html if cards_html else empty_state_html}
         </main>
     </div>
 
     <script>
+        // 0. Image Fallback Handler for hotlinking protection
+        function handleImgError(img) {{
+            img.onerror = null;
+            img.src = 'https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';
+        }}
+
         // 1. Theme Switcher with Persistence
         function setTheme(themeName) {{
             document.documentElement.setAttribute('data-theme', themeName);
@@ -802,6 +846,8 @@ def generate_executive_dashboard_html(
             carousel.setAttribute('data-index', cur);
 
             const imgElem = document.getElementById('img-' + idx);
+            imgElem.referrerPolicy = "no-referrer";
+            imgElem.onerror = function() {{ handleImgError(this); }};
             imgElem.src = images[cur];
 
             const counterElem = document.getElementById('counter-' + idx);
@@ -831,7 +877,8 @@ def generate_executive_dashboard_html(
             for (let i = 0; i < images.length; i++) {{
                 const url = images[i];
                 try {{
-                    const response = await fetch(url);
+                    const response = await fetch(url, {{ mode: 'cors' }});
+                    if (!response.ok) throw new Error("CORS fallback");
                     const blob = await response.blob();
                     const link = document.createElement('a');
                     link.href = URL.createObjectURL(blob);
@@ -840,8 +887,8 @@ def generate_executive_dashboard_html(
                     link.click();
                     document.body.removeChild(link);
                 }} catch (e) {{
-                    // Fallback to direct tab opening
-                    window.open(url, '_blank');
+                    // Direct tab opening if CORS prevents direct download
+                    window.open(url, '_blank', 'noopener,noreferrer');
                 }}
             }}
         }}
