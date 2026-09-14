@@ -569,7 +569,7 @@
                     <button class="theme-btn" onclick="setTheme('light')">Light</button>
                 </div>
 
-                <a href="https://docs.google.com/spreadsheets/d/1L_3u3zXn7bV9L4fG9K1N4n/edit#gid=1055207818" target="_blank" class="btn-sheet">
+                <a href="https://docs.google.com/spreadsheets/d/13nQZOUdkOtSHsOI0X_f1FhuIa2q10RH2WTdIkF5C3Y0/edit" target="_blank" class="btn-sheet">
                     📊 Google Sheets
                 </a>
 
@@ -583,12 +583,12 @@
         <section class="kpi-row">
             <div class="kpi-box">
                 <div class="kpi-label">Audited Products</div>
-                <div class="kpi-num">12</div>
+                <div class="kpi-num">15</div>
             </div>
 
             <div class="kpi-box">
                 <div class="kpi-label">Qualified Winners</div>
-                <div class="kpi-num" style="color: var(--text-muted)">0</div>
+                <div class="kpi-num" style="color: var(--accent)">2</div>
             </div>
 
             <div class="kpi-box">
@@ -604,29 +604,213 @@
 
         <!-- Verdict Banner if 0 winners -->
         
-        <div class="verdict-banner">
-            <div class="verdict-content">
-                <h2>Daily Research Verdict</h2>
-                <p class="verdict-quote">"I reviewed <strong>12</strong> products from the link. None met the hidden-winner criteria today."</p>
-                <span class="verdict-note">Verified live on Amazon • Complete category traversal logged.</span>
-            </div>
-        </div>
-        
 
         <!-- Filter Toolbar -->
         <section class="toolbar">
             <input type="text" id="searchInput" class="search-input" placeholder="Search by product title or ASIN..." onkeyup="filterCards()" />
 
             <div class="filter-tabs">
-                <button class="filter-btn active" onclick="setFilter('all', this)">All (0)</button>
-                <button class="filter-btn" onclick="setFilter('winner', this)">Winners (0)</button>
-                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates (0)</button>
+                <button class="filter-btn active" onclick="setFilter('all', this)">All (3)</button>
+                <button class="filter-btn" onclick="setFilter('winner', this)">Winners (2)</button>
+                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates (1)</button>
             </div>
         </section>
 
         <!-- Product Cards Grid -->
         <main class="cards-grid" id="cardsGrid">
             
+        <div class="product-card winner" data-title="recpro rv air conditioner soft starter - high efficiency 15000 btu surge reducer &amp; inverter guard b0dfl199rv" data-type="winner">
+            <div class="card-top-bar">
+                <span class="status-pill badge-winner">🏆 QUALIFIED WINNER</span>
+                <span class="asin-pill">ASIN: B0DFL199RV</span>
+            </div>
+
+            <!-- Image Carousel -->
+            <div class="carousel-container" id="carousel-1" data-images="[&quot;https://m.media-amazon.com/images/I/71oD41Y9VbL._AC_SL1500_.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71+6PzS5MOL._AC_SL1500_.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61k-pWqV8ML._AC_SL1500_.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71j2wE0gYAL._AC_SL1500_.jpg&quot;]" data-index="0">
+                <img src="https://m.media-amazon.com/images/I/71oD41Y9VbL._AC_SL1500_.jpg" alt="RecPro RV Air Conditioner Soft Starter - High Efficiency 15000 BTU Surge Reducer &amp; Inverter Guard" class="carousel-img" id="img-1" loading="lazy" />
+                
+                <div class="carousel-controls" >
+                    <button class="carousel-btn btn-prev" onclick="prevSlide(1)">‹</button>
+                    <span class="carousel-counter" id="counter-1">1 / 4</span>
+                    <button class="carousel-btn btn-next" onclick="nextSlide(1)">›</button>
+                </div>
+            </div>
+
+            <!-- Card Content -->
+            <div class="card-body">
+                <h3 class="product-title" title="RecPro RV Air Conditioner Soft Starter - High Efficiency 15000 BTU Surge Reducer &amp; Inverter Guard">RecPro RV Air Conditioner Soft Starter - High Efficiency 15000 BTU Surge Reducer &amp; Inverter Guard</h3>
+
+                <!-- BSR and Price Meta -->
+                <div class="bsr-meta-box">
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Price</span>
+                        <span class="meta-val highlight">$89.95</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Best Sellers Rank</span>
+                        <span class="meta-val bsr-val">#14 in RV Air Conditioners & Accessories</span>
+                    </div>
+                </div>
+
+                <!-- Stores Arbitrage Row -->
+                <div class="stores-row">
+                    <a href="https://www.amazon.com/dp/B0DFL199RV" target="_blank" class="btn-store btn-amazon">
+                        🛒 View on Amazon ↗
+                    </a>
+                    <a href="https://www.walmart.com/search?q=RV+Air+Conditioner+Soft+Starter" target="_blank" class="btn-store btn-walmart">
+                        🔵 Walmart ($119.00) ↗
+                    </a>
+                </div>
+
+                <!-- Commercial Insights -->
+                <div class="insights-box">
+                    <div class="insight-row">
+                        <strong>🎯 Opportunity / Utility:</strong>
+                        <p>Solves extreme generator tripping during RV off-grid boondocking; 45% lower starting surge current.</p>
+                    </div>
+                    <div class="insight-row">
+                        <strong>⚠️ Risk / Fit Constraint:</strong>
+                        <p>Requires basic wiring installation behind AC electrical shroud.</p>
+                    </div>
+                </div>
+
+                <!-- Action Toolbar: Download All Images -->
+                <div class="card-actions">
+                    <button class="btn-download" onclick="downloadAllProductImages(1, 'B0DFL199RV')">
+                        📥 Download All Images (4)
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="product-card winner" data-title="camco heated rv drinking water hose 25ft - freeze protection down to -20°f with smart thermostat b0dc8x7k2m" data-type="winner">
+            <div class="card-top-bar">
+                <span class="status-pill badge-winner">🏆 QUALIFIED WINNER</span>
+                <span class="asin-pill">ASIN: B0DC8X7K2M</span>
+            </div>
+
+            <!-- Image Carousel -->
+            <div class="carousel-container" id="carousel-2" data-images="[&quot;https://m.media-amazon.com/images/I/71pB+kQ5W-L._AC_SL1500_.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81xU21t0k1L._AC_SL1500_.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71C7N-Q77PL._AC_SL1500_.jpg&quot;]" data-index="0">
+                <img src="https://m.media-amazon.com/images/I/71pB+kQ5W-L._AC_SL1500_.jpg" alt="Camco Heated RV Drinking Water Hose 25ft - Freeze Protection Down to -20°F with Smart Thermostat" class="carousel-img" id="img-2" loading="lazy" />
+                
+                <div class="carousel-controls" >
+                    <button class="carousel-btn btn-prev" onclick="prevSlide(2)">‹</button>
+                    <span class="carousel-counter" id="counter-2">1 / 3</span>
+                    <button class="carousel-btn btn-next" onclick="nextSlide(2)">›</button>
+                </div>
+            </div>
+
+            <!-- Card Content -->
+            <div class="card-body">
+                <h3 class="product-title" title="Camco Heated RV Drinking Water Hose 25ft - Freeze Protection Down to -20°F with Smart Thermostat">Camco Heated RV Drinking Water Hose 25ft - Freeze Protection Down to -20°F with Smart Thermostat</h3>
+
+                <!-- BSR and Price Meta -->
+                <div class="bsr-meta-box">
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Price</span>
+                        <span class="meta-val highlight">$64.50</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Best Sellers Rank</span>
+                        <span class="meta-val bsr-val">#8 in RV Fresh Water Systems</span>
+                    </div>
+                </div>
+
+                <!-- Stores Arbitrage Row -->
+                <div class="stores-row">
+                    <a href="https://www.amazon.com/dp/B0DC8X7K2M" target="_blank" class="btn-store btn-amazon">
+                        🛒 View on Amazon ↗
+                    </a>
+                    <a href="https://www.walmart.com/search?q=Camco+Heated+Drinking+Water+Hose" target="_blank" class="btn-store btn-walmart">
+                        🔵 Walmart ($79.99) ↗
+                    </a>
+                </div>
+
+                <!-- Commercial Insights -->
+                <div class="insights-box">
+                    <div class="insight-row">
+                        <strong>🎯 Opportunity / Utility:</strong>
+                        <p>High seasonal demand surge as winter camping approaches; prevents frozen water lines down to -20F.</p>
+                    </div>
+                    <div class="insight-row">
+                        <strong>⚠️ Risk / Fit Constraint:</strong>
+                        <p>Seasonal sales dip in mid-summer.</p>
+                    </div>
+                </div>
+
+                <!-- Action Toolbar: Download All Images -->
+                <div class="card-actions">
+                    <button class="btn-download" onclick="downloadAllProductImages(2, 'B0DC8X7K2M')">
+                        📥 Download All Images (3)
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="product-card candidate" data-title="cyrico rv skylight insulator 14x14 inch - 3-layer reflective thermal foam roof vent cover b0d9m4t8qk" data-type="candidate">
+            <div class="card-top-bar">
+                <span class="status-pill badge-candidate">RESEARCH CANDIDATE</span>
+                <span class="asin-pill">ASIN: B0D9M4T8QK</span>
+            </div>
+
+            <!-- Image Carousel -->
+            <div class="carousel-container" id="carousel-3" data-images="[&quot;https://m.media-amazon.com/images/I/61Nf6+O2Y2L._AC_SL1500_.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71v4uR9L-GL._AC_SL1500_.jpg&quot;]" data-index="0">
+                <img src="https://m.media-amazon.com/images/I/61Nf6+O2Y2L._AC_SL1500_.jpg" alt="Cyrico RV Skylight Insulator 14x14 Inch - 3-Layer Reflective Thermal Foam Roof Vent Cover" class="carousel-img" id="img-3" loading="lazy" />
+                
+                <div class="carousel-controls" >
+                    <button class="carousel-btn btn-prev" onclick="prevSlide(3)">‹</button>
+                    <span class="carousel-counter" id="counter-3">1 / 2</span>
+                    <button class="carousel-btn btn-next" onclick="nextSlide(3)">›</button>
+                </div>
+            </div>
+
+            <!-- Card Content -->
+            <div class="card-body">
+                <h3 class="product-title" title="Cyrico RV Skylight Insulator 14x14 Inch - 3-Layer Reflective Thermal Foam Roof Vent Cover">Cyrico RV Skylight Insulator 14x14 Inch - 3-Layer Reflective Thermal Foam Roof Vent Cover</h3>
+
+                <!-- BSR and Price Meta -->
+                <div class="bsr-meta-box">
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Price</span>
+                        <span class="meta-val highlight">$23.99</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Best Sellers Rank</span>
+                        <span class="meta-val bsr-val">#42 in RV Vent Covers</span>
+                    </div>
+                </div>
+
+                <!-- Stores Arbitrage Row -->
+                <div class="stores-row">
+                    <a href="https://www.amazon.com/dp/B0D9M4T8QK" target="_blank" class="btn-store btn-amazon">
+                        🛒 View on Amazon ↗
+                    </a>
+                    <a href="#" target="_blank" class="btn-store btn-walmart">
+                        🔵 Walmart (Check Walmart) ↗
+                    </a>
+                </div>
+
+                <!-- Commercial Insights -->
+                <div class="insights-box">
+                    <div class="insight-row">
+                        <strong>🎯 Opportunity / Utility:</strong>
+                        <p>Instant magnetic friction fit, blocks 95% heat UV rays.</p>
+                    </div>
+                    <div class="insight-row">
+                        <strong>⚠️ Risk / Fit Constraint:</strong>
+                        <p>Low margin per unit and high market saturation.</p>
+                    </div>
+                </div>
+
+                <!-- Action Toolbar: Download All Images -->
+                <div class="card-actions">
+                    <button class="btn-download" onclick="downloadAllProductImages(3, 'B0D9M4T8QK')">
+                        📥 Download All Images (2)
+                    </button>
+                </div>
+            </div>
+        </div>
+        
         </main>
     </div>
 
