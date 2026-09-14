@@ -103,8 +103,9 @@ class TelegramNotifier:
 
             lines.extend([
                 "═══════════════════════════",
-                "📊 <b>تم تسجيل كافة التفاصيل (29 عموداً) في الشيت:</b>",
+                "📊 <b>تم تسجيل كافة التفاصيل في الشيت:</b>",
                 f"👉 <a href='{sheet_link}'>فتح جدول Research Log في Google Sheets</a>",
+                "🌐 <a href='https://cornwall911.github.io/rv-winner-scout/'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
             ])
             msg = "\n".join(lines)
         else:
@@ -140,6 +141,7 @@ class TelegramNotifier:
                 "",
                 "═══════════════════════════",
                 f"👉 <a href='{sheet_link}'>فتح سجل Research Log في Google Sheets</a>",
+                "🌐 <a href='https://cornwall911.github.io/rv-winner-scout/'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
             ])
             msg = "\n".join(lines)
 

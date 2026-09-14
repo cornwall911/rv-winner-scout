@@ -46,6 +46,7 @@ SHEET_HEADERS = [
     "Not-Verified Notes",
     "Exception Label",
     "Run ID",
+    "Product Image",
 ]
 
 SCOPES = [
@@ -247,6 +248,7 @@ class GoogleSheetsAdapter(GoogleSheetsPort):
                     verification_notes,
                     exception_label,
                     run_id,
+                    f'=IMAGE("{w.raw_product.image_url}")' if (w.raw_product and w.raw_product.image_url) else "",
                 ]
                 rows_to_insert.append(row)
 

@@ -58,6 +58,9 @@ def generate_executive_dashboard_html(
 
             score_color = "#10b981" if score >= 80 else "#f59e0b"
 
+            img_url = w.raw_product.image_url if w.raw_product and w.raw_product.image_url else ""
+            img_html = f'<div class="product-image-container"><img src="{img_url}" alt="{title}" class="product-img" /></div>' if img_url else ""
+
             winners_html += f"""
             <div class="winner-card">
                 <div class="winner-header">
@@ -67,6 +70,8 @@ def generate_executive_dashboard_html(
                         <span class="score-label">/ 100</span>
                     </div>
                 </div>
+
+                {img_html}
 
                 <h3 class="product-title">{title}</h3>
                 <div class="meta-row">
@@ -272,6 +277,20 @@ def generate_executive_dashboard_html(
             box-shadow: 0 10px 30px rgba(0,0,0,0.3);
         }}
         .winner-header {{ display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }}
+        .product-image-container {{
+            text-align: center;
+            margin: 16px 0;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 12px;
+            padding: 12px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }}
+        .product-img {{
+            max-height: 220px;
+            max-width: 100%;
+            border-radius: 8px;
+            object-fit: contain;
+        }}
         .badge-rank {{
             background: linear-gradient(135deg, #10b981, #059669);
             color: #fff;
@@ -482,9 +501,13 @@ def save_dashboard(
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(html_str)
 
-    # Also maintain latest_dashboard.html for easy browser opening / GitHub Pages
+    # Also maintain latest_dashboard.html and index.html for GitHub Pages
     latest_path = os.path.join(reports_dir, "latest_dashboard.html")
     with open(latest_path, "w", encoding="utf-8") as f:
+        f.write(html_str)
+
+    index_path = os.path.join(reports_dir, "index.html")
+    with open(index_path, "w", encoding="utf-8") as f:
         f.write(html_str)
 
     return filepath
