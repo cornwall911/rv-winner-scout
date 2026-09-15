@@ -95,13 +95,12 @@ class PipelineOrchestrator:
             subprocess.run(["git", "add", "public/index.html", "index.html", "data/checkpoint.db"], capture_output=True, timeout=10)
             subprocess.run(["git", "commit", "-m", f"Auto-update live dashboard & state: {reason}"], capture_output=True, timeout=10)
 
-            if os.environ.get("GITHUB_ACTIONS") == "true":
-                subprocess.run(["git", "pull", "--rebase", "origin", "main"], capture_output=True, timeout=15)
-                push_res = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True, timeout=20)
-                if push_res.returncode == 0:
-                    logger.info("Successfully pushed live dashboard & state update to GitHub: %s", reason)
-                else:
-                    logger.warning("Git push returned code %d: %s", push_res.returncode, push_res.stderr)
+            subprocess.run(["git", "pull", "--rebase", "origin", "main"], capture_output=True, timeout=25)
+            push_res = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True, timeout=30)
+            if push_res.returncode == 0:
+                logger.info("Successfully pushed live dashboard & state update to GitHub: %s", reason)
+            else:
+                logger.warning("Git push returned code %d: %s", push_res.returncode, push_res.stderr)
         except Exception as exc:
             logger.debug("Git auto-push skipped or failed: %s", exc)
 

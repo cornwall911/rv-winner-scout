@@ -1453,13 +1453,15 @@ def generate_executive_dashboard_html(
         // 7. Manual Live Refresh & Background Sync Engine
         let isSyncing = false;
 
-        async function refreshLiveDashboard() {{
+        async function refreshLiveDashboard(isSilent = false) {{
             if (isSyncing) return;
             isSyncing = true;
             const icon = document.getElementById('refreshIcon');
             const text = document.getElementById('refreshText');
-            if (icon) icon.classList.add('spinning');
-            if (text) text.innerText = 'Checking...';
+            if (!isSilent) {{
+                if (icon) icon.classList.add('spinning');
+                if (text) text.innerText = 'Checking...';
+            }}
 
             try {{
                 const url = window.location.pathname + '?_v=' + Date.now();
@@ -1508,13 +1510,15 @@ def generate_executive_dashboard_html(
 
                     if (newCardsCount > curCardsCount) {{
                         showToast('🎉 ' + (newCardsCount - curCardsCount) + ' new products added!');
-                    }} else {{
+                    }} else if (!isSilent) {{
                         showToast('✅ Feed is up to date (' + curCardsCount + ' items)');
                     }}
                 }}
             }} catch (err) {{
                 console.warn('Refresh error:', err);
-                window.location.reload(true);
+                if (!isSilent) {{
+                    window.location.reload(true);
+                }}
             }} finally {{
                 if (icon) icon.classList.remove('spinning');
                 if (text) text.innerText = 'Refresh Feed';
@@ -1523,8 +1527,13 @@ def generate_executive_dashboard_html(
         }}
 
         function manualRefresh() {{
-            refreshLiveDashboard();
+            refreshLiveDashboard(false);
         }}
+
+        // Background auto-refresh every 45 seconds so newly scraped products appear live without reload!
+        setInterval(() => {{
+            refreshLiveDashboard(true);
+        }}, 45000);
 
         function showToast(msg) {{
             let toast = document.getElementById('scoutToast');
