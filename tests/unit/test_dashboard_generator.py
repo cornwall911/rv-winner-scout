@@ -1,4 +1,4 @@
-﻿from datetime import datetime, timezone
+from datetime import datetime, timezone
 from rv_winner_scout.domain.enums import AudienceBreadth, TrafficBenchmark, TrafficConfidence
 from rv_winner_scout.domain.models import (
     ProductCandidate,
@@ -152,3 +152,102 @@ def test_dashboard_generator_should_be_tested_tier() -> None:
     assert "Visual Hook (0-3s):" in html_out
     assert "Never struggle with unlevel camp sites" in html_out
     assert "Running an RV rooftop AC off a tiny 2000W generator" in html_out
+
+
+def test_dashboard_generator_delta_indicators() -> None:
+    health = RunHealthReport(
+        run_id="test-delta-run",
+        start_time=datetime.now(timezone.utc),
+        end_time=datetime.now(timezone.utc),
+        products_discovered=2,
+        products_verified=2,
+        products_rejected=0,
+        products_changed=2,
+        products_improved=1,
+        products_declined=1,
+    )
+
+    raw1 = RawAmazonProduct(
+        title="Upgraded RV Stabilizer Jack",
+        price=89.99,
+        displayed_price=89.99,
+        asin="B0DELTA001",
+        url="https://amazon.com/dp/B0DELTA001",
+        category="RV Parts",
+        source_page_url="https://amazon.com",
+    )
+    improved_candidate = ProductCandidate(
+        canonical_url="https://amazon.com/dp/B0DELTA001",
+        asin="B0DELTA001",
+        normalized_title="Upgraded RV Stabilizer Jack",
+        raw_product=raw1,
+        scores=ScoreBreakdown(
+            facebook_discovery_potential=18.0,
+            rv_facebook_exposure=15.0,
+            rv_relevance=15.0,
+            novelty_newness=14.0,
+            problem_solving_power=9.0,
+            visual_wow=8.0,
+            space_convenience=4.0,
+            impulse_click_potential=4.0,
+            rv_audience_breadth=4.0,
+            total_score=87.0,
+            is_winner=True,
+            is_should_test=False,
+        ),
+        previous_score=82.0,
+        score_delta=5.0,
+        change_type="improved",
+    )
+
+    raw2 = RawAmazonProduct(
+        title="RV Sewer Hose Support",
+        price=29.99,
+        displayed_price=29.99,
+        asin="B0DELTA002",
+        url="https://amazon.com/dp/B0DELTA002",
+        category="RV Parts",
+        source_page_url="https://amazon.com",
+    )
+    declined_candidate = ProductCandidate(
+        canonical_url="https://amazon.com/dp/B0DELTA002",
+        asin="B0DELTA002",
+        normalized_title="RV Sewer Hose Support",
+        raw_product=raw2,
+        scores=ScoreBreakdown(
+            facebook_discovery_potential=12.0,
+            rv_facebook_exposure=10.0,
+            rv_relevance=12.0,
+            novelty_newness=10.0,
+            problem_solving_power=7.0,
+            visual_wow=5.0,
+            space_convenience=3.0,
+            impulse_click_potential=3.0,
+            rv_audience_breadth=3.0,
+            total_score=65.0,
+            is_winner=False,
+            is_should_test=False,
+        ),
+        previous_score=72.0,
+        score_delta=-7.0,
+        change_type="declined",
+    )
+
+    html_out = generate_executive_dashboard_html(
+        reviewed_count=2,
+        winners=[improved_candidate],
+        near_misses=[declined_candidate],
+        health=health,
+        candidates=[improved_candidate, declined_candidate],
+        should_be_tested=[],
+    )
+
+    assert "Changes Detected" in html_out
+    assert "1 Improved • 📉 1 Declined" in html_out
+    assert "delta-improved" in html_out
+    assert "+5.0" in html_out
+    assert "delta-declined" in html_out
+    assert "-7.0" in html_out
+    assert 'data-changed="improved"' in html_out
+    assert 'data-changed="declined"' in html_out
+    assert "Changed (2)" in html_out

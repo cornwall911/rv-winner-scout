@@ -142,15 +142,10 @@ class PipelineOrchestrator:
                     return self._conclude_run(0, [], [], health)
 
                 # -------------------------------------------------------------
-                # STAGE 3: Deduplication (Canonical URL primary, ASIN/title hash supporting)
+                # STAGE 3: Deduplication & Cross-Run Delta Tracking
                 # -------------------------------------------------------------
-                logger.info("Stage 3: Deduplicating discovered products...")
-                existing_asins = (
-                    set()
-                    if fresh
-                    else self.checkpoint_store.get_all_processed_asins(completed_only=True)
-                )
-                dedup = DeduplicationService(existing_asins=existing_asins)
+                logger.info("Stage 3: Deduplicating discovered products and linking historical state...")
+                dedup = DeduplicationService()
 
                 unique_candidates: List[ProductCandidate] = []
                 for raw in raw_products:
@@ -167,6 +162,23 @@ class PipelineOrchestrator:
                         raw_product=raw,
                         lifecycle_stage=ProductLifecycleStage.DEDUPLICATED,
                     )
+
+                    # Retrieve previous run candidate if not a fresh run
+                    if not fresh:
+                        prev = self.checkpoint_store.get_candidate(raw.asin)
+                        if prev:
+                            candidate.previous_score = prev.scores.total_score if prev.scores else None
+                            candidate.previous_price = (
+                                (prev.verified_product.displayed_price if prev.verified_product and prev.verified_product.displayed_price else None)
+                                or prev.raw_product.displayed_price
+                                or prev.raw_product.price
+                            )
+                            candidate.previous_status = (
+                                "winner" if prev.is_winner
+                                else ("should_test" if prev.is_should_test
+                                else "candidate")
+                            )
+
                     self.checkpoint_store.save_candidate(run_id, candidate)
                     unique_candidates.append(candidate)
 
@@ -263,6 +275,45 @@ class PipelineOrchestrator:
                     try:
                         evaluated_cand = await self.eval_service.evaluate_candidate(cand)
                         scored_candidates.append(evaluated_cand)
+
+                        # Evaluate deltas against historical checkpoint record
+                        if evaluated_cand.scores:
+                            new_score = evaluated_cand.scores.total_score
+                            new_status = (
+                                "winner" if evaluated_cand.is_winner
+                                else ("should_test" if evaluated_cand.is_should_test
+                                else "candidate")
+                            )
+
+                            if evaluated_cand.previous_score is not None:
+                                delta = round(new_score - evaluated_cand.previous_score, 1)
+                                evaluated_cand.score_delta = delta
+                                old_status = evaluated_cand.previous_status or "candidate"
+
+                                if delta >= 0.5 or (old_status != "winner" and new_status == "winner") or (old_status == "candidate" and new_status == "should_test"):
+                                    evaluated_cand.change_type = "improved"
+                                    health.products_changed += 1
+                                    health.products_improved += 1
+                                elif delta <= -0.5 or (old_status == "winner" and new_status != "winner") or (old_status == "should_test" and new_status == "candidate"):
+                                    evaluated_cand.change_type = "declined"
+                                    health.products_changed += 1
+                                    health.products_declined += 1
+                                else:
+                                    old_p = evaluated_cand.previous_price
+                                    new_p = (
+                                        (evaluated_cand.verified_product.displayed_price if evaluated_cand.verified_product and evaluated_cand.verified_product.displayed_price else None)
+                                        or evaluated_cand.raw_product.displayed_price
+                                        or evaluated_cand.raw_product.price
+                                    )
+                                    if old_p and new_p and abs(new_p - old_p) >= 1.0:
+                                        evaluated_cand.change_type = "updated"
+                                        evaluated_cand.score_delta = 0.0
+                                        health.products_changed += 1
+                                    else:
+                                        evaluated_cand.change_type = None
+                                        evaluated_cand.score_delta = 0.0
+                                        health.duplicates_prevented += 1
+
                     except Exception as exc:
                         health.ai_failures += 1
                         logger.error("AI scoring failed for candidate %s: %s", cand.asin, exc)
@@ -345,13 +396,23 @@ class PipelineOrchestrator:
                     run_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
                     try:
                         await self.sheets_adapter.create_backup()
-                        rows_appended = await self.sheets_adapter.append_winners(
-                            run_date,
-                            winners,
-                            run_id=run_id,
-                            reviewed_count=len(unique_candidates),
-                        )
-                        health.rows_written = rows_appended
+                        # Only append winners that are new or changed ("لو فيه تكرار ميعملش ابديت")
+                        winners_to_append = [
+                            w for w in winners
+                            if w.previous_score is None or w.change_type in ("improved", "updated")
+                        ]
+                        if winners_to_append or not winners:
+                            rows_appended = await self.sheets_adapter.append_winners(
+                                run_date,
+                                winners_to_append,
+                                run_id=run_id,
+                                reviewed_count=len(unique_candidates),
+                            )
+                            health.rows_written = rows_appended
+                        else:
+                            logger.info("All %d winners already documented and unchanged; skipping duplicate rows.", len(winners))
+                            health.duplicates_prevented += len(winners)
+
                         for w in winners:
                             w.lifecycle_stage = ProductLifecycleStage.COMMITTED
                             self.checkpoint_store.save_candidate(run_id, w)

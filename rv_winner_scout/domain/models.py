@@ -129,6 +129,13 @@ class ProductCandidate(BaseModel):
     lifecycle_stage: ProductLifecycleStage = ProductLifecycleStage.DISCOVERED
     rejection_reason: Optional[str] = None
 
+    # Delta tracking across consecutive runs
+    previous_score: Optional[float] = None
+    previous_status: Optional[str] = None
+    previous_price: Optional[float] = None
+    change_type: Optional[str] = None  # "improved", "declined", "updated", None
+    score_delta: Optional[float] = None
+
     @property
     def is_winner(self) -> bool:
         return bool(self.scores and self.scores.is_winner)
@@ -150,6 +157,9 @@ class RunHealthReport(BaseModel):
     products_discovered: int = 0
     products_verified: int = 0
     products_rejected: int = 0
+    products_changed: int = 0
+    products_improved: int = 0
+    products_declined: int = 0
     ai_calls: int = 0
     ai_failures: int = 0
     walmart_searches: int = 0

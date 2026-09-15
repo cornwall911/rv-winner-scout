@@ -134,12 +134,24 @@ def generate_executive_dashboard_html(
             badge_class = "badge-candidate"
             data_type = "candidate"
 
+        # Change delta indicator across 24h runs
+        change_pill = ""
+        if cand.change_type == "improved":
+            delta_str = f"+{cand.score_delta:.1f}" if cand.score_delta is not None and cand.score_delta > 0 else "Improved"
+            change_pill = f'<span class="delta-pill delta-improved" title="Score improved from {cand.previous_score or 0:.1f} to {score_val:.1f}">📈 {delta_str}</span>'
+        elif cand.change_type == "declined":
+            delta_str = f"{cand.score_delta:.1f}" if cand.score_delta is not None and cand.score_delta < 0 else "Declined"
+            change_pill = f'<span class="delta-pill delta-declined" title="Score declined from {cand.previous_score or 0:.1f} to {score_val:.1f}">📉 {delta_str}</span>'
+        elif cand.change_type == "updated":
+            change_pill = '<span class="delta-pill delta-updated" title="Price / ranking updated">🔄 Updated</span>'
+
         cards_html += f"""
-        <div class="product-card {status_class}" data-title="{title.lower()} {asin.lower()}" data-type="{data_type}" data-score="{score_val:.2f}" data-price="{price_num:.2f}" data-bsr="{bsr_num}">
+        <div class="product-card {status_class}" data-title="{title.lower()} {asin.lower()}" data-type="{data_type}" data-changed="{cand.change_type or 'none'}" data-score="{score_val:.2f}" data-price="{price_num:.2f}" data-bsr="{bsr_num}">
             <div class="card-top-bar">
                 <div class="badge-group">
                     <span class="status-pill {badge_class}">{status_badge}</span>
                     <span class="score-pill">⭐ {score_val:.1f} / 100</span>
+                    {change_pill}
                 </div>
                 <span class="asin-pill">ASIN: {asin}</span>
             </div>
@@ -578,6 +590,30 @@ def generate_executive_dashboard_html(
             white-space: nowrap;
         }}
         .asin-pill {{ font-size: 0.75rem; color: var(--text-muted); font-weight: 600; margin-left: auto; }}
+        .delta-pill {{
+            padding: 2px 8px;
+            border-radius: 999px;
+            font-size: 0.72rem;
+            font-weight: 700;
+            display: inline-flex;
+            align-items: center;
+            white-space: nowrap;
+        }}
+        .delta-improved {{
+            background: rgba(16, 185, 129, 0.2);
+            color: #10B981;
+            border: 1px solid rgba(16, 185, 129, 0.45);
+        }}
+        .delta-declined {{
+            background: rgba(239, 68, 68, 0.2);
+            color: #EF4444;
+            border: 1px solid rgba(239, 68, 68, 0.45);
+        }}
+        .delta-updated {{
+            background: rgba(245, 158, 11, 0.2);
+            color: #F59E0B;
+            border: 1px solid rgba(245, 158, 11, 0.45);
+        }}
 
         /* Image Carousel */
         .carousel-container {{
@@ -1078,6 +1114,14 @@ def generate_executive_dashboard_html(
             </div>
 
             <div class="kpi-box">
+                <div class="kpi-label">Changes Detected</div>
+                <div class="kpi-num" style="color: {'#F59E0B' if health.products_changed else 'var(--text-muted)'}">{health.products_changed}</div>
+                <div style="font-size:0.72rem; color:var(--text-secondary); margin-top:3px; font-weight:600;">
+                    📈 {health.products_improved} Improved • 📉 {health.products_declined} Declined
+                </div>
+            </div>
+
+            <div class="kpi-box">
                 <div class="kpi-label">Filtered / Sub-Threshold</div>
                 <div class="kpi-num">{health.products_rejected}</div>
             </div>
@@ -1095,6 +1139,7 @@ def generate_executive_dashboard_html(
                 <button class="filter-btn" onclick="setFilter('winner', this)">🏆 Winners ({winners_count})</button>
                 <button class="filter-btn" onclick="setFilter('should_test', this)">🧪 Should Be Tested ({should_test_count})</button>
                 <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates ({candidates_count})</button>
+                {f'<button class="filter-btn" onclick="setFilter(\\\'changed\\\', this)">🔄 Changed ({health.products_changed})</button>' if health.products_changed > 0 else ''}
             </div>
 
             <div class="sort-wrapper">
@@ -1233,9 +1278,12 @@ def generate_executive_dashboard_html(
             cards.forEach(card => {{
                 const type = card.getAttribute('data-type');
                 const title = card.getAttribute('data-title');
+                const changed = card.getAttribute('data-changed');
 
                 const matchesSearch = title.includes(searchVal);
-                const matchesFilter = (currentFilter === 'all') || (type === currentFilter);
+                const matchesFilter = (currentFilter === 'all')
+                    || (type === currentFilter)
+                    || (currentFilter === 'changed' && changed && changed !== 'none');
 
                 card.style.display = (matchesSearch && matchesFilter) ? 'flex' : 'none';
             }});

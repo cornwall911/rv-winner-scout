@@ -23,6 +23,9 @@ class HealthMonitor:
         self.circuit_breakers_tripped: List[str] = []
         self.rows_written = 0
         self.duplicates_prevented = 0
+        self.products_changed = 0
+        self.products_improved = 0
+        self.products_declined = 0
         self.degraded_components: List[str] = []
         self.fatal_failure_reason: Optional[str] = None
 
@@ -63,6 +66,9 @@ class HealthMonitor:
             products_discovered=self.products_discovered,
             products_verified=self.products_verified,
             products_rejected=self.products_rejected,
+            products_changed=self.products_changed,
+            products_improved=self.products_improved,
+            products_declined=self.products_declined,
             ai_calls=self.ai_calls,
             ai_failures=self.ai_failures,
             walmart_searches=self.walmart_searches,

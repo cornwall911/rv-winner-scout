@@ -76,6 +76,15 @@ class TelegramNotifier:
 
         date_str = health.end_time.strftime("%Y-%m-%d")
 
+        change_line = ""
+        if health.products_changed > 0:
+            change_line = (
+                f"🔄 <b>تغييرات المنتجات:</b> رصد تحديثات في <b>{health.products_changed}</b> منتج "
+                f"(📈 تحسن: <b>{health.products_improved}</b> | 📉 تراجع: <b>{health.products_declined}</b>)"
+            )
+        elif health.duplicates_prevented > 0:
+            change_line = f"🔄 <b>تحديثات المنتجات:</b> تم منع تكرار {health.duplicates_prevented} منتج متطابق دون تغيير"
+
         if winners:
             lines = [
                 "🏆 <b>RV Winner Scout | اكتشاف فائزين جدد!</b>",
@@ -83,10 +92,14 @@ class TelegramNotifier:
                 f"📅 <b>التاريخ:</b> <code>{date_str}</code>",
                 f"🔍 <b>إجمالي المنتجات المفحوصة:</b> {reviewed_count}",
                 f"✨ <b>عدد المنتجات الفائزة (+80):</b> {len(winners)}",
+            ]
+            if change_line:
+                lines.append(change_line)
+            lines.extend([
                 "",
                 "⭐ <b>تفاصيل المنتجات الفائزة:</b>",
                 "───────────────────────────",
-            ]
+            ])
             for i, w in enumerate(winners, 1):
                 raw_title = w.verified_product.title if w.verified_product else w.raw_product.title
                 title = html.escape(raw_title[:65] + ("..." if len(raw_title) > 65 else ""))
@@ -117,10 +130,14 @@ class TelegramNotifier:
                 f"📅 <b>التاريخ:</b> <code>{date_str}</code>",
                 f"🔍 <b>إجمالي المفحوص اليوم:</b> {reviewed_count}",
                 f"🧪 <b>منتجات ذات أولوية للاختبار:</b> {len(should_be_tested)}",
+            ]
+            if change_line:
+                lines.append(change_line)
+            lines.extend([
                 "",
                 "⚡ <b>أبرز المنتجات عالية الفائدة وحل المشكلات:</b>",
                 "───────────────────────────",
-            ]
+            ])
             for i, st in enumerate(should_be_tested[:3], 1):
                 raw_title = st.verified_product.title if st.verified_product else st.raw_product.title
                 title = html.escape(raw_title[:65] + ("..." if len(raw_title) > 65 else ""))
@@ -171,6 +188,8 @@ class TelegramNotifier:
                 "🎯 <b>النتيجة:</b> لا يوجد منتج حقق معيار الفوز اليوم (80+)",
                 "📝 <b>حالة الشيت:</b> تم توثيق سطر الفحص اليومي بنجاح ✅",
             ]
+            if change_line:
+                lines.append(change_line)
             lines.extend(top_near_miss_lines)
             lines.extend([
                 "",

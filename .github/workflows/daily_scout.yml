@@ -38,6 +38,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Restore Checkpoint Database
+        uses: actions/cache@v4
+        with:
+          path: data/checkpoint.db
+          key: scout-checkpoint-${{ github.run_id }}
+          restore-keys: |
+            scout-checkpoint-
+
       - name: Run RV Winner Scout
         env:
           AI_PROVIDER: ${{ secrets.AI_PROVIDER || 'gemini' }}
@@ -52,7 +60,7 @@ jobs:
           MAX_PRODUCTS_PER_RUN: 10000
           SELECTED_MODE: ${{ inputs.mode || 'full' }}
         run: |
-          python run.py --mode=${SELECTED_MODE} --fresh
+          python run.py --mode=${SELECTED_MODE}
 
       - name: Archive Reports
         if: always()
