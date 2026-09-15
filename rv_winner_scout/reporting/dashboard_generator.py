@@ -141,6 +141,24 @@ def generate_executive_dashboard_html(
         )
         walmart_label = walmart_price if walmart_price else ("Available" if walmart_status == "FOUND" else "Check Walmart")
 
+        # Single primary product image
+        img_url = ""
+        if cand.verified_product and cand.verified_product.images:
+            for im in cand.verified_product.images:
+                if im and im.startswith("http"):
+                    img_url = im
+                    break
+        if not img_url and cand.raw_product and cand.raw_product.images:
+            for im in cand.raw_product.images:
+                if im and im.startswith("http"):
+                    img_url = im
+                    break
+        if not img_url and cand.raw_product and cand.raw_product.image_url:
+            img_url = cand.raw_product.image_url
+
+        if not img_url:
+            img_url = "https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80"
+
         # 3 Humanized marketing angles with relatable examples
         angles = generate_humanized_angles(cand)
         angles_html = ""
@@ -196,6 +214,11 @@ def generate_executive_dashboard_html(
                 <span class="asin-pill">ASIN: {asin}</span>
             </div>
 
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="{img_url}" alt="{title}" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
+            </div>
+
             <!-- Card Content -->
             <div class="card-body">
                 <h3 class="product-title" title="{title}">{title}</h3>
@@ -222,9 +245,8 @@ def generate_executive_dashboard_html(
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
-{angles_html}
                     <div class="insight-row">
                         <div class="insight-header">
                             <span class="insight-label-why">🎯 Why It Converts:</span>
@@ -238,6 +260,8 @@ def generate_executive_dashboard_html(
                         </div>
                         <p class="insight-text">{why_fail}</p>
                     </div>
+
+{angles_html}
                 </div>
             </div>
         </div>
@@ -571,6 +595,30 @@ def generate_executive_dashboard_html(
             border: 1px solid rgba(245, 158, 11, 0.45);
         }}
 
+        /* Single Product Image */
+        .product-image-box {{
+            position: relative;
+            height: 200px;
+            background: var(--bg-card-alt);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            border-top: 1px solid var(--border-color);
+            border-bottom: 1px solid var(--border-color);
+            padding: 10px;
+        }}
+        .product-img {{
+            max-height: 180px;
+            max-width: 90%;
+            object-fit: contain;
+            border-radius: 6px;
+            transition: transform 0.25s ease;
+        }}
+        .product-card:hover .product-img {{
+            transform: scale(1.03);
+        }}
+
         /* Card Content */
         .card-body {{ padding: 18px; flex: 1; display: flex; flex-direction: column; }}
         .product-title {{
@@ -889,6 +937,9 @@ def generate_executive_dashboard_html(
             .cards-grid {{
                 grid-template-columns: 1fr;
                 gap: 16px;
+            }}
+            .product-image-box {{
+                height: 180px;
             }}
             .product-title {{
                 font-size: 0.98rem;

@@ -153,6 +153,14 @@ def test_dashboard_generator_should_be_tested_tier() -> None:
     assert "Angle 3 (Travel Peace of Mind)" in html_out
     assert "Never struggle with unlevel camp sites" in html_out
 
+    # Verify single product image is present
+    assert "product-image-box" in html_out
+    assert "product-img" in html_out
+
+    # Verify angles are placed below Why It Converts and Bottleneck/Risk
+    assert html_out.index("Why It Converts:") < html_out.index("Angle 1 (Campground Reality)")
+    assert html_out.index("Bottleneck / Risk:") < html_out.index("Angle 1 (Campground Reality)")
+
     # Verify Visual Hook, Carousel, Download All Images button, and Verdict Hero banner are completely removed
     assert "Visual Hook (0-3s):" not in html_out
     assert "Download All Images" not in html_out

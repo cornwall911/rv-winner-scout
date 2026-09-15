@@ -311,6 +311,30 @@
             border: 1px solid rgba(245, 158, 11, 0.45);
         }
 
+        /* Single Product Image */
+        .product-image-box {
+            position: relative;
+            height: 200px;
+            background: var(--bg-card-alt);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            border-top: 1px solid var(--border-color);
+            border-bottom: 1px solid var(--border-color);
+            padding: 10px;
+        }
+        .product-img {
+            max-height: 180px;
+            max-width: 90%;
+            object-fit: contain;
+            border-radius: 6px;
+            transition: transform 0.25s ease;
+        }
+        .product-card:hover .product-img {
+            transform: scale(1.03);
+        }
+
         /* Card Content */
         .card-body { padding: 18px; flex: 1; display: flex; flex-direction: column; }
         .product-title {
@@ -630,6 +654,9 @@
                 grid-template-columns: 1fr;
                 gap: 16px;
             }
+            .product-image-box {
+                height: 180px;
+            }
             .product-title {
                 font-size: 0.98rem;
                 height: auto;
@@ -785,6 +812,11 @@
                 <span class="asin-pill">ASIN: B0HHY3BLNN</span>
             </div>
 
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg" alt="Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
+            </div>
+
             <!-- Card Content -->
             <div class="card-body">
                 <h3 class="product-title" title="Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220">Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220</h3>
@@ -811,8 +843,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">It solves a universal, high-frustration &#x27;gross&#x27; factor in RVing with a simple, low-cost, non-electrical solution that feels like a &#x27;life hack&#x27; upgrade.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Requires drilling into the exterior of the RV, which may intimidate DIY-averse owners or those worried about voiding warranties on newer rigs.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -835,19 +881,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without Exhaustrex RV Cassette Toilet Ventila... in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">It solves a universal, high-frustration &#x27;gross&#x27; factor in RVing with a simple, low-cost, non-electrical solution that feels like a &#x27;life hack&#x27; upgrade.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Requires drilling into the exterior of the RV, which may intimidate DIY-averse owners or those worried about voiding warranties on newer rigs.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -860,6 +893,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0GXSGH5BN</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/81pbjErRRtL._AC_UL300_SR300,200_.jpg" alt="Upgrade Kit Rv Roof Vent Fan Motor Replacement Blade, Compatible with Heng&#x27;s or Ventline" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -888,8 +926,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">It solves the universal RV pain point of loud, inefficient stock fans without the massive labor and leak-risk of replacing the entire roof assembly.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">The product listing is repetitive and poorly formatted, which may cause consumer distrust; potential compatibility issues with specific older vent housings could lead to high return rates.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -912,19 +964,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without Upgrade Kit Rv Roof Vent Fan Motor Re... in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">It solves the universal RV pain point of loud, inefficient stock fans without the massive labor and leak-risk of replacing the entire roof assembly.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">The product listing is repetitive and poorly formatted, which may cause consumer distrust; potential compatibility issues with specific older vent housings could lead to high return rates.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -937,6 +976,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0GZLLJ9PF</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/71padaLrgjL.jpg" alt="RV Shower Head with Hose, High Pressure Handheld RV Shower Head Replacement with On Off Switch,5 Modes,Power Jet, Camper Shower Head for RV,Travel Trailer,Motorhome,Boat RV Essentials,Gray" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -965,8 +1009,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">It addresses the universal frustration of low-flow, weak-pressure RV showers while offering a &#x27;pause&#x27; feature that is essential for boondockers trying to conserve water. The low price point makes it an easy, high-satisfaction impulse buy for any new RV owner.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">The market is already saturated with generic &#x27;high-pressure&#x27; RV shower heads, making it difficult to stand out without a unique brand story. Additionally, some RV plumbing systems lack the pump pressure to actually benefit from these heads, leading to potential customer disappointment.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -989,19 +1047,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without RV Shower Head with Hose in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">It addresses the universal frustration of low-flow, weak-pressure RV showers while offering a &#x27;pause&#x27; feature that is essential for boondockers trying to conserve water. The low price point makes it an easy, high-satisfaction impulse buy for any new RV owner.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">The market is already saturated with generic &#x27;high-pressure&#x27; RV shower heads, making it difficult to stand out without a unique brand story. Additionally, some RV plumbing systems lack the pump pressure to actually benefit from these heads, leading to potential customer disappointment.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1014,6 +1059,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0GYD3TVDV</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/71w-5mUBP0L._AC_UL300_SR300,200_.jpg" alt="Soft Start for RV Air Conditioners Reduces Startup Current by up to 75%, Easy DIY Install, Quiet Start IP65 Waterproof Reverse Motor Protection for Home, RVs, Vans &amp; Generator Use" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1042,8 +1092,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">It solves a massive, universal pain point for boondockers and generator users, turning a high-stress electrical issue into a &#x27;set it and forget it&#x27; solution.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">The soft start category is already saturated with well-known, established brands (like Micro-Air), making it difficult for a generic, unverified brand to gain trust.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1066,19 +1130,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without Soft Start for RV Air Conditioners Re... in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">It solves a massive, universal pain point for boondockers and generator users, turning a high-stress electrical issue into a &#x27;set it and forget it&#x27; solution.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">The soft start category is already saturated with well-known, established brands (like Micro-Air), making it difficult for a generic, unverified brand to gain trust.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1091,6 +1142,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0H8XZYCK4</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/71qwCiouCGL._AC_UL300_SR300,200_.jpg" alt="2026 Upgrade Portable Car Fan,Clip‑on/Hang/Stand 3D Circulating Air Car Cooler with LED Display,USB Quiet Vehicle Fan for SUV Truck RV,Ideal Summer Gift for Drivers(built-in battery)" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1119,8 +1175,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">It addresses the universal RV pain point of poor cab ventilation and lack of AC reach in older motorhomes or during boondocking.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">The market is already saturated with cheap, generic USB fans; this product lacks a unique &#x27;wow&#x27; factor to differentiate it from existing Amazon bestsellers.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1143,19 +1213,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 2026 Upgrade Portable Car Fan in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">It addresses the universal RV pain point of poor cab ventilation and lack of AC reach in older motorhomes or during boondocking.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">The market is already saturated with cheap, generic USB fans; this product lacks a unique &#x27;wow&#x27; factor to differentiate it from existing Amazon bestsellers.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1168,6 +1225,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0H11W86CN</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/61yoVLaZbBL.jpg" alt="4 Pack Wheel Chocks, Non-Slip Wheel Chocks for Travel Trailers" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1196,8 +1258,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">This product targets a universal RV necessity with a low price point, making it an easy &#x27;add-on&#x27; purchase for new RV owners looking to replace worn-out gear.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">This is a highly commoditized item with thousands of existing competitors; it lacks the &#x27;wow&#x27; factor or unique innovation required to stand out in a crowded market.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1220,19 +1296,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 4 Pack Wheel Chocks in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">This product targets a universal RV necessity with a low price point, making it an easy &#x27;add-on&#x27; purchase for new RV owners looking to replace worn-out gear.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">This is a highly commoditized item with thousands of existing competitors; it lacks the &#x27;wow&#x27; factor or unique innovation required to stand out in a crowded market.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1245,6 +1308,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0H8KZ8XC6</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/61-D4o61dcL.jpg" alt="15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1273,8 +1341,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">This product targets a universal, high-friction pain point—leaky, fragile sewer hoses—with a &#x27;crush-proof&#x27; durability claim that appeals to full-timers. Its ability to fit in standard RV bumpers makes it a practical, low-barrier-to-entry upgrade.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">The market is heavily saturated with established brands like Camco, making it difficult for a generic-branded product to gain trust. It offers no true innovation, as &#x27;heavy-duty&#x27; sewer hoses are a commodity item found in every RV supply store.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1297,19 +1379,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 15FT RV Sewer Hose with Bayonet Fitti... in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">This product targets a universal, high-friction pain point—leaky, fragile sewer hoses—with a &#x27;crush-proof&#x27; durability claim that appeals to full-timers. Its ability to fit in standard RV bumpers makes it a practical, low-barrier-to-entry upgrade.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">The market is heavily saturated with established brands like Camco, making it difficult for a generic-branded product to gain trust. It offers no true innovation, as &#x27;heavy-duty&#x27; sewer hoses are a commodity item found in every RV supply store.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1322,6 +1391,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0H5JTLQ2N</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/71a5+YE+ZxL._AC_UL300_SR300,200_.jpg" alt="Portable 4-Head Car Cooling Fan with Cigarette Lighter Plug" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1350,8 +1424,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">It addresses a universal pain point (poor RV cab cooling) with a &#x27;more is better&#x27; approach that feels like a quick, affordable upgrade.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">This is a saturated product category on Amazon; similar 12V fans are ubiquitous, and the &#x27;4-head&#x27; design may be perceived as flimsy or prone to breaking.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1374,19 +1462,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without Portable 4 in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">It addresses a universal pain point (poor RV cab cooling) with a &#x27;more is better&#x27; approach that feels like a quick, affordable upgrade.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">This is a saturated product category on Amazon; similar 12V fans are ubiquitous, and the &#x27;4-head&#x27; design may be perceived as flimsy or prone to breaking.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1399,6 +1474,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0GYKSRWZW</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/81vBQgocvaL._AC_UL300_SR300,200_.jpg" alt="aletbo Car Fan, 12V Fan Triple Head, Powerful Airflow, 360° Adjustable, 2-Settings, Dashboard Fan Suitable for Truck, RV, Semi, Camper Trailer" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1427,8 +1507,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">It solves a universal, relatable pain point (heat in the cab) with a simple, low-cost, plug-and-play device that requires no installation expertise.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">This is a saturated commodity category on Amazon; consumers often view these as cheap, fragile plastic gadgets that break easily, leading to high return rates.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1451,19 +1545,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without aletbo Car Fan in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">It solves a universal, relatable pain point (heat in the cab) with a simple, low-cost, plug-and-play device that requires no installation expertise.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">This is a saturated commodity category on Amazon; consumers often view these as cheap, fragile plastic gadgets that break easily, leading to high return rates.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1476,6 +1557,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0H6MGDXVS</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/51PRWvHjl7L._AC_UL300_SR300,200_.jpg" alt="RV Vent Covers for Roof, White, 2 Pack" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1504,8 +1590,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">This is a high-volume commodity item that appeals to the &#x27;preventative maintenance&#x27; crowd, which is a massive segment of the RV community.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">It is a generic, unexciting replacement part that lacks the &#x27;wow&#x27; factor required for viral marketing; most RVers already know these exist and buy them at local dealers.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1528,19 +1628,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without RV Vent Covers for Roof in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">This is a high-volume commodity item that appeals to the &#x27;preventative maintenance&#x27; crowd, which is a massive segment of the RV community.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">It is a generic, unexciting replacement part that lacks the &#x27;wow&#x27; factor required for viral marketing; most RVers already know these exist and buy them at local dealers.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1553,6 +1640,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0H9NZNYXZ</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/51EW64gwgzL.jpg" alt="4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1581,8 +1673,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">It solves the universal frustration of hitch pins rusting into the receiver, which is a common pain point for RVers who travel in coastal or snowy regions. Its low price point makes it an easy &#x27;add-on&#x27; purchase for anyone upgrading their towing setup.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">This is a commodity hardware item that is widely available at every local hardware store and big-box retailer, offering no unique innovation or &#x27;wow&#x27; factor. Most RVers already have a pin and won&#x27;t feel the urgency to replace it unless theirs is currently broken.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1605,19 +1711,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 4&quot; Stainless Steel 5/8&quot; Trailer Hitch... in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">It solves the universal frustration of hitch pins rusting into the receiver, which is a common pain point for RVers who travel in coastal or snowy regions. Its low price point makes it an easy &#x27;add-on&#x27; purchase for anyone upgrading their towing setup.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">This is a commodity hardware item that is widely available at every local hardware store and big-box retailer, offering no unique innovation or &#x27;wow&#x27; factor. Most RVers already have a pin and won&#x27;t feel the urgency to replace it unless theirs is currently broken.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1630,6 +1723,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0HDY4LYMX</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/71kozjip2+L._AC_UL300_SR300,200_.jpg" alt="2027 New Wall Mounted Air Conditioner, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating Wall AC Unit with Remote, Quiet Operation, No Window Needed for Bedroom, Garage, RV &amp; Camper，White" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1658,8 +1756,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1682,19 +1794,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 2027 New Wall Mounted Air Conditioner in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1707,6 +1806,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0H2238TTF</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/81kMX-egU2L._AC_UL300_SR300,200_.jpg" alt="Crawl Space Recessed Foundation Vent Cover - Shallow Depth - Fits 8&quot; H x 16&quot; W Openings - ¼&quot; Depth for Thin Foundation Walls, Installs from Outside, UV-Stabilized ABS - Black" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1735,8 +1839,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1759,19 +1877,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without Crawl Space Recessed Foundation Vent ... in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1784,6 +1889,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0GHF8P4CK</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/81HH32ucFWL._AC_UL300_SR300,200_.jpg" alt="Unknown" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1812,8 +1922,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1836,19 +1960,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without Unknown in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1861,6 +1972,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0HG13D3MX</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/61qlPVXhShL._AC_UL300_SR300,200_.jpg" alt="3313107.015 RV AC Condenser Fan Blade for Dometic" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1889,8 +2005,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1913,19 +2043,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 3313107.015 RV AC Condenser Fan Blade... in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -1938,6 +2055,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0H1LHLG4F</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/615TwmdQFwL._AC_UL300_SR300,200_.jpg" alt="3313107.015 Rv Air Conditioner Fan Blade" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -1966,8 +2088,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -1990,19 +2126,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 3313107.015 Rv Air Conditioner Fan Blade in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -2015,6 +2138,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0H395TSQL</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/71O-JLOswiL._AC_UL300_SR300,200_.jpg" alt="Unknown" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -2043,8 +2171,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -2067,19 +2209,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without Unknown in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -2092,6 +2221,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0H9MBTPW7</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/61CW2ZVp2ZL._AC_UL300_SR300,200_.jpg" alt="Wall-mounted natural warm air fan combo, 1800W ductless portable fan, no window needed, PTC fast heating with natural wind 2-in-1, perfect for bedrooms, garages, and bathrooms" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -2120,8 +2254,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -2144,19 +2292,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without Wall in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -2169,6 +2304,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0GWCN2YMQ</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/61FJ06lMn1L._AC_UL300_SR300,200_.jpg" alt="Unknown" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -2197,8 +2337,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -2221,19 +2375,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without Unknown in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -2246,6 +2387,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0GY4TQ2P8</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg" alt="Anker SOLIX S2000 Portable Power Station, 2,010Wh, 3,000W Peak, Home Backup" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -2274,8 +2420,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -2298,19 +2458,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without Anker SOLIX S2000 Portable Power Station in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -2323,6 +2470,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0HHHV2RXX</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/61CfypcLiNL.jpg" alt="2pcs Waterproof Rear View Camera Rain Shield Cover" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -2351,8 +2503,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -2375,19 +2541,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 2pcs Waterproof Rear View Camera Rain... in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -2400,6 +2553,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0H6J7BP2P</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/71JOEjPtr4L.jpg" alt="RV Propane Gas Detector, Hardwired-12V DC with 3 Different Brackets for RVs,R501" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -2428,8 +2586,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -2452,19 +2624,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without RV Propane Gas Detector in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -2477,6 +2636,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0H8HF9VH5</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/71FbHUpUrUL.jpg" alt="RV Propane Gas Detector Replacement of #31011, Hardwired—12V DC with Digital Display and Screwdriver for Motorhome Travel Trailer, Motor Coach, R503" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -2505,8 +2669,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -2529,19 +2707,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without RV Propane Gas Detector Replacement o... in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -2554,6 +2719,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0GY42RYP3</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/81rEwZ+v4FL.jpg" alt="OULEME 2 PK RV Leveling Block, Dual Axle Trailer Curved Leveler Ramp, Blue" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -2582,8 +2752,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -2606,19 +2790,6 @@
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without OULEME 2 PK RV Leveling Block in your storage bay.</p>
                     </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -2631,6 +2802,11 @@
                     
                 </div>
                 <span class="asin-pill">ASIN: B0HDP7YCN4</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/717WxNy7lnL.jpg" alt="2PCS Carbon Fiber Backup Camera Rain Shield,Car Backup Camera Cover" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
             </div>
 
             <!-- Card Content -->
@@ -2659,8 +2835,22 @@
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
                 <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
+                    </div>
+
 
                     <div class="insight-row angle-row">
                         <div class="insight-header">
@@ -2682,19 +2872,6 @@
                             <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 2PCS Carbon Fiber Backup Camera Rain ... in your storage bay." title="Copy Angle">📋 Copy</button>
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 2PCS Carbon Fiber Backup Camera Rain ... in your storage bay.</p>
-                    </div>
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">High organic demand &amp; natural RV utility.</p>
-                    </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
-                        </div>
-                        <p class="insight-text">Specific RV vehicle fit requirements.</p>
                     </div>
                 </div>
             </div>
