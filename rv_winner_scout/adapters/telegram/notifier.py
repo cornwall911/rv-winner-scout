@@ -196,7 +196,7 @@ class TelegramNotifier:
         if not self.is_configured:
             return False
 
-        dashboard_url = "https://almostafa-scout.workers.dev/"
+        dashboard_url = "https://almostafa-scout.mostafanabil53550.workers.dev/"
         title_raw = candidate.verified_product.title if candidate.verified_product else candidate.raw_product.title
         title = html.escape(title_raw[:85] + ("..." if len(title_raw) > 85 else ""))
         asin = candidate.asin
@@ -259,7 +259,7 @@ class TelegramNotifier:
         if not self.is_configured:
             return False
 
-        dashboard_url = "https://almostafa-scout.workers.dev/"
+        dashboard_url = "https://almostafa-scout.mostafanabil53550.workers.dev/"
         date_str = health.end_time.strftime("%Y-%m-%d")
 
         change_line = ""

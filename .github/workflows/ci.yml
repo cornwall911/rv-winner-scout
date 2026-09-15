@@ -3,8 +3,18 @@ name: CI Test Suite
 on:
   push:
     branches: [ main, master ]
+    paths-ignore:
+      - 'public/**'
+      - 'index.html'
+      - 'data/**'
+      - '**.md'
   pull_request:
     branches: [ main, master ]
+    paths-ignore:
+      - 'public/**'
+      - 'index.html'
+      - 'data/**'
+      - '**.md'
 
 jobs:
   test:
