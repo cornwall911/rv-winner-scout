@@ -223,6 +223,90 @@ LEARNED_ARCHETYPES: List[ArchetypeDefinition] = [
             "Roof Vents & Fans",
         ],
     ),
+    ArchetypeDefinition(
+        id="ULTRASONIC_TANK_INTELLIGENCE",
+        badge_label="📡 Non-Invasive Ultrasonic Tank Intelligence",
+        archetype_class="WINNER",
+        core_latent_value="Eliminates the #1 universal RV frustration: false sensor readings on black/grey tanks without drilling or nasty internal probes.",
+        pain_points_relieved=["false tank sensor readings", "black tank overflowing unexpectedly", "drilling holes in waste tanks"],
+        key_mechanisms=[
+            "External acoustic/ultrasonic sensor sticking to tank underside",
+            "Real-time Bluetooth percentage readout on smartphone",
+            "Zero drilling, zero contact with black water sludge",
+        ],
+        exemplar_products=["Mopeka Pro Check Wireless Ultrasonic Tank Sensor"],
+        semantic_signals=[
+            "ultrasonic tank sensor", "tank level monitor rv", "black water sensor wireless",
+            "holding tank sensor bluetooth", "magnetic tank sensor", "propane sensor bluetooth",
+        ],
+        subcategories=[
+            "RV Sanitation & Sewer",
+            "RV Electronics & Monitoring",
+        ],
+    ),
+    ArchetypeDefinition(
+        id="ENDLESS_ONDEMAND_HOT_WATER",
+        badge_label="🔥 Endless On-Demand Hot Water",
+        archetype_class="WINNER",
+        core_latent_value="Eliminates the 6-gallon suburban water heater barrier, delivering unlimited hot showers and slashing water waste while boondocking.",
+        pain_points_relieved=["running out of hot water in 2 minutes", "waiting 20 minutes between showers", "wasting boondocking fresh water waiting for warm water"],
+        key_mechanisms=[
+            "Instant flow-activated burner / recirculating heat exchanger",
+            "Drop-in standard RV water heater door replacement",
+            "Continuous hot water for multiple travelers without recovery lag",
+        ],
+        exemplar_products=["Fogatti / Furrion Tankless Instant RV Water Heater"],
+        semantic_signals=[
+            "tankless water heater rv", "instant water heater camper", "on demand water heater rv",
+            "tankless rv water heater", "tankless gas water heater rv",
+        ],
+        subcategories=[
+            "RV Plumbing & Water Heaters",
+            "Water Systems & Pumps",
+        ],
+    ),
+    ArchetypeDefinition(
+        id="ZERODRILL_SOLAR_REVERSING",
+        badge_label="👁️ Zero-Drill Wireless Reversing & Hitch Defense",
+        archetype_class="WINNER",
+        core_latent_value="Eliminates the anxiety, blind spots, and marital arguments of backing a 30ft trailer or hitching alone.",
+        pain_points_relieved=["blind spot accidents when backing into campsite", "hitching trailer alone without a spotter", "fear of ripping trailer wires"],
+        key_mechanisms=[
+            "100% solar rechargeable magnetic base sticking directly to steel frame",
+            "Zero wiring through trailer walls or splicing into tail lights",
+            "Crisp digital anti-interference wireless display on dash",
+        ],
+        exemplar_products=["Haloview / Rohent Solar Wireless Backup Camera"],
+        semantic_signals=[
+            "solar wireless backup camera", "magnetic trailer camera", "rv backup camera solar",
+            "wireless hitch camera magnetic", "trailer camera zero drill", "magnetic backup camera",
+        ],
+        subcategories=[
+            "RV Electronics & Cameras",
+            "Backup Cameras & Monitors",
+        ],
+    ),
+    ArchetypeDefinition(
+        id="QUICK_LEVEL_STABILIZATION",
+        badge_label="⚖️ Quick-Level Cordless Stabilization",
+        archetype_class="SHOULD_TEST",
+        core_latent_value="Replaces the exhausting 20-minute struggle of hand-cranking jacks and stacking wooden blocks in campground mud.",
+        pain_points_relieved=["hand cranking heavy jacks in dirt", "unlevel camper giving headaches or fridge failure", "trailer rocking in high wind"],
+        key_mechanisms=[
+            "Drill-socket adapter / rapid-drive stabilizer conversion",
+            "Curved ramping levelers with non-slip chocks",
+            "Digital smartphone bubble level leveling from driver seat",
+        ],
+        exemplar_products=["Beech Lane Curved RV Levelers / Scissor Jack Drill Adapter"],
+        semantic_signals=[
+            "curved leveler rv", "scissor jack drill adapter", "drill socket leveling jack",
+            "wireless rv leveler", "rv leveler curved blocks", "camper leveler ramps",
+        ],
+        subcategories=[
+            "Jacks & Leveling",
+            "Hardware & Stabilizers",
+        ],
+    ),
 ]
 
 

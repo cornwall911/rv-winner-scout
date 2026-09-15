@@ -61,10 +61,6 @@ jobs:
           AI_PROVIDER: ${{ secrets.AI_PROVIDER || 'gemini' }}
           AI_MODEL: ${{ secrets.AI_MODEL || 'gemini-3.1-flash-lite' }}
           AI_API_KEY: ${{ secrets.AI_API_KEY }}
-          TOKENROUTER_API_KEY: ${{ secrets.TOKENROUTER_API_KEY }}
-          SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
-          SHEET_NAME: ${{ secrets.SHEET_NAME || 'Research Log' }}
-          GOOGLE_SHEETS_CREDENTIALS_JSON: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS_JSON }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           MAX_PRODUCTS_PER_RUN: 50000
