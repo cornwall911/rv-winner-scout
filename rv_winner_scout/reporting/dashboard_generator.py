@@ -82,9 +82,17 @@ def generate_executive_dashboard_html(
             deduped_candidates.append(c)
             # Tag as should_be_tested if matching criteria
             if c.asin not in winner_asins:
+                title_lower = (c.normalized_title or "").lower()
+                is_high_utility_solver = any(kw in title_lower for kw in ["soft start", "inrush limiter", "surge protector", "water pressure regulator", "macerator"])
                 if c.is_should_test or (c.scores and c.scores.is_should_test):
                     should_test_asins.add(c.asin)
-                elif c.scores and (c.scores.final_score >= 70.0 or (c.scores.final_score >= 65.0 and c.scores.problem_solving_power >= 7.5)):
+                elif c.scores and (
+                    c.scores.final_score >= 70.0
+                    or (c.scores.final_score >= 50.0 and c.scores.problem_solving_power >= 7.0)
+                    or c.scores.problem_solving_power >= 8.0
+                ):
+                    should_test_asins.add(c.asin)
+                elif is_high_utility_solver:
                     should_test_asins.add(c.asin)
 
     # Sort descending by score initially

@@ -112,7 +112,11 @@ def calculate_score_breakdown(
             exception_reason = EXCEPTION_LABEL
 
     if not is_winner:
-        if total_score >= SHOULD_TEST_SCORE_MIN or (total_score >= 65.0 and raw.problem_solving_power >= 7.5):
+        if (
+            total_score >= SHOULD_TEST_SCORE_MIN
+            or (total_score >= 50.0 and raw.problem_solving_power >= 7.5)
+            or raw.problem_solving_power >= 8.0
+        ):
             is_should_test = True
 
     return ScoreBreakdown(

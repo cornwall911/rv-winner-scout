@@ -152,7 +152,7 @@ Output ONLY valid JSON.
             confidence=evaluation.confidence,
         )
 
-        if score_breakdown.is_winner:
+        if score_breakdown.is_winner or score_breakdown.is_should_test:
             candidate.lifecycle_stage = ProductLifecycleStage.SCORED
         else:
             candidate.lifecycle_stage = ProductLifecycleStage.REJECTED
