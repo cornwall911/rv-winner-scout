@@ -652,13 +652,43 @@ class PipelineOrchestrator:
                 return report_markdown, final_health
 
             except DeadlineExceededError as exc:
-                health.set_fatal_failure("Global deadline exceeded before pipeline completion")
+                logger.warning("Global deadline threshold reached. Gracefully flushing discovered results...")
+                cur_winners = winners if "winners" in locals() else []
+                cur_unique = unique_candidates if "unique_candidates" in locals() else []
+                cur_should = should_test if "should_test" in locals() else []
+                cur_near = sorted(
+                    [c for c in cur_unique if c not in cur_winners and c.scores],
+                    key=lambda c: c.scores.total_score if c.scores else 0.0,
+                    reverse=True,
+                )
+
+                try:
+                    self._sync_live_dashboard(
+                        reviewed_count=len(cur_unique),
+                        winners=cur_winners,
+                        should_test=cur_should,
+                        candidates=cur_unique,
+                        health_report=health.build_report(),
+                        reason="Deadline reached graceful flush",
+                        push_git=True,
+                    )
+                except Exception:
+                    pass
+
                 if self.telegram_notifier.is_configured:
                     try:
-                        await self.telegram_notifier.notify_failure("Global deadline exceeded", run_id=run_id)
+                        if progress_msg_map:
+                            await self.telegram_notifier.finish_progress_message(progress_msg_map)
+                        await self.telegram_notifier.notify_run_completed(
+                            reviewed_count=len(cur_unique),
+                            winners=cur_winners,
+                            near_misses=cur_near,
+                            health=health.build_report(),
+                            should_be_tested=cur_should,
+                        )
                     except Exception:
                         pass
-                return self._conclude_run(len(raw_products) if "raw_products" in locals() else 0, [], [], health)
+                return self._conclude_run(len(cur_unique), cur_winners, cur_near, health)
             except Exception as exc:
                 health.set_fatal_failure(f"Unhandled pipeline exception: {exc}")
                 logger.exception("Fatal pipeline error: %s", exc)
