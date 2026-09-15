@@ -220,11 +220,27 @@ class PipelineOrchestrator:
                 # -------------------------------------------------------------
                 logger.info("Stage 2: Crawling category product grids across %d categories...", len(categories_to_crawl))
                 raw_products = []
-                for cat_url in categories_to_crawl:
+                for cat_idx, cat_url in enumerate(categories_to_crawl, 1):
                     deadline.check_deadline()
                     remaining = max_products - len(raw_products) if max_products else None
                     if remaining is not None and remaining <= 0:
                         break
+
+                    # Update Telegram progress during category crawling so the user sees real-time activity
+                    if self.telegram_notifier.is_configured and progress_msg_map:
+                        if (time.time() - last_progress_time >= 25.0) or (cat_idx == 1):
+                            last_progress_time = time.time()
+                            try:
+                                await self.telegram_notifier.update_progress(
+                                    message_map=progress_msg_map,
+                                    stage_name=f"حصر وتجميع المنتجات (تصنيف {cat_idx}/{len(categories_to_crawl)})",
+                                    current=len(raw_products),
+                                    total=max_products if max_products < 10000 else len(raw_products) + (len(categories_to_crawl) - cat_idx) * 150,
+                                    elapsed_seconds=time.time() - deadline.start_time,
+                                )
+                            except Exception:
+                                pass
+
                     try:
                         prods = await self.crawler.crawl_category_products(
                             cat_url, max_items=remaining
