@@ -1,6 +1,8 @@
 ﻿from datetime import datetime, timezone
+from rv_winner_scout.domain.enums import AudienceBreadth, TrafficBenchmark, TrafficConfidence
 from rv_winner_scout.domain.models import (
     ProductCandidate,
+    ProductOpportunity,
     RawAmazonProduct,
     RunHealthReport,
     ScoreBreakdown,
@@ -46,6 +48,14 @@ def test_dashboard_generator_should_be_tested_tier() -> None:
             is_winner=True,
             is_should_test=False,
         ),
+        opportunity=ProductOpportunity(
+            visual_hook="Watch 3-ton RV drive over interlocking ramp stack without slipping",
+            facebook_angle="Never struggle with unlevel camp sites or unstable jacks again",
+            why_next_winner="High impulse necessity for any travel trailer owner",
+            why_fail="Bulky storage requirements",
+            traffic_benchmark=TrafficBenchmark.P_25_50,
+            confidence=TrafficConfidence.HIGH,
+        ),
     )
 
     raw2 = RawAmazonProduct(
@@ -75,6 +85,14 @@ def test_dashboard_generator_should_be_tested_tier() -> None:
             total_score=76.5,
             is_winner=False,
             is_should_test=True,
+        ),
+        opportunity=ProductOpportunity(
+            visual_hook="Running an RV rooftop AC off a tiny 2000W generator on silent mode",
+            facebook_angle="Boondockers & dry campers: Run your full AC without giant generator",
+            why_next_winner="Solves massive power surge bottleneck for off-grid camping",
+            why_fail="Requires wiring installation inside AC shroud",
+            traffic_benchmark=TrafficBenchmark.P_25_50,
+            confidence=TrafficConfidence.HIGH,
         ),
     )
 
@@ -128,3 +146,9 @@ def test_dashboard_generator_should_be_tested_tier() -> None:
     assert 'data-type="candidate"' in html_out
     assert "RESEARCH CANDIDATE" in html_out
     assert "Should Be Tested" in html_out
+
+    # Check Marketing Angles & Visual Hooks
+    assert "Marketing / FB Angle:" in html_out
+    assert "Visual Hook (0-3s):" in html_out
+    assert "Never struggle with unlevel camp sites" in html_out
+    assert "Running an RV rooftop AC off a tiny 2000W generator" in html_out

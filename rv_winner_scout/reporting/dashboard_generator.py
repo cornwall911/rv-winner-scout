@@ -113,6 +113,8 @@ def generate_executive_dashboard_html(
         images_json = html.escape(json.dumps(images_list))
         first_img = images_list[0]
 
+        visual_hook = html.escape(cand.opportunity.visual_hook if cand.opportunity else "Show real-time problem demonstration in the first 3 seconds.")
+        fb_angle = html.escape(cand.opportunity.facebook_angle if cand.opportunity else "Target RV travelers & campers experiencing this exact issue.")
         why_next = html.escape(cand.opportunity.why_next_winner if cand.opportunity else "High organic demand & natural RV utility.")
         why_fail = html.escape(cand.opportunity.why_fail if cand.opportunity else "Specific RV vehicle fit requirements.")
 
@@ -179,15 +181,36 @@ def generate_executive_dashboard_html(
                     </a>
                 </div>
 
-                <!-- Commercial Insights -->
+                <!-- Marketing & Commercial Angles -->
                 <div class="insights-box">
-                    <div class="insight-row">
-                        <strong class="insight-label-why">🎯 Why It Converts:</strong>
-                        <p>{why_next}</p>
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">📣 Marketing / FB Angle:</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="{fb_angle}" title="Copy Marketing Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">{fb_angle}</p>
                     </div>
+
+                    <div class="insight-row hook-row">
+                        <div class="insight-header">
+                            <span class="insight-label-hook">🎬 Visual Hook (0-3s):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="{visual_hook}" title="Copy Visual Hook">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">{visual_hook}</p>
+                    </div>
+
                     <div class="insight-row">
-                        <strong class="insight-label-risk">⚠️ Bottleneck / Risk:</strong>
-                        <p>{why_fail}</p>
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">{why_next}</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">{why_fail}</p>
                     </div>
                 </div>
 
@@ -654,13 +677,47 @@ def generate_executive_dashboard_html(
         .btn-walmart {{ background: #0071DC; color: #fff; }}
         .btn-store:hover {{ opacity: 0.88; }}
 
-        /* Insights */
-        .insights-box {{ margin-bottom: 16px; font-size: 0.84rem; }}
-        .insight-row {{ margin-bottom: 10px; }}
-        .insight-label-why {{ color: var(--accent); font-size: 0.82rem; font-weight: 700; display: block; margin-bottom: 2px; }}
-        .insight-label-risk {{ color: var(--amazon-color); font-size: 0.82rem; font-weight: 700; display: block; margin-bottom: 2px; }}
-        .insight-row strong {{ color: var(--text-primary); font-size: 0.82rem; }}
-        .insight-row p {{ color: var(--text-secondary); margin-top: 2px; line-height: 1.45; }}
+        /* Marketing Angles & Commercial Insights */
+        .insights-box {{
+            margin-bottom: 16px;
+            font-size: 0.84rem;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }}
+        .insight-row {{
+            background: var(--bg-card-alt);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 8px 12px;
+        }}
+        .insight-header {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 4px;
+        }}
+        .insight-label-angle {{ color: #818CF8; font-size: 0.76rem; font-weight: 700; }}
+        .insight-label-hook {{ color: #F43F5E; font-size: 0.76rem; font-weight: 700; }}
+        .insight-label-why {{ color: var(--accent); font-size: 0.76rem; font-weight: 700; }}
+        .insight-label-risk {{ color: var(--amazon-color); font-size: 0.76rem; font-weight: 700; }}
+        .insight-text {{ color: var(--text-secondary); font-size: 0.82rem; line-height: 1.45; margin: 0; }}
+        .btn-copy-sm {{
+            background: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-muted);
+            padding: 2px 7px;
+            border-radius: 4px;
+            font-size: 0.70rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }}
+        .btn-copy-sm:hover {{
+            background: var(--accent-soft);
+            color: var(--accent);
+            border-color: var(--accent);
+        }}
 
         /* Card Actions */
         .card-actions {{ margin-top: auto; padding-top: 12px; border-top: 1px solid var(--border-color); }}
@@ -1145,6 +1202,25 @@ def generate_executive_dashboard_html(
                 btn.innerText = '✅ Downloaded (' + images.length + ' Images)';
                 setTimeout(() => {{ btn.innerText = origText; }}, 3000);
             }}
+        }}
+
+        // 3.5 Copy Marketing / Creative Angle
+        function copySnippet(btn) {{
+            const text = btn.getAttribute('data-copy');
+            if (!text) return;
+            navigator.clipboard.writeText(text).then(() => {{
+                const orig = btn.innerText;
+                btn.innerText = "✓ Copied";
+                btn.style.color = "var(--accent)";
+                btn.style.borderColor = "var(--accent)";
+                setTimeout(() => {{
+                    btn.innerText = orig;
+                    btn.style.color = "";
+                    btn.style.borderColor = "";
+                }}, 1800);
+            }}).catch(err => {{
+                console.error("Copy failed", err);
+            }});
         }}
 
         // 4. Live Search and Filter
