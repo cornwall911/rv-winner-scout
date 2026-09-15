@@ -289,6 +289,10 @@ def generate_executive_dashboard_html(
         </div>
         """
 
+    changed_tab_btn = ""
+    if health.products_changed > 0:
+        changed_tab_btn = f'<button class="filter-btn" onclick="setFilter(\'changed\', this)">🔄 Changed ({health.products_changed})</button>'
+
     html_content = f"""<!DOCTYPE html>
 <html lang="en" data-theme="slate">
 <head>
@@ -1139,7 +1143,7 @@ def generate_executive_dashboard_html(
                 <button class="filter-btn" onclick="setFilter('winner', this)">🏆 Winners ({winners_count})</button>
                 <button class="filter-btn" onclick="setFilter('should_test', this)">🧪 Should Be Tested ({should_test_count})</button>
                 <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates ({candidates_count})</button>
-                {f'<button class="filter-btn" onclick="setFilter(\\\'changed\\\', this)">🔄 Changed ({health.products_changed})</button>' if health.products_changed > 0 else ''}
+                {changed_tab_btn}
             </div>
 
             <div class="sort-wrapper">
