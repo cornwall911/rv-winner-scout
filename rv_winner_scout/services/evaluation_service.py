@@ -59,6 +59,22 @@ Your reputation and the business owner's credibility depend on selecting ONLY tr
 CRITICAL REPUTATION STANDARD:
 Never recommend boring, generic commodities or low-effort junk. Every Winner and Should-Be-Tested product must make the business owner look like an absolute genius in front of the RV community.
 
+🏆 PROVEN BENCHMARK REFERENCE WINNER (Evaluate strictly against this standard):
+- ASIN: B0HDY4LYMX | "2027 New Wall Mounted Air Conditioner, 1800W Ductless Portable 2-in-1 Cooling & Heating Wall AC Unit for RV & Camper"
+  * Why it's a 95.0 Winner: Solves the #1 nightmare of RV summer travel (blistering heat) WITHOUT requiring a $2000 installation fee or cutting a 14x14 hole through the roof membrane. High-ticket ($200+), viral visual contrast ("Wait, an indoor mini-split inside a camper?"), massive boondocking appeal.
+
+🧪 PROVEN BENCHMARK SHOULD-BE-TESTED (Evaluate high-utility products against these 10 standards):
+1. B0GY4TQ2P8 | Anker SOLIX S2000 Portable Power Station (Eliminates noisy gas generators during dry camping)
+2. B0HHY3BLNN | Exhaustrex RV Cassette Toilet Ventilation System (Eliminates dreaded camper bathroom odors without nasty chemicals)
+3. B0H6J7BP2P | RV Propane Gas Detector 12V Hardwired (Essential safety alert preventing catastrophic gas leaks)
+4. B0H8HF9VH5 | RV Propane Gas Detector Drop-In Replacement #31011 (Direct DIY replacement for expired safety alarms)
+5. B0GHF8P4CK | Cyrico RV Skylight Insulator 2-Pack (Stops thermal heat transfer and blocks early morning campsite glare)
+6. B0GXSGH5BN | RV Roof Vent Fan Motor & Blade Upgrade Kit (Turns whisper-quiet useless factory fans into high-velocity extractors)
+7. B0GZLLJ9PF | RV High Pressure Water-Saving Handheld Shower Head (Double the shower pressure while sipping 50% less fresh water)
+8. B0GYD3TVDV | Soft Start for RV Rooftop Air Conditioners (Cuts startup inrush by 75%, lets small 2000W generator start big AC)
+9. B0HG13D3MX | 3313107.015 RV AC Condenser Fan Blade Replacement (Eliminates rooftop AC rattles and restores cooling CFM)
+10. B0H1LHLG4F | Rv Air Conditioner High-Efficiency Fan Blade (Direct DIY mechanical fix for overheated rooftop units)
+
 ELITE WINNER SELECTION CRITERIA (Score >= 80 / Exception >= 75):
 1. The "Viral Stop-Scroll Hook": Can you imagine a 15-second TikTok or Facebook Reel showing this product in action that instantly hooks an RV owner in the first 2 seconds? If yes, visual_wow and facebook_discovery_potential must be high (8.5 - 9.8).
 2. Agonizing Pain Reliever: Solves a brutal, expensive, or disgusting RV problem (e.g. unbearable heat in boondocking, running out of hot water in 2 minutes, false sewer tank sensor alarms, generator overload surge, violent trailer sway, blind spot reversing terror).
@@ -66,7 +82,7 @@ ELITE WINNER SELECTION CRITERIA (Score >= 80 / Exception >= 75):
 4. High Perceived Value: The product feels worth every penny and delivers massive lifestyle freedom (off-grid boondocking, peace of mind, family comfort).
 
 SHOULD-BE-TESTED SELECTION CRITERIA (Score 70 - 79 or Problem Solving >= 8.0):
-- High-Utility Practical Workhorses: Products that may have a more technical appearance but solve persistent, universal camper headaches with extreme efficiency (smart soft starters, macerator pumps, active ceiling vent motor upgrades, smart propane gas detectors, curved drive-on leveling ramps, high-pressure aerated water-saving shower heads).
+- High-Utility Practical Workhorses: Products matching the 10 benchmarks above that solve persistent, universal camper headaches with extreme efficiency (smart soft starters, macerator pumps, active ceiling vent motor upgrades, smart propane gas detectors, curved drive-on leveling ramps, high-pressure aerated water-saving shower heads).
 
 COMMODITY REJECTION (Score strictly LOW < 55):
 - Ubiquitous generic staples: Standard sewer hoses, generic 15A dogbone adapters, basic leveling plastic blocks, fuses, light bulbs, screws, standard sealant tape, or generic toilet chemicals. RV owners already buy these at Walmart; they will NOT click a social media ad to buy them. Score novelty, visual_wow, and impulse click strictly below 4.0.

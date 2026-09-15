@@ -297,14 +297,6 @@ def generate_executive_dashboard_html(
         matched_arch = ArchetypeMatcher.match_candidate(raw_title)
         archetype_pill = f'<span class="archetype-pill">{matched_arch.badge_label}</span>' if matched_arch else ""
         archetype_row_html = ""
-        if matched_arch:
-            archetype_row_html = f"""
-                    <div class="insight-row archetype-row">
-                        <div class="insight-header">
-                            <span class="insight-label-archetype">🧬 Learned Product DNA:</span>
-                        </div>
-                        <p class="insight-text">{matched_arch.core_latent_value} <span class="archetype-meta">({matched_arch.badge_label})</span></p>
-                    </div>"""
 
         cards_html += f"""
         <div class="product-card {status_class}" data-title="{title.lower()} {asin.lower()}" data-type="{data_type}" data-changed="{cand.change_type or 'none'}" data-score="{score_val:.2f}" data-price="{price_num:.2f}" data-bsr="{bsr_num}">
@@ -589,14 +581,20 @@ def generate_executive_dashboard_html(
             color: var(--text-secondary);
             font-size: 0.82rem;
             font-weight: 600;
-            padding: 6px 12px;
-            border-radius: 6px;
+            padding: 6px 14px;
+            border-radius: 8px;
             cursor: pointer;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        }}
+        .filter-btn:hover {{
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.05);
         }}
         .filter-btn.active {{
             background: var(--accent-soft);
             color: var(--accent);
             border-color: var(--accent);
+            box-shadow: 0 2px 8px rgba(16, 185, 129, 0.2);
         }}
 
         .sort-wrapper {{
@@ -641,7 +639,18 @@ def generate_executive_dashboard_html(
             display: flex;
             flex-direction: column;
             box-shadow: var(--card-shadow);
-            transition: transform 0.25s ease, border-color 0.25s ease;
+            transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease, opacity 0.3s ease;
+            animation: fadeInCard 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+        }}
+        @keyframes fadeInCard {{
+            from {{
+                opacity: 0;
+                transform: translateY(12px) scale(0.98);
+            }}
+            to {{
+                opacity: 1;
+                transform: translateY(0) scale(1);
+            }}
         }}
         .product-card:hover {{
             transform: translateY(-3px);
@@ -1269,7 +1278,16 @@ def generate_executive_dashboard_html(
                     || (type === currentFilter)
                     || (currentFilter === 'changed' && changed && changed !== 'none');
 
-                card.style.display = (matchesSearch && matchesFilter) ? 'flex' : 'none';
+                if (matchesSearch && matchesFilter) {{
+                    if (card.style.display === 'none') {{
+                        card.style.display = 'flex';
+                        card.style.animation = 'none';
+                        card.offsetHeight; /* trigger reflow */
+                        card.style.animation = 'fadeInCard 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards';
+                    }}
+                }} else {{
+                    card.style.display = 'none';
+                }}
             }});
         }}
 
