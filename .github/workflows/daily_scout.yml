@@ -67,7 +67,7 @@ jobs:
           GOOGLE_SHEETS_CREDENTIALS_JSON: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS_JSON }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          MAX_PRODUCTS_PER_RUN: 10000
+          MAX_PRODUCTS_PER_RUN: 50000
           GLOBAL_DEADLINE_MINUTES: 170
           SELECTED_MODE: ${{ inputs.mode || 'full' }}
         run: |

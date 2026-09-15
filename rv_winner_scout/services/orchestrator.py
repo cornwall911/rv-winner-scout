@@ -180,7 +180,7 @@ class PipelineOrchestrator:
         else:
             # Full category coverage as mandated by prompt
             max_categories = None
-            max_products = self.settings.max_products_per_run if self.settings.max_products_per_run > 0 else 10000
+            max_products = self.settings.max_products_per_run if self.settings.max_products_per_run > 0 else 50000
             crawl_depth = 3
 
         logger.info("Starting RV Winner Scout run %s in [%s] mode (max: %d)", run_id, run_mode_val, max_products)
