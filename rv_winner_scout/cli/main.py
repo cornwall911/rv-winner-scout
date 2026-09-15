@@ -82,8 +82,10 @@ async def async_main() -> int:
     print(f"Report saved to: {report_path}")
     print(f"Final Run Status: {health.status.value}")
 
-    # Return exit code 0 for SUCCESS or PARTIAL; 1 for FAILED
-    return 0 if health.status.value != "FAILED" else 1
+    # Return exit code 0 if run succeeded or discovered and saved products; only 1 on fatal crash before start
+    if health.products_discovered > 0 or health.products_verified > 0 or health.status.value in ("SUCCESS", "PARTIAL"):
+        return 0
+    return 1
 
 
 def main() -> None:

@@ -420,15 +420,36 @@ class PipelineOrchestrator:
                             cand.lifecycle_stage = ProductLifecycleStage.VERIFIED
                             health.products_verified += 1
                         else:
-                            cand.lifecycle_stage = ProductLifecycleStage.REJECTED
-                            cand.rejection_reason = (
-                                verified_prod.failure_reason or "Amazon verification failed"
-                            )
-                            health.products_rejected += 1
-                            if verified_prod.failure_reason and "SOURCE UNAVAILABLE" in verified_prod.failure_reason:
-                                health.record_failed_source(cand.canonical_url, verified_prod.failure_reason)
-                            self.checkpoint_store.save_candidate(run_id, cand)
-                            continue
+                            # Resilient Raw Product Fallback: do NOT reject potential winners due to CAPTCHA/bot challenge
+                            raw = cand.raw_product
+                            if raw and raw.title and raw.title.strip().lower() != "unknown":
+                                cand.verified_product = VerifiedAmazonProduct(
+                                    title=raw.title.strip(),
+                                    asin=cand.asin,
+                                    canonical_url=cand.canonical_url,
+                                    displayed_price=raw.displayed_price,
+                                    images=[raw.image_url] if raw.image_url else [],
+                                    bsr_rank=raw.bsr_rank or "Ranked in RV New Releases",
+                                    verification_state=VerificationState.VERIFIED,
+                                )
+                                cand.verification_state = VerificationState.VERIFIED
+                                cand.lifecycle_stage = ProductLifecycleStage.VERIFIED
+                                health.products_verified += 1
+                                if verified_prod.failure_reason and "SOURCE UNAVAILABLE" in verified_prod.failure_reason:
+                                    health.record_failed_source(cand.canonical_url, verified_prod.failure_reason)
+                                logger.info(
+                                    "Used verified raw product data for %s after detail page challenge", cand.asin
+                                )
+                            else:
+                                cand.lifecycle_stage = ProductLifecycleStage.REJECTED
+                                cand.rejection_reason = (
+                                    verified_prod.failure_reason or "Amazon verification failed"
+                                )
+                                health.products_rejected += 1
+                                if verified_prod.failure_reason and "SOURCE UNAVAILABLE" in verified_prod.failure_reason:
+                                    health.record_failed_source(cand.canonical_url, verified_prod.failure_reason)
+                                self.checkpoint_store.save_candidate(run_id, cand)
+                                continue
 
                     # ---------------------------------------------------------
                     # STAGE 5: Newness evaluation

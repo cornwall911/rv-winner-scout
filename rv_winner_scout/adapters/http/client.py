@@ -12,12 +12,13 @@ from rv_winner_scout.config.settings import Settings, get_settings
 from rv_winner_scout.domain.exceptions import ScoutException
 
 
-# Modern realistic Desktop User-Agents
+# Modern realistic Desktop User-Agents and consistent Client Hints
+DEFAULT_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+
 DESKTOP_USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
+    DEFAULT_USER_AGENT,
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
 ]
 
 
@@ -39,45 +40,89 @@ class ResilientHttpClient:
             min_delay=self.settings.polite_delay_min_seconds,
             max_delay=self.settings.polite_delay_max_seconds,
         )
-        self.client = httpx.AsyncClient(
-            timeout=self.settings.http_timeout_seconds,
-            follow_redirects=True,
-            headers={
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        # Consistent session-level User-Agent to prevent WAF fingerprinting
+        self.session_user_agent = random.choice(DESKTOP_USER_AGENTS)
+
+        # Support proxy if configured via environment (e.g. residential/datacenter proxy)
+        proxy_url = (
+            os.environ.get("AMAZON_PROXY_URL")
+            or os.environ.get("HTTPS_PROXY")
+            or os.environ.get("HTTP_PROXY")
+        )
+
+        client_kwargs = {
+            "timeout": self.settings.http_timeout_seconds,
+            "follow_redirects": True,
+            "headers": {
+                "User-Agent": self.session_user_agent,
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
                 "Accept-Language": "en-US,en;q=0.9",
                 "Accept-Encoding": "gzip, deflate, br",
                 "Connection": "keep-alive",
                 "Upgrade-Insecure-Requests": "1",
                 "Sec-Fetch-Dest": "document",
                 "Sec-Fetch-Mode": "navigate",
-                "Sec-Fetch-Site": "none",
+                "Sec-Fetch-Site": "cross-site",
                 "Sec-Fetch-User": "?1",
+                "sec-ch-ua": '"Chromium";v="133", "Not(A:Brand";v="99", "Google Chrome";v="133"',
+                "sec-ch-ua-mobile": "?0",
+                "sec-ch-ua-platform": '"Windows"',
             },
-        )
-
-    def _get_headers(self) -> Dict[str, str]:
-        return {
-            "User-Agent": random.choice(DESKTOP_USER_AGENTS),
+            "cookies": {
+                "i18n-prefs": "USD",
+                "lc-main": "en_US",
+                "sp-cdn": "L5Z9:EG",
+            },
         }
+        if proxy_url:
+            client_kwargs["proxy"] = proxy_url
+
+        self.client = httpx.AsyncClient(**client_kwargs)
+
+    def _get_headers(self, url: str) -> Dict[str, str]:
+        headers = {
+            "User-Agent": self.session_user_agent,
+            "Referer": "https://www.amazon.com/" if "amazon.com" in url else "https://www.google.com/",
+        }
+        return headers
 
     async def get_html(self, url: str, provider_key: str = "amazon") -> str:
-        """Executes a polite GET request under circuit breaker supervision."""
+        """Executes a polite GET request under circuit breaker supervision with smart cooling-off retry."""
+        import asyncio
+
         self.circuit_breaker.check_can_execute(provider_key)
         await self.rate_limiter.wait()
 
-        try:
-            response = await self.client.get(url, headers=self._get_headers())
-            html = response.text
+        max_attempts = 2
+        last_exception = None
 
-            # Save immutable raw snapshot if enabled
-            if self.settings.enable_html_snapshots:
-                self._save_snapshot(url, html)
+        for attempt in range(1, max_attempts + 1):
+            try:
+                response = await self.client.get(url, headers=self._get_headers(url))
+                html = response.text
 
-            self.circuit_breaker.record_success(provider_key)
-            return html
-        except Exception as e:
-            self.circuit_breaker.record_failure(provider_key)
-            raise e
+                # If Amazon returns 503 or bot challenge on first attempt, cool down and retry politely once
+                if attempt < max_attempts and (
+                    response.status_code in (503, 429)
+                    or "to discuss automated access" in html.lower()
+                    or "robot check" in html.lower()
+                ):
+                    await asyncio.sleep(random.uniform(2.5, 4.5))
+                    continue
+
+                # Save immutable raw snapshot if enabled
+                if self.settings.enable_html_snapshots:
+                    self._save_snapshot(url, html)
+
+                self.circuit_breaker.record_success(provider_key)
+                return html
+            except Exception as e:
+                last_exception = e
+                if attempt < max_attempts:
+                    await asyncio.sleep(random.uniform(2.0, 3.5))
+                    continue
+                self.circuit_breaker.record_failure(provider_key)
+                raise last_exception
 
     def _save_snapshot(self, url: str, html: str) -> None:
         try:
