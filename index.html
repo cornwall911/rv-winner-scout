@@ -820,10 +820,9 @@
                     <span class="pulse-dot"></span> Live Feed
                 </div>
 
-                <button id="refreshBtn" class="btn-refresh" onclick="manualRefresh()" title="Click to check and refresh latest discoveries">
+                <button id="refreshBtn" class="btn-refresh" onclick="manualRefresh()" title="Click to refresh latest discoveries">
                     <span id="refreshIcon" class="refresh-icon">🔄</span>
-                    <span id="refreshText">Refresh</span>
-                    <span id="syncCountdown" class="sync-countdown">(45s)</span>
+                    <span id="refreshText">Refresh Feed</span>
                 </button>
 
                 <button class="btn-logout" onclick="logout()" title="Sign Out">
@@ -5941,17 +5940,16 @@
             showLogin();
         }
 
-        // 7. Real-Time Auto-Refresh & Background Live Sync Engine
-        let countdownSeconds = 45;
+        // 7. Manual Live Refresh Engine
         let isSyncing = false;
 
-        async function refreshLiveDashboard(isManual = false) {
+        async function refreshLiveDashboard() {
             if (isSyncing) return;
             isSyncing = true;
             const icon = document.getElementById('refreshIcon');
             const text = document.getElementById('refreshText');
             if (icon) icon.classList.add('spinning');
-            if (text && isManual) text.innerText = 'Syncing...';
+            if (text) text.innerText = 'Checking...';
 
             try {
                 const url = window.location.pathname + '?_v=' + Date.now();
@@ -5996,37 +5994,23 @@
 
                     if (newCardsCount > curCardsCount) {
                         showToast('🎉 ' + (newCardsCount - curCardsCount) + ' new products added!');
-                    } else if (isManual) {
+                    } else {
                         showToast('✅ Feed is up to date (' + curCardsCount + ' items)');
                     }
                 }
             } catch (err) {
-                console.warn('Background sync error:', err);
-                if (isManual) {
-                    window.location.reload(true);
-                }
+                console.warn('Refresh error:', err);
+                window.location.reload(true);
             } finally {
                 if (icon) icon.classList.remove('spinning');
-                if (text) text.innerText = 'Refresh';
-                countdownSeconds = 45;
+                if (text) text.innerText = 'Refresh Feed';
                 isSyncing = false;
             }
         }
 
         function manualRefresh() {
-            refreshLiveDashboard(true);
+            refreshLiveDashboard();
         }
-
-        // Auto-refresh timer: ticks every second, syncs every 45s
-        setInterval(() => {
-            countdownSeconds--;
-            const cd = document.getElementById('syncCountdown');
-            if (cd) cd.innerText = '(' + countdownSeconds + 's)';
-            if (countdownSeconds <= 0) {
-                countdownSeconds = 45;
-                refreshLiveDashboard(false);
-            }
-        }, 1000);
 
         function showToast(msg) {
             let toast = document.getElementById('scoutToast');
