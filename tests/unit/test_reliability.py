@@ -103,3 +103,79 @@ def test_health_monitor_status() -> None:
     monitor.set_fatal_failure("Amazon root page CAPTCHA blocked")
     rep3 = monitor.build_report()
     assert rep3.status == RunStatus.FAILED
+
+
+@pytest.mark.asyncio
+async def test_telegram_realtime_alert() -> None:
+    from unittest.mock import AsyncMock, patch
+    from rv_winner_scout.adapters.telegram.notifier import TelegramNotifier
+    from rv_winner_scout.config.settings import Settings
+    from rv_winner_scout.domain.enums import TrafficBenchmark, TrafficConfidence
+    from rv_winner_scout.domain.models import ProductOpportunity, ScoreBreakdown, VerifiedAmazonProduct
+
+    settings = Settings(TELEGRAM_BOT_TOKEN="fake_token", TELEGRAM_CHAT_ID="12345")
+    notifier = TelegramNotifier(settings=settings)
+
+    candidate = ProductCandidate(
+        canonical_url="https://amazon.com/dp/B0TESTWINNER",
+        asin="B0TESTWINNER",
+        normalized_title="Ultrasonic RV Water Tank Monitor",
+        raw_product=RawAmazonProduct(
+            title="Ultrasonic RV Water Tank Monitor",
+            url="https://amazon.com/dp/B0TESTWINNER",
+            asin="B0TESTWINNER",
+            category="RV Parts",
+            source_page_url="https://amazon.com",
+            price=69.99,
+            displayed_price=69.99,
+        ),
+        verified_product=VerifiedAmazonProduct(
+            asin="B0TESTWINNER",
+            canonical_url="https://amazon.com/dp/B0TESTWINNER",
+            title="Ultrasonic RV Water Tank Monitor",
+            displayed_price=69.99,
+            bsr_rank="#4 in RV Freshwater Tanks",
+            bullet_points=["Non-invasive tank sensing"],
+            images=[],
+            newness_evidence=[],
+            verification_state=VerificationState.VERIFIED,
+        ),
+        scores=ScoreBreakdown(
+            facebook_discovery_potential=18.0,
+            rv_facebook_exposure=14.0,
+            rv_relevance=15.0,
+            novelty_newness=14.0,
+            problem_solving_power=9.5,
+            visual_wow=9.0,
+            space_convenience=4.0,
+            impulse_click_potential=4.0,
+            rv_audience_breadth=4.0,
+            total_score=87.5,
+            is_winner=True,
+            is_should_test=False,
+        ),
+        opportunity=ProductOpportunity(
+            visual_hook="Stick magnetic sensor under tank and watch live water level on phone",
+            facebook_angle="Never drill into your RV tanks again",
+            why_next_winner="High margin non-invasive RV sensor solving dirty sensor failures",
+            why_fail="Requires clean flat bottom tank surface",
+            traffic_benchmark=TrafficBenchmark.P_25_50,
+            confidence=TrafficConfidence.HIGH,
+        ),
+        identified_pain_points=["water tanks & plumbing"],
+    )
+
+    with patch.object(notifier, "send_message", new_callable=AsyncMock) as mock_send:
+        mock_send.return_value = True
+        success = await notifier.notify_realtime_discovery(candidate, is_winner=True)
+        assert success is True
+        mock_send.assert_called_once()
+        msg_text = mock_send.call_args[0][0]
+        assert "WINNER" in msg_text
+        assert "Ultrasonic RV Water Tank Monitor" in msg_text
+        assert "B0TESTWINNER" in msg_text
+        assert "$69.99" in msg_text
+        assert "87.5 / 100" in msg_text
+        assert "Stick magnetic sensor under tank" in msg_text
+        assert "Google Sheets" not in msg_text
+

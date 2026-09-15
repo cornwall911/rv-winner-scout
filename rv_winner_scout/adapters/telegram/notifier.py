@@ -189,6 +189,64 @@ class TelegramNotifier:
                 except Exception as exc:
                     logger.debug("Failed to finish progress message for %s: %s", cid, exc)
 
+    async def notify_realtime_discovery(
+        self, candidate: ProductCandidate, is_winner: bool = True
+    ) -> bool:
+        """Sends an immediate, high-priority flash alert to Telegram when a Winner or Should-Test product is found."""
+        if not self.is_configured:
+            return False
+
+        dashboard_url = "https://almostafa-scout.workers.dev/"
+        title_raw = candidate.verified_product.title if candidate.verified_product else candidate.raw_product.title
+        title = html.escape(title_raw[:85] + ("..." if len(title_raw) > 85 else ""))
+        asin = candidate.asin
+        score = candidate.scores.total_score if candidate.scores else 0.0
+        price_val = candidate.verified_product.displayed_price if candidate.verified_product else (candidate.raw_product.displayed_price if candidate.raw_product else None)
+        price_str = f"${price_val:.2f}" if price_val is not None else "N/A"
+
+        bsr_str = ""
+        if candidate.verified_product and candidate.verified_product.bsr_rank:
+            bsr_str = candidate.verified_product.bsr_rank
+        elif candidate.raw_product and candidate.raw_product.bsr_rank:
+            bsr_str = candidate.raw_product.bsr_rank
+        else:
+            bsr_str = "Ranked in RV New Releases"
+
+        opp = candidate.opportunity
+        hook = html.escape(opp.visual_hook) if opp and opp.visual_hook else "Strong stop-scroll visual novelty"
+        why_win = html.escape(opp.why_next_winner) if opp and opp.why_next_winner else "Solves a critical high-friction RV travel pain point"
+        risk = html.escape(opp.why_fail) if opp and opp.why_fail else "Model-specific fit / installation requirements"
+
+        pain_points = candidate.identified_pain_points or []
+        pain_str = html.escape(", ".join(pain_points[:2])) if pain_points else "Campground setup & maintenance"
+
+        if is_winner:
+            header = "🏆 <b>RV Winner Scout | رصد منتج فائز جديد! (WINNER)</b>"
+            badge = f"🥇 <b>التقييم:</b> <code>{score:.1f} / 100</code> ⭐⭐⭐"
+        else:
+            header = "🧪 <b>RV Winner Scout | رصد منتج واعد للاختبار (SHOULD TEST)</b>"
+            badge = f"⚡ <b>التقييم:</b> <code>{score:.1f} / 100</code>"
+
+        lines = [
+            header,
+            "═══════════════════════════",
+            f"📦 <b>المنتج:</b> <b>{title}</b>",
+            f"🆔 <b>ASIN:</b> <code>{asin}</code>",
+            badge,
+            f"💵 <b>سعر أمازون:</b> <b>{price_str}</b>",
+            f"📈 <b>تصنيف BSR:</b> <code>{html.escape(bsr_str)}</code>",
+            f"🎯 <b>حل المشكلة:</b> {pain_str}",
+            "───────────────────────────",
+            f"🎬 <b>الخطاف الإعلاني (Hook):</b> <i>{hook}</i>",
+            f"💰 <b>سر التحويل والمبيعات:</b> {why_win}",
+            f"⚠️ <b>المخاطرة / العائق:</b> <i>{risk}</i>",
+            "───────────────────────────",
+            f"🛒 <a href='{candidate.canonical_url}'>معاينة المنتج على أمازون ↗</a>",
+            f"🌐 <a href='{dashboard_url}'>عرض في الداشبورد المباشر (Live Dashboard) ↗</a>",
+        ]
+        text = "\n".join(lines)
+        return await self.send_message(text)
+
     async def notify_run_completed(
         self,
         reviewed_count: int,
@@ -201,13 +259,7 @@ class TelegramNotifier:
         if not self.is_configured:
             return False
 
-        sheet_link = (
-            f"https://docs.google.com/spreadsheets/d/{self.settings.spreadsheet_id}/edit"
-            if self.settings.spreadsheet_id
-            else "https://docs.google.com"
-        )
         dashboard_url = "https://almostafa-scout.workers.dev/"
-
         date_str = health.end_time.strftime("%Y-%m-%d")
 
         change_line = ""
@@ -229,14 +281,13 @@ class TelegramNotifier:
                 "═══════════════════════════",
                 f"📅 <b>التاريخ:</b> <code>{date_str}</code>",
                 f"🔍 <b>إجمالي المنتجات المفحوصة في أمازون:</b> {reviewed_count}",
-                f"ℹ️ <b>الحالة:</b> لم يتم رصد أي منتجات جديدة اليوم (جميع المنتجات الـ {reviewed_count} مفحوصة ومحدثة بنسبة 100% دون أي تغيير).",
+                f"ℹ️ <b>الحالة:</b> جميع المنتجات الـ {reviewed_count} مفحوصة ومحدثة بنسبة 100% دون أي تغيير.",
                 "",
                 f"🏆 <b>المنتجات الفائزة المسجلة:</b> {len(winners)} منتج في الصدارة",
                 f"🧪 <b>المرشحون ذوو الأولوية (Should-Test):</b> {len(should_be_tested or [])} منتج",
                 "",
                 "═══════════════════════════",
-                f"👉 <a href='{sheet_link}'>فتح جدول Research Log في Google Sheets</a>",
-                f"🌐 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
+                f"🌐 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard) ↗</a>",
             ]
             msg = "\n".join(lines)
         elif winners:
@@ -256,7 +307,7 @@ class TelegramNotifier:
                 lines.append(change_line)
             lines.extend([
                 "",
-                "⭐ <b>تفاصيل المنتجات الفائزة:</b>",
+                "⭐ <b>أبرز المنتجات الفائزة:</b>",
                 "───────────────────────────",
             ])
             for i, w in enumerate(winners, 1):
@@ -277,9 +328,8 @@ class TelegramNotifier:
 
             lines.extend([
                 "═══════════════════════════",
-                "📊 <b>تم تسجيل كافة التفاصيل في الشيت:</b>",
-                f"👉 <a href='{sheet_link}'>فتح جدول Research Log في Google Sheets</a>",
-                f"🌐 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
+                "🌐 <b>تم تحديث الداشبورد المباشر بالكامل:</b>",
+                f"👉 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard) ↗</a>",
             ])
             msg = "\n".join(lines)
         elif should_be_tested:
@@ -315,8 +365,7 @@ class TelegramNotifier:
 
             lines.extend([
                 "═══════════════════════════",
-                f"👉 <a href='{sheet_link}'>فتح سجل Research Log في Google Sheets</a>",
-                f"🌐 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
+                f"🌐 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard) ↗</a>",
             ])
             msg = "\n".join(lines)
         else:
@@ -345,7 +394,7 @@ class TelegramNotifier:
                 f"📅 <b>التاريخ:</b> <code>{date_str}</code>",
                 f"🔍 <b>المنتجات المفحوصة اليوم:</b> {reviewed_count}",
                 "🎯 <b>النتيجة:</b> لا يوجد منتج حقق معيار الفوز اليوم (80+)",
-                "📝 <b>حالة الشيت:</b> تم توثيق سطر الفحص اليومي بنجاح ✅",
+                "🌐 <b>الداشبورد المباشر:</b> تم تحديث الموقع وحفظ كافة النتائج بنجاح ✅",
             ]
             if change_line:
                 lines.append(change_line)
@@ -353,8 +402,7 @@ class TelegramNotifier:
             lines.extend([
                 "",
                 "═══════════════════════════",
-                f"👉 <a href='{sheet_link}'>فتح سجل Research Log في Google Sheets</a>",
-                f"🌐 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
+                f"🌐 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard) ↗</a>",
             ])
             msg = "\n".join(lines)
 

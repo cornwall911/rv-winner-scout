@@ -565,14 +565,21 @@ class PipelineOrchestrator:
                         # DIRECT REAL-TIME DASHBOARD UPDATE & CLOUDFLARE SYNC!
                         logger.info("🏆 NEW WINNER DISCOVERED [%s]! Syncing directly to live dashboard...", cand.asin)
                         self._sync_live_dashboard(
-                            reviewed_count=len(unique_candidates),
+                            reviewed_count=idx,
                             winners=winners,
                             should_test=should_test,
-                            candidates=unique_candidates,
+                            candidates=scored_candidates,
                             health_report=health.build_report(),
                             reason=f"New Winner: {cand.asin}",
                             push_git=True,
                         )
+
+                        # REAL-TIME FLASH ALERT TO TELEGRAM!
+                        if self.telegram_notifier.is_configured:
+                            try:
+                                await self.telegram_notifier.notify_realtime_discovery(cand, is_winner=True)
+                            except Exception as exc:
+                                logger.warning("Real-time Telegram Winner alert failed for %s: %s", cand.asin, exc)
 
                     elif is_cand_should_test:
                         if not any(st.asin == cand.asin for st in should_test):
@@ -582,23 +589,30 @@ class PipelineOrchestrator:
                         # DIRECT REAL-TIME DASHBOARD UPDATE & CLOUDFLARE SYNC!
                         logger.info("⭐ NEW SHOULD-TEST DISCOVERED [%s]! Syncing directly to live dashboard...", cand.asin)
                         self._sync_live_dashboard(
-                            reviewed_count=len(unique_candidates),
+                            reviewed_count=idx,
                             winners=winners,
                             should_test=should_test,
-                            candidates=unique_candidates,
+                            candidates=scored_candidates,
                             health_report=health.build_report(),
                             reason=f"New Should-Test: {cand.asin}",
                             push_git=True,
                         )
+
+                        # REAL-TIME FLASH ALERT TO TELEGRAM!
+                        if self.telegram_notifier.is_configured:
+                            try:
+                                await self.telegram_notifier.notify_realtime_discovery(cand, is_winner=False)
+                            except Exception as exc:
+                                logger.warning("Real-time Telegram Should-Test alert failed for %s: %s", cand.asin, exc)
                     else:
                         self.checkpoint_store.save_candidate(run_id, cand)
-                        # Periodic update every 10 scored candidates
-                        if len(scored_candidates) > 0 and len(scored_candidates) % 10 == 0:
+                        # Periodic update every 15 scored candidates (disk only, no git push to save network)
+                        if len(scored_candidates) > 0 and len(scored_candidates) % 15 == 0:
                             self._sync_live_dashboard(
-                                reviewed_count=len(unique_candidates),
+                                reviewed_count=idx,
                                 winners=winners,
                                 should_test=should_test,
-                                candidates=unique_candidates,
+                                candidates=scored_candidates,
                                 health_report=health.build_report(),
                                 reason=f"Periodic candidate update ({len(scored_candidates)} scored)",
                                 push_git=False,
@@ -620,11 +634,12 @@ class PipelineOrchestrator:
                     health=health.build_report(),
                 )
 
+                actual_reviewed = len(scored_candidates) if scored_candidates else len(unique_candidates)
                 self._sync_live_dashboard(
-                    reviewed_count=len(unique_candidates),
+                    reviewed_count=actual_reviewed,
                     winners=winners,
                     should_test=should_test,
-                    candidates=unique_candidates,
+                    candidates=scored_candidates if scored_candidates else unique_candidates,
                     health_report=health.build_report(),
                     reason="Final run completion",
                     push_git=True,
@@ -649,7 +664,7 @@ class PipelineOrchestrator:
                                 run_date,
                                 winners_to_append,
                                 run_id=run_id,
-                                reviewed_count=len(unique_candidates),
+                                reviewed_count=actual_reviewed,
                             )
                             health.rows_written = rows_appended
                         else:
@@ -682,7 +697,7 @@ class PipelineOrchestrator:
                         if progress_msg_map:
                             await self.telegram_notifier.finish_progress_message(progress_msg_map)
                         await self.telegram_notifier.notify_run_completed(
-                            reviewed_count=len(unique_candidates),
+                            reviewed_count=actual_reviewed,
                             winners=winners,
                             near_misses=near_misses,
                             health=final_health,

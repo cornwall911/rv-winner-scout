@@ -110,11 +110,6 @@ def generate_executive_dashboard_html(
 ) -> str:
     """Renders a clean, eye-friendly, theme-switchable dashboard with humanized marketing angles & arbitrage."""
     run_date = health.end_time.strftime("%Y-%m-%d")
-    sheet_url = (
-        f"https://docs.google.com/spreadsheets/d/{spreadsheet_id}/edit"
-        if spreadsheet_id
-        else "https://docs.google.com"
-    )
 
     winner_asins = {w.asin for w in winners}
     should_test_asins = {st.asin for st in (should_be_tested or [])}
@@ -516,20 +511,33 @@ def generate_executive_dashboard_html(
             box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
         }}
 
-        .btn-sheet {{
-            background: #107C41;
-            color: #fff;
-            padding: 8px 16px;
-            border-radius: 8px;
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.85rem;
+        .live-badge {{
             display: inline-flex;
             align-items: center;
             gap: 8px;
-            transition: opacity 0.2s;
+            font-size: 0.78rem;
+            font-weight: 700;
+            padding: 7px 14px;
+            border-radius: 999px;
+            background: rgba(16, 185, 129, 0.12);
+            color: #10B981;
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
         }}
-        .btn-sheet:hover {{ opacity: 0.9; }}
+        .pulse-dot {{
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #10B981;
+            box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7);
+            animation: pulse-green 2s infinite;
+        }}
+        @keyframes pulse-green {{
+            0% {{ transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }}
+            70% {{ transform: scale(1); box-shadow: 0 0 0 6px rgba(16, 185, 129, 0); }}
+            100% {{ transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }}
+        }}
 
         /* KPI Row */
         .kpi-row {{
@@ -1007,12 +1015,11 @@ def generate_executive_dashboard_html(
                 overflow-x: auto;
             }}
             .theme-btn {{ padding: 6px 8px; font-size: 0.74rem; }}
-            .btn-sheet, .btn-logout {{
+            .live-badge, .btn-logout {{
                 padding: 7px 10px;
                 font-size: 0.78rem;
                 white-space: nowrap;
             }}
-
             .kpi-row {{
                 grid-template-columns: repeat(2, 1fr);
                 gap: 8px;
@@ -1141,9 +1148,9 @@ def generate_executive_dashboard_html(
                     <button class="theme-btn" onclick="setTheme('light')">Light</button>
                 </div>
 
-                <a href="{sheet_url}" target="_blank" class="btn-sheet">
-                    📊 Google Sheets
-                </a>
+                <div class="live-badge" title="Real-Time Scout Live Feed Active">
+                    <span class="pulse-dot"></span> Live Feed
+                </div>
 
                 <button class="btn-logout" onclick="logout()" title="Sign Out">
                     🔒 Sign Out
