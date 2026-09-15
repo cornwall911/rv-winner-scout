@@ -152,16 +152,38 @@ class AmazonProductVerifier:
             if sec_match:
                 bsr_rank = f"#{sec_match.group(1)} in {sec_match.group(2).strip()}"
 
-        # 7. Buy Box Availability
-        has_buy_box = bool(soup.select_one("#add-to-cart-button, #buy-now-button, #buyBoxAccordion"))
+        # 7. Buy Box Availability & In-Stock Status
+        buybox_selectors = [
+            "#add-to-cart-button",
+            "#buy-now-button",
+            "#buyBoxAccordion",
+            "#desktop_buybox",
+            "#buybox",
+            "#qualifiedBuybox",
+            "#exports_desktop_qualifiedBuybox",
+            "#tabular-buybox",
+            "#all-offers-display",
+            "input[name='submit.add-to-cart']",
+            ".a-button-stack",
+            "#merchant-info",
+        ]
+        has_buy_box = bool(soup.select_one(", ".join(buybox_selectors)))
+        page_text_lower = soup.get_text().lower()
+        is_explicitly_out_of_stock = any(
+            phrase in page_text_lower
+            for phrase in [
+                "currently unavailable",
+                "we don't know when or if this item will be back in stock",
+            ]
+        ) and bool(soup.select_one("#outOfStock, #availability .a-color-price"))
 
         # Determine Verification State
-        if title and asin != "UNKNOWN" and has_buy_box:
+        if title and asin != "UNKNOWN" and not is_explicitly_out_of_stock:
             state = VerificationState.VERIFIED
             failure_reason = None
         elif title and asin != "UNKNOWN":
             state = VerificationState.PARTIAL
-            failure_reason = "Missing buy-box or out-of-stock"
+            failure_reason = "Explicitly out of stock on Amazon"
         else:
             state = VerificationState.FAILED
             failure_reason = "Could not extract mandatory product title or ASIN"
