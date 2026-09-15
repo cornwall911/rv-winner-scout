@@ -80,7 +80,7 @@ class PipelineOrchestrator:
 
         try:
             status_res = subprocess.run(
-                ["git", "status", "--porcelain", "public/index.html", "index.html"],
+                ["git", "status", "--porcelain", "public/index.html", "index.html", "data/checkpoint.db"],
                 capture_output=True,
                 text=True,
                 timeout=10,
@@ -92,14 +92,14 @@ class PipelineOrchestrator:
                 subprocess.run(["git", "config", "user.name", "github-actions[bot]"], capture_output=True, timeout=10)
                 subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], capture_output=True, timeout=10)
 
-            subprocess.run(["git", "add", "public/index.html", "index.html"], capture_output=True, timeout=10)
-            subprocess.run(["git", "commit", "-m", f"Auto-update live dashboard: {reason} [skip ci]"], capture_output=True, timeout=10)
+            subprocess.run(["git", "add", "public/index.html", "index.html", "data/checkpoint.db"], capture_output=True, timeout=10)
+            subprocess.run(["git", "commit", "-m", f"Auto-update live dashboard & state: {reason} [skip ci]"], capture_output=True, timeout=10)
 
             if os.environ.get("GITHUB_ACTIONS") == "true":
                 subprocess.run(["git", "pull", "--rebase", "origin", "main"], capture_output=True, timeout=15)
                 push_res = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True, timeout=20)
                 if push_res.returncode == 0:
-                    logger.info("Successfully pushed live dashboard update to GitHub: %s", reason)
+                    logger.info("Successfully pushed live dashboard & state update to GitHub: %s", reason)
                 else:
                     logger.warning("Git push returned code %d: %s", push_res.returncode, push_res.stderr)
         except Exception as exc:
@@ -156,10 +156,14 @@ class PipelineOrchestrator:
                 self._push_dashboard_to_git(reason)
 
     async def run(
-        self, mode: Optional[str] = None, fresh: bool = False
+        self,
+        mode: Optional[str] = None,
+        fresh: bool = False,
+        start_index: Optional[int] = None,
     ) -> Tuple[str, RunHealthReport]:
         """Executes the full 15-phase pipeline under lock and global deadline."""
         run_mode_val = mode or self.settings.run_mode
+        effective_start = start_index if start_index is not None else self.settings.start_index
         run_id = f"run_{datetime.now(timezone.utc).strftime('%Y%m%d_%H%M%S')}_{uuid.uuid4().hex[:6]}"
         health = HealthMonitor(run_id=run_id)
         deadline = DeadlineManager(deadline_minutes=self.settings.global_deadline_minutes)
@@ -311,6 +315,31 @@ class PipelineOrchestrator:
 
                     if len(unique_candidates) >= max_products:
                         break
+
+                if effective_start and effective_start > 0:
+                    start_offset = max(0, effective_start - 1)
+                    if start_offset < len(unique_candidates):
+                        logger.info(
+                            "Resuming search from product offset %d / %d (skipping first %d products)...",
+                            effective_start,
+                            len(unique_candidates),
+                            start_offset,
+                        )
+                        unique_candidates = unique_candidates[start_offset:]
+                    else:
+                        logger.warning(
+                            "Requested start_index %d exceeds discovered unique candidates %d",
+                            effective_start,
+                            len(unique_candidates),
+                        )
+                else:
+                    # Auto-prioritize: Unverified/unscored candidates come first so new products are tested immediately
+                    unique_candidates.sort(
+                        key=lambda c: (
+                            1 if (c.verified_product and c.verification_state == VerificationState.VERIFIED and c.scores is not None)
+                            else 0
+                        )
+                    )
 
                 # -------------------------------------------------------------
                 # REAL-TIME STREAMING SCOUT: STAGES 4 TO 11

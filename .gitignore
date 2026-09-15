@@ -37,8 +37,9 @@ madel-*.json
 *-*.json
 
 # Local Runtime Data
-data/
-*.db
+data/*
+!data/checkpoint.db
+/*.db
 *.sqlite
 *.sqlite3
 .run.lock

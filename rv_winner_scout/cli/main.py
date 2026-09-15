@@ -39,13 +39,21 @@ async def async_main() -> int:
         action="store_true",
         help="Ignore historical deduplication cache to re-evaluate products from scratch",
     )
+    parser.add_argument(
+        "--start-index",
+        type=int,
+        default=0,
+        help="Optional 1-based or 0-based product index offset to resume search from (e.g. 2637)",
+    )
 
     args = parser.parse_args()
     settings = get_settings()
     setup_logging(settings.log_level)
 
     orchestrator = PipelineOrchestrator(settings=settings)
-    report_md, health = await orchestrator.run(mode=args.mode, fresh=args.fresh)
+    report_md, health = await orchestrator.run(
+        mode=args.mode, fresh=args.fresh, start_index=args.start_index
+    )
 
     # 1. Save report to data/reports
     reports_dir = os.path.join(settings.data_dir, "reports")

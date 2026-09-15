@@ -40,6 +40,7 @@ class Settings(BaseSettings):
     run_mode: str = Field(default="full", alias="RUN_MODE")
     max_products_per_run: int = Field(default=10000, alias="MAX_PRODUCTS_PER_RUN")
     global_deadline_minutes: int = Field(default=45, alias="GLOBAL_DEADLINE_MINUTES")
+    start_index: int = Field(default=0, alias="START_INDEX")
 
     # Network, Timing, and Circuit Breaker
     http_timeout_seconds: float = Field(default=20.0, alias="HTTP_TIMEOUT_SECONDS")

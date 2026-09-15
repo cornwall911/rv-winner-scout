@@ -15,6 +15,11 @@ on:
           - full
           - small
           - smoke
+      start_index:
+        description: 'Start from product index offset (e.g. 2637 to resume)'
+        required: false
+        default: '0'
+        type: string
 
 jobs:
   scout:
@@ -66,7 +71,7 @@ jobs:
           GLOBAL_DEADLINE_MINUTES: 170
           SELECTED_MODE: ${{ inputs.mode || 'full' }}
         run: |
-          python run.py --mode=${SELECTED_MODE}
+          python run.py --mode=${SELECTED_MODE} --start-index=${{ inputs.start_index || '0' }}
 
       - name: Archive Reports
         if: always()
@@ -79,7 +84,9 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: daily-reports
-          path: data/reports/
+          path: |
+            data/reports/
+            data/checkpoint.db
           retention-days: 14
 
       - name: Sync Public Dashboard to Main for Cloudflare
@@ -91,6 +98,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/index.html
-          git commit -m "Auto-update Cloudflare dashboard [skip ci]" || true
+          git add public/index.html index.html data/checkpoint.db || true
+          git commit -m "Auto-update Cloudflare dashboard & state [skip ci]" || true
           git push origin main || true
