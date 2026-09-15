@@ -100,10 +100,11 @@ class WalmartResearchResult(BaseModel):
 class ProductOpportunity(BaseModel):
     """Viral/affiliate angles and rationale."""
 
-    visual_hook: str
-    facebook_angle: str
-    why_next_winner: str
-    why_fail: str
+    visual_hook: str = ""
+    facebook_angle: str = ""
+    marketing_angles: List[str] = Field(default_factory=list)
+    why_next_winner: str = ""
+    why_fail: str = ""
     traffic_benchmark: TrafficBenchmark = TrafficBenchmark.P_25_50
     confidence: TrafficConfidence = TrafficConfidence.MEDIUM
 

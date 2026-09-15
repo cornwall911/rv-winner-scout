@@ -147,11 +147,17 @@ def test_dashboard_generator_should_be_tested_tier() -> None:
     assert "RESEARCH CANDIDATE" in html_out
     assert "Should Be Tested" in html_out
 
-    # Check Marketing Angles & Visual Hooks
-    assert "Marketing / FB Angle:" in html_out
-    assert "Visual Hook (0-3s):" in html_out
+    # Verify 3 humanized marketing angles are present
+    assert "Angle 1 (Campground Reality)" in html_out
+    assert "Angle 2 (Practical RV Fix)" in html_out
+    assert "Angle 3 (Travel Peace of Mind)" in html_out
     assert "Never struggle with unlevel camp sites" in html_out
-    assert "Running an RV rooftop AC off a tiny 2000W generator" in html_out
+
+    # Verify Visual Hook, Carousel, Download All Images button, and Verdict Hero banner are completely removed
+    assert "Visual Hook (0-3s):" not in html_out
+    assert "Download All Images" not in html_out
+    assert "carousel-container" not in html_out
+    assert "Daily Research Verdict" not in html_out
 
 
 def test_dashboard_generator_delta_indicators() -> None:

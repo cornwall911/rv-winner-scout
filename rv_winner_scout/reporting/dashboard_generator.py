@@ -5,9 +5,52 @@ import json
 import os
 import urllib.parse
 from datetime import datetime, timezone
-from typing import List, Optional
+from typing import List, Optional, Tuple
 
 from rv_winner_scout.domain.models import ProductCandidate, RunHealthReport
+
+
+def generate_humanized_angles(cand: ProductCandidate) -> List[Tuple[str, str]]:
+    """Generates 3 humanized, high-converting RV marketing angles with relatable hooks and examples."""
+    opp = cand.opportunity
+    title = cand.verified_product.title if cand.verified_product else cand.raw_product.title
+    short_title = title.split("-")[0].split("|")[0].split(",")[0].strip()
+    if len(short_title) > 40:
+        short_title = short_title[:37] + "..."
+
+    # If explicit marketing angles were supplied, use them
+    if opp and opp.marketing_angles and len(opp.marketing_angles) >= 3:
+        return [
+            ("🗣️ Angle 1 (Campground Reality)", opp.marketing_angles[0]),
+            ("💡 Angle 2 (Practical RV Fix)", opp.marketing_angles[1]),
+            ("🚀 Angle 3 (Travel Peace of Mind)", opp.marketing_angles[2]),
+        ]
+
+    base_angle = opp.facebook_angle if opp and opp.facebook_angle else ""
+    pain_points = cand.identified_pain_points or []
+    primary_pain = pain_points[0] if pain_points else "campground setup & daily maintenance"
+
+    # Angle 1: Campground Reality (Relatable Frustration & Storytelling)
+    if base_angle and len(base_angle) > 20:
+        clean_angle = base_angle.replace("Target RV travelers & campers experiencing this exact issue.", "").strip()
+        if clean_angle:
+            angle_1 = f"Nothing ruins a peaceful campground evening faster than dealing with {primary_pain}: {clean_angle.rstrip('.')}. This is the exact upgrade you need before your next trip."
+        else:
+            angle_1 = f"Nothing ruins a campground weekend faster than dealing with unexpected {primary_pain}. Most RVers don't realize this fix exists until they're wrestling with it at 9 PM in the dark."
+    else:
+        angle_1 = f"Nothing ruins a campground weekend faster than dealing with unexpected {primary_pain}. Most RVers don't realize this fix exists until they're wrestling with it at 9 PM in the dark."
+
+    # Angle 2: Practical Problem Solver (Direct DIY & Save Money)
+    angle_2 = f"Skip the crazy dealership markups and $150/hr RV mechanic fees. This {short_title} takes 5 minutes to install yourself and permanently eliminates {primary_pain} headaches on the road."
+
+    # Angle 3: Off-Grid / Weekend Freedom (Lifestyle & Peace of Mind)
+    angle_3 = f"The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don't hit the road or boondock without {short_title} in your storage bay."
+
+    return [
+        ("🗣️ Angle 1 (Campground Reality)", angle_1),
+        ("💡 Angle 2 (Practical RV Fix)", angle_2),
+        ("🚀 Angle 3 (Travel Peace of Mind)", angle_3),
+    ]
 
 
 def generate_executive_dashboard_html(
@@ -19,7 +62,7 @@ def generate_executive_dashboard_html(
     candidates: Optional[List[ProductCandidate]] = None,
     should_be_tested: Optional[List[ProductCandidate]] = None,
 ) -> str:
-    """Renders a clean, eye-friendly, theme-switchable dashboard with image carousel & batch download."""
+    """Renders a clean, eye-friendly, theme-switchable dashboard with humanized marketing angles & arbitrage."""
     run_date = health.end_time.strftime("%Y-%m-%d")
     sheet_url = (
         f"https://docs.google.com/spreadsheets/d/{spreadsheet_id}/edit"
@@ -98,23 +141,20 @@ def generate_executive_dashboard_html(
         )
         walmart_label = walmart_price if walmart_price else ("Available" if walmart_status == "FOUND" else "Check Walmart")
 
-        # Collect images (from verified product or raw product)
-        images_list: List[str] = []
-        if cand.verified_product and cand.verified_product.images:
-            images_list = [img for img in cand.verified_product.images if img.startswith("http")]
-        elif cand.raw_product and cand.raw_product.images:
-            images_list = [img for img in cand.raw_product.images if img.startswith("http")]
-        elif cand.raw_product and cand.raw_product.image_url:
-            images_list = [cand.raw_product.image_url]
+        # 3 Humanized marketing angles with relatable examples
+        angles = generate_humanized_angles(cand)
+        angles_html = ""
+        for label, text in angles:
+            escaped_text = html.escape(text)
+            angles_html += f"""
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">{label}:</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="{escaped_text}" title="Copy Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">{escaped_text}</p>
+                    </div>"""
 
-        if not images_list:
-            images_list = ["https://via.placeholder.com/400x300?text=No+Image+Available"]
-
-        images_json = html.escape(json.dumps(images_list))
-        first_img = images_list[0]
-
-        visual_hook = html.escape(cand.opportunity.visual_hook if cand.opportunity else "Show real-time problem demonstration in the first 3 seconds.")
-        fb_angle = html.escape(cand.opportunity.facebook_angle if cand.opportunity else "Target RV travelers & campers experiencing this exact issue.")
         why_next = html.escape(cand.opportunity.why_next_winner if cand.opportunity else "High organic demand & natural RV utility.")
         why_fail = html.escape(cand.opportunity.why_fail if cand.opportunity else "Specific RV vehicle fit requirements.")
 
@@ -156,17 +196,6 @@ def generate_executive_dashboard_html(
                 <span class="asin-pill">ASIN: {asin}</span>
             </div>
 
-            <!-- Image Carousel -->
-            <div class="carousel-container" id="carousel-{idx}" data-images="{images_json}" data-index="0">
-                <img src="{first_img}" alt="{title}" class="carousel-img" id="img-{idx}" loading="lazy" referrerpolicy="no-referrer" onerror="handleImgError(this)" />
-                
-                <div class="carousel-controls" {'style="display:none;"' if len(images_list) <= 1 else ''}>
-                    <button class="carousel-btn btn-prev" onclick="prevSlide({idx})">‹</button>
-                    <span class="carousel-counter" id="counter-{idx}">1 / {len(images_list)}</span>
-                    <button class="carousel-btn btn-next" onclick="nextSlide({idx})">›</button>
-                </div>
-            </div>
-
             <!-- Card Content -->
             <div class="card-body">
                 <h3 class="product-title" title="{title}">{title}</h3>
@@ -193,24 +222,9 @@ def generate_executive_dashboard_html(
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Angles -->
+                <!-- Marketing & Commercial Angles (3 Humanized Angles) -->
                 <div class="insights-box">
-                    <div class="insight-row angle-row">
-                        <div class="insight-header">
-                            <span class="insight-label-angle">📣 Marketing / FB Angle:</span>
-                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="{fb_angle}" title="Copy Marketing Angle">📋 Copy</button>
-                        </div>
-                        <p class="insight-text">{fb_angle}</p>
-                    </div>
-
-                    <div class="insight-row hook-row">
-                        <div class="insight-header">
-                            <span class="insight-label-hook">🎬 Visual Hook (0-3s):</span>
-                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="{visual_hook}" title="Copy Visual Hook">📋 Copy</button>
-                        </div>
-                        <p class="insight-text">{visual_hook}</p>
-                    </div>
-
+{angles_html}
                     <div class="insight-row">
                         <div class="insight-header">
                             <span class="insight-label-why">🎯 Why It Converts:</span>
@@ -224,13 +238,6 @@ def generate_executive_dashboard_html(
                         </div>
                         <p class="insight-text">{why_fail}</p>
                     </div>
-                </div>
-
-                <!-- Action Toolbar: Download All Images -->
-                <div class="card-actions">
-                    <button class="btn-download" onclick="downloadAllProductImages({idx}, '{asin}', this)">
-                        📥 Download All Images ({len(images_list)})
-                    </button>
                 </div>
             </div>
         </div>
@@ -246,48 +253,6 @@ def generate_executive_dashboard_html(
             </p>
         </div>
     """
-
-    verdict_hero = ""
-    if reviewed_count == 0:
-        verdict_hero = """
-        <div class="verdict-banner">
-            <div class="verdict-content">
-                <h2>System Status • Standing By</h2>
-                <p class="verdict-quote">"Scout pipeline initialized with 0 active items. Next automated run scheduled for 06:00 UTC."</p>
-                <span class="verdict-note">Amazon RV New Releases node • 18-point pain point evaluation engine active.</span>
-            </div>
-        </div>
-        """
-    elif winners_count > 0:
-        verdict_hero = f"""
-        <div class="verdict-banner" style="border-left-color: var(--accent);">
-            <div class="verdict-content">
-                <h2 style="color: var(--accent);">Daily Research Verdict • {winners_count} Winner(s) Found</h2>
-                <p class="verdict-quote">"Identified <strong>{winners_count}</strong> high-conviction winning products meeting 80+ threshold and critical RV pain points."</p>
-                <span class="verdict-note">Audited {reviewed_count} candidates • Full commercial dossiers & Walmart arbitrage logged.</span>
-            </div>
-        </div>
-        """
-    elif should_test_count > 0:
-        verdict_hero = f"""
-        <div class="verdict-banner" style="border-left-color: #38BDF8;">
-            <div class="verdict-content">
-                <h2 style="color: #38BDF8;">Daily Research Verdict • {should_test_count} Product(s) Should Be Tested</h2>
-                <p class="verdict-quote">"Reviewed <strong>{reviewed_count}</strong> products. Found <strong>{should_test_count}</strong> high-potential problem-solver candidates that warrant prioritized ad testing."</p>
-                <span class="verdict-note">Verified live on Amazon • High problem-solving power & commercial viability identified.</span>
-            </div>
-        </div>
-        """
-    else:
-        verdict_hero = f"""
-        <div class="verdict-banner">
-            <div class="verdict-content">
-                <h2>Daily Research Verdict</h2>
-                <p class="verdict-quote">"I reviewed <strong>{reviewed_count}</strong> products from the link. None met the hidden-winner criteria today."</p>
-                <span class="verdict-note">Verified live on Amazon • Complete category traversal logged.</span>
-            </div>
-        </div>
-        """
 
     changed_tab_btn = ""
     if health.products_changed > 0:
@@ -450,19 +415,6 @@ def generate_executive_dashboard_html(
         .kpi-label {{ font-size: 0.8rem; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; margin-bottom: 6px; }}
         .kpi-num {{ font-size: 2rem; font-weight: 800; letter-spacing: -0.5px; color: var(--text-primary); }}
 
-        /* Verdict Banner */
-        .verdict-banner {{
-            background: var(--bg-surface);
-            border: 1px solid var(--border-color);
-            border-left: 4px solid var(--amazon-color);
-            border-radius: 14px;
-            padding: 24px;
-            margin-bottom: 28px;
-        }}
-        .verdict-banner h2 {{ font-size: 1.25rem; font-weight: 700; margin-bottom: 6px; }}
-        .verdict-quote {{ font-size: 1.05rem; color: var(--text-primary); margin-bottom: 4px; }}
-        .verdict-note {{ font-size: 0.82rem; color: var(--text-muted); }}
-
         /* Toolbar */
         .toolbar {{
             display: flex;
@@ -619,58 +571,6 @@ def generate_executive_dashboard_html(
             border: 1px solid rgba(245, 158, 11, 0.45);
         }}
 
-        /* Image Carousel */
-        .carousel-container {{
-            position: relative;
-            height: 230px;
-            background: var(--bg-card-alt);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            overflow: hidden;
-            border-top: 1px solid var(--border-color);
-            border-bottom: 1px solid var(--border-color);
-        }}
-        .carousel-img {{
-            max-height: 200px;
-            max-width: 88%;
-            object-fit: contain;
-            transition: opacity 0.25s ease;
-        }}
-        .carousel-controls {{
-            position: absolute;
-            bottom: 10px;
-            left: 0;
-            right: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 12px;
-        }}
-        .carousel-btn {{
-            background: rgba(0, 0, 0, 0.6);
-            color: #fff;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            width: 28px;
-            height: 28px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.1rem;
-            cursor: pointer;
-            transition: background 0.2s;
-        }}
-        .carousel-btn:hover {{ background: rgba(0, 0, 0, 0.85); }}
-        .carousel-counter {{
-            font-size: 0.75rem;
-            font-weight: 700;
-            color: #fff;
-            background: rgba(0, 0, 0, 0.6);
-            padding: 2px 8px;
-            border-radius: 999px;
-        }}
-
         /* Card Content */
         .card-body {{ padding: 18px; flex: 1; display: flex; flex-direction: column; }}
         .product-title {{
@@ -754,26 +654,6 @@ def generate_executive_dashboard_html(
             transition: all 0.2s;
         }}
         .btn-copy-sm:hover {{
-            background: var(--accent-soft);
-            color: var(--accent);
-            border-color: var(--accent);
-        }}
-
-        /* Card Actions */
-        .card-actions {{ margin-top: auto; padding-top: 12px; border-top: 1px solid var(--border-color); }}
-        .btn-download {{
-            width: 100%;
-            background: var(--bg-card-alt);
-            border: 1px solid var(--border-color);
-            color: var(--text-primary);
-            padding: 9px;
-            border-radius: 8px;
-            font-size: 0.82rem;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.2s;
-        }}
-        .btn-download:hover {{
             background: var(--accent-soft);
             color: var(--accent);
             border-color: var(--accent);
@@ -1010,9 +890,6 @@ def generate_executive_dashboard_html(
                 grid-template-columns: 1fr;
                 gap: 16px;
             }}
-            .carousel-container {{
-                height: 230px;
-            }}
             .product-title {{
                 font-size: 0.98rem;
                 height: auto;
@@ -1131,9 +1008,6 @@ def generate_executive_dashboard_html(
             </div>
         </section>
 
-        <!-- Verdict Banner if 0 winners -->
-        {verdict_hero}
-
         <!-- Filter Toolbar -->
         <section class="toolbar">
             <input type="text" id="searchInput" class="search-input" placeholder="Search by product title or ASIN..." onkeyup="filterCards()" />
@@ -1165,12 +1039,6 @@ def generate_executive_dashboard_html(
     </div>
 
     <script>
-        // 0. Image Fallback Handler for hotlinking protection
-        function handleImgError(img) {{
-            img.onerror = null;
-            img.src = 'https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';
-        }}
-
         // 1. Theme Switcher with Persistence
         function setTheme(themeName) {{
             document.documentElement.setAttribute('data-theme', themeName);
@@ -1184,76 +1052,7 @@ def generate_executive_dashboard_html(
         const savedTheme = localStorage.getItem('scout_theme') || 'slate';
         setTheme(savedTheme);
 
-        // 2. Image Carousel Navigation
-        function updateSlide(idx, newIndex) {{
-            const carousel = document.getElementById('carousel-' + idx);
-            const images = JSON.parse(carousel.getAttribute('data-images'));
-            if (!images || images.length === 0) return;
-
-            let cur = (newIndex + images.length) % images.length;
-            carousel.setAttribute('data-index', cur);
-
-            const imgElem = document.getElementById('img-' + idx);
-            imgElem.referrerPolicy = "no-referrer";
-            imgElem.onerror = function() {{ handleImgError(this); }};
-            imgElem.src = images[cur];
-
-            const counterElem = document.getElementById('counter-' + idx);
-            if (counterElem) {{
-                counterElem.innerText = (cur + 1) + ' / ' + images.length;
-            }}
-        }}
-
-        function prevSlide(idx) {{
-            const carousel = document.getElementById('carousel-' + idx);
-            let cur = parseInt(carousel.getAttribute('data-index') || 0);
-            updateSlide(idx, cur - 1);
-        }}
-
-        function nextSlide(idx) {{
-            const carousel = document.getElementById('carousel-' + idx);
-            let cur = parseInt(carousel.getAttribute('data-index') || 0);
-            updateSlide(idx, cur + 1);
-        }}
-
-        // 3. Batch Image Download Trigger
-        async function downloadAllProductImages(idx, asin, btn) {{
-            const carousel = document.getElementById('carousel-' + idx);
-            if (!carousel) return;
-            const images = JSON.parse(carousel.getAttribute('data-images'));
-            if (!images || images.length === 0) return;
-
-            const origText = btn ? btn.innerText : '📥 Download All Images';
-            if (btn) btn.innerText = '⏳ Downloading 1 / ' + images.length + '...';
-
-            for (let i = 0; i < images.length; i++) {{
-                const url = images[i];
-                if (btn) btn.innerText = '⏳ Downloading ' + (i + 1) + ' / ' + images.length + '...';
-                try {{
-                    const response = await fetch(url, {{ mode: 'cors' }});
-                    if (!response.ok) throw new Error("CORS fallback");
-                    const blob = await response.blob();
-                    const link = document.createElement('a');
-                    link.href = URL.createObjectURL(blob);
-                    link.download = asin + '_photo_' + (i + 1) + '.jpg';
-                    document.body.appendChild(link);
-                    link.click();
-                    document.body.removeChild(link);
-                    setTimeout(() => URL.revokeObjectURL(link.href), 1500);
-                }} catch (e) {{
-                    // Fallback to opening in background tab if CORS prohibits client-side blob download
-                    window.open(url, '_blank', 'noopener,noreferrer');
-                }}
-                await new Promise(r => setTimeout(r, 200));
-            }}
-
-            if (btn) {{
-                btn.innerText = '✅ Downloaded (' + images.length + ' Images)';
-                setTimeout(() => {{ btn.innerText = origText; }}, 3000);
-            }}
-        }}
-
-        // 3.5 Copy Marketing / Creative Angle
+        // 2. Copy Marketing / Creative Angle
         function copySnippet(btn) {{
             const text = btn.getAttribute('data-copy');
             if (!text) return;

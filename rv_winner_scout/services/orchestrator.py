@@ -438,6 +438,7 @@ class PipelineOrchestrator:
                         data_dir=self.settings.data_dir,
                         spreadsheet_id=self.settings.spreadsheet_id,
                         should_be_tested=should_test,
+                        candidates=unique_candidates,
                     )
                     logger.info("Executive Dashboard generated at: %s", dashboard_file)
                 except Exception as d_exc:
