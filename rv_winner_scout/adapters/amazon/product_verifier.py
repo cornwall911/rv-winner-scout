@@ -1,5 +1,6 @@
 """Amazon product detail page verifier for direct verification and evidence extraction."""
 
+import json
 import re
 from typing import List, Optional
 from bs4 import BeautifulSoup
@@ -84,26 +85,60 @@ class AmazonProductVerifier:
         # 5. Extract Image Gallery (All Available Product Photos)
         images: List[str] = []
         seen_imgs = set()
-        # Find high-res image URLs in raw HTML scripts
-        hi_res_matches = re.findall(r'"hiRes"\s*:\s*"(https://[^"]+)"', html)
-        large_matches = re.findall(r'"large"\s*:\s*"(https://[^"]+)"', html)
-        dynamic_matches = re.findall(r'https://m\.media-amazon\.com/images/I/[A-Za-z0-9+_-]+\.(?:jpg|png)', html)
 
-        for img in hi_res_matches + large_matches + dynamic_matches:
-            if any(k in img for k in ["sprite", "icon", "transparent-pixel", "grey-pixel"]):
-                continue
-            clean_img = img.split("._")[0] + ".jpg" if "._" in img else img
-            if clean_img not in seen_imgs:
-                seen_imgs.add(clean_img)
-                images.append(clean_img)
+        def add_clean_img(url_str: str) -> None:
+            if not url_str or not url_str.startswith("http"):
+                return
+            if any(k in url_str.lower() for k in ["sprite", "icon", "transparent-pixel", "grey-pixel", "amazon-logo"]):
+                return
+            # Remove Amazon dynamic resizing/crop modifiers to obtain the original high-res photo
+            # e.g., https://m.media-amazon.com/images/I/71xyz._AC_SL1500_.jpg -> .../71xyz.jpg
+            clean_url = re.sub(r"\._[A-Za-z0-9_,-]+_\.", ".", url_str)
+            if clean_url not in seen_imgs and clean_url.startswith("http"):
+                seen_imgs.add(clean_url)
+                images.append(clean_url)
 
-        # Fallback to DOM images
-        if not images:
-            for img_node in soup.select("#altImages img, #imageBlock img, #landingImage"):
-                src = img_node.get("src") or img_node.get("data-old-hires")
-                if src and src.startswith("http") and src not in seen_imgs:
-                    seen_imgs.add(src)
-                    images.append(src)
+        # A. Extract from 'colorImages' or 'imageGalleryData' JSON structures
+        color_imgs_match = re.search(r"'(?:colorImages|imageGalleryData)'\s*:\s*(\{\s*['\"]initial['\"].*?\}),\s*\n", html)
+        if not color_imgs_match:
+            color_imgs_match = re.search(r'"(?:colorImages|imageGalleryData)"\s*:\s*(\{\s*"initial".*?\}),', html)
+        if color_imgs_match:
+            try:
+                raw_json = color_imgs_match.group(1).replace("'", '"')
+                data = json.loads(raw_json)
+                for item in data.get("initial", []):
+                    for k in ["hiRes", "large", "mainUrl"]:
+                        if item.get(k):
+                            add_clean_img(item[k])
+            except Exception:
+                pass
+
+        # B. Find high-res image URLs in raw HTML scripts
+        for match_url in re.findall(r'"(?:hiRes|large|mainUrl)"\s*:\s*"(https://[^"]+)"', html):
+            add_clean_img(match_url)
+
+        # C. Comprehensive Amazon CDN regex matching
+        cdn_matches = re.findall(
+            r'https://(?:m\.media-amazon\.com|images-na\.ssl-images-amazon\.com)/images/I/[A-Za-z0-9+_.%-]+?\.(?:jpg|jpeg|png)',
+            html,
+        )
+        for cdn_url in cdn_matches:
+            add_clean_img(cdn_url)
+
+        # D. DOM Elements: data-a-dynamic-image & imageBlock
+        for img_node in soup.select("#landingImage, #imgBlkFront, #altImages img, #imageBlock img"):
+            dyn_data = img_node.get("data-a-dynamic-image")
+            if dyn_data:
+                try:
+                    dyn_dict = json.loads(dyn_data)
+                    for dyn_url in dyn_dict.keys():
+                        add_clean_img(dyn_url)
+                except Exception:
+                    pass
+
+            src = img_node.get("data-old-hires") or img_node.get("src")
+            if src:
+                add_clean_img(src)
 
         # 6. Extract Best Sellers Rank (BSR)
         bsr_rank: Optional[str] = None

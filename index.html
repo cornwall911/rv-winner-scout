@@ -751,7 +751,7 @@
         <section class="kpi-row">
             <div class="kpi-box">
                 <div class="kpi-label">Audited Products</div>
-                <div class="kpi-num">1</div>
+                <div class="kpi-num">0</div>
             </div>
 
             <div class="kpi-box">
@@ -774,9 +774,9 @@
         
         <div class="verdict-banner">
             <div class="verdict-content">
-                <h2>Daily Research Verdict</h2>
-                <p class="verdict-quote">"I reviewed <strong>1</strong> products from the link. None met the hidden-winner criteria today."</p>
-                <span class="verdict-note">Verified live on Amazon • Complete category traversal logged.</span>
+                <h2>System Status • Standing By</h2>
+                <p class="verdict-quote">"Scout pipeline initialized with 0 active items. Next automated run scheduled for 06:00 UTC."</p>
+                <span class="verdict-note">Amazon RV New Releases node • 18-point pain point evaluation engine active.</span>
             </div>
         </div>
         
@@ -786,10 +786,10 @@
             <input type="text" id="searchInput" class="search-input" placeholder="Search by product title or ASIN..." onkeyup="filterCards()" />
 
             <div class="filter-tabs">
-                <button class="filter-btn active" onclick="setFilter('all', this)">All (1)</button>
+                <button class="filter-btn active" onclick="setFilter('all', this)">All (0)</button>
                 <button class="filter-btn" onclick="setFilter('winner', this)">🏆 Winners (0)</button>
                 <button class="filter-btn" onclick="setFilter('should_test', this)">🧪 Should Be Tested (0)</button>
-                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates (1)</button>
+                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates (0)</button>
             </div>
 
             <div class="sort-wrapper">
@@ -807,73 +807,15 @@
         <!-- Product Cards Grid -->
         <main class="cards-grid" id="cardsGrid">
             
-        <div class="product-card candidate" data-title="generic rv hose adapter b0mediocre1" data-type="candidate" data-score="46.50" data-price="12.99" data-bsr="9999999">
-            <div class="card-top-bar">
-                <div class="badge-group">
-                    <span class="status-pill badge-candidate">RESEARCH CANDIDATE</span>
-                    <span class="score-pill">⭐ 46.5 / 100</span>
-                </div>
-                <span class="asin-pill">ASIN: B0MEDIOCRE1</span>
-            </div>
-
-            <!-- Image Carousel -->
-            <div class="carousel-container" id="carousel-1" data-images="[&quot;https://via.placeholder.com/400x300?text=No+Image+Available&quot;]" data-index="0">
-                <img src="https://via.placeholder.com/400x300?text=No+Image+Available" alt="Generic RV Hose Adapter" class="carousel-img" id="img-1" loading="lazy" referrerpolicy="no-referrer" onerror="handleImgError(this)" />
-                
-                <div class="carousel-controls" style="display:none;">
-                    <button class="carousel-btn btn-prev" onclick="prevSlide(1)">‹</button>
-                    <span class="carousel-counter" id="counter-1">1 / 1</span>
-                    <button class="carousel-btn btn-next" onclick="nextSlide(1)">›</button>
-                </div>
-            </div>
-
-            <!-- Card Content -->
-            <div class="card-body">
-                <h3 class="product-title" title="Generic RV Hose Adapter">Generic RV Hose Adapter</h3>
-
-                <!-- BSR and Price Meta -->
-                <div class="bsr-meta-box">
-                    <div class="meta-item">
-                        <span class="meta-label">Amazon Price</span>
-                        <span class="meta-val highlight">$12.99</span>
-                    </div>
-                    <div class="meta-item">
-                        <span class="meta-label">Amazon Best Sellers Rank</span>
-                        <span class="meta-val bsr-val">Ranked in RV New Releases</span>
-                    </div>
-                </div>
-
-                <!-- Stores Arbitrage Row -->
-                <div class="stores-row">
-                    <a href="https://www.amazon.com/dp/B0MEDIOCRE" target="_blank" rel="noopener noreferrer" class="btn-store btn-amazon">
-                        🛒 View on Amazon ↗
-                    </a>
-                    <a href="https://www.walmart.com/search?q=Generic+RV+Hose+Adapter" target="_blank" rel="noopener noreferrer" class="btn-store btn-walmart">
-                        🔵 Walmart (Check Walmart) ↗
-                    </a>
-                </div>
-
-                <!-- Commercial Insights -->
-                <div class="insights-box">
-                    <div class="insight-row">
-                        <strong class="insight-label-why">🎯 Why It Converts:</strong>
-                        <p>Common item</p>
-                    </div>
-                    <div class="insight-row">
-                        <strong class="insight-label-risk">⚠️ Bottleneck / Risk:</strong>
-                        <p>Boring and saturated</p>
-                    </div>
-                </div>
-
-                <!-- Action Toolbar: Download All Images -->
-                <div class="card-actions">
-                    <button class="btn-download" onclick="downloadAllProductImages(1, 'B0MEDIOCRE1')">
-                        📥 Download All Images (1)
-                    </button>
-                </div>
-            </div>
+        <div style="grid-column: 1 / -1; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 16px; padding: 48px 24px; text-align: center; box-shadow: var(--card-shadow);">
+            <div style="font-size: 2.8rem; margin-bottom: 14px;">📡</div>
+            <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--text-primary); margin-bottom: 8px;">Scout Pipeline Initialized & Ready</h3>
+            <p style="color: var(--text-secondary); max-width: 540px; margin: 0 auto; font-size: 0.92rem; line-height: 1.6;">
+                The autonomous research engine is configured and waiting for the next scout run. 
+                All discovered RV New Releases will be audited against the 18 pain points, verified with live pricing & Amazon BSR, and logged directly here.
+            </p>
         </div>
-        
+    
         </main>
     </div>
 
@@ -930,13 +872,18 @@
         }
 
         // 3. Batch Image Download Trigger
-        async function downloadAllProductImages(idx, asin) {
+        async function downloadAllProductImages(idx, asin, btn) {
             const carousel = document.getElementById('carousel-' + idx);
+            if (!carousel) return;
             const images = JSON.parse(carousel.getAttribute('data-images'));
             if (!images || images.length === 0) return;
 
+            const origText = btn ? btn.innerText : '📥 Download All Images';
+            if (btn) btn.innerText = '⏳ Downloading 1 / ' + images.length + '...';
+
             for (let i = 0; i < images.length; i++) {
                 const url = images[i];
+                if (btn) btn.innerText = '⏳ Downloading ' + (i + 1) + ' / ' + images.length + '...';
                 try {
                     const response = await fetch(url, { mode: 'cors' });
                     if (!response.ok) throw new Error("CORS fallback");
@@ -947,10 +894,17 @@
                     document.body.appendChild(link);
                     link.click();
                     document.body.removeChild(link);
+                    setTimeout(() => URL.revokeObjectURL(link.href), 1500);
                 } catch (e) {
-                    // Direct tab opening if CORS prevents direct download
+                    // Fallback to opening in background tab if CORS prohibits client-side blob download
                     window.open(url, '_blank', 'noopener,noreferrer');
                 }
+                await new Promise(r => setTimeout(r, 200));
+            }
+
+            if (btn) {
+                btn.innerText = '✅ Downloaded (' + images.length + ' Images)';
+                setTimeout(() => { btn.innerText = origText; }, 3000);
             }
         }
 

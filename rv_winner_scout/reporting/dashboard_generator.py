@@ -193,7 +193,7 @@ def generate_executive_dashboard_html(
 
                 <!-- Action Toolbar: Download All Images -->
                 <div class="card-actions">
-                    <button class="btn-download" onclick="downloadAllProductImages({idx}, '{asin}')">
+                    <button class="btn-download" onclick="downloadAllProductImages({idx}, '{asin}', this)">
                         📥 Download All Images ({len(images_list)})
                     </button>
                 </div>
@@ -1111,13 +1111,18 @@ def generate_executive_dashboard_html(
         }}
 
         // 3. Batch Image Download Trigger
-        async function downloadAllProductImages(idx, asin) {{
+        async function downloadAllProductImages(idx, asin, btn) {{
             const carousel = document.getElementById('carousel-' + idx);
+            if (!carousel) return;
             const images = JSON.parse(carousel.getAttribute('data-images'));
             if (!images || images.length === 0) return;
 
+            const origText = btn ? btn.innerText : '📥 Download All Images';
+            if (btn) btn.innerText = '⏳ Downloading 1 / ' + images.length + '...';
+
             for (let i = 0; i < images.length; i++) {{
                 const url = images[i];
+                if (btn) btn.innerText = '⏳ Downloading ' + (i + 1) + ' / ' + images.length + '...';
                 try {{
                     const response = await fetch(url, {{ mode: 'cors' }});
                     if (!response.ok) throw new Error("CORS fallback");
@@ -1128,10 +1133,17 @@ def generate_executive_dashboard_html(
                     document.body.appendChild(link);
                     link.click();
                     document.body.removeChild(link);
+                    setTimeout(() => URL.revokeObjectURL(link.href), 1500);
                 }} catch (e) {{
-                    // Direct tab opening if CORS prevents direct download
+                    // Fallback to opening in background tab if CORS prohibits client-side blob download
                     window.open(url, '_blank', 'noopener,noreferrer');
                 }}
+                await new Promise(r => setTimeout(r, 200));
+            }}
+
+            if (btn) {{
+                btn.innerText = '✅ Downloaded (' + images.length + ' Images)';
+                setTimeout(() => {{ btn.innerText = origText; }}, 3000);
             }}
         }}
 
@@ -1317,12 +1329,14 @@ def save_dashboard(
         f.write(html_str)
 
     # Sync to public/index.html and root index.html for Cloudflare Pages / Workers
-    public_dir = "public"
-    os.makedirs(public_dir, exist_ok=True)
-    with open(os.path.join(public_dir, "index.html"), "w", encoding="utf-8") as f:
-        f.write(html_str)
+    # Protect against test runs polluting production dashboard
+    if data_dir == "data" and not os.environ.get("PYTEST_CURRENT_TEST"):
+        public_dir = "public"
+        os.makedirs(public_dir, exist_ok=True)
+        with open(os.path.join(public_dir, "index.html"), "w", encoding="utf-8") as f:
+            f.write(html_str)
 
-    with open("index.html", "w", encoding="utf-8") as f:
-        f.write(html_str)
+        with open("index.html", "w", encoding="utf-8") as f:
+            f.write(html_str)
 
     return filepath
