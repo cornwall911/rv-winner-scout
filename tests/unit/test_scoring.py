@@ -120,19 +120,39 @@ def test_exception_rule_fails_on_exposure() -> None:
 
 def test_sub_75_score_rejected() -> None:
     raw = RawDimensionScores(
-        facebook_discovery_potential=6.0,
-        rv_facebook_exposure=6.0,
-        rv_relevance=6.0,
-        novelty_newness=6.0,
-        problem_solving_power=6.0,
-        visual_wow=6.0,
-        space_convenience=6.0,
-        impulse_click_potential=6.0,
-        rv_audience_breadth=6.0,
+        facebook_discovery_potential=5.0,
+        rv_facebook_exposure=5.0,
+        rv_relevance=5.0,
+        novelty_newness=5.0,
+        problem_solving_power=5.0,
+        visual_wow=5.0,
+        space_convenience=5.0,
+        impulse_click_potential=5.0,
+        rv_audience_breadth=5.0,
     )
     result = calculate_score_breakdown(raw, exposure_level=ExposureLevel.LOW)
-    assert result.total_score == 60.0
+    assert result.total_score == 50.0
     assert result.is_winner is False
+    assert result.is_should_test is False
+
+
+def test_should_be_tested_classification() -> None:
+    # High-utility candidate scoring 75.0 (problem solver like RV AC soft starter)
+    raw = RawDimensionScores(
+        facebook_discovery_potential=7.0,
+        rv_facebook_exposure=7.0,
+        rv_relevance=8.5,
+        novelty_newness=9.0,
+        problem_solving_power=8.5,
+        visual_wow=7.0,
+        space_convenience=7.0,
+        impulse_click_potential=7.0,
+        rv_audience_breadth=7.0,
+    )
+    result = calculate_score_breakdown(raw, exposure_level=ExposureLevel.HIGH)
+    assert 70.0 <= result.total_score < 80.0
+    assert result.is_winner is False
+    assert result.is_should_test is True
 
 
 def test_raw_score_validation() -> None:

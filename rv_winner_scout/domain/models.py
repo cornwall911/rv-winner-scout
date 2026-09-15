@@ -75,6 +75,7 @@ class ScoreBreakdown(BaseModel):
     rv_audience_breadth: float = Field(ge=0.0, le=5.0)
     total_score: float = Field(ge=0.0, le=100.0)
     is_winner: bool = False
+    is_should_test: bool = False
     is_exception: bool = False
     exception_reason: Optional[str] = None
 
@@ -127,6 +128,16 @@ class ProductCandidate(BaseModel):
     walmart: Optional[WalmartResearchResult] = None
     lifecycle_stage: ProductLifecycleStage = ProductLifecycleStage.DISCOVERED
     rejection_reason: Optional[str] = None
+
+    @property
+    def is_winner(self) -> bool:
+        return bool(self.scores and self.scores.is_winner)
+
+    @property
+    def is_should_test(self) -> bool:
+        if self.is_winner:
+            return False
+        return bool(self.scores and self.scores.is_should_test)
 
 
 class RunHealthReport(BaseModel):

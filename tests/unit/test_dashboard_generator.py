@@ -1,0 +1,130 @@
+﻿from datetime import datetime, timezone
+from rv_winner_scout.domain.models import (
+    ProductCandidate,
+    RawAmazonProduct,
+    RunHealthReport,
+    ScoreBreakdown,
+)
+from rv_winner_scout.reporting.dashboard_generator import generate_executive_dashboard_html
+
+
+def test_dashboard_generator_should_be_tested_tier() -> None:
+    health = RunHealthReport(
+        run_id="test-run",
+        start_time=datetime.now(timezone.utc),
+        end_time=datetime.now(timezone.utc),
+        products_discovered=3,
+        products_verified=3,
+        products_rejected=0,
+    )
+
+    raw1 = RawAmazonProduct(
+        title="RV Leveling Blocks Ultra",
+        price=39.99,
+        displayed_price=39.99,
+        asin="B00WINNER1",
+        url="https://amazon.com/dp/B00WINNER1",
+        category="RV Parts",
+        source_page_url="https://amazon.com",
+    )
+    winner = ProductCandidate(
+        canonical_url="https://amazon.com/dp/B00WINNER1",
+        asin="B00WINNER1",
+        normalized_title="RV Leveling Blocks Ultra",
+        raw_product=raw1,
+        scores=ScoreBreakdown(
+            facebook_discovery_potential=18.0,
+            rv_facebook_exposure=14.0,
+            rv_relevance=14.0,
+            novelty_newness=13.0,
+            problem_solving_power=9.0,
+            visual_wow=8.5,
+            space_convenience=4.0,
+            impulse_click_potential=4.0,
+            rv_audience_breadth=4.0,
+            total_score=84.5,
+            is_winner=True,
+            is_should_test=False,
+        ),
+    )
+
+    raw2 = RawAmazonProduct(
+        title="RV AC Soft Starter Inrush Limiter",
+        price=149.99,
+        displayed_price=149.99,
+        asin="B0GYD3TVDV",
+        url="https://amazon.com/dp/B0GYD3TVDV",
+        category="RV Parts",
+        source_page_url="https://amazon.com",
+    )
+    should_test = ProductCandidate(
+        canonical_url="https://amazon.com/dp/B0GYD3TVDV",
+        asin="B0GYD3TVDV",
+        normalized_title="RV AC Soft Starter Inrush Limiter",
+        raw_product=raw2,
+        scores=ScoreBreakdown(
+            facebook_discovery_potential=14.0,
+            rv_facebook_exposure=11.0,
+            rv_relevance=14.0,
+            novelty_newness=12.0,
+            problem_solving_power=9.5,
+            visual_wow=6.0,
+            space_convenience=3.5,
+            impulse_click_potential=3.0,
+            rv_audience_breadth=3.5,
+            total_score=76.5,
+            is_winner=False,
+            is_should_test=True,
+        ),
+    )
+
+    raw3 = RawAmazonProduct(
+        title="Generic RV Plastic Hook",
+        price=9.99,
+        displayed_price=9.99,
+        asin="B0GENERIC01",
+        url="https://amazon.com/dp/B0GENERIC01",
+        category="RV Parts",
+        source_page_url="https://amazon.com",
+    )
+    candidate = ProductCandidate(
+        canonical_url="https://amazon.com/dp/B0GENERIC01",
+        asin="B0GENERIC01",
+        normalized_title="Generic RV Plastic Hook",
+        raw_product=raw3,
+        scores=ScoreBreakdown(
+            facebook_discovery_potential=8.0,
+            rv_facebook_exposure=8.0,
+            rv_relevance=8.0,
+            novelty_newness=8.0,
+            problem_solving_power=5.0,
+            visual_wow=4.0,
+            space_convenience=3.0,
+            impulse_click_potential=3.0,
+            rv_audience_breadth=3.0,
+            total_score=52.0,
+            is_winner=False,
+            is_should_test=False,
+        ),
+    )
+
+    html_out = generate_executive_dashboard_html(
+        reviewed_count=3,
+        winners=[winner],
+        near_misses=[should_test],
+        health=health,
+        candidates=[candidate],
+        should_be_tested=[should_test],
+    )
+
+    assert "All (3)" in html_out
+    assert "Winners (1)" in html_out
+    assert "Should Be Tested (1)" in html_out
+    assert "Candidates (1)" in html_out
+    assert 'data-type="winner"' in html_out
+    assert "QUALIFIED WINNER" in html_out
+    assert 'data-type="should_test"' in html_out
+    assert "SHOULD BE TESTED" in html_out
+    assert 'data-type="candidate"' in html_out
+    assert "RESEARCH CANDIDATE" in html_out
+    assert "Should Be Tested" in html_out

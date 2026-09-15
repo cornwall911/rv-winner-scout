@@ -17,6 +17,7 @@ def generate_executive_dashboard_html(
     health: RunHealthReport,
     spreadsheet_id: Optional[str] = None,
     candidates: Optional[List[ProductCandidate]] = None,
+    should_be_tested: Optional[List[ProductCandidate]] = None,
 ) -> str:
     """Renders a clean, eye-friendly, theme-switchable dashboard with image carousel & batch download."""
     run_date = health.end_time.strftime("%Y-%m-%d")
@@ -26,22 +27,36 @@ def generate_executive_dashboard_html(
         else "https://docs.google.com"
     )
 
+    winner_asins = {w.asin for w in winners}
+    should_test_asins = {st.asin for st in (should_be_tested or [])}
+
+    all_input = winners + near_misses + (candidates or []) + (should_be_tested or [])
     seen_asins = set()
     deduped_candidates = []
-    for c in winners + near_misses + (candidates or []):
+    for c in all_input:
         if c.asin not in seen_asins:
             seen_asins.add(c.asin)
             deduped_candidates.append(c)
+            # Tag as should_be_tested if matching criteria
+            if c.asin not in winner_asins:
+                if c.is_should_test or (c.scores and c.scores.is_should_test):
+                    should_test_asins.add(c.asin)
+                elif c.scores and (c.scores.final_score >= 70.0 or (c.scores.final_score >= 65.0 and c.scores.problem_solving_power >= 7.5)):
+                    should_test_asins.add(c.asin)
 
     # Sort descending by score initially
     deduped_candidates.sort(
         key=lambda c: (c.scores.final_score if c.scores else 0.0), reverse=True
     )
     all_candidates = deduped_candidates
+    winners_count = sum(1 for c in all_candidates if c.asin in winner_asins)
+    should_test_count = sum(1 for c in all_candidates if (c.asin in should_test_asins and c.asin not in winner_asins))
+    candidates_count = len(all_candidates) - winners_count - should_test_count
     cards_html = ""
 
     for idx, cand in enumerate(all_candidates, 1):
-        is_winner = cand in winners
+        is_winner = cand.asin in winner_asins
+        is_should_test = (cand.asin in should_test_asins) and not is_winner
         raw_title = cand.verified_product.title if cand.verified_product else cand.raw_product.title
         title = html.escape(raw_title)
         asin = cand.asin
@@ -101,12 +116,24 @@ def generate_executive_dashboard_html(
         why_next = html.escape(cand.opportunity.why_next_winner if cand.opportunity else "High organic demand & natural RV utility.")
         why_fail = html.escape(cand.opportunity.why_fail if cand.opportunity else "Specific RV vehicle fit requirements.")
 
-        status_class = "winner" if is_winner else "candidate"
-        status_badge = "🏆 QUALIFIED WINNER" if is_winner else "RESEARCH CANDIDATE"
-        badge_class = "badge-winner" if is_winner else "badge-candidate"
+        if is_winner:
+            status_class = "winner"
+            status_badge = "🏆 QUALIFIED WINNER"
+            badge_class = "badge-winner"
+            data_type = "winner"
+        elif is_should_test:
+            status_class = "should_test"
+            status_badge = "🧪 SHOULD BE TESTED"
+            badge_class = "badge-test"
+            data_type = "should_test"
+        else:
+            status_class = "candidate"
+            status_badge = "RESEARCH CANDIDATE"
+            badge_class = "badge-candidate"
+            data_type = "candidate"
 
         cards_html += f"""
-        <div class="product-card {status_class}" data-title="{title.lower()} {asin.lower()}" data-type="{'winner' if is_winner else 'candidate'}" data-score="{score_val:.2f}" data-price="{price_num:.2f}" data-bsr="{bsr_num}">
+        <div class="product-card {status_class}" data-title="{title.lower()} {asin.lower()}" data-type="{data_type}" data-score="{score_val:.2f}" data-price="{price_num:.2f}" data-bsr="{bsr_num}">
             <div class="card-top-bar">
                 <div class="badge-group">
                     <span class="status-pill {badge_class}">{status_badge}</span>
@@ -196,23 +223,33 @@ def generate_executive_dashboard_html(
             </div>
         </div>
         """
-    elif not winners:
+    elif winners_count > 0:
+        verdict_hero = f"""
+        <div class="verdict-banner" style="border-left-color: var(--accent);">
+            <div class="verdict-content">
+                <h2 style="color: var(--accent);">Daily Research Verdict • {winners_count} Winner(s) Found</h2>
+                <p class="verdict-quote">"Identified <strong>{winners_count}</strong> high-conviction winning products meeting 80+ threshold and critical RV pain points."</p>
+                <span class="verdict-note">Audited {reviewed_count} candidates • Full commercial dossiers & Walmart arbitrage logged.</span>
+            </div>
+        </div>
+        """
+    elif should_test_count > 0:
+        verdict_hero = f"""
+        <div class="verdict-banner" style="border-left-color: #38BDF8;">
+            <div class="verdict-content">
+                <h2 style="color: #38BDF8;">Daily Research Verdict • {should_test_count} Product(s) Should Be Tested</h2>
+                <p class="verdict-quote">"Reviewed <strong>{reviewed_count}</strong> products. Found <strong>{should_test_count}</strong> high-potential problem-solver candidates that warrant prioritized ad testing."</p>
+                <span class="verdict-note">Verified live on Amazon • High problem-solving power & commercial viability identified.</span>
+            </div>
+        </div>
+        """
+    else:
         verdict_hero = f"""
         <div class="verdict-banner">
             <div class="verdict-content">
                 <h2>Daily Research Verdict</h2>
                 <p class="verdict-quote">"I reviewed <strong>{reviewed_count}</strong> products from the link. None met the hidden-winner criteria today."</p>
                 <span class="verdict-note">Verified live on Amazon • Complete category traversal logged.</span>
-            </div>
-        </div>
-        """
-    else:
-        verdict_hero = f"""
-        <div class="verdict-banner" style="border-left-color: var(--accent);">
-            <div class="verdict-content">
-                <h2 style="color: var(--accent);">Daily Research Verdict • {len(winners)} Winner(s) Found</h2>
-                <p class="verdict-quote">"Identified <strong>{len(winners)}</strong> high-conviction winning products meeting 80+ threshold and critical RV pain points."</p>
-                <span class="verdict-note">Audited {reviewed_count} candidates • Full commercial dossiers & Walmart arbitrage logged.</span>
             </div>
         </div>
         """
@@ -478,6 +515,9 @@ def generate_executive_dashboard_html(
             transform: translateY(-3px);
             border-color: var(--accent);
         }}
+        .product-card.should_test:hover {{
+            border-color: #38BDF8;
+        }}
 
         .card-top-bar {{
             display: flex;
@@ -500,6 +540,7 @@ def generate_executive_dashboard_html(
             border-radius: 999px;
         }}
         .badge-winner {{ background: var(--accent-soft); color: var(--accent); }}
+        .badge-test {{ background: rgba(56, 189, 248, 0.15); color: #38BDF8; border: 1px solid rgba(56, 189, 248, 0.35); }}
         .badge-candidate {{ background: rgba(148, 163, 184, 0.12); color: var(--text-secondary); }}
         .score-pill {{
             background: rgba(16, 185, 129, 0.12);
@@ -971,12 +1012,12 @@ def generate_executive_dashboard_html(
 
             <div class="kpi-box">
                 <div class="kpi-label">Qualified Winners</div>
-                <div class="kpi-num" style="color: {'var(--accent)' if winners else 'var(--text-muted)'}">{len(winners)}</div>
+                <div class="kpi-num" style="color: {'var(--accent)' if winners_count else 'var(--text-muted)'}">{winners_count}</div>
             </div>
 
             <div class="kpi-box">
-                <div class="kpi-label">Verified Amazon Pages</div>
-                <div class="kpi-num">{health.products_verified}</div>
+                <div class="kpi-label">Should Be Tested</div>
+                <div class="kpi-num" style="color: {'#38BDF8' if should_test_count else 'var(--text-muted)'}">{should_test_count}</div>
             </div>
 
             <div class="kpi-box">
@@ -994,8 +1035,9 @@ def generate_executive_dashboard_html(
 
             <div class="filter-tabs">
                 <button class="filter-btn active" onclick="setFilter('all', this)">All ({len(all_candidates)})</button>
-                <button class="filter-btn" onclick="setFilter('winner', this)">Winners ({len(winners)})</button>
-                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates ({len(near_misses)})</button>
+                <button class="filter-btn" onclick="setFilter('winner', this)">🏆 Winners ({winners_count})</button>
+                <button class="filter-btn" onclick="setFilter('should_test', this)">🧪 Should Be Tested ({should_test_count})</button>
+                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates ({candidates_count})</button>
             </div>
 
             <div class="sort-wrapper">
@@ -1246,8 +1288,9 @@ def save_dashboard(
     data_dir: str = "data",
     spreadsheet_id: Optional[str] = None,
     candidates: Optional[List[ProductCandidate]] = None,
+    should_be_tested: Optional[List[ProductCandidate]] = None,
 ) -> str:
-    """Generates and writes dashboard to reports directory."""
+    """Generates and writes dashboard to reports directory and public sync directory."""
     html_str = generate_executive_dashboard_html(
         reviewed_count=reviewed_count,
         winners=winners,
@@ -1255,6 +1298,7 @@ def save_dashboard(
         health=health,
         spreadsheet_id=spreadsheet_id,
         candidates=candidates,
+        should_be_tested=should_be_tested,
     )
     reports_dir = os.path.join(data_dir, "reports")
     os.makedirs(reports_dir, exist_ok=True)
@@ -1270,6 +1314,15 @@ def save_dashboard(
 
     index_path = os.path.join(reports_dir, "index.html")
     with open(index_path, "w", encoding="utf-8") as f:
+        f.write(html_str)
+
+    # Sync to public/index.html and root index.html for Cloudflare Pages / Workers
+    public_dir = "public"
+    os.makedirs(public_dir, exist_ok=True)
+    with open(os.path.join(public_dir, "index.html"), "w", encoding="utf-8") as f:
+        f.write(html_str)
+
+    with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_str)
 
     return filepath

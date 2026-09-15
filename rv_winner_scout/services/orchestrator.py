@@ -298,6 +298,10 @@ class PipelineOrchestrator:
                 # -------------------------------------------------------------
                 logger.info("Stage 11: Performing final selection...")
                 winners = [c for c in potential_winners if c.scores and c.scores.is_winner]
+                should_test = [
+                    c for c in scored_candidates
+                    if c not in winners and (c.is_should_test or (c.scores and c.scores.is_should_test))
+                ]
                 near_misses = sorted(
                     [c for c in scored_candidates if c not in winners and c.scores],
                     key=lambda c: c.scores.total_score if c.scores else 0.0,
@@ -326,6 +330,7 @@ class PipelineOrchestrator:
                         health=health.build_report(),
                         data_dir=self.settings.data_dir,
                         spreadsheet_id=self.settings.spreadsheet_id,
+                        should_be_tested=should_test,
                     )
                     logger.info("Executive Dashboard generated at: %s", dashboard_file)
                 except Exception as d_exc:
@@ -375,6 +380,7 @@ class PipelineOrchestrator:
                             winners=winners,
                             near_misses=near_misses,
                             health=final_health,
+                            should_be_tested=should_test,
                         )
                     except Exception as t_exc:
                         logger.warning("Telegram notification dispatch failed: %s", t_exc)

@@ -61,6 +61,7 @@ class TelegramNotifier:
         winners: List[ProductCandidate],
         near_misses: List[ProductCandidate],
         health: RunHealthReport,
+        should_be_tested: Optional[List[ProductCandidate]] = None,
     ) -> bool:
         """Sends daily run verdict with winner highlights or near-miss summary."""
         if not self.is_configured:
@@ -71,7 +72,7 @@ class TelegramNotifier:
             if self.settings.spreadsheet_id
             else "https://docs.google.com"
         )
-        dashboard_url = "https://almostafa-scout.mostafanabil53550.workers.dev/"
+        dashboard_url = "https://almostafa-scout.workers.dev/"
 
         date_str = health.end_time.strftime("%Y-%m-%d")
 
@@ -106,6 +107,39 @@ class TelegramNotifier:
                 "═══════════════════════════",
                 "📊 <b>تم تسجيل كافة التفاصيل في الشيت:</b>",
                 f"👉 <a href='{sheet_link}'>فتح جدول Research Log في Google Sheets</a>",
+                f"🌐 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
+            ])
+            msg = "\n".join(lines)
+        elif should_be_tested:
+            lines = [
+                "🧪 <b>RV Winner Scout | منتجات مرشحة للاختبار (Should Be Tested)!</b>",
+                "═══════════════════════════",
+                f"📅 <b>التاريخ:</b> <code>{date_str}</code>",
+                f"🔍 <b>إجمالي المفحوص اليوم:</b> {reviewed_count}",
+                f"🧪 <b>منتجات ذات أولوية للاختبار:</b> {len(should_be_tested)}",
+                "",
+                "⚡ <b>أبرز المنتجات عالية الفائدة وحل المشكلات:</b>",
+                "───────────────────────────",
+            ]
+            for i, st in enumerate(should_be_tested[:3], 1):
+                raw_title = st.verified_product.title if st.verified_product else st.raw_product.title
+                title = html.escape(raw_title[:65] + ("..." if len(raw_title) > 65 else ""))
+                score = st.scores.total_score if st.scores else 0.0
+                price = f"${st.verified_product.displayed_price:.2f}" if st.verified_product and st.verified_product.displayed_price else "N/A"
+                hook = html.escape(st.opportunity.visual_hook) if st.opportunity else "High Utility Problem Solver"
+
+                lines.extend([
+                    f"🧪 <b>{i}. {title}</b>",
+                    f"   • <b>التقييم:</b> <code>{score:.1f} / 100</code>",
+                    f"   • <b>سعر أمازون:</b> {price}",
+                    f"   • <b>الميزة / الخطاف:</b> <i>{hook}</i>",
+                    f"   • 🔗 <a href='{st.canonical_url}'>معاينة المنتج على أمازون</a>",
+                    "",
+                ])
+
+            lines.extend([
+                "═══════════════════════════",
+                f"👉 <a href='{sheet_link}'>فتح سجل Research Log في Google Sheets</a>",
                 f"🌐 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
             ])
             msg = "\n".join(lines)

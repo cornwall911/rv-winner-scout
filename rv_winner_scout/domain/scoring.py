@@ -16,6 +16,7 @@ from rv_winner_scout.config.constants import (
     WEIGHT_SPACE_CONVENIENCE,
     WEIGHT_VISUAL_WOW,
     WINNER_SCORE_THRESHOLD,
+    SHOULD_TEST_SCORE_MIN,
 )
 from rv_winner_scout.domain.enums import ExposureLevel
 from rv_winner_scout.domain.models import ScoreBreakdown
@@ -89,6 +90,7 @@ def calculate_score_breakdown(
 
     is_winner = False
     is_exception = False
+    is_should_test = False
     exception_reason: Optional[str] = None
 
     if total_score >= WINNER_SCORE_THRESHOLD:
@@ -109,6 +111,10 @@ def calculate_score_breakdown(
             is_exception = True
             exception_reason = EXCEPTION_LABEL
 
+    if not is_winner:
+        if total_score >= SHOULD_TEST_SCORE_MIN or (total_score >= 65.0 and raw.problem_solving_power >= 7.5):
+            is_should_test = True
+
     return ScoreBreakdown(
         facebook_discovery_potential=round(w_fb_discovery, 2),
         rv_facebook_exposure=round(w_rv_exposure, 2),
@@ -121,6 +127,7 @@ def calculate_score_breakdown(
         rv_audience_breadth=round(w_breadth, 2),
         total_score=total_score,
         is_winner=is_winner,
+        is_should_test=is_should_test,
         is_exception=is_exception,
         exception_reason=exception_reason,
     )
