@@ -21,6 +21,9 @@ from rv_winner_scout.ports.exposure_port import ExposureResearcherPort
 class PublicExposureResearcher(ExposureResearcherPort):
     """Conducts public web and forum queries to gauge community exposure."""
 
+    # In-memory query cache to eliminate redundant web searches within run session
+    _cache: dict[str, Tuple[ExposureLevel, List[ExposureSignal]]] = {}
+
     def __init__(self, http_client: ResilientHttpClient) -> None:
         self.http_client = http_client
 
@@ -70,54 +73,61 @@ class PublicExposureResearcher(ExposureResearcherPort):
             key_function=key_function,
         )
 
+        # Check session cache first
+        cache_key = f"{product_name.strip().lower()}|{(brand or '').strip().lower()}|{(product_type or '').strip().lower()}"
+        if cache_key in self._cache:
+            return self._cache[cache_key]
+
         signals: List[ExposureSignal] = []
         provider_failed = False
 
-        # Query top 3 distinctive variants to prevent IP burning
-        selected_queries = variants[:3]
+        # Execute primary targeted search variant (covers Reddit, iRV2, and Facebook)
+        primary_query = variants[0] if variants else product_name
+        scoped_query = f'"{primary_query}" (site:reddit.com/r/GoRVing OR site:reddit.com/r/RVLiving OR site:irv2.com OR site:facebook.com)'
+        url = f"https://html.duckduckgo.com/html/?q={quote_plus(scoped_query)}"
 
-        for query in selected_queries:
-            # Query targeted communities
-            scoped_query = f'"{query}" (site:reddit.com/r/GoRVing OR site:reddit.com/r/RVLiving OR site:irv2.com OR site:facebook.com)'
-            url = f"https://html.duckduckgo.com/html/?q={quote_plus(scoped_query)}"
+        try:
+            html = await self.http_client.get_html(url, provider_key="duckduckgo")
+            soup = BeautifulSoup(html, "lxml")
 
-            try:
-                html = await self.http_client.get_html(url, provider_key="duckduckgo")
-                soup = BeautifulSoup(html, "lxml")
+            results = soup.select("div.result, div.results_links")
+            for r in results[:6]:  # Extract top signals
+                title_elem = r.select_one("a.result__url, a.result__snippet, a")
+                snippet_elem = r.select_one("a.result__snippet, div.result__snippet")
+                href = title_elem.get("href") if title_elem else None
+                snippet = snippet_elem.get_text(strip=True) if snippet_elem else ""
 
-                results = soup.select("div.result, div.results_links")
-                for r in results[:4]:  # Top 4 per query
-                    title_elem = r.select_one("a.result__url, a.result__snippet, a")
-                    snippet_elem = r.select_one("a.result__snippet, div.result__snippet")
-                    href = title_elem.get("href") if title_elem else None
-                    snippet = snippet_elem.get_text(strip=True) if snippet_elem else ""
-
-                    if href and ("reddit.com" in href or "irv2.com" in href or "facebook.com" in href):
-                        signals.append(
-                            ExposureSignal(
-                                query_used=query,
-                                source_url=href,
-                                snippet=f"{snippet} {PUBLIC_SIGNAL_DISCLAIMER}",
-                                source_type="public_community",
-                            )
+                if href and ("reddit.com" in href or "irv2.com" in href or "facebook.com" in href):
+                    signals.append(
+                        ExposureSignal(
+                            query_used=primary_query,
+                            source_url=href,
+                            snippet=f"{snippet} {PUBLIC_SIGNAL_DISCLAIMER}",
+                            source_type="public_community",
                         )
-            except Exception:
-                # If search provider fails or rate limits, note degraded state
-                provider_failed = True
+                    )
+        except Exception:
+            # If search provider fails or rate limits, note degraded state
+            provider_failed = True
 
         # If search failed completely, return UNKNOWN
         if provider_failed and not signals:
-            return ExposureLevel.UNKNOWN, []
+            res = (ExposureLevel.UNKNOWN, [])
+            self._cache[cache_key] = res
+            return res
 
         # Classify exposure level based on verified public signals
         count = len(signals)
         if count == 0:
-            return ExposureLevel.VERY_LOW, []
+            res = (ExposureLevel.VERY_LOW, [])
         elif 1 <= count <= 3:
-            return ExposureLevel.LOW, signals
+            res = (ExposureLevel.LOW, signals)
         elif 4 <= count <= 8:
-            return ExposureLevel.MEDIUM, signals
+            res = (ExposureLevel.MEDIUM, signals)
         elif 9 <= count <= 15:
-            return ExposureLevel.HIGH, signals
+            res = (ExposureLevel.HIGH, signals)
         else:
-            return ExposureLevel.SATURATED, signals
+            res = (ExposureLevel.SATURATED, signals)
+
+        self._cache[cache_key] = res
+        return res

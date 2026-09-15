@@ -53,3 +53,24 @@ def test_evaluate_newness_evidence() -> None:
     status, evidence = RelevanceFilter.evaluate_newness_evidence([])
     assert status == NewnessStatus.NOT_VERIFIED
     assert len(evidence) == 0
+
+
+def test_fast_gate_obvious_staple_and_mechanical_reject() -> None:
+    # Ubiquitous staple
+    is_rej, reason = RelevanceFilter.check_obvious_staple_or_mechanical_reject("Camco Standard RV Sewer Hose 20ft")
+    assert is_rej is True
+    assert "sewer hose" in (reason or "").lower()
+
+    # Ultra-niche mechanical replacement
+    is_rej, reason = RelevanceFilter.check_obvious_staple_or_mechanical_reject("Replacement Gasket for Dometic 300 RV Toilet")
+    assert is_rej is True
+    assert "replacement gasket" in (reason or "").lower()
+
+    # Novel RV product should NOT be rejected by fast-gate
+    is_rej, reason = RelevanceFilter.check_obvious_staple_or_mechanical_reject("RV Sewer Hose Anti-Odor Flush Cap Magnetic Valve")
+    assert is_rej is False
+    assert reason is None
+
+    # Empty string safe
+    is_rej, reason = RelevanceFilter.check_obvious_staple_or_mechanical_reject("")
+    assert is_rej is False

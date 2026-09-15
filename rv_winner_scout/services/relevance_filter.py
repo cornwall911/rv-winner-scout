@@ -11,9 +11,9 @@ GENERIC_STAPLE_PATTERNS = [
     r"\btoilet paper\b",
     r"\bwheel chock\b",
     r"\bleveling block\b",
-    r"\bstandard sewer hose\b",
+    r"\bstandard (?:rv )?sewer hose\b",
     r"\bdogbone adapter\b",
-    r"\bstandard extension cord\b",
+    r"\bstandard (?:rv )?extension cord\b",
     r"\bdrinking water hose\b",
     r"\brv cover\b",
     r"\broof sealant\b",
@@ -65,6 +65,36 @@ class RelevanceFilter:
                 matched.append(point)
 
         return sorted(list(set(matched)))
+
+    @classmethod
+    def check_obvious_staple_or_mechanical_reject(cls, title: str) -> Tuple[bool, Optional[str]]:
+        """Fast-gate check: identifies ubiquitous generic staples or ultra-niche mechanical replacements from title alone.
+
+        Prevents wasting detail-page HTTP requests on items that will be 100% rejected anyway.
+        """
+        if not title:
+            return False, None
+
+        from rv_winner_scout.services.archetype_learning import ArchetypeMatcher
+
+        # Protect any product matching learned winning or should-test functional archetypes
+        matched = ArchetypeMatcher.match_candidate(title, [])
+        if matched is not None and matched.archetype_class in ("WINNER", "SHOULD_TEST"):
+            return False, None
+
+        title_lower = title.lower()
+
+        # 1. Common staples that every RV owner already knows
+        for pat in GENERIC_STAPLE_PATTERNS:
+            if re.search(pat, title_lower):
+                return True, f"Hard reject: Ubiquitous generic RV staple ({pat})"
+
+        # 2. Ultra-niche replacement mechanical parts
+        for pat in ULTRA_NICHE_REPLACEMENT_PATTERNS:
+            if re.search(pat, title_lower):
+                return True, f"Hard reject: Ultra-niche replacement mechanical part ({pat})"
+
+        return False, None
 
     @classmethod
     def check_hard_reject(cls, title: str, bullet_points: List[str]) -> Tuple[bool, Optional[str]]:

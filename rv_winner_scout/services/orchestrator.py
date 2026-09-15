@@ -412,6 +412,19 @@ class PipelineOrchestrator:
                         cand.lifecycle_stage = ProductLifecycleStage.VERIFIED
                         health.products_verified += 1
                     else:
+                        # FAST-GATE PRE-FILTER:
+                        # Check raw title for obvious generic staples or ultra-niche mechanical parts.
+                        # If it matches, reject immediately without hitting Amazon /dp/ to save time & eliminate CAPTCHA!
+                        raw_title = cand.raw_product.title if cand.raw_product else (cand.normalized_title or "")
+                        is_fast_rej, fast_rej_reason = RelevanceFilter.check_obvious_staple_or_mechanical_reject(raw_title)
+                        if is_fast_rej:
+                            cand.lifecycle_stage = ProductLifecycleStage.REJECTED
+                            cand.rejection_reason = fast_rej_reason
+                            health.products_rejected += 1
+                            self.checkpoint_store.save_candidate(run_id, cand)
+                            logger.info("Fast-gate avoided unnecessary Amazon detail request for [%s]: %s", cand.asin, fast_rej_reason)
+                            continue
+
                         verified_prod = await self.verifier.verify_product(cand.canonical_url)
                         cand.verified_product = verified_prod
                         cand.verification_state = verified_prod.verification_state

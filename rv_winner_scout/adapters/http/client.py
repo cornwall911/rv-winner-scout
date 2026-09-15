@@ -53,6 +53,7 @@ class ResilientHttpClient:
         client_kwargs = {
             "timeout": self.settings.http_timeout_seconds,
             "follow_redirects": True,
+            "limits": httpx.Limits(max_keepalive_connections=20, max_connections=50, keepalive_expiry=30.0),
             "headers": {
                 "User-Agent": self.session_user_agent,
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
@@ -91,7 +92,7 @@ class ResilientHttpClient:
         import asyncio
 
         self.circuit_breaker.check_can_execute(provider_key)
-        await self.rate_limiter.wait()
+        await self.rate_limiter.wait(provider_key=provider_key)
 
         max_attempts = 2
         last_exception = None

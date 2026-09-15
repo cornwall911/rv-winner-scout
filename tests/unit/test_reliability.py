@@ -179,3 +179,16 @@ async def test_telegram_realtime_alert() -> None:
         assert "Stick magnetic sensor under tank" in msg_text
         assert "Google Sheets" not in msg_text
 
+
+@pytest.mark.asyncio
+async def test_polite_rate_limiter_domain_aware() -> None:
+    from rv_winner_scout.adapters.http.rate_limiter import PoliteRateLimiter
+    limiter = PoliteRateLimiter(min_delay=0.1, max_delay=0.2)
+
+    # First requests to different providers should execute immediately (sleep ~0)
+    delay_amazon = await limiter.wait(provider_key="amazon")
+    delay_ddg = await limiter.wait(provider_key="duckduckgo")
+
+    assert delay_amazon == 0.0
+    assert delay_ddg == 0.0
+
