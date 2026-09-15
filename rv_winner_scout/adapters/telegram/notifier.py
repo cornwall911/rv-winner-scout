@@ -130,12 +130,13 @@ class TelegramNotifier:
             pct, current, total, stage_name, int(elapsed_seconds), eta_str
         )
 
+        unit = "تصنيف" if ("تصنيف" in stage_name and "فحص وتقييم" not in stage_name) else "منتج"
         text = (
             "⏳ <b>RV Winner Scout | جاري الفحص الآن...</b>\n"
             "═══════════════════════════\n"
             f"📊 <b>مستوى التقدم:</b> <code>[{bar}] {pct}%</code>\n\n"
             f"📌 <b>المرحلة الحالية:</b> {stage_name}\n"
-            f"🔢 <b>المنجز:</b> <code>{current} / {total}</code> منتج\n"
+            f"🔢 <b>المنجز:</b> <code>{current} / {total}</code> {unit}\n"
             f"⏱️ <b>الوقت المنقضي:</b> {elapsed_str}\n"
             f"⏳ <b>الوقت المتبقي تقريباً:</b> <b>{eta_str}</b>\n"
             "───────────────────────────\n"

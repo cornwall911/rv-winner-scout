@@ -233,9 +233,9 @@ class PipelineOrchestrator:
                             try:
                                 await self.telegram_notifier.update_progress(
                                     message_map=progress_msg_map,
-                                    stage_name=f"حصر وتجميع المنتجات (تصنيف {cat_idx}/{len(categories_to_crawl)})",
-                                    current=len(raw_products),
-                                    total=max_products if max_products < 10000 else len(raw_products) + (len(categories_to_crawl) - cat_idx) * 150,
+                                    stage_name=f"حصر وتجميع التصنيفات (تم حصر {len(raw_products)} منتج)",
+                                    current=cat_idx,
+                                    total=len(categories_to_crawl),
                                     elapsed_seconds=time.time() - deadline.start_time,
                                 )
                             except Exception:
