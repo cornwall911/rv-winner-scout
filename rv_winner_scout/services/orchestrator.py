@@ -80,13 +80,16 @@ class PipelineOrchestrator:
         if run_mode_val == RunMode.SMOKE.value:
             max_categories = 1
             max_products = 10
+            crawl_depth = 1
         elif run_mode_val == RunMode.SMALL.value:
             max_categories = 4
             max_products = 30
+            crawl_depth = 2
         else:
             # Full category coverage as mandated by prompt
             max_categories = None
-            max_products = max(self.settings.max_products_per_run, 250)
+            max_products = self.settings.max_products_per_run if self.settings.max_products_per_run > 0 else 10000
+            crawl_depth = 3
 
         logger.info("Starting RV Winner Scout run %s in [%s] mode (max: %d)", run_id, run_mode_val, max_products)
 
@@ -97,7 +100,7 @@ class PipelineOrchestrator:
                 # -------------------------------------------------------------
                 logger.info("Stage 1: Discovering Amazon New Releases categories...")
                 try:
-                    categories = await self.crawler.discover_categories(MAIN_AMAZON_SOURCE)
+                    categories = await self.crawler.discover_categories(MAIN_AMAZON_SOURCE, max_depth=crawl_depth)
                 except AntiBotBlockedException as exc:
                     health.record_failed_source(exc.source_url, exc.failure_detail)
                     health.set_fatal_failure(f"Amazon Discovery Blocked: {exc.failure_detail}")
@@ -112,13 +115,16 @@ class PipelineOrchestrator:
                 # -------------------------------------------------------------
                 # STAGE 2: Complete crawl
                 # -------------------------------------------------------------
-                logger.info("Stage 2: Crawling category product grids...")
+                logger.info("Stage 2: Crawling category product grids across %d categories...", len(categories_to_crawl))
                 raw_products = []
                 for cat_url in categories_to_crawl:
                     deadline.check_deadline()
+                    remaining = max_products - len(raw_products) if max_products else None
+                    if remaining is not None and remaining <= 0:
+                        break
                     try:
                         prods = await self.crawler.crawl_category_products(
-                            cat_url, max_items=max_products
+                            cat_url, max_items=remaining
                         )
                         raw_products.extend(prods)
                     except AntiBotBlockedException as exc:
@@ -127,7 +133,7 @@ class PipelineOrchestrator:
                     except Exception as exc:
                         health.record_failed_source(cat_url, str(exc))
 
-                    if len(raw_products) >= max_products:
+                    if max_products and len(raw_products) >= max_products:
                         break
 
                 health.products_discovered = len(raw_products)

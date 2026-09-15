@@ -78,6 +78,11 @@ class ScoreBreakdown(BaseModel):
     is_exception: bool = False
     exception_reason: Optional[str] = None
 
+    @property
+    def final_score(self) -> float:
+        """Alias for total_score."""
+        return self.total_score
+
 
 class WalmartResearchResult(BaseModel):
     """Verified Walmart research findings."""

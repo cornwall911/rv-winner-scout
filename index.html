@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="referrer" content="no-referrer">
-    <title>RV Winner Scout — Executive Dashboard (2026-09-14)</title>
+    <title>RV Winner Scout — Executive Dashboard (2026-09-15)</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -194,7 +194,7 @@
         }
         .search-input:focus { border-color: var(--accent); }
 
-        .filter-tabs { display: flex; gap: 8px; }
+        .filter-tabs { display: flex; gap: 8px; flex-wrap: wrap; }
         .filter-btn {
             background: transparent;
             border: 1px solid transparent;
@@ -208,6 +208,34 @@
         .filter-btn.active {
             background: var(--accent-soft);
             color: var(--accent);
+            border-color: var(--accent);
+        }
+
+        .sort-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-left: auto;
+        }
+        .sort-label {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            font-weight: 600;
+            white-space: nowrap;
+        }
+        .sort-select {
+            background: var(--bg-card-alt);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 6px 12px;
+            color: var(--text-primary);
+            font-size: 0.82rem;
+            font-weight: 600;
+            outline: none;
+            cursor: pointer;
+            transition: border-color 0.2s;
+        }
+        .sort-select:focus {
             border-color: var(--accent);
         }
 
@@ -236,7 +264,15 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 14px 18px;
+            padding: 12px 16px;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        .badge-group {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
         }
         .status-pill {
             font-size: 0.72rem;
@@ -246,7 +282,19 @@
         }
         .badge-winner { background: var(--accent-soft); color: var(--accent); }
         .badge-candidate { background: rgba(148, 163, 184, 0.12); color: var(--text-secondary); }
-        .asin-pill { font-size: 0.75rem; color: var(--text-muted); font-weight: 600; }
+        .score-pill {
+            background: rgba(16, 185, 129, 0.12);
+            color: var(--accent);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            padding: 2px 8px;
+            border-radius: 999px;
+            font-size: 0.74rem;
+            font-weight: 700;
+            display: inline-flex;
+            align-items: center;
+            white-space: nowrap;
+        }
+        .asin-pill { font-size: 0.75rem; color: var(--text-muted); font-weight: 600; margin-left: auto; }
 
         /* Image Carousel */
         .carousel-container {
@@ -348,9 +396,11 @@
 
         /* Insights */
         .insights-box { margin-bottom: 16px; font-size: 0.84rem; }
-        .insight-row { margin-bottom: 8px; }
+        .insight-row { margin-bottom: 10px; }
+        .insight-label-why { color: var(--accent); font-size: 0.82rem; font-weight: 700; display: block; margin-bottom: 2px; }
+        .insight-label-risk { color: var(--amazon-color); font-size: 0.82rem; font-weight: 700; display: block; margin-bottom: 2px; }
         .insight-row strong { color: var(--text-primary); font-size: 0.82rem; }
-        .insight-row p { color: var(--text-secondary); margin-top: 2px; }
+        .insight-row p { color: var(--text-secondary); margin-top: 2px; line-height: 1.45; }
 
         /* Card Actions */
         .card-actions { margin-top: auto; padding-top: 12px; border-top: 1px solid var(--border-color); }
@@ -589,6 +639,15 @@
                 padding: 8px 4px;
                 font-size: 0.74rem;
             }
+            .sort-wrapper {
+                width: 100%;
+                justify-content: space-between;
+                margin-left: 0;
+            }
+            .sort-select {
+                flex: 1;
+                font-size: 14px;
+            }
 
             .cards-grid {
                 grid-template-columns: 1fr;
@@ -727,6 +786,17 @@
                 <button class="filter-btn" onclick="setFilter('winner', this)">Winners (0)</button>
                 <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates (0)</button>
             </div>
+
+            <div class="sort-wrapper">
+                <label for="sortSelect" class="sort-label">Sort by:</label>
+                <select id="sortSelect" class="sort-select" onchange="sortCards(this.value)">
+                    <option value="score-desc">Highest Score ⭐</option>
+                    <option value="score-asc">Lowest Score</option>
+                    <option value="price-desc">Price: High to Low</option>
+                    <option value="price-asc">Price: Low to High</option>
+                    <option value="bsr-asc">Amazon BSR (Best Rank)</option>
+                </select>
+            </div>
         </section>
 
         <!-- Product Cards Grid -->
@@ -846,7 +916,33 @@
             filterCards();
         }
 
-        // 5. Authentication & Client Access Gate
+        // 5. Card Sorting
+        function sortCards(sortKey) {
+            const grid = document.getElementById('cardsGrid');
+            if (!grid) return;
+            const cards = Array.from(grid.querySelectorAll('.product-card'));
+            if (cards.length <= 1) return;
+
+            cards.sort((a, b) => {
+                const scoreA = parseFloat(a.dataset.score) || 0;
+                const scoreB = parseFloat(b.dataset.score) || 0;
+                const priceA = parseFloat(a.dataset.price) || 0;
+                const priceB = parseFloat(b.dataset.price) || 0;
+                const bsrA = parseInt(a.dataset.bsr) || 9999999;
+                const bsrB = parseInt(b.dataset.bsr) || 9999999;
+
+                if (sortKey === 'score-desc') return scoreB - scoreA;
+                if (sortKey === 'score-asc') return scoreA - scoreB;
+                if (sortKey === 'price-desc') return priceB - priceA;
+                if (sortKey === 'price-asc') return priceA - priceB;
+                if (sortKey === 'bsr-asc') return bsrA - bsrB;
+                return 0;
+            });
+
+            cards.forEach(card => grid.appendChild(card));
+        }
+
+        // 6. Authentication & Client Access Gate
         const AUTH_USER = "almostafa";
         const AUTH_HASH = "d7f6bc259795aebde3360364c91c781ac93edc0feaa81dead8d512f40376d726";
         const AUTH_STORAGE_KEY = "scout_portal_session_token";
