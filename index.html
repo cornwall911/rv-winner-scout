@@ -151,45 +151,6 @@
             100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
         }
 
-        
-        .btn-refresh {
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            background: rgba(56, 189, 248, 0.12);
-            border: 1px solid rgba(56, 189, 248, 0.3);
-            color: #38BDF8;
-            padding: 7px 14px;
-            border-radius: 999px;
-            font-size: 0.78rem;
-            font-weight: 700;
-            cursor: pointer;
-            text-transform: uppercase;
-            letter-spacing: 0.04em;
-            transition: all 0.2s ease;
-        }
-        .btn-refresh:hover {
-            background: rgba(56, 189, 248, 0.25);
-            border-color: #38BDF8;
-            transform: translateY(-1px);
-        }
-        .btn-refresh:active {
-            transform: scale(0.97);
-        }
-        .refresh-icon.spinning {
-            display: inline-block;
-            animation: spin-icon 0.75s linear infinite;
-        }
-        @keyframes spin-icon {
-            from { transform: rotate(0deg); }
-            to { transform: rotate(360deg); }
-        }
-        .sync-countdown {
-            font-size: 0.72rem;
-            color: var(--text-secondary);
-            font-weight: 600;
-        }
-
         /* KPI Row */
         .kpi-row {
             display: grid;
@@ -820,12 +781,6 @@
                     <span class="pulse-dot"></span> Live Feed
                 </div>
 
-                <button id="refreshBtn" class="btn-refresh" onclick="manualRefresh()" title="Click to check and refresh latest discoveries">
-                    <span id="refreshIcon" class="refresh-icon">🔄</span>
-                    <span id="refreshText">Refresh</span>
-                    <span id="syncCountdown" class="sync-countdown">(45s)</span>
-                </button>
-
                 <button class="btn-logout" onclick="logout()" title="Sign Out">
                     🔒 Sign Out
                 </button>
@@ -836,7 +791,7 @@
         <section class="kpi-row">
             <div class="kpi-box">
                 <div class="kpi-label">Audited Products</div>
-                <div class="kpi-num">374</div>
+                <div class="kpi-num">376</div>
             </div>
 
             <div class="kpi-box">
@@ -846,7 +801,7 @@
 
             <div class="kpi-box">
                 <div class="kpi-label">Should Be Tested</div>
-                <div class="kpi-num" style="color: #38BDF8">27</div>
+                <div class="kpi-num" style="color: #38BDF8">28</div>
             </div>
 
             <div class="kpi-box">
@@ -859,7 +814,7 @@
 
             <div class="kpi-box">
                 <div class="kpi-label">Filtered / Sub-Threshold</div>
-                <div class="kpi-num">335</div>
+                <div class="kpi-num">336</div>
             </div>
         </section>
 
@@ -868,9 +823,9 @@
             <input type="text" id="searchInput" class="search-input" placeholder="Search by product title or ASIN..." onkeyup="filterCards()" />
 
             <div class="filter-tabs">
-                <button class="filter-btn active" onclick="setFilter('all', this)">All (50)</button>
+                <button class="filter-btn active" onclick="setFilter('all', this)">All (51)</button>
                 <button class="filter-btn" onclick="setFilter('winner', this)">🏆 Winners (4)</button>
-                <button class="filter-btn" onclick="setFilter('should_test', this)">🧪 Should Be Tested (27)</button>
+                <button class="filter-btn" onclick="setFilter('should_test', this)">🧪 Should Be Tested (28)</button>
                 <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates (19)</button>
                 
             </div>
@@ -1977,6 +1932,90 @@
                             <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without Portable AC Hose Adapter Kit compatib... in your storage bay." title="Copy Angle">📋 Copy</button>
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without Portable AC Hose Adapter Kit compatib... in your storage bay.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="product-card should_test" data-title="daranener portable power station 600w (1200w peak), 576wh lifepo4 battery with 100w solar panel, fast recharge ac/car/solar, 3 ac outlets, usb-c pd for camping, rv, cpap, emergency backup b0gy8wkc8c" data-type="should_test" data-changed="none" data-score="71.00" data-price="499.99" data-bsr="9999999">
+            <div class="card-top-bar">
+                <div class="badge-group">
+                    <span class="status-pill badge-test">🧪 SHOULD BE TESTED</span>
+                    <span class="score-pill">⭐ 71.0 / 100</span>
+                    <span class="archetype-pill">⚡ Off-Grid Energy Freedom</span>
+                    
+                </div>
+                <span class="asin-pill">ASIN: B0GY8WKC8C</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/81Qj+icOgSL.jpg" alt="DaranEner Portable Power Station 600W (1200W Peak), 576Wh LiFePO4 battery with 100W Solar Panel, Fast Recharge AC/Car/Solar, 3 AC Outlets, USB-C PD for Camping, RV, CPAP, Emergency Backup" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
+            </div>
+
+            <!-- Card Content -->
+            <div class="card-body">
+                <h3 class="product-title" title="DaranEner Portable Power Station 600W (1200W Peak), 576Wh LiFePO4 battery with 100W Solar Panel, Fast Recharge AC/Car/Solar, 3 AC Outlets, USB-C PD for Camping, RV, CPAP, Emergency Backup">DaranEner Portable Power Station 600W (1200W Peak), 576Wh LiFePO4 battery with 100W Solar Panel, Fast Recharge AC/Car/Solar, 3 AC Outlets, USB-C PD for Camping, RV, CPAP, Emergency Backup</h3>
+
+                <!-- BSR and Price Meta -->
+                <div class="bsr-meta-box">
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Price</span>
+                        <span class="meta-val highlight">$499.99</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Best Sellers Rank</span>
+                        <span class="meta-val bsr-val">Ranked in RV New Releases</span>
+                    </div>
+                </div>
+
+                <!-- Stores Arbitrage Row -->
+                <div class="stores-row">
+                    <a href="https://www.amazon.com/dp/B0GY8WKC8C" target="_blank" rel="noopener noreferrer" class="btn-store btn-amazon">
+                        🛒 View on Amazon ↗
+                    </a>
+                    <a href="https://www.walmart.com/search?q=DaranEner+Portable+Power+Station+600W+%281200W+Peak%29%2C+576Wh+Li" target="_blank" rel="noopener noreferrer" class="btn-store btn-walmart">
+                        🔵 Walmart (Check Walmart) ↗
+                    </a>
+                </div>
+
+                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
+                <div class="insights-box">
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">It solves the &#x27;boondocking anxiety&#x27; of running out of power for medical devices or remote work without the weight and noise of traditional generators. The inclusion of a 100W solar panel makes it a complete, ready-to-go kit for entry-level RVers.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">The 576Wh capacity is relatively small for heavy-duty RV appliances like AC units or microwaves, which may lead to customer disappointment if expectations aren&#x27;t managed. It faces stiff competition from established brands like Jackery and EcoFlow.</p>
+                    </div>
+
+
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">🗣️ Angle 1 (Campground Reality):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Nothing ruins a peaceful campground evening faster than dealing with charging: Stop hauling heavy gas generators! Who else is tired of the noise and smell at the campsite? This compact LiFePO4 station runs your essentials silently and recharges via solar while you hike. This is the exact upgrade you need before your next trip." title="Copy Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">Nothing ruins a peaceful campground evening faster than dealing with charging: Stop hauling heavy gas generators! Who else is tired of the noise and smell at the campsite? This compact LiFePO4 station runs your essentials silently and recharges via solar while you hike. This is the exact upgrade you need before your next trip.</p>
+                    </div>
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">💡 Angle 2 (Practical RV Fix):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Skip the crazy dealership markups and $150/hr RV mechanic fees. This DaranEner Portable Power Station 600W... takes 5 minutes to install yourself and permanently eliminates charging headaches on the road." title="Copy Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">Skip the crazy dealership markups and $150/hr RV mechanic fees. This DaranEner Portable Power Station 600W... takes 5 minutes to install yourself and permanently eliminates charging headaches on the road.</p>
+                    </div>
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">🚀 Angle 3 (Travel Peace of Mind):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without DaranEner Portable Power Station 600W... in your storage bay." title="Copy Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without DaranEner Portable Power Station 600W... in your storage bay.</p>
                     </div>
                 </div>
             </div>
@@ -5144,7 +5183,12 @@
                     || (currentFilter === 'changed' && changed && changed !== 'none');
 
                 if (matchesSearch && matchesFilter) {
-                    card.style.display = 'flex';
+                    if (card.style.display === 'none') {
+                        card.style.display = 'flex';
+                        card.style.animation = 'none';
+                        card.offsetHeight; /* trigger reflow */
+                        card.style.animation = 'fadeInCard 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards';
+                    }
                 } else {
                     card.style.display = 'none';
                 }
@@ -5267,110 +5311,6 @@
             const passField = document.getElementById('loginPass');
             if (passField) passField.value = '';
             showLogin();
-        }
-
-        // 7. Real-Time Auto-Refresh & Background Live Sync Engine
-        let countdownSeconds = 45;
-        let isSyncing = false;
-
-        async function refreshLiveDashboard(isManual = false) {
-            if (isSyncing) return;
-            isSyncing = true;
-            const icon = document.getElementById('refreshIcon');
-            const text = document.getElementById('refreshText');
-            if (icon) icon.classList.add('spinning');
-            if (text && isManual) text.innerText = 'Syncing...';
-
-            try {
-                const url = window.location.pathname + '?_v=' + Date.now();
-                const res = await fetch(url, {
-                    cache: 'no-store',
-                    headers: { 'Pragma': 'no-cache', 'Cache-Control': 'no-cache' }
-                });
-                if (!res.ok) throw new Error('HTTP ' + res.status);
-                const htmlText = await res.text();
-                const parser = new DOMParser();
-                const newDoc = parser.parseFromString(htmlText, 'text/html');
-
-                const newGrid = newDoc.getElementById('cardsGrid');
-                const curGrid = document.getElementById('cardsGrid');
-                if (newGrid && curGrid) {
-                    const curCardsCount = curGrid.querySelectorAll('.product-card').length;
-                    const newCardsCount = newGrid.querySelectorAll('.product-card').length;
-
-                    // Update Grid HTML
-                    curGrid.innerHTML = newGrid.innerHTML;
-
-                    // Update KPI row
-                    const newKpis = newDoc.querySelector('.kpi-row');
-                    const curKpis = document.querySelector('.kpi-row');
-                    if (newKpis && curKpis) curKpis.innerHTML = newKpis.innerHTML;
-
-                    // Update Filter tabs while preserving active state
-                    const newTabs = newDoc.querySelector('.filter-tabs');
-                    const curTabs = document.querySelector('.filter-tabs');
-                    if (newTabs && curTabs) {
-                        const activeFilterType = currentFilter;
-                        curTabs.innerHTML = newTabs.innerHTML;
-                        const targetBtn = curTabs.querySelector("[onclick*=\"'" + activeFilterType + "'\"]");
-                        if (targetBtn) {
-                            curTabs.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-                            targetBtn.classList.add('active');
-                        }
-                    }
-
-                    // Re-apply filter and search seamlessly
-                    filterCards();
-
-                    if (newCardsCount > curCardsCount) {
-                        showToast('🎉 ' + (newCardsCount - curCardsCount) + ' new products added!');
-                    } else if (isManual) {
-                        showToast('✅ Feed is up to date (' + curCardsCount + ' items)');
-                    }
-                }
-            } catch (err) {
-                console.warn('Background sync error:', err);
-                if (isManual) {
-                    window.location.reload(true);
-                }
-            } finally {
-                if (icon) icon.classList.remove('spinning');
-                if (text) text.innerText = 'Refresh';
-                countdownSeconds = 45;
-                isSyncing = false;
-            }
-        }
-
-        function manualRefresh() {
-            refreshLiveDashboard(true);
-        }
-
-        // Auto-refresh timer: ticks every second, syncs every 45s
-        setInterval(() => {
-            countdownSeconds--;
-            const cd = document.getElementById('syncCountdown');
-            if (cd) cd.innerText = '(' + countdownSeconds + 's)';
-            if (countdownSeconds <= 0) {
-                countdownSeconds = 45;
-                refreshLiveDashboard(false);
-            }
-        }, 1000);
-
-        function showToast(msg) {
-            let toast = document.getElementById('scoutToast');
-            if (!toast) {
-                toast = document.createElement('div');
-                toast.id = 'scoutToast';
-                toast.style.cssText = 'position:fixed; bottom:24px; right:24px; background:#1E293B; border:1px solid #10B981; color:#F8FAFC; padding:12px 20px; border-radius:12px; font-weight:600; font-size:0.9rem; z-index:9999; box-shadow:0 8px 30px rgba(0,0,0,0.5); display:flex; align-items:center; gap:8px; transition:opacity 0.3s ease;';
-                document.body.appendChild(toast);
-            }
-            toast.innerText = msg;
-            toast.style.opacity = '1';
-            toast.style.display = 'flex';
-            setTimeout(() => {
-                toast.style.opacity = '0';
-                setTimeout(() => { toast.style.display = 'none'; }, 300);
-            }, 3500);
         }
 
         // Run authentication check on startup
