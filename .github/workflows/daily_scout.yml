@@ -65,25 +65,25 @@ jobs:
 
       - name: Archive Reports
         if: always()
+        run: |
+          mkdir -p data/reports
+        shell: bash
+
+      - name: Upload Daily Reports Artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: daily-reports
           path: data/reports/
           retention-days: 14
 
-      - name: Deploy Dashboard to GitHub Pages
-        if: always()
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./data/reports
-          destination_dir: .
-
       - name: Sync Public Dashboard to Main for Cloudflare
         if: always()
         run: |
           mkdir -p public
-          cp data/reports/index.html public/index.html || true
+          if [ -f data/reports/index.html ]; then
+            cp data/reports/index.html public/index.html
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/index.html

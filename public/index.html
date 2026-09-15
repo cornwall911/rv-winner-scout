@@ -299,6 +299,30 @@
             white-space: nowrap;
         }
         .asin-pill { font-size: 0.75rem; color: var(--text-muted); font-weight: 600; margin-left: auto; }
+        .delta-pill {
+            padding: 2px 8px;
+            border-radius: 999px;
+            font-size: 0.72rem;
+            font-weight: 700;
+            display: inline-flex;
+            align-items: center;
+            white-space: nowrap;
+        }
+        .delta-improved {
+            background: rgba(16, 185, 129, 0.2);
+            color: #10B981;
+            border: 1px solid rgba(16, 185, 129, 0.45);
+        }
+        .delta-declined {
+            background: rgba(239, 68, 68, 0.2);
+            color: #EF4444;
+            border: 1px solid rgba(239, 68, 68, 0.45);
+        }
+        .delta-updated {
+            background: rgba(245, 158, 11, 0.2);
+            color: #F59E0B;
+            border: 1px solid rgba(245, 158, 11, 0.45);
+        }
 
         /* Image Carousel */
         .carousel-container {
@@ -785,7 +809,7 @@
         <section class="kpi-row">
             <div class="kpi-box">
                 <div class="kpi-label">Audited Products</div>
-                <div class="kpi-num">0</div>
+                <div class="kpi-num">10</div>
             </div>
 
             <div class="kpi-box">
@@ -799,8 +823,16 @@
             </div>
 
             <div class="kpi-box">
+                <div class="kpi-label">Changes Detected</div>
+                <div class="kpi-num" style="color: var(--text-muted)">0</div>
+                <div style="font-size:0.72rem; color:var(--text-secondary); margin-top:3px; font-weight:600;">
+                    📈 0 Improved • 📉 0 Declined
+                </div>
+            </div>
+
+            <div class="kpi-box">
                 <div class="kpi-label">Filtered / Sub-Threshold</div>
-                <div class="kpi-num">0</div>
+                <div class="kpi-num">6</div>
             </div>
         </section>
 
@@ -808,9 +840,9 @@
         
         <div class="verdict-banner">
             <div class="verdict-content">
-                <h2>System Status • Standing By</h2>
-                <p class="verdict-quote">"Scout pipeline initialized with 0 active items. Next automated run scheduled for 06:00 UTC."</p>
-                <span class="verdict-note">Amazon RV New Releases node • 18-point pain point evaluation engine active.</span>
+                <h2>Daily Research Verdict</h2>
+                <p class="verdict-quote">"I reviewed <strong>10</strong> products from the link. None met the hidden-winner criteria today."</p>
+                <span class="verdict-note">Verified live on Amazon • Complete category traversal logged.</span>
             </div>
         </div>
         
@@ -820,10 +852,11 @@
             <input type="text" id="searchInput" class="search-input" placeholder="Search by product title or ASIN..." onkeyup="filterCards()" />
 
             <div class="filter-tabs">
-                <button class="filter-btn active" onclick="setFilter('all', this)">All (0)</button>
+                <button class="filter-btn active" onclick="setFilter('all', this)">All (4)</button>
                 <button class="filter-btn" onclick="setFilter('winner', this)">🏆 Winners (0)</button>
                 <button class="filter-btn" onclick="setFilter('should_test', this)">🧪 Should Be Tested (0)</button>
-                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates (0)</button>
+                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates (4)</button>
+                
             </div>
 
             <div class="sort-wrapper">
@@ -841,15 +874,362 @@
         <!-- Product Cards Grid -->
         <main class="cards-grid" id="cardsGrid">
             
-        <div style="grid-column: 1 / -1; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 16px; padding: 48px 24px; text-align: center; box-shadow: var(--card-shadow);">
-            <div style="font-size: 2.8rem; margin-bottom: 14px;">📡</div>
-            <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--text-primary); margin-bottom: 8px;">Scout Pipeline Initialized & Ready</h3>
-            <p style="color: var(--text-secondary); max-width: 540px; margin: 0 auto; font-size: 0.92rem; line-height: 1.6;">
-                The autonomous research engine is configured and waiting for the next scout run. 
-                All discovered RV New Releases will be audited against the 18 pain points, verified with live pricing & Amazon BSR, and logged directly here.
-            </p>
+        <div class="product-card candidate" data-title="rv shower head with hose, high pressure handheld rv shower head replacement with on off switch,5 modes,power jet, camper shower head for rv,travel trailer,motorhome,boat rv essentials,gray b0gzllj9pf" data-type="candidate" data-changed="none" data-score="68.75" data-price="17.99" data-bsr="2323">
+            <div class="card-top-bar">
+                <div class="badge-group">
+                    <span class="status-pill badge-candidate">RESEARCH CANDIDATE</span>
+                    <span class="score-pill">⭐ 68.8 / 100</span>
+                    
+                </div>
+                <span class="asin-pill">ASIN: B0GZLLJ9PF</span>
+            </div>
+
+            <!-- Image Carousel -->
+            <div class="carousel-container" id="carousel-1" data-images="[&quot;https://m.media-amazon.com/images/I/71padaLrgjL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51OR7IlauiL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71JJijLdcUL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41FkvjrzThL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/811w-0qhcuL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51L13NL64KL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81GXOwPYFgL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51Cpf+VAhiL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81EJ41rainL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51a3e+06XnL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/714DuJ-Y0TL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41ktBorv4IL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61D5ct67K-L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41rnQaY-tBL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71F26mBkEyL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41kKwBjVgBL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61C0tgLVAyL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41nA2xyppUL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51iR1UwH6wL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71Nh8hPJIML.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41Xgipe3ZdL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/7104VFHcRSL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/21DX0E62GJL.png&quot;, &quot;https://m.media-amazon.com/images/I/71WHusWtJ7L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71kTJPRhFML.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71bsrwBJRNL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71psOLzxbWL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71kLL+MluVL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/712fCWJ275L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81JkZRIQTEL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71NTf2O6zpL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/718cDzTW9aL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71Id4ZxDLIL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71Od87A16eL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/719OM0DuVlL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71zKPRvQV9L.SX522_.jpg&quot;, &quot;https://m.media-amazon.com/images/I/91EdO-FCS5L.SX522_.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71Wbm4ReVXL.SX522_.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71LYGSqCGFL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71Uk2F-lcgL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71t6aiUpuvL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71B6MYF0X0L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71+dEhakd+L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71-FXLR1oYL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71Sr8e4bbVL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/91EdO-FCS5L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71Wbm4ReVXL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/A16sCBD0KmL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/91-k7bVfgzL.png&quot;, &quot;https://m.media-amazon.com/images/I/71zKPRvQV9L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/B1tBjIyZxQL.png&quot;, &quot;https://m.media-amazon.com/images/I/6154WX2EJyL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71nOXtw9LQL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81MCFVDFrAL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71pyLl1Zw6L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81JZytAbl8L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71mQvYjSqPL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/719xTcbHlnL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/718swoB61pL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61AE17SbdeL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51crWO4M17L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/6160-Y6D3IL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61z551uJ8SL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71qTow4YcFL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61JwaumZ4yL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/817BiiqXQML.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81obP2NEIxL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71dXyrNTPBL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71qlig3GASL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71yGKNRHpqL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61Kks5lG4XL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51tWnFIEx4L.jpg&quot;]" data-index="0">
+                <img src="https://m.media-amazon.com/images/I/71padaLrgjL.jpg" alt="RV Shower Head with Hose, High Pressure Handheld RV Shower Head Replacement with On Off Switch,5 Modes,Power Jet, Camper Shower Head for RV,Travel Trailer,Motorhome,Boat RV Essentials,Gray" class="carousel-img" id="img-1" loading="lazy" referrerpolicy="no-referrer" onerror="handleImgError(this)" />
+                
+                <div class="carousel-controls" >
+                    <button class="carousel-btn btn-prev" onclick="prevSlide(1)">‹</button>
+                    <span class="carousel-counter" id="counter-1">1 / 72</span>
+                    <button class="carousel-btn btn-next" onclick="nextSlide(1)">›</button>
+                </div>
+            </div>
+
+            <!-- Card Content -->
+            <div class="card-body">
+                <h3 class="product-title" title="RV Shower Head with Hose, High Pressure Handheld RV Shower Head Replacement with On Off Switch,5 Modes,Power Jet, Camper Shower Head for RV,Travel Trailer,Motorhome,Boat RV Essentials,Gray">RV Shower Head with Hose, High Pressure Handheld RV Shower Head Replacement with On Off Switch,5 Modes,Power Jet, Camper Shower Head for RV,Travel Trailer,Motorhome,Boat RV Essentials,Gray</h3>
+
+                <!-- BSR and Price Meta -->
+                <div class="bsr-meta-box">
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Price</span>
+                        <span class="meta-val highlight">$17.99</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Best Sellers Rank</span>
+                        <span class="meta-val bsr-val">#2,323 in Automotive</span>
+                    </div>
+                </div>
+
+                <!-- Stores Arbitrage Row -->
+                <div class="stores-row">
+                    <a href="https://www.amazon.com/dp/B0GZLLJ9PF" target="_blank" rel="noopener noreferrer" class="btn-store btn-amazon">
+                        🛒 View on Amazon ↗
+                    </a>
+                    <a href="https://www.walmart.com/search?q=RV+Shower+Head+with+Hose%2C+High+Pressure+Handheld+RV+Shower+H" target="_blank" rel="noopener noreferrer" class="btn-store btn-walmart">
+                        🔵 Walmart (Check Walmart) ↗
+                    </a>
+                </div>
+
+                <!-- Marketing & Commercial Angles -->
+                <div class="insights-box">
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">📣 Marketing / FB Angle:</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Stop wasting your limited fresh water tank! Who else is tired of the pathetic trickle from their factory RV shower head?" title="Copy Marketing Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">Stop wasting your limited fresh water tank! Who else is tired of the pathetic trickle from their factory RV shower head?</p>
+                    </div>
+
+                    <div class="insight-row hook-row">
+                        <div class="insight-header">
+                            <span class="insight-label-hook">🎬 Visual Hook (0-3s):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Split-screen video: A weak, dribbling stock RV shower head vs. this high-pressure unit blasting soap off a shower wall in seconds." title="Copy Visual Hook">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">Split-screen video: A weak, dribbling stock RV shower head vs. this high-pressure unit blasting soap off a shower wall in seconds.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">It addresses the universal frustration of low-flow, weak-pressure RV showers while offering a &#x27;pause&#x27; feature that is essential for boondockers trying to conserve water. The low price point makes it an easy, high-satisfaction impulse buy for any new RV owner.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">The market is already saturated with generic &#x27;high-pressure&#x27; RV shower heads, making it difficult to stand out without a unique brand story. Additionally, some RV plumbing systems lack the pump pressure to actually benefit from these heads, leading to potential customer disappointment.</p>
+                    </div>
+                </div>
+
+                <!-- Action Toolbar: Download All Images -->
+                <div class="card-actions">
+                    <button class="btn-download" onclick="downloadAllProductImages(1, 'B0GZLLJ9PF', this)">
+                        📥 Download All Images (72)
+                    </button>
+                </div>
+            </div>
         </div>
-    
+        
+        <div class="product-card candidate" data-title="4 pack wheel chocks, non-slip wheel chocks for travel trailers b0h11w86cn" data-type="candidate" data-changed="none" data-score="50.75" data-price="17.59" data-bsr="7623">
+            <div class="card-top-bar">
+                <div class="badge-group">
+                    <span class="status-pill badge-candidate">RESEARCH CANDIDATE</span>
+                    <span class="score-pill">⭐ 50.8 / 100</span>
+                    
+                </div>
+                <span class="asin-pill">ASIN: B0H11W86CN</span>
+            </div>
+
+            <!-- Image Carousel -->
+            <div class="carousel-container" id="carousel-2" data-images="[&quot;https://m.media-amazon.com/images/I/61yoVLaZbBL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41bbW5ac9oL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71qbUn3SiWL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41u75G0M5xL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71GoHBw-rVL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41fGasNFG9L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71u-r28vnOL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51DRSK9LqmL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81nZebsrfeL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51V05GWgJkL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71TfV1Er0NL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51CZ2xz-x+L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/91FQZs-+1SL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51xjYFOFLOL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81bEifaYmwL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51peJJBuVML.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71v9CzaNk0L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71hHUr2E-NL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81qXVALcE5L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81naHIx3KxL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81PGW9TWPIL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/712cLghx5HL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81VLRCLt6aL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81ASISHBTtL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81u87Z4YHKL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81L6CZexu9L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71nFeNtKPoL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81nz2l15EmL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71+QFu0Z9LL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71w7nn5A+bL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/715xXoCS0wL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/8189cuxUkaL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/715qhW2AodL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81JHfYA6LSL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71jnEsY1CTL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71Xp5R9zVWL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71H-+NtXVQL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/812HBh3sgdL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81bMVQiTCqL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71G8XVl-SiL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81zz777ssPL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71nw304GdzL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81xsn13hy9L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71wNXdfmCoL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/816T0LbcowL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81387YbhUzL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61EamMr4DEL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/717rXDBX-CL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71FF-EaewNL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71H+0ZUI3YL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/718-zZAyHAL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71TVt10wZUL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71g5wJFIuML.jpg&quot;, &quot;https://m.media-amazon.com/images/I/614H7SCdgfL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71wDHMGzfQL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71lYPoPBdEL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71VF3KSD-CL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71FzFLvNJSL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71grAOVmspL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71A5Q3GzOjL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71wnL7qjnPL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/716l5ivtojL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81Z8u73QcoL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61onZDyDgQL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61IiZ8O1z6L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71rvVDwWqLL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61GjMb2IyQL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71nQC8knQOL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61xYPglAvsL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61P50NtSadL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61X3AseGEzL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71xA6OJou7L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51LeuiR7mQL.jpg&quot;]" data-index="0">
+                <img src="https://m.media-amazon.com/images/I/61yoVLaZbBL.jpg" alt="4 Pack Wheel Chocks, Non-Slip Wheel Chocks for Travel Trailers" class="carousel-img" id="img-2" loading="lazy" referrerpolicy="no-referrer" onerror="handleImgError(this)" />
+                
+                <div class="carousel-controls" >
+                    <button class="carousel-btn btn-prev" onclick="prevSlide(2)">‹</button>
+                    <span class="carousel-counter" id="counter-2">1 / 73</span>
+                    <button class="carousel-btn btn-next" onclick="nextSlide(2)">›</button>
+                </div>
+            </div>
+
+            <!-- Card Content -->
+            <div class="card-body">
+                <h3 class="product-title" title="4 Pack Wheel Chocks, Non-Slip Wheel Chocks for Travel Trailers">4 Pack Wheel Chocks, Non-Slip Wheel Chocks for Travel Trailers</h3>
+
+                <!-- BSR and Price Meta -->
+                <div class="bsr-meta-box">
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Price</span>
+                        <span class="meta-val highlight">$17.59</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Best Sellers Rank</span>
+                        <span class="meta-val bsr-val">#7,623 in Automotive</span>
+                    </div>
+                </div>
+
+                <!-- Stores Arbitrage Row -->
+                <div class="stores-row">
+                    <a href="https://www.amazon.com/dp/B0H11W86CN" target="_blank" rel="noopener noreferrer" class="btn-store btn-amazon">
+                        🛒 View on Amazon ↗
+                    </a>
+                    <a href="https://www.walmart.com/search?q=4+Pack+Wheel+Chocks%2C+Non-Slip+Wheel+Chocks+for+Travel+Traile" target="_blank" rel="noopener noreferrer" class="btn-store btn-walmart">
+                        🔵 Walmart (Check Walmart) ↗
+                    </a>
+                </div>
+
+                <!-- Marketing & Commercial Angles -->
+                <div class="insights-box">
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">📣 Marketing / FB Angle:</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Stop relying on old, cracked rubber chocks that slide. Are these high-visibility plastic chocks a better, lighter alternative for your rig?" title="Copy Marketing Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">Stop relying on old, cracked rubber chocks that slide. Are these high-visibility plastic chocks a better, lighter alternative for your rig?</p>
+                    </div>
+
+                    <div class="insight-row hook-row">
+                        <div class="insight-header">
+                            <span class="insight-label-hook">🎬 Visual Hook (0-3s):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="A side-by-side comparison of a generic rubber chock sliding on gravel versus this textured plastic chock staying put." title="Copy Visual Hook">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">A side-by-side comparison of a generic rubber chock sliding on gravel versus this textured plastic chock staying put.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">This product targets a universal RV necessity with a low price point, making it an easy &#x27;add-on&#x27; purchase for new RV owners looking to replace worn-out gear.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">This is a highly commoditized item with thousands of existing competitors; it lacks the &#x27;wow&#x27; factor or unique innovation required to stand out in a crowded market.</p>
+                    </div>
+                </div>
+
+                <!-- Action Toolbar: Download All Images -->
+                <div class="card-actions">
+                    <button class="btn-download" onclick="downloadAllProductImages(2, 'B0H11W86CN', this)">
+                        📥 Download All Images (73)
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="product-card candidate" data-title="15ft rv sewer hose with bayonet fittings and 4-in-1 adapter elbow b0h8kz8xc6" data-type="candidate" data-changed="none" data-score="50.50" data-price="35.14" data-bsr="4967">
+            <div class="card-top-bar">
+                <div class="badge-group">
+                    <span class="status-pill badge-candidate">RESEARCH CANDIDATE</span>
+                    <span class="score-pill">⭐ 50.5 / 100</span>
+                    
+                </div>
+                <span class="asin-pill">ASIN: B0H8KZ8XC6</span>
+            </div>
+
+            <!-- Image Carousel -->
+            <div class="carousel-container" id="carousel-3" data-images="[&quot;https://m.media-amazon.com/images/I/61-D4o61dcL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/410t1UhV1FL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/910WEjOyapL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61O-hFqyuFL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61hINzlStzL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41eZuKs80-L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71U3NiMXtiL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41+b96ppP2L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71jJaS98OAL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51v3ZGpdlHL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71ho+CuhXmL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41cYUUjg+CL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71v+YDvCaWL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41d5+k4MGiL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71QgH4mu-RL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/413mNoHtUgL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51TG11Vw1oL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71bz1WDiOkL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51M6MvsfKVL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71j20udjoZL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41gfr-91bTL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61krDmTVcsL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41lhXsyLvWL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61K7DiMsL2L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41whl7j1huL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61Qq9I2w4nL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41XNnQYk8PL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61U6jxLnj+L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51R67OuEKoL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71mRDivrYML.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41BhaubfViL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61l4LYijnPL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51ADrtZGdYL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/716OnpEE4gL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/21DX0E62GJL.png&quot;, &quot;https://m.media-amazon.com/images/I/A1acDEmrtCL.SS125_PKplay-button-mb-image-grid-small_.png&quot;, &quot;https://m.media-amazon.com/images/I/A1acDEmrtCL.SX522_.png&quot;, &quot;https://m.media-amazon.com/images/I/418FhcGZyRL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/A1acDEmrtCL.png&quot;, &quot;https://m.media-amazon.com/images/I/71QldQICFsL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71o+PijPGqL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/617TXnbVz9L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61pJ5oQ7OfL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61AOi1ZAVVL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71WNTsp0mdL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71BQ9x4TU1L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81oWK2MjeEL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81mX5OXt8oL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/715Sq4Aff4L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/914zFXkwiIL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81Edue2i7sL.jpg&quot;]" data-index="0">
+                <img src="https://m.media-amazon.com/images/I/61-D4o61dcL.jpg" alt="15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow" class="carousel-img" id="img-3" loading="lazy" referrerpolicy="no-referrer" onerror="handleImgError(this)" />
+                
+                <div class="carousel-controls" >
+                    <button class="carousel-btn btn-prev" onclick="prevSlide(3)">‹</button>
+                    <span class="carousel-counter" id="counter-3">1 / 51</span>
+                    <button class="carousel-btn btn-next" onclick="nextSlide(3)">›</button>
+                </div>
+            </div>
+
+            <!-- Card Content -->
+            <div class="card-body">
+                <h3 class="product-title" title="15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow">15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow</h3>
+
+                <!-- BSR and Price Meta -->
+                <div class="bsr-meta-box">
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Price</span>
+                        <span class="meta-val highlight">$35.14</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Best Sellers Rank</span>
+                        <span class="meta-val bsr-val">#4,967 in Automotive</span>
+                    </div>
+                </div>
+
+                <!-- Stores Arbitrage Row -->
+                <div class="stores-row">
+                    <a href="https://www.amazon.com/dp/B0H8KZ8XC6" target="_blank" rel="noopener noreferrer" class="btn-store btn-amazon">
+                        🛒 View on Amazon ↗
+                    </a>
+                    <a href="https://www.walmart.com/search?q=15FT+RV+Sewer+Hose+with+Bayonet+Fittings+and+4-in-1+Adapter+" target="_blank" rel="noopener noreferrer" class="btn-store btn-walmart">
+                        🔵 Walmart (Check Walmart) ↗
+                    </a>
+                </div>
+
+                <!-- Marketing & Commercial Angles -->
+                <div class="insights-box">
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">📣 Marketing / FB Angle:</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Stop buying cheap sewer hoses that leak after one season; let&#x27;s discuss the best heavy-duty upgrades that actually fit in your bumper." title="Copy Marketing Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">Stop buying cheap sewer hoses that leak after one season; let&#x27;s discuss the best heavy-duty upgrades that actually fit in your bumper.</p>
+                    </div>
+
+                    <div class="insight-row hook-row">
+                        <div class="insight-header">
+                            <span class="insight-label-hook">🎬 Visual Hook (0-3s):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="A side-by-side comparison of a standard thin hose vs. this TPE hose being run over by a car to prove durability." title="Copy Visual Hook">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">A side-by-side comparison of a standard thin hose vs. this TPE hose being run over by a car to prove durability.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">This product targets a universal, high-friction pain point—leaky, fragile sewer hoses—with a &#x27;crush-proof&#x27; durability claim that appeals to full-timers. Its ability to fit in standard RV bumpers makes it a practical, low-barrier-to-entry upgrade.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">The market is heavily saturated with established brands like Camco, making it difficult for a generic-branded product to gain trust. It offers no true innovation, as &#x27;heavy-duty&#x27; sewer hoses are a commodity item found in every RV supply store.</p>
+                    </div>
+                </div>
+
+                <!-- Action Toolbar: Download All Images -->
+                <div class="card-actions">
+                    <button class="btn-download" onclick="downloadAllProductImages(3, 'B0H8KZ8XC6', this)">
+                        📥 Download All Images (51)
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="product-card candidate" data-title="4&quot; stainless steel 5/8&quot; trailer hitch pin with hitch pin clip black b0h9nznyxz" data-type="candidate" data-changed="none" data-score="40.00" data-price="14.99" data-bsr="8054">
+            <div class="card-top-bar">
+                <div class="badge-group">
+                    <span class="status-pill badge-candidate">RESEARCH CANDIDATE</span>
+                    <span class="score-pill">⭐ 40.0 / 100</span>
+                    
+                </div>
+                <span class="asin-pill">ASIN: B0H9NZNYXZ</span>
+            </div>
+
+            <!-- Image Carousel -->
+            <div class="carousel-container" id="carousel-4" data-images="[&quot;https://m.media-amazon.com/images/I/51EW64gwgzL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/31zquoi0OFL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61sgb85rKoL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41-JYyckNLL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51dqQRZtxmL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/31s4DGovfCL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61JB8hlcFHL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/31j6oV3vqLL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71YHE+ZSkrL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/41shsBmAN3L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81jXbozz+yL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81UjZydiqdL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81i72C6jLaL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81xP+lbJCGL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81GMdlCVmJL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81e6Nu7HqVL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/7124H5QsBnL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81YTPqJQSfL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81m87DL7JWL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71JfgSR1M9L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81wfaDt7XyL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81uLDCHS+tL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81fiUmQd+SL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71fIEn03Z+L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81xxlcz2nDL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/814XmhAEmnL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71GIwDdFMwL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81CB9o4SeXL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81DQ9kTk4QL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81gZBctSRgL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71ZUV1kXwTL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81GSPAG6VUL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81+7gnZ8zyL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71N1z+gA3vL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/111mHoVK0kL.png&quot;, &quot;https://m.media-amazon.com/images/I/216-OX9rBaL.png&quot;, &quot;https://m.media-amazon.com/images/I/61l89SgLgwL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61WdCytxN5L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81e7icnpJUL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/51xq524NaJL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71oKPdjq4OL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71+82IUZYyL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71E48tcrYvL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71SWLEUeOpL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71wIqxmrQDL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61pjhZiECDL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71p609nWaPL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71569In8xfL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71OUYnA3GQL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/7142gmDhe2L.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71ccegsMHoL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71DKZJFS1fL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61RH+1jK6NL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71siCyCRwQL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/81-5AHuYIDL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/61afvNQeOLL.jpg&quot;, &quot;https://m.media-amazon.com/images/I/71h-AX1t82L.jpg&quot;]" data-index="0">
+                <img src="https://m.media-amazon.com/images/I/51EW64gwgzL.jpg" alt="4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black" class="carousel-img" id="img-4" loading="lazy" referrerpolicy="no-referrer" onerror="handleImgError(this)" />
+                
+                <div class="carousel-controls" >
+                    <button class="carousel-btn btn-prev" onclick="prevSlide(4)">‹</button>
+                    <span class="carousel-counter" id="counter-4">1 / 57</span>
+                    <button class="carousel-btn btn-next" onclick="nextSlide(4)">›</button>
+                </div>
+            </div>
+
+            <!-- Card Content -->
+            <div class="card-body">
+                <h3 class="product-title" title="4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black">4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black</h3>
+
+                <!-- BSR and Price Meta -->
+                <div class="bsr-meta-box">
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Price</span>
+                        <span class="meta-val highlight">$14.99</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Best Sellers Rank</span>
+                        <span class="meta-val bsr-val">#8,054 in Automotive</span>
+                    </div>
+                </div>
+
+                <!-- Stores Arbitrage Row -->
+                <div class="stores-row">
+                    <a href="https://www.amazon.com/dp/B0H9NZNYXZ" target="_blank" rel="noopener noreferrer" class="btn-store btn-amazon">
+                        🛒 View on Amazon ↗
+                    </a>
+                    <a href="https://www.walmart.com/search?q=4%22+Stainless+Steel+5%2F8%22+Trailer+Hitch+Pin+with+Hitch+Pin+Cli" target="_blank" rel="noopener noreferrer" class="btn-store btn-walmart">
+                        🔵 Walmart (Check Walmart) ↗
+                    </a>
+                </div>
+
+                <!-- Marketing & Commercial Angles -->
+                <div class="insights-box">
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">📣 Marketing / FB Angle:</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Stop fighting with rusted hitch pins that won&#x27;t budge at the campground. Is it time to upgrade your hardware to stainless steel to prevent seizing?" title="Copy Marketing Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">Stop fighting with rusted hitch pins that won&#x27;t budge at the campground. Is it time to upgrade your hardware to stainless steel to prevent seizing?</p>
+                    </div>
+
+                    <div class="insight-row hook-row">
+                        <div class="insight-header">
+                            <span class="insight-label-hook">🎬 Visual Hook (0-3s):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="A side-by-side comparison of a rusted, seized hitch pin versus this stainless steel version after one season of road salt exposure." title="Copy Visual Hook">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">A side-by-side comparison of a rusted, seized hitch pin versus this stainless steel version after one season of road salt exposure.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-why">🎯 Why It Converts:</span>
+                        </div>
+                        <p class="insight-text">It solves the universal frustration of hitch pins rusting into the receiver, which is a common pain point for RVers who travel in coastal or snowy regions. Its low price point makes it an easy &#x27;add-on&#x27; purchase for anyone upgrading their towing setup.</p>
+                    </div>
+
+                    <div class="insight-row">
+                        <div class="insight-header">
+                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                        </div>
+                        <p class="insight-text">This is a commodity hardware item that is widely available at every local hardware store and big-box retailer, offering no unique innovation or &#x27;wow&#x27; factor. Most RVers already have a pin and won&#x27;t feel the urgency to replace it unless theirs is currently broken.</p>
+                    </div>
+                </div>
+
+                <!-- Action Toolbar: Download All Images -->
+                <div class="card-actions">
+                    <button class="btn-download" onclick="downloadAllProductImages(4, 'B0H9NZNYXZ', this)">
+                        📥 Download All Images (57)
+                    </button>
+                </div>
+            </div>
+        </div>
+        
         </main>
     </div>
 
@@ -971,9 +1351,12 @@
             cards.forEach(card => {
                 const type = card.getAttribute('data-type');
                 const title = card.getAttribute('data-title');
+                const changed = card.getAttribute('data-changed');
 
                 const matchesSearch = title.includes(searchVal);
-                const matchesFilter = (currentFilter === 'all') || (type === currentFilter);
+                const matchesFilter = (currentFilter === 'all')
+                    || (type === currentFilter)
+                    || (currentFilter === 'changed' && changed && changed !== 'none');
 
                 card.style.display = (matchesSearch && matchesFilter) ? 'flex' : 'none';
             });

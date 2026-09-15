@@ -43,8 +43,11 @@ class AmazonCategoryCrawler:
         self, root_url: str = MAIN_AMAZON_SOURCE, max_depth: int = 2
     ) -> List[str]:
         """Systematically crawls top-level categories and recursively enters all nested subcategories."""
-        discovered: Set[str] = {root_url}
-        to_explore: List[str] = [root_url]
+        clean_root = root_url.split("/ref=")[0].split("?")[0].split("#")[0].rstrip("/")
+
+        discovered_order: List[str] = [clean_root]
+        discovered_set: Set[str] = {clean_root}
+        to_explore: List[str] = [clean_root]
         visited: Set[str] = set()
 
         depth = 0
@@ -65,18 +68,19 @@ class AmazonCategoryCrawler:
 
                     for a_tag in soup.select("div[role='tree'] a, ul[class*='zg-browse-group'] a, div.zg-browse-group a, a[href*='/new-releases/automotive/']"):
                         href = a_tag.get("href")
-                        if not href:
+                        if not href or "_unv_" in href:
                             continue
-                        clean_href = href.split("?")[0].split("#")[0]
+                        clean_href = href.split("/ref=")[0].split("?")[0].split("#")[0].rstrip("/")
                         full_url = urljoin(cat_url, clean_href)
-                        if "/new-releases/automotive/" in full_url and full_url not in discovered:
-                            discovered.add(full_url)
+                        if "/new-releases/automotive/" in full_url and full_url not in discovered_set:
+                            discovered_set.add(full_url)
+                            discovered_order.append(full_url)
                             if depth < max_depth:
                                 to_explore.append(full_url)
                 except Exception:
                     pass
 
-        return sorted(list(discovered))
+        return discovered_order
 
     async def crawl_category_products(
         self, category_url: str, max_items: Optional[int] = None, max_pages: int = 2
