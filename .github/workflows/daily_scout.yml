@@ -19,7 +19,7 @@ on:
 jobs:
   scout:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 180
     permissions:
       contents: write
 
@@ -58,6 +58,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           MAX_PRODUCTS_PER_RUN: 10000
+          GLOBAL_DEADLINE_MINUTES: 170
           SELECTED_MODE: ${{ inputs.mode || 'full' }}
         run: |
           python run.py --mode=${SELECTED_MODE}
