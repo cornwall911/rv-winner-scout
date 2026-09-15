@@ -46,6 +46,11 @@ jobs:
           restore-keys: |
             scout-checkpoint-
 
+      - name: Configure Git for Live Streaming Dashboard Sync
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Run RV Winner Scout
         env:
           AI_PROVIDER: ${{ secrets.AI_PROVIDER || 'gemini' }}

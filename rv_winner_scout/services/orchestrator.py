@@ -68,6 +68,92 @@ class PipelineOrchestrator:
             settings=self.settings, backup_service=self.backup_service
         )
         self.telegram_notifier = TelegramNotifier(settings=self.settings)
+        self._last_git_push_time: float = 0.0
+
+    def _push_dashboard_to_git(self, reason: str) -> None:
+        """Pushes updated public/index.html and index.html to GitHub for live Cloudflare deployment."""
+        import os
+        import subprocess
+
+        if os.environ.get("PYTEST_CURRENT_TEST"):
+            return
+
+        try:
+            status_res = subprocess.run(
+                ["git", "status", "--porcelain", "public/index.html", "index.html"],
+                capture_output=True,
+                text=True,
+                timeout=10,
+            )
+            if not status_res.stdout.strip():
+                return  # No changes to push
+
+            if os.environ.get("GITHUB_ACTIONS") == "true":
+                subprocess.run(["git", "config", "user.name", "github-actions[bot]"], capture_output=True, timeout=10)
+                subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], capture_output=True, timeout=10)
+
+            subprocess.run(["git", "add", "public/index.html", "index.html"], capture_output=True, timeout=10)
+            subprocess.run(["git", "commit", "-m", f"Auto-update live dashboard: {reason} [skip ci]"], capture_output=True, timeout=10)
+
+            if os.environ.get("GITHUB_ACTIONS") == "true":
+                subprocess.run(["git", "pull", "--rebase", "origin", "main"], capture_output=True, timeout=15)
+                push_res = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True, timeout=20)
+                if push_res.returncode == 0:
+                    logger.info("Successfully pushed live dashboard update to GitHub: %s", reason)
+                else:
+                    logger.warning("Git push returned code %d: %s", push_res.returncode, push_res.stderr)
+        except Exception as exc:
+            logger.debug("Git auto-push skipped or failed: %s", exc)
+
+    def _sync_live_dashboard(
+        self,
+        reviewed_count: int,
+        winners: List[ProductCandidate],
+        should_test: List[ProductCandidate],
+        candidates: List[ProductCandidate],
+        health_report: RunHealthReport,
+        reason: str = "Live stream update",
+        push_git: bool = True,
+    ) -> None:
+        """Regenerates Executive HTML Dashboard and syncs to disk and Git/Cloudflare in real-time."""
+        # Ensure candidate scores are fully populated
+        for c in candidates:
+            if not c.scores or c.scores.total_score == 0.0:
+                clean_title = (
+                    (c.verified_product.title if c.verified_product and c.verified_product.title.strip().lower() != "unknown" else None)
+                    or (c.raw_product.title if c.raw_product and c.raw_product.title.strip().lower() != "unknown" else None)
+                    or c.normalized_title
+                    or c.asin
+                ).strip()
+                c.scores = compute_heuristic_scores(clean_title, c.exposure_level)
+
+        near_misses = sorted(
+            [c for c in candidates if c not in winners and c.scores],
+            key=lambda c: c.scores.total_score if c.scores else 0.0,
+            reverse=True,
+        )
+
+        try:
+            dashboard_file = save_dashboard(
+                reviewed_count=reviewed_count,
+                winners=winners,
+                near_misses=near_misses,
+                health=health_report,
+                data_dir=self.settings.data_dir,
+                spreadsheet_id=self.settings.spreadsheet_id,
+                should_be_tested=should_test,
+                candidates=candidates,
+            )
+            logger.info("Live Dashboard updated [%s] at: %s", reason, dashboard_file)
+        except Exception as d_exc:
+            logger.warning("Could not generate live HTML dashboard: %s", d_exc)
+
+        if push_git:
+            is_high_priority = ("Winner" in reason) or ("Should-Test" in reason) or ("Final" in reason)
+            now = time.time()
+            if is_high_priority or (now - self._last_git_push_time >= 180.0):
+                self._last_git_push_time = now
+                self._push_dashboard_to_git(reason)
 
     async def run(
         self, mode: Optional[str] = None, fresh: bool = False
@@ -227,33 +313,60 @@ class PipelineOrchestrator:
                         break
 
                 # -------------------------------------------------------------
-                # STAGE 4: Amazon product-page verification (Mandatory opening)
+                # REAL-TIME STREAMING SCOUT: STAGES 4 TO 11
+                # Products are verified, filtered, exposure-researched, and AI-scored
+                # in real-time. Winners & Should-Test products are instantly added
+                # to the live Executive Dashboard and pushed to Cloudflare.
                 # -------------------------------------------------------------
-                logger.info("Stage 4: Directly opening Amazon product pages...")
-                verified_candidates: List[ProductCandidate] = []
-                total_to_verify = len(unique_candidates)
+                logger.info("Stages 4-11: Executing Real-Time Streaming Verification & Scoring pipeline...")
+
+                # Seed pool with historical winners and should-test candidates so past discoveries are preserved
+                historical_candidates = self.checkpoint_store.get_all_candidates() if not fresh else []
+                winners: List[ProductCandidate] = []
+                should_test: List[ProductCandidate] = []
+                scored_candidates: List[ProductCandidate] = []
+
+                for hc in historical_candidates:
+                    if (hc.scores and hc.scores.is_winner) or hc.lifecycle_stage == ProductLifecycleStage.FINAL_WINNER:
+                        if not any(w.asin == hc.asin for w in winners):
+                            winners.append(hc)
+                    elif hc.is_should_test or (hc.scores and hc.scores.is_should_test):
+                        if not any(st.asin == hc.asin for st in should_test):
+                            should_test.append(hc)
+
+                total_to_process = len(unique_candidates)
 
                 for idx, cand in enumerate(unique_candidates, 1):
+                    # Graceful deadline halt threshold: clean flush before hard timeout
+                    if deadline.should_halt_discovery():
+                        logger.warning(
+                            "Approaching global deadline threshold (%d min). Cleanly halting discovery loop.",
+                            self.settings.global_deadline_minutes,
+                        )
+                        break
                     deadline.check_deadline()
-                    if (time.time() - last_progress_time >= 45.0) or (idx == total_to_verify):
+
+                    # Real-time progress update to Telegram
+                    if (time.time() - last_progress_time >= 45.0) or (idx == total_to_process):
                         last_progress_time = time.time()
                         if self.telegram_notifier.is_configured and progress_msg_map:
                             try:
                                 await self.telegram_notifier.update_progress(
                                     message_map=progress_msg_map,
-                                    stage_name="فحص صفحات أمازون واستخراج الصور والمواصفات (Stage 4)",
+                                    stage_name=f"فحص وتقييم المنتجات المباشر ({len(winners)} وينر | {len(should_test)} تجربة)",
                                     current=idx,
-                                    total=total_to_verify,
+                                    total=total_to_process,
                                     elapsed_seconds=time.time() - deadline.start_time,
                                 )
                             except Exception:
                                 pass
 
-                    # If already verified in database with valid data, reuse without re-scraping Amazon
+                    # ---------------------------------------------------------
+                    # STAGE 4: Amazon verification
+                    # ---------------------------------------------------------
                     if cand.verified_product and cand.verification_state == VerificationState.VERIFIED:
                         cand.lifecycle_stage = ProductLifecycleStage.VERIFIED
                         health.products_verified += 1
-                        verified_candidates.append(cand)
                     else:
                         verified_prod = await self.verifier.verify_product(cand.canonical_url)
                         cand.verified_product = verified_prod
@@ -262,7 +375,6 @@ class PipelineOrchestrator:
                         if verified_prod.verification_state == VerificationState.VERIFIED:
                             cand.lifecycle_stage = ProductLifecycleStage.VERIFIED
                             health.products_verified += 1
-                            verified_candidates.append(cand)
                         else:
                             cand.lifecycle_stage = ProductLifecycleStage.REJECTED
                             cand.rejection_reason = (
@@ -271,29 +383,23 @@ class PipelineOrchestrator:
                             health.products_rejected += 1
                             if verified_prod.failure_reason and "SOURCE UNAVAILABLE" in verified_prod.failure_reason:
                                 health.record_failed_source(cand.canonical_url, verified_prod.failure_reason)
+                            self.checkpoint_store.save_candidate(run_id, cand)
+                            continue
 
-                    self.checkpoint_store.save_candidate(run_id, cand)
-
-                # -------------------------------------------------------------
-                # STAGE 5: Newness evaluation
-                # -------------------------------------------------------------
-                logger.info("Stage 5: Evaluating real newness evidence...")
-                for cand in verified_candidates:
+                    # ---------------------------------------------------------
+                    # STAGE 5: Newness evaluation
+                    # ---------------------------------------------------------
                     evidence = cand.verified_product.newness_evidence if cand.verified_product else []
                     status, valid_ev = RelevanceFilter.evaluate_newness_evidence(evidence)
                     cand.newness = status
                     cand.newness_evidence = valid_ev
 
-                # -------------------------------------------------------------
-                # STAGE 6: RV relevance evaluation (Hard rejects & pain points)
-                # -------------------------------------------------------------
-                logger.info("Stage 6: Checking RV relevance and hard-reject criteria...")
-                filtered_candidates: List[ProductCandidate] = []
-                for cand in verified_candidates:
+                    # ---------------------------------------------------------
+                    # STAGE 6: RV relevance & hard-rejects
+                    # ---------------------------------------------------------
                     title = cand.verified_product.title if cand.verified_product else cand.raw_product.title
                     bullets = cand.verified_product.bullet_points if cand.verified_product else []
 
-                    # Hard reject check
                     is_rej, rej_reason = RelevanceFilter.check_hard_reject(title, bullets)
                     if is_rej:
                         cand.lifecycle_stage = ProductLifecycleStage.REJECTED
@@ -302,55 +408,26 @@ class PipelineOrchestrator:
                         self.checkpoint_store.save_candidate(run_id, cand)
                         continue
 
-                    # Map to RV pain points
                     cand.identified_pain_points = RelevanceFilter.identify_pain_points(title, bullets)
-                    filtered_candidates.append(cand)
 
-                # -------------------------------------------------------------
-                # STAGE 7: Public RV exposure research
-                # -------------------------------------------------------------
-                logger.info("Stage 7: Researching public RV community exposure...")
-                for cand in filtered_candidates:
-                    deadline.check_deadline()
-                    title = cand.verified_product.title if cand.verified_product else cand.raw_product.title
-                    try:
-                        exp_lvl, signals = await self.exposure_researcher.research_exposure(
-                            product_name=title
-                        )
-                        cand.exposure_level = exp_lvl
-                        cand.exposure_signals = signals
-                        cand.lifecycle_stage = ProductLifecycleStage.EXPOSURE_RESEARCHED
-                    except Exception as exc:
-                        logger.warning("Exposure research degraded for %s: %s", cand.asin, exc)
-                        cand.lifecycle_stage = ProductLifecycleStage.EXPOSURE_RESEARCHED
+                    # ---------------------------------------------------------
+                    # STAGE 7: Public exposure research
+                    # ---------------------------------------------------------
+                    if not cand.exposure_level:
+                        try:
+                            exp_lvl, signals = await self.exposure_researcher.research_exposure(
+                                product_name=title
+                            )
+                            cand.exposure_level = exp_lvl
+                            cand.exposure_signals = signals
+                            cand.lifecycle_stage = ProductLifecycleStage.EXPOSURE_RESEARCHED
+                        except Exception as exc:
+                            logger.warning("Exposure research degraded for %s: %s", cand.asin, exc)
+                            cand.lifecycle_stage = ProductLifecycleStage.EXPOSURE_RESEARCHED
 
-                    self.checkpoint_store.save_candidate(run_id, cand)
-
-                # -------------------------------------------------------------
-                # STAGE 8 & 9: Product DNA & AI evaluation / scoring
-                # -------------------------------------------------------------
-                logger.info("Stage 8 & 9: Performing AI Product DNA evaluation and 100% scoring...")
-                scored_candidates: List[ProductCandidate] = []
-                total_to_score = len(filtered_candidates)
-
-                for idx, cand in enumerate(filtered_candidates, 1):
-                    deadline.check_deadline()
-                    health.ai_calls += 1
-                    if (time.time() - last_progress_time >= 45.0) or (idx == total_to_score):
-                        last_progress_time = time.time()
-                        if self.telegram_notifier.is_configured and progress_msg_map:
-                            try:
-                                await self.telegram_notifier.update_progress(
-                                    message_map=progress_msg_map,
-                                    stage_name="تحليل وتقييم المنتجات بالذكاء الاصطناعي (Stage 8/9)",
-                                    current=idx,
-                                    total=total_to_score,
-                                    elapsed_seconds=time.time() - deadline.start_time,
-                                )
-                            except Exception:
-                                pass
-
-                    # If already scored and documented previously, reuse state and evaluate price change
+                    # ---------------------------------------------------------
+                    # STAGE 8 & 9: AI scoring / evaluation
+                    # ---------------------------------------------------------
                     if cand.scores and cand.opportunity and cand.previous_score is not None:
                         scored_candidates.append(cand)
                         old_p = cand.previous_price
@@ -367,136 +444,149 @@ class PipelineOrchestrator:
                             cand.change_type = None
                             cand.score_delta = 0.0
                             health.duplicates_prevented += 1
-                        self.checkpoint_store.save_candidate(run_id, cand)
-                        continue
+                    else:
+                        health.ai_calls += 1
+                        try:
+                            evaluated_cand = await self.eval_service.evaluate_candidate(cand)
+                            cand = evaluated_cand
+                            scored_candidates.append(cand)
 
-                    try:
-                        evaluated_cand = await self.eval_service.evaluate_candidate(cand)
-                        scored_candidates.append(evaluated_cand)
+                            # Evaluate deltas against historical checkpoint record
+                            if cand.scores:
+                                new_score = cand.scores.total_score
+                                new_status = (
+                                    "winner" if cand.is_winner
+                                    else ("should_test" if cand.is_should_test
+                                    else "candidate")
+                                )
 
-                        # Evaluate deltas against historical checkpoint record
-                        if evaluated_cand.scores:
-                            new_score = evaluated_cand.scores.total_score
-                            new_status = (
-                                "winner" if evaluated_cand.is_winner
-                                else ("should_test" if evaluated_cand.is_should_test
-                                else "candidate")
-                            )
+                                if cand.previous_score is not None:
+                                    delta = round(new_score - cand.previous_score, 1)
+                                    cand.score_delta = delta
+                                    old_status = cand.previous_status or "candidate"
 
-                            if evaluated_cand.previous_score is not None:
-                                delta = round(new_score - evaluated_cand.previous_score, 1)
-                                evaluated_cand.score_delta = delta
-                                old_status = evaluated_cand.previous_status or "candidate"
-
-                                if delta >= 0.5 or (old_status != "winner" and new_status == "winner") or (old_status == "candidate" and new_status == "should_test"):
-                                    evaluated_cand.change_type = "improved"
-                                    health.products_changed += 1
-                                    health.products_improved += 1
-                                elif delta <= -0.5 or (old_status == "winner" and new_status != "winner") or (old_status == "should_test" and new_status == "candidate"):
-                                    evaluated_cand.change_type = "declined"
-                                    health.products_changed += 1
-                                    health.products_declined += 1
-                                else:
-                                    old_p = evaluated_cand.previous_price
-                                    new_p = (
-                                        (evaluated_cand.verified_product.displayed_price if evaluated_cand.verified_product and evaluated_cand.verified_product.displayed_price else None)
-                                        or evaluated_cand.raw_product.displayed_price
-                                        or evaluated_cand.raw_product.price
-                                    )
-                                    if old_p and new_p and abs(new_p - old_p) >= 1.0:
-                                        evaluated_cand.change_type = "updated"
-                                        evaluated_cand.score_delta = 0.0
+                                    if delta >= 0.5 or (old_status != "winner" and new_status == "winner") or (old_status == "candidate" and new_status == "should_test"):
+                                        cand.change_type = "improved"
                                         health.products_changed += 1
+                                        health.products_improved += 1
+                                    elif delta <= -0.5 or (old_status == "winner" and new_status != "winner") or (old_status == "should_test" and new_status == "candidate"):
+                                        cand.change_type = "declined"
+                                        health.products_changed += 1
+                                        health.products_declined += 1
                                     else:
-                                        evaluated_cand.change_type = None
-                                        evaluated_cand.score_delta = 0.0
-                                        health.duplicates_prevented += 1
+                                        old_p = cand.previous_price
+                                        new_p = (
+                                            (cand.verified_product.displayed_price if cand.verified_product and cand.verified_product.displayed_price else None)
+                                            or cand.raw_product.displayed_price
+                                            or cand.raw_product.price
+                                        )
+                                        if old_p and new_p and abs(new_p - old_p) >= 1.0:
+                                            cand.change_type = "updated"
+                                            cand.score_delta = 0.0
+                                            health.products_changed += 1
+                                        else:
+                                            cand.change_type = None
+                                            cand.score_delta = 0.0
+                                            health.duplicates_prevented += 1
 
-                    except Exception as exc:
-                        health.ai_failures += 1
-                        logger.error("AI scoring failed for candidate %s: %s", cand.asin, exc)
-                        self.checkpoint_store.quarantine_candidate(cand.asin, "AI_SCORING", str(exc))
+                        except Exception as exc:
+                            health.ai_failures += 1
+                            logger.error("AI scoring failed for candidate %s: %s", cand.asin, exc)
+                            self.checkpoint_store.quarantine_candidate(cand.asin, "AI_SCORING", str(exc))
 
-                    self.checkpoint_store.save_candidate(run_id, cand)
+                    # ---------------------------------------------------------
+                    # STAGE 10 & 11: Real-time Winner / Should-Test Discovery & Instant Live Sync
+                    # ---------------------------------------------------------
+                    is_cand_winner = cand.scores and cand.scores.is_winner
+                    is_cand_should_test = cand.is_should_test or (cand.scores and cand.scores.is_should_test)
 
-                # -------------------------------------------------------------
-                # STAGE 10: Walmart research (For candidates qualifying as potential winners)
-                # -------------------------------------------------------------
-                logger.info("Stage 10: Researching and verifying Walmart availability...")
-                potential_winners = [c for c in scored_candidates if c.scores and c.scores.is_winner]
-
-                for pw in potential_winners:
-                    deadline.check_deadline()
-                    health.walmart_searches += 1
-                    query = pw.verified_product.title if pw.verified_product else pw.raw_product.title
-                    try:
-                        walmart_res = await self.walmart_adapter.search_and_verify(
-                            query=query, expected_title=query
-                        )
-                        pw.walmart = walmart_res
-                        if walmart_res.status == WalmartStatus.NOT_VERIFIED:
+                    if is_cand_winner:
+                        # Walmart research for potential winner
+                        health.walmart_searches += 1
+                        query = cand.verified_product.title if cand.verified_product else cand.raw_product.title
+                        try:
+                            walmart_res = await self.walmart_adapter.search_and_verify(
+                                query=query, expected_title=query
+                            )
+                            cand.walmart = walmart_res
+                            if walmart_res.status == WalmartStatus.NOT_VERIFIED:
+                                health.walmart_failures += 1
+                        except Exception as exc:
                             health.walmart_failures += 1
-                    except Exception as exc:
-                        health.walmart_failures += 1
-                        logger.warning("Walmart research failed for %s: %s", pw.asin, exc)
+                            logger.warning("Walmart research failed for %s: %s", cand.asin, exc)
 
-                    self.checkpoint_store.save_candidate(run_id, pw)
+                        cand.lifecycle_stage = ProductLifecycleStage.FINAL_WINNER
+                        if not any(w.asin == cand.asin for w in winners):
+                            winners.append(cand)
+                        self.checkpoint_store.save_candidate(run_id, cand)
 
-                # -------------------------------------------------------------
-                # STAGE 11: Final selection
-                # -------------------------------------------------------------
-                logger.info("Stage 11: Performing final selection...")
-                winners = [c for c in potential_winners if c.scores and c.scores.is_winner]
-                should_test = [
-                    c for c in scored_candidates
-                    if c not in winners and (c.is_should_test or (c.scores and c.scores.is_should_test))
-                ]
-                near_misses = sorted(
-                    [c for c in scored_candidates if c not in winners and c.scores],
-                    key=lambda c: c.scores.total_score if c.scores else 0.0,
-                    reverse=True,
-                )
+                        # DIRECT REAL-TIME DASHBOARD UPDATE & CLOUDFLARE SYNC!
+                        logger.info("🏆 NEW WINNER DISCOVERED [%s]! Syncing directly to live dashboard...", cand.asin)
+                        self._sync_live_dashboard(
+                            reviewed_count=len(unique_candidates),
+                            winners=winners,
+                            should_test=should_test,
+                            candidates=unique_candidates,
+                            health_report=health.build_report(),
+                            reason=f"New Winner: {cand.asin}",
+                            push_git=True,
+                        )
 
-                for w in winners:
-                    w.lifecycle_stage = ProductLifecycleStage.FINAL_WINNER
-                    self.checkpoint_store.save_candidate(run_id, w)
+                    elif is_cand_should_test:
+                        if not any(st.asin == cand.asin for st in should_test):
+                            should_test.append(cand)
+                        self.checkpoint_store.save_candidate(run_id, cand)
+
+                        # DIRECT REAL-TIME DASHBOARD UPDATE & CLOUDFLARE SYNC!
+                        logger.info("⭐ NEW SHOULD-TEST DISCOVERED [%s]! Syncing directly to live dashboard...", cand.asin)
+                        self._sync_live_dashboard(
+                            reviewed_count=len(unique_candidates),
+                            winners=winners,
+                            should_test=should_test,
+                            candidates=unique_candidates,
+                            health_report=health.build_report(),
+                            reason=f"New Should-Test: {cand.asin}",
+                            push_git=True,
+                        )
+                    else:
+                        self.checkpoint_store.save_candidate(run_id, cand)
+                        # Periodic update every 10 scored candidates
+                        if len(scored_candidates) > 0 and len(scored_candidates) % 10 == 0:
+                            self._sync_live_dashboard(
+                                reviewed_count=len(unique_candidates),
+                                winners=winners,
+                                should_test=should_test,
+                                candidates=unique_candidates,
+                                health_report=health.build_report(),
+                                reason=f"Periodic candidate update ({len(scored_candidates)} scored)",
+                                push_git=False,
+                            )
 
                 # -------------------------------------------------------------
                 # STAGE 12: Final report generation (Markdown & Executive HTML)
                 # -------------------------------------------------------------
                 logger.info("Stage 12: Generating Markdown report and Executive HTML Dashboard...")
+                near_misses = sorted(
+                    [c for c in unique_candidates if c not in winners and c.scores],
+                    key=lambda c: c.scores.total_score if c.scores else 0.0,
+                    reverse=True,
+                )
                 report_markdown = format_full_report(
                     reviewed_count=len(unique_candidates),
                     winners=winners,
                     near_misses=near_misses,
                     health=health.build_report(),
                 )
-                # Ensure every candidate has fully populated scores
-                for uc in unique_candidates:
-                    if not uc.scores or uc.scores.total_score == 0.0:
-                        clean_title = (
-                            (uc.verified_product.title if uc.verified_product and uc.verified_product.title.strip().lower() != "unknown" else None)
-                            or (uc.raw_product.title if uc.raw_product and uc.raw_product.title.strip().lower() != "unknown" else None)
-                            or uc.normalized_title
-                            or uc.asin
-                        ).strip()
-                        uc.scores = compute_heuristic_scores(clean_title, uc.exposure_level)
-                        self.checkpoint_store.save_candidate(run_id, uc)
 
-                try:
-                    dashboard_file = save_dashboard(
-                        reviewed_count=len(unique_candidates),
-                        winners=winners,
-                        near_misses=near_misses,
-                        health=health.build_report(),
-                        data_dir=self.settings.data_dir,
-                        spreadsheet_id=self.settings.spreadsheet_id,
-                        should_be_tested=should_test,
-                        candidates=unique_candidates,
-                    )
-                    logger.info("Executive Dashboard generated at: %s", dashboard_file)
-                except Exception as d_exc:
-                    logger.warning("Could not generate HTML dashboard: %s", d_exc)
+                self._sync_live_dashboard(
+                    reviewed_count=len(unique_candidates),
+                    winners=winners,
+                    should_test=should_test,
+                    candidates=unique_candidates,
+                    health_report=health.build_report(),
+                    reason="Final run completion",
+                    push_git=True,
+                )
 
                 # -------------------------------------------------------------
                 # STAGE 13 & 14: Google Sheets update & Pre-mutation backup

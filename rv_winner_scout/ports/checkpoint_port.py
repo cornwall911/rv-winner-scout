@@ -24,6 +24,11 @@ class CheckpointPort(ABC):
         pass
 
     @abstractmethod
+    def get_all_candidates(self) -> List[ProductCandidate]:
+        """Retrieves all candidates stored across all runs."""
+        pass
+
+    @abstractmethod
     def quarantine_candidate(self, asin: str, stage: str, error_detail: str) -> None:
         """Pushes a failing or malformed candidate into the dead-letter quarantine."""
         pass

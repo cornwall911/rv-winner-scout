@@ -100,6 +100,19 @@ class SQLiteCheckpointStore(CheckpointPort):
                 candidates.append(ProductCandidate.model_validate_json(row["data_json"]))
         return candidates
 
+    def get_all_candidates(self) -> List[ProductCandidate]:
+        candidates: List[ProductCandidate] = []
+        with self._get_conn() as conn:
+            cur = conn.execute(
+                "SELECT data_json FROM candidates ORDER BY updated_at DESC"
+            )
+            for row in cur.fetchall():
+                try:
+                    candidates.append(ProductCandidate.model_validate_json(row["data_json"]))
+                except Exception:
+                    pass
+        return candidates
+
     def get_all_processed_asins(self, completed_only: bool = False) -> set[str]:
         query = (
             "SELECT asin FROM candidates WHERE stage IN ('FINAL_WINNER', 'REJECTED', 'COMMITTED')"
