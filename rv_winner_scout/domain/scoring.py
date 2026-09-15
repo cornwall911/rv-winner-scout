@@ -135,3 +135,59 @@ def calculate_score_breakdown(
         is_exception=is_exception,
         exception_reason=exception_reason,
     )
+
+
+def compute_heuristic_scores(
+    title: str,
+    exposure_level: Optional[ExposureLevel] = None,
+) -> ScoreBreakdown:
+    """Computes a deterministic, category-differentiated score breakdown for a product title."""
+    t = title.lower()
+    exp = exposure_level or ExposureLevel.LOW
+
+    # Default baseline scores
+    fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 5.0, 6.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0
+
+    if any(k in t for k in ["wall mounted air conditioner", "ductless air conditioner", "wall ac unit", "portable 2-in-1"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 9.5, 9.0, 9.8, 9.6, 9.7, 9.2, 9.0, 9.0, 9.0
+    elif any(k in t for k in ["soft start", "inrush limiter", "surge protector", "macerator"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 8.5, 7.5, 9.5, 8.0, 9.5, 6.5, 7.0, 8.0, 8.5
+    elif any(k in t for k in ["power station", "solix", "generator", "battery bank", "solar generator"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 8.0, 6.5, 8.0, 7.5, 8.5, 8.5, 7.5, 7.0, 8.0
+    elif any(k in t for k in ["propane gas detector", "gas detector", "leak detector", "co detector"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 6.5, 7.0, 9.2, 6.0, 9.0, 5.5, 6.5, 6.5, 8.5
+    elif any(k in t for k in ["rain shield", "camera cover", "rear view camera", "backup camera"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 7.0, 6.5, 7.5, 7.2, 6.8, 7.0, 6.0, 7.5, 7.0
+    elif any(k in t for k in ["skylight insulator", "vent pillow", "insulator cover", "blackout vent"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 6.8, 6.0, 8.8, 6.5, 7.8, 6.0, 7.0, 6.5, 8.0
+    elif any(k in t for k in ["cassette toilet", "ventilation system", "toilet vent"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 7.5, 7.0, 9.0, 7.8, 8.8, 6.0, 7.0, 7.0, 7.5
+    elif any(k in t for k in ["shower head", "high pressure shower", "oxygenics"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 7.2, 7.0, 8.8, 6.8, 7.5, 6.5, 6.5, 7.2, 8.0
+    elif any(k in t for k in ["fan blade", "condenser fan", "motor replacement", "ac blade"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 5.0, 6.0, 8.5, 4.5, 7.0, 4.5, 5.5, 5.0, 7.0
+    elif any(k in t for k in ["plumbing vent cap", "vent cap", "roof vent cover", "vent replacement"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 5.0, 5.5, 8.5, 4.8, 6.5, 5.0, 5.5, 5.0, 7.5
+    elif any(k in t for k in ["leveling block", "wheel chock", "leveler", "jack pad"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 4.8, 5.0, 8.0, 4.0, 6.5, 5.0, 6.0, 5.0, 7.5
+    elif any(k in t for k in ["sewer hose", "bayonet fitting", "dump station"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 5.0, 5.5, 8.5, 4.5, 7.5, 4.5, 5.5, 5.0, 7.5
+    elif any(k in t for k in ["crawl space", "foundation vent"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 3.5, 5.0, 3.5, 4.0, 4.5, 4.0, 4.0, 3.5, 4.0
+    elif any(k in t for k in ["car fan", "clip-on fan", "triple head"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 5.2, 5.5, 5.0, 5.0, 5.5, 5.5, 5.0, 5.5, 6.0
+    elif any(k in t for k in ["warm air fan", "wall-mounted heater", "ptc heater"]):
+        fb_disc, rv_exp, rv_rel, novelty, problem, visual, space, impulse, breadth = 5.5, 5.5, 6.0, 5.5, 6.0, 5.5, 5.5, 5.0, 6.0
+
+    raw = RawDimensionScores(
+        facebook_discovery_potential=fb_disc,
+        rv_facebook_exposure=rv_exp,
+        rv_relevance=rv_rel,
+        novelty_newness=novelty,
+        problem_solving_power=problem,
+        visual_wow=visual,
+        space_convenience=space,
+        impulse_click_potential=impulse,
+        rv_audience_breadth=breadth,
+    )
+    return calculate_score_breakdown(raw=raw, exposure_level=exp)

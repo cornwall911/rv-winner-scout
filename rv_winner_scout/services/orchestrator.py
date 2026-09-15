@@ -29,6 +29,7 @@ from rv_winner_scout.domain.exceptions import (
     RunLockActiveError,
 )
 from rv_winner_scout.domain.models import ProductCandidate, RunHealthReport
+from rv_winner_scout.domain.scoring import compute_heuristic_scores
 from rv_winner_scout.reporting.dashboard_generator import save_dashboard
 from rv_winner_scout.reporting.formatter import format_full_report
 from rv_winner_scout.services.backup_service import BackupService
@@ -429,6 +430,18 @@ class PipelineOrchestrator:
                     near_misses=near_misses,
                     health=health.build_report(),
                 )
+                # Ensure every candidate has fully populated scores
+                for uc in unique_candidates:
+                    if not uc.scores or uc.scores.total_score == 0.0:
+                        clean_title = (
+                            (uc.verified_product.title if uc.verified_product and uc.verified_product.title.strip().lower() != "unknown" else None)
+                            or (uc.raw_product.title if uc.raw_product and uc.raw_product.title.strip().lower() != "unknown" else None)
+                            or uc.normalized_title
+                            or uc.asin
+                        ).strip()
+                        uc.scores = compute_heuristic_scores(clean_title, uc.exposure_level)
+                        self.checkpoint_store.save_candidate(run_id, uc)
+
                 try:
                     dashboard_file = save_dashboard(
                         reviewed_count=len(unique_candidates),

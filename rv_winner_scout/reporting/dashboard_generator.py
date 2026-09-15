@@ -8,12 +8,20 @@ from datetime import datetime, timezone
 from typing import List, Optional, Tuple
 
 from rv_winner_scout.domain.models import ProductCandidate, RunHealthReport
+from rv_winner_scout.domain.scoring import compute_heuristic_scores
 
 
 def generate_humanized_angles(cand: ProductCandidate) -> List[Tuple[str, str]]:
     """Generates 3 humanized, high-converting RV marketing angles with relatable hooks and examples."""
     opp = cand.opportunity
-    title = cand.verified_product.title if cand.verified_product else cand.raw_product.title
+    title = ""
+    if cand.verified_product and cand.verified_product.title and cand.verified_product.title.strip().lower() != "unknown":
+        title = cand.verified_product.title.strip()
+    elif cand.raw_product and cand.raw_product.title and cand.raw_product.title.strip().lower() != "unknown":
+        title = cand.raw_product.title.strip()
+    else:
+        title = (cand.normalized_title or cand.asin).strip()
+
     short_title = title.split("-")[0].split("|")[0].split(",")[0].strip()
     if len(short_title) > 40:
         short_title = short_title[:37] + "..."
@@ -118,7 +126,17 @@ def generate_executive_dashboard_html(
             seen_asins.add(c.asin)
             deduped_candidates.append(c)
 
-            title_lower = (c.normalized_title or "").lower()
+            # Determine clean, real product title
+            clean_title = ""
+            if c.verified_product and c.verified_product.title and c.verified_product.title.strip().lower() != "unknown":
+                clean_title = c.verified_product.title.strip()
+            elif c.raw_product and c.raw_product.title and c.raw_product.title.strip().lower() != "unknown":
+                clean_title = c.raw_product.title.strip()
+            else:
+                clean_title = (c.normalized_title or c.asin).strip()
+
+            title_lower = clean_title.lower()
+
             # Breakthrough winner check (e.g. wall mounted ductless AC / portable 2-in-1 heaters for RVs)
             if ("wall mounted" in title_lower and "air conditioner" in title_lower) or ("ductless" in title_lower and "air conditioner" in title_lower):
                 winner_asins.add(c.asin)
@@ -137,12 +155,15 @@ def generate_executive_dashboard_html(
                         total_score=95.0,
                         is_winner=True,
                     )
+            elif not c.scores or c.scores.total_score == 0.0:
+                c.scores = compute_heuristic_scores(clean_title, c.exposure_level)
 
-            # Tag as should_be_tested if matching criteria
-            if c.asin not in winner_asins:
-                title_lower = (c.normalized_title or "").lower()
-                is_high_utility_solver = any(kw in title_lower for kw in ["soft start", "inrush limiter", "surge protector", "water pressure regulator", "macerator"])
-                if c.is_should_test or (c.scores and c.scores.is_should_test):
+            # Tag as winner or should_be_tested if matching criteria
+            if c.scores and c.scores.is_winner:
+                winner_asins.add(c.asin)
+            elif c.asin not in winner_asins:
+                is_high_utility_solver = any(kw in title_lower for kw in ["soft start", "inrush limiter", "surge protector", "water pressure regulator", "macerator", "power station", "propane gas detector", "skylight insulator"])
+                if c.is_should_test or (c.scores and c.scores.is_should_test) or is_high_utility_solver:
                     should_test_asins.add(c.asin)
                 elif c.scores and (
                     c.scores.final_score >= 70.0
@@ -150,20 +171,11 @@ def generate_executive_dashboard_html(
                     or c.scores.problem_solving_power >= 8.0
                 ):
                     should_test_asins.add(c.asin)
-                elif is_high_utility_solver:
-                    should_test_asins.add(c.asin)
 
     # Sort descending by score initially
-    def _cand_sort_score(c):
-        if c.asin in winner_asins:
-            return c.scores.final_score if (c.scores and c.scores.final_score > 0) else 95.0
-        if c.scores and c.scores.final_score > 0:
-            return c.scores.final_score
-        if c.asin in should_test_asins:
-            return 74.0
-        return 55.0
-
-    deduped_candidates.sort(key=_cand_sort_score, reverse=True)
+    deduped_candidates.sort(
+        key=lambda c: (c.scores.final_score if c.scores else 0.0), reverse=True
+    )
     all_candidates = deduped_candidates
     winners_count = sum(1 for c in all_candidates if c.asin in winner_asins)
     should_test_count = sum(1 for c in all_candidates if (c.asin in should_test_asins and c.asin not in winner_asins))
@@ -173,13 +185,22 @@ def generate_executive_dashboard_html(
     for idx, cand in enumerate(all_candidates, 1):
         is_winner = cand.asin in winner_asins
         is_should_test = (cand.asin in should_test_asins) and not is_winner
-        raw_title = cand.verified_product.title if cand.verified_product else cand.raw_product.title
+
+        # Clean title guarantee - NEVER display "Unknown"
+        raw_title = ""
+        if cand.verified_product and cand.verified_product.title and cand.verified_product.title.strip().lower() != "unknown":
+            raw_title = cand.verified_product.title.strip()
+        elif cand.raw_product and cand.raw_product.title and cand.raw_product.title.strip().lower() != "unknown":
+            raw_title = cand.raw_product.title.strip()
+        else:
+            raw_title = (cand.normalized_title or cand.asin).strip()
+
         title = html.escape(raw_title)
         asin = cand.asin
         amazon_url = cand.canonical_url if cand.canonical_url else f"https://www.amazon.com/dp/{asin}"
 
         # Price and BSR
-        price_val = cand.verified_product.displayed_price if cand.verified_product else cand.raw_product.displayed_price
+        price_val = cand.verified_product.displayed_price if cand.verified_product else (cand.raw_product.displayed_price if cand.raw_product else None)
         price_display = f"${price_val:.2f}" if price_val is not None else ""
         price_num = price_val if price_val is not None else 0.0
 
@@ -201,14 +222,7 @@ def generate_executive_dashboard_html(
                 except ValueError:
                     bsr_num = 9999999
 
-        score_val = cand.scores.final_score if cand.scores else 0.0
-        if score_val == 0.0:
-            if is_winner:
-                score_val = 95.0
-            elif is_should_test:
-                score_val = 74.0
-            else:
-                score_val = 55.0
+        score_val = cand.scores.final_score if cand.scores else 50.0
 
         # Walmart data with guaranteed functional direct link or search link
         walmart_status = cand.walmart.status.value if cand.walmart else "NOT FOUND"
