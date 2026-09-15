@@ -302,8 +302,7 @@ class PipelineOrchestrator:
                             candidate.previous_score = prev.scores.total_score if prev.scores else None
                             candidate.previous_price = (
                                 (prev.verified_product.displayed_price if prev.verified_product and prev.verified_product.displayed_price else None)
-                                or prev.raw_product.displayed_price
-                                or prev.raw_product.price
+                                or (prev.raw_product.displayed_price if prev.raw_product else None)
                             )
                             candidate.previous_status = (
                                 "winner" if prev.is_winner
@@ -478,8 +477,7 @@ class PipelineOrchestrator:
                         old_p = cand.previous_price
                         new_p = (
                             (cand.verified_product.displayed_price if cand.verified_product and cand.verified_product.displayed_price else None)
-                            or cand.raw_product.displayed_price
-                            or cand.raw_product.price
+                            or (cand.raw_product.displayed_price if cand.raw_product else None)
                         )
                         if old_p and new_p and abs(new_p - old_p) >= 1.0:
                             cand.change_type = "updated"
@@ -522,8 +520,7 @@ class PipelineOrchestrator:
                                         old_p = cand.previous_price
                                         new_p = (
                                             (cand.verified_product.displayed_price if cand.verified_product and cand.verified_product.displayed_price else None)
-                                            or cand.raw_product.displayed_price
-                                            or cand.raw_product.price
+                                            or (cand.raw_product.displayed_price if cand.raw_product else None)
                                         )
                                         if old_p and new_p and abs(new_p - old_p) >= 1.0:
                                             cand.change_type = "updated"

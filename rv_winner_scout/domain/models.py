@@ -32,6 +32,11 @@ class RawAmazonProduct(BaseModel):
     source_page_url: str
     discovered_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
 
+    @property
+    def price(self) -> Optional[float]:
+        """Backward-compatible alias for displayed_price."""
+        return self.displayed_price
+
 
 class VerifiedAmazonProduct(BaseModel):
     """Product data confirmed via actual direct Amazon product page opening."""
@@ -49,6 +54,11 @@ class VerifiedAmazonProduct(BaseModel):
     verification_state: VerificationState = VerificationState.PARTIAL
     failure_reason: Optional[str] = None
     opened_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+
+    @property
+    def price(self) -> Optional[float]:
+        """Backward-compatible alias for displayed_price."""
+        return self.displayed_price
 
 
 class ExposureSignal(BaseModel):
