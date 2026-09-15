@@ -9,6 +9,7 @@ from typing import List, Optional, Tuple
 
 from rv_winner_scout.domain.models import ProductCandidate, RunHealthReport
 from rv_winner_scout.domain.scoring import compute_heuristic_scores
+from rv_winner_scout.services.archetype_learning import ArchetypeMatcher
 
 
 def generate_humanized_angles(cand: ProductCandidate) -> List[Tuple[str, str]]:
@@ -298,12 +299,25 @@ def generate_executive_dashboard_html(
         elif cand.change_type == "updated":
             change_pill = '<span class="delta-pill delta-updated" title="Price / ranking updated">🔄 Updated</span>'
 
+        matched_arch = ArchetypeMatcher.match_candidate(raw_title)
+        archetype_pill = f'<span class="archetype-pill">{matched_arch.badge_label}</span>' if matched_arch else ""
+        archetype_row_html = ""
+        if matched_arch:
+            archetype_row_html = f"""
+                    <div class="insight-row archetype-row">
+                        <div class="insight-header">
+                            <span class="insight-label-archetype">🧬 Learned Product DNA:</span>
+                        </div>
+                        <p class="insight-text">{matched_arch.core_latent_value} <span class="archetype-meta">({matched_arch.badge_label})</span></p>
+                    </div>"""
+
         cards_html += f"""
         <div class="product-card {status_class}" data-title="{title.lower()} {asin.lower()}" data-type="{data_type}" data-changed="{cand.change_type or 'none'}" data-score="{score_val:.2f}" data-price="{price_num:.2f}" data-bsr="{bsr_num}">
             <div class="card-top-bar">
                 <div class="badge-group">
                     <span class="status-pill {badge_class}">{status_badge}</span>
                     <span class="score-pill">⭐ {score_val:.1f} / 100</span>
+                    {archetype_pill}
                     {change_pill}
                 </div>
                 <span class="asin-pill">ASIN: {asin}</span>
@@ -355,7 +369,7 @@ def generate_executive_dashboard_html(
                         </div>
                         <p class="insight-text">{why_fail}</p>
                     </div>
-
+{archetype_row_html}
 {angles_html}
                 </div>
             </div>
@@ -689,6 +703,18 @@ def generate_executive_dashboard_html(
             color: #F59E0B;
             border: 1px solid rgba(245, 158, 11, 0.45);
         }}
+        .archetype-pill {{
+            font-size: 0.70rem;
+            font-weight: 700;
+            padding: 2px 8px;
+            border-radius: 999px;
+            background: rgba(99, 102, 241, 0.12);
+            color: #818CF8;
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            display: inline-flex;
+            align-items: center;
+            white-space: nowrap;
+        }}
 
         /* Single Product Image */
         .product-image-box {{
@@ -784,6 +810,8 @@ def generate_executive_dashboard_html(
         .insight-label-hook {{ color: #F43F5E; font-size: 0.76rem; font-weight: 700; }}
         .insight-label-why {{ color: var(--accent); font-size: 0.76rem; font-weight: 700; }}
         .insight-label-risk {{ color: var(--amazon-color); font-size: 0.76rem; font-weight: 700; }}
+        .insight-label-archetype {{ color: #A78BFA; font-size: 0.76rem; font-weight: 700; }}
+        .archetype-meta {{ color: #818CF8; font-size: 0.76rem; font-weight: 600; }}
         .insight-text {{ color: var(--text-secondary); font-size: 0.82rem; line-height: 1.45; margin: 0; }}
         .btn-copy-sm {{
             background: transparent;

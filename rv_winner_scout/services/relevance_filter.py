@@ -72,6 +72,13 @@ class RelevanceFilter:
 
         Returns (is_rejected, rejection_reason).
         """
+        from rv_winner_scout.services.archetype_learning import ArchetypeMatcher
+
+        # Protect any product matching learned winning or should-test functional archetypes
+        matched = ArchetypeMatcher.match_candidate(title, bullet_points)
+        if matched is not None and matched.archetype_class in ("WINNER", "SHOULD_TEST"):
+            return False, None
+
         combined = f"{title} {' '.join(bullet_points)}".lower()
 
         # 1. Common staples that every RV owner already knows

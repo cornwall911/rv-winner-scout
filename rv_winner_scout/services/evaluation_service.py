@@ -19,6 +19,7 @@ from rv_winner_scout.domain.models import (
     ScoreBreakdown,
 )
 from rv_winner_scout.domain.scoring import RawDimensionScores, calculate_score_breakdown
+from rv_winner_scout.services.archetype_learning import ArchetypeMatcher
 
 
 class AIProductEvaluationResponse(BaseModel):
@@ -52,7 +53,7 @@ class AIProductEvaluationResponse(BaseModel):
     exact_walmart_query: str = Field(description="Precise 3-4 word Walmart search query")
 
 
-SYSTEM_PROMPT = """You are an expert e-commerce product researcher and viral affiliate marketer specializing in RV Parts & Accessories.
+BASE_SYSTEM_PROMPT = """You are an expert e-commerce product researcher and viral affiliate marketer specializing in RV Parts & Accessories.
 Your goal is NOT simply to find popular Amazon products.
 Your goal is to discover products that make an RV owner stop scrolling and think: "I didn't know this existed" or "This solves my biggest RV headache."
 
@@ -70,6 +71,8 @@ OUTPUT FOCUS:
 - why_next_winner: 1-2 compelling sentences detailing exactly why this product converts (core pain point solved, cost savings, boondocking freedom).
 - why_fail: 1-2 realistic sentences highlighting the exact bottleneck or risk (installation skill required, voltage/BTU compatibility, warranty concerns).
 """
+
+SYSTEM_PROMPT = f"{BASE_SYSTEM_PROMPT}\n\n{ArchetypeMatcher.get_ai_learning_prompt_appendix()}"
 
 
 class EvaluationService:
@@ -89,6 +92,16 @@ class EvaluationService:
         exposure_urls = [s.source_url for s in candidate.exposure_signals]
         pain_points = candidate.identified_pain_points
 
+        matched_arch = ArchetypeMatcher.match_candidate(title, bullets)
+        arch_section = (
+            f"\nLEARNED DNA BENCHMARK MATCH:\n"
+            f"Archetype: {matched_arch.badge_label} ({matched_arch.archetype_class})\n"
+            f"Core Functional Trait: {matched_arch.core_latent_value}\n"
+            f"Exemplar Precedents: {', '.join(matched_arch.exemplar_products)}\n"
+            if matched_arch
+            else ""
+        )
+
         user_prompt = f"""PRODUCT DETAILS FOR EVALUATION:
 Title: {title}
 ASIN: {candidate.asin}
@@ -103,7 +116,7 @@ Newness Evidence: {newness_ev}
 Public Social Exposure Level: {exposure_lvl} (public signal only — private groups not visible)
 Public Mention URLs Found: {exposure_urls}
 Identified RV Pain Points: {pain_points}
-
+{arch_section}
 REFERENCE 25K WINNER BENCHMARK URL:
 {self.reference_url}
 
