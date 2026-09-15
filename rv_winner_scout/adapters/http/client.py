@@ -72,7 +72,6 @@ class ResilientHttpClient:
             "cookies": {
                 "i18n-prefs": "USD",
                 "lc-main": "en_US",
-                "sp-cdn": "L5Z9:EG",
             },
         }
         if proxy_url:
@@ -81,9 +80,11 @@ class ResilientHttpClient:
         self.client = httpx.AsyncClient(**client_kwargs)
 
     def _get_headers(self, url: str) -> Dict[str, str]:
+        is_amazon = "amazon.com" in url
         headers = {
             "User-Agent": self.session_user_agent,
-            "Referer": "https://www.amazon.com/" if "amazon.com" in url else "https://www.google.com/",
+            "Referer": "https://www.amazon.com/gp/new-releases/automotive/2258019011" if is_amazon else "https://www.google.com/",
+            "Sec-Fetch-Site": "same-origin" if is_amazon else "cross-site",
         }
         return headers
 

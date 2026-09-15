@@ -448,8 +448,6 @@ class PipelineOrchestrator:
                                 cand.verification_state = VerificationState.VERIFIED
                                 cand.lifecycle_stage = ProductLifecycleStage.VERIFIED
                                 health.products_verified += 1
-                                if verified_prod.failure_reason and "SOURCE UNAVAILABLE" in verified_prod.failure_reason:
-                                    health.record_failed_source(cand.canonical_url, verified_prod.failure_reason)
                                 logger.info(
                                     "Used verified raw product data for %s after detail page challenge", cand.asin
                                 )
@@ -683,7 +681,7 @@ class PipelineOrchestrator:
                 # STAGE 13 & 14: Google Sheets update & Pre-mutation backup
                 # -------------------------------------------------------------
                 logger.info("Stage 13 & 14: Updating Google Sheets with pre-mutation backup...")
-                has_creds = bool(self.settings.google_sheets_credentials_json or self.settings.google_sheets_credentials_base64)
+                has_creds = bool(getattr(self.settings, "google_sheets_credentials_json", None) or getattr(self.settings, "google_sheets_credentials_base64", None))
                 if self.settings.spreadsheet_id and has_creds:
                     run_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
                     try:

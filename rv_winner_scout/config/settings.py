@@ -34,6 +34,9 @@ class Settings(BaseSettings):
     google_sheets_credentials_json: Optional[str] = Field(
         default=None, alias="GOOGLE_SHEETS_CREDENTIALS_JSON"
     )
+    google_sheets_credentials_base64: Optional[str] = Field(
+        default=None, alias="GOOGLE_SHEETS_CREDENTIALS_BASE64"
+    )
 
     # Execution and Mode Controls
     # Options: smoke | small | full

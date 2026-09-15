@@ -68,9 +68,9 @@ class GoogleSheetsAdapter(GoogleSheetsPort):
 
     def _get_client(self) -> gspread.Client:
         """Initializes gspread authenticated client using service account credentials."""
-        creds_val = self.settings.google_sheets_credentials_json
+        creds_val = self.settings.google_sheets_credentials_json or self.settings.google_sheets_credentials_base64
         if not creds_val:
-            raise GoogleSheetsError("GOOGLE_SHEETS_CREDENTIALS_JSON is not configured.")
+            raise GoogleSheetsError("Google Sheets credentials are not configured.")
 
         creds_dict: Optional[Dict[str, Any]] = None
 
