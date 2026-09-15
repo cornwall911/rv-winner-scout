@@ -1491,8 +1491,12 @@ def generate_executive_dashboard_html(
                     const curTabs = document.querySelector('.filter-tabs');
                     if (newTabs && curTabs) {{
                         const activeFilterType = currentFilter;
-                        curTabs.innerHTML = newTabs.innerHTML;
-                        const targetBtn = curTabs.querySelector("[onclick*=\"'" + activeFilterType + "'\"]");
+                        let targetBtn = null;
+                        curTabs.querySelectorAll('.filter-btn').forEach(b => {{
+                            if (b.getAttribute('onclick') && b.getAttribute('onclick').includes(activeFilterType)) {{
+                                targetBtn = b;
+                            }}
+                        }});
                         if (targetBtn) {{
                             curTabs.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
                             targetBtn.classList.add('active');
