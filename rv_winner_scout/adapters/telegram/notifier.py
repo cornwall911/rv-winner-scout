@@ -218,9 +218,34 @@ class TelegramNotifier:
         elif health.duplicates_prevented > 0:
             change_line = f"🔄 <b>تحديثات المنتجات:</b> تم منع تكرار {health.duplicates_prevented} منتج متطابق دون تغيير"
 
-        if winners:
+        new_winners = [w for w in winners if w.previous_score is None]
+        new_tests = [st for st in (should_be_tested or []) if st.previous_score is None]
+        is_routine_no_new = (len(new_winners) == 0 and len(new_tests) == 0 and health.products_changed == 0 and reviewed_count > 0)
+
+        if is_routine_no_new:
             lines = [
-                "🏆 <b>RV Winner Scout | اكتشاف فائزين جدد!</b>",
+                "✅ <b>RV Winner Scout | اكتمال الفحص اليومي الدوري</b>",
+                "═══════════════════════════",
+                f"📅 <b>التاريخ:</b> <code>{date_str}</code>",
+                f"🔍 <b>إجمالي المنتجات المفحوصة في أمازون:</b> {reviewed_count}",
+                f"ℹ️ <b>الحالة:</b> لم يتم رصد أي منتجات جديدة اليوم (جميع المنتجات الـ {reviewed_count} مفحوصة ومحدثة بنسبة 100% دون أي تغيير).",
+                "",
+                f"🏆 <b>المنتجات الفائزة المسجلة:</b> {len(winners)} منتج في الصدارة",
+                f"🧪 <b>المرشحون ذوو الأولوية (Should-Test):</b> {len(should_be_tested or [])} منتج",
+                "",
+                "═══════════════════════════",
+                f"👉 <a href='{sheet_link}'>فتح جدول Research Log في Google Sheets</a>",
+                f"🌐 <a href='{dashboard_url}'>عرض الداشبورد التفاعلي المباشر (Live Dashboard)</a>",
+            ]
+            msg = "\n".join(lines)
+        elif winners:
+            winner_heading = (
+                f"🏆 <b>RV Winner Scout | اكتشاف فائزين جدد اليوم! ({len(new_winners)} منتج)</b>"
+                if new_winners
+                else "🏆 <b>RV Winner Scout | تقرير المنتجات الفائزة</b>"
+            )
+            lines = [
+                winner_heading,
                 "═══════════════════════════",
                 f"📅 <b>التاريخ:</b> <code>{date_str}</code>",
                 f"🔍 <b>إجمالي المنتجات المفحوصة:</b> {reviewed_count}",

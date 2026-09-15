@@ -204,6 +204,21 @@ class PipelineOrchestrator:
                                 else ("should_test" if prev.is_should_test
                                 else "candidate")
                             )
+                            # Carry over already verified and evaluated state
+                            if prev.verified_product and prev.verification_state == VerificationState.VERIFIED:
+                                candidate.verified_product = prev.verified_product
+                                candidate.verification_state = prev.verification_state
+                            if prev.scores:
+                                candidate.scores = prev.scores
+                            if prev.opportunity:
+                                candidate.opportunity = prev.opportunity
+                            if prev.newness:
+                                candidate.newness = prev.newness
+                                candidate.newness_evidence = prev.newness_evidence
+                            if prev.identified_pain_points:
+                                candidate.identified_pain_points = prev.identified_pain_points
+                            if prev.walmart:
+                                candidate.walmart = prev.walmart
 
                     self.checkpoint_store.save_candidate(run_id, candidate)
                     unique_candidates.append(candidate)
@@ -234,22 +249,28 @@ class PipelineOrchestrator:
                             except Exception:
                                 pass
 
-                    verified_prod = await self.verifier.verify_product(cand.canonical_url)
-                    cand.verified_product = verified_prod
-                    cand.verification_state = verified_prod.verification_state
-
-                    if verified_prod.verification_state == VerificationState.VERIFIED:
+                    # If already verified in database with valid data, reuse without re-scraping Amazon
+                    if cand.verified_product and cand.verification_state == VerificationState.VERIFIED:
                         cand.lifecycle_stage = ProductLifecycleStage.VERIFIED
                         health.products_verified += 1
                         verified_candidates.append(cand)
                     else:
-                        cand.lifecycle_stage = ProductLifecycleStage.REJECTED
-                        cand.rejection_reason = (
-                            verified_prod.failure_reason or "Amazon verification failed"
-                        )
-                        health.products_rejected += 1
-                        if verified_prod.failure_reason and "SOURCE UNAVAILABLE" in verified_prod.failure_reason:
-                            health.record_failed_source(cand.canonical_url, verified_prod.failure_reason)
+                        verified_prod = await self.verifier.verify_product(cand.canonical_url)
+                        cand.verified_product = verified_prod
+                        cand.verification_state = verified_prod.verification_state
+
+                        if verified_prod.verification_state == VerificationState.VERIFIED:
+                            cand.lifecycle_stage = ProductLifecycleStage.VERIFIED
+                            health.products_verified += 1
+                            verified_candidates.append(cand)
+                        else:
+                            cand.lifecycle_stage = ProductLifecycleStage.REJECTED
+                            cand.rejection_reason = (
+                                verified_prod.failure_reason or "Amazon verification failed"
+                            )
+                            health.products_rejected += 1
+                            if verified_prod.failure_reason and "SOURCE UNAVAILABLE" in verified_prod.failure_reason:
+                                health.record_failed_source(cand.canonical_url, verified_prod.failure_reason)
 
                     self.checkpoint_store.save_candidate(run_id, cand)
 
@@ -328,6 +349,26 @@ class PipelineOrchestrator:
                                 )
                             except Exception:
                                 pass
+
+                    # If already scored and documented previously, reuse state and evaluate price change
+                    if cand.scores and cand.opportunity and cand.previous_score is not None:
+                        scored_candidates.append(cand)
+                        old_p = cand.previous_price
+                        new_p = (
+                            (cand.verified_product.displayed_price if cand.verified_product and cand.verified_product.displayed_price else None)
+                            or cand.raw_product.displayed_price
+                            or cand.raw_product.price
+                        )
+                        if old_p and new_p and abs(new_p - old_p) >= 1.0:
+                            cand.change_type = "updated"
+                            cand.score_delta = 0.0
+                            health.products_changed += 1
+                        else:
+                            cand.change_type = None
+                            cand.score_delta = 0.0
+                            health.duplicates_prevented += 1
+                        self.checkpoint_store.save_candidate(run_id, cand)
+                        continue
 
                     try:
                         evaluated_cand = await self.eval_service.evaluate_candidate(cand)
