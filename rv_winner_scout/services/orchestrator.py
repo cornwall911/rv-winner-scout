@@ -1,9 +1,10 @@
 """Master Pipeline Orchestrator executing the 15-stage scout lifecycle."""
 
 import logging
+import time
 import uuid
 from datetime import datetime, timezone
-from typing import List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple
 
 from rv_winner_scout.adapters.ai.factory import AIFactory
 from rv_winner_scout.adapters.amazon.category_crawler import AmazonCategoryCrawler, canonicalize_amazon_url
@@ -95,6 +96,17 @@ class PipelineOrchestrator:
 
         with RunLock(settings=self.settings):
             try:
+                # Send run start notification with real-time progress tracking
+                progress_msg_map: Dict[str, int] = {}
+                if self.telegram_notifier.is_configured:
+                    try:
+                        progress_msg_map = await self.telegram_notifier.notify_run_started(
+                            mode=run_mode_val, max_products=max_products
+                        )
+                    except Exception as p_err:
+                        logger.debug("Failed to send initial progress notification: %s", p_err)
+                last_progress_time = time.time()
+
                 # -------------------------------------------------------------
                 # STAGE 1: Amazon discovery (Subcategories)
                 # -------------------------------------------------------------
@@ -140,6 +152,19 @@ class PipelineOrchestrator:
                 if not raw_products:
                     health.set_fatal_failure("Zero products discovered from Amazon New Releases")
                     return self._conclude_run(0, [], [], health)
+
+                # Report crawl discovery progress
+                if self.telegram_notifier.is_configured and progress_msg_map:
+                    try:
+                        await self.telegram_notifier.update_progress(
+                            message_map=progress_msg_map,
+                            stage_name=f"حصر واكتشاف المنتجات ({len(categories_to_crawl)} تصنيف)",
+                            current=len(raw_products),
+                            total=len(raw_products),
+                            elapsed_seconds=time.time() - deadline.start_time,
+                        )
+                    except Exception:
+                        pass
 
                 # -------------------------------------------------------------
                 # STAGE 3: Deduplication & Cross-Run Delta Tracking
@@ -190,9 +215,24 @@ class PipelineOrchestrator:
                 # -------------------------------------------------------------
                 logger.info("Stage 4: Directly opening Amazon product pages...")
                 verified_candidates: List[ProductCandidate] = []
+                total_to_verify = len(unique_candidates)
 
-                for cand in unique_candidates:
+                for idx, cand in enumerate(unique_candidates, 1):
                     deadline.check_deadline()
+                    if (time.time() - last_progress_time >= 45.0) or (idx == total_to_verify):
+                        last_progress_time = time.time()
+                        if self.telegram_notifier.is_configured and progress_msg_map:
+                            try:
+                                await self.telegram_notifier.update_progress(
+                                    message_map=progress_msg_map,
+                                    stage_name="فحص صفحات أمازون واستخراج الصور والمواصفات (Stage 4)",
+                                    current=idx,
+                                    total=total_to_verify,
+                                    elapsed_seconds=time.time() - deadline.start_time,
+                                )
+                            except Exception:
+                                pass
+
                     verified_prod = await self.verifier.verify_product(cand.canonical_url)
                     cand.verified_product = verified_prod
                     cand.verification_state = verified_prod.verification_state
@@ -269,9 +309,25 @@ class PipelineOrchestrator:
                 # -------------------------------------------------------------
                 logger.info("Stage 8 & 9: Performing AI Product DNA evaluation and 100% scoring...")
                 scored_candidates: List[ProductCandidate] = []
-                for cand in filtered_candidates:
+                total_to_score = len(filtered_candidates)
+
+                for idx, cand in enumerate(filtered_candidates, 1):
                     deadline.check_deadline()
                     health.ai_calls += 1
+                    if (time.time() - last_progress_time >= 45.0) or (idx == total_to_score):
+                        last_progress_time = time.time()
+                        if self.telegram_notifier.is_configured and progress_msg_map:
+                            try:
+                                await self.telegram_notifier.update_progress(
+                                    message_map=progress_msg_map,
+                                    stage_name="تحليل وتقييم المنتجات بالذكاء الاصطناعي (Stage 8/9)",
+                                    current=idx,
+                                    total=total_to_score,
+                                    elapsed_seconds=time.time() - deadline.start_time,
+                                )
+                            except Exception:
+                                pass
+
                     try:
                         evaluated_cand = await self.eval_service.evaluate_candidate(cand)
                         scored_candidates.append(evaluated_cand)
@@ -436,6 +492,8 @@ class PipelineOrchestrator:
 
                 if self.telegram_notifier.is_configured:
                     try:
+                        if progress_msg_map:
+                            await self.telegram_notifier.finish_progress_message(progress_msg_map)
                         await self.telegram_notifier.notify_run_completed(
                             reviewed_count=len(unique_candidates),
                             winners=winners,

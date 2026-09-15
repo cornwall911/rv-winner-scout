@@ -55,6 +55,139 @@ class TelegramNotifier:
 
         return success
 
+    async def notify_run_started(
+        self, mode: str, max_products: int
+    ) -> dict[str, int]:
+        """Sends an initial execution status message and returns {chat_id: message_id} for live in-place edits."""
+        if not self.is_configured:
+            return {}
+
+        mode_label = "فحص شامل (Full Crawl)" if mode == "full" else f"فحص سريع ({mode})"
+        text = (
+            "🚀 <b>RV Winner Scout | بدء جولة الفحص اليومية</b>\n"
+            "═══════════════════════════\n"
+            f"⚙️ <b>الوضع:</b> <code>{mode_label}</code>\n"
+            f"🎯 <b>السعة المتاحة:</b> حتى <code>{max_products:,}</code> منتج\n"
+            "⏳ <b>الحالة:</b> جاري استكشاف التصنيفات وتفريعات RV New Releases...\n"
+            "───────────────────────────\n"
+            "🔄 <i>سيتم تحديث هذه الرسالة تلقائياً لبيان نسبة الإنجاز والوقت المتبقي...</i>"
+        )
+
+        message_map: dict[str, int] = {}
+        url = f"https://api.telegram.org/bot{self.bot_token}/sendMessage"
+        async with httpx.AsyncClient(timeout=15.0) as client:
+            for cid in self.chat_ids:
+                try:
+                    res = await client.post(
+                        url,
+                        json={
+                            "chat_id": cid,
+                            "text": text,
+                            "parse_mode": "HTML",
+                            "disable_web_page_preview": True,
+                        },
+                    )
+                    if res.status_code == 200:
+                        data = res.json()
+                        mid = data.get("result", {}).get("message_id")
+                        if mid:
+                            message_map[cid] = mid
+                except Exception as exc:
+                    logger.debug("Could not send run-start message to %s: %s", cid, exc)
+
+        return message_map
+
+    async def update_progress(
+        self,
+        message_map: dict[str, int],
+        stage_name: str,
+        current: int,
+        total: int,
+        elapsed_seconds: float,
+    ) -> None:
+        """Edits the active status message in Telegram with real-time progress bar, percentage, and ETA."""
+        if not self.is_configured or not message_map:
+            return
+
+        pct = int(min(100, max(1, (current / total) * 100))) if total > 0 else 0
+        filled = min(10, max(0, pct // 10))
+        bar = "▓" * filled + "░" * (10 - filled)
+
+        elapsed_mins = int(elapsed_seconds // 60)
+        elapsed_str = f"{elapsed_mins} دقيقة" if elapsed_mins > 0 else f"{int(elapsed_seconds)} ثانية"
+
+        if current > 0 and total > current:
+            eta_secs = (elapsed_seconds / current) * (total - current)
+            eta_mins = max(1, int(round(eta_secs / 60.0)))
+            eta_str = f"~{eta_mins} دقيقة"
+        elif current >= total and total > 0:
+            eta_str = "وشك الانتهاء ⚡"
+        else:
+            eta_str = "جاري الحساب..."
+
+        logger.info(
+            "[PROGRESS] %d%% (%d/%d) | Stage: %s | Elapsed: %ds | ETA: %s",
+            pct, current, total, stage_name, int(elapsed_seconds), eta_str
+        )
+
+        text = (
+            "⏳ <b>RV Winner Scout | جاري الفحص الآن...</b>\n"
+            "═══════════════════════════\n"
+            f"📊 <b>مستوى التقدم:</b> <code>[{bar}] {pct}%</code>\n\n"
+            f"📌 <b>المرحلة الحالية:</b> {stage_name}\n"
+            f"🔢 <b>المنجز:</b> <code>{current} / {total}</code> منتج\n"
+            f"⏱️ <b>الوقت المنقضي:</b> {elapsed_str}\n"
+            f"⏳ <b>الوقت المتبقي تقريباً:</b> <b>{eta_str}</b>\n"
+            "───────────────────────────\n"
+            "🔄 <i>تتحدث هذه الرسالة تلقائياً لبيان حالة الفحص المباشر...</i>"
+        )
+
+        edit_url = f"https://api.telegram.org/bot{self.bot_token}/editMessageText"
+        async with httpx.AsyncClient(timeout=10.0) as client:
+            for cid, mid in message_map.items():
+                try:
+                    await client.post(
+                        edit_url,
+                        json={
+                            "chat_id": cid,
+                            "message_id": mid,
+                            "text": text,
+                            "parse_mode": "HTML",
+                            "disable_web_page_preview": True,
+                        },
+                    )
+                except Exception as exc:
+                    logger.debug("Failed to edit progress message for %s: %s", cid, exc)
+
+    async def finish_progress_message(self, message_map: dict[str, int]) -> None:
+        """Updates the progress message to indicate full completion."""
+        if not self.is_configured or not message_map:
+            return
+
+        text = (
+            "✅ <b>RV Winner Scout | اكتمل الفحص اليومي بنجاح!</b>\n"
+            "═══════════════════════════\n"
+            "📊 تم الانتهاء من كافة مراحل التحقق وتقييم الذكاء الاصطناعي.\n"
+            "👇 <b>التفاصيل والمنتجات الفائزة ورابط الداشبورد في التقرير أدناه:</b>"
+        )
+
+        edit_url = f"https://api.telegram.org/bot{self.bot_token}/editMessageText"
+        async with httpx.AsyncClient(timeout=10.0) as client:
+            for cid, mid in message_map.items():
+                try:
+                    await client.post(
+                        edit_url,
+                        json={
+                            "chat_id": cid,
+                            "message_id": mid,
+                            "text": text,
+                            "parse_mode": "HTML",
+                            "disable_web_page_preview": True,
+                        },
+                    )
+                except Exception as exc:
+                    logger.debug("Failed to finish progress message for %s: %s", cid, exc)
+
     async def notify_run_completed(
         self,
         reviewed_count: int,
