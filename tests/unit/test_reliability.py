@@ -225,3 +225,38 @@ def test_raw_product_fallback_verified_amazon_product() -> None:
     assert verified.verification_state == VerificationState.VERIFIED
 
 
+def test_sqlite_checkpoint_self_healing_recovery(tmp_path: object) -> None:
+    """Verifies that SQLiteCheckpointStore automatically recovers from a malformed database without crashing."""
+    corrupt_db = os.path.join(str(tmp_path), "corrupted_checkpoint.db")
+    # Write corrupt garbage bytes that trigger 'database disk image is malformed'
+    with open(corrupt_db, "wb") as f:
+        f.write(b"NOT A SQLITE FILE -- CORRUPT HEADER DATA 1234567890" * 20)
+
+    # SQLiteCheckpointStore must auto-detect corruption, move corrupt file, and create fresh working DB
+    store = SQLiteCheckpointStore(db_path=corrupt_db)
+
+    candidate = ProductCandidate(
+        canonical_url="https://www.amazon.com/dp/B0HEALED",
+        asin="B0HEALED",
+        normalized_title="healed candidate",
+        raw_product=RawAmazonProduct(
+            title="Healed Product",
+            url="https://www.amazon.com/dp/B0HEALED",
+            asin="B0HEALED",
+            category="RV",
+            source_page_url="https://amazon.com",
+        ),
+        verification_state=VerificationState.VERIFIED,
+        newness=NewnessStatus.NEW,
+        exposure_level=ExposureLevel.LOW,
+        lifecycle_stage=ProductLifecycleStage.VERIFIED,
+    )
+
+    # Saving and reading must succeed without any DatabaseError!
+    store.save_candidate("run_recovery", candidate)
+    retrieved = store.get_candidate("B0HEALED")
+    assert retrieved is not None
+    assert retrieved.asin == "B0HEALED"
+
+
+
