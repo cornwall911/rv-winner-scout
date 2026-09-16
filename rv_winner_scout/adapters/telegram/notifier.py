@@ -192,8 +192,8 @@ class TelegramNotifier:
     async def notify_realtime_discovery(
         self, candidate: ProductCandidate, is_winner: bool = True
     ) -> bool:
-        """Sends an immediate, high-priority flash alert to Telegram when a Winner or Should-Test product is found."""
-        if not self.is_configured:
+        """Sends an immediate flash alert to Telegram ONLY when a Winner product is found."""
+        if not self.is_configured or not is_winner:
             return False
 
         dashboard_url = "https://almostafa-scout.mostafanabil53550.workers.dev/"

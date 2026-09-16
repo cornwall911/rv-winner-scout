@@ -689,12 +689,7 @@ class PipelineOrchestrator:
                                 push_git=True,
                             )
 
-                            # REAL-TIME FLASH ALERT TO TELEGRAM!
-                            if self.telegram_notifier.is_configured:
-                                try:
-                                    await self.telegram_notifier.notify_realtime_discovery(cand, is_winner=False)
-                                except Exception as exc:
-                                    logger.warning("Real-time Telegram Should-Test alert failed for %s: %s", cand.asin, exc)
+                            # Note: Real-time Telegram alerts are reserved exclusively for WINNERs as requested
                         else:
                             cand.lifecycle_stage = ProductLifecycleStage.REJECTED
                             cand.rejection_reason = "Concept duplicate of existing higher-scoring should-test"

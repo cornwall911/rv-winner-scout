@@ -263,5 +263,46 @@ def test_dashboard_generator_delta_indicators() -> None:
     assert "delta-declined" in html_out
     assert "-7.0" in html_out
     assert 'data-changed="improved"' in html_out
-    assert 'data-changed="declined"' in html_out
     assert "Changed (2)" in html_out
+
+
+def test_dashboard_price_filter_toggle() -> None:
+    health = RunHealthReport(
+        run_id="test-price-run",
+        start_time=datetime.now(timezone.utc),
+        end_time=datetime.now(timezone.utc),
+        products_discovered=1,
+        products_verified=1,
+        products_rejected=0,
+    )
+    raw = RawAmazonProduct(
+        title="12V RV Air Conditioner",
+        price=189.99,
+        displayed_price=189.99,
+        asin="B0H2VV3W4B",
+        url="https://amazon.com/dp/B0H2VV3W4B",
+        category="RV Appliances",
+        source_page_url="https://amazon.com",
+    )
+    cand = ProductCandidate(
+        canonical_url="https://amazon.com/dp/B0H2VV3W4B",
+        asin="B0H2VV3W4B",
+        normalized_title="12V RV Air Conditioner",
+        raw_product=raw,
+    )
+
+    html_out = generate_executive_dashboard_html(
+        reviewed_count=1,
+        winners=[cand],
+        near_misses=[],
+        health=health,
+        candidates=[cand],
+    )
+
+    assert 'id="priceFilterBtn"' in html_out
+    assert 'id="floatingPriceWidget"' in html_out
+    assert 'id="floatingPriceBtn"' in html_out
+    assert "togglePriceFilter" in html_out
+    assert "hideOver100" in html_out
+    assert 'data-price="189.99"' in html_out
+

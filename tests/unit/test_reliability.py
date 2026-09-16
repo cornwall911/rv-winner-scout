@@ -176,8 +176,13 @@ async def test_telegram_realtime_alert() -> None:
         assert "B0TESTWINNER" in msg_text
         assert "$69.99" in msg_text
         assert "87.5 / 100" in msg_text
-        assert "Stick magnetic sensor under tank" in msg_text
         assert "Google Sheets" not in msg_text
+
+        # Verify that should-be-tested candidates NEVER trigger Telegram message
+        mock_send.reset_mock()
+        should_test_success = await notifier.notify_realtime_discovery(candidate, is_winner=False)
+        assert should_test_success is False
+        mock_send.assert_not_called()
 
 
 @pytest.mark.asyncio

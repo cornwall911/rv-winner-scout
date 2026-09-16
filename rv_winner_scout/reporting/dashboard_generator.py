@@ -638,11 +638,105 @@ def generate_executive_dashboard_html(
             box-shadow: 0 2px 8px rgba(16, 185, 129, 0.2);
         }}
 
+        .toolbar-side-actions {{
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-left: auto;
+            flex-wrap: wrap;
+        }}
+        .price-toggle-btn {{
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: var(--bg-card-alt);
+            border: 1.5px solid var(--border-color);
+            color: var(--text-secondary);
+            font-size: 0.82rem;
+            font-weight: 700;
+            padding: 7px 14px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            user-select: none;
+            white-space: nowrap;
+        }}
+        .price-toggle-btn:hover {{
+            color: var(--text-primary);
+            border-color: rgba(255, 255, 255, 0.25);
+            background: rgba(255, 255, 255, 0.06);
+        }}
+        .price-toggle-btn.active {{
+            background: rgba(245, 158, 11, 0.16);
+            color: #F59E0B;
+            border-color: #F59E0B;
+            box-shadow: 0 0 14px rgba(245, 158, 11, 0.25);
+        }}
+        .price-toggle-icon {{
+            font-size: 1rem;
+        }}
+
+        /* Floating Side Control Widget */
+        .floating-side-widget {{
+            position: fixed;
+            top: 50%;
+            right: 20px;
+            transform: translateY(-50%);
+            z-index: 999;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }}
+        .floating-side-btn {{
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: var(--bg-surface);
+            border: 1.5px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 10px 18px;
+            border-radius: 30px;
+            font-size: 0.84rem;
+            font-weight: 700;
+            cursor: pointer;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.45);
+            backdrop-filter: blur(12px);
+            transition: all 0.25s ease;
+            user-select: none;
+        }}
+        .floating-side-btn:hover {{
+            transform: scale(1.05);
+            border-color: var(--accent);
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6);
+        }}
+        .floating-side-btn.active {{
+            background: #F59E0B;
+            color: #0F172A;
+            border-color: #F59E0B;
+            box-shadow: 0 0 20px rgba(245, 158, 11, 0.55);
+        }}
+        @media (max-width: 900px) {{
+            .toolbar-side-actions {{
+                margin-left: 0;
+                width: 100%;
+                justify-content: space-between;
+            }}
+            .floating-side-widget {{
+                top: auto;
+                bottom: 24px;
+                right: 16px;
+                transform: none;
+            }}
+            .floating-side-btn {{
+                padding: 8px 14px;
+                font-size: 0.78rem;
+            }}
+        }}
+
         .sort-wrapper {{
             display: flex;
             align-items: center;
             gap: 8px;
-            margin-left: auto;
         }}
         .sort-label {{
             font-size: 0.8rem;
@@ -1256,17 +1350,33 @@ def generate_executive_dashboard_html(
                 {changed_tab_btn}
             </div>
 
-            <div class="sort-wrapper">
-                <label for="sortSelect" class="sort-label">Sort by:</label>
-                <select id="sortSelect" class="sort-select" onchange="sortCards(this.value)">
-                    <option value="score-desc">Highest Score ⭐</option>
-                    <option value="score-asc">Lowest Score</option>
-                    <option value="price-desc">Price: High to Low</option>
-                    <option value="price-asc">Price: Low to High</option>
-                    <option value="bsr-asc">Amazon BSR (Best Rank)</option>
-                </select>
+            <!-- Side Actions: Price Filter Toggle & Sorting -->
+            <div class="toolbar-side-actions">
+                <button id="priceFilterBtn" class="price-toggle-btn" onclick="togglePriceFilter(this)" title="Toggle hiding products over $100">
+                    <span class="price-toggle-icon">🏷️</span>
+                    <span id="priceToggleText">Hide &gt; $100 (≤ $100 Only)</span>
+                </button>
+
+                <div class="sort-wrapper">
+                    <label for="sortSelect" class="sort-label">Sort by:</label>
+                    <select id="sortSelect" class="sort-select" onchange="sortCards(this.value)">
+                        <option value="score-desc">Highest Score ⭐</option>
+                        <option value="score-asc">Lowest Score</option>
+                        <option value="price-desc">Price: High to Low</option>
+                        <option value="price-asc">Price: Low to High</option>
+                        <option value="bsr-asc">Amazon BSR (Best Rank)</option>
+                    </select>
+                </div>
             </div>
         </section>
+
+        <!-- Floating Quick Price Toggle on the Side -->
+        <div class="floating-side-widget" id="floatingPriceWidget">
+            <button id="floatingPriceBtn" class="floating-side-btn" onclick="togglePriceFilter(this)" title="Click to show/hide products over $100">
+                <span class="float-icon">💵</span>
+                <span id="floatingPriceText">≤ $100 Only</span>
+            </button>
+        </div>
 
         <!-- Product Cards Grid -->
         <main class="cards-grid" id="cardsGrid">
@@ -1307,8 +1417,48 @@ def generate_executive_dashboard_html(
             }});
         }}
 
-        // 4. Live Search and Filter
+        // 4. Live Search, Category Filter, and Price Filter (> $100 Toggle)
         let currentFilter = 'all';
+        let hideOver100 = localStorage.getItem('scout_hide_over_100') === 'true';
+
+        function updatePriceFilterButtons() {{
+            const btn = document.getElementById('priceFilterBtn');
+            const floatBtn = document.getElementById('floatingPriceBtn');
+            const btnText = document.getElementById('priceToggleText');
+            const floatText = document.getElementById('floatingPriceText');
+
+            if (hideOver100) {{
+                if (btn) {{
+                    btn.classList.add('active');
+                    if (btnText) btnText.innerHTML = 'Showing ≤ $100 Only <span style="font-size:0.75rem;opacity:0.85">(Click to Show All)</span>';
+                }}
+                if (floatBtn) {{
+                    floatBtn.classList.add('active');
+                    if (floatText) floatText.innerText = 'Showing ≤ $100';
+                }}
+            }} else {{
+                if (btn) {{
+                    btn.classList.remove('active');
+                    if (btnText) btnText.innerHTML = 'Hide &gt; $100 (≤ $100 Only)';
+                }}
+                if (floatBtn) {{
+                    floatBtn.classList.remove('active');
+                    if (floatText) floatText.innerText = '≤ $100 Only';
+                }}
+            }}
+        }}
+
+        function togglePriceFilter(triggerElem) {{
+            hideOver100 = !hideOver100;
+            localStorage.setItem('scout_hide_over_100', hideOver100 ? 'true' : 'false');
+            updatePriceFilterButtons();
+            filterCards();
+            if (hideOver100) {{
+                showToast('💵 Filter Active: Showing products ≤ $100 only');
+            }} else {{
+                showToast('💵 Showing all products (including > $100)');
+            }}
+        }}
 
         function filterCards() {{
             const searchVal = document.getElementById('searchInput').value.toLowerCase();
@@ -1318,13 +1468,16 @@ def generate_executive_dashboard_html(
                 const type = card.getAttribute('data-type');
                 const title = card.getAttribute('data-title');
                 const changed = card.getAttribute('data-changed');
+                const price = parseFloat(card.getAttribute('data-price')) || 0;
 
                 const matchesSearch = title.includes(searchVal);
                 const matchesFilter = (currentFilter === 'all')
                     || (type === currentFilter)
                     || (currentFilter === 'changed' && changed && changed !== 'none');
 
-                if (matchesSearch && matchesFilter) {{
+                const matchesPrice = !hideOver100 || (price <= 100.0);
+
+                if (matchesSearch && matchesFilter && matchesPrice) {{
                     card.style.display = 'flex';
                 }} else {{
                     card.style.display = 'none';
@@ -1334,7 +1487,7 @@ def generate_executive_dashboard_html(
 
         function setFilter(type, btn) {{
             currentFilter = type;
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            document.querySelectorAll('.filter-tabs .filter-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             filterCards();
         }}
@@ -1552,7 +1705,9 @@ def generate_executive_dashboard_html(
             }}, 3500);
         }}
 
-        // Run authentication check on startup
+        // Run authentication check and initialize price filter on startup
+        updatePriceFilterButtons();
+        filterCards();
         checkAuth();
     </script>
 </body>
