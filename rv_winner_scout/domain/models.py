@@ -117,6 +117,7 @@ class ProductOpportunity(BaseModel):
     why_fail: str = ""
     traffic_benchmark: TrafficBenchmark = TrafficBenchmark.P_25_50
     confidence: TrafficConfidence = TrafficConfidence.MEDIUM
+    canonical_concept: str = ""
 
 
 class ProductCandidate(BaseModel):

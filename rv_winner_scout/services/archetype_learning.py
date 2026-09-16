@@ -36,11 +36,17 @@ LEARNED_ARCHETYPES: List[ArchetypeDefinition] = [
             "Plug-and-play operation for vans, teardrops, truck campers, and fifth wheels",
             "High perceived value vs expensive traditional rooftop AC replacements",
         ],
-        exemplar_products=["B0HDY4LYMX (Wall Mounted Ductless 2-in-1 AC/Heating)"],
+        exemplar_products=[
+            "B0HDY4LYMX (Wall Mounted Ductless 2-in-1 AC/Heating)",
+            "Arctic Air Evaporative Air Cooler (Walmart: https://walmrt.us/4eojgm9)",
+            "Midea Window Air Conditioner (Walmart: https://walmrt.us/4qZdNYN)",
+        ],
         semantic_signals=[
             "wall mounted air conditioner", "ductless air conditioner", "wall ac unit",
             "portable 2-in-1", "windowless air conditioner", "no window needed ac",
             "mini split portable", "ptc wall heating", "ductless rv cooling",
+            "evaporative air cooler", "evaporative cooler", "window air conditioner",
+            "portable air cooler", "personal air cooler",
         ],
         subcategories=[
             "RV Air Conditioners & Accessories",
@@ -307,7 +313,142 @@ LEARNED_ARCHETYPES: List[ArchetypeDefinition] = [
             "Hardware & Stabilizers",
         ],
     ),
+    ArchetypeDefinition(
+        id="PORTABLE_AIRFLOW_CIRCULATION",
+        badge_label="🌀 Zero-Wire Portable Airflow & Circulation",
+        archetype_class="WINNER",
+        core_latent_value="Hanging USB/rechargeable ceiling fan or socket-screw air circulator for tight camper spaces without cutting holes or rewiring.",
+        pain_points_relieved=["stifling camper air", "no ceiling fan wiring in bunk or tent", "noisy factory roof fans"],
+        key_mechanisms=[
+            "Rechargeable battery or standard light socket screw-in installation",
+            "Multi-speed quiet breeze with remote control and integrated LED night light",
+            "Zero wiring, zero drilling, zero tools needed",
+        ],
+        exemplar_products=[
+            "bestmoument Portable Ceiling Fan (Walmart: https://walmrt.us/4xVwXBY)",
+            "DAYBETTER Socket Fan Light (Walmart: https://walmrt.us/4qQyrKL)",
+        ],
+        semantic_signals=[
+            "portable ceiling fan", "hanging ceiling fan", "usb ceiling fan",
+            "socket fan light", "socket fan", "tent ceiling fan", "rechargeable ceiling fan",
+        ],
+        subcategories=[
+            "RV Fans & Ventilation",
+            "Lighting & Ceiling Fixtures",
+            "Camping Tent Accessories",
+        ],
+    ),
+    ArchetypeDefinition(
+        id="OUTDOOR_CAMPSITE_LIVING",
+        badge_label="🏕️ Outdoor Campsite Living & Kitchen",
+        archetype_class="SHOULD_TEST",
+        core_latent_value="Expands outdoor campsite living footprint and keeps smoke, grease, and clutter outside the small camper interior.",
+        pain_points_relieved=["grease and smoke inside small camper kitchen", "lack of patio shade and privacy", "leaving expensive bikes exposed to rain"],
+        key_mechanisms=[
+            "Rapid set up flat-top griddle for full family outdoor meals",
+            "Awning drop-screen blocking 85% UV solar heat and blowing dust",
+            "Pop-up waterproof storage tent protecting e-bikes and gear",
+        ],
+        exemplar_products=[
+            "Blackstone Outdoor Griddle (Walmart: https://walmrt.us/4dBTEmV)",
+            "Dulepax RV Awning Screen (Walmart: https://walmrt.us/4qQyrKL)",
+            "Bike Storage Tent (Walmart: https://walmrt.us/4yhHh6M)",
+        ],
+        semantic_signals=[
+            "outdoor griddle", "tabletop griddle", "flat top grill",
+            "awning screen", "rv awning shade", "sun shade screen",
+            "bike storage tent", "bike tent", "outdoor storage tent",
+        ],
+        subcategories=[
+            "RV Outdoor Kitchen & Grills",
+            "Awnings & Screen Rooms",
+            "Outdoor Gear Storage",
+        ],
+    ),
+    ArchetypeDefinition(
+        id="COMPACT_OFFGRID_APPLIANCES",
+        badge_label="⚡ Compact RV Galley & Living Appliances",
+        archetype_class="SHOULD_TEST",
+        core_latent_value="Miniaturized high-efficiency appliances that bring luxury home comforts into camper galleys without blowing campground breakers.",
+        pain_points_relieved=["running out of ice during dry camping", "costly laundromat stops on road trips", "pumping 5-gal water jugs manually"],
+        key_mechanisms=[
+            "Rapid bullet ice generation in under 6 minutes",
+            "Twin-tub compact wash & spin dry without hookup dependence",
+            "Rechargeable USB electric pump for fresh 5-gallon water jugs",
+            "Compact low-wattage cooking via electric skillets and pop-up toasters",
+        ],
+        exemplar_products=[
+            "Frigidaire Ice Maker (Walmart: https://walmrt.us/3RiaApe)",
+            "ZENY Portable Washing Machine (Walmart: https://walmrt.us/3QlPZ3q)",
+            "Electric Water Dispenser Pump (Walmart: https://walmrt.us/4xBMgPC)",
+            "Brentwood Electric Skillet (Walmart: https://walmrt.us/4xPQcwB)",
+            "Thyme Table Toaster (Walmart: https://walmrt.us/4yhHh6M)",
+        ],
+        semantic_signals=[
+            "ice maker", "countertop ice maker", "portable washing machine",
+            "mini washing machine", "water dispenser pump", "5 gallon water pump",
+            "electric skillet", "table toaster", "portable skillet",
+        ],
+        subcategories=[
+            "RV Kitchen & Galley",
+            "Compact Appliances",
+            "Laundry & Housewares",
+        ],
+    ),
+    ArchetypeDefinition(
+        id="SPACE_SAVING_CONVERTIBLE_FURNITURE",
+        badge_label="🛋️ Space-Saving Convertible Furniture",
+        archetype_class="SHOULD_TEST",
+        core_latent_value="Dual-purpose folding furniture that converts cramped camper living spaces into comfortable full-size beds in seconds.",
+        pain_points_relieved=["lack of guest sleeping space", "bulky uncomfortable camper dinettes", "awkward floorplans in small travel trailers"],
+        key_mechanisms=[
+            "Multi-angle folding backrest converting couch into flat sleeper bed",
+            "Lightweight frame tailored for RV door widths and floor loading limits",
+            "High-density foam seating with washable easy-clean upholstery",
+        ],
+        exemplar_products=[
+            "Aiho Sleeper Sofa Bed (Walmart: https://walmrt.us/4qZdNYN)",
+            "Gewnee Sleeper Sofa (Walmart: https://walmrt.us/4bsZJiQ)",
+        ],
+        semantic_signals=[
+            "sleeper sofa", "sofa bed", "futon sofa bed",
+            "convertible sofa", "folding sofa bed", "rv couch bed",
+        ],
+        subcategories=[
+            "RV Furniture",
+            "Living Room & Sofas",
+            "Beds & Mattresses",
+        ],
+    ),
+    ArchetypeDefinition(
+        id="SAFETY_TRANSIT_ORGANIZATION",
+        badge_label="🔒 Safe Transit & Space Organization",
+        archetype_class="SHOULD_TEST",
+        core_latent_value="Zero-fall transit organization and window sun defense keeping items locked down during rough highway towing.",
+        pain_points_relieved=["sharp knives flying off counters on bumpy roads", "rattling messy galley drawers", "harsh glare and heat through entry door window"],
+        key_mechanisms=[
+            "Heavy-duty neodymium magnetic wall bar securing culinary knives",
+            "Expanding bamboo dividers organizing silverware and tools",
+            "Thin shade blackout kit replacing cheap factory entry door frosted glass",
+        ],
+        exemplar_products=[
+            "Magnetic Knife Holder (Walmart: https://walmrt.us/41mMwU8)",
+            "Royal Craft Wood Drawer Organizer (Walmart: https://walmrt.us/4vYKBmw)",
+            "AP Products Thin Shade Kit (Walmart: https://walmrt.us/4wiZHTS)",
+        ],
+        semantic_signals=[
+            "magnetic knife holder", "magnetic knife bar", "knife strip",
+            "drawer organizer", "bamboo drawer divider", "silverware organizer",
+            "thin shade kit", "entry door shade", "rv door window shade",
+        ],
+        subcategories=[
+            "RV Organization & Storage",
+            "Interior Safety Hardware",
+            "Window Shades & Blinds",
+        ],
+    ),
 ]
+
 
 
 class ArchetypeMatcher:

@@ -34,13 +34,65 @@ from rv_winner_scout.reporting.dashboard_generator import save_dashboard
 from rv_winner_scout.reporting.formatter import format_full_report
 from rv_winner_scout.services.backup_service import BackupService
 from rv_winner_scout.services.deadline_manager import DeadlineManager
-from rv_winner_scout.services.deduplication import DeduplicationService
+from rv_winner_scout.services.deduplication import DeduplicationService, are_same_concept
 from rv_winner_scout.services.evaluation_service import EvaluationService
 from rv_winner_scout.services.health_monitor import HealthMonitor
 from rv_winner_scout.services.relevance_filter import RelevanceFilter
 from rv_winner_scout.services.run_lock import RunLock
 
 logger = logging.getLogger(__name__)
+
+
+def _add_or_replace_concept_champion(pool: List[ProductCandidate], cand: ProductCandidate) -> bool:
+    """Adds candidate to pool or replaces a lower-scoring concept duplicate.
+
+    Enforces the strict rule:
+    'If products share the exact same concept across different brands, include only one (the highest-scoring champion).'
+
+    Returns True if cand was added or replaced an existing candidate; False if rejected as a concept duplicate.
+    """
+    cand_title = (cand.verified_product.title if cand.verified_product else cand.raw_product.title) or cand.normalized_title or ""
+    cand_concept = cand.opportunity.canonical_concept if cand.opportunity else ""
+    cand_score = cand.scores.total_score if cand.scores else 0.0
+
+    match_idx = None
+    for idx, existing in enumerate(pool):
+        if existing.asin == cand.asin:
+            pool[idx] = cand
+            return True
+
+        existing_title = (existing.verified_product.title if existing.verified_product else existing.raw_product.title) or existing.normalized_title or ""
+        existing_concept = existing.opportunity.canonical_concept if existing.opportunity else ""
+
+        is_concept_match = False
+        if cand_concept and existing_concept and cand_concept.strip().lower() == existing_concept.strip().lower():
+            is_concept_match = True
+        elif are_same_concept(cand_title, existing_title):
+            is_concept_match = True
+
+        if is_concept_match:
+            match_idx = idx
+            break
+
+    if match_idx is not None:
+        existing = pool[match_idx]
+        existing_score = existing.scores.total_score if existing.scores else 0.0
+        if cand_score > existing_score:
+            logger.info(
+                "Concept duplicate: Replacing lower-scoring %s (%.1f) with superior champion %s (%.1f) for concept '%s'",
+                existing.asin, existing_score, cand.asin, cand_score, cand_title[:45]
+            )
+            pool[match_idx] = cand
+            return True
+        else:
+            logger.info(
+                "Concept duplicate: Candidate %s (%.1f) rejected because %s (%.1f) is already the registered champion for '%s'",
+                cand.asin, cand_score, existing.asin, existing_score, existing_title[:45]
+            )
+            return False
+
+    pool.append(cand)
+    return True
 
 
 class PipelineOrchestrator:
@@ -371,11 +423,9 @@ class PipelineOrchestrator:
 
                 for hc in historical_candidates:
                     if (hc.scores and hc.scores.is_winner) or hc.lifecycle_stage == ProductLifecycleStage.FINAL_WINNER:
-                        if not any(w.asin == hc.asin for w in winners):
-                            winners.append(hc)
+                        _add_or_replace_concept_champion(winners, hc)
                     elif hc.is_should_test or (hc.scores and hc.scores.is_should_test):
-                        if not any(st.asin == hc.asin for st in should_test):
-                            should_test.append(hc)
+                        _add_or_replace_concept_champion(should_test, hc)
 
                 total_to_process = len(unique_candidates)
 
@@ -589,52 +639,60 @@ class PipelineOrchestrator:
                             logger.warning("Walmart research failed for %s: %s", cand.asin, exc)
 
                         cand.lifecycle_stage = ProductLifecycleStage.FINAL_WINNER
-                        if not any(w.asin == cand.asin for w in winners):
-                            winners.append(cand)
-                        self.checkpoint_store.save_candidate(run_id, cand)
+                        was_added = _add_or_replace_concept_champion(winners, cand)
+                        if was_added:
+                            self.checkpoint_store.save_candidate(run_id, cand)
 
-                        # DIRECT REAL-TIME DASHBOARD UPDATE & CLOUDFLARE SYNC!
-                        logger.info("🏆 NEW WINNER DISCOVERED [%s]! Syncing directly to live dashboard...", cand.asin)
-                        self._sync_live_dashboard(
-                            reviewed_count=idx,
-                            winners=winners,
-                            should_test=should_test,
-                            candidates=scored_candidates,
-                            health_report=health.build_report(),
-                            reason=f"New Winner: {cand.asin}",
-                            push_git=True,
-                        )
+                            # DIRECT REAL-TIME DASHBOARD UPDATE & CLOUDFLARE SYNC!
+                            logger.info("🏆 NEW WINNER CHAMPION REGISTERED [%s]! Syncing directly to live dashboard...", cand.asin)
+                            self._sync_live_dashboard(
+                                reviewed_count=idx,
+                                winners=winners,
+                                should_test=should_test,
+                                candidates=scored_candidates,
+                                health_report=health.build_report(),
+                                reason=f"New Winner: {cand.asin}",
+                                push_git=True,
+                            )
 
-                        # REAL-TIME FLASH ALERT TO TELEGRAM!
-                        if self.telegram_notifier.is_configured:
-                            try:
-                                await self.telegram_notifier.notify_realtime_discovery(cand, is_winner=True)
-                            except Exception as exc:
-                                logger.warning("Real-time Telegram Winner alert failed for %s: %s", cand.asin, exc)
+                            # REAL-TIME FLASH ALERT TO TELEGRAM!
+                            if self.telegram_notifier.is_configured:
+                                try:
+                                    await self.telegram_notifier.notify_realtime_discovery(cand, is_winner=True)
+                                except Exception as exc:
+                                    logger.warning("Real-time Telegram Winner alert failed for %s: %s", cand.asin, exc)
+                        else:
+                            cand.lifecycle_stage = ProductLifecycleStage.REJECTED
+                            cand.rejection_reason = "Concept duplicate of existing higher-scoring winner"
+                            self.checkpoint_store.save_candidate(run_id, cand)
 
                     elif is_cand_should_test:
-                        if not any(st.asin == cand.asin for st in should_test):
-                            should_test.append(cand)
-                        self.checkpoint_store.save_candidate(run_id, cand)
+                        was_added = _add_or_replace_concept_champion(should_test, cand)
+                        if was_added:
+                            self.checkpoint_store.save_candidate(run_id, cand)
 
-                        # DIRECT REAL-TIME DASHBOARD UPDATE & CLOUDFLARE SYNC!
-                        logger.info("⭐ NEW SHOULD-TEST DISCOVERED [%s]! Syncing directly to live dashboard...", cand.asin)
-                        self._sync_live_dashboard(
-                            reviewed_count=idx,
-                            winners=winners,
-                            should_test=should_test,
-                            candidates=scored_candidates,
-                            health_report=health.build_report(),
-                            reason=f"New Should-Test: {cand.asin}",
-                            push_git=True,
-                        )
+                            # DIRECT REAL-TIME DASHBOARD UPDATE & CLOUDFLARE SYNC!
+                            logger.info("⭐ NEW SHOULD-TEST CHAMPION REGISTERED [%s]! Syncing directly to live dashboard...", cand.asin)
+                            self._sync_live_dashboard(
+                                reviewed_count=idx,
+                                winners=winners,
+                                should_test=should_test,
+                                candidates=scored_candidates,
+                                health_report=health.build_report(),
+                                reason=f"New Should-Test: {cand.asin}",
+                                push_git=True,
+                            )
 
-                        # REAL-TIME FLASH ALERT TO TELEGRAM!
-                        if self.telegram_notifier.is_configured:
-                            try:
-                                await self.telegram_notifier.notify_realtime_discovery(cand, is_winner=False)
-                            except Exception as exc:
-                                logger.warning("Real-time Telegram Should-Test alert failed for %s: %s", cand.asin, exc)
+                            # REAL-TIME FLASH ALERT TO TELEGRAM!
+                            if self.telegram_notifier.is_configured:
+                                try:
+                                    await self.telegram_notifier.notify_realtime_discovery(cand, is_winner=False)
+                                except Exception as exc:
+                                    logger.warning("Real-time Telegram Should-Test alert failed for %s: %s", cand.asin, exc)
+                        else:
+                            cand.lifecycle_stage = ProductLifecycleStage.REJECTED
+                            cand.rejection_reason = "Concept duplicate of existing higher-scoring should-test"
+                            self.checkpoint_store.save_candidate(run_id, cand)
                     else:
                         self.checkpoint_store.save_candidate(run_id, cand)
                         # Periodic update every 15 scored candidates (disk only, no git push to save network)
