@@ -28,7 +28,13 @@ from rv_winner_scout.domain.exceptions import (
     DeadlineExceededError,
     RunLockActiveError,
 )
-from rv_winner_scout.domain.models import ProductCandidate, RunHealthReport
+from rv_winner_scout.domain.models import (
+    ProductCandidate,
+    RawAmazonProduct,
+    RunHealthReport,
+    ScoreBreakdown,
+    VerifiedAmazonProduct,
+)
 from rv_winner_scout.domain.scoring import compute_heuristic_scores
 from rv_winner_scout.reporting.dashboard_generator import save_dashboard
 from rv_winner_scout.reporting.formatter import format_full_report

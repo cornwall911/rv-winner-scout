@@ -187,8 +187,41 @@ async def test_polite_rate_limiter_domain_aware() -> None:
 
     # First requests to different providers should execute immediately (sleep ~0)
     delay_amazon = await limiter.wait(provider_key="amazon")
+    assert delay_amazon == 0.0
     delay_ddg = await limiter.wait(provider_key="duckduckgo")
 
     assert delay_amazon == 0.0
     assert delay_ddg == 0.0
+
+
+def test_raw_product_fallback_verified_amazon_product() -> None:
+    """Ensures orchestrator raw product fallback can instantiate VerifiedAmazonProduct without NameError."""
+    from rv_winner_scout.domain.models import RawAmazonProduct, VerifiedAmazonProduct
+    from rv_winner_scout.domain.enums import VerificationState
+
+    raw = RawAmazonProduct(
+        title="Portable Evaporative Cooler for RV",
+        url="https://www.amazon.com/dp/B0TESTFALLBACK",
+        asin="B0TESTFALLBACK",
+        category="RV",
+        source_page_url="https://amazon.com",
+        displayed_price=49.99,
+        image_url="https://example.com/img.jpg",
+    )
+
+    verified = VerifiedAmazonProduct(
+        title=raw.title.strip(),
+        asin=raw.asin,
+        canonical_url=raw.url,
+        displayed_price=raw.displayed_price,
+        images=[raw.image_url] if raw.image_url else [],
+        bsr_rank=raw.bsr_rank or "Ranked in RV New Releases",
+        verification_state=VerificationState.VERIFIED,
+    )
+
+    assert verified.title == "Portable Evaporative Cooler for RV"
+    assert verified.asin == "B0TESTFALLBACK"
+    assert verified.displayed_price == 49.99
+    assert verified.verification_state == VerificationState.VERIFIED
+
 
