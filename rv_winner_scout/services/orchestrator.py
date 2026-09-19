@@ -206,9 +206,9 @@ class PipelineOrchestrator:
             logger.warning("Could not generate live HTML dashboard: %s", d_exc)
 
         if push_git:
-            is_high_priority = ("Winner" in reason) or ("Should-Test" in reason) or ("Final" in reason)
+            is_high_priority = ("Winner" in reason) or ("Final" in reason)
             now = time.time()
-            if is_high_priority or (now - self._last_git_push_time >= 180.0):
+            if is_high_priority or (now - self._last_git_push_time >= 900.0):
                 self._last_git_push_time = now
                 self._push_dashboard_to_git(reason)
 
@@ -677,8 +677,8 @@ class PipelineOrchestrator:
                         if was_added:
                             self.checkpoint_store.save_candidate(run_id, cand)
 
-                            # DIRECT REAL-TIME DASHBOARD UPDATE & CLOUDFLARE SYNC!
-                            logger.info("⭐ NEW SHOULD-TEST CHAMPION REGISTERED [%s]! Syncing directly to live dashboard...", cand.asin)
+                            # DIRECT LOCAL DASHBOARD UPDATE (Git push deferred to Winners/Final completion to preserve Cloudflare quota)
+                            logger.info("⭐ NEW SHOULD-TEST CHAMPION REGISTERED [%s]! Syncing to local dashboard...", cand.asin)
                             self._sync_live_dashboard(
                                 reviewed_count=idx,
                                 winners=winners,
@@ -686,7 +686,7 @@ class PipelineOrchestrator:
                                 candidates=scored_candidates,
                                 health_report=health.build_report(),
                                 reason=f"New Should-Test: {cand.asin}",
-                                push_git=True,
+                                push_git=False,
                             )
 
                             # Note: Real-time Telegram alerts are reserved exclusively for WINNERs as requested
