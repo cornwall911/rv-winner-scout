@@ -3,6 +3,7 @@
 import html
 import json
 import os
+import re
 import urllib.parse
 from datetime import datetime, timezone
 from typing import List, Optional, Tuple
@@ -1716,6 +1717,160 @@ def generate_executive_dashboard_html(
     return html_content
 
 
+def merge_html_with_existing(new_html: str, existing_html: str) -> str:
+    """Merges new dashboard HTML with an existing dashboard HTML, preserving historical products."""
+    def parse_cards(html_doc: str) -> dict:
+        cards = {}
+        grid_idx = html_doc.find('<main class="cards-grid" id="cardsGrid">')
+        if grid_idx == -1:
+            return cards
+        main_content = html_doc[grid_idx:]
+        end_main_idx = main_content.find('</main>')
+        cards_section = main_content[:end_main_idx]
+
+        raw_cards = cards_section.split('<div class="product-card')
+        for rc in raw_cards[1:]:
+            card_html = '<div class="product-card' + rc
+            card_html = card_html.rstrip()
+
+            m_asin = re.search(r'<span class="asin-pill">ASIN: ([^<]+)</span>', card_html)
+            if not m_asin:
+                m_asin = re.search(r'data-asin="([^"]+)"', card_html)
+            if not m_asin:
+                m_asin = re.search(r'B0[A-Z0-9]{8}', card_html)
+
+            if m_asin:
+                asin = m_asin.group(1) if m_asin.groups() else m_asin.group(0)
+                m_type = re.search(r'data-type="([^"]+)"', card_html)
+                card_type = m_type.group(1) if m_type else 'candidate'
+                m_score = re.search(r'data-score="([^"]+)"', card_html)
+                score = float(m_score.group(1)) if m_score else 0.0
+                cards[asin] = {
+                    'asin': asin,
+                    'type': card_type,
+                    'score': score,
+                    'html': card_html
+                }
+        return cards
+
+    existing_cards = parse_cards(existing_html)
+    new_cards = parse_cards(new_html)
+
+    if not existing_cards:
+        return new_html
+
+    # Merge: existing as base, new updates/adds
+    merged = dict(existing_cards)
+    merged.update(new_cards)
+
+    # Sort: Winners first (score desc), Should-Test next (score desc), Candidates next (score desc)
+    type_priority = {'winner': 0, 'should_test': 1, 'should_be_tested': 1, 'candidate': 2}
+    sorted_cards = sorted(
+        merged.values(),
+        key=lambda c: (type_priority.get(c['type'], 3), -c['score'])
+    )
+
+    winners_count = sum(1 for c in sorted_cards if c['type'] == 'winner')
+    should_test_count = sum(1 for c in sorted_cards if 'should' in c['type'])
+    candidates_count = len(sorted_cards) - winners_count - should_test_count
+
+    # Replace cards section in new_html
+    grid_tag = '<main class="cards-grid" id="cardsGrid">'
+    grid_start = new_html.find(grid_tag)
+    if grid_start == -1:
+        return new_html
+    grid_end = new_html.find('</main>', grid_start)
+    if grid_end == -1:
+        return new_html
+
+    header_part = new_html[:grid_start + len(grid_tag)]
+    footer_part = new_html[grid_end:]
+    cards_body = "\n        " + "\n        ".join(c['html'] for c in sorted_cards) + "\n    "
+    merged_html = header_part + cards_body + footer_part
+
+    # Update KPIs
+    merged_html = re.sub(
+        r'(<div class="kpi-label">Audited Products</div>\s*<div class="kpi-num"[^>]*>)[^<]+(</div>)',
+        rf'\g<1>{len(sorted_cards)}\g<2>',
+        merged_html
+    )
+    merged_html = re.sub(
+        r'(<div class="kpi-label">Qualified Winners</div>\s*<div class="kpi-num"[^>]*>)[^<]+(</div>)',
+        rf'\g<1>{winners_count}\g<2>',
+        merged_html
+    )
+    merged_html = re.sub(
+        r'(<div class="kpi-label">Should Be Tested</div>\s*<div class="kpi-num"[^>]*>)[^<]+(</div>)',
+        rf'\g<1>{should_test_count}\g<2>',
+        merged_html
+    )
+    # Update Filter Tabs
+    merged_html = re.sub(r'All \(\d+\)', f'All ({len(sorted_cards)})', merged_html)
+    merged_html = re.sub(r'Winners \(\d+\)', f'Winners ({winners_count})', merged_html)
+    merged_html = re.sub(r'Should Be Tested \(\d+\)', f'Should Be Tested ({should_test_count})', merged_html)
+    merged_html = re.sub(r'Candidates \(\d+\)', f'Candidates ({candidates_count})', merged_html)
+
+    return merged_html
+
+
+def export_catalog_json(html_doc: str, json_path: str) -> None:
+    """Parses cards from dashboard HTML and writes a structured catalog.json."""
+    grid_idx = html_doc.find('<main class="cards-grid" id="cardsGrid">')
+    if grid_idx == -1:
+        return
+    end_main_idx = html_doc.find('</main>', grid_idx)
+    cards_section = html_doc[grid_idx:end_main_idx]
+
+    raw_cards = cards_section.split('<div class="product-card')
+    catalog = []
+
+    for rc in raw_cards[1:]:
+        card_html = '<div class="product-card' + rc
+
+        m_asin = re.search(r'<span class="asin-pill">ASIN: ([^<]+)</span>', card_html)
+        asin = m_asin.group(1).strip() if m_asin else ""
+
+        m_type = re.search(r'data-type="([^"]+)"', card_html)
+        card_type = m_type.group(1).strip() if m_type else "candidate"
+
+        m_score = re.search(r'data-score="([^"]+)"', card_html)
+        score = float(m_score.group(1)) if m_score else 0.0
+
+        m_price = re.search(r'data-price="([^"]+)"', card_html)
+        price = float(m_price.group(1)) if m_price else 0.0
+
+        m_bsr = re.search(r'data-bsr="([^"]+)"', card_html)
+        bsr = int(m_bsr.group(1)) if m_bsr else 9999999
+
+        m_title = re.search(r'<h3 class="product-title"[^>]*>([^<]+)</h3>', card_html)
+        title = m_title.group(1).strip() if m_title else ""
+
+        m_img = re.search(r'<img [^>]*src="([^"]+)"', card_html)
+        img_url = m_img.group(1) if m_img else ""
+
+        m_amz = re.search(r'href="([^"]+)"[^>]*class="btn-store btn-amazon"', card_html)
+        amz_url = m_amz.group(1) if m_amz else f"https://www.amazon.com/dp/{asin}"
+
+        m_wal = re.search(r'href="([^"]+)"[^>]*class="btn-store btn-walmart"', card_html)
+        wal_url = m_wal.group(1) if m_wal else ""
+
+        catalog.append({
+            "asin": asin,
+            "title": title,
+            "type": card_type,
+            "score": score,
+            "price": price,
+            "bsr": bsr,
+            "image_url": img_url,
+            "amazon_url": amz_url,
+            "walmart_url": wal_url,
+        })
+
+    os.makedirs(os.path.dirname(os.path.abspath(json_path)), exist_ok=True)
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump(catalog, f, indent=2, ensure_ascii=False)
+
+
 def save_dashboard(
     reviewed_count: int,
     winners: List[ProductCandidate],
@@ -1725,6 +1880,7 @@ def save_dashboard(
     spreadsheet_id: Optional[str] = None,
     candidates: Optional[List[ProductCandidate]] = None,
     should_be_tested: Optional[List[ProductCandidate]] = None,
+    cumulative: bool = True,
 ) -> str:
     """Generates and writes dashboard to reports directory and public sync directory."""
     html_str = generate_executive_dashboard_html(
@@ -1736,6 +1892,27 @@ def save_dashboard(
         candidates=candidates,
         should_be_tested=should_be_tested,
     )
+
+    # Cumulative merge: preserve historical products from prior runs (disabled during pytest)
+    if cumulative and not os.environ.get("PYTEST_CURRENT_TEST"):
+        existing_path = None
+        for candidate_path in [
+            os.path.join("public", "index.html"),
+            os.path.join(data_dir, "reports", "index.html"),
+            "index.html",
+        ]:
+            if os.path.isfile(candidate_path):
+                existing_path = candidate_path
+                break
+
+        if existing_path:
+            try:
+                with open(existing_path, "r", encoding="utf-8") as f:
+                    existing_html = f.read()
+                html_str = merge_html_with_existing(html_str, existing_html)
+            except Exception:
+                pass
+
     reports_dir = os.path.join(data_dir, "reports")
     os.makedirs(reports_dir, exist_ok=True)
 
@@ -1752,6 +1929,12 @@ def save_dashboard(
     with open(index_path, "w", encoding="utf-8") as f:
         f.write(html_str)
 
+    # Also save structured JSON catalog in reports
+    try:
+        export_catalog_json(html_str, os.path.join(reports_dir, "catalog.json"))
+    except Exception:
+        pass
+
     # Sync to public/index.html and root index.html for Cloudflare Pages / Workers
     # Protect against test runs polluting production dashboard
     if data_dir == "data" and not os.environ.get("PYTEST_CURRENT_TEST"):
@@ -1762,5 +1945,10 @@ def save_dashboard(
 
         with open("index.html", "w", encoding="utf-8") as f:
             f.write(html_str)
+
+        try:
+            export_catalog_json(html_str, os.path.join(public_dir, "catalog.json"))
+        except Exception:
+            pass
 
     return filepath

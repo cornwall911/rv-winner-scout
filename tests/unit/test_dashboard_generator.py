@@ -306,3 +306,61 @@ def test_dashboard_price_filter_toggle() -> None:
     assert "hideOver100" in html_out
     assert 'data-price="189.99"' in html_out
 
+
+def test_merge_html_with_existing(tmp_path) -> None:
+    from rv_winner_scout.reporting.dashboard_generator import export_catalog_json, merge_html_with_existing
+
+    existing_html = """<!DOCTYPE html><html><body>
+    <div class="kpi-label">Audited Products</div><div class="kpi-num">1</div>
+    <div class="kpi-label">Qualified Winners</div><div class="kpi-num">1</div>
+    <div class="kpi-label">Should Be Tested</div><div class="kpi-num">0</div>
+    <div class="filter-tabs">
+        <button class="filter-btn">All (1)</button>
+        <button class="filter-btn">Winners (1)</button>
+        <button class="filter-btn">Should Be Tested (0)</button>
+        <button class="filter-btn">Candidates (0)</button>
+    </div>
+    <main class="cards-grid" id="cardsGrid">
+        <div class="product-card winner" data-title="first product b0001" data-type="winner" data-changed="none" data-score="90.00" data-price="20.00" data-bsr="10">
+            <span class="asin-pill">ASIN: B0001</span>
+            <h3 class="product-title">First Product</h3>
+        </div>
+    </main>
+    </body></html>"""
+
+    new_html = """<!DOCTYPE html><html><body>
+    <div class="kpi-label">Audited Products</div><div class="kpi-num">1</div>
+    <div class="kpi-label">Qualified Winners</div><div class="kpi-num">0</div>
+    <div class="kpi-label">Should Be Tested</div><div class="kpi-num">1</div>
+    <div class="filter-tabs">
+        <button class="filter-btn">All (1)</button>
+        <button class="filter-btn">Winners (0)</button>
+        <button class="filter-btn">Should Be Tested (1)</button>
+        <button class="filter-btn">Candidates (0)</button>
+    </div>
+    <main class="cards-grid" id="cardsGrid">
+        <div class="product-card should_test" data-title="second product b0002" data-type="should_test" data-changed="none" data-score="80.00" data-price="30.00" data-bsr="20">
+            <span class="asin-pill">ASIN: B0002</span>
+            <h3 class="product-title">Second Product</h3>
+        </div>
+    </main>
+    </body></html>"""
+
+    merged = merge_html_with_existing(new_html, existing_html)
+    assert merged.count('class="product-card') == 2
+    assert "B0001" in merged
+    assert "B0002" in merged
+    assert "All (2)" in merged
+    assert "Winners (1)" in merged
+    assert "Should Be Tested (1)" in merged
+
+    # Test catalog JSON export
+    json_path = str(tmp_path / "catalog.json")
+    export_catalog_json(merged, json_path)
+    import json
+    with open(json_path, encoding="utf-8") as f:
+        data = json.load(f)
+    assert len(data) == 2
+    assert {d["asin"] for d in data} == {"B0001", "B0002"}
+
+

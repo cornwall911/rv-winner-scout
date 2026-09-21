@@ -150,7 +150,7 @@ class PipelineOrchestrator:
                 subprocess.run(["git", "config", "user.name", "github-actions[bot]"], capture_output=True, timeout=10)
                 subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], capture_output=True, timeout=10)
 
-            subprocess.run(["git", "add", "public/index.html", "index.html"], capture_output=True, timeout=10)
+            subprocess.run(["git", "add", "public/index.html", "index.html", "public/catalog.json"], capture_output=True, timeout=10)
             subprocess.run(["git", "commit", "-m", f"Auto-update live dashboard: {reason}"], capture_output=True, timeout=10)
 
             subprocess.run(["git", "pull", "--rebase", "origin", "main"], capture_output=True, timeout=25)
