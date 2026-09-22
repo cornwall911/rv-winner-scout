@@ -517,6 +517,17 @@
     "walmart_url": "https://www.walmart.com/search?q=classAcustoms+Breezy+80006+Multiple+Speed+RV+Roof+Vent+Fan+U"
   },
   {
+    "asin": "B0HHHV2RXX",
+    "title": "2pcs Waterproof Rear View Camera Rain Shield Cover | Backup Camera Rain Hood Cover with Curved, Black PVC Canopy Universal Ca",
+    "type": "winner",
+    "score": 80.15,
+    "price": 6.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CfypcLiNL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
+    "walmart_url": "https://www.walmart.com/search?q=2pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover+%7C+Backup+"
+  },
+  {
     "asin": "B0H4W8F84N",
     "title": "FOSSiBOT F1800 Portable Power Station 1800W (3600W Surge), 1024Wh Solar Generator with LiFePO4 Battery, 10ms Seamless UPS, Pure Sine Wave AC Outlets for Home Backup, Camping, RV, Emergency Emergency",
     "type": "should_test",
@@ -702,17 +713,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EGr5Ke-cL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4VJTFR3",
     "walmart_url": "https://www.walmart.com/search?q=GEARGO+%F0%9D%91%A8%F0%9D%91%B3%F0%9D%91%B3-%F0%9D%91%B5%F0%9D%91%AC%F0%9D%91%BE+RV+Surge+Protector+50+Amp%2C+30000J+RV+Circuit+"
-  },
-  {
-    "asin": "B0HHHV2RXX",
-    "title": "2pcs Waterproof Rear View Camera Rain Shield Cover | Backup Camera Rain Hood Cover with Curved, Black PVC Canopy Universal Ca",
-    "type": "should_test",
-    "score": 78.65,
-    "price": 6.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CfypcLiNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
-    "walmart_url": "https://www.walmart.com/search?q=2pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover+%7C+Backup+"
   },
   {
     "asin": "B0GY81Q4V3",
@@ -1122,17 +1122,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RVSPARK+30V+Bulkhead+Fitting+Power+Supply+Pass+Through+for+S"
   },
   {
-    "asin": "B0H6J7BP2P",
-    "title": "RV Propane Gas Detector, Hardwired-12V DC with 3 Different Brackets for RVs,R501",
-    "type": "should_test",
-    "score": 76.45,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71JOEjPtr4L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6J7BP2P",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Propane+Gas+Detector%2C+Hardwired-12V+DC+with+3+Different+B"
-  },
-  {
     "asin": "B0H4Q5R8NC",
     "title": "TURBRO 12V DC 12,000 BTU RV Air Conditioner with Inverter Compressor | Non-Ducted Ultra-Low Profile Rooftop Unit, Quiet Opera",
     "type": "should_test",
@@ -1538,6 +1527,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51yUEFt4hlL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H827Z5YB",
     "walmart_url": "https://www.walmart.com/search?q=Lyrrhena+RV+Black+Tank+Flush+Wand+Kit+%E2%80%93+360%C2%B0+Rotatable+304+S"
+  },
+  {
+    "asin": "B0H9RWG765",
+    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
+    "type": "should_test",
+    "score": 74.0,
+    "price": 239.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
+    "walmart_url": "https://www.walmart.com/search?q=LIBRIDS+Portable+Power+Station+C600%2C+640Wh+Solar+Generator+6"
   },
   {
     "asin": "B0HB5W5T8P",
@@ -2385,6 +2385,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71e7MiG0jNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H28ZRF8N",
     "walmart_url": "https://www.walmart.com/search?q=Gzlozak+RV+Water+Tank+Flusher%2C+62%22+RV+Cleaning+Stick+with+Sh"
+  },
+  {
+    "asin": "B0H6J7BP2P",
+    "title": "RV Propane Gas Detector, Hardwired-12V DC with 3 Different Brackets for RVs,R501",
+    "type": "should_test",
+    "score": 65.75,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71JOEjPtr4L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6J7BP2P",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Propane+Gas+Detector%2C+Hardwired-12V+DC+with+3+Different+B"
   },
   {
     "asin": "B0HBPSLYLD",
@@ -5324,17 +5335,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Vent+Covers+for+Roof%2C+White%2C+2+Pack"
   },
   {
-    "asin": "B0H8KZ8XC6",
-    "title": "OUTPRIZE 15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow | EXTREME Heavy Duty 24 Mil, TPE Material, Abrasio",
-    "type": "candidate",
-    "score": 48.75,
-    "price": 44.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61-D4o61dcL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8KZ8XC6",
-    "walmart_url": "https://www.walmart.com/search?q=OUTPRIZE+15FT+RV+Sewer+Hose+with+Bayonet+Fittings+and+4-in-1"
-  },
-  {
     "asin": "B0H2RGWYCG",
     "title": "643922 Regal Head Covers Drive Front End Cap Cover, Compatible with Lippert Components and Solera Camper Trailer Awning Motor Right RV Awning Head Cover End Cap",
     "type": "candidate",
@@ -5654,6 +5654,17 @@
     "walmart_url": "https://www.walmart.com/search?q=10+Pack+RV+Refrigerator+Clips+Latch+Replacement%2C+37.5+%2A+14.2"
   },
   {
+    "asin": "B0H8KZ8XC6",
+    "title": "OUTPRIZE 15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow | EXTREME Heavy Duty 24 Mil, TPE Material, Abrasio",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 44.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61-D4o61dcL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8KZ8XC6",
+    "walmart_url": "https://www.walmart.com/search?q=OUTPRIZE+15FT+RV+Sewer+Hose+with+Bayonet+Fittings+and+4-in-1"
+  },
+  {
     "asin": "B0GYX5NC3N",
     "title": "Wsenltvy Mandala Sea Turtle Tow Hitch Covers Heavy Duty Rubber Trailer Hitch Cover 2&quot; Receiver Plug Cap, Weather Resistant To",
     "type": "candidate",
@@ -5817,6 +5828,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61b3Df8M2HL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
     "walmart_url": "https://www.walmart.com/search?q=Keuaaao+6PCS+Trailer+Pin%2C+Standard+1%2F4+Hitch+Pin%2C+Strong+Tra"
+  },
+  {
+    "asin": "B0H9NZNYXZ",
+    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
+    "type": "candidate",
+    "score": 45.25,
+    "price": 14.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
+    "walmart_url": "https://www.walmart.com/search?q=4%22+Stainless+Steel+5%2F8%22+Trailer+Hitch+Pin+with+Hitch+Pin+Cli"
   },
   {
     "asin": "B0H25TLM2B",
@@ -6114,17 +6136,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gsdEi1o3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3KWZYL5",
     "walmart_url": "https://www.walmart.com/search?q=Terapaton+Aluminum+RV+Exterior+Porch+Light+with+Dual-Color+S"
-  },
-  {
-    "asin": "B0H9NZNYXZ",
-    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black | Rust-Resistant, Heavy Duty Tow Hitch Pin, 4&quot; Usable Len",
-    "type": "candidate",
-    "score": 43.25,
-    "price": 14.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51EW64gwgzL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
-    "walmart_url": "https://www.walmart.com/search?q=4%22+Stainless+Steel+5%2F8%22+Trailer+Hitch+Pin+with+Hitch+Pin+Cli"
   },
   {
     "asin": "B0H7X1QS6R",
