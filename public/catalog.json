@@ -154,6 +154,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Dastiaque+RV+Tankless+Water+Heater+Propane+65%2C000+BTU+For+Al"
   },
   {
+    "asin": "B0GY4TQ2P8",
+    "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W | 2,010Wh LiFePO4 Battery, 1,500W Output, Solar Generator for Home",
+    "type": "winner",
+    "score": 84.4,
+    "price": 699.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71d9U6KPEVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GY4TQ2P8",
+    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station%2C+2%2C010Wh%2C+1%2C500W+%7C+"
+  },
+  {
     "asin": "B0H8YX58XY",
     "title": "Starlink Mini Car Adapter with 10FT Cable, Dual PD 45w+30W&amp;USB 18W, 12V-24V",
     "type": "winner",
@@ -559,17 +570,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51hapjzd6fL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYW2KZ4M",
     "walmart_url": "https://www.walmart.com/search?q=Sodfog+Trailer+Jack+Drill+Adapter+for+RV+Stabilizer+Scissor+"
-  },
-  {
-    "asin": "B0GY4TQ2P8",
-    "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W | 2,010Wh LiFePO4 Battery, 1,500W Output, Solar Generator for Home",
-    "type": "should_test",
-    "score": 79.3,
-    "price": 999.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71d9U6KPEVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GY4TQ2P8",
-    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station%2C+2%2C010Wh%2C+1%2C500W+%7C+"
   },
   {
     "asin": "B0H36VY1XY",
