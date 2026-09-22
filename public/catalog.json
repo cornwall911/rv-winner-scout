@@ -231,6 +231,17 @@
     "walmart_url": "https://www.walmart.com/search?q=8%27+x+13%273%22+RV+Awning+Privacy+Shade+with+Zipper%2C+90%25+UV+Block"
   },
   {
+    "asin": "B0H4QJRMRT",
+    "title": "12V RV Air Conditioner, Dual-Mount Wall or Rooftop, 10000 BTU DC AC with Heater, Quiet AC Unit for Van Camper Trailer",
+    "type": "winner",
+    "score": 82.9,
+    "price": 986.0,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/41a1xALUpfL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4QJRMRT",
+    "walmart_url": "https://www.walmart.com/search?q=12V+RV+Air+Conditioner%2C+Dual-Mount+Wall+or+Rooftop%2C+10000+BT"
+  },
+  {
     "asin": "B0HGRDPTB4",
     "title": "BJTDLLX 12V Air Conditioner, Mini Split 12V AC Unit for RV Truck Trailer | 600W Universal Air Conditioner with Internal &amp; Ext",
     "type": "winner",
@@ -372,17 +383,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kozjip2+L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJTWGM4R",
     "walmart_url": "https://www.walmart.com/search?q=2027+New+Aire+Acondicionado+de+Pared%2C+1800W+Ductless+Portabl"
-  },
-  {
-    "asin": "B0H4QJRMRT",
-    "title": "12V RV Air Conditioner, Dual-Mount Wall or Rooftop, 10000 BTU DC AC with Heater, Quiet AC Unit for Van Camper Trailer",
-    "type": "winner",
-    "score": 82.15,
-    "price": 986.0,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/41a1xALUpfL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4QJRMRT",
-    "walmart_url": "https://www.walmart.com/search?q=12V+RV+Air+Conditioner%2C+Dual-Mount+Wall+or+Rooftop%2C+10000+BT"
   },
   {
     "asin": "B0HDZ5Y71X",
@@ -594,6 +594,17 @@
     "walmart_url": "https://www.walmart.com/search?q=FOSSiBOT+F1800+Portable+Power+Station+1800W+%283600W+Surge%29%2C+1"
   },
   {
+    "asin": "B0H6WBHX6R",
+    "title": "RV Air Conditioner Duct For Coleman Mach 1,3,10,15 &amp; Q Airflow Optimization | RV Ducted Air Conditioning System Upgrade Kit.N",
+    "type": "should_test",
+    "score": 79.95,
+    "price": 89.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61nAVuXqYLL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6WBHX6R",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Air+Conditioner+Duct+For+Coleman+Mach+1%2C3%2C10%2C15+%26+Q+Airfl"
+  },
+  {
     "asin": "B0GY8TS9L8",
     "title": "DaranEner Portable Power Station 1200W Peak, 576Wh LiFePO4 Power Bank with Built-in UPS Backup, 600W Power Station, 1.1H Fast",
     "type": "should_test",
@@ -803,15 +814,26 @@
     "walmart_url": "https://www.walmart.com/search?q=PIFOOG+2+Pack+Trailer+Jack+Drill+Adapter+for+1%22+Drive+Shaft%2C"
   },
   {
-    "asin": "B0GHF8P4CK",
-    "title": "Cyrico RV Skylight Insulator 2 Pack, 14&quot; x 14&quot; x 2.8&quot; RV Vent Cover, Blackout Vent Pillow with Reflective Surface, Shade for",
+    "asin": "B0H873KJK9",
+    "title": "YeloDeer 12V RV Tank Heater Pad 12&quot; x 18&quot;, with Toggle Switch (2 Pads) | RV Water Tank Heater Built-In Overheat Protection fo",
     "type": "should_test",
-    "score": 78.3,
-    "price": 22.3,
+    "score": 78.2,
+    "price": 59.99,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81HH32ucFWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GHF8P4CK",
-    "walmart_url": "https://www.walmart.com/search?q=Cyrico+RV+Skylight+Insulator+2+Pack%2C+14%22+x+14%22+x+2.8%22+RV+Ven"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+SF470ejL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H873KJK9",
+    "walmart_url": "https://www.walmart.com/search?q=YeloDeer+12V+RV+Tank+Heater+Pad+12%22+x+18%22%2C+with+Toggle+Switc"
+  },
+  {
+    "asin": "B0H11L2M7H",
+    "title": "RV AC Airflow Diverter for Furrion AC,Dual Output RV Airflow System Upgrade | Peel-and-Stick RV AC Vent Deflector for Camper/",
+    "type": "should_test",
+    "score": 78.15,
+    "price": 27.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6163eIPc4TL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H11L2M7H",
+    "walmart_url": "https://www.walmart.com/search?q=RV+AC+Airflow+Diverter+for+Furrion+AC%2CDual+Output+RV+Airflow"
   },
   {
     "asin": "B0H86SFMB6",
@@ -966,6 +988,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71NObqwcNAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZ4DKYZF",
     "walmart_url": "https://www.walmart.com/search?q=RV+Cable+Wall+Pass+Through+Kit+for+Starlink+Mini%2C+Waterproof"
+  },
+  {
+    "asin": "B0H262M4LT",
+    "title": "WKZO RV AC Vent Cover, Adjustable 360 Air Dispersion for RV Motorhome",
+    "type": "should_test",
+    "score": 77.45,
+    "price": 12.89,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61MDF9E2rBL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H262M4LT",
+    "walmart_url": "https://www.walmart.com/search?q=WKZO+RV+AC+Vent+Cover%2C+Adjustable+360+Air+Dispersion+for+RV+"
   },
   {
     "asin": "B0HBW6Y851",
@@ -1166,6 +1199,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2+Pack+Magnetic+Solar+Lights+Outdoor%2C+3+Color+Temps%2C+Motion+"
   },
   {
+    "asin": "B0GHF8P4CK",
+    "title": "Cyrico RV Skylight Insulator 2 Pack, 14&quot; x 14&quot; x 2.8&quot; RV Vent Cover, Blackout Vent Pillow with Reflective Surface, Shade for Energy Savings 3 Layer Reduces Heat Transfer, Fits Camper/Trailer Roof",
+    "type": "should_test",
+    "score": 76.55,
+    "price": 18.89,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/81HH32ucFWL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GHF8P4CK",
+    "walmart_url": "https://www.walmart.com/search?q=Cyrico+RV+Skylight+Insulator+2+Pack%2C+14%22+x+14%22+x+2.8%22+RV+Ven"
+  },
+  {
     "asin": "B0H6ZD82CS",
     "title": "Lyrivan RV Skylight Cover Roof Vent Sun Blackout &amp; Insulator, 16x16 Inch | 3-Layer Protection, Block up to 99% of Light, Keep",
     "type": "should_test",
@@ -1175,17 +1219,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/810ycJ760OL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6ZD82CS",
     "walmart_url": "https://www.walmart.com/search?q=Lyrivan+RV+Skylight+Cover+Roof+Vent+Sun+Blackout+%26+Insulator"
-  },
-  {
-    "asin": "B0H11L2M7H",
-    "title": "RV AC Airflow Diverter for Furrion AC,Dual Output RV Airflow System Upgrade | Peel-and-Stick RV AC Vent Deflector for Camper/",
-    "type": "should_test",
-    "score": 76.5,
-    "price": 27.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6163eIPc4TL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H11L2M7H",
-    "walmart_url": "https://www.walmart.com/search?q=RV+AC+Airflow+Diverter+for+Furrion+AC%2CDual+Output+RV+Airflow"
   },
   {
     "asin": "B0GY8TP5GZ",
@@ -1945,6 +1978,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71i6Rh9AuSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7BC6SKC",
     "walmart_url": "https://www.walmart.com/search?q=12%2C000+lbs+Electric+Trailer+Jack+Kit+Made+for+Bulldog+Jacks+"
+  },
+  {
+    "asin": "B0H6PRLKX2",
+    "title": "1-Pack 6.5&quot; RV Ceiling Vent Covers, Fits 4-5/8&quot; Ducts, White",
+    "type": "should_test",
+    "score": 69.7,
+    "price": 8.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/51On-jmyfNL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6PRLKX2",
+    "walmart_url": "https://www.walmart.com/search?q=1-Pack+6.5%22+RV+Ceiling+Vent+Covers%2C+Fits+4-5%2F8%22+Ducts%2C+White"
   },
   {
     "asin": "B0H3TH7HK3",
@@ -4180,6 +4224,17 @@
     "walmart_url": "https://www.walmart.com/search?q=LANCO+Dry-Coat+1+Gal.+100%25+Acrylic+Siliconized+White+Reflect"
   },
   {
+    "asin": "B0HG13D3MX",
+    "title": "Spqnzon 3313107.015 RV AC Condenser Fan Blade for Dometic | Fits Duo-Therm Brisk Air Series, Replaces 3107914.008, 317937.000",
+    "type": "should_test",
+    "score": 52.5,
+    "price": 16.5,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qlPVXhShL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
+    "walmart_url": "https://www.walmart.com/search?q=Spqnzon+3313107.015+RV+AC+Condenser+Fan+Blade+for+Dometic+%7C+"
+  },
+  {
     "asin": "B0GZZHF2JY",
     "title": "10-04301K-V16 10B04301K Printed Circuit Board for MaxxFan RV Roof Vents",
     "type": "should_test",
@@ -4255,17 +4310,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KXo3jo-mL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7T1VPSF",
     "walmart_url": "https://www.walmart.com/search?q=AmeriSeal+Foam+Core+Butyl+Seal+Tape%2C+Leak-Proof+Weatherproof"
-  },
-  {
-    "asin": "B0HG13D3MX",
-    "title": "Spqnzon 3313107.015 RV AC Condenser Fan Blade for Dometic | Fits Duo-Therm Brisk Air Series, Replaces 3107914.008, 317937.000",
-    "type": "should_test",
-    "score": 50.5,
-    "price": 16.5,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qlPVXhShL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
-    "walmart_url": "https://www.walmart.com/search?q=Spqnzon+3313107.015+RV+AC+Condenser+Fan+Blade+for+Dometic+%7C+"
   },
   {
     "asin": "B0GZ1C23Z9",
@@ -6367,17 +6411,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61F15yOMplL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGFM474B",
     "walmart_url": "https://www.walmart.com/search?q=Holder+Wall+Mount+Bracket+Compatible+with+RV+Propane+Tank+%282"
-  },
-  {
-    "asin": "B0H6PRLKX2",
-    "title": "YQSIYU 1-Pack 6.5&quot; RV Ceiling Vent Covers, Fits 4-5/8&quot; Ducts, White | RV AC vent cover replacement; for inside camper, travel",
-    "type": "candidate",
-    "score": 44.0,
-    "price": 8.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51On-jmyfNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6PRLKX2",
-    "walmart_url": "https://www.walmart.com/search?q=YQSIYU+1-Pack+6.5%22+RV+Ceiling+Vent+Covers%2C+Fits+4-5%2F8%22+Ducts"
   },
   {
     "asin": "B0H7HJ9M18",
