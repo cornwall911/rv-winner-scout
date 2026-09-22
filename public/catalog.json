@@ -506,6 +506,17 @@
     "walmart_url": "https://www.walmart.com/search?q=ONNAIS+Smart+RV+Door+Lock+-+Full+Metal+App+Control+Keyless+E"
   },
   {
+    "asin": "B0H36WBTV5",
+    "title": "EJYTRVT Magnetic RV Lights Interior, Battery LED Ceiling Light with Remote | Wireless and Rechargeable, No-Drill Mount, 8000m",
+    "type": "winner",
+    "score": 81.0,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61FNlZ9xg2L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H36WBTV5",
+    "walmart_url": "https://www.walmart.com/search?q=EJYTRVT+Magnetic+RV+Lights+Interior%2C+Battery+LED+Ceiling+Lig"
+  },
+  {
     "asin": "B0HHFFDX7S",
     "title": "Waterproof Car Rearview Camera Rain Guard Backup Hood Cover Adhesive Backed | PVC Lens Shield Curved Black Protector for Rain",
     "type": "winner",
@@ -603,6 +614,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71Zc03tUD9L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GY8J1RCW",
     "walmart_url": "https://www.walmart.com/search?q=N300+Portable+Power+Station%2C+300W+256Wh+LiFePO4+Battery"
+  },
+  {
+    "asin": "B0H5BL8YRJ",
+    "title": "Lipower 2400W Portable Power Station, 2150Wh Solar Generators for Home Use | 10ms UPS Battery Backup, LifePo4 Battery for 350",
+    "type": "winner",
+    "score": 80.35,
+    "price": 649.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/714JTaCDaQL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5BL8YRJ",
+    "walmart_url": "https://www.walmart.com/search?q=Lipower+2400W+Portable+Power+Station%2C+2150Wh+Solar+Generator"
   },
   {
     "asin": "B0H3QLN517",
@@ -768,6 +790,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81mwneSioeL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1GCCH84",
     "walmart_url": "https://www.walmart.com/search?q=MAJOOLUD+Plastic+Ventilated+Mattress+Underlay+Pad+for+RV%2C+Ca"
+  },
+  {
+    "asin": "B0H1HP71J3",
+    "title": "VTOMAN Jump 600X 600W Portable Power Station, 268.8Wh LiFePO4 Battery | 1200W Surge, 2-Hour AC Recharge, 100W USB-C, UPS and",
+    "type": "should_test",
+    "score": 79.1,
+    "price": 239.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ZoNIgIkGL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1HP71J3",
+    "walmart_url": "https://www.walmart.com/search?q=VTOMAN+Jump+600X+600W+Portable+Power+Station%2C+268.8Wh+LiFePO"
   },
   {
     "asin": "B0H32D4WRD",
@@ -1276,6 +1309,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Camco+Rhino+18V+Cordless+RV+Macerator+Pump+%7C+Portable+Sewage"
   },
   {
+    "asin": "B0H7SFCSL8",
+    "title": "2 in 1 RV Pass Through RJ45 &amp; DC Wall Socket for Starlink Mini Gen3/4 | Shielded CAT6 Ethernet Female to Female Aluminum Bulk",
+    "type": "should_test",
+    "score": 76.65,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71j2tjq9qlL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7SFCSL8",
+    "walmart_url": "https://www.walmart.com/search?q=2+in+1+RV+Pass+Through+RJ45+%26+DC+Wall+Socket+for+Starlink+Mi"
+  },
+  {
     "asin": "B0GZ3BWJZN",
     "title": "Jumyee RV Screen Door Curtain, Magnetic Camper Door Mesh 31.5&quot;x75&quot; | Magnetic RV Screen Door Curtain With Heavy-duty Fibergla",
     "type": "should_test",
@@ -1329,6 +1373,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MfpcF0BWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GY8TP5GZ",
     "walmart_url": "https://www.walmart.com/search?q=RVSPARK+30V+Bulkhead+Fitting+Power+Supply+Pass+Through+for+S"
+  },
+  {
+    "asin": "B0H2LJ7MGV",
+    "title": "IP67 Waterproof Starlink Mini Wall Pass Through Kit for RV, Aluminum Panel | DC 5.5 x 2.1mm Female to Male, 12V-48V Input, 5A",
+    "type": "should_test",
+    "score": 76.5,
+    "price": 16.69,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dnAHtYIuL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2LJ7MGV",
+    "walmart_url": "https://www.walmart.com/search?q=IP67+Waterproof+Starlink+Mini+Wall+Pass+Through+Kit+for+RV%2C+"
   },
   {
     "asin": "B0HFFM29XR",
@@ -2332,17 +2387,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Axiovate+5000+lbs+A-Frame+Trailer+Jack%2C+23%22+Lift%2C+Drop+Leg+T"
   },
   {
-    "asin": "B0H2CLB19D",
-    "title": "sooogd 8 Pack Solar RV Step Lights, IP68 Waterproof Warm White Stair Lights | Auto Dusk-to-Dawn Lighting With Magnetic Pad, A",
-    "type": "should_test",
-    "score": 68.3,
-    "price": 29.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81pP1w9CYGL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2CLB19D",
-    "walmart_url": "https://www.walmart.com/search?q=sooogd+8+Pack+Solar+RV+Step+Lights%2C+IP68+Waterproof+Warm+Whi"
-  },
-  {
     "asin": "B0HH9H7VHJ",
     "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C, Windproof Wa",
     "type": "should_test",
@@ -2517,6 +2561,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HXj-dZGNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYNFDL5J",
     "walmart_url": "https://www.walmart.com/search?q=Upgraded+Aluminum+Trailer+Towing+Chain+Organizer+with+7-Way+"
+  },
+  {
+    "asin": "B0H2CLB19D",
+    "title": "sooogd 8 Pack Solar RV Step Lights, IP68 Waterproof Warm White Stair Lights | Auto Dusk-to-Dawn Lighting With Magnetic Pad, A",
+    "type": "should_test",
+    "score": 67.2,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81pP1w9CYGL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2CLB19D",
+    "walmart_url": "https://www.walmart.com/search?q=sooogd+8+Pack+Solar+RV+Step+Lights%2C+IP68+Waterproof+Warm+Whi"
   },
   {
     "asin": "B0HGM2V4M9",
@@ -2781,6 +2836,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71NT0u4cWWL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H29C3ZXD",
     "walmart_url": "https://www.walmart.com/search?q=Adjustable+Trailer+Hitch%2C+Fit+2+in+Receiver%2C+6+Inch+Drop%2FRis"
+  },
+  {
+    "asin": "B0H9Y1THYF",
+    "title": "Dual Color RV Porch Light, 180° Wide Angle 3 Sides LED RV Exterior Lights",
+    "type": "should_test",
+    "score": 65.25,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71uRUeqaxbL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9Y1THYF",
+    "walmart_url": "https://www.walmart.com/search?q=Dual+Color+RV+Porch+Light%2C+180%C2%B0+Wide+Angle+3+Sides+LED+RV+Ex"
   },
   {
     "asin": "B0H24X1BTM",
@@ -3265,6 +3331,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71j8opMOVHL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6PXDVVF",
     "walmart_url": "https://www.walmart.com/search?q=1LB+Propane+Tank+Storage+Bag+for+6+x+16+oz+Cylinders+with+Po"
+  },
+  {
+    "asin": "B0H3KKRFCN",
+    "title": "Bhanboth 12v RV USB Wall Panel Mount Outlet, 78W 3 Port 12 Volt USB Charging Station, Aluminum Body + Black Faceplate usbc an",
+    "type": "should_test",
+    "score": 60.25,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71U96tVDETL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3KKRFCN",
+    "walmart_url": "https://www.walmart.com/search?q=Bhanboth+12v+RV+USB+Wall+Panel+Mount+Outlet%2C+78W+3+Port+12+V"
   },
   {
     "asin": "B0H2F7LZ9X",
@@ -4664,6 +4741,17 @@
     "walmart_url": "https://www.walmart.com/search?q=BlueFire+2+Pack+RV+Ceiling+Lights+with+Remote%2C+800LM+Dimmabl"
   },
   {
+    "asin": "B0H6JDT6N5",
+    "title": "CamperXlite RV USB Outlet 12V 74W Aluminum 3-Port (1 Pack) | 27W PD &amp; 20W PD USB C Socket, Flush Mount for RV Car Caravan Tra",
+    "type": "candidate",
+    "score": 60.75,
+    "price": 18.8,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71pFz-HxgqL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6JDT6N5",
+    "walmart_url": "https://www.walmart.com/search?q=CamperXlite+RV+USB+Outlet+12V+74W+Aluminum+3-Port+%281+Pack%29+%7C"
+  },
+  {
     "asin": "B0GZYZSV6X",
     "title": "RV Flag Pole Mount Dual Holder for Trailer Jack Fits 2&quot; &amp; 2-1/4&quot;",
     "type": "candidate",
@@ -5401,6 +5489,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RJIALIQF+RV+Sewer+Cap+Wrench+for+RV+Camper+Motorhome%2C+Black+"
   },
   {
+    "asin": "B0HCZNQMPQ",
+    "title": "12V USB Outlet for RV, 3 Port USB Charger Socket with Dual PD 30W and QC3.0 18W Fast Charging, Surface Mount Panel with Switc",
+    "type": "candidate",
+    "score": 52.25,
+    "price": 12.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51gSiS0GbAL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCZNQMPQ",
+    "walmart_url": "https://www.walmart.com/search?q=12V+USB+Outlet+for+RV%2C+3+Port+USB+Charger+Socket+with+Dual+P"
+  },
+  {
     "asin": "B0GYK3K9RH",
     "title": "RV Outdoor Shower Hose, RV Quick Connect Water Hose for RV Exterior Shower | Retractable 15FT RV External Shower Hose with 8",
     "type": "candidate",
@@ -5553,17 +5652,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+k-KXeuPL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1KLFY3M",
     "walmart_url": "https://www.walmart.com/search?q=8+Layers+Breathable+Fiberglass+Travel+Trailer+Cover+Waterpro"
-  },
-  {
-    "asin": "B0H9Y1THYF",
-    "title": "Dual Color RV Porch Light, 180° Wide Angle 3 Sides LED RV Exterior Lights | Super Bright 12V Outdoor Light for RV Trailer Cam",
-    "type": "candidate",
-    "score": 51.25,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uRUeqaxbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9Y1THYF",
-    "walmart_url": "https://www.walmart.com/search?q=Dual+Color+RV+Porch+Light%2C+180%C2%B0+Wide+Angle+3+Sides+LED+RV+Ex"
   },
   {
     "asin": "B0H3C5GHBF",
@@ -5916,6 +6004,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61zRzioFlEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H33683GX",
     "walmart_url": "https://www.walmart.com/search?q=Lockable+Black+Electrical+Power+Outlet+Hatch+RV+Trailer+Camp"
+  },
+  {
+    "asin": "B0H2MR2CHD",
+    "title": "NEMA L5-30P to TT-30R RV Adapter 30 Amp 125V,Twist Lock Generator Plug",
+    "type": "candidate",
+    "score": 49.25,
+    "price": 9.88,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71rWv0nrdRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2MR2CHD",
+    "walmart_url": "https://www.walmart.com/search?q=NEMA+L5-30P+to+TT-30R+RV+Adapter+30+Amp+125V%2CTwist+Lock+Gene"
   },
   {
     "asin": "B0H2BHBRCP",
@@ -7392,6 +7491,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Dual+Flag+Pole+Mount+for+2%22+and+2%C2%BC%22+Jack+Hold+1%22+Flags+Se"
   },
   {
+    "asin": "B0H41B3GHM",
+    "title": "RV Shore Power Inlet Charger Plug, 20A 250V AC Electrical Power Inlet Socket, 5-in-1 AC Port Plug with 21-inch Splitter Exten",
+    "type": "candidate",
+    "score": 38.25,
+    "price": 16.14,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71fzjaKdcoL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H41B3GHM",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Shore+Power+Inlet+Charger+Plug%2C+20A+250V+AC+Electrical+Po"
+  },
+  {
     "asin": "B0H5NRS2GD",
     "title": "Rv Entry Door, 30“ x 36” Entry Door, Black Aluminum Alloy Teardrop Trailer Door with Tempered Glass and Key Lock for RVs, Cam",
     "type": "candidate",
@@ -7491,6 +7601,17 @@
     "walmart_url": "https://www.walmart.com/search?q=1+Pc+RV+Fresh+Water+Fill+Funnel%2C+White+Inlet+Tank+Adapter"
   },
   {
+    "asin": "B0H11NZ8R9",
+    "title": "2pcs 6&quot; Oval Tail Light Mounting Bracket Trailer Light Bracket 3mm Black Powder Coated Steel Flush Mount for 6&quot; Oval Led Trai",
+    "type": "candidate",
+    "score": 36.75,
+    "price": 8.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51gng1D2GYL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H11NZ8R9",
+    "walmart_url": "https://www.walmart.com/search?q=2pcs+6%22+Oval+Tail+Light+Mounting+Bracket+Trailer+Light+Brack"
+  },
+  {
     "asin": "B0H2967QLG",
     "title": "Universal Fit RV Entry Door, RV Teardrop Trailer Door with 4 Keys, 26&quot; W×36&quot; H RV Camper Entry Door, Black Aluminum Alloy Tea",
     "type": "candidate",
@@ -7555,17 +7676,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61INctVTY7L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H26VCGKV",
     "walmart_url": "https://www.walmart.com/search?q=HHYCSHTGYP+RV+Steps+with+Handrail%2C+660+LBS+4-Step+Hot+Tub+St"
-  },
-  {
-    "asin": "B0H11NZ8R9",
-    "title": "2pcs 6&quot; Oval Tail Light Mounting Bracket Trailer Light Bracket 3mm Black Powder Coated Steel Flush Mount for 6&quot; Oval Led Trai",
-    "type": "candidate",
-    "score": 36.0,
-    "price": 8.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51gng1D2GYL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H11NZ8R9",
-    "walmart_url": "https://www.walmart.com/search?q=2pcs+6%22+Oval+Tail+Light+Mounting+Bracket+Trailer+Light+Brack"
   },
   {
     "asin": "B0H13JLFHN",
