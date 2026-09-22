@@ -22,28 +22,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Portable+Wireless+Backup+Camera+Magnetic+Solar+WiFi+Rear+Vie"
   },
   {
-    "asin": "B0H5QBNVRR",
-    "title": "AUTO-VOX Solar Wireless Backup Camera: 1-Minute No-Drill Installation | Stable Dual Antenna Signal, 6&quot; 1080P Display with Col",
-    "type": "winner",
-    "score": 87.7,
-    "price": 159.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711LpS7xzVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5QBNVRR",
-    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Solar+Wireless+Backup+Camera%3A+1-Minute+No-Drill+Ins"
-  },
-  {
-    "asin": "B0GS5914FR",
-    "title": "HD 1080P Magnetic Wireless Backup Camera for RV - 1-Min Easy Install | Stays Secure on Bumpy Driving for RV Trailer - 7&#x27;&#x27; Mon",
-    "type": "winner",
-    "score": 86.6,
-    "price": 129.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tf8CiNoqL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GS5914FR",
-    "walmart_url": "https://www.walmart.com/search?q=HD+1080P+Magnetic+Wireless+Backup+Camera+for+RV+-+1-Min+Easy"
-  },
-  {
     "asin": "B0HF7XD1XC",
     "title": "1296P HD 7.2&#x27;&#x27; Magnetic Wireless Backup Camera for Trucks Clear Day &amp; Night",
     "type": "winner",
@@ -64,6 +42,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61h6IptKfZL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H748Y253",
     "walmart_url": "https://www.walmart.com/search?q=Sunster+TB10WF+8KW+Toolbox+Diesel+Heater+with+WiFi+%26+Bluetoo"
+  },
+  {
+    "asin": "B0H5QBNVRR",
+    "title": "AUTO-VOX Solar Wireless Backup Camera: 1-Minute No-Drill Installation",
+    "type": "winner",
+    "score": 86.15,
+    "price": 159.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/711LpS7xzVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5QBNVRR",
+    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Solar+Wireless+Backup+Camera%3A+1-Minute+No-Drill+Ins"
   },
   {
     "asin": "B0H364TLH7",
@@ -506,6 +495,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RVShield+30+Amp+RV+Surge+Protector+%26+Power+Manager%2C+200%C2%B0F+Th"
   },
   {
+    "asin": "B0GS5914FR",
+    "title": "1080P Strong Magnetic Wireless Backup Camera for RV Trailer 1-Min Install | Long Battery Life &amp; Solar Charging, Clear Night V",
+    "type": "winner",
+    "score": 81.15,
+    "price": 129.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tf8CiNoqL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GS5914FR",
+    "walmart_url": "https://www.walmart.com/search?q=1080P+Strong+Magnetic+Wireless+Backup+Camera+for+RV+Trailer+"
+  },
+  {
     "asin": "B0H36WBTV5",
     "title": "EJYTRVT Magnetic RV Lights Interior, Battery LED Ceiling Light with Remote | Wireless and Rechargeable, No-Drill Mount, 8000m",
     "type": "winner",
@@ -583,17 +583,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Lrichy+Wireless+RV+Leveling+System+App%2CNo+Calibration+Needed"
   },
   {
-    "asin": "B0HH8G5N4Q",
-    "title": "AUTO-VOX Wireless RV Backup Camera System,Dual Lens Rear and Side Coverage | 7.2&quot; HD Monitor, Triple Split View, IR Night Vis",
-    "type": "winner",
-    "score": 80.45,
-    "price": 319.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71t-DUyO6cL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH8G5N4Q",
-    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Wireless+RV+Backup+Camera+System%2CDual+Lens+Rear+and"
-  },
-  {
     "asin": "B0H5BJQJW3",
     "title": "RV Stabilizer Jack, Heavy Duty I-Beam Camper Anti-Sway, Fits Most Trailers",
     "type": "winner",
@@ -625,6 +614,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/714JTaCDaQL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5BL8YRJ",
     "walmart_url": "https://www.walmart.com/search?q=Lipower+2400W+Portable+Power+Station%2C+2150Wh+Solar+Generator"
+  },
+  {
+    "asin": "B0HH8G5N4Q",
+    "title": "AUTO-VOX Wireless RV Backup Camera System,Dual Lens Rear and Side Coverage | 7.2&quot; HD Monitor, Triple Split View, IR Night Vis",
+    "type": "winner",
+    "score": 80.3,
+    "price": 319.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71t-DUyO6cL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH8G5N4Q",
+    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Wireless+RV+Backup+Camera+System%2CDual+Lens+Rear+and"
   },
   {
     "asin": "B0H3QLN517",
