@@ -1485,17 +1485,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Door+Window+Blackout+Shade%2C+16+x+25+Inch+UV+Block+Privacy"
   },
   {
-    "asin": "B0H8HF9VH5",
-    "title": "Precogni RV Propane Gas Detector Replacement of #31011, Hardwired—12V DC with Digital Display and Screwdriver for Motorhome T",
-    "type": "should_test",
-    "score": 74.25,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FbHUpUrUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8HF9VH5",
-    "walmart_url": "https://www.walmart.com/search?q=Precogni+RV+Propane+Gas+Detector+Replacement+of+%2331011%2C+Hard"
-  },
-  {
     "asin": "B0HC81QFGD",
     "title": "KNOX 5th Wheel RV Skirt with Twist Fasteners, Zippered Panels, 5.5x19.6 ft, Black",
     "type": "should_test",
@@ -2321,6 +2310,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Motor+Repair+Kit+for+Dometic+9200%2C+Replaces+331708"
   },
   {
+    "asin": "B0GZJS5XXQ",
+    "title": "Collapsible Dish Basin, 9L/2.4 Gal Foldable Sink Tub with Drain",
+    "type": "should_test",
+    "score": 66.5,
+    "price": 11.95,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/51gx1qiQOFL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZJS5XXQ",
+    "walmart_url": "https://www.walmart.com/search?q=Collapsible+Dish+Basin%2C+9L%2F2.4+Gal+Foldable+Sink+Tub+with+Dr"
+  },
+  {
     "asin": "B0H4LQG68V",
     "title": "RV Screen Door Handle Grab Bar, 20-5/8&quot;-28-5/8&quot; Adjustable Crossbar, Black | Heavy-Duty Aluminum, Comfortable Center Grip, Re",
     "type": "should_test",
@@ -2385,6 +2385,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71e7MiG0jNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H28ZRF8N",
     "walmart_url": "https://www.walmart.com/search?q=Gzlozak+RV+Water+Tank+Flusher%2C+62%22+RV+Cleaning+Stick+with+Sh"
+  },
+  {
+    "asin": "B0H8HF9VH5",
+    "title": "Precogni RV Propane Gas Detector Replacement of #31011, Hardwired—12V DC with Digital Display and Screwdriver for Motorhome T",
+    "type": "should_test",
+    "score": 65.95,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FbHUpUrUL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8HF9VH5",
+    "walmart_url": "https://www.walmart.com/search?q=Precogni+RV+Propane+Gas+Detector+Replacement+of+%2331011%2C+Hard"
   },
   {
     "asin": "B0H6J7BP2P",
@@ -2706,17 +2717,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Anti-Slip+Rv+Steps+with+Handrail%2C+2+Step+Rv+Stairs+with+Remo"
   },
   {
-    "asin": "B0H38QWVN5",
-    "title": "CRTBETLIF RV Surge Protector 30 amp, 13000J Surge Protection | RV Circuit Analyzer Surge Protector with Cover, RV Adapter Plu",
-    "type": "should_test",
-    "score": 62.0,
-    "price": 29.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61SH95wqMRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H38QWVN5",
-    "walmart_url": "https://www.walmart.com/search?q=CRTBETLIF+RV+Surge+Protector+30+amp%2C+13000J+Surge+Protection"
-  },
-  {
     "asin": "B0GZPC8H9J",
     "title": "Step Stool with Handle for Elderly &amp; Seniors,Rv Steps with Handrail 330lbs,Step Stools for Seniors, Adjustables 5-Level Handr",
     "type": "should_test",
@@ -2726,6 +2726,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/712RyEVHRkL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZPC8H9J",
     "walmart_url": "https://www.walmart.com/search?q=Step+Stool+with+Handle+for+Elderly+%26+Seniors%2CRv+Steps+with+H"
+  },
+  {
+    "asin": "B0H38QWVN5",
+    "title": "CRTBETLIF RV Surge Protector 30 amp, 13000J Surge Protection | RV Circuit Analyzer Surge Protector with Cover, RV Adapter Plu",
+    "type": "should_test",
+    "score": 61.25,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61SH95wqMRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H38QWVN5",
+    "walmart_url": "https://www.walmart.com/search?q=CRTBETLIF+RV+Surge+Protector+30+amp%2C+13000J+Surge+Protection"
   },
   {
     "asin": "B0H8NRKTQT",
@@ -3190,6 +3201,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Step+Motor+Conversion+Kit+for+Kwikee+Linkage%2C+Replaces+37"
   },
   {
+    "asin": "B0H4XWNMZX",
+    "title": "12V RV Water Pump, 4.0 GPM 45 PSI 3-Chamber Diaphragm Fresh Water Pressure Pump with Adjustable Pressure Switch, Self Priming On Demand Pump with Strainer for Camper Trailer Boat",
+    "type": "should_test",
+    "score": 58.25,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/81bc4ZKisPL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4XWNMZX",
+    "walmart_url": "https://www.walmart.com/search?q=12V+RV+Water+Pump%2C+4.0+GPM+45+PSI+3-Chamber+Diaphragm+Fresh+"
+  },
+  {
     "asin": "B0H2D89L7T",
     "title": "Carry Bag for High Pressure Single Propane Burner with Multiple Pockets",
     "type": "should_test",
@@ -3210,17 +3232,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ov2cym3TL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4GVQQZF",
     "walmart_url": "https://www.walmart.com/search?q=INEHM+6+Inch+RV+Bunk+Mattress%2C+34%22+x+75%22+RV+Mattress+Gel+Mem"
-  },
-  {
-    "asin": "B0H4XWNMZX",
-    "title": "ALDERVIC 12V RV Water Pump, 4.0 GPM 45 PSI 3-Chamber Diaphragm Fresh Water Pressure Pump with Adjustable Pressure Switch, Sel",
-    "type": "should_test",
-    "score": 57.75,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81bc4ZKisPL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4XWNMZX",
-    "walmart_url": "https://www.walmart.com/search?q=ALDERVIC+12V+RV+Water+Pump%2C+4.0+GPM+45+PSI+3-Chamber+Diaphra"
   },
   {
     "asin": "B0GYW2PBBS",
@@ -4653,6 +4664,17 @@
     "walmart_url": "https://www.walmart.com/search?q=500+lbs+RV+Step+Stool%2C+Foldable+Adjustable+Height+Step+with+"
   },
   {
+    "asin": "B0H11W86CN",
+    "title": "4 Pack Wheel Chocks, Non-Slip Wheel Chocks for Travel Trailers",
+    "type": "candidate",
+    "score": 53.75,
+    "price": 16.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61yoVLaZbBL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H11W86CN",
+    "walmart_url": "https://www.walmart.com/search?q=4+Pack+Wheel+Chocks%2C+Non-Slip+Wheel+Chocks+for+Travel+Traile"
+  },
+  {
     "asin": "B0H25VB94G",
     "title": "Toldear RV Air Conditioner Cover, Waterproof 600D Oxford Camper AC Covers | RV AC Cover for Rooftop Units, Windproof Elastic",
     "type": "candidate",
@@ -4673,17 +4695,6 @@
     "image_url": "https://m.media-amazon.com/images/I/818tId0elBL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H45H6Z8W",
     "walmart_url": "https://www.walmart.com/search?q=25FT+RV+LED+Awning+Strip+Light%2C+Waterproof+White+Camper+Ligh"
-  },
-  {
-    "asin": "B0H5L1QWMD",
-    "title": "G369 RV Keys, 3 Pack Precut Replacement Keys",
-    "type": "candidate",
-    "score": 53.0,
-    "price": 14.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71AbYcu1OIL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5L1QWMD",
-    "walmart_url": "https://www.walmart.com/search?q=G369+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
   },
   {
     "asin": "B0HHMBJ8CZ",
@@ -4739,6 +4750,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71TcXLivLDL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZKY1228",
     "walmart_url": "https://www.walmart.com/search?q=Camco+Tastepure+RV+Freshwater+Kit+-+Includes+Tastepure+RV+Wa"
+  },
+  {
+    "asin": "B0H5L1QWMD",
+    "title": "G369 RV Keys, 3 Pack Precut Replacement Keys | G301-G390 Series RV Keys Compatible with Global Link RV Trailer Camper Locks,",
+    "type": "candidate",
+    "score": 52.5,
+    "price": 14.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AbYcu1OIL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5L1QWMD",
+    "walmart_url": "https://www.walmart.com/search?q=G369+RV+Keys%2C+3+Pack+Precut+Replacement+Keys+%7C+G301-G390+Ser"
   },
   {
     "asin": "B0H713BTZD",
@@ -5036,17 +5058,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XjaNHMUnL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ23TXRK",
     "walmart_url": "https://www.walmart.com/search?q=GLASSFUK+RV+Slide+Out+Support+Jacks+Stabilizer+20-49in%2C+4+Pa"
-  },
-  {
-    "asin": "B0H11W86CN",
-    "title": "Reonite 4 Pack Wheel Chocks, Non-Slip Wheel Chocks for Travel Trailers | with Rope, Easy Removal, Lightweight &amp; Hard Plastic,",
-    "type": "candidate",
-    "score": 50.75,
-    "price": 16.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yoVLaZbBL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H11W86CN",
-    "walmart_url": "https://www.walmart.com/search?q=Reonite+4+Pack+Wheel+Chocks%2C+Non-Slip+Wheel+Chocks+for+Trave"
   },
   {
     "asin": "B0H36B9J9T",
@@ -5445,6 +5456,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Cable+Hatch+Cover+Plastic+Wire+Organizer+with+Screws+for+"
   },
   {
+    "asin": "B0H2914TR9",
+    "title": "Keuaaao 6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO",
+    "type": "candidate",
+    "score": 48.0,
+    "price": 4.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61b3Df8M2HL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
+    "walmart_url": "https://www.walmart.com/search?q=Keuaaao+6PCS+Trailer+Pin%2C+Standard+1%2F4+Hitch+Pin%2C+Strong+Tra"
+  },
+  {
     "asin": "B0H83T93KW",
     "title": "Spare Tire Cover with Campfire Marshmallow Pattern 14inch TC0061 | Weatherproof Universal Fit for SUV Rv Truck Camper Travel",
     "type": "candidate",
@@ -5817,17 +5839,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61NW3bgb5YL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2HPBCL7",
     "walmart_url": "https://www.walmart.com/search?q=23%27%27Wx44%27%27H+Left+Side+RV+Entry+Door%2C+Camper+Teardrop+Trailer"
-  },
-  {
-    "asin": "B0H2914TR9",
-    "title": "Keuaaao 6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO",
-    "type": "candidate",
-    "score": 45.25,
-    "price": 4.79,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61b3Df8M2HL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
-    "walmart_url": "https://www.walmart.com/search?q=Keuaaao+6PCS+Trailer+Pin%2C+Standard+1%2F4+Hitch+Pin%2C+Strong+Tra"
   },
   {
     "asin": "B0H9NZNYXZ",
