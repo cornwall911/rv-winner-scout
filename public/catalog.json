@@ -231,6 +231,17 @@
     "walmart_url": "https://www.walmart.com/search?q=8%27+x+13%273%22+RV+Awning+Privacy+Shade+with+Zipper%2C+90%25+UV+Block"
   },
   {
+    "asin": "B0HGRDPTB4",
+    "title": "BJTDLLX 12V Air Conditioner, Mini Split 12V AC Unit for RV Truck Trailer | 600W Universal Air Conditioner with Internal &amp; Ext",
+    "type": "winner",
+    "score": 82.75,
+    "price": 179.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71OAmOGYvKL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGRDPTB4",
+    "walmart_url": "https://www.walmart.com/search?q=BJTDLLX+12V+Air+Conditioner%2C+Mini+Split+12V+AC+Unit+for+RV+T"
+  },
+  {
     "asin": "B0HB4NXXZ3",
     "title": "Treeligo 12V Truck Air Conditioner, Mini Split AC Unit, 8000 BTU Fast Cooling DC Air Conditioner for Semi Truck, Camper, Cons",
     "type": "winner",
@@ -1505,17 +1516,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eoavl87cL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1CWXPF4",
     "walmart_url": "https://www.walmart.com/search?q=Camper+Skirt+for+Travel+Trailer%2C+RV+Skirting+for+Winter+5th+"
-  },
-  {
-    "asin": "B0HGRDPTB4",
-    "title": "12V Air Conditioner, Mini Split 12V AC Unit for RV Truck Trailer",
-    "type": "should_test",
-    "score": 74.65,
-    "price": 179.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71OAmOGYvKL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGRDPTB4",
-    "walmart_url": "https://www.walmart.com/search?q=12V+Air+Conditioner%2C+Mini+Split+12V+AC+Unit+for+RV+Truck+Tra"
   },
   {
     "asin": "B0H1HHNLNB",
@@ -3201,17 +3201,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Peasur+368+LED+Magnetic+Solar+Lights+Outdoor+Waterproof+with"
   },
   {
-    "asin": "B0H7H16JBF",
-    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
-    "type": "should_test",
-    "score": 59.25,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
-    "walmart_url": "https://www.walmart.com/search?q=14+Inch+RV+Roof+Vent+Cover%2C+No+Drilling+Aerodynamic+Weatherp"
-  },
-  {
     "asin": "B0H4Z3SHW5",
     "title": "KES 18/8 Stainless Steel RV Spray Port Quick Connect with 3/4&quot; GHT Fitting",
     "type": "should_test",
@@ -4431,6 +4420,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VSeRBhm0L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H758394K",
     "walmart_url": "https://www.walmart.com/search?q=Foldable+Car+Back+Seat+Extender+for+Sleeping%2C+Rear+Seat+Matt"
+  },
+  {
+    "asin": "B0H7H16JBF",
+    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
+    "type": "candidate",
+    "score": 57.75,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
+    "walmart_url": "https://www.walmart.com/search?q=14+Inch+RV+Roof+Vent+Cover%2C+No+Drilling+Aerodynamic+Weatherp"
   },
   {
     "asin": "B0GYHKJYTP",
@@ -6072,17 +6072,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Propane+Gas+Cylinder+Cover%2C+15kg+Oxford+Cloth+Insulated+Prot"
   },
   {
-    "asin": "B0H15GL7FY",
-    "title": "Leinuosen 12 Pcs 6.5&quot; Round Rv Vent Cover Ceiling Air Conditioner Vent Lid",
-    "type": "candidate",
-    "score": 45.75,
-    "price": 44.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71gmTOU1TkL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H15GL7FY",
-    "walmart_url": "https://www.walmart.com/search?q=Leinuosen+12+Pcs+6.5%22+Round+Rv+Vent+Cover+Ceiling+Air+Condit"
-  },
-  {
     "asin": "B0H75C99Y2",
     "title": "Aluminum RV Floor Vent Cover 2&quot;x10&quot;, Magnetic Removable Cover, 2 Pack-Khaki | Cleaning Brush Included; Pet hair protection; R",
     "type": "candidate",
@@ -6281,6 +6270,17 @@
     "walmart_url": "https://www.walmart.com/search?q=31.5%22+RV+Awning+Pitch+Arm%2C+Compatible+with+Solera+Regal+69%22+"
   },
   {
+    "asin": "B0H1LHLG4F",
+    "title": "3313107.015 Rv Air Conditioner Fan Blade",
+    "type": "candidate",
+    "score": 44.25,
+    "price": 17.59,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/615TwmdQFwL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1LHLG4F",
+    "walmart_url": "https://www.walmart.com/search?q=3313107.015+Rv+Air+Conditioner+Fan+Blade"
+  },
+  {
     "asin": "B0H1552TKX",
     "title": "Fulvitaly Upgraded 1LB Propane Tank Storage Bag for 6-Pack Camping Canisters, Multi-Pocket Carry Pouch for RV &amp; Outdoor Cooki",
     "type": "candidate",
@@ -6466,6 +6466,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41Z1X1eIC4L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6CTWD3L",
     "walmart_url": "https://www.walmart.com/search?q=XPJDTRAAH+2pcs+Rafter+Support+Bracket+98655-542+RV+Awning+fo"
+  },
+  {
+    "asin": "B0H15GL7FY",
+    "title": "Leinuosen 12 Pcs 6.5&quot; Round Rv Vent Cover Ceiling Air Conditioner Vent Lid",
+    "type": "candidate",
+    "score": 42.75,
+    "price": 46.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71gmTOU1TkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H15GL7FY",
+    "walmart_url": "https://www.walmart.com/search?q=Leinuosen+12+Pcs+6.5%22+Round+Rv+Vent+Cover+Ceiling+Air+Condit"
   },
   {
     "asin": "B0H98LPSKB",
@@ -6895,17 +6906,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61IDXPG3D5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9496C1F",
     "walmart_url": "https://www.walmart.com/search?q=MREEGS+7%22+RV+AC+Vent+Covers%2C+Ceiling+Grilles+with+Rotatable+"
-  },
-  {
-    "asin": "B0H1LHLG4F",
-    "title": "PIHIL 3313107.015 Rv Air Conditioner Fan Blade | Compatible with Dometic Brisk and Duo-Therm AC Series, Replaces 3313107.0150",
-    "type": "candidate",
-    "score": 39.0,
-    "price": 18.59,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/615TwmdQFwL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1LHLG4F",
-    "walmart_url": "https://www.walmart.com/search?q=PIHIL+3313107.015+Rv+Air+Conditioner+Fan+Blade+%7C+Compatible+"
   },
   {
     "asin": "B0H6D5M2N9",
