@@ -330,17 +330,6 @@
     "walmart_url": "https://www.walmart.com/search?q=12V+RV+Air+Conditioner%2C+Dual-Mount+Wall+or+Rooftop%2C+10000+BT"
   },
   {
-    "asin": "B0GSFR7ZJN",
-    "title": "ONNAIS Smart RV Door Lock - Full Metal App Control Keyless Entry | Fits Most Trailers &amp; 5th Wheels, App Operation, 100 ft Fob",
-    "type": "winner",
-    "score": 82.9,
-    "price": 199.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LgiqJOdLL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GSFR7ZJN",
-    "walmart_url": "https://www.walmart.com/search?q=ONNAIS+Smart+RV+Door+Lock+-+Full+Metal+App+Control+Keyless+E"
-  },
-  {
     "asin": "B0HGRDPTB4",
     "title": "BJTDLLX 12V Air Conditioner, Mini Split 12V AC Unit for RV Truck Trailer | 600W Universal Air Conditioner with Internal &amp; Ext",
     "type": "winner",
@@ -493,6 +482,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71TRhbysjNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5VDT9KK",
     "walmart_url": "https://www.walmart.com/search?q=MOTOCOCHE+Solar+Magnetic+1080P+WiFi+Backup+Camera+No%E2%80%91Drill+R"
+  },
+  {
+    "asin": "B0GSFR7ZJN",
+    "title": "ONNAIS Smart RV Door Lock - Full Metal App Control Keyless Entry",
+    "type": "winner",
+    "score": 81.8,
+    "price": 199.99,
+    "bsr": 27644,
+    "image_url": "https://m.media-amazon.com/images/I/71LgiqJOdLL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GSFR7ZJN",
+    "walmart_url": "https://www.walmart.com/search?q=ONNAIS+Smart+RV+Door+Lock+-+Full+Metal+App+Control+Keyless+E"
   },
   {
     "asin": "B0H2665NKK",
@@ -1749,17 +1749,6 @@
     "walmart_url": "https://www.walmart.com/search?q=DC+12V+RV+Air+Conditioner%2C+15000+BTU+Rooftop+A%2FC+Unit+with+C"
   },
   {
-    "asin": "B0H6DD3CH2",
-    "title": "Magnetic Solar Lights Outdoor, 800LM 231 LED Solar Motion Light for RV | 3-Head 360° Adjustable, Solar+USB Dual Charge, IP65",
-    "type": "should_test",
-    "score": 75.85,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7115PZqhXHL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6DD3CH2",
-    "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor%2C+800LM+231+LED+Solar+Motion+Li"
-  },
-  {
     "asin": "B0H1MZPMTD",
     "title": "Camco Tastepure 4-in-1 Adjustable RV Water Pressure Regulator - Combines a 90° RV Hose Elbow Design, Pressure Gauge, Adjustab",
     "type": "should_test",
@@ -2000,6 +1989,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xRUT3fMIL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5K1KB11",
     "walmart_url": "https://www.walmart.com/search?q=Hrionsee+Magnetic+Solar+RV+Light+with+Motion+Sensor%2C+118+LED"
+  },
+  {
+    "asin": "B0H6DD3CH2",
+    "title": "Magnetic Solar Lights Outdoor, 800LM 231 LED Solar Motion Light for RV",
+    "type": "should_test",
+    "score": 74.45,
+    "price": 39.99,
+    "bsr": 27569,
+    "image_url": "https://m.media-amazon.com/images/I/7115PZqhXHL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6DD3CH2",
+    "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor%2C+800LM+231+LED+Solar+Motion+Li"
   },
   {
     "asin": "B0H5C6KTNW",
@@ -4698,14 +4698,14 @@
   },
   {
     "asin": "B0H2MSY4CN",
-    "title": "Zahawn 2.5&quot; to 2&quot; Trailer Hitch Receiver Adapter Reducer with Lock Pin | 2-1/2&quot; to 2&quot; Trailer Receiver Adapter, 2.5 to 2 inch",
+    "title": "2.5&quot; to 2&quot; Trailer Hitch Receiver Adapter Reducer with Lock Pin",
     "type": "should_test",
     "score": 54.75,
     "price": 29.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71E8I7BPm5L._AC_UL300_SR300,200_.jpg",
+    "bsr": 27195,
+    "image_url": "https://m.media-amazon.com/images/I/71E8I7BPm5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2MSY4CN",
-    "walmart_url": "https://www.walmart.com/search?q=Zahawn+2.5%22+to+2%22+Trailer+Hitch+Receiver+Adapter+Reducer+wit"
+    "walmart_url": "https://www.walmart.com/search?q=2.5%22+to+2%22+Trailer+Hitch+Receiver+Adapter+Reducer+with+Lock+"
   },
   {
     "asin": "B0GZXHP3BG",
@@ -8536,17 +8536,6 @@
     "walmart_url": "https://www.walmart.com/search?q=MusixiA+3Pcs+Awning+Mounting+Brackets%2C+Adjustable+L-Shaped+M"
   },
   {
-    "asin": "B0H3JVY2DG",
-    "title": "OUTPRIZE 55in Wooden Bunk Ladder, Bunk Bed Ladder for Loft, Dorm, RV | Pine Wood, Wide Step, KD(Knock-Down), Rubber Foot Pad,",
-    "type": "candidate",
-    "score": 37.0,
-    "price": 57.75,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51FkfGX+TML._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3JVY2DG",
-    "walmart_url": "https://www.walmart.com/search?q=OUTPRIZE+55in+Wooden+Bunk+Ladder%2C+Bunk+Bed+Ladder+for+Loft%2C+"
-  },
-  {
     "asin": "B0HBWMT6LR",
     "title": "1 Pc RV Fresh Water Fill Funnel, White Inlet Tank Adapter",
     "type": "candidate",
@@ -8567,6 +8556,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51gng1D2GYL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H11NZ8R9",
     "walmart_url": "https://www.walmart.com/search?q=2pcs+6%22+Oval+Tail+Light+Mounting+Bracket+Trailer+Light+Brack"
+  },
+  {
+    "asin": "B0H3JVY2DG",
+    "title": "55in Wooden Bunk Ladder, Bunk Bed Ladder for Loft, Dorm, RV",
+    "type": "candidate",
+    "score": 36.25,
+    "price": 57.75,
+    "bsr": 27586,
+    "image_url": "https://m.media-amazon.com/images/I/51FkfGX+TML.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3JVY2DG",
+    "walmart_url": "https://www.walmart.com/search?q=55in+Wooden+Bunk+Ladder%2C+Bunk+Bed+Ladder+for+Loft%2C+Dorm%2C+RV"
   },
   {
     "asin": "B0H2LMF3LN",
