@@ -55,6 +55,17 @@
     "walmart_url": "https://www.walmart.com/search?q=20000mAh+Wireless+RV+Backup+Camera+Magnetic+1-Min+Easy+Insta"
   },
   {
+    "asin": "B0H4YSW5NQ",
+    "title": "RV Door Lock with Fingerprint Unlock and 0–9 Numeric Keypad",
+    "type": "winner",
+    "score": 87.2,
+    "price": 159.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61kXmQKvQtL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4YSW5NQ",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Door+Lock+with+Fingerprint+Unlock+and+0%E2%80%939+Numeric+Keypad"
+  },
+  {
     "asin": "B0H748Y253",
     "title": "Sunster 2026 TB10WF 8KW Toolbox Diesel Heater with WiFi &amp; Bluetooth APP, 12V/24V Portable Heater for Camping RV Truck, 5L Tan",
     "type": "winner",
@@ -273,17 +284,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/6191LRYbfEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H98QYNMZ",
     "walmart_url": "https://www.walmart.com/search?q=12V+RV+Air+Conditioner+with+Heat+11000+BTU+Cooling+%26+3500+BT"
-  },
-  {
-    "asin": "B0H4YSW5NQ",
-    "title": "RV Door Lock with Fingerprint Unlock and 0–9 Numeric Keypad | Full-Metal Camper Door Lock,Anti-Peek Keypad,2 FOB Remotes,2 Me",
-    "type": "winner",
-    "score": 83.25,
-    "price": 159.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61kXmQKvQtL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4YSW5NQ",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Door+Lock+with+Fingerprint+Unlock+and+0%E2%80%939+Numeric+Keypad+"
   },
   {
     "asin": "B0H1L4BNN3",
@@ -737,6 +737,17 @@
     "walmart_url": "https://www.walmart.com/search?q=classAcustoms+Breezy+80006+Multiple+Speed+RV+Roof+Vent+Fan+U"
   },
   {
+    "asin": "B0H38G5KX1",
+    "title": "30V 2A Starlink Mini Power Supply Adapter Wall RV Pass Through Kit for RV | Aluminum Waterproof RV Power Socket 12V to 30V DC",
+    "type": "winner",
+    "score": 80.3,
+    "price": 32.39,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZGjkRMgOL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H38G5KX1",
+    "walmart_url": "https://www.walmart.com/search?q=30V+2A+Starlink+Mini+Power+Supply+Adapter+Wall+RV+Pass+Throu"
+  },
+  {
     "asin": "B0H1RBWFTK",
     "title": "105 Gallon/400L Water Bladder Tank - Portable Collapsible Water Storage Bag with Heavy-Duty PVC Material for Camping,RV,Emergency Water Storage,Garden Irrigation,Farm&amp;Outdoor Use,Blue",
     "type": "winner",
@@ -856,6 +867,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61ktbvHxeXL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1M1RFPZ",
     "walmart_url": "https://www.walmart.com/search?q=4-Pack+RV+Fridge+Bars%2C+Adjustable+RV+Tension+Rods%2C+19.5-36.7"
+  },
+  {
+    "asin": "B0HCV29TR1",
+    "title": "Pass Through Kit for Starlink Gen3/Gen4 Standard 4 /4X Wall Socket Passthrough for RV Aluminum IP68 Waterproof RJ45 CAT6 Ethernet Female to Female Bulkhead Panel Socket",
+    "type": "should_test",
+    "score": 79.3,
+    "price": 10.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61Zr+Ub1oiL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCV29TR1",
+    "walmart_url": "https://www.walmart.com/search?q=Pass+Through+Kit+for+Starlink+Gen3%2FGen4+Standard+4+%2F4X+Wall+"
   },
   {
     "asin": "B0HGR6DDVH",
@@ -2123,17 +2145,6 @@
     "walmart_url": "https://www.walmart.com/search?q=KNOX+5th+Wheel+RV+Skirt+with+Twist+Fasteners%2C+Zippered+Panel"
   },
   {
-    "asin": "B0H36GT6T6",
-    "title": "Motion Sensor Car Trunk Light,Car Trunk Lights for RV Interior Lighting,Rechargeable Motion Sensor Magnetic Light,2 Modes Roof Ceiling Light for Camper RV,2 Pack",
-    "type": "should_test",
-    "score": 73.95,
-    "price": 18.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61pTkg1HFyL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H36GT6T6",
-    "walmart_url": "https://www.walmart.com/search?q=Motion+Sensor+Car+Trunk+Light%2CCar+Trunk+Lights+for+RV+Interi"
-  },
-  {
     "asin": "B0GY43GC6N",
     "title": "2PCS 15 IN RV Propane Hose with Pressure Gauge, 1/4&quot; Male, 250PSI | Stainless Steel Braided Gas Tubing for Standard RV Dual-S",
     "type": "should_test",
@@ -2154,6 +2165,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81BxbTfmLsL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1R3N4TD",
     "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+RV+Awning+Tie+Down+Anchor+Kit+for+Camper+Trailer+"
+  },
+  {
+    "asin": "B0H36GT6T6",
+    "title": "Motion Sensor Car Trunk Light,Car Trunk Lights for RV Interior Lighting,Rechargeable Motion Sensor Magnetic Light,2 Modes Roof Ceiling Light for Camper RV,2 Pack",
+    "type": "should_test",
+    "score": 73.6,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61pTkg1HFyL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H36GT6T6",
+    "walmart_url": "https://www.walmart.com/search?q=Motion+Sensor+Car+Trunk+Light%2CCar+Trunk+Lights+for+RV+Interi"
   },
   {
     "asin": "B0H28ZRF8N",
@@ -3116,7 +3138,7 @@
     "asin": "B0H2CLB19D",
     "title": "sooogd 8 Pack Solar RV Step Lights, IP68 Waterproof Warm White Stair Lights | Auto Dusk-to-Dawn Lighting With Magnetic Pad, A",
     "type": "should_test",
-    "score": 67.2,
+    "score": 67.3,
     "price": 29.99,
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81pP1w9CYGL._AC_UL300_SR300,200_.jpg",
@@ -3979,6 +4001,17 @@
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71U96tVDETL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3KKRFCN",
+    "walmart_url": "https://www.walmart.com/search?q=Bhanboth+12v+RV+USB+Wall+Panel+Mount+Outlet%2C+78W+3+Port+12+V"
+  },
+  {
+    "asin": "B0H3KGL32T",
+    "title": "Bhanboth 12v RV USB Wall Panel Mount Outlet, 78W 3 Port 12 Volt USB Charging Station, Aluminum Body + Black Faceplate usbc an",
+    "type": "should_test",
+    "score": 60.25,
+    "price": 30.49,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vO-uCEviL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3KGL32T",
     "walmart_url": "https://www.walmart.com/search?q=Bhanboth+12v+RV+USB+Wall+Panel+Mount+Outlet%2C+78W+3+Port+12+V"
   },
   {
@@ -6754,6 +6787,17 @@
     "walmart_url": "https://www.walmart.com/search?q=GNXA2062+Gooseneck+Ball+Kit%2C+2-5%2F16%22+Trailer+Hitches+Ball%26Sa"
   },
   {
+    "asin": "B0H2DMCMYC",
+    "title": "BlueStars 20A 125V AC RV Shore Power Inlet Socket | 12 AWG 5-in-1 Waterproof Port Plug with Integrated 16-Inch Extension Cord",
+    "type": "candidate",
+    "score": 51.25,
+    "price": 11.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7140V-tHNLL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2DMCMYC",
+    "walmart_url": "https://www.walmart.com/search?q=BlueStars+20A+125V+AC+RV+Shore+Power+Inlet+Socket+%7C+12+AWG+5"
+  },
+  {
     "asin": "B0H3TDJB2C",
     "title": "Feghezja 25FT LED RV Strip Lights White, 12V Camper Waterproof Awning Light | 6500K Cool White RV Exterior Underglow Flexible",
     "type": "candidate",
@@ -7104,6 +7148,17 @@
     "image_url": "https://m.media-amazon.com/images/I/612fvdBAyLL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GHFF6QWP",
     "walmart_url": "https://www.walmart.com/search?q=RTV+Silicone+Sealant+Adhesive%2C+100%25+Silicone+Waterproof+Caul"
+  },
+  {
+    "asin": "B0H8X2G3VD",
+    "title": "TALWBTA Anderson Powerpole Connectors 15/30/45A Kit with Dust Cover for RV | Silver-Plated Copper Contacts, No-Tool Snap-Fit,",
+    "type": "candidate",
+    "score": 49.75,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71bXtI1nD1L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8X2G3VD",
+    "walmart_url": "https://www.walmart.com/search?q=TALWBTA+Anderson+Powerpole+Connectors+15%2F30%2F45A+Kit+with+Dus"
   },
   {
     "asin": "B0H41DQFLM",
