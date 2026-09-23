@@ -154,6 +154,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Garvee+RV+Tankless+Water+Heater+-+65000BTU+%7C+12V+DC+on-Deman"
   },
   {
+    "asin": "B0H4W51ZMH",
+    "title": "FOSSiBOT F2400 Portable Power Station, 2048Wh LiFePO4 Solar Generator, 2400W (4800W Surge) AC Output, 1100W Adjustable Fast C",
+    "type": "winner",
+    "score": 84.9,
+    "price": 579.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mIHMAoLVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4W51ZMH",
+    "walmart_url": "https://www.walmart.com/search?q=FOSSiBOT+F2400+Portable+Power+Station%2C+2048Wh+LiFePO4+Solar+"
+  },
+  {
     "asin": "B0HBQMPND1",
     "title": "RV Water Heater, 65,000 BTU Tankless Water Heater for All Trailers",
     "type": "winner",
@@ -207,17 +218,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81gzPlfD9KL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6Q61W9P",
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Backup+Camera+Wireless+Clear+Picture%3A+Install-Fr"
-  },
-  {
-    "asin": "B0H4W51ZMH",
-    "title": "FOSSiBOT F2400 Portable Power Station, 2048Wh LiFePO4 Solar Generator, 2400W (4800W Surge) AC Output, 1100W Adjustable Fast C",
-    "type": "winner",
-    "score": 83.6,
-    "price": 579.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mIHMAoLVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4W51ZMH",
-    "walmart_url": "https://www.walmart.com/search?q=FOSSiBOT+F2400+Portable+Power+Station%2C+2048Wh+LiFePO4+Solar+"
   },
   {
     "asin": "B0GZLLJ9PF",
@@ -1397,6 +1397,17 @@
     "walmart_url": "https://www.walmart.com/search?q=WKZO+RV+AC+Vent+Cover%2C+Adjustable+360+Air+Dispersion+for+RV+"
   },
   {
+    "asin": "B0H2HD5QJX",
+    "title": "POVTOR Multi-Color Motion Activated RV Step Lights, 2 Pack | Magnetic&amp;Adhesive Tape Mounting, Battery Powered, RGBW&amp;WW Colors",
+    "type": "should_test",
+    "score": 77.4,
+    "price": 26.34,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71QREOAePBL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2HD5QJX",
+    "walmart_url": "https://www.walmart.com/search?q=POVTOR+Multi-Color+Motion+Activated+RV+Step+Lights%2C+2+Pack+%7C"
+  },
+  {
     "asin": "B0HBW6Y851",
     "title": "12V Rooftop RV Air Conditioner, Rooftop Parking AC Unit with Remote Control | 2600W Cooling/1500W Heating, Truck Cab Parking",
     "type": "should_test",
@@ -2099,17 +2110,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81f6yThKuWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6SBBX4Y",
     "walmart_url": "https://www.walmart.com/search?q=2-Pack+RV+Awning+Support+Poles%2C+44-116+in+Fiberglass+Telesco"
-  },
-  {
-    "asin": "B0H2HD5QJX",
-    "title": "Multi-Color Motion Activated RV Step Lights, 2 Pack",
-    "type": "should_test",
-    "score": 74.35,
-    "price": 26.34,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71QREOAePBL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2HD5QJX",
-    "walmart_url": "https://www.walmart.com/search?q=Multi-Color+Motion+Activated+RV+Step+Lights%2C+2+Pack"
   },
   {
     "asin": "B0HC81QFGD",
@@ -6963,17 +6963,6 @@
     "walmart_url": "https://www.walmart.com/search?q=VUKJLOP+24V+8%22+2-Speeds+Cigarette+Lighter+Cooling+Fan%2C+All-M"
   },
   {
-    "asin": "B0H25XP6WK",
-    "title": "RV 30 Amp to 110 Adapter, NEMA 5-15P to L5-30R RV Electrical Adapter | 90-Degree Grip Handle, ETL listed, 10/3 AWG STW, 15A 1",
-    "type": "candidate",
-    "score": 50.25,
-    "price": 17.59,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+DLkptWhL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H25XP6WK",
-    "walmart_url": "https://www.walmart.com/search?q=RV+30+Amp+to+110+Adapter%2C+NEMA+5-15P+to+L5-30R+RV+Electrical"
-  },
-  {
     "asin": "B0H21345WG",
     "title": "2-Pack CH510 Keys Replacement for RV Compartment Locks, Truck Tool Box, Trailer &amp; Cabinet, Precision Cut CH510 Key Stamped fo",
     "type": "candidate",
@@ -7269,6 +7258,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61fYYphwspL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B08CS18XHP",
     "walmart_url": "https://www.walmart.com/search?q=RecPro+RV+Roof+Cleaner+Spray+14oz+%7C+Fast+Drying%2C+No-Residue+"
+  },
+  {
+    "asin": "B0H25XP6WK",
+    "title": "RV 30 Amp to 110 Adapter, NEMA 5-15P to L5-30R RV Electrical Adapter | 90-Degree Grip Handle, ETL listed, 10/3 AWG STW, 15A 1",
+    "type": "candidate",
+    "score": 48.75,
+    "price": 17.59,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+DLkptWhL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H25XP6WK",
+    "walmart_url": "https://www.walmart.com/search?q=RV+30+Amp+to+110+Adapter%2C+NEMA+5-15P+to+L5-30R+RV+Electrical"
   },
   {
     "asin": "B0H2RGWYCG",
