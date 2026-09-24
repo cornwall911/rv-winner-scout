@@ -1199,17 +1199,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Upgraded+Aluminum+Trailer+Towing+Chain+Organizer+with+7-Way+"
   },
   {
-    "asin": "B0GZFNL8PG",
-    "title": "RV Camper Cord and Plug Protector - Easily Elevates &amp; Fully Encloses Large 30 &amp; 50 Amp Plugs to Shield from The Elements - UV Protected Polyethylene - Sourced and Made in The USA",
-    "type": "should_test",
-    "score": 78.4,
-    "price": 42.95,
-    "bsr": 25597,
-    "image_url": "https://m.media-amazon.com/images/I/61l7buFUnEL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZFNL8PG",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Camper+Cord+and+Plug+Protector+-+Easily+Elevates+%26+Fully+"
-  },
-  {
     "asin": "B0H8RDKKZ5",
     "title": "RV Skirting Kits for Winter, Easy Installation - Black, 2.62 x 72.2 ft | Insulated Camper Skirt for Travel Trailer, 5th Wheel",
     "type": "should_test",
@@ -1285,17 +1274,6 @@
     "image_url": "https://m.media-amazon.com/images/I/81mhDG6vzaL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H86SFMB6",
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Solar+Lights+Outdoor%2C+160LEDs+Bright+RV+Light+wi"
-  },
-  {
-    "asin": "B0H6HK6QQT",
-    "title": "50 Amp RV Surge Protector with Circuit Analyzer: 20000J Surge Protection, Auto Power Disconnect, Real-Time Voltage Display &amp; Overheat Protection for RV Campers and Campgrounds",
-    "type": "should_test",
-    "score": 78.1,
-    "price": 59.99,
-    "bsr": 28499,
-    "image_url": "https://m.media-amazon.com/images/I/71iLPWog+2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6HK6QQT",
-    "walmart_url": "https://www.walmart.com/search?q=50+Amp+RV+Surge+Protector+with+Circuit+Analyzer%3A+20000J+Surg"
   },
   {
     "asin": "B0H4G17SY5",
@@ -1749,17 +1727,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Jumyee+RV+Screen+Door+Curtain%2C+Magnetic+Camper+Door+Mesh+31."
   },
   {
-    "asin": "B0GYPMJCN8",
-    "title": "2 Pack Magnetic Solar Lights Outdoor, 3 Color Temps, Motion Sensor, Remote | 92-LED 600LM RV exterior lights with remote cont",
-    "type": "should_test",
-    "score": 76.6,
-    "price": 28.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61eV9mG3y5L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GYPMJCN8",
-    "walmart_url": "https://www.walmart.com/search?q=2+Pack+Magnetic+Solar+Lights+Outdoor%2C+3+Color+Temps%2C+Motion+"
-  },
-  {
     "asin": "B0H6ZD82CS",
     "title": "Lyrivan RV Skylight Cover Roof Vent Sun Blackout &amp; Insulator, 16x16 Inch | 3-Layer Protection, Block up to 99% of Light, Keep",
     "type": "should_test",
@@ -1901,6 +1868,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eoavl87cL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1D22C4Y",
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter%2C+35in+Height+RV+Skirt+for+Travel+Trai"
+  },
+  {
+    "asin": "B0GYPMJCN8",
+    "title": "2 Pack Magnetic Solar Lights Outdoor, 3 Color Temps, Motion Sensor, Remote | 92-LED 600LM RV exterior lights with remote cont",
+    "type": "should_test",
+    "score": 76.1,
+    "price": 28.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61eV9mG3y5L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GYPMJCN8",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pack+Magnetic+Solar+Lights+Outdoor%2C+3+Color+Temps%2C+Motion+"
   },
   {
     "asin": "B0H9RWG765",
@@ -2739,6 +2717,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2+Pack+Magnetic+RV+Solar+Lights%2C+100+LED+Outdoor+Motion+Sens"
   },
   {
+    "asin": "B0H6HK6QQT",
+    "title": "TGJOR 50 Amp RV Surge Protector with Circuit Analyzer: 20000J Surge Protection, Auto Power Disconnect, Real-Time Voltage Disp",
+    "type": "should_test",
+    "score": 70.0,
+    "price": 55.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iLPWog+2L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6HK6QQT",
+    "walmart_url": "https://www.walmart.com/search?q=TGJOR+50+Amp+RV+Surge+Protector+with+Circuit+Analyzer%3A+20000"
+  },
+  {
     "asin": "B0H6JV8ZG9",
     "title": "RVSPARK IP68 Waterproof Ethernet RJ45 Pass Through for Starlink Gen3 Gen4 | Shielded CAT6 Ethernet Female to Female Coupler,S",
     "type": "should_test",
@@ -3300,6 +3289,17 @@
     "walmart_url": "https://www.walmart.com/search?q=LVYUAN+2000W+Pure+Sine+Wave+Power+Inverter+12V+DC+to+110V%2F12"
   },
   {
+    "asin": "B0GZFNL8PG",
+    "title": "Protect-A-Plug RV Camper Cord and Plug Protector - Easily Elevates &amp; Fully Encloses Large 30 &amp; 50 Amp Plugs to Shield from Th",
+    "type": "should_test",
+    "score": 66.75,
+    "price": 42.95,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61l7buFUnEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZFNL8PG",
+    "walmart_url": "https://www.walmart.com/search?q=Protect-A-Plug+RV+Camper+Cord+and+Plug+Protector+-+Easily+El"
+  },
+  {
     "asin": "B0H8YJBFTT",
     "title": "Venluna Dual RV Backup Camera System for Truck, 7&quot; Split Screen DVR Monitor | Wired 1080P HD IR Night Vision, IP69 Waterproof",
     "type": "should_test",
@@ -3474,6 +3474,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71NT0u4cWWL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H29C3ZXD",
     "walmart_url": "https://www.walmart.com/search?q=Adjustable+Trailer+Hitch%2C+Fit+2+in+Receiver%2C+6+Inch+Drop%2FRis"
+  },
+  {
+    "asin": "B0H7BMRPCL",
+    "title": "Wide Aluminum Scissor Stairs, 4 Steps Folding RV Step Ladder | 17&quot; Wide Truck Camper Steps, Anti-Slip Surface, for Mobile Hom",
+    "type": "should_test",
+    "score": 66.0,
+    "price": 181.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51l3UAOYYiL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7BMRPCL",
+    "walmart_url": "https://www.walmart.com/search?q=Wide+Aluminum+Scissor+Stairs%2C+4+Steps+Folding+RV+Step+Ladder"
   },
   {
     "asin": "B0H8HF9VH5",
@@ -3716,17 +3727,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61gYY5NkrRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFWBHK75",
     "walmart_url": "https://www.walmart.com/search?q=17%22+Wide+Aluminum+Alloy+Scissor+Stairs%2C+4+Steps+RV+Step+Ladd"
-  },
-  {
-    "asin": "B0H7BMRPCL",
-    "title": "Wide Aluminum Scissor Stairs, 4 Steps Folding RV Step Ladder | 17&quot; Wide Truck Camper Steps, Anti-Slip Surface, for Mobile Hom",
-    "type": "should_test",
-    "score": 63.5,
-    "price": 181.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51l3UAOYYiL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7BMRPCL",
-    "walmart_url": "https://www.walmart.com/search?q=Wide+Aluminum+Scissor+Stairs%2C+4+Steps+Folding+RV+Step+Ladder"
   },
   {
     "asin": "B0H1DGRSD5",
@@ -4695,6 +4695,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81BnNsQBimL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4FMK8TV",
     "walmart_url": "https://www.walmart.com/search?q=DC+12V+RV+Air+Conditioner%2C+15000+BTU+Rooftop+A%2FC+Unit+with+C"
+  },
+  {
+    "asin": "B0H7WM3RMG",
+    "title": "50 Amp RV Replacement Female Connector, SS2-50R Angled End, ETL Listed",
+    "type": "should_test",
+    "score": 58.0,
+    "price": 54.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61Nvl5uLXVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7WM3RMG",
+    "walmart_url": "https://www.walmart.com/search?q=50+Amp+RV+Replacement+Female+Connector%2C+SS2-50R+Angled+End%2C+"
   },
   {
     "asin": "B0H1CFBQH3",
@@ -7876,6 +7887,17 @@
     "walmart_url": "https://www.walmart.com/search?q=JIYIZO+RV+Ceiling+Vent+Covers%2C+AC+Vent+Cover+Replacement%2C+Ro"
   },
   {
+    "asin": "B0H2JN965J",
+    "title": "RV Extension Cord 50 FT 30 Amp NEMA TT-30P to TT-30R Heavy Duty 10 Gauge | Heavy Duty Power Cord with Grip Handle &amp; Organizer",
+    "type": "candidate",
+    "score": 49.5,
+    "price": 69.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/717DpStLkIL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2JN965J",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Extension+Cord+50+FT+30+Amp+NEMA+TT-30P+to+TT-30R+Heavy+D"
+  },
+  {
     "asin": "B0HHDQZ8Y8",
     "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant, Fits 24ft to 26ft RVs | 420D Oxford Cloth RV Roof Cover for 5th Wheel, C",
     "type": "candidate",
@@ -8831,17 +8853,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61gzvvg7ABL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZV91PNN",
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Motor+%26+Idler+Cover+Kit+R001931006+R001932006+Comp"
-  },
-  {
-    "asin": "B0H7WM3RMG",
-    "title": "50 Amp RV Replacement Female Connector, SS2-50R Angled End, ETL Listed | 125/250V 50A, Ergonomic Angled Design, Reduce Cable",
-    "type": "candidate",
-    "score": 44.75,
-    "price": 54.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Nvl5uLXVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7WM3RMG",
-    "walmart_url": "https://www.walmart.com/search?q=50+Amp+RV+Replacement+Female+Connector%2C+SS2-50R+Angled+End%2C+"
   },
   {
     "asin": "B0H7BDRTW8",
