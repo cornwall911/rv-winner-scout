@@ -77,6 +77,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Door+Lock+with+Fingerprint+Unlock+and+0%E2%80%939+Numeric+Keypad"
   },
   {
+    "asin": "B0GS5914FR",
+    "title": "1080P Strong Magnetic Wireless Backup Camera for RV Trailer 1-Min Install",
+    "type": "winner",
+    "score": 86.75,
+    "price": 129.99,
+    "bsr": 8984,
+    "image_url": "https://m.media-amazon.com/images/I/71tf8CiNoqL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GS5914FR",
+    "walmart_url": "https://www.walmart.com/search?q=1080P+Strong+Magnetic+Wireless+Backup+Camera+for+RV+Trailer+"
+  },
+  {
     "asin": "B0H748Y253",
     "title": "Sunster 2026 TB10WF 8KW Toolbox Diesel Heater with WiFi &amp; Bluetooth APP, 12V/24V Portable Heater for Camping RV Truck, 5L Tan",
     "type": "winner",
@@ -603,17 +614,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61XWdzBmxfL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDY3VKJG",
     "walmart_url": "https://www.walmart.com/search?q=Universal+DC+12V+Air+Conditioner+Heating+Cooling+Air+Conditi"
-  },
-  {
-    "asin": "B0GS5914FR",
-    "title": "1080P Strong Magnetic Wireless Backup Camera for RV Trailer 1-Min Install | Long Battery Life &amp; Solar Charging, Clear Night V",
-    "type": "winner",
-    "score": 81.15,
-    "price": 129.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tf8CiNoqL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GS5914FR",
-    "walmart_url": "https://www.walmart.com/search?q=1080P+Strong+Magnetic+Wireless+Backup+Camera+for+RV+Trailer+"
   },
   {
     "asin": "B0HJPGLTYC",
@@ -4928,6 +4928,17 @@
     "walmart_url": "https://www.walmart.com/search?q=VEVOR+RV+Water+Filter+System%2C+5-Micron+3+Stage+Premium+RV+Wa"
   },
   {
+    "asin": "B0H1BG1W7D",
+    "title": "Adjustable Trailer Hitch for 2.5&quot; Receiver, 6 in Drop/Rise, 18.5K GTW",
+    "type": "should_test",
+    "score": 57.25,
+    "price": 119.69,
+    "bsr": 15881,
+    "image_url": "https://m.media-amazon.com/images/I/71qOaJDj1NL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1BG1W7D",
+    "walmart_url": "https://www.walmart.com/search?q=Adjustable+Trailer+Hitch+for+2.5%22+Receiver%2C+6+in+Drop%2FRise%2C+"
+  },
+  {
     "asin": "B0GYW2PBBS",
     "title": "NEBORASTEP Steps with Handrail, Heavy Duty 2 Steps RV Stairs for Adult, Seniors, Holds up to 300 lbs",
     "type": "should_test",
@@ -5014,17 +5025,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71i32vY5XgL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8RMSQRK",
     "walmart_url": "https://www.walmart.com/search?q=WF-9855+55+Amp+RV+Power+Converter+Charger%2C+Manual+Lead-Acid%2F"
-  },
-  {
-    "asin": "B0H1BG1W7D",
-    "title": "LWCH Adjustable Trailer Hitch for 2.5&quot; Receiver, 6 in Drop/Rise, 18.5K GTW | Heavy Duty Aluminum Drop Hitch with 2 &amp; 2-5/16 I",
-    "type": "should_test",
-    "score": 56.75,
-    "price": 119.69,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71qOaJDj1NL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1BG1W7D",
-    "walmart_url": "https://www.walmart.com/search?q=LWCH+Adjustable+Trailer+Hitch+for+2.5%22+Receiver%2C+6+in+Drop%2FR"
   },
   {
     "asin": "B0H6VZV1S1",
@@ -6297,7 +6297,7 @@
     "type": "candidate",
     "score": 57.0,
     "price": 31.99,
-    "bsr": 11500,
+    "bsr": 8754,
     "image_url": "https://m.media-amazon.com/images/I/61B+fUgXWvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GF27BWJ6",
     "walmart_url": "https://www.walmart.com/search?q=AHD1080P+Backup+Camera+for+Cars%2C+CCD+Sensor+%28Outperforms+CMO"
