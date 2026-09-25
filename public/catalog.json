@@ -704,17 +704,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Shower+Head+with+Hose%2C+High+Pressure+Handheld+RV+Shower+H"
   },
   {
-    "asin": "B0H4Y9PHXM",
-    "title": "ALDERVIC 12V RV Macerator Pump, 15 GPM RV Waste Water Sewer Pump with Quick Release &amp; Garden Hose Discharge Port, 9.8 ft Max",
-    "type": "winner",
-    "score": 81.0,
-    "price": 69.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81OQHdNz38L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4Y9PHXM",
-    "walmart_url": "https://www.walmart.com/search?q=ALDERVIC+12V+RV+Macerator+Pump%2C+15+GPM+RV+Waste+Water+Sewer+"
-  },
-  {
     "asin": "B0HJG764YX",
     "title": "Full Metal RV Door Lock, 10-Digit Keypad for Most Trailers &amp; 5th Wheels | Fingerprint Lock, Voice Prompt, Easy Install, Dual-",
     "type": "winner",
@@ -823,6 +812,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71Wq120Z-KL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDCP8KJL",
     "walmart_url": "https://www.walmart.com/search?q=SUPAREE+218+LED+Magnetic+RV+Solar+Light%2C+800LM+RV+Lights+Ext"
+  },
+  {
+    "asin": "B0H4Y9PHXM",
+    "title": "ALDERVIC 12V RV Macerator Pump, 15 GPM RV Waste Water Sewer Pump with Quick Release &amp; Garden Hose Discharge Port, 9.8 ft Max",
+    "type": "winner",
+    "score": 80.5,
+    "price": 69.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81OQHdNz38L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4Y9PHXM",
+    "walmart_url": "https://www.walmart.com/search?q=ALDERVIC+12V+RV+Macerator+Pump%2C+15+GPM+RV+Waste+Water+Sewer+"
   },
   {
     "asin": "B0H85Y52DP",
@@ -6897,17 +6897,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Tarp+Clips+Heavy+Duty+Lock+Grip%2C+Awning+Clamp+Thumb+Screw+Fi"
   },
   {
-    "asin": "B0H2H36JPH",
-    "title": "KES All Metal RV City Water Inlet with Lead-Free 90 Degree Elbow Hose | 18/8 Stainless Steel RV Water Inlet Replacement with",
-    "type": "candidate",
-    "score": 54.75,
-    "price": 37.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/810prOOO1pL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2H36JPH",
-    "walmart_url": "https://www.walmart.com/search?q=KES+All+Metal+RV+City+Water+Inlet+with+Lead-Free+90+Degree+E"
-  },
-  {
     "asin": "B0H9Y1THYF",
     "title": "Dual Color RV Porch Light, 180° Wide Angle 3 Sides LED RV Exterior Lights | Super Bright 12V Outdoor Light for RV Trailer Cam",
     "type": "candidate",
@@ -8996,6 +8985,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71z3z48WHHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6NW8D4W",
     "walmart_url": "https://www.walmart.com/search?q=Rucado+Car+Trailer+Tie+Down+Straps+2+x+10+ft+Ratchet+Chain+A"
+  },
+  {
+    "asin": "B0H2H36JPH",
+    "title": "KES All Metal RV City Water Inlet with Lead-Free 90 Degree Elbow Hose | 18/8 Stainless Steel RV Water Inlet Replacement with",
+    "type": "candidate",
+    "score": 45.75,
+    "price": 37.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/810prOOO1pL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2H36JPH",
+    "walmart_url": "https://www.walmart.com/search?q=KES+All+Metal+RV+City+Water+Inlet+with+Lead-Free+90+Degree+E"
   },
   {
     "asin": "B0H7HJ9M18",
