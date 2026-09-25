@@ -71,7 +71,7 @@
     "type": "winner",
     "score": 87.2,
     "price": 159.99,
-    "bsr": 9999999,
+    "bsr": 27924,
     "image_url": "https://m.media-amazon.com/images/I/61kXmQKvQtL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4YSW5NQ",
     "walmart_url": "https://www.walmart.com/search?q=RV+Door+Lock+with+Fingerprint+Unlock+and+0%E2%80%939+Numeric+Keypad"
@@ -922,6 +922,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61YsRDwneZL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBX577L6",
     "walmart_url": "https://www.walmart.com/search?q=12V+RV+Air+Conditioner+Rooftop%2C+Low+Power+AC+Unit+with+Heati"
+  },
+  {
+    "asin": "B0H9R9DYZH",
+    "title": "8PCS Utility RV Master Key Set with Wire Ring CH751 MK9001 G391 R001 CH510",
+    "type": "should_test",
+    "score": 79.45,
+    "price": 8.59,
+    "bsr": 28723,
+    "image_url": "https://m.media-amazon.com/images/I/71oKFTTErXL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9R9DYZH",
+    "walmart_url": "https://www.walmart.com/search?q=8PCS+Utility+RV+Master+Key+Set+with+Wire+Ring+CH751+MK9001+G"
   },
   {
     "asin": "B0GYW2KZ4M",
@@ -3289,6 +3300,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Heavy-Duty+Universal+RV+Stabilizer%2C17%27%27-35%27%27+Adjustable+Anti"
   },
   {
+    "asin": "B0H4GWRS8L",
+    "title": "RV Awning Puller,Telescopic RV Awning Pole，Easy Reach Camping Hook-1p",
+    "type": "should_test",
+    "score": 67.4,
+    "price": 9.95,
+    "bsr": 26975,
+    "image_url": "https://m.media-amazon.com/images/I/51NW5e1cZVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4GWRS8L",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Puller%2CTelescopic+RV+Awning+Pole%EF%BC%8CEasy+Reach+Campin"
+  },
+  {
     "asin": "B0H2CLB19D",
     "title": "sooogd 8 Pack Solar RV Step Lights, IP68 Waterproof Warm White Stair Lights | Auto Dusk-to-Dawn Lighting With Magnetic Pad, A",
     "type": "should_test",
@@ -3518,17 +3540,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FbHUpUrUL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8HF9VH5",
     "walmart_url": "https://www.walmart.com/search?q=Precogni+RV+Propane+Gas+Detector+Replacement+of+%2331011%2C+Hard"
-  },
-  {
-    "asin": "B0H4GWRS8L",
-    "title": "RV Awning Puller,Telescopic RV Awning Pole，Easy Reach Camping Hook-1p",
-    "type": "should_test",
-    "score": 65.95,
-    "price": 9.95,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/51NW5e1cZVL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4GWRS8L",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Puller%2CTelescopic+RV+Awning+Pole%EF%BC%8CEasy+Reach+Campin"
   },
   {
     "asin": "B0H5R7BH4Y",
@@ -4994,17 +5005,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Fabric+Replacement%2C+20.8oz+Heavy+Duty+6-Layer+Viny"
   },
   {
-    "asin": "B0H9R9DYZH",
-    "title": "8PCS Utility RV Master Key Set with Wire Ring CH751 MK9001 G391 R001 CH510 | CH545 CH506 CH501 Compatible with RV Compartment",
-    "type": "should_test",
-    "score": 56.75,
-    "price": 8.59,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71oKFTTErXL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9R9DYZH",
-    "walmart_url": "https://www.walmart.com/search?q=8PCS+Utility+RV+Master+Key+Set+with+Wire+Ring+CH751+MK9001+G"
-  },
-  {
     "asin": "B0H5NZ1L4L",
     "title": "Mmtowus Adjustable Trailer Hitch -Drop Hitch Fit 2.5&quot; Receiver-6&quot; Drop/Rise | Tri Ball Mount with Hook (1-7/8&#x27;&#x27;, 2&#x27;&#x27; &amp; 2-5/16",
     "type": "should_test",
@@ -6400,6 +6400,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XoSr4n5eL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6LWX93V",
     "walmart_url": "https://www.walmart.com/search?q=RV+Roof+AC+Cover+600D+Fits+Coleman+Mach+RecPro+TOSOT+Winter+"
+  },
+  {
+    "asin": "B0HDBGQVXS",
+    "title": "Trailer Hitch Pin, Anti-Theft Trailer Hitch Locks",
+    "type": "candidate",
+    "score": 56.0,
+    "price": 4.99,
+    "bsr": 26774,
+    "image_url": "https://m.media-amazon.com/images/I/61AjsJl0wsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDBGQVXS",
+    "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin%2C+Anti-Theft+Trailer+Hitch+Locks"
   },
   {
     "asin": "B0H7WWRSH1",
@@ -9284,6 +9295,17 @@
     "walmart_url": "https://www.walmart.com/search?q=643922+Regal+Drive+Head+Front+Cover+%28Black%29+for+Lippert+Sole"
   },
   {
+    "asin": "B0H6PNK3C2",
+    "title": "Marine Corps Eagle Globe Anchor Trailer Hitch Cover for 2 Inch Receivers with 7/8-Inch Pin Diameter Trailer Hitch Lock",
+    "type": "candidate",
+    "score": 43.0,
+    "price": 33.95,
+    "bsr": 27399,
+    "image_url": "https://m.media-amazon.com/images/I/71cfX2wRL2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6PNK3C2",
+    "walmart_url": "https://www.walmart.com/search?q=Marine+Corps+Eagle+Globe+Anchor+Trailer+Hitch+Cover+for+2+In"
+  },
+  {
     "asin": "B0H3QD5F91",
     "title": "48 Inch 4-Way Flat Trailer Hitch Wiring Harness, 16AWG Pure Copper | Weatherproof molded plug, dust cover, no-tool no-splice",
     "type": "candidate",
@@ -9436,17 +9458,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51J6VgPqBuL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3V7GLQ1",
     "walmart_url": "https://www.walmart.com/search?q=TOMOZ+RV+Shower+Curtain+for+Camper+Travel+Trailer+Motorhome%2C"
-  },
-  {
-    "asin": "B0H6PNK3C2",
-    "title": "Marine Corps Eagle Globe Anchor Trailer Hitch Cover for 2 Inch Receivers with 7/8-Inch Pin Diameter Trailer Hitch Lock",
-    "type": "candidate",
-    "score": 41.75,
-    "price": 33.95,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71cfX2wRL2L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6PNK3C2",
-    "walmart_url": "https://www.walmart.com/search?q=Marine+Corps+Eagle+Globe+Anchor+Trailer+Hitch+Cover+for+2+In"
   },
   {
     "asin": "B0H5NWHGFC",
