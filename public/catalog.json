@@ -3564,17 +3564,6 @@
     "walmart_url": "https://www.walmart.com/search?q=JMJGHSRGTY+RV+Windshield+Cover+for+Jayco+Redhawk+24B+2024-20"
   },
   {
-    "asin": "B0H7HJ9M18",
-    "title": "RV Air Conditioner Duct Compatible with Coleman Mach 1, 3, 10, 15 &amp; Q",
-    "type": "should_test",
-    "score": 66.25,
-    "price": 89.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71K22UW5IOL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7HJ9M18",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Air+Conditioner+Duct+Compatible+with+Coleman+Mach+1%2C+3%2C+1"
-  },
-  {
     "asin": "B0H568YL25",
     "title": "Heavy Duty Suction Cup Hooks 4PCS with Tarp Clips for Car Awning Camping | Strong Suction cup Hooks Tie-Down for Boat/RV/SUV/",
     "type": "should_test",
@@ -5632,17 +5621,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Fabric+Replacement%2C+20.8+oz+Heavy+Duty+Vinyl+Fabri"
   },
   {
-    "asin": "B0HG13D3MX",
-    "title": "Spqnzon 3313107.015 RV AC Condenser Fan Blade for Dometic | Fits Duo-Therm Brisk Air Series, Replaces 3107914.008, 317937.000",
-    "type": "should_test",
-    "score": 54.75,
-    "price": 16.5,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qlPVXhShL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
-    "walmart_url": "https://www.walmart.com/search?q=Spqnzon+3313107.015+RV+AC+Condenser+Fan+Blade+for+Dometic+%7C+"
-  },
-  {
     "asin": "B0H8384SSG",
     "title": "Butyl Sealant Tape 13Ft for Auto, RV, Marine &amp; Windshield （2 piece）",
     "type": "should_test",
@@ -5982,6 +5960,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81--oQDSc7L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDF8668D",
     "walmart_url": "https://www.walmart.com/search?q=LANCO+Dry-Coat+1+Gal.+100%25+Acrylic+Siliconized+White+Reflect"
+  },
+  {
+    "asin": "B0HG13D3MX",
+    "title": "3313107.015 RV AC Condenser Fan Blade for Dometic",
+    "type": "should_test",
+    "score": 52.5,
+    "price": 16.5,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61qlPVXhShL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
+    "walmart_url": "https://www.walmart.com/search?q=3313107.015+RV+AC+Condenser+Fan+Blade+for+Dometic"
   },
   {
     "asin": "B0H6JC36BF",
@@ -8866,6 +8855,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Rucado+Car+Trailer+Tie+Down+Straps+2+x+10+ft+Ratchet+Chain+A"
   },
   {
+    "asin": "B0H7HJ9M18",
+    "title": "RV Air Conditioner Duct Compatible with Coleman Mach 1, 3, 10, 15 &amp; Q | Non-universal design, incompatible with Mach 8, Domet",
+    "type": "candidate",
+    "score": 45.75,
+    "price": 89.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71K22UW5IOL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7HJ9M18",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Air+Conditioner+Duct+Compatible+with+Coleman+Mach+1%2C+3%2C+1"
+  },
+  {
     "asin": "B0HBKN1K3K",
     "title": "BMQCFGH RV Roof Cover Compatible with Monaco Diplomat 40DST 2003–2005 | RV Roof Cover Roof Protection Cover",
     "type": "candidate",
@@ -9381,6 +9381,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61SrLGorHFL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4QK2G92",
     "walmart_url": "https://www.walmart.com/search?q=Geelin+2+Pcs+40lb+Propane+Tank+Winter+Cover+Thickened+Built-"
+  },
+  {
+    "asin": "B0H8RD33C6",
+    "title": "BVC0573-31 Roof Vent Frame Screen Replacement Parts,13.5×13.5in,Birch White",
+    "type": "candidate",
+    "score": 43.75,
+    "price": 26.88,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71oK1YKTyKL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8RD33C6",
+    "walmart_url": "https://www.walmart.com/search?q=BVC0573-31+Roof+Vent+Frame+Screen+Replacement+Parts%2C13.5%C3%9713."
   },
   {
     "asin": "B0H1GGKXJ8",
