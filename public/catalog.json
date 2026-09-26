@@ -66,6 +66,17 @@
     "walmart_url": "https://www.walmart.com/search?q=20000mAh+Wireless+RV+Backup+Camera+Magnetic+1-Min+Easy+Insta"
   },
   {
+    "asin": "B0H4YSW5NQ",
+    "title": "RV Door Lock with Fingerprint Unlock and 0–9 Numeric Keypad",
+    "type": "winner",
+    "score": 87.65,
+    "price": 159.99,
+    "bsr": 25037,
+    "image_url": "https://m.media-amazon.com/images/I/61kXmQKvQtL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4YSW5NQ",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Door+Lock+with+Fingerprint+Unlock+and+0%E2%80%939+Numeric+Keypad"
+  },
+  {
     "asin": "B0H695SHXG",
     "title": "Venluna Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install | 15000mAh Solar Battery, 5” 1080P Monitor, 500ft Wi",
     "type": "winner",
@@ -75,17 +86,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/8105IsnmmVL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
     "walmart_url": "https://www.walmart.com/search?q=Venluna+Magnetic+Wireless+Backup+Camera+for+Truck+Trailer%2C+1"
-  },
-  {
-    "asin": "B0H4YSW5NQ",
-    "title": "RV Door Lock with Fingerprint Unlock and 0–9 Numeric Keypad",
-    "type": "winner",
-    "score": 87.2,
-    "price": 159.99,
-    "bsr": 27924,
-    "image_url": "https://m.media-amazon.com/images/I/61kXmQKvQtL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4YSW5NQ",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Door+Lock+with+Fingerprint+Unlock+and+0%E2%80%939+Numeric+Keypad"
   },
   {
     "asin": "B0H28WH54Z",
@@ -159,7 +159,7 @@
     "type": "winner",
     "score": 86.15,
     "price": 109.98,
-    "bsr": 9999999,
+    "bsr": 11951,
     "image_url": "https://m.media-amazon.com/images/I/81T7qlyeXoL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF7XD1XC",
     "walmart_url": "https://www.walmart.com/search?q=1296P+HD+7.2%27%27+Magnetic+Wireless+Backup+Camera+for+Trucks+Cl"
@@ -594,17 +594,6 @@
     "walmart_url": "https://www.walmart.com/search?q=2027+New+Wall+Mounted+Air+Conditioner%2C+1800W+Ductless+Portab"
   },
   {
-    "asin": "B0HH8G5N4Q",
-    "title": "AUTO-VOX Wireless RV Backup Camera System,Dual Lens Rear and Side Coverage",
-    "type": "winner",
-    "score": 82.45,
-    "price": 319.99,
-    "bsr": 12557,
-    "image_url": "https://m.media-amazon.com/images/I/71t-DUyO6cL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH8G5N4Q",
-    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Wireless+RV+Backup+Camera+System%2CDual+Lens+Rear+and"
-  },
-  {
     "asin": "B0H1Q4CX8C",
     "title": "12V 12000 BTU Split Truck Air Conditioner, Super Quiet Fast Cooling DC Parking AC for Semi Truck, RV, Camper, Construction Ve",
     "type": "winner",
@@ -858,6 +847,17 @@
     "walmart_url": "https://www.walmart.com/search?q=SnapPad+SnapJack%C2%AE+TC+Truck+Camper+Jack+Pad+%E2%80%93+for+HappiJac+Le"
   },
   {
+    "asin": "B0HH8G5N4Q",
+    "title": "AUTO-VOX Wireless RV Backup Camera System,Dual Lens Rear and Side Coverage",
+    "type": "winner",
+    "score": 80.6,
+    "price": 319.99,
+    "bsr": 11819,
+    "image_url": "https://m.media-amazon.com/images/I/71t-DUyO6cL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH8G5N4Q",
+    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Wireless+RV+Backup+Camera+System%2CDual+Lens+Rear+and"
+  },
+  {
     "asin": "B0H8XZYCK4",
     "title": "2026 Upgrade Portable Car Fan,Clip‑on/Hang/Stand 3D Circulating Air Car Cooler with LED Display,USB Quiet Vehicle Fan for SUV Truck RV,Ideal Summer Gift for Drivers(built-in battery)",
     "type": "winner",
@@ -1067,6 +1067,28 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Slide-Out+Mouse+Guard+Compatible+with+Lippert%2C+Fits+1.75+"
   },
   {
+    "asin": "B0H8YK61ZQ",
+    "title": "Starlink Mini Cable 16.4FT, 18AWG Retractable DC Starlink Mini Power Cable",
+    "type": "should_test",
+    "score": 79.75,
+    "price": 29.99,
+    "bsr": 24468,
+    "image_url": "https://m.media-amazon.com/images/I/71GDuijJX+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8YK61ZQ",
+    "walmart_url": "https://www.walmart.com/search?q=Starlink+Mini+Cable+16.4FT%2C+18AWG+Retractable+DC+Starlink+Mi"
+  },
+  {
+    "asin": "B0H9R9DYZH",
+    "title": "8PCS Utility RV Master Key Set with Wire Ring CH751 MK9001 G391 R001 CH510",
+    "type": "should_test",
+    "score": 79.7,
+    "price": 8.59,
+    "bsr": 24607,
+    "image_url": "https://m.media-amazon.com/images/I/71oKFTTErXL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9R9DYZH",
+    "walmart_url": "https://www.walmart.com/search?q=8PCS+Utility+RV+Master+Key+Set+with+Wire+Ring+CH751+MK9001+G"
+  },
+  {
     "asin": "B0GWPF46YB",
     "title": "Car Rear View Camera Cover, Waterproof ABS Wider Reversing Camera Shield, Anti-rain Anti-Glare Backup Lens Guard, Self-Adhesive Modification Accessory for Most Cars (Black)",
     "type": "should_test",
@@ -1087,17 +1109,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61YsRDwneZL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBX577L6",
     "walmart_url": "https://www.walmart.com/search?q=12V+RV+Air+Conditioner+Rooftop%2C+Low+Power+AC+Unit+with+Heati"
-  },
-  {
-    "asin": "B0H9R9DYZH",
-    "title": "8PCS Utility RV Master Key Set with Wire Ring CH751 MK9001 G391 R001 CH510",
-    "type": "should_test",
-    "score": 79.45,
-    "price": 8.59,
-    "bsr": 28723,
-    "image_url": "https://m.media-amazon.com/images/I/71oKFTTErXL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9R9DYZH",
-    "walmart_url": "https://www.walmart.com/search?q=8PCS+Utility+RV+Master+Key+Set+with+Wire+Ring+CH751+MK9001+G"
   },
   {
     "asin": "B0GYW2KZ4M",
@@ -2183,7 +2194,7 @@
     "type": "should_test",
     "score": 76.05,
     "price": 26.99,
-    "bsr": 24457,
+    "bsr": 22283,
     "image_url": "https://m.media-amazon.com/images/I/71uqIGTVmdL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1GYXTF6",
     "walmart_url": "https://www.walmart.com/search?q=RV+Exterior+Sprayer+Kit+Without+Port%2C+16.4FT+Coiled+Water+Ho"
@@ -3520,17 +3531,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Federedevo+Leather+RV+Windshield+Cover+for+Rockwood+Geo+Pro+"
   },
   {
-    "asin": "B0H753MWVZ",
-    "title": "Propane Tank Storage Bag for 1lb Cylinders, Holds 6 (Camouflage)",
-    "type": "should_test",
-    "score": 67.95,
-    "price": 21.99,
-    "bsr": 23726,
-    "image_url": "https://m.media-amazon.com/images/I/818w3a3Xr3L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H753MWVZ",
-    "walmart_url": "https://www.walmart.com/search?q=Propane+Tank+Storage+Bag+for+1lb+Cylinders%2C+Holds+6+%28Camoufl"
-  },
-  {
     "asin": "B0H3Z9CG8D",
     "title": "RV I-Beam Stabilizer Heavy-Duty Aluminum Adjustable for 17&quot;-35&quot; Frames | Universal Carbon Steel I-beams, Reduces RV Shaking &amp;",
     "type": "should_test",
@@ -4585,6 +4585,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vS3O7pXUL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6N9B5NL",
     "walmart_url": "https://www.walmart.com/search?q=Arcadia+RV+Shower+Door+Kit%2C+Lightweight+Curved+Enclosure%2C+Oi"
+  },
+  {
+    "asin": "B0H753MWVZ",
+    "title": "Propane Tank Storage Bag for 1lb Cylinders, Holds 6 (Black)",
+    "type": "should_test",
+    "score": 59.75,
+    "price": 21.99,
+    "bsr": 23577,
+    "image_url": "https://m.media-amazon.com/images/I/71xwd4MZItL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H753MWVZ",
+    "walmart_url": "https://www.walmart.com/search?q=Propane+Tank+Storage+Bag+for+1lb+Cylinders%2C+Holds+6+%28Black%29"
   },
   {
     "asin": "B0H6F2MNVW",
@@ -10637,17 +10648,6 @@
     "walmart_url": "https://www.walmart.com/search?q=MSFORSPIRT+Trailer+Cam+Lock+Door+Assembly+Set+of+4%EF%BC%8CReplaceme"
   },
   {
-    "asin": "B0H25TYLLP",
-    "title": "FEELSO Kitchen Faucet with Pull Down Sprayer Stainless Steel Brushed Nickel",
-    "type": "candidate",
-    "score": 39.25,
-    "price": 38.99,
-    "bsr": 23856,
-    "image_url": "https://m.media-amazon.com/images/I/61aPQGl183L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H25TYLLP",
-    "walmart_url": "https://www.walmart.com/search?q=FEELSO+Kitchen+Faucet+with+Pull+Down+Sprayer+Stainless+Steel"
-  },
-  {
     "asin": "B0H6D5M2N9",
     "title": "XPJDTRAAH 5Pcs for Horrex Duo Plisse Catch/Clip for Excellent Window Blinds and Fly Screens Durable Fastener for Caravan Wind",
     "type": "candidate",
@@ -10800,6 +10800,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ekX0H+V5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5ND2KMY",
     "walmart_url": "https://www.walmart.com/search?q=Zxpjkyu+2+Pieces+RV+Awning+Rod+Bracket+Support+Rod+Fixing+Br"
+  },
+  {
+    "asin": "B0H25TYLLP",
+    "title": "FEELSO Kitchen Faucet with Pull Down Sprayer Stainless Steel Brushed Nickel",
+    "type": "candidate",
+    "score": 37.5,
+    "price": 38.99,
+    "bsr": 24706,
+    "image_url": "https://m.media-amazon.com/images/I/61aPQGl183L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H25TYLLP",
+    "walmart_url": "https://www.walmart.com/search?q=FEELSO+Kitchen+Faucet+with+Pull+Down+Sprayer+Stainless+Steel"
   },
   {
     "asin": "B0H5C1V9BF",
@@ -11715,17 +11726,6 @@
     "walmart_url": "https://www.walmart.com/search?q=DREFGH+Compatible+with+CRV+2023-2025+CR-V+6th+Gen+Hybrid+Car"
   },
   {
-    "asin": "B0HBQ9TQ3B",
-    "title": "Rear View Backup Camera Fit for Dodge Challenger 3.6L,5.7L,6.4L 2015-2023",
-    "type": "candidate",
-    "score": 18.25,
-    "price": 30.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/614WgBV5wEL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQ9TQ3B",
-    "walmart_url": "https://www.walmart.com/search?q=Rear+View+Backup+Camera+Fit+for+Dodge+Challenger+3.6L%2C5.7L%2C6"
-  },
-  {
     "asin": "B0H71GNRTQ",
     "title": "2PCS 28156-9FF0A Door Speaker Replaces 281567Z800/28156EA000/28156EA00A",
     "type": "candidate",
@@ -11735,6 +11735,17 @@
     "image_url": "https://m.media-amazon.com/images/I/716spTil-FL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H71GNRTQ",
     "walmart_url": "https://www.walmart.com/search?q=2PCS+28156-9FF0A+Door+Speaker+Replaces+281567Z800%2F28156EA000"
+  },
+  {
+    "asin": "B0HBQ9TQ3B",
+    "title": "Rear View Backup Camera Fit for Dodge Challenger 3.6L,5.7L,6.4L 2015-2023",
+    "type": "candidate",
+    "score": 17.0,
+    "price": 30.99,
+    "bsr": 11999,
+    "image_url": "https://m.media-amazon.com/images/I/614WgBV5wEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQ9TQ3B",
+    "walmart_url": "https://www.walmart.com/search?q=Rear+View+Backup+Camera+Fit+for+Dodge+Challenger+3.6L%2C5.7L%2C6"
   },
   {
     "asin": "B0H7WF24RY",
