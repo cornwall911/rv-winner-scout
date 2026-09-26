@@ -319,17 +319,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Backup+Camera+Wireless+Clear+Picture%3A+Install-Fr"
   },
   {
-    "asin": "B0H8RHH69H",
-    "title": "14&quot; RV Roof Vent Fan, 12V 24V 48V, Smart Temp Humidity, LED, Voice Control",
-    "type": "winner",
-    "score": 83.75,
-    "price": 258.9,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71vfFCvat6L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8RHH69H",
-    "walmart_url": "https://www.walmart.com/search?q=14%22+RV+Roof+Vent+Fan%2C+12V+24V+48V%2C+Smart+Temp+Humidity%2C+LED%2C"
-  },
-  {
     "asin": "B0H2ZTJMZ8",
     "title": "Veritas Vans Starlink Mount Magnet Attachment (4 Pack) | Magnetic Feet for RV, Van, Truck &amp; Camping Setups",
     "type": "winner",
@@ -1010,6 +999,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71OAmOGYvKL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGRDPTB4",
     "walmart_url": "https://www.walmart.com/search?q=BJTDLLX+12V+Air+Conditioner%2C+Mini+Split+12V+AC+Unit+for+RV+T"
+  },
+  {
+    "asin": "B0H8RHH69H",
+    "title": "14&quot; RV Roof Vent Fan, 12V 24V 48V, Smart Temp Humidity, LED, Voice Control | 14x14 Thermostat, Air Quality Sensing, Shade &amp; S",
+    "type": "should_test",
+    "score": 79.95,
+    "price": 258.9,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vfFCvat6L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8RHH69H",
+    "walmart_url": "https://www.walmart.com/search?q=14%22+RV+Roof+Vent+Fan%2C+12V+24V+48V%2C+Smart+Temp+Humidity%2C+LED%2C"
   },
   {
     "asin": "B0H4W8F84N",
@@ -4895,17 +4895,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Mirror+Covers+for+Class+A+Motorhomes%2C+7-Layer+Insulated+%7C"
   },
   {
-    "asin": "B0H7H16JBF",
-    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
-    "type": "should_test",
-    "score": 58.75,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
-    "walmart_url": "https://www.walmart.com/search?q=14+Inch+RV+Roof+Vent+Cover%2C+No+Drilling+Aerodynamic+Weatherp"
-  },
-  {
     "asin": "B0H7X5TP51",
     "title": "WF-8955-AD-MBA 55A RV Power Converter Board Auto Detect WF-8955 | ALVOTREX 55A auto-detect RV converter board for WF-8955/WF-",
     "type": "should_test",
@@ -6413,6 +6402,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Screen+Door+Latch+%28Right+Hand%29Universal+Handle+Replacemen"
   },
   {
+    "asin": "B0H1LHLG4F",
+    "title": "PIHIL 3313107.015 Rv Air Conditioner Fan Blade | Compatible with Dometic Brisk and Duo-Therm AC Series, Replaces 3313107.0150",
+    "type": "should_test",
+    "score": 52.5,
+    "price": 17.59,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/615TwmdQFwL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1LHLG4F",
+    "walmart_url": "https://www.walmart.com/search?q=PIHIL+3313107.015+Rv+Air+Conditioner+Fan+Blade+%7C+Compatible+"
+  },
+  {
     "asin": "B0H2NSGLT6",
     "title": "PRO Flex RV Flexible Sealant 10 oz Cartridge Waterproof Flexible RV Roof and Exterior Sealant for EPDM TPO Metal Fiberglass Vinyl and Aluminum 4 Pack (Translucent)",
     "type": "should_test",
@@ -6763,6 +6763,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Ru1x-KWXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYHKJYTP",
     "walmart_url": "https://www.walmart.com/search?q=LUHLEE+RV+Magnetic+Solar+Lights+Outdoor%2C+231+LED+Wide+Angle+"
+  },
+  {
+    "asin": "B0H7H16JBF",
+    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
+    "type": "candidate",
+    "score": 57.5,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
+    "walmart_url": "https://www.walmart.com/search?q=14+Inch+RV+Roof+Vent+Cover%2C+No+Drilling+Aerodynamic+Weatherp"
   },
   {
     "asin": "B0GYWTJ61B",
@@ -7962,17 +7973,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71G8sZXqrUL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H46N65XL",
     "walmart_url": "https://www.walmart.com/search?q=7+Pin+Trailer+Wiring+Harness%2C+7+Way+%26+4+Flat+Hitch+Receptacl"
-  },
-  {
-    "asin": "B0H1LHLG4F",
-    "title": "3313107.015 Rv Air Conditioner Fan Blade",
-    "type": "candidate",
-    "score": 51.5,
-    "price": 17.59,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/615TwmdQFwL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1LHLG4F",
-    "walmart_url": "https://www.walmart.com/search?q=3313107.015+Rv+Air+Conditioner+Fan+Blade"
   },
   {
     "asin": "B0H14XZRQM",
@@ -9392,17 +9392,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/612uQ+CNKrL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9WQGV28",
     "walmart_url": "https://www.walmart.com/search?q=FOCSPROD+Update+Adhesive+RV+Shower+Corner+Storage+Bar%2C+2+Pac"
-  },
-  {
-    "asin": "B0H6RZ7BXJ",
-    "title": "YQSIYU 3-Pack 6.5&quot; RV Ceiling Vent Covers, Fits 4-5/8&quot; Ducts, White | Durable vent covers for RV air conditioning. Fit 4-5/8&quot;",
-    "type": "candidate",
-    "score": 46.0,
-    "price": 14.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/510hwiYun1L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6RZ7BXJ",
-    "walmart_url": "https://www.walmart.com/search?q=YQSIYU+3-Pack+6.5%22+RV+Ceiling+Vent+Covers%2C+Fits+4-5%2F8%22+Ducts"
   },
   {
     "asin": "B0GZKRFJL2",
@@ -10921,6 +10910,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71-MPF1JvML._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6JQGJPJ",
     "walmart_url": "https://www.walmart.com/search?q=Worcest+Safety+RV+Steps+Stool%2C+Folding+Adjustable+Step+Stool"
+  },
+  {
+    "asin": "B0H6RZ7BXJ",
+    "title": "YQSIYU 3-Pack 6.5&quot; RV Ceiling Vent Covers, Fits 4-5/8&quot; Ducts, White | Durable vent covers for RV air conditioning. Fit 4-5/8&quot;",
+    "type": "candidate",
+    "score": 38.0,
+    "price": 14.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/510hwiYun1L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6RZ7BXJ",
+    "walmart_url": "https://www.walmart.com/search?q=YQSIYU+3-Pack+6.5%22+RV+Ceiling+Vent+Covers%2C+Fits+4-5%2F8%22+Ducts"
   },
   {
     "asin": "B0H4R2MDJL",
