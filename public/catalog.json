@@ -572,6 +572,17 @@
     "walmart_url": "https://www.walmart.com/search?q=YIMXIEM+RV+AC+Airflow+Diverter%2CDucted+RV+Air+Conditioner+Air"
   },
   {
+    "asin": "B0H4Y9PHXM",
+    "title": "ALDERVIC 12V RV Macerator Pump, 15 GPM RV Waste Water Sewer Pump with Quick Release &amp; Garden Hose Discharge Port, 9.8 ft Max",
+    "type": "winner",
+    "score": 82.65,
+    "price": 69.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81OQHdNz38L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4Y9PHXM",
+    "walmart_url": "https://www.walmart.com/search?q=ALDERVIC+12V+RV+Macerator+Pump%2C+15+GPM+RV+Waste+Water+Sewer+"
+  },
+  {
     "asin": "B0H53PP6PN",
     "title": "TaleBoy Soft Start for RV air conditioners Reduces Startup Current by up to 75%, Saving Battery Power. Compatible with 120V-2",
     "type": "winner",
@@ -867,17 +878,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71Wq120Z-KL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDCP8KJL",
     "walmart_url": "https://www.walmart.com/search?q=SUPAREE+218+LED+Magnetic+RV+Solar+Light%2C+800LM+RV+Lights+Ext"
-  },
-  {
-    "asin": "B0H4Y9PHXM",
-    "title": "ALDERVIC 12V RV Macerator Pump, 15 GPM RV Waste Water Sewer Pump with Quick Release &amp; Garden Hose Discharge Port, 9.8 ft Max",
-    "type": "winner",
-    "score": 80.5,
-    "price": 69.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81OQHdNz38L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4Y9PHXM",
-    "walmart_url": "https://www.walmart.com/search?q=ALDERVIC+12V+RV+Macerator+Pump%2C+15+GPM+RV+Waste+Water+Sewer+"
   },
   {
     "asin": "B0H85Y52DP",
@@ -3630,17 +3630,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+1LB+Propane+Tank+Holder%2C+Dual-Function+Cylinder+Mou"
   },
   {
-    "asin": "B0H4FCSV61",
-    "title": "RV Water Inlet Funnel 4&quot; Wide Mouth 3D Printed Funnel for1¼&#x27;&#x27; Inlets, Black | Hands Free Screw On Cam Lock Design Funnel for",
-    "type": "should_test",
-    "score": 67.75,
-    "price": 16.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WDIe0i6-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4FCSV61",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Water+Inlet+Funnel+4%22+Wide+Mouth+3D+Printed+Funnel+for1%C2%BC%27"
-  },
-  {
     "asin": "B0HG98RC4R",
     "title": "UNIONLUX RV Stabilizer Upgraded Super Heavy Duty, Reduces RV Wobble &amp; Sway, Adjustable Shape of Load-Bearing Structure, Adjus",
     "type": "should_test",
@@ -3683,6 +3672,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71VSeRBhm0L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H758394K",
     "walmart_url": "https://www.walmart.com/search?q=Foldable+Car+Back+Seat+Extender+for+Sleeping%2C+Rear+Seat+Matt"
+  },
+  {
+    "asin": "B0H4FCSV61",
+    "title": "RV Water Inlet Funnel 4&quot; Wide Mouth 3D Printed Funnel for1¼&#x27;&#x27; Inlets, Black | Hands Free Screw On Cam Lock Design Funnel for",
+    "type": "should_test",
+    "score": 67.5,
+    "price": 16.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WDIe0i6-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4FCSV61",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Water+Inlet+Funnel+4%22+Wide+Mouth+3D+Printed+Funnel+for1%C2%BC%27"
   },
   {
     "asin": "B0HBWML2BM",
