@@ -11,17 +11,6 @@
     "walmart_url": "https://www.walmart.com/search?q=26800mAh+Wireless+RV+Backup+Camera+Magnetic+1-Min+Easy+Insta"
   },
   {
-    "asin": "B0GYNY421Z",
-    "title": "7&quot; Solar Wireless Magnetic Backup Camera, 1-Min Install-Free | Anti-Glare Monitor, No Wiring, Scratch-Proof Rear View Camera,",
-    "type": "winner",
-    "score": 89.25,
-    "price": 124.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VLRlW20bL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GYNY421Z",
-    "walmart_url": "https://www.walmart.com/search?q=7%22+Solar+Wireless+Magnetic+Backup+Camera%2C+1-Min+Install-Free"
-  },
-  {
     "asin": "B0H3T497ZD",
     "title": "VEKOOTO KS7Pro Magnetic Solar Wireless Backup Camera, 7 Inch Monitor | License Plate Mount in 3 Minutes, 5000 mAh Battery, IP",
     "type": "winner",
@@ -66,6 +55,17 @@
     "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+2+Solar+Wireless+Backup+Cameras%3A+6%22+Split+Screen+fo"
   },
   {
+    "asin": "B0GYNY421Z",
+    "title": "7&quot; Solar Wireless Magnetic Backup Camera, 1-Min Install-Free | Anti-Glare Monitor, No Wiring, Scratch-Proof Rear View Camera,",
+    "type": "winner",
+    "score": 87.7,
+    "price": 124.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VLRlW20bL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GYNY421Z",
+    "walmart_url": "https://www.walmart.com/search?q=7%22+Solar+Wireless+Magnetic+Backup+Camera%2C+1-Min+Install-Free"
+  },
+  {
     "asin": "B0H4YSW5NQ",
     "title": "RV Door Lock with Fingerprint Unlock and 0–9 Numeric Keypad",
     "type": "winner",
@@ -75,17 +75,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61kXmQKvQtL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4YSW5NQ",
     "walmart_url": "https://www.walmart.com/search?q=RV+Door+Lock+with+Fingerprint+Unlock+and+0%E2%80%939+Numeric+Keypad"
-  },
-  {
-    "asin": "B0H695SHXG",
-    "title": "Venluna Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install | 15000mAh Solar Battery, 5” 1080P Monitor, 500ft Wi",
-    "type": "winner",
-    "score": 87.25,
-    "price": 109.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8105IsnmmVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
-    "walmart_url": "https://www.walmart.com/search?q=Venluna+Magnetic+Wireless+Backup+Camera+for+Truck+Trailer%2C+1"
   },
   {
     "asin": "B0H28WH54Z",
@@ -108,6 +97,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71tf8CiNoqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GS5914FR",
     "walmart_url": "https://www.walmart.com/search?q=1080P+Strong+Magnetic+Wireless+Backup+Camera+for+RV+Trailer+"
+  },
+  {
+    "asin": "B0H695SHXG",
+    "title": "Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install",
+    "type": "winner",
+    "score": 86.6,
+    "price": 109.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/8105IsnmmVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
+    "walmart_url": "https://www.walmart.com/search?q=Magnetic+Wireless+Backup+Camera+for+Truck+Trailer%2C+1-Min+Ins"
   },
   {
     "asin": "B0H748Y253",
@@ -702,6 +702,17 @@
     "image_url": "https://m.media-amazon.com/images/I/818IJFdNbqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZ3BWJZN",
     "walmart_url": "https://www.walmart.com/search?q=Jumyee+RV+Screen+Door+Curtain%2C+Magnetic+Camper+Door+Mesh+31."
+  },
+  {
+    "asin": "B0GZ2RS58N",
+    "title": "118dB Car Alarm, Magnetic Wireless Remote Anti Theft Vibration Car Alarm",
+    "type": "winner",
+    "score": 82.0,
+    "price": 36.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/716F1UA5s5L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZ2RS58N",
+    "walmart_url": "https://www.walmart.com/search?q=118dB+Car+Alarm%2C+Magnetic+Wireless+Remote+Anti+Theft+Vibrati"
   },
   {
     "asin": "B0HFWPS5JM",
@@ -1769,6 +1780,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61I9ZiCeTZL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYK3SZXK",
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Screen+Door%2C+Mosquito+Net+Mesh+Curtain+for+Campe"
+  },
+  {
+    "asin": "B0H49BH23W",
+    "title": "Zpana 2PCS Car Camera Lens Protector, Clear Backup Camera Cover | Transparency 360° Panoramic Rearview Camera Rain Guard Cove",
+    "type": "should_test",
+    "score": 77.55,
+    "price": 3.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61A4ibk23mL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H49BH23W",
+    "walmart_url": "https://www.walmart.com/search?q=Zpana+2PCS+Car+Camera+Lens+Protector%2C+Clear+Backup+Camera+Co"
   },
   {
     "asin": "B0H8MRZ45T",
@@ -9911,17 +9933,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Maqulae+RV+LED+Porch+Light+RV+Awning+Light+Awning+LED+3+Colo"
   },
   {
-    "asin": "B0H3KPS5QF",
-    "title": "RV Water Heater Door Latch for Camper Trailer &amp; Gas Bottle Covers, 2 Pack | Anti-rust Stainless steel twist cam latch stops l",
-    "type": "candidate",
-    "score": 45.5,
-    "price": 6.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DEglItDmL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3KPS5QF",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Water+Heater+Door+Latch+for+Camper+Trailer+%26+Gas+Bottle+C"
-  },
-  {
     "asin": "B0H9NZNYXZ",
     "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
     "type": "candidate",
@@ -10340,6 +10351,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Floor+Vent+Cover+2+Pack%2C+Magnetic+RV+Vent+Register+2%22x10%22"
   },
   {
+    "asin": "B0H3KPS5QF",
+    "title": "RV Water Heater Door Latch for Camper Trailer &amp; Gas Bottle Covers, 2 Pack | Anti-rust Stainless steel twist cam latch stops l",
+    "type": "candidate",
+    "score": 43.5,
+    "price": 6.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DEglItDmL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3KPS5QF",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Water+Heater+Door+Latch+for+Camper+Trailer+%26+Gas+Bottle+C"
+  },
+  {
     "asin": "B0H69D6WM1",
     "title": "1.25&quot; Fresh Water Fill Hose 5FT, RV Concession Tank Hose for Marine/Camper | Transports Fresh Water; Fits RV, Boats, Campers,",
     "type": "candidate",
@@ -10393,6 +10415,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/719tFU+jkGL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3PFDH5T",
     "walmart_url": "https://www.walmart.com/search?q=BMKCT+Aluminum+RV+Floor+Vent+Cover+Register+with+Removable+C"
+  },
+  {
+    "asin": "B0H1MDDWXB",
+    "title": "Backup Camera Carbon Fiber Coated Housing AHD 4k with Nylon Braided Wire: 170 Degree Wide Angle License Plate Backup Camera with Excellent Night Vision and IP68 Waterproof for Car SUV Truck",
+    "type": "candidate",
+    "score": 43.25,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71RTitgcoNL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1MDDWXB",
+    "walmart_url": "https://www.walmart.com/search?q=Backup+Camera+Carbon+Fiber+Coated+Housing+AHD+4k+with+Nylon+"
   },
   {
     "asin": "B0H7X1QS6R",
