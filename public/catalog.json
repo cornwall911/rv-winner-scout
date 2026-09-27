@@ -539,6 +539,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Treeligo+12V+Truck+Air+Conditioner%2C+Mini+Split+AC+Unit%2C+8000"
   },
   {
+    "asin": "B0HDZ5Y71X",
+    "title": "Jackery HomePower 1000 Plus v2 Portable Power Station | 1024Wh LiFePO4 Battery Expandable to 11kWh, 1800W AC / 140W USB-C Out",
+    "type": "winner",
+    "score": 82.7,
+    "price": 669.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61LyEYXaQmL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDZ5Y71X",
+    "walmart_url": "https://www.walmart.com/search?q=Jackery+HomePower+1000+Plus+v2+Portable+Power+Station+%7C+1024"
+  },
+  {
     "asin": "B0H98QYNMZ",
     "title": "12V RV Air Conditioner with Heat 11000 BTU Cooling &amp; 3500 BTU Heating, Low Profile Rooftop AC Unit for Off-Grid Campers Van L",
     "type": "winner",
@@ -1276,17 +1287,6 @@
     "walmart_url": "https://www.walmart.com/search?q=COSTWAY+RV+Window+Air+Conditioner%2C+6500+BTU+Window+AC+Unit+w"
   },
   {
-    "asin": "B0HDZ5Y71X",
-    "title": "Jackery HomePower 1000 Plus v2 Portable Power Station",
-    "type": "should_test",
-    "score": 78.9,
-    "price": 669.0,
-    "bsr": 14899,
-    "image_url": "https://m.media-amazon.com/images/I/61LyEYXaQmL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDZ5Y71X",
-    "walmart_url": "https://www.walmart.com/search?q=Jackery+HomePower+1000+Plus+v2+Portable+Power+Station"
-  },
-  {
     "asin": "B0H1HP71J3",
     "title": "VTOMAN Jump 600X 600W Portable Power Station, 268.8Wh LiFePO4 Battery | 1200W Surge, 2-Hour AC Recharge, 100W USB-C, UPS and",
     "type": "should_test",
@@ -1980,17 +1980,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Gociean+Magnetic+RV+Insulated+Door+Cover+for+Winter%2C+Size+30"
   },
   {
-    "asin": "B0H461MR6P",
-    "title": "2‑in‑1 RV Gravity Fresh Water Fill Funnel, Bayonet Lock Inlet, Black",
-    "type": "should_test",
-    "score": 77.15,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71eieRODEGL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H461MR6P",
-    "walmart_url": "https://www.walmart.com/search?q=2%E2%80%91in%E2%80%911+RV+Gravity+Fresh+Water+Fill+Funnel%2C+Bayonet+Lock+Inle"
-  },
-  {
     "asin": "B0HJ87RYNH",
     "title": "Fuel Cartridge Refill Adapter Compatible with Thermacell | Portable Gas Canister Transfer Filling Tool for Camping, Hiking, a",
     "type": "should_test",
@@ -2321,6 +2310,17 @@
     "walmart_url": "https://www.walmart.com/search?q=3+Pack+RV+Shower+Corner+Storage+Bars%2C+Adjustable+7-13+Inch%2C+"
   },
   {
+    "asin": "B0H72RMLSN",
+    "title": "SEAFLO SFVF-01K Holding Tank Vent Filter Kit with Cartridge, End Pieces, Brackets, Hose Adapters &amp; Screws, Fits 5/8&quot; 16mm, 3/",
+    "type": "should_test",
+    "score": 76.2,
+    "price": 49.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61uqXoqF4zL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H72RMLSN",
+    "walmart_url": "https://www.walmart.com/search?q=SEAFLO+SFVF-01K+Holding+Tank+Vent+Filter+Kit+with+Cartridge%2C"
+  },
+  {
     "asin": "B0HGRDPTB4",
     "title": "12V Air Conditioner, Mini Split 12V AC Unit for RV Truck Trailer",
     "type": "should_test",
@@ -2429,6 +2429,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/616LU9mHytL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9R7HBV8",
     "walmart_url": "https://www.walmart.com/search?q=briidea+2-in-1+RV+Accessories+Gas+Detector+%7C+Dual+UL+Listed+"
+  },
+  {
+    "asin": "B0H8PBXKSD",
+    "title": "RV Water Inlet Funnel 4&quot; Wide Mouth 3D Printed Funnel for1¼&quot; Inlets, Blue",
+    "type": "should_test",
+    "score": 75.95,
+    "price": 16.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71OUL0FvJXL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8PBXKSD",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Water+Inlet+Funnel+4%22+Wide+Mouth+3D+Printed+Funnel+for1%C2%BC%22"
   },
   {
     "asin": "B0GZQ6PTK8",
@@ -3025,6 +3036,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Keiurot+Truck+Bed+Lights+Motion+Sensor+for+RV+Pickup+Camper+"
   },
   {
+    "asin": "B0H2Y3KR6Z",
+    "title": "Upgrade RV Water Heater Anode Rod With Flush Wand Maintenance Kit",
+    "type": "should_test",
+    "score": 72.5,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71DeSWuCOHL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2Y3KR6Z",
+    "walmart_url": "https://www.walmart.com/search?q=Upgrade+RV+Water+Heater+Anode+Rod+With+Flush+Wand+Maintenanc"
+  },
+  {
     "asin": "B0GH4F1XWM",
     "title": "Pure Silicone RV Roof Coating &amp; Leak Repair, No Primer Needed, One Coat, Self-Leveling, Waterproof &amp; UV Resistant for EPDM, TPO, Metal, Fiberglass &amp; Flat Roofs - 4.75 Gallons White",
     "type": "should_test",
@@ -3045,28 +3067,6 @@
     "image_url": "https://m.media-amazon.com/images/I/51zsu1CZr+L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H94KR9HS",
     "walmart_url": "https://www.walmart.com/search?q=2-Pack+RV+Toilet+Seal+for+Dometic+300%2F310%2F320%2F400%2F410%2F420%2C+P"
-  },
-  {
-    "asin": "B0H72RMLSN",
-    "title": "SEAFLO SFVF-01K Holding Tank Vent Filter Kit with Cartridge, End Pieces, Brackets, Hose Adapters &amp; Screws, Fits 5/8&quot; 16mm, 3/",
-    "type": "should_test",
-    "score": 72.4,
-    "price": 49.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61uqXoqF4zL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H72RMLSN",
-    "walmart_url": "https://www.walmart.com/search?q=SEAFLO+SFVF-01K+Holding+Tank+Vent+Filter+Kit+with+Cartridge%2C"
-  },
-  {
-    "asin": "B0GZ2P3FMV",
-    "title": "5.3 Gallon Portable Toilet for Camping, with Detachable Tank, Ideal for Boat, Truck &amp; RV Use, Gray",
-    "type": "should_test",
-    "score": 72.4,
-    "price": 69.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Do66LrDaL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZ2P3FMV",
-    "walmart_url": "https://www.walmart.com/search?q=5.3+Gallon+Portable+Toilet+for+Camping%2C+with+Detachable+Tank"
   },
   {
     "asin": "B0H87BQ6LR",
@@ -4048,6 +4048,17 @@
     "walmart_url": "https://www.walmart.com/search?q=1440P+Crystal+Clear+7.2%22+Backup+Camera+for+Truck+Fast+75FPS+"
   },
   {
+    "asin": "B0H461MR6P",
+    "title": "2‑in‑1 RV Gravity Fresh Water Fill Funnel, Bayonet Lock Inlet, Black | Hands‑Free 4 Inch Wide Mouth Funnel with Replaceable A",
+    "type": "should_test",
+    "score": 67.45,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eieRODEGL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H461MR6P",
+    "walmart_url": "https://www.walmart.com/search?q=2%E2%80%91in%E2%80%911+RV+Gravity+Fresh+Water+Fill+Funnel%2C+Bayonet+Lock+Inle"
+  },
+  {
     "asin": "B0H2CLB19D",
     "title": "sooogd 8 Pack Solar RV Step Lights, IP68 Waterproof Warm White Stair Lights | Auto Dusk-to-Dawn Lighting With Magnetic Pad, A",
     "type": "should_test",
@@ -4200,6 +4211,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FbHUpUrUL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8HF9VH5",
     "walmart_url": "https://www.walmart.com/search?q=Precogni+RV+Propane+Gas+Detector+Replacement+of+%2331011%2C+Hard"
+  },
+  {
+    "asin": "B0GZ2P3FMV",
+    "title": "5.3 Gallon Portable Toilet for Camping, with Detachable Tank, Ideal for Boat, Truck &amp; RV Use, Gray",
+    "type": "should_test",
+    "score": 65.9,
+    "price": 69.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Do66LrDaL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZ2P3FMV",
+    "walmart_url": "https://www.walmart.com/search?q=5.3+Gallon+Portable+Toilet+for+Camping%2C+with+Detachable+Tank"
   },
   {
     "asin": "B0GYW2L6T7",
@@ -4906,6 +4928,17 @@
     "walmart_url": "https://www.walmart.com/search?q=BlueStars+RV+Winterizing+Blowout+Hose+Kit+with+Gauge+and+Val"
   },
   {
+    "asin": "B0HC3J7KGT",
+    "title": "Kadrama RV Tank Rinser, Flush Adapter with Shut-Off Valve, 45-Degree Elbow | Reverse Jet Spray, Clear Elbow View, Swivel 3-In",
+    "type": "should_test",
+    "score": 61.0,
+    "price": 24.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71dHGEjs6ML._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC3J7KGT",
+    "walmart_url": "https://www.walmart.com/search?q=Kadrama+RV+Tank+Rinser%2C+Flush+Adapter+with+Shut-Off+Valve%2C+4"
+  },
+  {
     "asin": "B0H7R63D41",
     "title": "Fluorocarbon Film Butyl Tape 2in x 25ft RV Roof Tape,White",
     "type": "should_test",
@@ -4939,17 +4972,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Underbelly+Repair+Tape+4%22+x+33%27+Waterproof+Permanent+Seal"
   },
   {
-    "asin": "B0H2Y3KR6Z",
-    "title": "Kihermao Upgrade RV Water Heater Anode Rod With Flush Wand Maintenance Kit | 2Pcs Magnesium Anode Rod, 9.25&quot;L x 3/4&quot; NPT, Flu",
-    "type": "should_test",
-    "score": 60.75,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DeSWuCOHL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2Y3KR6Z",
-    "walmart_url": "https://www.walmart.com/search?q=Kihermao+Upgrade+RV+Water+Heater+Anode+Rod+With+Flush+Wand+M"
-  },
-  {
     "asin": "B0H2YF9LQ2",
     "title": "wipcowi 2 PCS RV Door Window Shade Cover, Light-Blocking Heat-Insulating Curtain, Heavyweight Windbreak Privacy Window Cover,",
     "type": "should_test",
@@ -4981,6 +5003,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71ZC1D5iw5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
     "walmart_url": "https://www.walmart.com/search?q=MECMO+NEMA+L14-30P+to+14-50R+RV+Generator+Adapter%2C+Twist+Loc"
+  },
+  {
+    "asin": "B0H97J471W",
+    "title": "5-IN-1 RV Water Heater Anode Rod &amp; Flush Wand Kit Compatible with Suburban | Includes Water Heater Flush Kit, 2pack 9.25&quot;L x",
+    "type": "should_test",
+    "score": 60.75,
+    "price": 17.89,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DJI2DzshL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H97J471W",
+    "walmart_url": "https://www.walmart.com/search?q=5-IN-1+RV+Water+Heater+Anode+Rod+%26+Flush+Wand+Kit+Compatible"
   },
   {
     "asin": "B0H7PND9ZT",
@@ -5236,6 +5269,17 @@
     "walmart_url": "https://www.walmart.com/search?q=1%22+RV+Trim+Molding+Insert%2C+30+FT+Heavy+Duty+RV+TPE+Trim+Mold"
   },
   {
+    "asin": "B0H3JGKWHT",
+    "title": "H&amp;G Lifestyles Iron Filter for Garden Hose, RV Water Filter for Well Water | RV Iron Water Filter for RV Campers, Remove Chlo",
+    "type": "should_test",
+    "score": 59.75,
+    "price": 24.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61AvJildVrL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3JGKWHT",
+    "walmart_url": "https://www.walmart.com/search?q=H%26G+Lifestyles+Iron+Filter+for+Garden+Hose%2C+RV+Water+Filter+"
+  },
+  {
     "asin": "B0HHSC6JXS",
     "title": "12V DC RV Gas Detection Unit, 31011 Replacement, Flush Mount, Black",
     "type": "should_test",
@@ -5487,17 +5531,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61-DoqzTcwL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHJMLGH4",
     "walmart_url": "https://www.walmart.com/search?q=Roof+Vent+Adapter+Compatible+with+Ford+Transit+Van"
-  },
-  {
-    "asin": "B0H3JGKWHT",
-    "title": "H&amp;G Lifestyles Iron Filter for Garden Hose, RV Water Filter for Well Water | RV Iron Water Filter for RV Campers, Remove Chlo",
-    "type": "should_test",
-    "score": 58.5,
-    "price": 24.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61AvJildVrL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3JGKWHT",
-    "walmart_url": "https://www.walmart.com/search?q=H%26G+Lifestyles+Iron+Filter+for+Garden+Hose%2C+RV+Water+Filter+"
   },
   {
     "asin": "B0H7XDW5C1",
@@ -5806,6 +5839,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LyRBkBqtL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4JJCH7K",
     "walmart_url": "https://www.walmart.com/search?q=MOLLOR+2-Part+RV+Roof+Coating+Kit%2C+White%2C+Coating+%26+Primer+1"
+  },
+  {
+    "asin": "B0GZNVXNM3",
+    "title": "VEVOR RV Water Filter System, 0.5-Micron Premium RV Water Filtration System Replacement with Cartridge and Mounting Bracket f",
+    "type": "should_test",
+    "score": 57.5,
+    "price": 68.38,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61hiJEgjmpL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZNVXNM3",
+    "walmart_url": "https://www.walmart.com/search?q=VEVOR+RV+Water+Filter+System%2C+0.5-Micron+Premium+RV+Water+Fi"
   },
   {
     "asin": "B0HGFM474B",
@@ -6567,6 +6611,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Pluvane+RV+Roof+Coating+1.1+Gal+%E2%80%93+Silicone+Waterproof+Sealan"
   },
   {
+    "asin": "B0H7X1QS6R",
+    "title": "ONTISIV RV Vacuum Breaker Check Valve, Compatible with 571-VAC-CHK-A | 1/2&quot; NPT Male Threads, Anti-Siphon Valve for RVs, Repl",
+    "type": "should_test",
+    "score": 55.25,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CE3-P-ORL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7X1QS6R",
+    "walmart_url": "https://www.walmart.com/search?q=ONTISIV+RV+Vacuum+Breaker+Check+Valve%2C+Compatible+with+571-V"
+  },
+  {
     "asin": "B0GYJDMK18",
     "title": "﻿5-Gallon Fuel Tank Rack, sturdy four-way support and locking strap",
     "type": "should_test",
@@ -7183,17 +7238,6 @@
     "walmart_url": "https://www.walmart.com/search?q=AmeriSeal+Foam+Core+Butyl+Seal+Tape%2C+Leak-Proof+Weatherproof"
   },
   {
-    "asin": "B0H1QN8353",
-    "title": "Dreyoo 2 Pack RV Sewer Hose Replacement Hatch Door Cover, RV Hatch Door | Compatible with D&amp;W Super Tube &amp; Slider, Replacemen",
-    "type": "should_test",
-    "score": 50.75,
-    "price": 11.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/817or8SpGKL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1QN8353",
-    "walmart_url": "https://www.walmart.com/search?q=Dreyoo+2+Pack+RV+Sewer+Hose+Replacement+Hatch+Door+Cover%2C+RV"
-  },
-  {
     "asin": "B0HG13D3MX",
     "title": "Spqnzon 3313107.015 RV AC Condenser Fan Blade for Dometic | Fits Duo-Therm Brisk Air Series, Replaces 3107914.008, 317937.000",
     "type": "should_test",
@@ -7346,17 +7390,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71TG8-7faOL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZYZSV6X",
     "walmart_url": "https://www.walmart.com/search?q=RV+Flag+Pole+Mount+Dual+Holder+for+Trailer+Jack+Fits+2%22+%26+2-"
-  },
-  {
-    "asin": "B0H5JGJN9K",
-    "title": "Rv Fresh Water Fill Adapter - Rapidly Fills Tanks &amp; Stops Line Backflow | RV Water Tank Filler with Shutoff Valve -Quick RV G",
-    "type": "candidate",
-    "score": 58.75,
-    "price": 5.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51mkRpoNniL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5JGJN9K",
-    "walmart_url": "https://www.walmart.com/search?q=Rv+Fresh+Water+Fill+Adapter+-+Rapidly+Fills+Tanks+%26+Stops+Li"
   },
   {
     "asin": "B0H5BCGW4R",
@@ -7632,17 +7665,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/514jRbYpXsL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYZ3JSJP",
     "walmart_url": "https://www.walmart.com/search?q=YIPONYT+2%2F3%2F4+Step+RV+Scissor+Stairs%2C+17%22+Wide+Aluminum+Fold"
-  },
-  {
-    "asin": "B0H5VVGWJT",
-    "title": "RV Toilet Flush Foot Pedal Upgrade - Compatible with Dometic 300/310/320/321 Series &amp; Lippert Flow Max, Heavy-Duty Injection-",
-    "type": "candidate",
-    "score": 56.25,
-    "price": 25.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sxTmsvTxL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5VVGWJT",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Toilet+Flush+Foot+Pedal+Upgrade+-+Compatible+with+Dometic"
   },
   {
     "asin": "B0H71CFWTT",
@@ -8019,6 +8041,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Toldear+RV+Air+Conditioner+Cover%2C+Waterproof+600D+Oxford+Cam"
   },
   {
+    "asin": "B0H5VVGWJT",
+    "title": "RV Toilet Flush Foot Pedal Upgrade - Compatible with Dometic 300/310/320/321 Series &amp; Lippert Flow Max, Heavy-Duty Injection-",
+    "type": "candidate",
+    "score": 54.5,
+    "price": 25.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sxTmsvTxL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5VVGWJT",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Toilet+Flush+Foot+Pedal+Upgrade+-+Compatible+with+Dometic"
+  },
+  {
     "asin": "B0H691FLZZ",
     "title": "XIHIRCD 13 Pack RV Flying Insect Screen Mount Spring Fastener A10-1370VP Springs Kit | RV Flying Insect Screen Mount Spring Kit Springs &amp; Tool for 5th Wheel Trailer Bug Vent Cover Mesh Basket Furnace",
     "type": "candidate",
@@ -8338,6 +8371,17 @@
     "walmart_url": "https://www.walmart.com/search?q=DUTTIETY+1+Step+Manual+Retractable+RV+Steps+with+Light+Non-S"
   },
   {
+    "asin": "B0H38ZSWMJ",
+    "title": "2026 Upgraded RV MANRV101-RF RV Water Service Panel, 4-Function 3-Position Heavy-Duty Brass Valve for City Water, Dry Camping",
+    "type": "candidate",
+    "score": 53.75,
+    "price": 139.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DJXfsYmoL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H38ZSWMJ",
+    "walmart_url": "https://www.walmart.com/search?q=2026+Upgraded+RV+MANRV101-RF+RV+Water+Service+Panel%2C+4-Funct"
+  },
+  {
     "asin": "B0H6LYS2RW",
     "title": "RV Roof AC Cover 600D Fits Coleman Mach RecPro TOSOT Winter | 600D Oxford Cloth Fits RecPro, TOSOT, FOGATTI 16K,RVs Air Condi",
     "type": "candidate",
@@ -8382,15 +8426,15 @@
     "walmart_url": "https://www.walmart.com/search?q=3314082.000+RV+Thermostat+Fit+for+Dometic+CCC2"
   },
   {
-    "asin": "B0H2W4KJ8F",
-    "title": "Vickmons 2 Pack 2.5 x 10 RV Water Filter Replaces FRE-10-GN Activated Carbon Block Push-Nipple Cartridge Compatible with Pro",
+    "asin": "B0H5JGJN9K",
+    "title": "Rv Fresh Water Fill Adapter - Rapidly Fills Tanks &amp; Stops Line Backflow | RV Water Tank Filler with Shutoff Valve -Quick RV G",
     "type": "candidate",
     "score": 53.25,
-    "price": 28.99,
+    "price": 5.99,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uVrV5zxkL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2W4KJ8F",
-    "walmart_url": "https://www.walmart.com/search?q=Vickmons+2+Pack+2.5+x+10+RV+Water+Filter+Replaces+FRE-10-GN+"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51mkRpoNniL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5JGJN9K",
+    "walmart_url": "https://www.walmart.com/search?q=Rv+Fresh+Water+Fill+Adapter+-+Rapidly+Fills+Tanks+%26+Stops+Li"
   },
   {
     "asin": "B0H11C6SB8",
@@ -8525,6 +8569,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Terapaton+RV+Shower+Faucet+Set+with+Shower+Bezel%2C+All-Metal+"
   },
   {
+    "asin": "B0H2W4KJ8F",
+    "title": "Vickmons 2 Pack 2.5 x 10 RV Water Filter Replaces FRE-10-GN Activated Carbon Block Push-Nipple Cartridge Compatible with Pro",
+    "type": "candidate",
+    "score": 52.5,
+    "price": 28.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uVrV5zxkL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2W4KJ8F",
+    "walmart_url": "https://www.walmart.com/search?q=Vickmons+2+Pack+2.5+x+10+RV+Water+Filter+Replaces+FRE-10-GN+"
+  },
+  {
     "asin": "B0GZKY1228",
     "title": "Camco Tastepure RV Freshwater Kit - Includes Tastepure RV Water Filter, Flexible Hose Protector, EvoFlex 25&#x27; Drinking Water H",
     "type": "candidate",
@@ -8613,17 +8668,6 @@
     "walmart_url": "https://www.walmart.com/search?q=1156+BA15S+LED+Bulbs%2C+12V+Only+6000K+Daylight+White%2C+1141+P2"
   },
   {
-    "asin": "B0H9XBC213",
-    "title": "RJIALIQF RV Sewer Cap Wrench for RV Camper Motorhome, Black | Fits RV Sewer Cap, Waste Tank Removal Tool Accessories",
-    "type": "candidate",
-    "score": 52.25,
-    "price": 17.39,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61MuwV248-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9XBC213",
-    "walmart_url": "https://www.walmart.com/search?q=RJIALIQF+RV+Sewer+Cap+Wrench+for+RV+Camper+Motorhome%2C+Black+"
-  },
-  {
     "asin": "B0HCZNQMPQ",
     "title": "12V USB Outlet for RV, 3 Port USB Charger Socket with Dual PD 30W and QC3.0 18W Fast Charging, Surface Mount Panel with Switc",
     "type": "candidate",
@@ -8666,6 +8710,28 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vwtvdip4L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7WFX6DD",
     "walmart_url": "https://www.walmart.com/search?q=Jxnaxvp+RV+Step+Cover+Brush+for+Camper+Steps%2C+Durable+Bristl"
+  },
+  {
+    "asin": "B0H4L5M9RS",
+    "title": "RV Sewer Hose Adapter to PVC, 3&quot; Hub x Bayonet Fitting RV Sewer Termination Adapter Kit, Rotating Rigid Pipe Adapter with Bayonet Hooks, ABS RV Waste Outlet Connection for Sewer Hose &amp; Drain Pipe (1)",
+    "type": "candidate",
+    "score": 52.25,
+    "price": 14.59,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61Ls1f4DjTL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4L5M9RS",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Sewer+Hose+Adapter+to+PVC%2C+3%22+Hub+x+Bayonet+Fitting+RV+Se"
+  },
+  {
+    "asin": "B0H9XBC213",
+    "title": "RJIALIQF RV Sewer Cap Wrench for RV Camper Motorhome, Black | Fits RV Sewer Cap, Waste Tank Removal Tool Accessories",
+    "type": "candidate",
+    "score": 52.0,
+    "price": 17.39,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61MuwV248-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9XBC213",
+    "walmart_url": "https://www.walmart.com/search?q=RJIALIQF+RV+Sewer+Cap+Wrench+for+RV+Camper+Motorhome%2C+Black+"
   },
   {
     "asin": "B0H82CWR1Z",
@@ -8853,17 +8919,6 @@
     "image_url": "https://m.media-amazon.com/images/I/615TwmdQFwL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1LHLG4F",
     "walmart_url": "https://www.walmart.com/search?q=3313107.015+Rv+Air+Conditioner+Fan+Blade"
-  },
-  {
-    "asin": "B0H4L5M9RS",
-    "title": "RV Sewer Hose Adapter to PVC, 3&quot; Hub x Bayonet Fitting RV Sewer Termination Adapter Kit, Rotating Rigid Pipe Adapter with Bay",
-    "type": "candidate",
-    "score": 51.5,
-    "price": 14.59,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Ls1f4DjTL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4L5M9RS",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Sewer+Hose+Adapter+to+PVC%2C+3%22+Hub+x+Bayonet+Fitting+RV+Se"
   },
   {
     "asin": "B0H86JGQ3T",
@@ -9139,6 +9194,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71r1yX-Yx5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5L6H9JM",
     "walmart_url": "https://www.walmart.com/search?q=G381+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
+  },
+  {
+    "asin": "B0H2VVBLB9",
+    "title": "3 Pack RV Waste Valve Handle Replacement, RV Black Tank Handle Replacement | Universal Camper Waste Valve Extension Rod Pull",
+    "type": "candidate",
+    "score": 51.0,
+    "price": 9.89,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Pdzgn3jxL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2VVBLB9",
+    "walmart_url": "https://www.walmart.com/search?q=3+Pack+RV+Waste+Valve+Handle+Replacement%2C+RV+Black+Tank+Hand"
   },
   {
     "asin": "B0GS94GCX1",
@@ -9669,6 +9735,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Extension+Cord+100+FT+30+Amp+NEMA+TT-30P+to+TT-30R+Heavy+"
   },
   {
+    "asin": "B0HFHVTH48",
+    "title": "4&quot; Clear RV Sewer Hose Extension Adapter - Odor-Proof &amp; Leak-Proof | Anti-Aging Resin, Leak-Proof &amp; Odor-Proof Waste Valve Co",
+    "type": "candidate",
+    "score": 49.25,
+    "price": 10.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Lv48mUt6L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFHVTH48",
+    "walmart_url": "https://www.walmart.com/search?q=4%22+Clear+RV+Sewer+Hose+Extension+Adapter+-+Odor-Proof+%26+Leak"
+  },
+  {
     "asin": "B0H4JJK738",
     "title": "10 Proseal Wide Tips A Wide Sealant Tip Fits Most Caulk Nozzles. for Most Any RV, Camper, Motorhome, Trailer, or Autobody and Lap Sealants. (Variety Pack, One of Each Size Tip)",
     "type": "candidate",
@@ -9975,17 +10052,6 @@
     "image_url": "https://m.media-amazon.com/images/I/81mYUES74GL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3RZ4R2Z",
     "walmart_url": "https://www.walmart.com/search?q=25+FT+4+Pin+Trailer+Wiring+Harness%EF%BC%8CWaterproof+Trailer+Wiring"
-  },
-  {
-    "asin": "B0H2VVBLB9",
-    "title": "3 Pack RV Waste Valve Handle Replacement, RV Black Tank Handle Replacement",
-    "type": "candidate",
-    "score": 47.75,
-    "price": 9.89,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61Pdzgn3jxL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2VVBLB9",
-    "walmart_url": "https://www.walmart.com/search?q=3+Pack+RV+Waste+Valve+Handle+Replacement%2C+RV+Black+Tank+Hand"
   },
   {
     "asin": "B0H83T93KW",
@@ -10670,6 +10736,17 @@
     "walmart_url": "https://www.walmart.com/search?q=aqxreight+Gas+Tank+Carrying+Handle+Ergonomic+Grip+for+20+30+"
   },
   {
+    "asin": "B0H1QN8353",
+    "title": "Dreyoo 2 Pack RV Sewer Hose Replacement Hatch Door Cover, RV Hatch Door | Compatible with D&amp;W Super Tube &amp; Slider, Replacemen",
+    "type": "candidate",
+    "score": 45.0,
+    "price": 11.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/817or8SpGKL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1QN8353",
+    "walmart_url": "https://www.walmart.com/search?q=Dreyoo+2+Pack+RV+Sewer+Hose+Replacement+Hatch+Door+Cover%2C+RV"
+  },
+  {
     "asin": "B0H25TLM2B",
     "title": "WKZO 7&quot; RV AC Vent Cover 360° Air Dispersion, 2-Pack | White Round 7&quot; Vents for RVs/Vans, 360° Air Dispersion, Non-Closing De",
     "type": "candidate",
@@ -11174,17 +11251,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71RTitgcoNL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1MDDWXB",
     "walmart_url": "https://www.walmart.com/search?q=Backup+Camera+Carbon+Fiber+Coated+Housing+AHD+4k+with+Nylon+"
-  },
-  {
-    "asin": "B0H7X1QS6R",
-    "title": "ONTISIV RV Vacuum Breaker Check Valve, Compatible with 571-VAC-CHK-A | 1/2&quot; NPT Male Threads, Anti-Siphon Valve for RVs, Repl",
-    "type": "candidate",
-    "score": 43.0,
-    "price": 18.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CE3-P-ORL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7X1QS6R",
-    "walmart_url": "https://www.walmart.com/search?q=ONTISIV+RV+Vacuum+Breaker+Check+Valve%2C+Compatible+with+571-V"
   },
   {
     "asin": "B0H6CTWD3L",
@@ -12298,6 +12364,17 @@
     "walmart_url": "https://www.walmart.com/search?q=1-1%2F2%27%27+Fill+Hose+for+RV+Concession+Fresh+Water+Tank+-+With+"
   },
   {
+    "asin": "B0H5B2MC13",
+    "title": "222PW-A RV Fresh Water Fills Cap Replace for RecPro RV Water Tank",
+    "type": "candidate",
+    "score": 37.5,
+    "price": 8.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/41O7G03xucL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5B2MC13",
+    "walmart_url": "https://www.walmart.com/search?q=222PW-A+RV+Fresh+Water+Fills+Cap+Replace+for+RecPro+RV+Water"
+  },
+  {
     "asin": "B0H3Z74GG5",
     "title": "MusixiA 3Pcs Awning Mounting Brackets, Adjustable L-Shaped Mount Brackets",
     "type": "candidate",
@@ -12775,7 +12852,7 @@
     "title": "BCOWPV RV Water Inlet Funnel with 3.94 Inch Wide Mouth, Blue | Hands-free lock-in design, Deep bowl helps reduce splashing, C",
     "type": "candidate",
     "score": 33.5,
-    "price": 7.99,
+    "price": 0.0,
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/510t560uTpL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H867MCJD",
@@ -12857,17 +12934,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HLxGCa4XL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZVXFDXZ",
     "walmart_url": "https://www.walmart.com/search?q=UFDTHCJH+Utility+Trailer+Cover+for+Load+Trail+DS4808+4%27%C3%978%27%2C+"
-  },
-  {
-    "asin": "B0H5B2MC13",
-    "title": "OGGOGOE 222PW-A RV Fresh Water Fills Cap Replace for RecPro RV Water Tank | RV Fresh Water Cap Compatible with A01-2000VP 200",
-    "type": "candidate",
-    "score": 31.25,
-    "price": 8.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41O7G03xucL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5B2MC13",
-    "walmart_url": "https://www.walmart.com/search?q=OGGOGOE+222PW-A+RV+Fresh+Water+Fills+Cap+Replace+for+RecPro+"
   },
   {
     "asin": "B0H13NGQHD",
