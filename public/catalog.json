@@ -93,7 +93,7 @@
     "type": "winner",
     "score": 86.75,
     "price": 129.99,
-    "bsr": 8691,
+    "bsr": 8958,
     "image_url": "https://m.media-amazon.com/images/I/71tf8CiNoqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GS5914FR",
     "walmart_url": "https://www.walmart.com/search?q=1080P+Strong+Magnetic+Wireless+Backup+Camera+for+RV+Trailer+"
@@ -2574,17 +2574,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Washing+Partner+For+Sink%2C+Travel+Washing+Machine+%26+Sink+Dish"
   },
   {
-    "asin": "B0H6HK6QQT",
-    "title": "50 Amp RV Surge Protector with Circuit Analyzer: 20000J Surge Protection, Auto Power Disconnect, Real-Time Voltage Display &amp; Overheat Protection for RV Campers and Campgrounds",
-    "type": "should_test",
-    "score": 74.85,
-    "price": 55.99,
-    "bsr": 25178,
-    "image_url": "https://m.media-amazon.com/images/I/71iLPWog+2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6HK6QQT",
-    "walmart_url": "https://www.walmart.com/search?q=50+Amp+RV+Surge+Protector+with+Circuit+Analyzer%3A+20000J+Surg"
-  },
-  {
     "asin": "B0H8SJMNVP",
     "title": "Kadrama RV Tension Rods, Adjustable Cabinet Rods 12-19.5 in, 6 Pack | Non-Slip Rubber Ends, Tool-Free Setup, Metal Constructi",
     "type": "should_test",
@@ -2715,6 +2704,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zCdFmFA5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1PLKC66",
     "walmart_url": "https://www.walmart.com/search?q=RV+Magnetic+Screen+Door+with+Hook%2C+Screen+Door+Protector+for"
+  },
+  {
+    "asin": "B0H6HK6QQT",
+    "title": "50 Amp RV Surge Protector with Circuit Analyzer: 20000J Surge Protection, Auto Power Disconnect, Real-Time Voltage Display &amp; Overheat Protection for RV Campers and Campgrounds",
+    "type": "should_test",
+    "score": 73.75,
+    "price": 55.99,
+    "bsr": 14955,
+    "image_url": "https://m.media-amazon.com/images/I/71iLPWog+2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6HK6QQT",
+    "walmart_url": "https://www.walmart.com/search?q=50+Amp+RV+Surge+Protector+with+Circuit+Analyzer%3A+20000J+Surg"
   },
   {
     "asin": "B0H1MZPMTD",
@@ -3069,17 +3069,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Kistrba+Corner+Cut+RV+Mattress%2C+74%22+x+51%22+with+21%22+Right+Lef"
   },
   {
-    "asin": "B0H38QWVN5",
-    "title": "RV Surge Protector 30 amp, 13000J Surge Protection",
-    "type": "should_test",
-    "score": 71.25,
-    "price": 29.99,
-    "bsr": 11221,
-    "image_url": "https://m.media-amazon.com/images/I/61SH95wqMRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H38QWVN5",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Surge+Protector+30+amp%2C+13000J+Surge+Protection"
-  },
-  {
     "asin": "B0GZTX6D53",
     "title": "RV Stabilizer, Telescopic Adjustable, Fits 2In Trailer Receiver, Anti-Sway | Fits standard 2in hitch, built-in 2&quot; receiver, e",
     "type": "should_test",
@@ -3122,6 +3111,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71Ijlqszu1L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF7CSL83",
     "walmart_url": "https://www.walmart.com/search?q=SYLVOX+24+Inch+Smart+RV+TV%2C+12V+DC+TV+for+Camper+Truck%2C+1080"
+  },
+  {
+    "asin": "B0H38QWVN5",
+    "title": "RV Surge Protector 30 amp, 13000J Surge Protection",
+    "type": "should_test",
+    "score": 71.0,
+    "price": 29.99,
+    "bsr": 13573,
+    "image_url": "https://m.media-amazon.com/images/I/61SH95wqMRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H38QWVN5",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Surge+Protector+30+amp%2C+13000J+Surge+Protection"
   },
   {
     "asin": "B0HJ2F2Y18",
@@ -4867,7 +4867,7 @@
     "type": "should_test",
     "score": 60.75,
     "price": 19.99,
-    "bsr": 14822,
+    "bsr": 16492,
     "image_url": "https://m.media-amazon.com/images/I/71ZC1D5iw5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
     "walmart_url": "https://www.walmart.com/search?q=MECMO+NEMA+L14-30P+to+14-50R+RV+Generator+Adapter%2C+Twist+Loc"
@@ -5703,7 +5703,7 @@
     "type": "should_test",
     "score": 57.25,
     "price": 119.69,
-    "bsr": 15496,
+    "bsr": 14304,
     "image_url": "https://m.media-amazon.com/images/I/71qOaJDj1NL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1BG1W7D",
     "walmart_url": "https://www.walmart.com/search?q=Adjustable+Trailer+Hitch+for+2.5%22+Receiver%2C+6+in+Drop%2FRise%2C+"
@@ -7249,6 +7249,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin+Lock+with+5+Anti-Rattle+O-Rings"
   },
   {
+    "asin": "B0HDBH5TSN",
+    "title": "Trailer Hitch Pin Lock, 5/8&quot; Dia Locking Hitch Pin",
+    "type": "candidate",
+    "score": 58.5,
+    "price": 3.99,
+    "bsr": 14215,
+    "image_url": "https://m.media-amazon.com/images/I/7140sGP-BIL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDBH5TSN",
+    "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin+Lock%2C+5%2F8%22+Dia+Locking+Hitch+Pin"
+  },
+  {
     "asin": "B0H8D174BV",
     "title": "Adjustable 6.5&quot; RV Ceiling Vent Air Covers Replacement Fits 4-5/8&quot; AC Ducts",
     "type": "candidate",
@@ -7489,6 +7500,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81NJ8DYnhXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H71CFWTT",
     "walmart_url": "https://www.walmart.com/search?q=Portable+Sink+for+Camping+With+2x15L+Foldable+Water+Bag%2C+Out"
+  },
+  {
+    "asin": "B0HDBGQVXS",
+    "title": "Trailer Hitch Pin, Anti-Theft Trailer Hitch Locks",
+    "type": "candidate",
+    "score": 56.25,
+    "price": 4.99,
+    "bsr": 15056,
+    "image_url": "https://m.media-amazon.com/images/I/61AjsJl0wsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDBGQVXS",
+    "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin%2C+Anti-Theft+Trailer+Hitch+Locks"
   },
   {
     "asin": "B0H2TM819G",
@@ -8954,17 +8976,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Garvee+2+RV+Steps+with+Handrail%2C+Hot+Tub+Steps%2C+Portable+Sta"
   },
   {
-    "asin": "B0HDBGQVXS",
-    "title": "Trailer Hitch Pin, Anti-Theft Trailer Hitch Locks | 5/8&quot; Dia 3-1/2&quot; Length Pin Hitch Lock For 2&quot;&amp;1/2&quot; Receiver, For Trailer T",
-    "type": "candidate",
-    "score": 50.5,
-    "price": 4.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61AjsJl0wsL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDBGQVXS",
-    "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin%2C+Anti-Theft+Trailer+Hitch+Locks+%7C+5%2F8%22+Dia"
-  },
-  {
     "asin": "B0H4L8QRC7",
     "title": "Tlaleikejia Clear RV Sewer Hose Elbow with 4-in-1 Dump Station Adapter, 360° Swivel Bayonet Fitting, Transparent RV Sewer Con",
     "type": "candidate",
@@ -8985,17 +8996,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61hqpo+qh5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H25LPNCJ",
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Bubble+Level%2C+Mini+Self-Adhesive+T+Type+Small+Le"
-  },
-  {
-    "asin": "B0HDBH5TSN",
-    "title": "Trailer Hitch Pin Lock, 5/8&quot; Dia Locking Hitch Pin | with Anti-Rattle Rubber O-Rings,Fits Class III IV 2&quot; and 2-1/2&quot;Tow Hitch",
-    "type": "candidate",
-    "score": 50.5,
-    "price": 3.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7140sGP-BIL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDBH5TSN",
-    "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin+Lock%2C+5%2F8%22+Dia+Locking+Hitch+Pin+%7C+with+An"
   },
   {
     "asin": "B0HB4SZZDL",
