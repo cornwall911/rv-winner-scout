@@ -506,6 +506,17 @@
     "walmart_url": "https://www.walmart.com/search?q=8%27+x+13%273%22+RV+Awning+Privacy+Shade+with+Zipper%2C+90%25+UV+Block"
   },
   {
+    "asin": "B0GSFR7ZJN",
+    "title": "ONNAIS Smart RV Door Lock - Full Metal App Control Keyless Entry",
+    "type": "winner",
+    "score": 83.05,
+    "price": 199.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71LgiqJOdLL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GSFR7ZJN",
+    "walmart_url": "https://www.walmart.com/search?q=ONNAIS+Smart+RV+Door+Lock+-+Full+Metal+App+Control+Keyless+E"
+  },
+  {
     "asin": "B0GZW6T12W",
     "title": "Starlink Wall Pass Through Kit, IP68 Waterproof Aluminum RJ45 CAT6 Bulkhead Socket, Hidden Cable Style for Starlink Gen3/4/4X / Mini Only, Ideal for RV Camper Boat Trailer &amp; Off-Grid Users",
     "type": "winner",
@@ -922,17 +933,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/514CaGylbeL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H884HT8F",
     "walmart_url": "https://www.walmart.com/search?q=MoonMount+4.5%22+Heavy+Duty+Vacuum+Anchor+for+Awnings%2C+Camping"
-  },
-  {
-    "asin": "B0GSFR7ZJN",
-    "title": "ONNAIS Smart RV Door Lock - Full Metal App Control Keyless Entry | Fits Most Trailers &amp; 5th Wheels, App Operation, 100 ft Fob",
-    "type": "winner",
-    "score": 80.75,
-    "price": 199.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LgiqJOdLL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GSFR7ZJN",
-    "walmart_url": "https://www.walmart.com/search?q=ONNAIS+Smart+RV+Door+Lock+-+Full+Metal+App+Control+Keyless+E"
   },
   {
     "asin": "B0H798WNYX",
@@ -7656,17 +7656,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Fydun+RV+Step+Stool+Folding+Step+Stool+Platform+Adjustable+H"
   },
   {
-    "asin": "B0GF27BWJ6",
-    "title": "AHD1080P Backup Camera for Cars, CCD Sensor (Outperforms CMOS),Black",
-    "type": "candidate",
-    "score": 57.0,
-    "price": 31.99,
-    "bsr": 8754,
-    "image_url": "https://m.media-amazon.com/images/I/61B+fUgXWvL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GF27BWJ6",
-    "walmart_url": "https://www.walmart.com/search?q=AHD1080P+Backup+Camera+for+Cars%2C+CCD+Sensor+%28Outperforms+CMO"
-  },
-  {
     "asin": "B0H4YJ4MJM",
     "title": "VEVOR Manual RV Awning Complete Kit, 18.12FT Retractable RV Awning with Aluminum Alloy Frame &amp; Waterproof PVC Fabric, Outdoor Camping Trailer Awnings Fit Most RVs (18FT Type, Gradient Blue)",
     "type": "candidate",
@@ -8655,6 +8644,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l5GXS07CL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1HB5QSS",
     "walmart_url": "https://www.walmart.com/search?q=Terapaton+RV+Shower+Faucet+Set+with+Shower+Bezel%2C+All-Metal+"
+  },
+  {
+    "asin": "B0GF27BWJ6",
+    "title": "AHD1080P Backup Camera for Cars, CCD Sensor (Outperforms CMOS),Black",
+    "type": "candidate",
+    "score": 52.5,
+    "price": 31.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61B+fUgXWvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GF27BWJ6",
+    "walmart_url": "https://www.walmart.com/search?q=AHD1080P+Backup+Camera+for+Cars%2C+CCD+Sensor+%28Outperforms+CMO"
   },
   {
     "asin": "B0H2W4KJ8F",
