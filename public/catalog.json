@@ -44,17 +44,6 @@
     "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+2+Solar+Wireless+Backup+Camera%3A+Dual+Antenna+for+St"
   },
   {
-    "asin": "B0HJ7S8Y2K",
-    "title": "8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fi",
-    "type": "winner",
-    "score": 89.25,
-    "price": 96.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iE23mWZ2L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ7S8Y2K",
-    "walmart_url": "https://www.walmart.com/search?q=8KW+Diesel+Heater%2C+12V%2F24V+Parking+Heater+with+App+Control+a"
-  },
-  {
     "asin": "B0GYNY421Z",
     "title": "7&quot; Solar Wireless Magnetic Backup Camera, 1-Min Install-Free | Anti-Glare Monitor, No Wiring, Scratch-Proof Rear View Camera,",
     "type": "winner",
@@ -64,6 +53,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VLRlW20bL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYNY421Z",
     "walmart_url": "https://www.walmart.com/search?q=7%22+Solar+Wireless+Magnetic+Backup+Camera%2C+1-Min+Install-Free"
+  },
+  {
+    "asin": "B0HJ7S8Y2K",
+    "title": "8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fi",
+    "type": "winner",
+    "score": 88.8,
+    "price": 89.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iE23mWZ2L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ7S8Y2K",
+    "walmart_url": "https://www.walmart.com/search?q=8KW+Diesel+Heater%2C+12V%2F24V+Parking+Heater+with+App+Control+a"
   },
   {
     "asin": "B0H1DSFH7F",
@@ -1166,6 +1166,17 @@
     "walmart_url": "https://www.walmart.com/search?q=DaranEner+Portable+Power+Station+1200W+Peak%2C+576Wh+LiFePO4+P"
   },
   {
+    "asin": "B0HGRMKKGT",
+    "title": "Treeligo 12000 BTU 12V Air Conditioner, 12 Volt DC Split Electric AC Unit for Truck Parking, Quiet A/C Inverter Cooling Cost-effective 12V Mini Split AC Unit for Semi-Truck, Trailer, Camper, RV",
+    "type": "should_test",
+    "score": 79.9,
+    "price": 509.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61SAPx0YCSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGRMKKGT",
+    "walmart_url": "https://www.walmart.com/search?q=Treeligo+12000+BTU+12V+Air+Conditioner%2C+12+Volt+DC+Split+Ele"
+  },
+  {
     "asin": "B0HFJ863WS",
     "title": "RV Slide-Out Mouse Guard Compatible with Lippert, Fits 1.75 Inch Openings | Magnetic Tool-Free Installation, Split-Ring Desig",
     "type": "should_test",
@@ -2244,17 +2255,6 @@
     "walmart_url": "https://www.walmart.com/search?q=2-in-1+RV+Accessories+Gas+Detector%2C+Hardwired+-+DC+12V+for+R"
   },
   {
-    "asin": "B0HBVMVD4S",
-    "title": "EROMMY RV Roof Vent, 12V DC 30W RV Vent Fan with 10-Speed Reversible Airflow, Remote Control &amp; Auto Thermostat, 14&quot; x 14&quot; RV Exhaust Fan for Camper and Travel Trailer",
-    "type": "should_test",
-    "score": 76.55,
-    "price": 189.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61ru15f2ejL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVMVD4S",
-    "walmart_url": "https://www.walmart.com/search?q=EROMMY+RV+Roof+Vent%2C+12V+DC+30W+RV+Vent+Fan+with+10-Speed+Re"
-  },
-  {
     "asin": "B0H6ZD82CS",
     "title": "Lyrivan RV Skylight Cover Roof Vent Sun Blackout &amp; Insulator, 16x16 Inch | 3-Layer Protection, Block up to 99% of Light, Keep",
     "type": "should_test",
@@ -2805,6 +2805,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Caravans+Air+Conditioning+Internal+Machine%2C12V%2F24V+DC+Air+Co"
   },
   {
+    "asin": "B0HCBTQ7FD",
+    "title": "RV AC Duct For Dometic Brisk II Blizzard NXT &amp; FreshJet 3 Airflow Upgrade",
+    "type": "should_test",
+    "score": 74.85,
+    "price": 94.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61nAVuXqYLL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCBTQ7FD",
+    "walmart_url": "https://www.walmart.com/search?q=RV+AC+Duct+For+Dometic+Brisk+II+Blizzard+NXT+%26+FreshJet+3+Ai"
+  },
+  {
     "asin": "B0H33C8TZ6",
     "title": "Terapaton RV Suction Cup Quick Connect Shower Head Set with Hose, 5-Pattern Sprayer &amp; G1/2&quot; Quick Connect Adapter, Drill-Free",
     "type": "should_test",
@@ -3058,6 +3069,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Heavy-Duty+1680D+Water-Resistant+Griddle+Carry+Bag+for+Black"
   },
   {
+    "asin": "B0H25TLM2B",
+    "title": "WKZO 7&quot; RV AC Vent Cover 360° Air Dispersion, 2-Pack",
+    "type": "should_test",
+    "score": 73.25,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61ehWDj4NRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H25TLM2B",
+    "walmart_url": "https://www.walmart.com/search?q=WKZO+7%22+RV+AC+Vent+Cover+360%C2%B0+Air+Dispersion%2C+2-Pack"
+  },
+  {
     "asin": "B0H4YWY1GW",
     "title": "RV Magnetic Screen Door Curtains, RV Bug Screen Door Mesh, 33&quot;W x 75&quot;H | Heavy Duty Fiberglass Mesh for RV Camper Travel Trai",
     "type": "should_test",
@@ -3267,6 +3289,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Fridge+Tension+Rods+2+Pack+13.96-25.6+Inch+Stainless+Stee"
   },
   {
+    "asin": "B0HBVMVD4S",
+    "title": "EROMMY RV Roof Vent, 12V DC 30W RV Vent Fan with 10-Speed Reversible Airflow, Remote Control &amp; Auto Thermostat, 14&quot; x 14&quot; RV",
+    "type": "should_test",
+    "score": 72.0,
+    "price": 189.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ru15f2ejL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVMVD4S",
+    "walmart_url": "https://www.walmart.com/search?q=EROMMY+RV+Roof+Vent%2C+12V+DC+30W+RV+Vent+Fan+with+10-Speed+Re"
+  },
+  {
     "asin": "B0HC7PMZ84",
     "title": "KNOX 5th Wheel RV Skirt with Twist Fasteners, Zippered Panels, 5.5x22.1 ft, Black",
     "type": "should_test",
@@ -3397,6 +3430,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71PQkBBWifL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2XN9729",
     "walmart_url": "https://www.walmart.com/search?q=AIVOLT+4200W+Inverter+Generator+Gas+Powered%2C+Portable+Open+F"
+  },
+  {
+    "asin": "B0H878QJNH",
+    "title": "YeloDeer 12V RV Tank Heater Pad 12&quot; x 18&quot;, with Toggle Switch (3 Pads) | RV Water Tank Heater Built-In Overheat Protection fo",
+    "type": "should_test",
+    "score": 71.15,
+    "price": 87.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/718ViczwWuL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H878QJNH",
+    "walmart_url": "https://www.walmart.com/search?q=YeloDeer+12V+RV+Tank+Heater+Pad+12%22+x+18%22%2C+with+Toggle+Switc"
   },
   {
     "asin": "B0H6J7BP2P",
@@ -3815,6 +3859,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61Y2Hys37sL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H75C99Y2",
     "walmart_url": "https://www.walmart.com/search?q=Aluminum+RV+Floor+Vent+Cover+2%22x10%22%2C+Magnetic+Removable+Cove"
+  },
+  {
+    "asin": "B0H8F5ZV3Y",
+    "title": "RV Floor Vent Cover 2 Pack, Magnetic RV Vent Register 2&quot;x10&quot; Aluminum",
+    "type": "should_test",
+    "score": 69.45,
+    "price": 35.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/719Ggw6vdKL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8F5ZV3Y",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Floor+Vent+Cover+2+Pack%2C+Magnetic+RV+Vent+Register+2%22x10%22"
   },
   {
     "asin": "B0H83DLDV3",
@@ -4796,17 +4851,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Frezon+12V%2F24V+Auto-Sensing+Low-Power+Draw+Fan+for+Boats+and"
   },
   {
-    "asin": "B0H3ZSLB6H",
-    "title": "ARKOVEX RV Side Vent Fan, 12V 2.4W Silent Wind Ventilation Wall Exhaust Fan for Camper, Caravan, Motorhome, Trailer, White",
-    "type": "should_test",
-    "score": 63.25,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710aKXPCS-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3ZSLB6H",
-    "walmart_url": "https://www.walmart.com/search?q=ARKOVEX+RV+Side+Vent+Fan%2C+12V+2.4W+Silent+Wind+Ventilation+W"
-  },
-  {
     "asin": "B0GXW33HN8",
     "title": "RVSNAIL 110V RV Water Pump &amp; Accumulator Tank Kit, 7.5GPM 80PSI | 5-Chamber Pump, Self-Priming, Ultra-Quiet, Heavy-Duty Press",
     "type": "should_test",
@@ -4895,6 +4939,28 @@
     "walmart_url": "https://www.walmart.com/search?q=50A+8AWG+Portable+Power+Station+Expansion+Adapter+Cable%2C+Com"
   },
   {
+    "asin": "B0HGY3VFMM",
+    "title": "FOGATTI RV Furnace 35,000 BTU for Camper, Motorhome, RV Owners | High-Efficiency, 40dB Quiet Operation, Smart Thermostat 4-Le",
+    "type": "should_test",
+    "score": 62.75,
+    "price": 799.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tyVKHSWEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGY3VFMM",
+    "walmart_url": "https://www.walmart.com/search?q=FOGATTI+RV+Furnace+35%2C000+BTU+for+Camper%2C+Motorhome%2C+RV+Owne"
+  },
+  {
+    "asin": "B0H3ZSLB6H",
+    "title": "ARKOVEX RV Side Vent Fan, 12V 2.4W Silent Wind Ventilation Wall Exhaust Fan for Camper, Caravan, Motorhome, Trailer, White",
+    "type": "should_test",
+    "score": 62.5,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710aKXPCS-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3ZSLB6H",
+    "walmart_url": "https://www.walmart.com/search?q=ARKOVEX+RV+Side+Vent+Fan%2C+12V+2.4W+Silent+Wind+Ventilation+W"
+  },
+  {
     "asin": "B0H2MMNX1H",
     "title": "Outus 2.5 Gallon Gas Can Holder, Fuel Jug Mount for Trailer, Angled Hexagon | Gas Can Not Included, Heavy Duty Metal, 2 Locki",
     "type": "should_test",
@@ -4904,17 +4970,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/618unIjjfHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2MMNX1H",
     "walmart_url": "https://www.walmart.com/search?q=Outus+2.5+Gallon+Gas+Can+Holder%2C+Fuel+Jug+Mount+for+Trailer%2C"
-  },
-  {
-    "asin": "B0HGY3VFMM",
-    "title": "FOGATTI RV Furnace 35,000 BTU for Camper, Motorhome, RV Owners | High-Efficiency, 40dB Quiet Operation, Smart Thermostat 4-Le",
-    "type": "should_test",
-    "score": 62.5,
-    "price": 799.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tyVKHSWEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGY3VFMM",
-    "walmart_url": "https://www.walmart.com/search?q=FOGATTI+RV+Furnace+35%2C000+BTU+for+Camper%2C+Motorhome%2C+RV+Owne"
   },
   {
     "asin": "B0H5K2F15F",
@@ -7126,6 +7181,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DDvl0HXEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2Y6RW49",
     "walmart_url": "https://www.walmart.com/search?q=Carnovate+3314082.000+RV+Thermostat+Fit+for+Dometic+CCC2+%7C+M"
+  },
+  {
+    "asin": "B0H6LFZ99Y",
+    "title": "Arsenda RV Air Conditioner 18000 BTU, WiFi &amp; Remote Control, 110-120V | Rooftop RV AC, Non-Ducted Camper AC with Heat Pump, C",
+    "type": "should_test",
+    "score": 54.75,
+    "price": 999.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Dsf100HVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6LFZ99Y",
+    "walmart_url": "https://www.walmart.com/search?q=Arsenda+RV+Air+Conditioner+18000+BTU%2C+WiFi+%26+Remote+Control%2C"
   },
   {
     "asin": "B0H4G2SYQR",
@@ -10868,6 +10934,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Chririnla+American+Flag+RV+Propane+Tank+Cover+Fits+for+Doubl"
   },
   {
+    "asin": "B0HDYGLNB9",
+    "title": "JIYIZO RV Air Vent Cover – 5.5&quot; Face 4&quot; Back Round Register with Damper, Round Rotaire Grille, 360 Degree Adjustable Rotating",
+    "type": "candidate",
+    "score": 47.25,
+    "price": 13.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61m5TqlnQiL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDYGLNB9",
+    "walmart_url": "https://www.walmart.com/search?q=JIYIZO+RV+Air+Vent+Cover+%E2%80%93+5.5%22+Face+4%22+Back+Round+Register+"
+  },
+  {
     "asin": "B0H3PBT39H",
     "title": "MTLEE 2 Pcs Heavy Duty Marine and RV Carnauba Wax with a Cleaning Towel | 8 oz Per, Polymer Sealant Paste Wax, Long Lasting P",
     "type": "candidate",
@@ -11086,6 +11163,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61l+7XC+AdL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7R8R8HK",
     "walmart_url": "https://www.walmart.com/search?q=Mikniri+2+Pcs+1%2F2+Inch+Trailer+Hitch+Gate+Pins+with+Steel+Ro"
+  },
+  {
+    "asin": "B0H6RZ7BXJ",
+    "title": "YQSIYU 3-Pack 6.5&quot; RV Ceiling Vent Covers, Fits 4-5/8&quot; Ducts, White | Durable vent covers for RV air conditioning. Fit 4-5/8&quot;",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 14.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/510hwiYun1L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6RZ7BXJ",
+    "walmart_url": "https://www.walmart.com/search?q=YQSIYU+3-Pack+6.5%22+RV+Ceiling+Vent+Covers%2C+Fits+4-5%2F8%22+Ducts"
   },
   {
     "asin": "B0H7PJ5BC6",
@@ -11308,17 +11396,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Retro+Green+Tree+RV+Camping+Spare+Tire+Covers+Weatherproof+D"
   },
   {
-    "asin": "B0H6RZ7BXJ",
-    "title": "YQSIYU 3-Pack 6.5&quot; RV Ceiling Vent Covers, Fits 4-5/8&quot; Ducts, White | Durable vent covers for RV air conditioning. Fit 4-5/8&quot;",
-    "type": "candidate",
-    "score": 46.0,
-    "price": 14.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/510hwiYun1L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6RZ7BXJ",
-    "walmart_url": "https://www.walmart.com/search?q=YQSIYU+3-Pack+6.5%22+RV+Ceiling+Vent+Covers%2C+Fits+4-5%2F8%22+Ducts"
-  },
-  {
     "asin": "B0HC7K5JQN",
     "title": "Propane Gas Cylinder Cover, 15kg Oxford Cloth Insulated Protector | Outdoor Camping Use, Silver Finish, Shields Rain Dust Uv,",
     "type": "candidate",
@@ -11440,6 +11517,17 @@
     "walmart_url": "https://www.walmart.com/search?q=aqxreight+Gas+Tank+Carrying+Handle+Ergonomic+Grip+for+20+30+"
   },
   {
+    "asin": "B0H2Z6CX9R",
+    "title": "2Pcs 60mm RV Air Vent Outlet Round Rotatable AC Cover Black | Fits 2.36&quot; Hole &amp; 1.81&quot; Duct. 360° Swivel Louver with Shut-off",
+    "type": "candidate",
+    "score": 45.25,
+    "price": 7.89,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nZe0nDmEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2Z6CX9R",
+    "walmart_url": "https://www.walmart.com/search?q=2Pcs+60mm+RV+Air+Vent+Outlet+Round+Rotatable+AC+Cover+Black+"
+  },
+  {
     "asin": "B0H1552TKX",
     "title": "Fulvitaly Upgraded 1LB Propane Tank Storage Bag for 6-Pack Camping Canisters, Multi-Pocket Carry Pouch for RV &amp; Outdoor Cooki",
     "type": "candidate",
@@ -11460,17 +11548,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/817or8SpGKL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1QN8353",
     "walmart_url": "https://www.walmart.com/search?q=Dreyoo+2+Pack+RV+Sewer+Hose+Replacement+Hatch+Door+Cover%2C+RV"
-  },
-  {
-    "asin": "B0H25TLM2B",
-    "title": "WKZO 7&quot; RV AC Vent Cover 360° Air Dispersion, 2-Pack | White Round 7&quot; Vents for RVs/Vans, 360° Air Dispersion, Non-Closing De",
-    "type": "candidate",
-    "score": 45.0,
-    "price": 18.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ehWDj4NRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H25TLM2B",
-    "walmart_url": "https://www.walmart.com/search?q=WKZO+7%22+RV+AC+Vent+Cover+360%C2%B0+Air+Dispersion%2C+2-Pack+%7C+White"
   },
   {
     "asin": "B0H6ZRC9MR",
@@ -11537,6 +11614,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61V-K0Hu85L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H722SQX4",
     "walmart_url": "https://www.walmart.com/search?q=Gray+Solid+Color+Spare+Tire+Covers+for+RV+Trailer+SUV+Truck%2C"
+  },
+  {
+    "asin": "B0H25Q37T1",
+    "title": "WKZO 7&quot; RV A/C Vent with Rotating Louvers, 2-Pack | White Round 7&quot; Vents with 1/4&quot; Collar for RVs/Trailers, Rotating Louvers,",
+    "type": "candidate",
+    "score": 45.0,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/617arn0+EwL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H25Q37T1",
+    "walmart_url": "https://www.walmart.com/search?q=WKZO+7%22+RV+A%2FC+Vent+with+Rotating+Louvers%2C+2-Pack+%7C+White+Ro"
   },
   {
     "asin": "B0H7BDRTW8",
@@ -11616,17 +11704,6 @@
     "walmart_url": "https://www.walmart.com/search?q=OwnBosy+Adventure+RV+Spare+Tire+Cover+Suitable+for+RV+Truck+"
   },
   {
-    "asin": "B0H7BGQSBR",
-    "title": "K2035-81 Fan-Tastic Vent Replacement Parts for RV Vent Screen Replacement | Fantastic fan replacement parts, compatible for D",
-    "type": "candidate",
-    "score": 44.5,
-    "price": 16.98,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AIvZHeUEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7BGQSBR",
-    "walmart_url": "https://www.walmart.com/search?q=K2035-81+Fan-Tastic+Vent+Replacement+Parts+for+RV+Vent+Scree"
-  },
-  {
     "asin": "B0H35NHT5F",
     "title": "NEBOO K1140-09 RV Vent Handle, Manual Lift Knob Kit, Compatible with Fantastic Fan and Atwood, Fits Most Motorhomes, Travel T",
     "type": "candidate",
@@ -11647,6 +11724,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gmTOU1TkL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H15GL7FY",
     "walmart_url": "https://www.walmart.com/search?q=Leinuosen+12+Pcs+6.5%22+Round+Rv+Vent+Cover+Ceiling+Air+Condit"
+  },
+  {
+    "asin": "B0H7BGQSBR",
+    "title": "K2035-81 Fan-Tastic Vent Replacement Parts for RV Vent Screen Replacement | Fantastic fan replacement parts, compatible for D",
+    "type": "candidate",
+    "score": 44.0,
+    "price": 16.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AIvZHeUEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7BGQSBR",
+    "walmart_url": "https://www.walmart.com/search?q=K2035-81+Fan-Tastic+Vent+Replacement+Parts+for+RV+Vent+Scree"
   },
   {
     "asin": "B0H57YSVJP",
@@ -11834,17 +11922,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71oK1YKTyKL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8RD33C6",
     "walmart_url": "https://www.walmart.com/search?q=BVC0573-31+Roof+Vent+Frame+Screen+Replacement+Parts%2C13.5%C3%9713."
-  },
-  {
-    "asin": "B0H8F5ZV3Y",
-    "title": "RV Floor Vent Cover 2 Pack, Magnetic RV Vent Register 2&quot;x10&quot; Aluminum | Removable Camper Trailer Floor Vent with Magnetic Pul",
-    "type": "candidate",
-    "score": 43.75,
-    "price": 35.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719Ggw6vdKL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8F5ZV3Y",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Floor+Vent+Cover+2+Pack%2C+Magnetic+RV+Vent+Register+2%22x10%22"
   },
   {
     "asin": "B0H4QSJYL9",
@@ -12529,17 +12606,6 @@
     "walmart_url": "https://www.walmart.com/search?q=HOMAR+10.9+Yard+Marine+Vinyl+Upholstery+Trim+for+Boat+White"
   },
   {
-    "asin": "B0H1XMN84W",
-    "title": "7&quot; Round White RV AC Vent Covers, Rotatable Louvers for Newmar RVs | Adjustable Airflow Direction, Ceiling Mount, Fits Camper",
-    "type": "candidate",
-    "score": 40.25,
-    "price": 12.59,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61cjqTtcDrL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1XMN84W",
-    "walmart_url": "https://www.walmart.com/search?q=7%22+Round+White+RV+AC+Vent+Covers%2C+Rotatable+Louvers+for+Newm"
-  },
-  {
     "asin": "B0H4LJC197",
     "title": "RV Entry Door,Aluminum Alloy RV Camper Teardrop with Keys,Left Side Teardrop Trailer Door with Tempered Glass, Universal Fit for RV Camper Travel Trailer with Wall Thickness of 18-20mm (Left)",
     "type": "candidate",
@@ -12749,17 +12815,6 @@
     "walmart_url": "https://www.walmart.com/search?q=MREEGS+7%22+RV+AC+Vent+Covers%2C+Ceiling+Grilles+with+Rotatable+"
   },
   {
-    "asin": "B0H2Z6CX9R",
-    "title": "2Pcs 60mm RV Air Vent Outlet Round Rotatable AC Cover Black | Fits 2.36&quot; Hole &amp; 1.81&quot; Duct. 360° Swivel Louver with Shut-off",
-    "type": "candidate",
-    "score": 39.25,
-    "price": 6.86,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nZe0nDmEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2Z6CX9R",
-    "walmart_url": "https://www.walmart.com/search?q=2Pcs+60mm+RV+Air+Vent+Outlet+Round+Rotatable+AC+Cover+Black+"
-  },
-  {
     "asin": "B0GZPM2YST",
     "title": "MSFORSPIRT Trailer Cam Lock Door Assembly Set of 4，Replacement for Part # 383200 &amp; PLR158 or cam Rod Door Retainer Cargo Dump",
     "type": "candidate",
@@ -12769,17 +12824,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51t7WLFtrQL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZPM2YST",
     "walmart_url": "https://www.walmart.com/search?q=MSFORSPIRT+Trailer+Cam+Lock+Door+Assembly+Set+of+4%EF%BC%8CReplaceme"
-  },
-  {
-    "asin": "B0HDYGLNB9",
-    "title": "RV Air Vent Cover – 5.5&quot; Face 4&quot; Back Round Register with Damper, Round Rotaire Grille, 360 Degree Adjustable Rotating Louvres, Heat AC Register Vent RV, Two Screw Easy Installation, White",
-    "type": "candidate",
-    "score": 39.25,
-    "price": 13.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61m5TqlnQiL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDYGLNB9",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Air+Vent+Cover+%E2%80%93+5.5%22+Face+4%22+Back+Round+Register+with+Da"
   },
   {
     "asin": "B0GZQV219N",
@@ -13187,6 +13231,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61hfQU3ei5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2CRTNCS",
     "walmart_url": "https://www.walmart.com/search?q=VEVOR+Boat+Winch%2C+1600+lbs+Hand+Winch%2C+Heavy+Duty+Manual+Rop"
+  },
+  {
+    "asin": "B0H1XMN84W",
+    "title": "7&quot; Round White RV AC Vent Covers, Rotatable Louvers for Newmar RVs | Adjustable Airflow Direction, Ceiling Mount, Fits Camper",
+    "type": "candidate",
+    "score": 36.5,
+    "price": 12.59,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61cjqTtcDrL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1XMN84W",
+    "walmart_url": "https://www.walmart.com/search?q=7%22+Round+White+RV+AC+Vent+Covers%2C+Rotatable+Louvers+for+Newm"
   },
   {
     "asin": "B0H2967QLG",
