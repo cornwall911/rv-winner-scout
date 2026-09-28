@@ -104,7 +104,7 @@
     "type": "winner",
     "score": 86.75,
     "price": 129.99,
-    "bsr": 8958,
+    "bsr": 7573,
     "image_url": "https://m.media-amazon.com/images/I/71tf8CiNoqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GS5914FR",
     "walmart_url": "https://www.walmart.com/search?q=1080P+Strong+Magnetic+Wireless+Backup+Camera+for+RV+Trailer+"
@@ -1540,17 +1540,6 @@
     "walmart_url": "https://www.walmart.com/search?q=WSDCAM+Two-Way+Bike+Alarm+120dB%2C+USB-C+Rechargeable+with+Rem"
   },
   {
-    "asin": "B0H9RWG765",
-    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
-    "type": "should_test",
-    "score": 78.45,
-    "price": 239.99,
-    "bsr": 6027,
-    "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
-    "walmart_url": "https://www.walmart.com/search?q=LIBRIDS+Portable+Power+Station+C600%2C+640Wh+Solar+Generator+6"
-  },
-  {
     "asin": "B0GZFNL8PG",
     "title": "RV Camper Cord and Plug Protector - Easily Elevates &amp; Fully Encloses Large 30 &amp; 50 Amp Plugs to Shield from The Elements - UV Protected Polyethylene - Sourced and Made in The USA",
     "type": "should_test",
@@ -1560,6 +1549,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61l7buFUnEL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZFNL8PG",
     "walmart_url": "https://www.walmart.com/search?q=RV+Camper+Cord+and+Plug+Protector+-+Easily+Elevates+%26+Fully+"
+  },
+  {
+    "asin": "B0H9RWG765",
+    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
+    "type": "should_test",
+    "score": 78.35,
+    "price": 239.99,
+    "bsr": 8400,
+    "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
+    "walmart_url": "https://www.walmart.com/search?q=LIBRIDS+Portable+Power+Station+C600%2C+640Wh+Solar+Generator+6"
   },
   {
     "asin": "B0H8RDKKZ5",
@@ -1985,7 +1985,7 @@
     "type": "should_test",
     "score": 77.3,
     "price": 6.99,
-    "bsr": 4587,
+    "bsr": 5260,
     "image_url": "https://m.media-amazon.com/images/I/61CfypcLiNL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
     "walmart_url": "https://www.walmart.com/search?q=2pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover"
@@ -2550,6 +2550,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71eoavl87cL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1CWXPF4",
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter%2C+Cut-to-Fit+Camper+Skirt+with+Combina"
+  },
+  {
+    "asin": "B0H38QWVN5",
+    "title": "RV Surge Protector 30 amp, 13000J Surge Protection",
+    "type": "should_test",
+    "score": 75.75,
+    "price": 29.99,
+    "bsr": 11086,
+    "image_url": "https://m.media-amazon.com/images/I/61SH95wqMRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H38QWVN5",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Surge+Protector+30+amp%2C+13000J+Surge+Protection"
   },
   {
     "asin": "B0GYPHQW7Z",
@@ -3355,17 +3366,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Apexlife+RV+Couch+Covers+for+Sofa+Bed%2C+2+Piece+Jackknife+Sof"
   },
   {
-    "asin": "B0H38QWVN5",
-    "title": "RV Surge Protector 30 amp, 13000J Surge Protection",
-    "type": "should_test",
-    "score": 71.0,
-    "price": 29.99,
-    "bsr": 13573,
-    "image_url": "https://m.media-amazon.com/images/I/61SH95wqMRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H38QWVN5",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Surge+Protector+30+amp%2C+13000J+Surge+Protection"
-  },
-  {
     "asin": "B0HJ61VWC1",
     "title": "2-in-1 RV Accessories Gas Detector, Hardwired - DC 12V for RVs, Black",
     "type": "should_test",
@@ -3991,6 +3991,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LBwHR1evL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJN94TZP",
     "walmart_url": "https://www.walmart.com/search?q=RV+Windshield+Cover+for+Ford+E-Series+E-450+1997-2024+%7C+Boos"
+  },
+  {
+    "asin": "B0H1BG1W7D",
+    "title": "Adjustable Trailer Hitch for 2.5&quot; Receiver, 6 in Drop/Rise, 18.5K GTW",
+    "type": "should_test",
+    "score": 68.25,
+    "price": 119.69,
+    "bsr": 12704,
+    "image_url": "https://m.media-amazon.com/images/I/71qOaJDj1NL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1BG1W7D",
+    "walmart_url": "https://www.walmart.com/search?q=Adjustable+Trailer+Hitch+for+2.5%22+Receiver%2C+6+in+Drop%2FRise%2C+"
   },
   {
     "asin": "B0GZ4BLFMS",
@@ -5186,7 +5197,7 @@
     "type": "should_test",
     "score": 60.75,
     "price": 19.99,
-    "bsr": 16492,
+    "bsr": 13613,
     "image_url": "https://m.media-amazon.com/images/I/71ZC1D5iw5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
     "walmart_url": "https://www.walmart.com/search?q=MECMO+NEMA+L14-30P+to+14-50R+RV+Generator+Adapter%2C+Twist+Loc"
@@ -5318,7 +5329,7 @@
     "type": "should_test",
     "score": 60.0,
     "price": 19.78,
-    "bsr": 11721,
+    "bsr": 9834,
     "image_url": "https://m.media-amazon.com/images/I/61kjtchM7VL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2F7LZ9X",
     "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Lock+with+Keys%2CUniversal+1-7%2F8%22%2C2%22%2C2-5%2F16%22Trai"
@@ -6092,17 +6103,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61KuojpymJL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZM89ZCP",
     "walmart_url": "https://www.walmart.com/search?q=VEVOR+RV+Water+Filter+System%2C+5-Micron+3+Stage+Premium+RV+Wa"
-  },
-  {
-    "asin": "B0H1BG1W7D",
-    "title": "Adjustable Trailer Hitch for 2.5&quot; Receiver, 6 in Drop/Rise, 18.5K GTW",
-    "type": "should_test",
-    "score": 57.25,
-    "price": 119.69,
-    "bsr": 14304,
-    "image_url": "https://m.media-amazon.com/images/I/71qOaJDj1NL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1BG1W7D",
-    "walmart_url": "https://www.walmart.com/search?q=Adjustable+Trailer+Hitch+for+2.5%22+Receiver%2C+6+in+Drop%2FRise%2C+"
   },
   {
     "asin": "B0HH5YG3PT",
@@ -7788,28 +7788,6 @@
     "walmart_url": "https://www.walmart.com/search?q=EJYTRVT+RV+Door+Holder+Latch%2C+Upgraded+Noiseless%2C+4-Inch+T-S"
   },
   {
-    "asin": "B0HDBRTQMF",
-    "title": "Trailer Hitch Pin Lock with 5 Anti-Rattle O-Rings",
-    "type": "candidate",
-    "score": 58.5,
-    "price": 5.99,
-    "bsr": 12023,
-    "image_url": "https://m.media-amazon.com/images/I/717JDeOUXRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDBRTQMF",
-    "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin+Lock+with+5+Anti-Rattle+O-Rings"
-  },
-  {
-    "asin": "B0HDBH5TSN",
-    "title": "Trailer Hitch Pin Lock, 5/8&quot; Dia Locking Hitch Pin",
-    "type": "candidate",
-    "score": 58.5,
-    "price": 3.99,
-    "bsr": 14215,
-    "image_url": "https://m.media-amazon.com/images/I/7140sGP-BIL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDBH5TSN",
-    "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin+Lock%2C+5%2F8%22+Dia+Locking+Hitch+Pin"
-  },
-  {
     "asin": "B0H6M764LC",
     "title": "CCBASEBALL 230 LED Magnetic Solar Lights Outdoor, Waterproof RV Porch Light with Motion Sensor, Strong Magnets RV Exterior Li",
     "type": "candidate",
@@ -8057,10 +8035,21 @@
     "type": "candidate",
     "score": 56.25,
     "price": 4.99,
-    "bsr": 15056,
+    "bsr": 12800,
     "image_url": "https://m.media-amazon.com/images/I/61AjsJl0wsL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDBGQVXS",
     "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin%2C+Anti-Theft+Trailer+Hitch+Locks"
+  },
+  {
+    "asin": "B0HDBRTQMF",
+    "title": "sagtes Trailer Hitch Pin Lock with 5 Anti-Rattle O-Rings | 5/8&quot;Dia Locking Hitch Pin for Heavy Duty Tow Receiver,Fits Class I",
+    "type": "candidate",
+    "score": 56.0,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/717JDeOUXRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDBRTQMF",
+    "walmart_url": "https://www.walmart.com/search?q=sagtes+Trailer+Hitch+Pin+Lock+with+5+Anti-Rattle+O-Rings+%7C+5"
   },
   {
     "asin": "B0H2TM819G",
@@ -8765,6 +8754,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DJXfsYmoL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H38ZSWMJ",
     "walmart_url": "https://www.walmart.com/search?q=2026+Upgraded+RV+MANRV101-RF+RV+Water+Service+Panel%2C+4-Funct"
+  },
+  {
+    "asin": "B0H5LBR88Q",
+    "title": "G351 RV Keys, 3 Pack Precut Replacement Keys",
+    "type": "candidate",
+    "score": 53.75,
+    "price": 14.99,
+    "bsr": 9133,
+    "image_url": "https://m.media-amazon.com/images/I/71d0meqRDpL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5LBR88Q",
+    "walmart_url": "https://www.walmart.com/search?q=G351+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
   },
   {
     "asin": "B0H6LYS2RW",
@@ -9636,6 +9636,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Zonon+8+Pack+Aluminum+Rv+Corner+Trim+Molding+48%E2%80%98%27+Length%2C+3%2F"
   },
   {
+    "asin": "B0HDBH5TSN",
+    "title": "Trailer Hitch Pin Lock, 5/8&quot; Dia Locking Hitch Pin",
+    "type": "candidate",
+    "score": 50.75,
+    "price": 9.99,
+    "bsr": 9854,
+    "image_url": "https://m.media-amazon.com/images/I/7140sGP-BIL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDBH5TSN",
+    "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin+Lock%2C+5%2F8%22+Dia+Locking+Hitch+Pin"
+  },
+  {
     "asin": "B0GS94GCX1",
     "title": "Hiqufet Kitchen Faucet with Pull Down Sprayer, High Arc Single Handle Kitchen Sink Faucet for Pot Filler, Single Hole Single Handle Stainless Steel Bar Sink Faucets",
     "type": "candidate",
@@ -9652,7 +9663,7 @@
     "type": "candidate",
     "score": 50.75,
     "price": 18.29,
-    "bsr": 11871,
+    "bsr": 13353,
     "image_url": "https://m.media-amazon.com/images/I/61yoVLaZbBL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H11W86CN",
     "walmart_url": "https://www.walmart.com/search?q=4+Pack+Wheel+Chocks%2C+Non-Slip+Wheel+Chocks+for+Travel+Traile"
@@ -10928,7 +10939,7 @@
     "type": "candidate",
     "score": 46.5,
     "price": 5.29,
-    "bsr": 12614,
+    "bsr": 12714,
     "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
     "walmart_url": "https://www.walmart.com/search?q=2%22+Trailer+Hitch+Cover+%5BReinforced+Rubber+Strap%5D+Heavy+Duty+"
@@ -11225,7 +11236,7 @@
     "type": "candidate",
     "score": 45.25,
     "price": 14.99,
-    "bsr": 7018,
+    "bsr": 6504,
     "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
     "walmart_url": "https://www.walmart.com/search?q=4%22+Stainless+Steel+5%2F8%22+Trailer+Hitch+Pin+with+Hitch+Pin+Cli"
@@ -11462,17 +11473,6 @@
     "walmart_url": "https://www.walmart.com/search?q=K2035-81+Fan-Tastic+Vent+Replacement+Parts+for+RV+Vent+Scree"
   },
   {
-    "asin": "B0H9YZXF58",
-    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
-    "type": "candidate",
-    "score": 44.5,
-    "price": 6.99,
-    "bsr": 7414,
-    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
-    "walmart_url": "https://www.walmart.com/search?q=Wall+Phone+Holder+2+Pack+for+iPhone+Android+-+Adhesive+No+Dr"
-  },
-  {
     "asin": "B0H35NHT5F",
     "title": "NEBOO K1140-09 RV Vent Handle, Manual Lift Knob Kit, Compatible with Fantastic Fan and Atwood, Fits Most Motorhomes, Travel T",
     "type": "candidate",
@@ -11592,6 +11592,17 @@
     "image_url": "https://m.media-amazon.com/images/I/411+sCBZyAL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGW2G7VP",
     "walmart_url": "https://www.walmart.com/search?q=Sturdy+RV+Door+Storage+Box+45cm+Black"
+  },
+  {
+    "asin": "B0H9YZXF58",
+    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
+    "type": "candidate",
+    "score": 43.75,
+    "price": 6.99,
+    "bsr": 6997,
+    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
+    "walmart_url": "https://www.walmart.com/search?q=Wall+Phone+Holder+2+Pack+for+iPhone+Android+-+Adhesive+No+Dr"
   },
   {
     "asin": "B0H36R4D2C",
@@ -12153,6 +12164,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61NaH0xMgNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3L2H8C6",
     "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+RV+Camper+Teardrop+Trailer+Door+26%22+W+x+36%22+H"
+  },
+  {
+    "asin": "B0H2914TR9",
+    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
+    "type": "candidate",
+    "score": 41.5,
+    "price": 4.99,
+    "bsr": 11242,
+    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
+    "walmart_url": "https://www.walmart.com/search?q=6PCS+Trailer+Pin%2C+Standard+1%2F4+Hitch+Pin%2C+Strong+Trailer+Cou"
   },
   {
     "asin": "B0HBQGQKZP",
@@ -12802,17 +12824,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/412Ezo3S2cL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6ZJD9DN",
     "walmart_url": "https://www.walmart.com/search?q=ANODZU+304+Stainless+Steel+Sheared+Drive+Shaft+Head+Pin+Asse"
-  },
-  {
-    "asin": "B0H2914TR9",
-    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
-    "type": "candidate",
-    "score": 38.0,
-    "price": 4.99,
-    "bsr": 10892,
-    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
-    "walmart_url": "https://www.walmart.com/search?q=6PCS+Trailer+Pin%2C+Standard+1%2F4+Hitch+Pin%2C+Strong+Trailer+Cou"
   },
   {
     "asin": "B0H5ND2KMY",
@@ -13585,6 +13596,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Utility+Trailer+Cover+for+PJ+U10+Utility+Trailer+7x14ft+2018"
   },
   {
+    "asin": "B0H5W53WKV",
+    "title": "2&quot; x 6&quot; inch Hitch Receiver Tube Weld-On Trailer Combo Bar Raw Steel",
+    "type": "candidate",
+    "score": 30.5,
+    "price": 18.99,
+    "bsr": 13760,
+    "image_url": "https://m.media-amazon.com/images/I/81bk47Vp6+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5W53WKV",
+    "walmart_url": "https://www.walmart.com/search?q=2%22+x+6%22+inch+Hitch+Receiver+Tube+Weld-On+Trailer+Combo+Bar+R"
+  },
+  {
     "asin": "B0H1QJ1TZP",
     "title": "GarveeTech 22 Ton Jack Stands,Heavy Duty Pin Type Professional Car Jack Stand with Lock,Wide Base Safety Design for Supportin",
     "type": "candidate",
@@ -13605,17 +13627,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61BQ5j0fuOL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1QLRDTZ",
     "walmart_url": "https://www.walmart.com/search?q=6+Pack+Bass+Box+Tie-Down+Bracket+Compatible+with+Airstream+F"
-  },
-  {
-    "asin": "B0H5W53WKV",
-    "title": "2&quot; x 6&quot; inch Hitch Receiver Tube Weld-On Trailer Combo Bar Raw Steel",
-    "type": "candidate",
-    "score": 30.0,
-    "price": 18.99,
-    "bsr": 12971,
-    "image_url": "https://m.media-amazon.com/images/I/81bk47Vp6+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5W53WKV",
-    "walmart_url": "https://www.walmart.com/search?q=2%22+x+6%22+inch+Hitch+Receiver+Tube+Weld-On+Trailer+Combo+Bar+R"
   },
   {
     "asin": "B0H5QJKXPG",
