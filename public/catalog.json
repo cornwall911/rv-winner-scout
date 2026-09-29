@@ -115,7 +115,7 @@
     "type": "winner",
     "score": 86.75,
     "price": 129.99,
-    "bsr": 7573,
+    "bsr": 8246,
     "image_url": "https://m.media-amazon.com/images/I/71tf8CiNoqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GS5914FR",
     "walmart_url": "https://www.walmart.com/search?q=1080P+Strong+Magnetic+Wireless+Backup+Camera+for+RV+Trailer+"
@@ -2040,7 +2040,7 @@
     "type": "should_test",
     "score": 77.3,
     "price": 6.99,
-    "bsr": 5260,
+    "bsr": 6413,
     "image_url": "https://m.media-amazon.com/images/I/61CfypcLiNL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
     "walmart_url": "https://www.walmart.com/search?q=2pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover"
@@ -2574,17 +2574,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter%2C+Cut-to-Fit+Camper+Skirt+with+Combina"
   },
   {
-    "asin": "B0H38QWVN5",
-    "title": "RV Surge Protector 30 amp, 13000J Surge Protection",
-    "type": "should_test",
-    "score": 75.75,
-    "price": 29.99,
-    "bsr": 11086,
-    "image_url": "https://m.media-amazon.com/images/I/61SH95wqMRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H38QWVN5",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Surge+Protector+30+amp%2C+13000J+Surge+Protection"
-  },
-  {
     "asin": "B0H941GS9J",
     "title": "3 Inch Diesel Heater Hose Kit for Most 5KW &amp; 8KW Diesel Heaters",
     "type": "should_test",
@@ -2816,6 +2805,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+AC+Duct+For+Dometic+Brisk+II+Blizzard+NXT+%26+FreshJet+3+Ai"
   },
   {
+    "asin": "B0H6HK6QQT",
+    "title": "50 Amp RV Surge Protector with Circuit Analyzer: 20000J Surge Protection, Auto Power Disconnect, Real-Time Voltage Display &amp; Overheat Protection for RV Campers and Campgrounds",
+    "type": "should_test",
+    "score": 74.85,
+    "price": 55.99,
+    "bsr": 14305,
+    "image_url": "https://m.media-amazon.com/images/I/71iLPWog+2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6HK6QQT",
+    "walmart_url": "https://www.walmart.com/search?q=50+Amp+RV+Surge+Protector+with+Circuit+Analyzer%3A+20000J+Surg"
+  },
+  {
     "asin": "B0H2Q7LLMB",
     "title": "Aluminum Rod RV Shower Corner Storage Bar, Adjustable No-Drill Shelf Rod",
     "type": "should_test",
@@ -3003,17 +3003,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Magnetic+Screen+Door+with+Hook%2C+Screen+Door+Protector+for"
   },
   {
-    "asin": "B0H6HK6QQT",
-    "title": "50 Amp RV Surge Protector with Circuit Analyzer: 20000J Surge Protection, Auto Power Disconnect, Real-Time Voltage Display &amp; Overheat Protection for RV Campers and Campgrounds",
-    "type": "should_test",
-    "score": 73.75,
-    "price": 55.99,
-    "bsr": 14955,
-    "image_url": "https://m.media-amazon.com/images/I/71iLPWog+2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6HK6QQT",
-    "walmart_url": "https://www.walmart.com/search?q=50+Amp+RV+Surge+Protector+with+Circuit+Analyzer%3A+20000J+Surg"
-  },
-  {
     "asin": "B0H36GT6T6",
     "title": "Motion Sensor Car Trunk Light,Car Trunk Lights for RV Interior Lighting,Rechargeable Motion Sensor Magnetic Light,2 Modes Roof Ceiling Light for Camper RV,2 Pack",
     "type": "should_test",
@@ -3034,6 +3023,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71TJ1fqC7jL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCNM426T",
     "walmart_url": "https://www.walmart.com/search?q=3000W+Inverter+Generator%2C+Ultra+Quiet+Portable+Gas+Generator"
+  },
+  {
+    "asin": "B0H1MZPMTD",
+    "title": "Camco Tastepure 4-in-1 Adjustable RV Water Pressure Regulator - Combines a 90° RV Hose Elbow Design, Pressure Gauge, Adjustable Regulator, &amp; Shut-Off Valve in One RV Accessory (40065)",
+    "type": "should_test",
+    "score": 73.65,
+    "price": 52.84,
+    "bsr": 10729,
+    "image_url": "https://m.media-amazon.com/images/I/71bfpz8rCRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1MZPMTD",
+    "walmart_url": "https://www.walmart.com/search?q=Camco+Tastepure+4-in-1+Adjustable+RV+Water+Pressure+Regulato"
   },
   {
     "asin": "B0H7WF83XV",
@@ -3100,6 +3100,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61ehWDj4NRL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H25TLM2B",
     "walmart_url": "https://www.walmart.com/search?q=WKZO+7%22+RV+AC+Vent+Cover+360%C2%B0+Air+Dispersion%2C+2-Pack"
+  },
+  {
+    "asin": "B0H38QWVN5",
+    "title": "RV Surge Protector 30 amp, 13000J Surge Protection",
+    "type": "should_test",
+    "score": 73.15,
+    "price": 29.99,
+    "bsr": 10997,
+    "image_url": "https://m.media-amazon.com/images/I/61SH95wqMRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H38QWVN5",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Surge+Protector+30+amp%2C+13000J+Surge+Protection"
   },
   {
     "asin": "B0H4YWY1GW",
@@ -3408,17 +3419,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ivbdaWOWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8T2YPGK",
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter%2C+Insulated+Skirt+for+Travel+Trailers+"
-  },
-  {
-    "asin": "B0H1MZPMTD",
-    "title": "Camco Tastepure 4-in-1 Adjustable RV Water Pressure Regulator - Combines a 90° RV Hose Elbow Design, Pressure Gauge, Adjustable Regulator, &amp; Shut-Off Valve in One RV Accessory (40065)",
-    "type": "should_test",
-    "score": 71.25,
-    "price": 52.84,
-    "bsr": 14655,
-    "image_url": "https://m.media-amazon.com/images/I/71bfpz8rCRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1MZPMTD",
-    "walmart_url": "https://www.walmart.com/search?q=Camco+Tastepure+4-in-1+Adjustable+RV+Water+Pressure+Regulato"
   },
   {
     "asin": "B0HFJCZJJP",
@@ -4184,8 +4184,8 @@
     "title": "Adjustable Trailer Hitch for 2.5&quot; Receiver, 6 in Drop/Rise, 18.5K GTW",
     "type": "should_test",
     "score": 68.25,
-    "price": 119.69,
-    "bsr": 12704,
+    "price": 139.99,
+    "bsr": 11443,
     "image_url": "https://m.media-amazon.com/images/I/71qOaJDj1NL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1BG1W7D",
     "walmart_url": "https://www.walmart.com/search?q=Adjustable+Trailer+Hitch+for+2.5%22+Receiver%2C+6+in+Drop%2FRise%2C+"
@@ -4233,6 +4233,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+NWcqzkfL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5K8QHT5",
     "walmart_url": "https://www.walmart.com/search?q=AKMGCD+1+Kits+RV+Outdoor+Shower+Room+Shower+Privacy+Shower+C"
+  },
+  {
+    "asin": "B0H5C1V9BF",
+    "title": "Safoner Aluminum RV Floor Register 4&quot;x10&quot;, Removable Cover, Brown, 2 Pack",
+    "type": "should_test",
+    "score": 68.1,
+    "price": 53.99,
+    "bsr": 14407,
+    "image_url": "https://m.media-amazon.com/images/I/71KYDyK-S2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5C1V9BF",
+    "walmart_url": "https://www.walmart.com/search?q=Safoner+Aluminum+RV+Floor+Register+4%22x10%22%2C+Removable+Cover%2C+"
   },
   {
     "asin": "B0HC7PMZ84",
@@ -4464,17 +4475,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61rAlOZSuyL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCBRK8GM",
     "walmart_url": "https://www.walmart.com/search?q=Safoner+Heavy+Duty+Large+RV+Step+Stool%2C+Camper+Adjustable+Fo"
-  },
-  {
-    "asin": "B0H5C1V9BF",
-    "title": "Safoner Aluminum RV Floor Register 4&quot;x10&quot;, Removable Cover, Brown, 2 Pack",
-    "type": "should_test",
-    "score": 67.2,
-    "price": 53.99,
-    "bsr": 13989,
-    "image_url": "https://m.media-amazon.com/images/I/71KYDyK-S2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5C1V9BF",
-    "walmart_url": "https://www.walmart.com/search?q=Safoner+Aluminum+RV+Floor+Register+4%22x10%22%2C+Removable+Cover%2C+"
   },
   {
     "asin": "B0GZJS5XXQ",
@@ -5450,7 +5450,7 @@
     "type": "should_test",
     "score": 60.75,
     "price": 19.99,
-    "bsr": 13613,
+    "bsr": 13441,
     "image_url": "https://m.media-amazon.com/images/I/71ZC1D5iw5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
     "walmart_url": "https://www.walmart.com/search?q=MECMO+NEMA+L14-30P+to+14-50R+RV+Generator+Adapter%2C+Twist+Loc"
@@ -5571,7 +5571,7 @@
     "type": "should_test",
     "score": 60.0,
     "price": 19.78,
-    "bsr": 9834,
+    "bsr": 10466,
     "image_url": "https://m.media-amazon.com/images/I/61kjtchM7VL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2F7LZ9X",
     "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Lock+with+Keys%2CUniversal+1-7%2F8%22%2C2%22%2C2-5%2F16%22Trai"
@@ -8195,6 +8195,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RecPro+RV+Stove+Vent+Insect+Screen+10.5%22+x+4%22+%7C+Stainless+St"
   },
   {
+    "asin": "B0HDBRTQMF",
+    "title": "Trailer Hitch Pin Lock Anti-Theft 3 Inch Length 5/8&quot; Dia Hitch Pin Lock",
+    "type": "candidate",
+    "score": 58.0,
+    "price": 9.99,
+    "bsr": 11763,
+    "image_url": "https://m.media-amazon.com/images/I/717JDeOUXRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDBRTQMF",
+    "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin+Lock+Anti-Theft+3+Inch+Length+5%2F8%22+Dia+Hit"
+  },
+  {
     "asin": "B0H758394K",
     "title": "Foldable Car Back Seat Extender for Sleeping, Rear Seat Mattress Extension Plate, Portable Car Bed Platform for Camping &amp; Roa",
     "type": "candidate",
@@ -8391,17 +8402,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61AjsJl0wsL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDBGQVXS",
     "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin%2C+Anti-Theft+Trailer+Hitch+Locks"
-  },
-  {
-    "asin": "B0HDBRTQMF",
-    "title": "sagtes Trailer Hitch Pin Lock with 5 Anti-Rattle O-Rings | 5/8&quot;Dia Locking Hitch Pin for Heavy Duty Tow Receiver,Fits Class I",
-    "type": "candidate",
-    "score": 56.0,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/717JDeOUXRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDBRTQMF",
-    "walmart_url": "https://www.walmart.com/search?q=sagtes+Trailer+Hitch+Pin+Lock+with+5+Anti-Rattle+O-Rings+%7C+5"
   },
   {
     "asin": "B0H2TM819G",
@@ -9139,6 +9139,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71d0meqRDpL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5LBR88Q",
     "walmart_url": "https://www.walmart.com/search?q=G351+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
+  },
+  {
+    "asin": "B0H11W86CN",
+    "title": "4 Pack Wheel Chocks, Non-Slip Wheel Chocks for Travel Trailers",
+    "type": "candidate",
+    "score": 53.75,
+    "price": 18.29,
+    "bsr": 11438,
+    "image_url": "https://m.media-amazon.com/images/I/61yoVLaZbBL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H11W86CN",
+    "walmart_url": "https://www.walmart.com/search?q=4+Pack+Wheel+Chocks%2C+Non-Slip+Wheel+Chocks+for+Travel+Traile"
   },
   {
     "asin": "B0H1HF3W95",
@@ -9966,17 +9977,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Hiqufet+Kitchen+Faucet+with+Pull+Down+Sprayer%2C+High+Arc+Sing"
   },
   {
-    "asin": "B0H11W86CN",
-    "title": "4 Pack Wheel Chocks, Non-Slip Wheel Chocks for Travel Trailers",
-    "type": "candidate",
-    "score": 50.75,
-    "price": 18.29,
-    "bsr": 13353,
-    "image_url": "https://m.media-amazon.com/images/I/61yoVLaZbBL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H11W86CN",
-    "walmart_url": "https://www.walmart.com/search?q=4+Pack+Wheel+Chocks%2C+Non-Slip+Wheel+Chocks+for+Travel+Traile"
-  },
-  {
     "asin": "B0HBQKV5P1",
     "title": "7 &amp; 4 Pin Trailer Wiring Harness Connector Kit with Mounting Bracket | 7 Pin Blade Trailer Plug &amp; 4 Way Flat Adapter Plug Tow",
     "type": "candidate",
@@ -10516,6 +10516,17 @@
     "walmart_url": "https://www.walmart.com/search?q=4%22+Clear+RV+Sewer+Hose+Extension+Adapter+-+Odor-Proof+%26+Leak"
   },
   {
+    "asin": "B0H3RZ4R2Z",
+    "title": "25 FT 4 Pin Trailer Wiring Harness，Waterproof Trailer Wiring Kit",
+    "type": "candidate",
+    "score": 49.25,
+    "price": 8.98,
+    "bsr": 14884,
+    "image_url": "https://m.media-amazon.com/images/I/81mYUES74GL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3RZ4R2Z",
+    "walmart_url": "https://www.walmart.com/search?q=25+FT+4+Pin+Trailer+Wiring+Harness%EF%BC%8CWaterproof+Trailer+Wiring"
+  },
+  {
     "asin": "B0GZYS9CRJ",
     "title": "Garvee 2 RV Steps with Handrail, Hot Tub Steps, Portable Stairs Steps for 5Th Wheel RV, Mobile Home Stairs Outdoor RV Step La",
     "type": "candidate",
@@ -11000,15 +11011,15 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Shower+Faucet%2C+Mobile+Home+Shower+Faucet%2C+Wall+Mount+Plas"
   },
   {
-    "asin": "B0H3RZ4R2Z",
-    "title": "25 FT 4 Pin Trailer Wiring Harness，Waterproof Trailer Wiring Kit",
+    "asin": "B0H4Q6DGW4",
+    "title": "2&quot; Trailer Hitch Cover [Reinforced Rubber Strap] Heavy Duty Rustproof Flat",
     "type": "candidate",
-    "score": 47.25,
-    "price": 8.98,
-    "bsr": 14447,
-    "image_url": "https://m.media-amazon.com/images/I/81mYUES74GL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3RZ4R2Z",
-    "walmart_url": "https://www.walmart.com/search?q=25+FT+4+Pin+Trailer+Wiring+Harness%EF%BC%8CWaterproof+Trailer+Wiring"
+    "score": 47.5,
+    "price": 5.29,
+    "bsr": 10815,
+    "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
+    "walmart_url": "https://www.walmart.com/search?q=2%22+Trailer+Hitch+Cover+%5BReinforced+Rubber+Strap%5D+Heavy+Duty+"
   },
   {
     "asin": "B0H7J755QF",
@@ -11297,6 +11308,17 @@
     "walmart_url": "https://www.walmart.com/search?q=25FT+RV+Black+Water+Hose+for+Camper+%26+RV%2C+5%2F8%22+Heavy+Duty+Se"
   },
   {
+    "asin": "B0H2914TR9",
+    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 4.99,
+    "bsr": 14599,
+    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
+    "walmart_url": "https://www.walmart.com/search?q=6PCS+Trailer+Pin%2C+Standard+1%2F4+Hitch+Pin%2C+Strong+Trailer+Cou"
+  },
+  {
     "asin": "B0H2VVBLB9",
     "title": "3 Pack RV Waste Valve Handle Replacement, RV Black Tank Handle Replacement",
     "type": "candidate",
@@ -11328,17 +11350,6 @@
     "image_url": "https://m.media-amazon.com/images/I/81ov2cym3TL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4GPLM8Y",
     "walmart_url": "https://www.walmart.com/search?q=6+Inch+RV+Bunk+Mattress%2C+28%22+x+72%22+RV+Mattress+Gel+Memory+Fo"
-  },
-  {
-    "asin": "B0H4Q6DGW4",
-    "title": "2&quot; Trailer Hitch Cover [Reinforced Rubber Strap] Heavy Duty Rustproof Flat",
-    "type": "candidate",
-    "score": 46.5,
-    "price": 5.29,
-    "bsr": 12714,
-    "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
-    "walmart_url": "https://www.walmart.com/search?q=2%22+Trailer+Hitch+Cover+%5BReinforced+Rubber+Strap%5D+Heavy+Duty+"
   },
   {
     "asin": "B0H295XRHR",
@@ -12582,17 +12593,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61NaH0xMgNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3L2H8C6",
     "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+RV+Camper+Teardrop+Trailer+Door+26%22+W+x+36%22+H"
-  },
-  {
-    "asin": "B0H2914TR9",
-    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
-    "type": "candidate",
-    "score": 41.5,
-    "price": 4.99,
-    "bsr": 11242,
-    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
-    "walmart_url": "https://www.walmart.com/search?q=6PCS+Trailer+Pin%2C+Standard+1%2F4+Hitch+Pin%2C+Strong+Trailer+Cou"
   },
   {
     "asin": "B0HBQGQKZP",
