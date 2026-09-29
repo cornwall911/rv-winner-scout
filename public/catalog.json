@@ -88,17 +88,6 @@
     "walmart_url": "https://www.walmart.com/search?q=MROACE+Magnetic+Solar+Wireless+Backup+Camera+for+Car%2C+7%22+108"
   },
   {
-    "asin": "B0H4YSW5NQ",
-    "title": "RV Door Lock with Fingerprint Unlock and 0–9 Numeric Keypad",
-    "type": "winner",
-    "score": 87.2,
-    "price": 159.99,
-    "bsr": 23995,
-    "image_url": "https://m.media-amazon.com/images/I/61kXmQKvQtL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4YSW5NQ",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Door+Lock+with+Fingerprint+Unlock+and+0%E2%80%939+Numeric+Keypad"
-  },
-  {
     "asin": "B0GS5914FR",
     "title": "1080P Strong Magnetic Wireless Backup Camera for RV Trailer 1-Min Install",
     "type": "winner",
@@ -284,17 +273,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61j3AojrOgL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFWSSKG7",
     "walmart_url": "https://www.walmart.com/search?q=Garvee+RV+Tankless+Water+Heater+-+65000BTU+%7C+12V+DC+on-Deman"
-  },
-  {
-    "asin": "B0H4W51ZMH",
-    "title": "FOSSiBOT F2400 Portable Power Station, 2048Wh LiFePO4 Solar Generator, 2400W (4800W Surge) AC Output, 1100W Adjustable Fast C",
-    "type": "winner",
-    "score": 84.9,
-    "price": 579.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mIHMAoLVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4W51ZMH",
-    "walmart_url": "https://www.walmart.com/search?q=FOSSiBOT+F2400+Portable+Power+Station%2C+2048Wh+LiFePO4+Solar+"
   },
   {
     "asin": "B0HBQMPND1",
@@ -559,6 +537,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71JzpXmV7KL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1V6PQH6",
     "walmart_url": "https://www.walmart.com/search?q=Starlink+Gen+3%2F4+Wall+Pass-Through+Kit%2C+IP68+RJ45+CAT6+Socke"
+  },
+  {
+    "asin": "B0H4YSW5NQ",
+    "title": "RV Door Lock with Fingerprint Unlock and 0–9 Numeric Keypad | Full-Metal Camper Door Lock,Anti-Peek Keypad,2 FOB Remotes,2 Me",
+    "type": "winner",
+    "score": 82.9,
+    "price": 159.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61kXmQKvQtL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4YSW5NQ",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Door+Lock+with+Fingerprint+Unlock+and+0%E2%80%939+Numeric+Keypad+"
   },
   {
     "asin": "B0H14QPC23",
@@ -1243,6 +1232,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Slide-Out+Mouse+Guard+Compatible+with+Lippert%2C+Fits+1.75+"
   },
   {
+    "asin": "B0H4W51ZMH",
+    "title": "FOSSiBOT F2400 Portable Power Stetion, 2048Wh LiFePO4 Solar Generator, 2400W (4800W Surge) AC Output, 1100W Adjustable Fast Charging, 8ms UPS Battery Backup for Home Use, Power Outage, RV, Off-Grid",
+    "type": "should_test",
+    "score": 79.75,
+    "price": 579.0,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71mIHMAoLVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4W51ZMH",
+    "walmart_url": "https://www.walmart.com/search?q=FOSSiBOT+F2400+Portable+Power+Stetion%2C+2048Wh+LiFePO4+Solar+"
+  },
+  {
     "asin": "B0H8YK61ZQ",
     "title": "Starlink Mini Cable 16.4FT, 18AWG Retractable DC Starlink Mini Power Cable",
     "type": "should_test",
@@ -1914,17 +1914,6 @@
     "walmart_url": "https://www.walmart.com/search?q=mnzbue+RV+Slide-Out+Mouse+Guard+Compatible+with+Lippert+Slid"
   },
   {
-    "asin": "B0H3NDLWWZ",
-    "title": "RVShield 30 Amp RV Surge Protector &amp; Power Manager, 200°F Thermal Shutoff | Ground-Fault Auto-Off, 0/30/180s AC Delay, 9 Faul",
-    "type": "should_test",
-    "score": 77.6,
-    "price": 145.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71hY-12qdpL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3NDLWWZ",
-    "walmart_url": "https://www.walmart.com/search?q=RVShield+30+Amp+RV+Surge+Protector+%26+Power+Manager%2C+200%C2%B0F+Th"
-  },
-  {
     "asin": "B0GYK3SZXK",
     "title": "Magnetic RV Screen Door, Mosquito Net Mesh Curtain for Camper, Travel Trailer, Fifth Wheel, Tear-Resistant Pet-Friendly Self",
     "type": "should_test",
@@ -1967,6 +1956,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yQWgUvLEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZPL47RD",
     "walmart_url": "https://www.walmart.com/search?q=24V+RV+Air+Conditioner+12500+BTU+With+Heater%2C+DC+Rooftop+AC+"
+  },
+  {
+    "asin": "B0H3NDLWWZ",
+    "title": "RVShield 30 Amp RV Surge Protector &amp; Power Manager, 200°F Thermal Shutoff | Ground-Fault Auto-Off, 0/30/180s AC Delay, 9 Faul",
+    "type": "should_test",
+    "score": 77.5,
+    "price": 145.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71QVcfiZ8rL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3NDLWWZ",
+    "walmart_url": "https://www.walmart.com/search?q=RVShield+30+Amp+RV+Surge+Protector+%26+Power+Manager%2C+200%C2%B0F+Th"
   },
   {
     "asin": "B0H8MRZ45T",
@@ -3260,7 +3260,7 @@
     "title": "EFURDEN 7000W Gas Inverter Generator, Portable Generator Quiet, Eco Mode | 30A RV Outlet, THD&lt;2%, 3.5 Gal Large Fuel Tank, Lo",
     "type": "should_test",
     "score": 72.9,
-    "price": 689.99,
+    "price": 699.99,
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ER0zVpsQL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC1W23YY",
@@ -3355,6 +3355,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Portable+Cordless+Cleaner+with+Tank%3A+Foldable+Electric+Clean"
   },
   {
+    "asin": "B0H878NF4W",
+    "title": "DARAN R200 Portable Power Station 192Wh, 200W Compact Power Supply | 100W PD Fast Charge, 2 AC Outlets (Surge 400W), Light Li",
+    "type": "should_test",
+    "score": 72.55,
+    "price": 199.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81CrG+POYPL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H878NF4W",
+    "walmart_url": "https://www.walmart.com/search?q=DARAN+R200+Portable+Power+Station+192Wh%2C+200W+Compact+Power+"
+  },
+  {
     "asin": "B0H2Y3KR6Z",
     "title": "Upgrade RV Water Heater Anode Rod With Flush Wand Maintenance Kit",
     "type": "should_test",
@@ -3364,6 +3375,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71DeSWuCOHL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2Y3KR6Z",
     "walmart_url": "https://www.walmart.com/search?q=Upgrade+RV+Water+Heater+Anode+Rod+With+Flush+Wand+Maintenanc"
+  },
+  {
+    "asin": "B0H5B29WJ9",
+    "title": "MUTAOMAY 5000 Watt Inverter Generator, 4000W Running, Home Backup &amp; RV | 4000W Running, TT-30R Outlet，57.2 lb Lightweight, 30",
+    "type": "should_test",
+    "score": 72.4,
+    "price": 489.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71W3Nt+i0gL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5B29WJ9",
+    "walmart_url": "https://www.walmart.com/search?q=MUTAOMAY+5000+Watt+Inverter+Generator%2C+4000W+Running%2C+Home+B"
   },
   {
     "asin": "B0H454FKT8",
@@ -4158,6 +4180,17 @@
     "walmart_url": "https://www.walmart.com/search?q=TZYWFZ+RV+Exterior+Trash+Bag+Holder%2C+No+Drill+Suction+Cup+Co"
   },
   {
+    "asin": "B0H2CLB19D",
+    "title": "sooogd 8 Pack Solar RV Step Lights, IP68 Waterproof Warm White Stair Lights | Auto Dusk-to-Dawn Lighting With Magnetic Pad, A",
+    "type": "should_test",
+    "score": 68.3,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81pP1w9CYGL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2CLB19D",
+    "walmart_url": "https://www.walmart.com/search?q=sooogd+8+Pack+Solar+RV+Step+Lights%2C+IP68+Waterproof+Warm+Whi"
+  },
+  {
     "asin": "B0HH9H7VHJ",
     "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C, Windproof Wa",
     "type": "should_test",
@@ -4486,17 +4519,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71t37VekNZL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDP83874",
     "walmart_url": "https://www.walmart.com/search?q=2%E2%80%91in%E2%80%911+RV+Gravity+Fresh+Water+Fill+Funnel%2C+Bayonet+Lock+Inle"
-  },
-  {
-    "asin": "B0H2CLB19D",
-    "title": "sooogd 8 Pack Solar RV Step Lights, IP68 Waterproof Warm White Stair Lights | Auto Dusk-to-Dawn Lighting With Magnetic Pad, A",
-    "type": "should_test",
-    "score": 67.3,
-    "price": 29.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81pP1w9CYGL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2CLB19D",
-    "walmart_url": "https://www.walmart.com/search?q=sooogd+8+Pack+Solar+RV+Step+Lights%2C+IP68+Waterproof+Warm+Whi"
   },
   {
     "asin": "B0H4G62L2Q",
@@ -6413,6 +6435,17 @@
     "walmart_url": "https://www.walmart.com/search?q=92249+91160+520900+for+Atwood+Dometic+Suburban+RV+Water+Heat"
   },
   {
+    "asin": "B0H94VCSZX",
+    "title": "Much 200W Car Power Inverter 12V to 110V Dual AC 2 USB PD 20W QC 3.0",
+    "type": "should_test",
+    "score": 58.0,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71CHkejkyQL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H94VCSZX",
+    "walmart_url": "https://www.walmart.com/search?q=Much+200W+Car+Power+Inverter+12V+to+110V+Dual+AC+2+USB+PD+20"
+  },
+  {
     "asin": "B0H4XWNMZX",
     "title": "ALDERVIC 12V RV Water Pump, 4.0 GPM 45 PSI 3-Chamber Diaphragm Fresh Water Pressure Pump with Adjustable Pressure Switch, Sel",
     "type": "should_test",
@@ -7632,6 +7665,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71TcXLivLDL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZKY1228",
     "walmart_url": "https://www.walmart.com/search?q=Camco+Tastepure+RV+Freshwater+Kit+-+Includes+Tastepure+RV+Wa"
+  },
+  {
+    "asin": "B0H8RLRZK4",
+    "title": "Rugaest WF-8955-MBA 55A RV Converter Charger, Manual Lead-Acid/LiFePO4 | 55 Amp Power Converter, 120V to 12V converter, 105-1",
+    "type": "should_test",
+    "score": 54.25,
+    "price": 69.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7182CpVOfHL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8RLRZK4",
+    "walmart_url": "https://www.walmart.com/search?q=Rugaest+WF-8955-MBA+55A+RV+Converter+Charger%2C+Manual+Lead-Ac"
   },
   {
     "asin": "B0H2MJL9WQ",
@@ -9449,17 +9493,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Roof+AC+Cover+600D+Fits+Coleman+Mach+RecPro+TOSOT+Winter+"
   },
   {
-    "asin": "B0H1HRWP59",
-    "title": "OneSide RV City Water Fill Inlet Connector Replacement with Check Valve 90 Degree Water Hose Elbow City Water Inlet Hookup fo",
-    "type": "candidate",
-    "score": 53.5,
-    "price": 17.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61jfxVOfnDL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1HRWP59",
-    "walmart_url": "https://www.walmart.com/search?q=OneSide+RV+City+Water+Fill+Inlet+Connector+Replacement+with+"
-  },
-  {
     "asin": "B0HCJRV5FS",
     "title": "G366 Universal RV Replacement Key Set Compatible with Global Link Trailer Camper Locks, Include G301-G390 Series G391 CH751 R",
     "type": "candidate",
@@ -9645,6 +9678,28 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l5GXS07CL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1HB5QSS",
     "walmart_url": "https://www.walmart.com/search?q=Terapaton+RV+Shower+Faucet+Set+with+Shower+Bezel%2C+All-Metal+"
+  },
+  {
+    "asin": "B0H3TDJB2C",
+    "title": "Feghezja 25FT LED RV Strip Lights White, 12V Camper Waterproof Awning Light | 6500K Cool White RV Exterior Underglow Flexible",
+    "type": "candidate",
+    "score": 52.75,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZjjGKQS6L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3TDJB2C",
+    "walmart_url": "https://www.walmart.com/search?q=Feghezja+25FT+LED+RV+Strip+Lights+White%2C+12V+Camper+Waterpro"
+  },
+  {
+    "asin": "B0H1HRWP59",
+    "title": "OneSide RV City Water Fill Inlet Connector Replacement with Check Valve 90 Degree Water Hose Elbow City Water Inlet Hookup fo",
+    "type": "candidate",
+    "score": 52.5,
+    "price": 17.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61jfxVOfnDL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1HRWP59",
+    "walmart_url": "https://www.walmart.com/search?q=OneSide+RV+City+Water+Fill+Inlet+Connector+Replacement+with+"
   },
   {
     "asin": "B0H5L1QWMD",
@@ -9953,17 +10008,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MVBF+KHkL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCNRVZFB",
     "walmart_url": "https://www.walmart.com/search?q=Vocray+8x16+FT+RV+Outdoor+Mat%2C+Reversible+Blue-Gray+RV+Patio"
-  },
-  {
-    "asin": "B0H3TDJB2C",
-    "title": "Feghezja 25FT LED RV Strip Lights White, 12V Camper Waterproof Awning Light | 6500K Cool White RV Exterior Underglow Flexible",
-    "type": "candidate",
-    "score": 51.75,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZjjGKQS6L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3TDJB2C",
-    "walmart_url": "https://www.walmart.com/search?q=Feghezja+25FT+LED+RV+Strip+Lights+White%2C+12V+Camper+Waterpro"
   },
   {
     "asin": "B0HDYGLNB9",
@@ -14243,6 +14287,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41NKzMwwr-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H63646B8",
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+LED+Lighting+Power+Cable+Compatible+with+Carefree+"
+  },
+  {
+    "asin": "B0HB25MXHW",
+    "title": "Maichis 12V LED RV Wall Sconce with On/Off Switch (LED Bulb Included), Decorative Fabric Light Fixture with 1 Bulb, 12Volts I",
+    "type": "candidate",
+    "score": 34.0,
+    "price": 79.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wIQYngIEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB25MXHW",
+    "walmart_url": "https://www.walmart.com/search?q=Maichis+12V+LED+RV+Wall+Sconce+with+On%2FOff+Switch+%28LED+Bulb+"
   },
   {
     "asin": "B0GZNLSL2J",
