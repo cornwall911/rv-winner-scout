@@ -121,6 +121,17 @@
     "walmart_url": "https://www.walmart.com/search?q=MROACE+Magnetic+Solar+Wireless+Backup+Camera+for+Car%2C+7%22+108"
   },
   {
+    "asin": "B0H4YSW5NQ",
+    "title": "RV Door Lock with Fingerprint Unlock and 0–9 Numeric Keypad",
+    "type": "winner",
+    "score": 87.2,
+    "price": 159.99,
+    "bsr": 23980,
+    "image_url": "https://m.media-amazon.com/images/I/61kXmQKvQtL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4YSW5NQ",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Door+Lock+with+Fingerprint+Unlock+and+0%E2%80%939+Numeric+Keypad"
+  },
+  {
     "asin": "B0GS5914FR",
     "title": "1080P Strong Magnetic Wireless Backup Camera for RV Trailer 1-Min Install",
     "type": "winner",
@@ -537,17 +548,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71JzpXmV7KL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1V6PQH6",
     "walmart_url": "https://www.walmart.com/search?q=Starlink+Gen+3%2F4+Wall+Pass-Through+Kit%2C+IP68+RJ45+CAT6+Socke"
-  },
-  {
-    "asin": "B0H4YSW5NQ",
-    "title": "RV Door Lock with Fingerprint Unlock and 0–9 Numeric Keypad | Full-Metal Camper Door Lock,Anti-Peek Keypad,2 FOB Remotes,2 Me",
-    "type": "winner",
-    "score": 82.9,
-    "price": 159.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61kXmQKvQtL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4YSW5NQ",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Door+Lock+with+Fingerprint+Unlock+and+0%E2%80%939+Numeric+Keypad+"
   },
   {
     "asin": "B0H14QPC23",
@@ -1848,17 +1848,6 @@
     "walmart_url": "https://www.walmart.com/search?q=OUPES+Exodus+350+Portable+Power+Station%2C+288Wh+350W+LiFePO4+"
   },
   {
-    "asin": "B0HHFFDX7S",
-    "title": "Waterproof Car Rearview Camera Rain Guard Backup Hood Cover Adhesive Backed",
-    "type": "should_test",
-    "score": 77.8,
-    "price": 8.99,
-    "bsr": 12900,
-    "image_url": "https://m.media-amazon.com/images/I/81E+vtYrb8L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHFFDX7S",
-    "walmart_url": "https://www.walmart.com/search?q=Waterproof+Car+Rearview+Camera+Rain+Guard+Backup+Hood+Cover+"
-  },
-  {
     "asin": "B0HHZ3CTWX",
     "title": "8 Pack Waterproof Backup Camera Rain Shield Rear View Camera Rain Shield",
     "type": "should_test",
@@ -2055,6 +2044,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/612tLsVJrxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBW6Y851",
     "walmart_url": "https://www.walmart.com/search?q=12V+Rooftop+RV+Air+Conditioner%2C+Rooftop+Parking+AC+Unit+with"
+  },
+  {
+    "asin": "B0HHFFDX7S",
+    "title": "Waterproof Car Rearview Camera Rain Guard Backup Hood Cover Adhesive Backed",
+    "type": "should_test",
+    "score": 77.3,
+    "price": 8.99,
+    "bsr": 11455,
+    "image_url": "https://m.media-amazon.com/images/I/81E+vtYrb8L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHFFDX7S",
+    "walmart_url": "https://www.walmart.com/search?q=Waterproof+Car+Rearview+Camera+Rain+Guard+Backup+Hood+Cover+"
   },
   {
     "asin": "B0HHRXRLWZ",
@@ -4295,7 +4295,7 @@
     "type": "should_test",
     "score": 68.1,
     "price": 53.99,
-    "bsr": 14407,
+    "bsr": 23266,
     "image_url": "https://m.media-amazon.com/images/I/71KYDyK-S2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5C1V9BF",
     "walmart_url": "https://www.walmart.com/search?q=Safoner+Aluminum+RV+Floor+Register+4%22x10%22%2C+Removable+Cover%2C+"
@@ -8530,7 +8530,7 @@
     "type": "candidate",
     "score": 58.0,
     "price": 9.99,
-    "bsr": 11763,
+    "bsr": 23216,
     "image_url": "https://m.media-amazon.com/images/I/717JDeOUXRL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDBRTQMF",
     "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin+Lock+Anti-Theft+3+Inch+Length+5%2F8%22+Dia+Hit"
