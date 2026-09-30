@@ -907,7 +907,7 @@
     "type": "winner",
     "score": 81.0,
     "price": 149.98,
-    "bsr": 10248,
+    "bsr": 11363,
     "image_url": "https://m.media-amazon.com/images/I/71I4tSGuzDL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJPGLTYC",
     "walmart_url": "https://www.walmart.com/search?q=2027+New+Wall+Mounted+Air+Conditioner%2C+1800W+Ductless+Portab"
@@ -1626,6 +1626,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71QQPfqMODL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5W87QDM",
     "walmart_url": "https://www.walmart.com/search?q=WSDCAM+Two-Way+Bike+Alarm+120dB%2C+USB-C+Rechargeable+with+Rem"
+  },
+  {
+    "asin": "B0H9RWG765",
+    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
+    "type": "should_test",
+    "score": 78.45,
+    "price": 239.99,
+    "bsr": 8366,
+    "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
+    "walmart_url": "https://www.walmart.com/search?q=LIBRIDS+Portable+Power+Station+C600%2C+640Wh+Solar+Generator+6"
   },
   {
     "asin": "B0H8RDKKZ5",
@@ -3036,17 +3047,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+RV+Awning+Tie+Down+Anchor+Kit+for+Camper+Trailer+"
   },
   {
-    "asin": "B0H9RWG765",
-    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
-    "type": "should_test",
-    "score": 74.0,
-    "price": 239.99,
-    "bsr": 9587,
-    "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
-    "walmart_url": "https://www.walmart.com/search?q=LIBRIDS+Portable+Power+Station+C600%2C+640Wh+Solar+Generator+6"
-  },
-  {
     "asin": "B0HH3M98N4",
     "title": "Vehicle Awning 4.9&#x27;×6.5&#x27;, Retractable Car SUV Truck Van Camper Awning | Roof Rack Pull-out Side Sun Shade UV50+600D Oxford Wa",
     "type": "should_test",
@@ -3085,7 +3085,7 @@
     "type": "should_test",
     "score": 73.65,
     "price": 52.84,
-    "bsr": 10729,
+    "bsr": 10751,
     "image_url": "https://m.media-amazon.com/images/I/71bfpz8rCRL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1MZPMTD",
     "walmart_url": "https://www.walmart.com/search?q=Camco+Tastepure+4-in-1+Adjustable+RV+Water+Pressure+Regulato"
@@ -4218,7 +4218,7 @@
     "type": "should_test",
     "score": 68.25,
     "price": 139.99,
-    "bsr": 11443,
+    "bsr": 9929,
     "image_url": "https://m.media-amazon.com/images/I/71qOaJDj1NL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1BG1W7D",
     "walmart_url": "https://www.walmart.com/search?q=Adjustable+Trailer+Hitch+for+2.5%22+Receiver%2C+6+in+Drop%2FRise%2C+"
@@ -4719,6 +4719,17 @@
     "walmart_url": "https://www.walmart.com/search?q=FSLPQP+RV+Door+Window+Shade+Cover%2C+25%22+L+x+16%22+W+Foldable+Wa"
   },
   {
+    "asin": "B0H1QS6HN9",
+    "title": "ONETIGRIS CAMPING 4-Season Cot Mattress Pad, Reversible Sleeping Pad",
+    "type": "should_test",
+    "score": 66.1,
+    "price": 56.99,
+    "bsr": 9946,
+    "image_url": "https://m.media-amazon.com/images/I/71uN6fIAOBL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1QS6HN9",
+    "walmart_url": "https://www.walmart.com/search?q=ONETIGRIS+CAMPING+4-Season+Cot+Mattress+Pad%2C+Reversible+Slee"
+  },
+  {
     "asin": "B0H53HXP5X",
     "title": "4PCS RV Dinette Cushion Covers, Premium 3D Jacquard Stretch Camper Cusion Covers, Breathable &amp; Washable RV Booth Covers for Travel Trailer, Motorhome",
     "type": "should_test",
@@ -4838,17 +4849,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kv5Ys3TZL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJV9PKJP",
     "walmart_url": "https://www.walmart.com/search?q=Sponiwelly+RV+Dual+C-O+and+L-P+G-as+Sensor%2C+12V+DC+Hardwired"
-  },
-  {
-    "asin": "B0H1QS6HN9",
-    "title": "ONETIGRIS CAMPING 4-Season Cot Mattress Pad, Reversible Sleeping Pad",
-    "type": "should_test",
-    "score": 65.25,
-    "price": 56.99,
-    "bsr": 7781,
-    "image_url": "https://m.media-amazon.com/images/I/71uN6fIAOBL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1QS6HN9",
-    "walmart_url": "https://www.walmart.com/search?q=ONETIGRIS+CAMPING+4-Season+Cot+Mattress+Pad%2C+Reversible+Slee"
   },
   {
     "asin": "B0HF4BRQZZ",
@@ -5747,7 +5747,7 @@
     "type": "should_test",
     "score": 60.0,
     "price": 19.78,
-    "bsr": 10466,
+    "bsr": 8666,
     "image_url": "https://m.media-amazon.com/images/I/61kjtchM7VL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2F7LZ9X",
     "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Lock+with+Keys%2CUniversal+1-7%2F8%22%2C2%22%2C2-5%2F16%22Trai"
@@ -9355,7 +9355,7 @@
     "type": "candidate",
     "score": 54.0,
     "price": 14.99,
-    "bsr": 10191,
+    "bsr": 6641,
     "image_url": "https://m.media-amazon.com/images/I/71dWNAgPFlL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5LK83Y8",
     "walmart_url": "https://www.walmart.com/search?q=G360+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
@@ -9480,17 +9480,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71d0meqRDpL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5LBR88Q",
     "walmart_url": "https://www.walmart.com/search?q=G351+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
-  },
-  {
-    "asin": "B0H11W86CN",
-    "title": "4 Pack Wheel Chocks, Non-Slip Wheel Chocks for Travel Trailers",
-    "type": "candidate",
-    "score": 53.75,
-    "price": 18.29,
-    "bsr": 11438,
-    "image_url": "https://m.media-amazon.com/images/I/61yoVLaZbBL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H11W86CN",
-    "walmart_url": "https://www.walmart.com/search?q=4+Pack+Wheel+Chocks%2C+Non-Slip+Wheel+Chocks+for+Travel+Traile"
   },
   {
     "asin": "B0H6LV42M8",
@@ -10305,6 +10294,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/612viUzKMjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3964RXF",
     "walmart_url": "https://www.walmart.com/search?q=Zonon+8+Pack+Aluminum+Rv+Corner+Trim+Molding+48%E2%80%98%27+Length%2C+3%2F"
+  },
+  {
+    "asin": "B0H11W86CN",
+    "title": "4 Pack Wheel Chocks, Non-Slip Wheel Chocks for Travel Trailers",
+    "type": "candidate",
+    "score": 50.75,
+    "price": 18.29,
+    "bsr": 10305,
+    "image_url": "https://m.media-amazon.com/images/I/61yoVLaZbBL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H11W86CN",
+    "walmart_url": "https://www.walmart.com/search?q=4+Pack+Wheel+Chocks%2C+Non-Slip+Wheel+Chocks+for+Travel+Traile"
   },
   {
     "asin": "B0H6JWCK63",
@@ -11407,17 +11407,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Shower+Faucet%2C+Mobile+Home+Shower+Faucet%2C+Wall+Mount+Plas"
   },
   {
-    "asin": "B0H4Q6DGW4",
-    "title": "2&quot; Trailer Hitch Cover [Reinforced Rubber Strap] Heavy Duty Rustproof Flat",
-    "type": "candidate",
-    "score": 47.5,
-    "price": 5.29,
-    "bsr": 10815,
-    "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
-    "walmart_url": "https://www.walmart.com/search?q=2%22+Trailer+Hitch+Cover+%5BReinforced+Rubber+Strap%5D+Heavy+Duty+"
-  },
-  {
     "asin": "B0HCB77DHD",
     "title": "Omni Directional Outdoor TV Antenna for Attic,Camper,RV,Boat, Black",
     "type": "candidate",
@@ -11757,6 +11746,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51uhoAwiuoL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H26MN48T",
     "walmart_url": "https://www.walmart.com/search?q=RecPro+24%22+x+24%22+RV+Shower+Pan+with+Center+Drain+%7C+Polar+Whi"
+  },
+  {
+    "asin": "B0H4Q6DGW4",
+    "title": "2&quot; Trailer Hitch Cover [Reinforced Rubber Strap] Heavy Duty Rustproof Flat",
+    "type": "candidate",
+    "score": 46.5,
+    "price": 5.29,
+    "bsr": 10032,
+    "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
+    "walmart_url": "https://www.walmart.com/search?q=2%22+Trailer+Hitch+Cover+%5BReinforced+Rubber+Strap%5D+Heavy+Duty+"
   },
   {
     "asin": "B0H4GPLM8Y",
