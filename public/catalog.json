@@ -726,17 +726,6 @@
     "walmart_url": "https://www.walmart.com/search?q=12V+DC+RV+Air+Conditioner+12000+BTU+12+Volt+Mini+Split+Truck"
   },
   {
-    "asin": "B0GY4TQ2P8",
-    "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
-    "type": "winner",
-    "score": 82.2,
-    "price": 679.99,
-    "bsr": 2221,
-    "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GY4TQ2P8",
-    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station%2C+2%2C010Wh%2C+1%2C500W"
-  },
-  {
     "asin": "B0H2VFCC3B",
     "title": "AC Duct and Sound Suppressor Compatible with Dometic Duo",
     "type": "winner",
@@ -1175,6 +1164,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71Od-1l3uKL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9X1WZYZ",
     "walmart_url": "https://www.walmart.com/search?q=63+Gal+%2F+240+L+Water+Bladder+Tank%2C+Portable+Collapsible+Wate"
+  },
+  {
+    "asin": "B0GY4TQ2P8",
+    "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
+    "type": "winner",
+    "score": 80.0,
+    "price": 679.99,
+    "bsr": 2023,
+    "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GY4TQ2P8",
+    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station%2C+2%2C010Wh%2C+1%2C500W"
   },
   {
     "asin": "B0H8RHH69H",
