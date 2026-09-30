@@ -115,7 +115,7 @@
     "type": "winner",
     "score": 86.75,
     "price": 129.99,
-    "bsr": 8246,
+    "bsr": 7030,
     "image_url": "https://m.media-amazon.com/images/I/71tf8CiNoqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GS5914FR",
     "walmart_url": "https://www.walmart.com/search?q=1080P+Strong+Magnetic+Wireless+Backup+Camera+for+RV+Trailer+"
@@ -2117,7 +2117,7 @@
     "type": "should_test",
     "score": 77.3,
     "price": 6.99,
-    "bsr": 6413,
+    "bsr": 6717,
     "image_url": "https://m.media-amazon.com/images/I/61CfypcLiNL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
     "walmart_url": "https://www.walmart.com/search?q=2pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover"
@@ -10868,17 +10868,6 @@
     "walmart_url": "https://www.walmart.com/search?q=4%22+Clear+RV+Sewer+Hose+Extension+Adapter+-+Odor-Proof+%26+Leak"
   },
   {
-    "asin": "B0H3RZ4R2Z",
-    "title": "25 FT 4 Pin Trailer Wiring Harness，Waterproof Trailer Wiring Kit",
-    "type": "candidate",
-    "score": 49.25,
-    "price": 8.98,
-    "bsr": 14884,
-    "image_url": "https://m.media-amazon.com/images/I/81mYUES74GL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3RZ4R2Z",
-    "walmart_url": "https://www.walmart.com/search?q=25+FT+4+Pin+Trailer+Wiring+Harness%EF%BC%8CWaterproof+Trailer+Wiring"
-  },
-  {
     "asin": "B0H1VVFDYJ",
     "title": "Toldear RV Sewer Adapter to 3 Inch PVC, Rotating Bayonet Waste Pipe Fitting | Camper Waste Connection Coupler, Rigid Bayonet",
     "type": "candidate",
@@ -11427,6 +11416,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+XXbTNdOL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4ZJJBV8",
     "walmart_url": "https://www.walmart.com/search?q=Pniwuno+12V+Marine+Boat+LED+Light+Strip%2C+Cuttable+IP70+Water"
+  },
+  {
+    "asin": "B0H3RZ4R2Z",
+    "title": "25 FT 4 Pin Trailer Wiring Harness，Waterproof Trailer Wiring Kit",
+    "type": "candidate",
+    "score": 47.25,
+    "price": 8.98,
+    "bsr": 11965,
+    "image_url": "https://m.media-amazon.com/images/I/81mYUES74GL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3RZ4R2Z",
+    "walmart_url": "https://www.walmart.com/search?q=25+FT+4+Pin+Trailer+Wiring+Harness%EF%BC%8CWaterproof+Trailer+Wiring"
   },
   {
     "asin": "B0H5B6NK79",
@@ -14069,6 +14069,17 @@
     "walmart_url": "https://www.walmart.com/search?q=OUTPRIZE+63in+Wooden+Bunk+Ladder%2C+Bunk+Bed+Ladder+for+Loft%2C+"
   },
   {
+    "asin": "B0H5W53WKV",
+    "title": "2&quot; x 6&quot; inch Hitch Receiver Tube Weld-On Trailer Combo Bar Raw Steel",
+    "type": "candidate",
+    "score": 36.25,
+    "price": 18.99,
+    "bsr": 12077,
+    "image_url": "https://m.media-amazon.com/images/I/81bk47Vp6+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5W53WKV",
+    "walmart_url": "https://www.walmart.com/search?q=2%22+x+6%22+inch+Hitch+Receiver+Tube+Weld-On+Trailer+Combo+Bar+R"
+  },
+  {
     "asin": "B0GZNBFJZZ",
     "title": "Upgraded Replacement ODS &amp; Pilot Flame Assembly for Built-in Oven Fit for Furrion Caravan",
     "type": "candidate",
@@ -14606,17 +14617,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DUuUrEdzL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5KGXZYH",
     "walmart_url": "https://www.walmart.com/search?q=Utility+Trailer+Cover+for+PJ+U10+Utility+Trailer+7x14ft+2018"
-  },
-  {
-    "asin": "B0H5W53WKV",
-    "title": "2&quot; x 6&quot; inch Hitch Receiver Tube Weld-On Trailer Combo Bar Raw Steel",
-    "type": "candidate",
-    "score": 30.5,
-    "price": 18.99,
-    "bsr": 9937,
-    "image_url": "https://m.media-amazon.com/images/I/81bk47Vp6+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5W53WKV",
-    "walmart_url": "https://www.walmart.com/search?q=2%22+x+6%22+inch+Hitch+Receiver+Tube+Weld-On+Trailer+Combo+Bar+R"
   },
   {
     "asin": "B0H1QJ1TZP",
