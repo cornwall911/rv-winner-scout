@@ -1012,6 +1012,17 @@
     "walmart_url": "https://www.walmart.com/search?q=FOSSiBOT+F1800+Portable+Power+Station+1800W+%283600W+Surge%29%2C+1"
   },
   {
+    "asin": "B0HHY3BLNN",
+    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200",
+    "type": "winner",
+    "score": 80.65,
+    "price": 100.0,
+    "bsr": 27595,
+    "image_url": "https://m.media-amazon.com/images/I/71l7Lz8aQgL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
+    "walmart_url": "https://www.walmart.com/search?q=Exhaustrex+RV+Cassette+Toilet+Ventilation+System+%7C+Fits+Thet"
+  },
+  {
     "asin": "B0H8XZYCK4",
     "title": "2026 Upgrade Portable Car Fan,Clip‑on/Hang/Stand 3D Circulating Air Car Cooler with LED Display,USB Quiet Vehicle Fan for SUV Truck RV,Ideal Summer Gift for Drivers(built-in battery)",
     "type": "winner",
@@ -1142,17 +1153,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61x-IjRkvSL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7BHL18W",
     "walmart_url": "https://www.walmart.com/search?q=Heavy-Duty+I-Beam+RV+Stabilizer%2C+Camper+Anti-Sway+Jack"
-  },
-  {
-    "asin": "B0HHY3BLNN",
-    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200 | Stop venting sewer gases into your RV! Passive",
-    "type": "winner",
-    "score": 80.15,
-    "price": 100.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
-    "walmart_url": "https://www.walmart.com/search?q=Exhaustrex+RV+Cassette+Toilet+Ventilation+System+%7C+Fits+Thet"
   },
   {
     "asin": "B0H9X1WZYZ",
@@ -3949,6 +3949,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Aluminum+RV+Floor+Vent+Cover+2%22x10%22%2C+Magnetic+Removable+Cove"
   },
   {
+    "asin": "B0H9WQGV28",
+    "title": "FOCSPROD Update Adhesive RV Shower Corner Storage Bar, 2 Pack",
+    "type": "should_test",
+    "score": 69.45,
+    "price": 12.99,
+    "bsr": 27384,
+    "image_url": "https://m.media-amazon.com/images/I/612uQ+CNKrL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9WQGV28",
+    "walmart_url": "https://www.walmart.com/search?q=FOCSPROD+Update+Adhesive+RV+Shower+Corner+Storage+Bar%2C+2+Pac"
+  },
+  {
     "asin": "B0H83DLDV3",
     "title": "RV Airflow Systems RV Air Conditioning Vent, 360° Rotating Ceiling Vent | Up to 15% Increased Airflow, 360° Rotating Airflow",
     "type": "should_test",
@@ -5709,17 +5720,6 @@
     "walmart_url": "https://www.walmart.com/search?q=HoKarea+Foldable+Telescopic+RV+Step%2C+400lbs+Load+Aluminum+Al"
   },
   {
-    "asin": "B0H2LB1MFS",
-    "title": "TUFFIOM 6000LBS Car Dolly Set of 4,Anti-Deformation for Vehicle Moving",
-    "type": "should_test",
-    "score": 60.4,
-    "price": 109.99,
-    "bsr": 24034,
-    "image_url": "https://m.media-amazon.com/images/I/71KIVBKEP6L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2LB1MFS",
-    "walmart_url": "https://www.walmart.com/search?q=TUFFIOM+6000LBS+Car+Dolly+Set+of+4%2CAnti-Deformation+for+Vehi"
-  },
-  {
     "asin": "B0HCSW6J5W",
     "title": "Trailer Dolly with 2 Inch Ball 600 lbs Capacity for Moving Boat ATV UTV Trailer, Garden Cart and Wagon Boat Utility - Jetski -Kayak Trailer Mover, Farmer Equipments Trailer, Durable Steel Frame",
     "type": "should_test",
@@ -7346,6 +7346,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61p6FyA8XWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GSQP623P",
     "walmart_url": "https://www.walmart.com/search?q=VigorTrek+Weight+Distribution+Hitch+with+Sway+Control%2C+10000"
+  },
+  {
+    "asin": "B0H2LB1MFS",
+    "title": "TUFFIOM 6000LBS Car Dolly Set of 4,Anti-Deformation for Vehicle Moving",
+    "type": "should_test",
+    "score": 55.25,
+    "price": 109.99,
+    "bsr": 25694,
+    "image_url": "https://m.media-amazon.com/images/I/71KIVBKEP6L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2LB1MFS",
+    "walmart_url": "https://www.walmart.com/search?q=TUFFIOM+6000LBS+Car+Dolly+Set+of+4%2CAnti-Deformation+for+Vehi"
   },
   {
     "asin": "B0H6RFSBW4",
@@ -10813,17 +10824,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+RV+Roof+Cover%2C+Waterproof+%26+UV+Resistant%2C+Fits+24"
   },
   {
-    "asin": "B0H9WQGV28",
-    "title": "FOCSPROD Update Adhesive RV Shower Corner Storage Bar, 2 Pack | Stainless Steel RV Storage Organization Corner Bar, RV Shower",
-    "type": "candidate",
-    "score": 49.25,
-    "price": 12.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/612uQ+CNKrL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9WQGV28",
-    "walmart_url": "https://www.walmart.com/search?q=FOCSPROD+Update+Adhesive+RV+Shower+Corner+Storage+Bar%2C+2+Pac"
-  },
-  {
     "asin": "B0HFTJKSXN",
     "title": "MiracleMist RV Roof &amp; Awning Cleaner, Exterior Surface, 32 oz, 2pk",
     "type": "candidate",
@@ -11086,6 +11086,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61J87awHX2L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6BSY29B",
     "walmart_url": "https://www.walmart.com/search?q=2+Pcs+Trailer+Coupler+Pin+with+Anti-Lost+Rope+Ring%2C+Arch+Tra"
+  },
+  {
+    "asin": "B0H3QD5F91",
+    "title": "48 Inch 4-Way Flat Trailer Hitch Wiring Harness, 16AWG Pure Copper",
+    "type": "candidate",
+    "score": 48.5,
+    "price": 4.99,
+    "bsr": 27320,
+    "image_url": "https://m.media-amazon.com/images/I/51Pl4krk7gL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3QD5F91",
+    "walmart_url": "https://www.walmart.com/search?q=48+Inch+4-Way+Flat+Trailer+Hitch+Wiring+Harness%2C+16AWG+Pure+"
   },
   {
     "asin": "B0H96VJHKJ",
@@ -12397,17 +12408,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Antenna+Directional+Crank+Kit%2C+RV+Antenna+Crank+Handle+Re"
   },
   {
-    "asin": "B0H3QD5F91",
-    "title": "48 Inch 4-Way Flat Trailer Hitch Wiring Harness, 16AWG Pure Copper | Weatherproof molded plug, dust cover, no-tool no-splice",
-    "type": "candidate",
-    "score": 44.25,
-    "price": 4.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51Pl4krk7gL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3QD5F91",
-    "walmart_url": "https://www.walmart.com/search?q=48+Inch+4-Way+Flat+Trailer+Hitch+Wiring+Harness%2C+16AWG+Pure+"
-  },
-  {
     "asin": "B0H15GL7FY",
     "title": "Leinuosen 12 Pcs 6.5&quot; Round Rv Vent Cover Ceiling Air Conditioner Vent Lid | Fits 4-5/8&quot; Air Ducts, Beige Vent Covers, Replac",
     "type": "candidate",
@@ -13711,7 +13711,7 @@
     "type": "candidate",
     "score": 38.5,
     "price": 38.99,
-    "bsr": 25909,
+    "bsr": 27251,
     "image_url": "https://m.media-amazon.com/images/I/61aPQGl183L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H25TYLLP",
     "walmart_url": "https://www.walmart.com/search?q=FEELSO+Kitchen+Faucet+with+Pull+Down+Sprayer+Stainless+Steel"
