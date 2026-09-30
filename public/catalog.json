@@ -715,6 +715,17 @@
     "walmart_url": "https://www.walmart.com/search?q=12V+DC+RV+Air+Conditioner+12000+BTU+12+Volt+Mini+Split+Truck"
   },
   {
+    "asin": "B0H4M4RLTY",
+    "title": "Kadrama RV Screen Door Closer, Adjustable Tension, 17-Inch Aluminum | Automatic Closing, Durable Cable, Universal Camper Door",
+    "type": "winner",
+    "score": 82.25,
+    "price": 22.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vcOVDeNZL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4M4RLTY",
+    "walmart_url": "https://www.walmart.com/search?q=Kadrama+RV+Screen+Door+Closer%2C+Adjustable+Tension%2C+17-Inch+A"
+  },
+  {
     "asin": "B0H2VFCC3B",
     "title": "AC Duct and Sound Suppressor Compatible with Dometic Duo",
     "type": "winner",
@@ -2200,17 +2211,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Jumyee+RV+Screen+Door+Curtain%2C+Magnetic+Camper+Door+Mesh+31."
   },
   {
-    "asin": "B0H4M4RLTY",
-    "title": "RV Screen Door Closer, Adjustable Tension, 17-Inch Aluminum",
-    "type": "should_test",
-    "score": 77.05,
-    "price": 22.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71vcOVDeNZL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4M4RLTY",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Screen+Door+Closer%2C+Adjustable+Tension%2C+17-Inch+Aluminum"
-  },
-  {
     "asin": "B0H45LF1S8",
     "title": "Frezon DC 24V RV Air Conditioner 13000btu Truck Air Conditioner Split AC for Camping Vehicles Trucks RVs Trailers Excavators",
     "type": "should_test",
@@ -3122,17 +3122,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71bfpz8rCRL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1MZPMTD",
     "walmart_url": "https://www.walmart.com/search?q=Camco+Tastepure+4-in-1+Adjustable+RV+Water+Pressure+Regulato"
-  },
-  {
-    "asin": "B0HB41WFKR",
-    "title": "4&quot; RV Shower Faucet with Hose Kit for RV, Camper, Motorhome",
-    "type": "should_test",
-    "score": 73.65,
-    "price": 36.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61jE+TbzVrL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB41WFKR",
-    "walmart_url": "https://www.walmart.com/search?q=4%22+RV+Shower+Faucet+with+Hose+Kit+for+RV%2C+Camper%2C+Motorhome"
   },
   {
     "asin": "B0H7WF83XV",
@@ -8184,6 +8173,17 @@
     "walmart_url": "https://www.walmart.com/search?q=10000lbs+8-Inch+Trailer+Dual+Hitch+Extender+Adapter%2C+2+Inch+"
   },
   {
+    "asin": "B0H1HZLGPS",
+    "title": "BruyanXuan Upgraded OEM 520820 521099 RV Furnace Control Circuit Module Board 12V DC Compatible with Suburban SF20/25/30/35/4",
+    "type": "should_test",
+    "score": 52.5,
+    "price": 34.88,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KyqzKK46L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1HZLGPS",
+    "walmart_url": "https://www.walmart.com/search?q=BruyanXuan+Upgraded+OEM+520820+521099+RV+Furnace+Control+Cir"
+  },
+  {
     "asin": "B0H2NSGLT6",
     "title": "PRO Flex RV Flexible Sealant 10 oz Cartridge Waterproof Flexible RV Roof and Exterior Sealant for EPDM TPO Metal Fiberglass Vinyl and Aluminum 4 Pack (Translucent)",
     "type": "should_test",
@@ -8393,17 +8393,6 @@
     "walmart_url": "https://www.walmart.com/search?q=161123+RV+Furnace+Heater+Gas+Valve+Fits+Suburban+NT+Series"
   },
   {
-    "asin": "B0H1HZLGPS",
-    "title": "BruyanXuan Upgraded OEM 520820 521099 RV Furnace Control Circuit Module Board 12V DC Compatible with Suburban SF20/25/30/35/4",
-    "type": "should_test",
-    "score": 49.0,
-    "price": 34.88,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KyqzKK46L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1HZLGPS",
-    "walmart_url": "https://www.walmart.com/search?q=BruyanXuan+Upgraded+OEM+520820+521099+RV+Furnace+Control+Cir"
-  },
-  {
     "asin": "B0HBC8TLY8",
     "title": "301702 RV Entry Step Control Module Compatible with RV Coach Motorhome and Transport Vehicles,for Stromberg Carlson,Lippert Kwikee,Frigette Entry Steps",
     "type": "should_test",
@@ -8435,6 +8424,17 @@
     "image_url": "https://m.media-amazon.com/images/I/51W8nVhkHWL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H112F6RF",
     "walmart_url": "https://www.walmart.com/search?q=BlueFire+2+Pack+RV+Ceiling+Lights+with+Remote%2C+800LM+Dimmabl"
+  },
+  {
+    "asin": "B0H6GRRYPT",
+    "title": "RVLock Luxury Inflatable Sofa with Built in Pump, Inflatable Camping Couch",
+    "type": "candidate",
+    "score": 68.6,
+    "price": 249.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/611EEBxy8wL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6GRRYPT",
+    "walmart_url": "https://www.walmart.com/search?q=RVLock+Luxury+Inflatable+Sofa+with+Built+in+Pump%2C+Inflatable"
   },
   {
     "asin": "B0H2DQK633",
@@ -10934,6 +10934,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RTV+Silicone+Sealant+Adhesive%2C+100%25+Silicone+Waterproof+Caul"
   },
   {
+    "asin": "B0HB41WFKR",
+    "title": "SolYehom 4&quot; RV Shower Faucet with Hose Kit for RV, Camper, Motorhome | Camper Shower Faucet Replacement Kit,ABS RV Tub Faucet",
+    "type": "candidate",
+    "score": 49.5,
+    "price": 36.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61jE+TbzVrL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB41WFKR",
+    "walmart_url": "https://www.walmart.com/search?q=SolYehom+4%22+RV+Shower+Faucet+with+Hose+Kit+for+RV%2C+Camper%2C+M"
+  },
+  {
     "asin": "B0H12K645W",
     "title": "Backup Camera with Clear Night Vision,Rear Front Camera Flush Mount 170° Wide Angle IP68K Waterproof AHD Reverse Camera for Car Truck SUV RV",
     "type": "candidate",
@@ -11306,6 +11317,17 @@
     "image_url": "https://m.media-amazon.com/images/I/51Pl4krk7gL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3QD5F91",
     "walmart_url": "https://www.walmart.com/search?q=48+Inch+4-Way+Flat+Trailer+Hitch+Wiring+Harness%2C+16AWG+Pure+"
+  },
+  {
+    "asin": "B0H2JT4JJM",
+    "title": "5PCS CH509 Replacement Keys Compatible with Truck Tool Boxes RV Camper Cabinet Push Locks and Paddle Handle Boxes CH-509-1",
+    "type": "candidate",
+    "score": 48.5,
+    "price": 11.97,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8181ERQkCrL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2JT4JJM",
+    "walmart_url": "https://www.walmart.com/search?q=5PCS+CH509+Replacement+Keys+Compatible+with+Truck+Tool+Boxes"
   },
   {
     "asin": "B0H96VJHKJ",
