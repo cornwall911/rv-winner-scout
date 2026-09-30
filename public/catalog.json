@@ -913,17 +913,6 @@
     "walmart_url": "https://www.walmart.com/search?q=12V+RV+Air+Conditioner+with+Heat+11000+BTU+Cooling+%26+3500+BT"
   },
   {
-    "asin": "B0HBQCYSHQ",
-    "title": "MapleGrace RV Water Heater, 55,000 BTU Tankless Water Heater CSA Certified | Anti-Freeze &amp; High Altitude,Instant Shower with",
-    "type": "winner",
-    "score": 81.15,
-    "price": 139.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51FhXyxFjxL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQCYSHQ",
-    "walmart_url": "https://www.walmart.com/search?q=MapleGrace+RV+Water+Heater%2C+55%2C000+BTU+Tankless+Water+Heater"
-  },
-  {
     "asin": "B0H4QJRMRT",
     "title": "12V RV Air Conditioner, Dual-Mount Wall or Rooftop, 10000 BTU DC AC with Heater, Quiet AC Unit for Van Camper Trailer",
     "type": "winner",
@@ -977,6 +966,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71pbcEv7C-L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H25K1FFM",
     "walmart_url": "https://www.walmart.com/search?q=18+Inch+RV+Propane+Hose+with+Gauge%2C+2-Pack+Stainless+Steel+B"
+  },
+  {
+    "asin": "B0HBQCYSHQ",
+    "title": "MapleGrace RV Water Heater, 55,000 BTU Tankless Water Heater CSA Certified",
+    "type": "winner",
+    "score": 80.9,
+    "price": 139.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/51FhXyxFjxL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQCYSHQ",
+    "walmart_url": "https://www.walmart.com/search?q=MapleGrace+RV+Water+Heater%2C+55%2C000+BTU+Tankless+Water+Heater"
   },
   {
     "asin": "B0H884HT8F",
@@ -1846,6 +1846,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gT9dtZGKL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6MHK8ZC",
     "walmart_url": "https://www.walmart.com/search?q=12V+Truck+Cab+Air+Conditioner+12000BTU%2C+Electric+RV+Truck+Ai"
+  },
+  {
+    "asin": "B0H4FCSV61",
+    "title": "RV Water Inlet Funnel 4&quot; Wide Mouth 3D Printed Funnel for1¼&#x27;&#x27; Inlets, Black",
+    "type": "should_test",
+    "score": 77.85,
+    "price": 16.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71WDIe0i6-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4FCSV61",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Water+Inlet+Funnel+4%22+Wide+Mouth+3D+Printed+Funnel+for1%C2%BC%27"
   },
   {
     "asin": "B0H6Q236VN",
@@ -4563,17 +4574,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wct3O6S1L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H824JHTQ",
     "walmart_url": "https://www.walmart.com/search?q=RV+Shower+Faucet+with+Oversized+Showerhead+%26+59%22+Hose+%26+On%2FO"
-  },
-  {
-    "asin": "B0H4FCSV61",
-    "title": "RV Water Inlet Funnel 4&quot; Wide Mouth 3D Printed Funnel for1¼&#x27;&#x27; Inlets, Black | Hands Free Screw On Cam Lock Design Funnel for",
-    "type": "should_test",
-    "score": 67.75,
-    "price": 16.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WDIe0i6-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4FCSV61",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Water+Inlet+Funnel+4%22+Wide+Mouth+3D+Printed+Funnel+for1%C2%BC%27"
   },
   {
     "asin": "B0H2D554GK",
