@@ -1089,17 +1089,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Exhaustrex+RV+Cassette+Toilet+Ventilation+System+%7C+Fits+Thet"
   },
   {
-    "asin": "B0H6SV7GY5",
-    "title": "Bluetooth RV Surge Protectors 30 Amp,Circuit Analyzer for Camper",
-    "type": "winner",
-    "score": 80.5,
-    "price": 79.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/81DHJKiFVRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6SV7GY5",
-    "walmart_url": "https://www.walmart.com/search?q=Bluetooth+RV+Surge+Protectors+30+Amp%2CCircuit+Analyzer+for+Ca"
-  },
-  {
     "asin": "B0H5BJQJW3",
     "title": "RV Stabilizer Jack, Heavy Duty I-Beam Camper Anti-Sway, Fits Most Trailers",
     "type": "winner",
@@ -1133,17 +1122,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Lipower+2400W+Portable+Power+Station%2C+2150Wh+Solar+Generator"
   },
   {
-    "asin": "B0H87F5N3R",
-    "title": "Starlink Wall Pass Through,RJ45 CAT6 Ethernet Socket and DC Wall Socket for Starlink Mini, Gen3/4, V5, Aluminum Bulkhead Wall Socket,DC 5.5x2.1mm Female Connector Adapter, Panel Mount for RV Van Boat",
-    "type": "winner",
-    "score": 80.35,
-    "price": 35.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61k6b215DfL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H87F5N3R",
-    "walmart_url": "https://www.walmart.com/search?q=Starlink+Wall+Pass+Through%2CRJ45+CAT6+Ethernet+Socket+and+DC+"
-  },
-  {
     "asin": "B0HGR6DDVH",
     "title": "8800 BTU 12V RV Air Conditioner, Rooftop AC Unit with Remote Control, Rapid Cooling and PTC Heating, Powerful &amp; Quiet, Adjust",
     "type": "winner",
@@ -1153,6 +1131,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/618sfmcB8NL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGR6DDVH",
     "walmart_url": "https://www.walmart.com/search?q=8800+BTU+12V+RV+Air+Conditioner%2C+Rooftop+AC+Unit+with+Remote"
+  },
+  {
+    "asin": "B0H4VJTFR3",
+    "title": "GEARGO 𝑨𝑳𝑳-𝑵𝑬𝑾 RV Surge Protector 50 Amp, 30000J RV Circuit Analyzer with Smart APP &amp; Bluetooth, Larger LED Display, IP68 RV Adapter Plug for Camper, Travel Trailers",
+    "type": "winner",
+    "score": 80.35,
+    "price": 159.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71EGr5Ke-cL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4VJTFR3",
+    "walmart_url": "https://www.walmart.com/search?q=GEARGO+%F0%9D%91%A8%F0%9D%91%B3%F0%9D%91%B3-%F0%9D%91%B5%F0%9D%91%AC%F0%9D%91%BE+RV+Surge+Protector+50+Amp%2C+30000J+RV+Circuit+"
   },
   {
     "asin": "B0H3QLN517",
@@ -1208,6 +1197,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71Od-1l3uKL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9X1WZYZ",
     "walmart_url": "https://www.walmart.com/search?q=63+Gal+%2F+240+L+Water+Bladder+Tank%2C+Portable+Collapsible+Wate"
+  },
+  {
+    "asin": "B0H87F5N3R",
+    "title": "Starlink Wall Pass Through,RJ45 CAT6 Ethernet Socket and DC Wall Socket for Starlink Mini, Gen3/4, V5, Aluminum Bulkhead Wall Socket,DC 5.5x2.1mm Female Connector Adapter, Panel Mount for RV Van Boat",
+    "type": "winner",
+    "score": 80.05,
+    "price": 35.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61k6b215DfL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H87F5N3R",
+    "walmart_url": "https://www.walmart.com/search?q=Starlink+Wall+Pass+Through%2CRJ45+CAT6+Ethernet+Socket+and+DC+"
   },
   {
     "asin": "B0GY4TQ2P8",
@@ -1573,17 +1573,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Naerza+Pass+Through+Kit+for+Starlink+Gen3%2FGen4+Standard+4+%2F4"
   },
   {
-    "asin": "B0H4VJTFR3",
-    "title": "GEARGO 𝑨𝑳𝑳-𝑵𝑬𝑾 RV Surge Protector 50 Amp, 30000J RV Circuit Analyzer with Smart APP &amp; Bluetooth, Larger LED Display, IP",
-    "type": "should_test",
-    "score": 78.75,
-    "price": 169.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EGr5Ke-cL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4VJTFR3",
-    "walmart_url": "https://www.walmart.com/search?q=GEARGO+%F0%9D%91%A8%F0%9D%91%B3%F0%9D%91%B3-%F0%9D%91%B5%F0%9D%91%AC%F0%9D%91%BE+RV+Surge+Protector+50+Amp%2C+30000J+RV+Circuit+"
-  },
-  {
     "asin": "B0H873KJK9",
     "title": "YeloDeer 12V RV Tank Heater Pad 12&quot; x 18&quot;, with Toggle Switch (2 Pads) | RV Water Tank Heater Built-In Overheat Protection fo",
     "type": "should_test",
@@ -1857,6 +1846,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71r4KZKzGVL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHDY7NKW",
     "walmart_url": "https://www.walmart.com/search?q=Waterproof+Rear+View+Camera+Rain+Shield+Cover%2C+Backup+Rain+S"
+  },
+  {
+    "asin": "B0HCNWZWQS",
+    "title": "120W RV USB Outlet, Dual PD3.0 Type-C 100W Laptop Car Charger",
+    "type": "should_test",
+    "score": 77.9,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71vOXw4kZiL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCNWZWQS",
+    "walmart_url": "https://www.walmart.com/search?q=120W+RV+USB+Outlet%2C+Dual+PD3.0+Type-C+100W+Laptop+Car+Charge"
   },
   {
     "asin": "B0H1KZ2N6K",
@@ -2981,6 +2981,17 @@
     "walmart_url": "https://www.walmart.com/search?q=LUHLEE+Magnetic+RV+Ceiling+Light%2C+8000mAh+Rechargeable+Motio"
   },
   {
+    "asin": "B0H6SV7GY5",
+    "title": "PohuStues Bluetooth RV Surge Protectors 30 Amp,Circuit Analyzer for Camper | 2026 New 18000 Joules Surge Protection | IP67 Wa",
+    "type": "should_test",
+    "score": 74.65,
+    "price": 79.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81DHJKiFVRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6SV7GY5",
+    "walmart_url": "https://www.walmart.com/search?q=PohuStues+Bluetooth+RV+Surge+Protectors+30+Amp%2CCircuit+Analy"
+  },
+  {
     "asin": "B0H1HHNLNB",
     "title": "420D Oxford Rear Door Shower Curtain for RV Trunk Camper Vans, 90.5&quot;x70.8&quot; Double Layer Changing Curtain with Magnetic Hooks",
     "type": "should_test",
@@ -3364,6 +3375,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O9LSJyirL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
     "walmart_url": "https://www.walmart.com/search?q=2800W+Portable+Inverter+Generator%2C+Quiet+Gas+Generator+for+C"
+  },
+  {
+    "asin": "B0H74TJJ4W",
+    "title": "2.9 Gal/Day Desktop Atmospheric Water Generator",
+    "type": "should_test",
+    "score": 72.85,
+    "price": 1399.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71m6zey+f7L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H74TJJ4W",
+    "walmart_url": "https://www.walmart.com/search?q=2.9+Gal%2FDay+Desktop+Atmospheric+Water+Generator"
   },
   {
     "asin": "B0GY8WY7LL",
@@ -4288,17 +4310,6 @@
     "image_url": "https://m.media-amazon.com/images/I/41+YstFUqNL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8SX8VPF",
     "walmart_url": "https://www.walmart.com/search?q=Aluminum+Car+Roof+Step+for+Hyundai+Santa+Cruz"
-  },
-  {
-    "asin": "B0HCNWZWQS",
-    "title": "Obeaming 120W RV USB Outlet, Dual PD3.0 Type-C 100W Laptop Car Charger | Aluminum Faceplate, 100W+20W Fast charging, PD 3.0,",
-    "type": "should_test",
-    "score": 68.65,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vOXw4kZiL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCNWZWQS",
-    "walmart_url": "https://www.walmart.com/search?q=Obeaming+120W+RV+USB+Outlet%2C+Dual+PD3.0+Type-C+100W+Laptop+C"
   },
   {
     "asin": "B0HBQN2CRT",
@@ -5454,6 +5465,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61juVFGtrTL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H57YSVJP",
     "walmart_url": "https://www.walmart.com/search?q=RV+Fridge+Door+Latch%2C+Replacement+for+Furrion+Arctic+FCR08DC"
+  },
+  {
+    "asin": "B0HCCRY7PL",
+    "title": "12000W Open Frame Inverter Generator, 120/240V 50A, Whole Home Backup Power | Gas Powered, Electric Start, RV Ready, Digital",
+    "type": "should_test",
+    "score": 63.0,
+    "price": 999.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xzCVdAALL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCCRY7PL",
+    "walmart_url": "https://www.walmart.com/search?q=12000W+Open+Frame+Inverter+Generator%2C+120%2F240V+50A%2C+Whole+Ho"
   },
   {
     "asin": "B0H69D5FQZ",
@@ -9317,6 +9339,17 @@
     "walmart_url": "https://www.walmart.com/search?q=XIHIRCD+13+Pack+RV+Flying+Insect+Screen+Mount+Spring+Fastene"
   },
   {
+    "asin": "B0H9Y1THYF",
+    "title": "SUPAREE Dual Color RV Porch Light, 180° Wide Angle LED RV Exterior Lights | Super Bright 12V Outdoor Light for RV Trailer Cam",
+    "type": "candidate",
+    "score": 54.75,
+    "price": 40.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uRUeqaxbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9Y1THYF",
+    "walmart_url": "https://www.walmart.com/search?q=SUPAREE+Dual+Color+RV+Porch+Light%2C+180%C2%B0+Wide+Angle+LED+RV+Ex"
+  },
+  {
     "asin": "B0H3QXV7W3",
     "title": "Clean Camper EcoBlast RV Grey Tank Treatment, Citrus Scent, 32 oz | Eliminates sink &amp; shower odors, breaks down grease, soap",
     "type": "candidate",
@@ -9337,17 +9370,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81TejtjmDNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6QVVZZT",
     "walmart_url": "https://www.walmart.com/search?q=Grey+Water+Tank+Treatment+-+RV+Grey+Tank+Cleaner+%26+Odor+Elim"
-  },
-  {
-    "asin": "B0H9Y1THYF",
-    "title": "Dual Color RV Porch Light, 180° Wide Angle 3 Sides LED RV Exterior Lights | Super Bright 12V Outdoor Light for RV Trailer Cam",
-    "type": "candidate",
-    "score": 54.5,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uRUeqaxbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9Y1THYF",
-    "walmart_url": "https://www.walmart.com/search?q=Dual+Color+RV+Porch+Light%2C+180%C2%B0+Wide+Angle+3+Sides+LED+RV+Ex"
   },
   {
     "asin": "B0H25SYQZQ",
@@ -9799,6 +9821,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61NI50dtA5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H69H9RD5",
     "walmart_url": "https://www.walmart.com/search?q=HUBRV+NEMA+6-50P+Male+to+TT-30R+RV+AC+Power+Adapter+Cord+1.5"
+  },
+  {
+    "asin": "B0GTPX92CC",
+    "title": "Rvhouse 12V RV Exterior Porch Light, 500LM Dual Lens, Black | Built-in switch, removable clear and amber lenses, IP65 sealed",
+    "type": "candidate",
+    "score": 53.0,
+    "price": 12.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71-U9dC54SL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GTPX92CC",
+    "walmart_url": "https://www.walmart.com/search?q=Rvhouse+12V+RV+Exterior+Porch+Light%2C+500LM+Dual+Lens%2C+Black+"
   },
   {
     "asin": "B0GZKY1228",
