@@ -1980,17 +1980,6 @@
     "walmart_url": "https://www.walmart.com/search?q=GXZZ+Aluminum+Wall+Pass+Through+Kit+for+Starlink+Mini%2C+IP67+"
   },
   {
-    "asin": "B0GZPL47RD",
-    "title": "24V RV Air Conditioner 12500 BTU With Heater, DC Rooftop AC Unit for Camper Van, 40dB Off-Grid Battery Powered RV AC Unit",
-    "type": "should_test",
-    "score": 77.55,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yQWgUvLEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZPL47RD",
-    "walmart_url": "https://www.walmart.com/search?q=24V+RV+Air+Conditioner+12500+BTU+With+Heater%2C+DC+Rooftop+AC+"
-  },
-  {
     "asin": "B0H3NDLWWZ",
     "title": "RVShield 30 Amp RV Surge Protector &amp; Power Manager, 200°F Thermal Shutoff | Ground-Fault Auto-Off, 0/30/180s AC Delay, 9 Faul",
     "type": "should_test",
@@ -2462,6 +2451,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61m+o0nnYaL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8P9PY9N",
     "walmart_url": "https://www.walmart.com/search?q=LXYIUTRW+12V+DC+RV+Air+Conditioner%2C+Heating+and+Cooling+Roof"
+  },
+  {
+    "asin": "B0GZPL47RD",
+    "title": "24V RV Air Conditioner 12500 BTU With Heater, DC Rooftop AC Unit for Camper Van, 40dB Off-Grid Battery Powered RV AC Unit",
+    "type": "should_test",
+    "score": 76.3,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yQWgUvLEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZPL47RD",
+    "walmart_url": "https://www.walmart.com/search?q=24V+RV+Air+Conditioner+12500+BTU+With+Heater%2C+DC+Rooftop+AC+"
   },
   {
     "asin": "B0H6BF292Q",
