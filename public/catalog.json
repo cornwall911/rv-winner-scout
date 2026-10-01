@@ -594,6 +594,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Treeligo+12V+Truck+Air+Conditioner%2C+Mini+Split+AC+Unit%2C+8000"
   },
   {
+    "asin": "B0HDZ5Y71X",
+    "title": "Jackery HomePower 1000 Plus v2 Portable Power Station | 1024Wh LiFePO4 Battery Expandable to 11kWh, 1800W AC / 140W USB-C Out",
+    "type": "winner",
+    "score": 82.7,
+    "price": 669.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61LyEYXaQmL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDZ5Y71X",
+    "walmart_url": "https://www.walmart.com/search?q=Jackery+HomePower+1000+Plus+v2+Portable+Power+Station+%7C+1024"
+  },
+  {
     "asin": "B0HBVG98GD",
     "title": "12V RV Air Conditioner 10000 BTU w/o Duct, 12V DC Rooftop AC Unit for Camper Van, 40dB Off-Grid Battery Powered RV AC Unit",
     "type": "winner",
@@ -867,17 +878,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71clIm5dGEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8C2LYPR",
     "walmart_url": "https://www.walmart.com/search?q=Trailer+Jack+Drill+Adapter+for+1+Inch+Drive+Shaft%2C+Stainless"
-  },
-  {
-    "asin": "B0HDZ5Y71X",
-    "title": "Jackery HomePower 1000 Plus v2 Portable Power Station | 1024Wh LiFePO4 Battery Expandable to 11kWh, 1800W AC / 140W USB-C Out",
-    "type": "winner",
-    "score": 81.45,
-    "price": 669.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61LyEYXaQmL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDZ5Y71X",
-    "walmart_url": "https://www.walmart.com/search?q=Jackery+HomePower+1000+Plus+v2+Portable+Power+Station+%7C+1024"
   },
   {
     "asin": "B0HDTHZQB4",
@@ -6402,17 +6402,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Outdoor+Shower+Box+Kit+with+1.5m+Retractable+Hose"
   },
   {
-    "asin": "B0H1H5LLCR",
-    "title": "92249 91160 520900 for Atwood Dometic Suburban RV water heater element",
-    "type": "should_test",
-    "score": 59.0,
-    "price": 24.33,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61FVrqrr-ZL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1H5LLCR",
-    "walmart_url": "https://www.walmart.com/search?q=92249+91160+520900+for+Atwood+Dometic+Suburban+RV+water+heat"
-  },
-  {
     "asin": "B0H6VWQKK4",
     "title": "Jintogrive RV Roof Tape 6&#x27;&#x27;×50&#x27;, White Butyl Sealant Waterproof Tape | Joist Tape for Decking for Wood Decks Beams Roof RV Re",
     "type": "should_test",
@@ -6996,17 +6985,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Yiwview+4%22+x+20FT+RV+Underbelly+Tape%2C+Waterproof+Flexible+Be"
   },
   {
-    "asin": "B0GZNVXNM3",
-    "title": "VEVOR RV Water Filter System, 0.5-Micron Premium RV Water Filtration System Replacement with Cartridge and Mounting Bracket f",
-    "type": "should_test",
-    "score": 57.25,
-    "price": 102.9,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61hiJEgjmpL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZNVXNM3",
-    "walmart_url": "https://www.walmart.com/search?q=VEVOR+RV+Water+Filter+System%2C+0.5-Micron+Premium+RV+Water+Fi"
-  },
-  {
     "asin": "B0GZMSKZND",
     "title": "VEVOR RV Water Filter System, 5-Micron Premium RV Water Filtration System Replacement with Cartridge and Mounting Bracket for",
     "type": "should_test",
@@ -7104,6 +7082,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lorThLNmL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H346Q6B3",
     "walmart_url": "https://www.walmart.com/search?q=RV+Sewer+Cap+Wrench+for+3-Inch+Valterra+Waste+Tank+%7C+High+de"
+  },
+  {
+    "asin": "B0GZNVXNM3",
+    "title": "VEVOR RV Water Filter System, 0.5-Micron Premium RV Water Filtration System Replacement with Cartridge and Mounting Bracket f",
+    "type": "should_test",
+    "score": 57.0,
+    "price": 102.9,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61hiJEgjmpL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZNVXNM3",
+    "walmart_url": "https://www.walmart.com/search?q=VEVOR+RV+Water+Filter+System%2C+0.5-Micron+Premium+RV+Water+Fi"
   },
   {
     "asin": "B0H1WGPFT3",
@@ -8404,6 +8393,17 @@
     "walmart_url": "https://www.walmart.com/search?q=1200D+Wider+3.6m%2F11.8ft%2C+Travel+Trailer+Cover%2C+Charcoal+Gray"
   },
   {
+    "asin": "B0H1H5LLCR",
+    "title": "92249 91160 520900 for Atwood Dometic Suburban RV water heater element | 1400W/1440W 110V/120V 520900 Heating Element,Magnesi",
+    "type": "should_test",
+    "score": 52.5,
+    "price": 23.66,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61FVrqrr-ZL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1H5LLCR",
+    "walmart_url": "https://www.walmart.com/search?q=92249+91160+520900+for+Atwood+Dometic+Suburban+RV+water+heat"
+  },
+  {
     "asin": "B0GZ37CF1Q",
     "title": "YICTENCRD NEMA 14-50R Outlet Box 50A 125/250V ETL Listed | RV Power Outlet Box with Cover, 3-Pole 4-Wire Grounding Outdoor Re",
     "type": "should_test",
@@ -8976,17 +8976,6 @@
     "walmart_url": "https://www.walmart.com/search?q=10x20+FT+RV+Outdoor+Mat+Reversible+Blue-Gray+RV+Patio+Rug"
   },
   {
-    "asin": "B0H38C6RPL",
-    "title": "Dishpan for Washing Dishes, 9L Collapsible Auto Wash Basin with Drain Plug &amp; Carry Handles, Foldable Portable Camping Sink Multiuse Dish Tub for RV Kitchen &amp; Laundry Use (Gray)",
-    "type": "candidate",
-    "score": 58.0,
-    "price": 12.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61w-TNoaCrL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H38C6RPL",
-    "walmart_url": "https://www.walmart.com/search?q=Dishpan+for+Washing+Dishes%2C+9L+Collapsible+Auto+Wash+Basin+w"
-  },
-  {
     "asin": "B0GZ31QS83",
     "title": "Shower Head,Chrome Finish 1/2&#x27;&#x27; Connector with Start/Stop Function, for RV, Boat and Outdoor Use",
     "type": "candidate",
@@ -9271,6 +9260,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XoSr4n5eL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6LVMSS7",
     "walmart_url": "https://www.walmart.com/search?q=RV+Roof+AC+Cover+600D+Fits+Dometic+Penguin+II+RecPro+9.5K+Wi"
+  },
+  {
+    "asin": "B0H38C6RPL",
+    "title": "Huyopu Dishpan for Washing Dishes, 9L Collapsible Auto Wash Basin with Drain Plug &amp; Carry Handles, Foldable Portable Camping",
+    "type": "candidate",
+    "score": 55.75,
+    "price": 11.09,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61w-TNoaCrL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H38C6RPL",
+    "walmart_url": "https://www.walmart.com/search?q=Huyopu+Dishpan+for+Washing+Dishes%2C+9L+Collapsible+Auto+Wash+"
   },
   {
     "asin": "B0H4L8QRC7",
