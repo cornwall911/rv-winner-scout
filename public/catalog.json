@@ -847,17 +847,6 @@
     "walmart_url": "https://www.walmart.com/search?q=EROMMY+12V+DC+RV+Air+Conditioner+with+Heat+Pump%2C+10000+BTU+C"
   },
   {
-    "asin": "B0HJQR82WN",
-    "title": "PECRON E2400LFP 2048Wh/2400W, Fast Charging in 1.5 Hrs for Emergencies, Camping, RV, Home Use",
-    "type": "winner",
-    "score": 81.55,
-    "price": 649.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DSWskbY-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJQR82WN",
-    "walmart_url": "https://www.walmart.com/search?q=PECRON+E2400LFP+2048Wh%2F2400W%2C+Fast+Charging+in+1.5+Hrs+for+E"
-  },
-  {
     "asin": "B0HKJ3GQXS",
     "title": "2027 New Wall Ac Unit, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating, Wall Mount Air Conditioner with Remote, Quiet Op",
     "type": "winner",
@@ -1232,17 +1221,6 @@
     "walmart_url": "https://www.walmart.com/search?q=63+Gal+%2F+240+L+Water+Bladder+Tank%2C+Portable+Collapsible+Wate"
   },
   {
-    "asin": "B0H87F5N3R",
-    "title": "Starlink Wall Pass Through,RJ45 CAT6 Ethernet Socket and DC Wall Socket for Starlink Mini, Gen3/4, V5, Aluminum Bulkhead Wall Socket,DC 5.5x2.1mm Female Connector Adapter, Panel Mount for RV Van Boat",
-    "type": "winner",
-    "score": 80.05,
-    "price": 35.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61k6b215DfL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H87F5N3R",
-    "walmart_url": "https://www.walmart.com/search?q=Starlink+Wall+Pass+Through%2CRJ45+CAT6+Ethernet+Socket+and+DC+"
-  },
-  {
     "asin": "B0H8RJDHGQ",
     "title": "RV Skirting Kits for Winter, Easy Installation - Black, 2.62 x 85.3 ft",
     "type": "winner",
@@ -1252,6 +1230,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71nNDgiPGuL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8RJDHGQ",
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+Kits+for+Winter%2C+Easy+Installation+-+Black%2C+2.62"
+  },
+  {
+    "asin": "B0H87F5N3R",
+    "title": "Starlink Wall Pass Through,RJ45 CAT6 Ethernet Socket and DC Wall Socket for Starlink Mini, Gen3/4, V5, Aluminum Bulkhead Wall Socket,DC 5.5x2.1mm Female Connector Adapter, Panel Mount for RV Van Boat",
+    "type": "winner",
+    "score": 80.0,
+    "price": 35.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61k6b215DfL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H87F5N3R",
+    "walmart_url": "https://www.walmart.com/search?q=Starlink+Wall+Pass+Through%2CRJ45+CAT6+Ethernet+Socket+and+DC+"
   },
   {
     "asin": "B0GY4TQ2P8",
@@ -1340,6 +1329,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61FNlZ9xg2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H36WBTV5",
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Lights+Interior%2C+Battery+LED+Ceiling+Light+with+"
+  },
+  {
+    "asin": "B0HJQR82WN",
+    "title": "PECRON E2400LFP 2048Wh/2400W, Fast Charging in 1.5 Hrs for Emergencies, Camping, RV, Home Use",
+    "type": "should_test",
+    "score": 79.75,
+    "price": 649.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DSWskbY-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJQR82WN",
+    "walmart_url": "https://www.walmart.com/search?q=PECRON+E2400LFP+2048Wh%2F2400W%2C+Fast+Charging+in+1.5+Hrs+for+E"
   },
   {
     "asin": "B0H4W51ZMH",
@@ -10076,6 +10076,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+Sewer+Hose+Carrier+End+Cap+Replacement+Hatch+Door+"
   },
   {
+    "asin": "B0H1HRWP59",
+    "title": "OneSide RV City Water Fill Inlet Connector Replacement with Check Valve 90 Degree Water Hose Elbow City Water Inlet Hookup fo",
+    "type": "candidate",
+    "score": 53.5,
+    "price": 17.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61jfxVOfnDL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1HRWP59",
+    "walmart_url": "https://www.walmart.com/search?q=OneSide+RV+City+Water+Fill+Inlet+Connector+Replacement+with+"
+  },
+  {
     "asin": "B0H11C6SB8",
     "title": "V449 14&quot; x 14&quot; Replacement Roof Vent Cover Camper RV Trailer Wedge Style",
     "type": "candidate",
@@ -10294,17 +10305,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DDvl0HXEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2Y6RW49",
     "walmart_url": "https://www.walmart.com/search?q=Carnovate+3314082.000+RV+Thermostat+Fit+for+Dometic+CCC2+%7C+M"
-  },
-  {
-    "asin": "B0H1HRWP59",
-    "title": "OneSide RV City Water Fill Inlet Connector Replacement with Check Valve 90 Degree Water Hose Elbow City Water Inlet Hookup fo",
-    "type": "candidate",
-    "score": 52.5,
-    "price": 17.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61jfxVOfnDL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1HRWP59",
-    "walmart_url": "https://www.walmart.com/search?q=OneSide+RV+City+Water+Fill+Inlet+Connector+Replacement+with+"
   },
   {
     "asin": "B0H5L1QWMD",
@@ -14355,6 +14355,17 @@
     "walmart_url": "https://www.walmart.com/search?q=YunGlee+Drive+Shaft+Shear+Pin+Replacement+Fits+Solera+RV+Awn"
   },
   {
+    "asin": "B0HB25MXHW",
+    "title": "12V LED RV Wall Sconce with On/Off Switch (LED Bulb Included), Decorative Fabric Light Fixture with 1 Bulb, 12Volts Interior Light for RV, Motorhome, Camper, Boat (Pack of 2)",
+    "type": "candidate",
+    "score": 39.5,
+    "price": 79.98,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71wIQYngIEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB25MXHW",
+    "walmart_url": "https://www.walmart.com/search?q=12V+LED+RV+Wall+Sconce+with+On%2FOff+Switch+%28LED+Bulb+Included"
+  },
+  {
     "asin": "B0H265LQ84",
     "title": "U Channel Rubber Edge Trim with Metal Clips, 10Ft PVC Rubber Edge Guard Protector, Rubber Molding Trim for Sheet Metal, Car Doors, RV, Hatches, Table Corners, Fit 3/64&quot; to 1/4&quot;(1.2-6.4mm), Black",
     "type": "candidate",
@@ -15233,17 +15244,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41NKzMwwr-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H63646B8",
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+LED+Lighting+Power+Cable+Compatible+with+Carefree+"
-  },
-  {
-    "asin": "B0HB25MXHW",
-    "title": "Maichis 12V LED RV Wall Sconce with On/Off Switch (LED Bulb Included), Decorative Fabric Light Fixture with 1 Bulb, 12Volts I",
-    "type": "candidate",
-    "score": 34.0,
-    "price": 79.98,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wIQYngIEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB25MXHW",
-    "walmart_url": "https://www.walmart.com/search?q=Maichis+12V+LED+RV+Wall+Sconce+with+On%2FOff+Switch+%28LED+Bulb+"
   },
   {
     "asin": "B0GZNLSL2J",
