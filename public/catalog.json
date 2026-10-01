@@ -423,7 +423,7 @@
     "type": "winner",
     "score": 83.55,
     "price": 21.99,
-    "bsr": 5880,
+    "bsr": 5586,
     "image_url": "https://m.media-amazon.com/images/I/71padaLrgjL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZLLJ9PF",
     "walmart_url": "https://www.walmart.com/search?q=RV+Shower+Head+with+Hose%2C+High+Pressure+Handheld+RV+Shower+H"
@@ -1699,7 +1699,7 @@
     "type": "should_test",
     "score": 78.45,
     "price": 239.99,
-    "bsr": 8366,
+    "bsr": 6408,
     "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
     "walmart_url": "https://www.walmart.com/search?q=LIBRIDS+Portable+Power+Station+C600%2C+640Wh+Solar+Generator+6"
@@ -3993,17 +3993,6 @@
     "walmart_url": "https://www.walmart.com/search?q=12%2C000+lbs+Electric+Trailer+Jack+Kit+Made+for+Bulldog+Jacks+"
   },
   {
-    "asin": "B0H6J7BP2P",
-    "title": "RV Propane Gas Detector, Hardwired-12V DC with 3 Different Brackets for RVs,R501",
-    "type": "should_test",
-    "score": 69.95,
-    "price": 39.99,
-    "bsr": 4092,
-    "image_url": "https://m.media-amazon.com/images/I/71JOEjPtr4L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6J7BP2P",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Propane+Gas+Detector%2C+Hardwired-12V+DC+with+3+Different+B"
-  },
-  {
     "asin": "B0H4G62L2Q",
     "title": "CapyBud RV Screen Door Curtain 80 x 33&#x27;&#x27; Magnetic Tear-Resistant Mesh for Camper Doorway, Travel Trailer, Fifth Wheel and Mot",
     "type": "should_test",
@@ -4119,7 +4108,7 @@
     "type": "should_test",
     "score": 69.45,
     "price": 52.99,
-    "bsr": 3995,
+    "bsr": 4750,
     "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCVBW5M1",
     "walmart_url": "https://www.walmart.com/search?q=2-in-1+RV+Accessories+Gas+Detector%2CHardwired+12V+DC+with+3+D"
@@ -4915,6 +4904,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51xxLeOL3eL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF47QFT8",
     "walmart_url": "https://www.walmart.com/search?q=Garvee+RV+Steps+with+Handrail+%7C+3-Step+Camper+Entry+Stairs+%7C"
+  },
+  {
+    "asin": "B0H6J7BP2P",
+    "title": "RV Propane Gas Detector, Hardwired-12V DC with 3 Different Brackets for RVs,R501",
+    "type": "should_test",
+    "score": 66.25,
+    "price": 39.99,
+    "bsr": 4371,
+    "image_url": "https://m.media-amazon.com/images/I/71JOEjPtr4L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6J7BP2P",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Propane+Gas+Detector%2C+Hardwired-12V+DC+with+3+Different+B"
   },
   {
     "asin": "B0GY7DWKF1",
@@ -11682,6 +11682,17 @@
     "walmart_url": "https://www.walmart.com/search?q=American+Flag+RV+Dual+Propane+Tank+Cover+Fits+20lb+Tanks%2CMou"
   },
   {
+    "asin": "B0H11GV6L5",
+    "title": "Termitor Upgraded H11 H9 High/Low Beam Bulbs, 80,000LM 6500K, 1:1 Mini OEM Size, IP68 Waterproof Rated, 85,000Hrs Extended Lifespan, 5-Min Install, 99% Vehicle Compatibility, Pack of 2, HID Kits",
+    "type": "candidate",
+    "score": 48.0,
+    "price": 29.99,
+    "bsr": 5487,
+    "image_url": "https://m.media-amazon.com/images/I/71dOrXtnV7L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H11GV6L5",
+    "walmart_url": "https://www.walmart.com/search?q=Termitor+Upgraded+H11+H9+High%2FLow+Beam+Bulbs%2C+80%2C000LM+6500K"
+  },
+  {
     "asin": "B0H83T93KW",
     "title": "Spare Tire Cover with Campfire Marshmallow Pattern 14inch TC0061 | Weatherproof Universal Fit for SUV Rv Truck Camper Travel",
     "type": "candidate",
@@ -12567,7 +12578,7 @@
     "type": "candidate",
     "score": 45.25,
     "price": 14.99,
-    "bsr": 5220,
+    "bsr": 5524,
     "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
     "walmart_url": "https://www.walmart.com/search?q=4%22+Stainless+Steel+5%2F8%22+Trailer+Hitch+Pin+with+Hitch+Pin+Cli"
@@ -12936,17 +12947,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Holder+Wall+Mount+Bracket+Compatible+with+RV+Propane+Tank+%282"
   },
   {
-    "asin": "B0H9YZXF58",
-    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
-    "type": "candidate",
-    "score": 43.75,
-    "price": 6.99,
-    "bsr": 5611,
-    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
-    "walmart_url": "https://www.walmart.com/search?q=Wall+Phone+Holder+2+Pack+for+iPhone+Android+-+Adhesive+No+Dr"
-  },
-  {
     "asin": "B0H36R4D2C",
     "title": "RV Shower Corner Bar 3 Pack, 7–13 Inch Adjustable Stainless Steel Rod | Screw or Adhesive Mount, Adjustable Swivel Base, Rust",
     "type": "candidate",
@@ -13066,6 +13066,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rvxwPbxPL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9XJGPL2",
     "walmart_url": "https://www.walmart.com/search?q=Horeset+American+Flag+Cross+RV+Propane+Tank+Cover+Soft+Propa"
+  },
+  {
+    "asin": "B0H9YZXF58",
+    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
+    "type": "candidate",
+    "score": 43.25,
+    "price": 6.99,
+    "bsr": 5317,
+    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
+    "walmart_url": "https://www.walmart.com/search?q=Wall+Phone+Holder+2+Pack+for+iPhone+Android+-+Adhesive+No+Dr"
   },
   {
     "asin": "B0H3KWZYL5",
