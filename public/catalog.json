@@ -407,17 +407,6 @@
     "walmart_url": "https://www.walmart.com/search?q=FOSSiBOT+F2400+Portable+Power+Station%2C+2048Wh+LiFePO4+Solar+"
   },
   {
-    "asin": "B0H4GL3TWC",
-    "title": "Propane Refill Adapter for 1 lb. Tanks, 3FT Hose with Gauge and Valve",
-    "type": "winner",
-    "score": 83.55,
-    "price": 17.79,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61LCcvlDnRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4GL3TWC",
-    "walmart_url": "https://www.walmart.com/search?q=Propane+Refill+Adapter+for+1+lb.+Tanks%2C+3FT+Hose+with+Gauge+"
-  },
-  {
     "asin": "B0GZLLJ9PF",
     "title": "RV Shower Head with Hose, High Pressure Handheld RV Shower Head Replacement with On Off Switch,5 Modes,Power Jet, Camper Shower Head for RV,Travel Trailer,Motorhome,Boat RV Essentials,Gray",
     "type": "winner",
@@ -493,6 +482,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71RNl2nEYHL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZLFDS9G",
     "walmart_url": "https://www.walmart.com/search?q=for+Starlink+Mini+Power+Supply+Cable+12V+24V+to+30V+3.5A+DC+"
+  },
+  {
+    "asin": "B0H4GL3TWC",
+    "title": "Propane Refill Adapter for 1 lb. Tanks, 3FT Hose with Gauge and Valve",
+    "type": "winner",
+    "score": 83.3,
+    "price": 17.98,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61LCcvlDnRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4GL3TWC",
+    "walmart_url": "https://www.walmart.com/search?q=Propane+Refill+Adapter+for+1+lb.+Tanks%2C+3FT+Hose+with+Gauge+"
   },
   {
     "asin": "B0H1L4BNN3",
@@ -999,17 +999,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nTPEM44+L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H24X66S4",
     "walmart_url": "https://www.walmart.com/search?q=RVSNAIL+RV+Screen+Door+Protector+-+Adjustable+Camper+Screen+"
-  },
-  {
-    "asin": "B0H25K1FFM",
-    "title": "18 Inch RV Propane Hose with Gauge, 2-Pack Stainless Steel Braided Hose, 1/4&quot; Male NPT &amp; QCC1 for Two-Stage Regulator, Camp, Camper, BBQ，350PSI",
-    "type": "winner",
-    "score": 80.95,
-    "price": 24.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71pbcEv7C-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H25K1FFM",
-    "walmart_url": "https://www.walmart.com/search?q=18+Inch+RV+Propane+Hose+with+Gauge%2C+2-Pack+Stainless+Steel+B"
   },
   {
     "asin": "B0HBQCYSHQ",
@@ -2332,6 +2321,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Frezon+DC+24V+RV+Air+Conditioner+13000btu+Truck+Air+Conditio"
   },
   {
+    "asin": "B0HB5W5T8P",
+    "title": "RV Dual C-O and L-P G-as Sensor, 12V DC Hardwired for RVs, Black | LED Indicator, Audible Siren, Digital Display, Travel Trai",
+    "type": "should_test",
+    "score": 76.95,
+    "price": 59.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711focfipsL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB5W5T8P",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Dual+C-O+and+L-P+G-as+Sensor%2C+12V+DC+Hardwired+for+RVs%2C+B"
+  },
+  {
     "asin": "B0HDNNMNB4",
     "title": "RV Holding Tank Swivel Stik Rinser, RV Black Tank Cleaner Wand",
     "type": "should_test",
@@ -3223,17 +3223,6 @@
     "walmart_url": "https://www.walmart.com/search?q=2026+Upgrade+Portable+Car+Fan%2CClip%E2%80%91on%2FHang%2FStand+3D+Circulat"
   },
   {
-    "asin": "B0HB5W5T8P",
-    "title": "RV Dual C-O and L-P G-as Sensor, 12V DC Hardwired for RVs, Black | LED Indicator, Audible Siren, Digital Display, Travel Trai",
-    "type": "should_test",
-    "score": 73.95,
-    "price": 59.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711focfipsL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB5W5T8P",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Dual+C-O+and+L-P+G-as+Sensor%2C+12V+DC+Hardwired+for+RVs%2C+B"
-  },
-  {
     "asin": "B0HH3M98N4",
     "title": "Vehicle Awning 4.9&#x27;×6.5&#x27;, Retractable Car SUV Truck Van Camper Awning | Roof Rack Pull-out Side Sun Shade UV50+600D Oxford Wa",
     "type": "should_test",
@@ -4057,6 +4046,17 @@
     "image_url": "https://m.media-amazon.com/images/I/81orXFhWxQL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDCQFX4D",
     "walmart_url": "https://www.walmart.com/search?q=RV+Step+Motor+Conversion+Kit+for+Kwikee+Linkage%2C+Replaces+37"
+  },
+  {
+    "asin": "B0H25K1FFM",
+    "title": "DGZMJJ 18 Inch RV Propane Hose with Gauge, 2-Pack Stainless Steel Braided Hose, 1/4&quot; Male NPT &amp; QCC1 for Two-Stage Regulator,",
+    "type": "should_test",
+    "score": 69.65,
+    "price": 24.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71pbcEv7C-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H25K1FFM",
+    "walmart_url": "https://www.walmart.com/search?q=DGZMJJ+18+Inch+RV+Propane+Hose+with+Gauge%2C+2-Pack+Stainless+"
   },
   {
     "asin": "B0H3TH7HK3",
