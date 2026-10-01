@@ -148,7 +148,7 @@
     "type": "winner",
     "score": 86.75,
     "price": 129.99,
-    "bsr": 7030,
+    "bsr": 7684,
     "image_url": "https://m.media-amazon.com/images/I/71tf8CiNoqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GS5914FR",
     "walmart_url": "https://www.walmart.com/search?q=1080P+Strong+Magnetic+Wireless+Backup+Camera+for+RV+Trailer+"
@@ -3707,6 +3707,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Apexlife+RV+Couch+Covers+for+Sofa+Bed%2C+2+Piece+Jackknife+Sof"
   },
   {
+    "asin": "B0H38QWVN5",
+    "title": "RV Surge Protector 30 amp, 13000J Surge Protection",
+    "type": "should_test",
+    "score": 71.0,
+    "price": 29.99,
+    "bsr": 12240,
+    "image_url": "https://m.media-amazon.com/images/I/61SH95wqMRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H38QWVN5",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Surge+Protector+30+amp%2C+13000J+Surge+Protection"
+  },
+  {
     "asin": "B0HHSC6JXS",
     "title": "12V DC RV Gas Detection Unit, 31011 Replacement, Flush Mount, Black | CO and Propane Gas Detection",
     "type": "should_test",
@@ -3804,17 +3815,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71Ijlqszu1L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF7CSL83",
     "walmart_url": "https://www.walmart.com/search?q=SYLVOX+24+Inch+Smart+RV+TV%2C+12V+DC+TV+for+Camper+Truck%2C+1080"
-  },
-  {
-    "asin": "B0H38QWVN5",
-    "title": "RV Surge Protector 30 amp, 13000J Surge Protection",
-    "type": "should_test",
-    "score": 70.5,
-    "price": 29.99,
-    "bsr": 13190,
-    "image_url": "https://m.media-amazon.com/images/I/61SH95wqMRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H38QWVN5",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Surge+Protector+30+amp%2C+13000J+Surge+Protection"
   },
   {
     "asin": "B0HJ4V8Q91",
