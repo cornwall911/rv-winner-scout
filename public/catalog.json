@@ -1039,7 +1039,7 @@
     "type": "winner",
     "score": 80.75,
     "price": 49.99,
-    "bsr": 25632,
+    "bsr": 26440,
     "image_url": "https://m.media-amazon.com/images/I/71AB0q-J0gL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1RJJPMP",
     "walmart_url": "https://www.walmart.com/search?q=87+Gallon%2F330L+Water+Bladder+Tank+-+Portable+Collapsible+Wat"
@@ -1710,7 +1710,7 @@
     "type": "should_test",
     "score": 78.4,
     "price": 8.59,
-    "bsr": 28728,
+    "bsr": 26386,
     "image_url": "https://m.media-amazon.com/images/I/71oKFTTErXL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9R9DYZH",
     "walmart_url": "https://www.walmart.com/search?q=8PCS+Utility+RV+Master+Key+Set+with+Wire+Ring+CH751+MK9001+G"
@@ -2156,6 +2156,17 @@
     "walmart_url": "https://www.walmart.com/search?q=4+Pack+RV+Fridge+Bars%2C+Adjustable+Refrigerator+Tension+Rods+"
   },
   {
+    "asin": "B0H1GYXTF6",
+    "title": "RV Exterior Sprayer Kit Without Port, 16.4FT Coiled Water Hose with 8-Pattern Sprayer &amp; GHT 3/4&quot; Quick Connect Adapter,Waterproof Bag Anti-Kink Coil Hose",
+    "type": "should_test",
+    "score": 77.4,
+    "price": 26.99,
+    "bsr": 25128,
+    "image_url": "https://m.media-amazon.com/images/I/71uqIGTVmdL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1GYXTF6",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Exterior+Sprayer+Kit+Without+Port%2C+16.4FT+Coiled+Water+Ho"
+  },
+  {
     "asin": "B0H9LZWMT1",
     "title": "YCXCMAT RV AC Airflow Diverter, Ducted System for Coleman Mach 1/3/10/15/Q | Y-Split Vent Deflector, Air Flow Improvement, +4",
     "type": "should_test",
@@ -2297,6 +2308,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/818IJFdNbqL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZ3BWJZN",
     "walmart_url": "https://www.walmart.com/search?q=Jumyee+RV+Screen+Door+Curtain%2C+Magnetic+Camper+Door+Mesh+31."
+  },
+  {
+    "asin": "B0HJND75QS",
+    "title": "6 Pack Waterproof Backup Camera Rain Shield Rear View Camera Rain Shield",
+    "type": "should_test",
+    "score": 77.0,
+    "price": 11.99,
+    "bsr": 12193,
+    "image_url": "https://m.media-amazon.com/images/I/71egRJnAftL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJND75QS",
+    "walmart_url": "https://www.walmart.com/search?q=6+Pack+Waterproof+Backup+Camera+Rain+Shield+Rear+View+Camera"
   },
   {
     "asin": "B0H45LF1S8",
@@ -3223,6 +3245,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Magnetic+Screen+Door+with+Hook%2C+Screen+Door+Protector+for"
   },
   {
+    "asin": "B0HCNM426T",
+    "title": "3000W Inverter Generator, Ultra Quiet Portable Gas Generator RV",
+    "type": "should_test",
+    "score": 73.7,
+    "price": 319.99,
+    "bsr": 25657,
+    "image_url": "https://m.media-amazon.com/images/I/71TJ1fqC7jL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCNM426T",
+    "walmart_url": "https://www.walmart.com/search?q=3000W+Inverter+Generator%2C+Ultra+Quiet+Portable+Gas+Generator"
+  },
+  {
     "asin": "B0H7WF83XV",
     "title": "RV Door Window Blackout Shade, 16 x 25 Inch UV Block Privacy Oxford Cover for Camper Travel Trailer",
     "type": "should_test",
@@ -3617,17 +3650,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61P7O0fp4jL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HH931YSX",
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter+-+Heavy+Duty+Insulated+Camper+Skirt+f"
-  },
-  {
-    "asin": "B0HCNM426T",
-    "title": "Evernexta 3000W Inverter Generator, Ultra Quiet Portable Gas Generator RV | Ultra-quiet 3000W power, fuel-saving Eco Mode, li",
-    "type": "should_test",
-    "score": 71.4,
-    "price": 269.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71TJ1fqC7jL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCNM426T",
-    "walmart_url": "https://www.walmart.com/search?q=Evernexta+3000W+Inverter+Generator%2C+Ultra+Quiet+Portable+Gas"
   },
   {
     "asin": "B0H8RJDHGQ",
@@ -4585,17 +4607,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71x-QzbrvHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZYW1VQG",
     "walmart_url": "https://www.walmart.com/search?q=12V+RV+Air+Conditioner%2C+8500+BTU+Fahrenheit+Rooftop+Air+Cond"
-  },
-  {
-    "asin": "B0H1GYXTF6",
-    "title": "Terapaton RV Exterior Sprayer Kit Without Port, 16.4FT Coiled Water Hose with 8-Pattern Sprayer &amp; GHT 3/4&quot; Quick Connect Adap",
-    "type": "should_test",
-    "score": 67.95,
-    "price": 26.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uqIGTVmdL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1GYXTF6",
-    "walmart_url": "https://www.walmart.com/search?q=Terapaton+RV+Exterior+Sprayer+Kit+Without+Port%2C+16.4FT+Coile"
   },
   {
     "asin": "B0H74YBZPQ",
@@ -6209,7 +6220,7 @@
     "type": "should_test",
     "score": 59.75,
     "price": 35.99,
-    "bsr": 27528,
+    "bsr": 25814,
     "image_url": "https://m.media-amazon.com/images/I/51OPPt0ghmL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZNS7RKR",
     "walmart_url": "https://www.walmart.com/search?q=METOWARE+Trailer+Hitch+Extender+Fits+2%22+Receiver+2%22+Drop%2FRis"
@@ -6290,17 +6301,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/717Hpa-5Q3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGY8TG4G",
     "walmart_url": "https://www.walmart.com/search?q=FOGATTI+35000+BTU+RV+Furnace+%7C+Propane+Heater+for+Camper+Tra"
-  },
-  {
-    "asin": "B0GWH5JFQ1",
-    "title": "NUOVEPE Heavy Duty Trailer Coupler Latch Lock with 1-1/4&quot; Wider Span | Disc Detainer System, Push to Lock, 3 keys, 1/4&quot; Dia P",
-    "type": "should_test",
-    "score": 59.5,
-    "price": 24.69,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61tlV5urgcL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GWH5JFQ1",
-    "walmart_url": "https://www.walmart.com/search?q=NUOVEPE+Heavy+Duty+Trailer+Coupler+Latch+Lock+with+1-1%2F4%22+Wi"
   },
   {
     "asin": "B0HK7PJZRQ",
@@ -7381,17 +7381,6 @@
     "walmart_url": "https://www.walmart.com/search?q=10A20281K1+Roof+Vent+Lid+Lift+Gear+Operator+Mechanism+for+Ma"
   },
   {
-    "asin": "B0HFK5J5VR",
-    "title": "2-1/2&quot; to 2&#x27;&#x27; Trailer Hitch Adapter for RAM Hitch Reducer Sleeve",
-    "type": "should_test",
-    "score": 56.0,
-    "price": 24.9,
-    "bsr": 28573,
-    "image_url": "https://m.media-amazon.com/images/I/71ADQKwZjrL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFK5J5VR",
-    "walmart_url": "https://www.walmart.com/search?q=2-1%2F2%22+to+2%27%27+Trailer+Hitch+Adapter+for+RAM+Hitch+Reducer+Sl"
-  },
-  {
     "asin": "B0H5JV25DJ",
     "title": "RV Awning Fabric Replacement, 20.8 oz Heavy Duty Vinyl Fabric",
     "type": "should_test",
@@ -7874,6 +7863,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61uE7YSZhGL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9CPCX6M",
     "walmart_url": "https://www.walmart.com/search?q=10-20270+RV+Roof+Vent+Lift+Motor+Fit+for+Maxx+Air+Deluxe+%7C+F"
+  },
+  {
+    "asin": "B0HFK5J5VR",
+    "title": "2-1/2&quot; to 2&#x27;&#x27; Trailer Hitch Adapter for RAM Hitch Reducer Sleeve",
+    "type": "should_test",
+    "score": 54.5,
+    "price": 24.9,
+    "bsr": 26330,
+    "image_url": "https://m.media-amazon.com/images/I/71ADQKwZjrL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFK5J5VR",
+    "walmart_url": "https://www.walmart.com/search?q=2-1%2F2%22+to+2%27%27+Trailer+Hitch+Adapter+for+RAM+Hitch+Reducer+Sl"
   },
   {
     "asin": "B0H4G12QKS",
@@ -8754,6 +8754,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81sH3dYtqaL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9TBGTC2",
     "walmart_url": "https://www.walmart.com/search?q=RecPro+RV+Stove+Vent+Insect+Screen+10.5%22+x+4%22+%7C+Stainless+St"
+  },
+  {
+    "asin": "B0HCNMLDD9",
+    "title": "10x20 FT RV Outdoor Mat Reversible Blue-Gray RV Patio Rug",
+    "type": "candidate",
+    "score": 58.25,
+    "price": 99.99,
+    "bsr": 25942,
+    "image_url": "https://m.media-amazon.com/images/I/71MVBF+KHkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCNMLDD9",
+    "walmart_url": "https://www.walmart.com/search?q=10x20+FT+RV+Outdoor+Mat+Reversible+Blue-Gray+RV+Patio+Rug"
   },
   {
     "asin": "B0H38C6RPL",
@@ -12219,6 +12230,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61-WVWVjuGL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBKN1K3K",
     "walmart_url": "https://www.walmart.com/search?q=BMQCFGH+RV+Roof+Cover+Compatible+with+Monaco+Diplomat+40DST+"
+  },
+  {
+    "asin": "B0GWH5JFQ1",
+    "title": "Heavy Duty Trailer Coupler Latch Lock with 1-1/4&quot; Wider Span",
+    "type": "candidate",
+    "score": 46.5,
+    "price": 24.69,
+    "bsr": 24530,
+    "image_url": "https://m.media-amazon.com/images/I/61tlV5urgcL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GWH5JFQ1",
+    "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+Trailer+Coupler+Latch+Lock+with+1-1%2F4%22+Wider+Span"
   },
   {
     "asin": "B0H7PJ5BC6",
