@@ -341,6 +341,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Starlink+Mini+Car+Adapter+with+10FT+Cable%2C+Dual+PD+45w%2B30W%26U"
   },
   {
+    "asin": "B0H2ZTJMZ8",
+    "title": "Veritas Vans Starlink Mount Magnet Attachment (4 Pack) | Magnetic Feet for RV, Van, Truck &amp; Camping Setups",
+    "type": "winner",
+    "score": 84.1,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61EgUXTPW4L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2ZTJMZ8",
+    "walmart_url": "https://www.walmart.com/search?q=Veritas+Vans+Starlink+Mount+Magnet+Attachment+%284+Pack%29+%7C+Mag"
+  },
+  {
     "asin": "B0H3FDSMHF",
     "title": "1080P HD Magnetic Wireless Backup Camera: 5.8G WiFi Easy Connect iPhone | Easy Trailer Hook-up &amp; Hitching Gooseneck, Clear Ni",
     "type": "winner",
@@ -361,17 +372,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51HxY9xWA5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1KVL7GH",
     "walmart_url": "https://www.walmart.com/search?q=12V+DC+RV+Air+Conditioner+12000+BTU+12+Volt+Mini+Split+Truck"
-  },
-  {
-    "asin": "B0H2ZTJMZ8",
-    "title": "Veritas Vans Starlink Mount Magnet Attachment (4 Pack) | Magnetic Feet for RV, Van, Truck &amp; Camping Setups",
-    "type": "winner",
-    "score": 83.75,
-    "price": 29.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61EgUXTPW4L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2ZTJMZ8",
-    "walmart_url": "https://www.walmart.com/search?q=Veritas+Vans+Starlink+Mount+Magnet+Attachment+%284+Pack%29+%7C+Mag"
   },
   {
     "asin": "B0HC5SLZHZ",
@@ -7975,17 +7975,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Ustinian+97521+28+FT+RV+Macerator+Hose+Kit%289FT+Collapsed%29%2C+1"
   },
   {
-    "asin": "B0H3KJG1WF",
-    "title": "RV Refrigerator Vent Clips 617772 for Norcold Fridge Vent Doors, 4 Pack | Upgraded Thick Reinforced Quarter-Turn Latch for Fr",
-    "type": "should_test",
-    "score": 54.5,
-    "price": 9.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DjbL48YIL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3KJG1WF",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Refrigerator+Vent+Clips+617772+for+Norcold+Fridge+Vent+Do"
-  },
-  {
     "asin": "B0H3P18N1F",
     "title": "55722 Swing Away Brackets Fits for Rieco-Titan &amp; Atwood Camper Jacks 2pcs | Fits 13 Inch to 16 Inch Camper Stands and Mechani",
     "type": "should_test",
@@ -9909,6 +9898,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61yoVLaZbBL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H11W86CN",
     "walmart_url": "https://www.walmart.com/search?q=4+Pack+Wheel+Chocks%2C+Non-Slip+Wheel+Chocks+for+Travel+Traile"
+  },
+  {
+    "asin": "B0H3KJG1WF",
+    "title": "RV Refrigerator Vent Clips 617772 for Norcold Fridge Vent Doors, 4 Pack | Upgraded Thick Reinforced Quarter-Turn Latch for Fr",
+    "type": "candidate",
+    "score": 53.5,
+    "price": 9.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DjbL48YIL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3KJG1WF",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Refrigerator+Vent+Clips+617772+for+Norcold+Fridge+Vent+Do"
   },
   {
     "asin": "B0H6LYS2RW",
