@@ -253,6 +253,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Soft+Start+for+RV+Air+Conditioners+Reduces+Startup+Current+b"
   },
   {
+    "asin": "B0H7BF7TH8",
+    "title": "Anker SOLIX C1000 Gen 2 Portable Power Station, 2,000W (Peak 3,000W) Solar Generator, Full Charge in 49 Min, 1,024Wh LiFePO4",
+    "type": "winner",
+    "score": 85.6,
+    "price": 439.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81i5i1QL1sL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7BF7TH8",
+    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+C1000+Gen+2+Portable+Power+Station%2C+2%2C000W+%28Peak"
+  },
+  {
     "asin": "B0GYPJRC7C",
     "title": "AUTO-VOX Magnetic Solar Wireless Backup Camera with WiFi Connection | No Monitor Needed, Snaps On in 1 Sec, Solar Powered for",
     "type": "winner",
@@ -1320,6 +1331,17 @@
     "walmart_url": "https://www.walmart.com/search?q=MrCool+TravelCool+RV+Heat+%26+AC+System+%7C+Ductless+15K+BTU+Whi"
   },
   {
+    "asin": "B0H36WBTV5",
+    "title": "Magnetic RV Lights Interior, Battery LED Ceiling Light with Remote",
+    "type": "should_test",
+    "score": 79.8,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61FNlZ9xg2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H36WBTV5",
+    "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Lights+Interior%2C+Battery+LED+Ceiling+Light+with+"
+  },
+  {
     "asin": "B0H4W51ZMH",
     "title": "FOSSiBOT F2400 Portable Power Stetion, 2048Wh LiFePO4 Solar Generator, 2400W (4800W Surge) AC Output, 1100W Adjustable Fast Charging, 8ms UPS Battery Backup for Home Use, Power Outage, RV, Off-Grid",
     "type": "should_test",
@@ -1472,17 +1494,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81mErxVJTXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2YS9TCK",
     "walmart_url": "https://www.walmart.com/search?q=RV+Mattress+Underlay+Pad+-+83+x+59+Inch+Plastic+Under+Mattre"
-  },
-  {
-    "asin": "B0H36WBTV5",
-    "title": "EJYTRVT Magnetic RV Lights Interior, Battery LED Ceiling Light with Remote | Wireless and Rechargeable, No-Drill Mount, 8000m",
-    "type": "should_test",
-    "score": 79.05,
-    "price": 29.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61FNlZ9xg2L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H36WBTV5",
-    "walmart_url": "https://www.walmart.com/search?q=EJYTRVT+Magnetic+RV+Lights+Interior%2C+Battery+LED+Ceiling+Lig"
   },
   {
     "asin": "B0GY7Y5N32",
@@ -1857,17 +1868,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61U9TYdc1-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQ83DCQ",
     "walmart_url": "https://www.walmart.com/search?q=12V+600W+Truck+Cab+Air+Conditioner%2C+11000+BTU+Split+AC+for+V"
-  },
-  {
-    "asin": "B0GZFNL8PG",
-    "title": "RV Camper Cord and Plug Protector - Easily Elevates &amp; Fully Encloses Large 30 &amp; 50 Amp Plugs to Shield from The Elements - UV Protected Polyethylene - Sourced and Made in The USA",
-    "type": "should_test",
-    "score": 78.1,
-    "price": 42.95,
-    "bsr": 24565,
-    "image_url": "https://m.media-amazon.com/images/I/61l7buFUnEL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZFNL8PG",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Camper+Cord+and+Plug+Protector+-+Easily+Elevates+%26+Fully+"
   },
   {
     "asin": "B0HBQ26RYC",
@@ -3223,6 +3223,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Hrionsee+Magnetic+Solar+RV+Light+with+Motion+Sensor%2C+118+LED"
   },
   {
+    "asin": "B0H5C6KTNW",
+    "title": "300W Car Power Inverter with Starlink Mini Adapter",
+    "type": "should_test",
+    "score": 74.6,
+    "price": 36.98,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71hV3ISG+FL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5C6KTNW",
+    "walmart_url": "https://www.walmart.com/search?q=300W+Car+Power+Inverter+with+Starlink+Mini+Adapter"
+  },
+  {
     "asin": "B0GZVJMSHP",
     "title": "UCandy Twin 38&quot;X75&quot; RV Mattress Underlay, 3D Moisture Barrier Pad, Double Layer Breathable &amp;Cuttable Ventilation Mat for Twin",
     "type": "should_test",
@@ -3232,17 +3243,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Mgue95gyL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZVJMSHP",
     "walmart_url": "https://www.walmart.com/search?q=UCandy+Twin+38%22X75%22+RV+Mattress+Underlay%2C+3D+Moisture+Barrie"
-  },
-  {
-    "asin": "B0H5C6KTNW",
-    "title": "300W Car Power Inverter with Starlink Mini Adapter",
-    "type": "should_test",
-    "score": 74.35,
-    "price": 36.98,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71hV3ISG+FL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5C6KTNW",
-    "walmart_url": "https://www.walmart.com/search?q=300W+Car+Power+Inverter+with+Starlink+Mini+Adapter"
   },
   {
     "asin": "B0H6SBBX4Y",
@@ -3375,17 +3375,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/911A2AZDMnL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7WF83XV",
     "walmart_url": "https://www.walmart.com/search?q=RV+Door+Window+Blackout+Shade%2C+16+x+25+Inch+UV+Block+Privacy"
-  },
-  {
-    "asin": "B0HFJCZJJP",
-    "title": "GENMAX 10500 Peak Watt Tri Fuel Open Frame Inverter Generator,with ATS,CO Sensor,digital display and 50A,Ideal for Home backup,contruction site and RV Camping (GM10500XiT)",
-    "type": "should_test",
-    "score": 73.45,
-    "price": 1399.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/81uqZF6++lL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFJCZJJP",
-    "walmart_url": "https://www.walmart.com/search?q=GENMAX+10500+Peak+Watt+Tri+Fuel+Open+Frame+Inverter+Generato"
   },
   {
     "asin": "B0GY8P9K4L",
@@ -3707,6 +3696,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Portable+Cordless+Cleaner+with+Tank%3A+Foldable+Electric+Clean"
   },
   {
+    "asin": "B0HFJCZJJP",
+    "title": "GENMAX 10500 Peak Watt Tri Fuel Open Frame Inverter Generator,with ATS,CO Sensor,digital display and 50A,Ideal for Home backu",
+    "type": "should_test",
+    "score": 71.65,
+    "price": 1399.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uqZF6++lL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFJCZJJP",
+    "walmart_url": "https://www.walmart.com/search?q=GENMAX+10500+Peak+Watt+Tri+Fuel+Open+Frame+Inverter+Generato"
+  },
+  {
     "asin": "B0H87GBHYM",
     "title": "Seasonal Winter RV Skirt 38m/125ft with 10M Hook and Loop Tape | Cuttable Felt, RV Underbelly Skirting, Cold Weather Protec",
     "type": "should_test",
@@ -3727,6 +3727,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61P7O0fp4jL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HH931YSX",
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter+-+Heavy+Duty+Insulated+Camper+Skirt+f"
+  },
+  {
+    "asin": "B0HFWTMYXH",
+    "title": "GEARGO 2026 𝐀𝐥𝐥-𝐍𝐞𝐰 RV Surge Protector 30 Amp, Latest RV Circuit Analyzer with Larger Cover, IP68 Waterproof Voltage Protection, Heavy Duty RV Adapter Plug for Camper Travel Trailer",
+    "type": "should_test",
+    "score": 71.5,
+    "price": 47.49,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71KMhhmc2ZL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFWTMYXH",
+    "walmart_url": "https://www.walmart.com/search?q=GEARGO+2026+%F0%9D%90%80%F0%9D%90%A5%F0%9D%90%A5-%F0%9D%90%8D%F0%9D%90%9E%F0%9D%90%B0+RV+Surge+Protector+30+Amp%2C+Latest+RV+Cir"
   },
   {
     "asin": "B0H8T2YPGK",
@@ -4453,17 +4464,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71w5WocKA5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8276HFG",
     "walmart_url": "https://www.walmart.com/search?q=RV+Shower+Faucet+with+Oversized+Showerhead+%26+59%22+Hose+%26+On%2FO"
-  },
-  {
-    "asin": "B0HFWTMYXH",
-    "title": "GEARGO 2026 𝐀𝐥𝐥-𝐍𝐞𝐰 RV Surge Protector 30 Amp, Latest RV Circuit Analyzer with Larger Cover, IP68 Waterproof Voltage Pr",
-    "type": "should_test",
-    "score": 68.75,
-    "price": 47.49,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KMhhmc2ZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFWTMYXH",
-    "walmart_url": "https://www.walmart.com/search?q=GEARGO+2026+%F0%9D%90%80%F0%9D%90%A5%F0%9D%90%A5-%F0%9D%90%8D%F0%9D%90%9E%F0%9D%90%B0+RV+Surge+Protector+30+Amp%2C+Latest+RV+Cir"
   },
   {
     "asin": "B0H8SX8VPF",
@@ -5201,6 +5201,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71K22UW5IOL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7HJ9M18",
     "walmart_url": "https://www.walmart.com/search?q=RV+Air+Conditioner+Duct+Compatible+with+Coleman+Mach+1%2C+3%2C+1"
+  },
+  {
+    "asin": "B0GZFNL8PG",
+    "title": "Protect-A-Plug RV Camper Cord and Plug Protector - Easily Elevates &amp; Fully Encloses Large 30 &amp; 50 Amp Plugs to Shield from Th",
+    "type": "should_test",
+    "score": 65.25,
+    "price": 42.95,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61l7buFUnEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZFNL8PG",
+    "walmart_url": "https://www.walmart.com/search?q=Protect-A-Plug+RV+Camper+Cord+and+Plug+Protector+-+Easily+El"
   },
   {
     "asin": "B0HF4BRQZZ",
@@ -6006,6 +6017,17 @@
     "walmart_url": "https://www.walmart.com/search?q=HoKarea+Foldable+Telescopic+RV+Step%2C+400lbs+Load+Aluminum+Al"
   },
   {
+    "asin": "B0H3KGL32T",
+    "title": "Bhanboth 12v RV USB Wall Panel Mount Outlet, 78W 3 Port 12 Volt USB Charging Station, Aluminum Body + Black Faceplate usbc an",
+    "type": "should_test",
+    "score": 60.5,
+    "price": 30.49,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vO-uCEviL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3KGL32T",
+    "walmart_url": "https://www.walmart.com/search?q=Bhanboth+12v+RV+USB+Wall+Panel+Mount+Outlet%2C+78W+3+Port+12+V"
+  },
+  {
     "asin": "B0HCSW6J5W",
     "title": "Trailer Dolly with 2 Inch Ball 600 lbs Capacity for Moving Boat ATV UTV Trailer, Garden Cart and Wagon Boat Utility - Jetski -Kayak Trailer Mover, Farmer Equipments Trailer, Durable Steel Frame",
     "type": "should_test",
@@ -6025,17 +6047,6 @@
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71U96tVDETL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3KKRFCN",
-    "walmart_url": "https://www.walmart.com/search?q=Bhanboth+12v+RV+USB+Wall+Panel+Mount+Outlet%2C+78W+3+Port+12+V"
-  },
-  {
-    "asin": "B0H3KGL32T",
-    "title": "Bhanboth 12v RV USB Wall Panel Mount Outlet, 78W 3 Port 12 Volt USB Charging Station, Aluminum Body + Black Faceplate usbc an",
-    "type": "should_test",
-    "score": 60.25,
-    "price": 30.49,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vO-uCEviL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3KGL32T",
     "walmart_url": "https://www.walmart.com/search?q=Bhanboth+12v+RV+USB+Wall+Panel+Mount+Outlet%2C+78W+3+Port+12+V"
   },
   {
@@ -7810,6 +7821,17 @@
     "walmart_url": "https://www.walmart.com/search?q=LANCO+Dry-Coat+1+Gal.+100%25+Acrylic+Siliconized+White+Reflect"
   },
   {
+    "asin": "B0H15CGVX6",
+    "title": "Kanayu 30 Amp to 50 Amp RV Adapter 10 FT Extension Cord Only for RV",
+    "type": "should_test",
+    "score": 55.25,
+    "price": 45.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71-cjXzrwYL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H15CGVX6",
+    "walmart_url": "https://www.walmart.com/search?q=Kanayu+30+Amp+to+50+Amp+RV+Adapter+10+FT+Extension+Cord+Only"
+  },
+  {
     "asin": "B0GYJDMK18",
     "title": "﻿5-Gallon Fuel Tank Rack, sturdy four-way support and locking strap",
     "type": "should_test",
@@ -9018,6 +9040,17 @@
     "image_url": "https://m.media-amazon.com/images/I/7140sGP-BIL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDBH5TSN",
     "walmart_url": "https://www.walmart.com/search?q=Trailer+Hitch+Pin+Lock%2C+5%2F8%22+Dia+Locking+Hitch+Pin"
+  },
+  {
+    "asin": "B0H4L8WT7Z",
+    "title": "Hand Crank Generator Mini Portable Emergency Power Supply, Plasma Lighter, Flashlight, FM Radio, Emergency Power Bank, Portable Aluminum Alloy Survival Gear",
+    "type": "candidate",
+    "score": 58.0,
+    "price": 31.59,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61h5Wf1fQHL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4L8WT7Z",
+    "walmart_url": "https://www.walmart.com/search?q=Hand+Crank+Generator+Mini+Portable+Emergency+Power+Supply%2C+P"
   },
   {
     "asin": "B0H758394K",
@@ -14575,17 +14608,6 @@
     "walmart_url": "https://www.walmart.com/search?q=TURBRO+Air+Distribution+Box%2C+Air+Conditioner+ADB+with+Remote"
   },
   {
-    "asin": "B0H41B3GHM",
-    "title": "RV Shore Power Inlet Charger Plug, 20A 250V AC Electrical Power Inlet Socket, 5-in-1 AC Port Plug with 21-inch Splitter Exten",
-    "type": "candidate",
-    "score": 38.25,
-    "price": 16.14,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71fzjaKdcoL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H41B3GHM",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Shore+Power+Inlet+Charger+Plug%2C+20A+250V+AC+Electrical+Po"
-  },
-  {
     "asin": "B0H6NZR5N4",
     "title": "LIWEIKE RV Shower Faucet, Matte Black, Single Handle Camper Shower Faucet | G1/2 Thread, Mental 4&quot; RV Shower Faucet with Hose",
     "type": "candidate",
@@ -14661,6 +14683,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71AEUNW3hlL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HK8K54Z4",
     "walmart_url": "https://www.walmart.com/search?q=Solar+Anti-Theft+LED+Flashing+Lamp+Fake+Car+Alarm+System"
+  },
+  {
+    "asin": "B0H41B3GHM",
+    "title": "RV Shore Power Inlet Charger Plug, 20A 250V AC Electrical Power Inlet Socket, 5-in-1 AC Port Plug with 21-inch Splitter Exten",
+    "type": "candidate",
+    "score": 37.75,
+    "price": 16.14,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71fzjaKdcoL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H41B3GHM",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Shore+Power+Inlet+Charger+Plug%2C+20A+250V+AC+Electrical+Po"
   },
   {
     "asin": "B0H5ND2KMY",
