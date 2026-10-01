@@ -803,17 +803,6 @@
     "walmart_url": "https://www.walmart.com/search?q=ONNAIS+Smart+RV+Door+Lock+-+Full+Metal+App+Control+Keyless+E"
   },
   {
-    "asin": "B0HKJ3GQXS",
-    "title": "2027 New Wall Ac Unit, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating, Wall Mount Air Conditioner with Remote, Quiet Op",
-    "type": "winner",
-    "score": 81.75,
-    "price": 131.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71exPflNstL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKJ3GQXS",
-    "walmart_url": "https://www.walmart.com/search?q=2027+New+Wall+Ac+Unit%2C+1800W+Ductless+Portable+2-in-1+Coolin"
-  },
-  {
     "asin": "B0H45XH1D7",
     "title": "EZ RV Solutions RV Snap Trap Sewer Hose P-Trap – Blocks Sewer Gas &amp; Odors | Leave your gray tank open with confidence; fits s",
     "type": "winner",
@@ -845,6 +834,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DSWskbY-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJQR82WN",
     "walmart_url": "https://www.walmart.com/search?q=PECRON+E2400LFP+2048Wh%2F2400W%2C+Fast+Charging+in+1.5+Hrs+for+E"
+  },
+  {
+    "asin": "B0HKJ3GQXS",
+    "title": "2027 New Wall Ac Unit, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating, Wall Mount Air Conditioner with Remote, Quiet Op",
+    "type": "winner",
+    "score": 81.5,
+    "price": 131.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71exPflNstL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKJ3GQXS",
+    "walmart_url": "https://www.walmart.com/search?q=2027+New+Wall+Ac+Unit%2C+1800W+Ductless+Portable+2-in-1+Coolin"
   },
   {
     "asin": "B0HJTWGM4R",
@@ -1076,17 +1076,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bKn64S+FL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4W8F84N",
     "walmart_url": "https://www.walmart.com/search?q=FOSSiBOT+F1800+Portable+Power+Station+1800W+%283600W+Surge%29%2C+1"
-  },
-  {
-    "asin": "B0HHY3BLNN",
-    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200",
-    "type": "winner",
-    "score": 80.65,
-    "price": 100.0,
-    "bsr": 27595,
-    "image_url": "https://m.media-amazon.com/images/I/71l7Lz8aQgL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
-    "walmart_url": "https://www.walmart.com/search?q=Exhaustrex+RV+Cassette+Toilet+Ventilation+System+%7C+Fits+Thet"
   },
   {
     "asin": "B0H5BJQJW3",
@@ -1329,6 +1318,17 @@
     "image_url": "https://m.media-amazon.com/images/I/51z3pZrzjlL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GWPF46YB",
     "walmart_url": "https://www.walmart.com/search?q=Car+Rear+View+Camera+Cover%2C+Waterproof+ABS+Wider+Reversing+C"
+  },
+  {
+    "asin": "B0HHY3BLNN",
+    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200 | Stop venting sewer gases into your RV! Passive",
+    "type": "should_test",
+    "score": 79.4,
+    "price": 100.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
+    "walmart_url": "https://www.walmart.com/search?q=Exhaustrex+RV+Cassette+Toilet+Ventilation+System+%7C+Fits+Thet"
   },
   {
     "asin": "B0GYW2KZ4M",
@@ -2717,6 +2717,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Airflow+Systems+FlowDirect+RV+Air+Conditioning+One-Way+Va"
   },
   {
+    "asin": "B0H9R7HBV8",
+    "title": "briidea 2-in-1 RV Accessories Gas Detector | Dual UL Listed Sensors with Separate LED Indicator Lights, 12V DC for RVs, Trave",
+    "type": "should_test",
+    "score": 75.95,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/616LU9mHytL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9R7HBV8",
+    "walmart_url": "https://www.walmart.com/search?q=briidea+2-in-1+RV+Accessories+Gas+Detector+%7C+Dual+UL+Listed+"
+  },
+  {
     "asin": "B0H1M1RFPZ",
     "title": "YTYLSJ 4-Pack RV Fridge Bars, Adjustable RV Tension Rods, 19.5-36.7&quot; | Non-slip refrigerator bars for camper, kitchen, closet",
     "type": "should_test",
@@ -2871,17 +2882,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Slide-Out+Mouse+Guard+Compatible+with+Lippert+Slide-Outs"
   },
   {
-    "asin": "B0H9R7HBV8",
-    "title": "briidea 2-in-1 RV Accessories Gas Detector | Dual UL Listed Sensors with Separate LED Indicator Lights, 12V DC for RVs, Trave",
-    "type": "should_test",
-    "score": 75.45,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/616LU9mHytL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9R7HBV8",
-    "walmart_url": "https://www.walmart.com/search?q=briidea+2-in-1+RV+Accessories+Gas+Detector+%7C+Dual+UL+Listed+"
-  },
-  {
     "asin": "B0H29ZGFN9",
     "title": "Silent 130CFM Solar for exhaust Fan 12V with 10W Panel, 4 Inch Inline Ventilation System for Yacht RV Camper Shed, Energy Saving Weatherproof Air Extractor",
     "type": "should_test",
@@ -3012,6 +3012,17 @@
     "image_url": "https://m.media-amazon.com/images/I/51pSZOX0NEL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5QCNGFG",
     "walmart_url": "https://www.walmart.com/search?q=2+Pcs+E2+Hitch+Sway+Bracket+Jacket%2C+Equalizer+Hitch+Parts+95"
+  },
+  {
+    "asin": "B0HJV9PKJP",
+    "title": "Sponiwelly RV Dual C-O and L-P G-as Sensor, 12V DC Hardwired for RVs, White | LED Indicator, Audible Siren, Digital Display,",
+    "type": "should_test",
+    "score": 74.95,
+    "price": 49.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kv5Ys3TZL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJV9PKJP",
+    "walmart_url": "https://www.walmart.com/search?q=Sponiwelly+RV+Dual+C-O+and+L-P+G-as+Sensor%2C+12V+DC+Hardwired"
   },
   {
     "asin": "B0HC2TR9TB",
@@ -3223,6 +3234,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2026+Upgrade+Portable+Car+Fan%2CClip%E2%80%91on%2FHang%2FStand+3D+Circulat"
   },
   {
+    "asin": "B0GY43GC6N",
+    "title": "2PCS 15 IN RV Propane Hose with Pressure Gauge, 1/4&quot; Male, 250PSI | Stainless Steel Braided Gas Tubing for Standard RV Dual-S",
+    "type": "should_test",
+    "score": 74.1,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gOV5hZH7L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GY43GC6N",
+    "walmart_url": "https://www.walmart.com/search?q=2PCS+15+IN+RV+Propane+Hose+with+Pressure+Gauge%2C+1%2F4%22+Male%2C+2"
+  },
+  {
     "asin": "B0HH3M98N4",
     "title": "Vehicle Awning 4.9&#x27;×6.5&#x27;, Retractable Car SUV Truck Van Camper Awning | Roof Rack Pull-out Side Sun Shade UV50+600D Oxford Wa",
     "type": "should_test",
@@ -3232,17 +3254,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71jeMJMziHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HH3M98N4",
     "walmart_url": "https://www.walmart.com/search?q=Vehicle+Awning+4.9%27%C3%976.5%27%2C+Retractable+Car+SUV+Truck+Van+Camp"
-  },
-  {
-    "asin": "B0HKHRHN3B",
-    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets and Screwdriver for RVs,R502",
-    "type": "should_test",
-    "score": 73.95,
-    "price": 52.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61AgxGPp2xL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKHRHN3B",
-    "walmart_url": "https://www.walmart.com/search?q=2-in-1+RV+Accessories+Gas+Detector%2CHardwired+12V+DC+with+3+D"
   },
   {
     "asin": "B0HJWCZN58",
@@ -3531,17 +3542,6 @@
     "walmart_url": "https://www.walmart.com/search?q=MUTAOMAY+5000+Watt+Inverter+Generator%2C+4000W+Running%2C+Home+B"
   },
   {
-    "asin": "B0GY43GC6N",
-    "title": "2PCS 15 IN RV Propane Hose with Pressure Gauge, 1/4&quot; Male, 250PSI | Stainless Steel Braided Gas Tubing for Standard RV Dual-S",
-    "type": "should_test",
-    "score": 72.25,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gOV5hZH7L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GY43GC6N",
-    "walmart_url": "https://www.walmart.com/search?q=2PCS+15+IN+RV+Propane+Hose+with+Pressure+Gauge%2C+1%2F4%22+Male%2C+2"
-  },
-  {
     "asin": "B0H2DDXBNB",
     "title": "TOPOAK 270-degree Awning Room (Awning + Walls Without Floor Mat, Passenger Side（Right）)",
     "type": "should_test",
@@ -3760,6 +3760,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71K-aWHrFZL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5PR3HWX",
     "walmart_url": "https://www.walmart.com/search?q=FOGATTI+Camper+Gas+Furnace+35%2C000+BTU+-+for+Camper%2C+Motorhom"
+  },
+  {
+    "asin": "B0HKHRHN3B",
+    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets and Screwdriver for RVs,R502",
+    "type": "should_test",
+    "score": 70.85,
+    "price": 52.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61AgxGPp2xL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKHRHN3B",
+    "walmart_url": "https://www.walmart.com/search?q=2-in-1+RV+Accessories+Gas+Detector%2CHardwired+12V+DC+with+3+D"
   },
   {
     "asin": "B0H12JS94Q",
@@ -4398,17 +4409,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61I6+q+tkjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQN2CRT",
     "walmart_url": "https://www.walmart.com/search?q=Zofianna+RV+Portable+AC+Vent+Adapter+for+5.9-Inch+Exhaust+Ho"
-  },
-  {
-    "asin": "B0HJ11WNLC",
-    "title": "12V DC RV Gas Detection Unit, Black | 31011 Replacement, Flush Mount",
-    "type": "should_test",
-    "score": 68.5,
-    "price": 52.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81nY7avjn6L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ11WNLC",
-    "walmart_url": "https://www.walmart.com/search?q=12V+DC+RV+Gas+Detection+Unit%2C+Black+%7C+31011+Replacement%2C+Flu"
   },
   {
     "asin": "B0GYQQZQD6",
@@ -5137,17 +5137,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Fiberglass+Gloss+Oil+Shine+Restorer%2C+RV+FiberglassGloss+R"
   },
   {
-    "asin": "B0HJV9PKJP",
-    "title": "Sponiwelly RV Dual C-O and L-P G-as Sensor, 12V DC Hardwired for RVs, White | LED Indicator, Audible Siren, Digital Display,",
-    "type": "should_test",
-    "score": 65.5,
-    "price": 52.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kv5Ys3TZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJV9PKJP",
-    "walmart_url": "https://www.walmart.com/search?q=Sponiwelly+RV+Dual+C-O+and+L-P+G-as+Sensor%2C+12V+DC+Hardwired"
-  },
-  {
     "asin": "B0H7HJ9M18",
     "title": "RV Air Conditioner Duct Compatible with Coleman Mach 1, 3, 10, 15 &amp; Q",
     "type": "should_test",
@@ -5555,6 +5544,17 @@
     "walmart_url": "https://www.walmart.com/search?q=12000W+Open+Frame+Inverter+Generator%2C+120%2F240V+50A%2C+Whole+Ho"
   },
   {
+    "asin": "B0HJ11WNLC",
+    "title": "12V DC RV Gas Detection Unit, Black | 31011 Replacement, Flush Mount",
+    "type": "should_test",
+    "score": 62.75,
+    "price": 52.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81nY7avjn6L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ11WNLC",
+    "walmart_url": "https://www.walmart.com/search?q=12V+DC+RV+Gas+Detection+Unit%2C+Black+%7C+31011+Replacement%2C+Flu"
+  },
+  {
     "asin": "B0H69D5FQZ",
     "title": "2-Piece Brass RV Water Pressure Regulator Set with 90-Degree Hose Elbow | 40–50 PSI, brass construction and 3/4-inch GHT; inc",
     "type": "should_test",
@@ -5698,17 +5698,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Refrigerator+Door+Latch+Travel+Fridge+Lock%2C+1-3%2F16%22+Hole+"
   },
   {
-    "asin": "B0H2MKP7ZS",
-    "title": "Outus 5 Gallon Gas Can Holder, Fuel Jug Mount for Trailer, Round | Gas Can Not Included, Heavy Duty Metal, 2 Locking Straps,",
-    "type": "should_test",
-    "score": 62.25,
-    "price": 53.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qkpTkmRHL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2MKP7ZS",
-    "walmart_url": "https://www.walmart.com/search?q=Outus+5+Gallon+Gas+Can+Holder%2C+Fuel+Jug+Mount+for+Trailer%2C+R"
-  },
-  {
     "asin": "B0H4L9YNNV",
     "title": "Safoner Aluminum RV Sewer Hose Storage Carrier,Camper Hose Tube Accessorie",
     "type": "should_test",
@@ -5718,17 +5707,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61RPv5qxzxL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4L9YNNV",
     "walmart_url": "https://www.walmart.com/search?q=Safoner+Aluminum+RV+Sewer+Hose+Storage+Carrier%2CCamper+Hose+T"
-  },
-  {
-    "asin": "B0HBXJPZ2V",
-    "title": "Triple 5 Gallon Gas Can Holder for Trailer, Heavy Duty Fuel Jug Mount Rack | Metal Trailer Rack Holds Three 5-gallon Cans or",
-    "type": "should_test",
-    "score": 62.0,
-    "price": 82.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61trtM6wW0L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBXJPZ2V",
-    "walmart_url": "https://www.walmart.com/search?q=Triple+5+Gallon+Gas+Can+Holder+for+Trailer%2C+Heavy+Duty+Fuel+"
   },
   {
     "asin": "B0GZPC8H9J",
@@ -6136,17 +6114,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51y1meDQWML._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYKZR6P1",
     "walmart_url": "https://www.walmart.com/search?q=3108392.36+26.85in+180lb+Gas+Strut+for+RV+Awning+Camper+Arm+"
-  },
-  {
-    "asin": "B0GZKCJXFQ",
-    "title": "Rv Propane Regulator 2 Tank Hoses Kit, 2-Stage Manual Changeover Regulator with 2 Pack 15&quot; AGA RV Propane Hoses and 5 FT Stai",
-    "type": "should_test",
-    "score": 59.75,
-    "price": 54.12,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+2NPfuSeL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZKCJXFQ",
-    "walmart_url": "https://www.walmart.com/search?q=Rv+Propane+Regulator+2+Tank+Hoses+Kit%2C+2-Stage+Manual+Change"
   },
   {
     "asin": "B0H9QX75NN",
@@ -6611,6 +6578,17 @@
     "walmart_url": "https://www.walmart.com/search?q=K6010-81+RV+Fan+Vent+Lift+Motor+17+RPM+12V+DC%2C+Fit+for+Domet"
   },
   {
+    "asin": "B0GZKCJXFQ",
+    "title": "Rv Propane Regulator 2 Tank Hoses Kit, 2-Stage Manual Changeover Regulator with 2 Pack 15&quot; AGA RV Propane Hoses and 5 FT Stainless Steel Braided Hose, Dual Propane Tank Kit for RV Camper Trailer etc.",
+    "type": "should_test",
+    "score": 58.25,
+    "price": 54.12,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71+2NPfuSeL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZKCJXFQ",
+    "walmart_url": "https://www.walmart.com/search?q=Rv+Propane+Regulator+2+Tank+Hoses+Kit%2C+2-Stage+Manual+Change"
+  },
+  {
     "asin": "B0H8RRXK8Z",
     "title": "Butyl Tape Waterproof Repair Tape, 2In x 16Ft Aluminum Foil Sealing Tapes, Strong Adhesive Leak Repair Tapes for Roof, RV, Pipe, Wall, Window, Boat &amp; DIY Home Repairs",
     "type": "should_test",
@@ -6721,6 +6699,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Carry+Bag+for+High+Pressure+Single+Propane+Burner+with+Multi"
   },
   {
+    "asin": "B0HBXJPZ2V",
+    "title": "Triple 5 Gallon Gas Can Holder for Trailer, Heavy Duty Fuel Jug Mount Rack | Metal Trailer Rack Holds Three 5-gallon Cans or",
+    "type": "should_test",
+    "score": 58.0,
+    "price": 82.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61trtM6wW0L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBXJPZ2V",
+    "walmart_url": "https://www.walmart.com/search?q=Triple+5+Gallon+Gas+Can+Holder+for+Trailer%2C+Heavy+Duty+Fuel+"
+  },
+  {
     "asin": "B0GZF5V7WC",
     "title": "92249 91160 520900 for Atwood Dometic Suburban RV Water Heater Element",
     "type": "should_test",
@@ -6752,6 +6741,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/613U4nQM7pL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1NVL75Y",
     "walmart_url": "https://www.walmart.com/search?q=Furrion+Chill+Cube+18K+Ducted+White+Variable+Speed+RV+Roofto"
+  },
+  {
+    "asin": "B0H2MKP7ZS",
+    "title": "Outus 5 Gallon Gas Can Holder, Fuel Jug Mount for Trailer, Round | Gas Can Not Included, Heavy Duty Metal, 2 Locking Straps,",
+    "type": "should_test",
+    "score": 57.75,
+    "price": 53.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qkpTkmRHL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2MKP7ZS",
+    "walmart_url": "https://www.walmart.com/search?q=Outus+5+Gallon+Gas+Can+Holder%2C+Fuel+Jug+Mount+for+Trailer%2C+R"
   },
   {
     "asin": "B0H4XWNMZX",
@@ -8030,17 +8030,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Rugaest+WF-8955-MBA+55A+RV+Converter+Charger%2C+Manual+Lead-Ac"
   },
   {
-    "asin": "B0H1CFGTS2",
-    "title": "998TW-11 Twin Stage Propane Regulator, for LPG System Generator RV Trailer, High Capacity Pressure Regulator, 250PSI Inlet, 9",
-    "type": "should_test",
-    "score": 54.25,
-    "price": 347.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61y0htaOIoL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1CFGTS2",
-    "walmart_url": "https://www.walmart.com/search?q=998TW-11+Twin+Stage+Propane+Regulator%2C+for+LPG+System+Genera"
-  },
-  {
     "asin": "B0H5JYCHYQ",
     "title": "16.9 fl oz Road Salt Undercarriage Wash for Trucks SUVs",
     "type": "should_test",
@@ -8657,6 +8646,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RVLock+Luxury+Inflatable+Sofa+with+Built+in+Pump%2C+Inflatable"
   },
   {
+    "asin": "B0H41M799K",
+    "title": "RV Propane Tank Cover,Mountain Camper Gas Cylinder Cover Fits 30LB Dual Propane Tanks for RV/Trailer/Camper Accessories Waterproof&amp; Weather Resistant",
+    "type": "candidate",
+    "score": 64.5,
+    "price": 25.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71XRNthoaaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H41M799K",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Propane+Tank+Cover%2CMountain+Camper+Gas+Cylinder+Cover+Fit"
+  },
+  {
     "asin": "B0H2DQK633",
     "title": "Retro Mountain Sunset Spare Tire Cover with Backup Camera Hole Waterproof Dust-Proof UV Sun Wheel Covers for RV Trailer RV SUV Truck and Many Vehicle 17inch",
     "type": "candidate",
@@ -8798,6 +8798,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gc8+Ph7RL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9L8KV8Y",
     "walmart_url": "https://www.walmart.com/search?q=SKIKIO+12+Pack+RV+Awning+Light+Clips+with+Storage+Bag+%7C+Heav"
+  },
+  {
+    "asin": "B0H46WH3ZT",
+    "title": "RiToEasysports Gas Canister Cover, Insulated Windproof Sleeve with Pockets, 230g Camping Fuel Protector for Hiking Backpacking",
+    "type": "candidate",
+    "score": 58.5,
+    "price": 10.7,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/81MruMcvx9L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H46WH3ZT",
+    "walmart_url": "https://www.walmart.com/search?q=RiToEasysports+Gas+Canister+Cover%2C+Insulated+Windproof+Sleev"
   },
   {
     "asin": "B0H6M764LC",
@@ -9911,17 +9922,6 @@
     "walmart_url": "https://www.walmart.com/search?q=25FT+RV+LED+Awning+Strip+Light%2C+Waterproof+White+Camper+Ligh"
   },
   {
-    "asin": "B0H8X6LFCT",
-    "title": "5ft RV Propane Hose, POL x 1/4&quot; Inverted Male Flare RV Propane Extension Tank hose Connect to 20lb or 30lb Propane Tank, Rubber propane supply hose for RV Trailer, Camping, Gas Grill (Pack of 2)",
-    "type": "candidate",
-    "score": 53.25,
-    "price": 33.96,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/719eZSLPDNL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8X6LFCT",
-    "walmart_url": "https://www.walmart.com/search?q=5ft+RV+Propane+Hose%2C+POL+x+1%2F4%22+Inverted+Male+Flare+RV+Propa"
-  },
-  {
     "asin": "B0HBK9RT8R",
     "title": "3FT 5430 Propane Extension Hose Adapter, for Coleman Camp Stove",
     "type": "candidate",
@@ -10208,17 +10208,6 @@
     "walmart_url": "https://www.walmart.com/search?q=1156+BA15S+LED+Bulbs%2C+12V+Only+6000K+Daylight+White%2C+1141+P2"
   },
   {
-    "asin": "B0HCYLCYSH",
-    "title": "LXIUJSFXA 2Pak RV Dump Valve T-Handle, Aluminum Black Replacement | For Camco 1/2inch 2inch 3inch Gate Valves.Upgraded Replac",
-    "type": "candidate",
-    "score": 52.25,
-    "price": 9.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41FeVefLGfL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCYLCYSH",
-    "walmart_url": "https://www.walmart.com/search?q=LXIUJSFXA+2Pak+RV+Dump+Valve+T-Handle%2C+Aluminum+Black+Replac"
-  },
-  {
     "asin": "B0HCZNQMPQ",
     "title": "12V USB Outlet for RV, 3 Port USB Charger Socket with Dual PD 30W and QC3.0 18W Fast Charging, Surface Mount Panel with Switc",
     "type": "candidate",
@@ -10492,6 +10481,39 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61m5TqlnQiL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDYGLNB9",
     "walmart_url": "https://www.walmart.com/search?q=JIYIZO+RV+Air+Vent+Cover+%E2%80%93+5.5%22+Face+4%22+Back+Round+Register+"
+  },
+  {
+    "asin": "B0H1CFGTS2",
+    "title": "998TW-11 Twin Stage Propane Regulator, for LPG System Generator RV Trailer, High Capacity Pressure Regulator, 250PSI Inlet, 9-13&quot; WC Outlet, 1.4M BTU, 1/4&quot; FNPT, 3/4&quot; FNPT, Straight Heavy Duty Design",
+    "type": "candidate",
+    "score": 51.5,
+    "price": 347.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61y0htaOIoL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1CFGTS2",
+    "walmart_url": "https://www.walmart.com/search?q=998TW-11+Twin+Stage+Propane+Regulator%2C+for+LPG+System+Genera"
+  },
+  {
+    "asin": "B0H8X6LFCT",
+    "title": "5ft RV Propane Hose, POL x 1/4&quot; Inverted Male Flare RV Propane Extension Tank hose Connect to 20lb or 30lb Propane Tank, Rubb",
+    "type": "candidate",
+    "score": 51.5,
+    "price": 33.96,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719eZSLPDNL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8X6LFCT",
+    "walmart_url": "https://www.walmart.com/search?q=5ft+RV+Propane+Hose%2C+POL+x+1%2F4%22+Inverted+Male+Flare+RV+Propa"
+  },
+  {
+    "asin": "B0HCYLCYSH",
+    "title": "LXIUJSFXA 2Pak RV Dump Valve T-Handle, Aluminum Black Replacement | For Camco 1/2inch 2inch 3inch Gate Valves.Upgraded Replac",
+    "type": "candidate",
+    "score": 51.5,
+    "price": 9.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41FeVefLGfL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCYLCYSH",
+    "walmart_url": "https://www.walmart.com/search?q=LXIUJSFXA+2Pak+RV+Dump+Valve+T-Handle%2C+Aluminum+Black+Replac"
   },
   {
     "asin": "B0H1HB5QSS",
@@ -10901,17 +10923,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Onogefel+3-Step+RV+Steps+with+2+Handrails+%7C+Heavy-Duty+Const"
   },
   {
-    "asin": "B0H6MGDXVS",
-    "title": "GEGEHANSEN RV Vent Covers for Roof, White, 2 Pack | RV Roof Vent Cover Kit, For Camper Trailer Motorhome, Fits 1 to 2-3/8 Inc",
-    "type": "candidate",
-    "score": 50.5,
-    "price": 14.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51PRWvHjl7L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6MGDXVS",
-    "walmart_url": "https://www.walmart.com/search?q=GEGEHANSEN+RV+Vent+Covers+for+Roof%2C+White%2C+2+Pack+%7C+RV+Roof+"
-  },
-  {
     "asin": "B0HGF62S5D",
     "title": "WHODNUS Manual Retractable RV Step,Foldable Camper Step Without Light | Camper Entry Step w/Yellow Stripes,17.95&quot; Pedal Lengt",
     "type": "candidate",
@@ -11242,6 +11253,17 @@
     "walmart_url": "https://www.walmart.com/search?q=kiaikmc+2Pack+3%22+RV+Sewer+Cap+with+Hose+Outlet%2CWaste+Valve+C"
   },
   {
+    "asin": "B0H8SD4P1S",
+    "title": "Chririnla American Flag Dual Propane Tank Cover for RV Trailer Double 40lb Propane Tank Protectors Replacement Waterproof Out",
+    "type": "candidate",
+    "score": 49.75,
+    "price": 28.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81+0mYYw3XL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8SD4P1S",
+    "walmart_url": "https://www.walmart.com/search?q=Chririnla+American+Flag+Dual+Propane+Tank+Cover+for+RV+Trail"
+  },
+  {
     "asin": "B0HB41WFKR",
     "title": "SolYehom 4&quot; RV Shower Faucet with Hose Kit for RV, Camper, Motorhome | Camper Shower Faucet Replacement Kit,ABS RV Tub Faucet",
     "type": "candidate",
@@ -11517,6 +11539,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Propane+Tank+Cover+40567+For+Camco+20+Lb+Single+Propane+Tank"
   },
   {
+    "asin": "B0H6MGDXVS",
+    "title": "GEGEHANSEN RV Vent Covers for Roof, White, 2 Pack | RV Roof Vent Cover Kit, For Camper Trailer Motorhome, Fits 1 to 2-3/8 Inc",
+    "type": "candidate",
+    "score": 48.5,
+    "price": 15.69,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51PRWvHjl7L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6MGDXVS",
+    "walmart_url": "https://www.walmart.com/search?q=GEGEHANSEN+RV+Vent+Covers+for+Roof%2C+White%2C+2+Pack+%7C+RV+Roof+"
+  },
+  {
     "asin": "B0H25LPBKF",
     "title": "RV Air Conditioner Cover, Waterproof 600D Oxford Camper AC Covers",
     "type": "candidate",
@@ -11526,17 +11559,6 @@
     "image_url": "https://m.media-amazon.com/images/I/51RLjbBr-7L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H25LPBKF",
     "walmart_url": "https://www.walmart.com/search?q=RV+Air+Conditioner+Cover%2C+Waterproof+600D+Oxford+Camper+AC+C"
-  },
-  {
-    "asin": "B0H1552TKX",
-    "title": "Fulvitaly Upgraded 1LB Propane Tank Storage Bag for 6-Pack Camping Canisters, Multi-Pocket Carry Pouch for RV &amp; Outdoor Cooki",
-    "type": "candidate",
-    "score": 48.5,
-    "price": 26.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71e4yy0mhCL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1552TKX",
-    "walmart_url": "https://www.walmart.com/search?q=Fulvitaly+Upgraded+1LB+Propane+Tank+Storage+Bag+for+6-Pack+C"
   },
   {
     "asin": "B0H3TCTF81",
@@ -11902,6 +11924,17 @@
     "walmart_url": "https://www.walmart.com/search?q=MiracleMist+RV+Roof+%26+Awning+Cleaner%2C+Exterior+Surface%2C+128+"
   },
   {
+    "asin": "B0HFXCFC3L",
+    "title": "2pcs Aluminum RV Waste Valve T‑Handle, Replacement Sewer Dump Valve Handle | Universal for Valterra &amp; Camco Tank Valves, meta",
+    "type": "candidate",
+    "score": 47.75,
+    "price": 9.89,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Ftcz9Ul1L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFXCFC3L",
+    "walmart_url": "https://www.walmart.com/search?q=2pcs+Aluminum+RV+Waste+Valve+T%E2%80%91Handle%2C+Replacement+Sewer+Dum"
+  },
+  {
     "asin": "B0H2W4KJ8F",
     "title": "Vickmons 2 Pack 2.5 x 10 RV Water Filter Replaces FRE-10-GN Activated Carbon Block Push-Nipple Cartridge Compatible with Pro",
     "type": "candidate",
@@ -12186,6 +12219,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71IDwoNhdEL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H252FC6Q",
     "walmart_url": "https://www.walmart.com/search?q=White+7%22+RV+AC+Vent+Covers%2C+Ceiling+Grilles+With+Rotatable+L"
+  },
+  {
+    "asin": "B0H1552TKX",
+    "title": "Fulvitaly Upgraded 1LB Propane Tank Storage Bag for 6-Pack Camping Canisters, Multi-Pocket Carry Pouch for RV &amp; Outdoor Cooki",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 26.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71e4yy0mhCL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1552TKX",
+    "walmart_url": "https://www.walmart.com/search?q=Fulvitaly+Upgraded+1LB+Propane+Tank+Storage+Bag+for+6-Pack+C"
   },
   {
     "asin": "B0H8KZ8XC6",
@@ -12815,17 +12859,6 @@
     "walmart_url": "https://www.walmart.com/search?q=EWESD+%2ASET+OF+FOUR+12+VOLT+RV+LED+DREAM+LIGHTING+LED+WHITE+4"
   },
   {
-    "asin": "B0HFWZ1P2L",
-    "title": "2pcs Black RV Waste Valve T‑Handle, Replacement Sewer Dump Valve Handle | Universal for Valterra &amp; Camco Tank Valves, metal w",
-    "type": "candidate",
-    "score": 45.0,
-    "price": 9.89,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61A7aIShZYL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFWZ1P2L",
-    "walmart_url": "https://www.walmart.com/search?q=2pcs+Black+RV+Waste+Valve+T%E2%80%91Handle%2C+Replacement+Sewer+Dump+V"
-  },
-  {
     "asin": "B0H7BDRTW8",
     "title": "RV Entry Door 26&quot; W x 36&quot; H Camper Teardrop Door for Driver Side | Aluminum Alloy Teardrop Trailer Door with Tempered Glass a",
     "type": "candidate",
@@ -12912,6 +12945,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gmTOU1TkL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H15GL7FY",
     "walmart_url": "https://www.walmart.com/search?q=Leinuosen+12+Pcs+6.5%22+Round+Rv+Vent+Cover+Ceiling+Air+Condit"
+  },
+  {
+    "asin": "B0HDJYCHB5",
+    "title": "Acouto RV Gas Bottle Wrench Dual Head Non Slip Nylon Grip",
+    "type": "candidate",
+    "score": 44.15,
+    "price": 6.69,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/51U+RmrEb8L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDJYCHB5",
+    "walmart_url": "https://www.walmart.com/search?q=Acouto+RV+Gas+Bottle+Wrench+Dual+Head+Non+Slip+Nylon+Grip"
   },
   {
     "asin": "B0H7BGQSBR",
@@ -13088,6 +13132,17 @@
     "image_url": "https://m.media-amazon.com/images/I/710g-krFtfL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4QSJYL9",
     "walmart_url": "https://www.walmart.com/search?q=Geelin+20lb+Propane+Tank+Winter+Cover+Thickened+Built-in+Ant"
+  },
+  {
+    "asin": "B0HFWZ1P2L",
+    "title": "2pcs Black RV Waste Valve T‑Handle, Replacement Sewer Dump Valve Handle | Universal for Valterra &amp; Camco Tank Valves, metal w",
+    "type": "candidate",
+    "score": 43.5,
+    "price": 9.89,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61A7aIShZYL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFWZ1P2L",
+    "walmart_url": "https://www.walmart.com/search?q=2pcs+Black+RV+Waste+Valve+T%E2%80%91Handle%2C+Replacement+Sewer+Dump+V"
   },
   {
     "asin": "B0H2H36JPH",
@@ -14278,17 +14333,6 @@
     "walmart_url": "https://www.walmart.com/search?q=TEBEDI+30%22+x+72%22+RV+Entry+Door+Aluminum+Powder+Coated+White+"
   },
   {
-    "asin": "B0H87LRNDF",
-    "title": "Caravan 2in1 Gas Key Fits for Gas Regulator Pressure Reducer Motorhome Cylinder Wrench RV Outdoor Barbecue Parts",
-    "type": "candidate",
-    "score": 39.0,
-    "price": 1.8,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41QsZvwluCL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H87LRNDF",
-    "walmart_url": "https://www.walmart.com/search?q=Caravan+2in1+Gas+Key+Fits+for+Gas+Regulator+Pressure+Reducer"
-  },
-  {
     "asin": "B0GZPM2YST",
     "title": "MSFORSPIRT Trailer Cam Lock Door Assembly Set of 4，Replacement for Part # 383200 &amp; PLR158 or cam Rod Door Retainer Cargo Dump",
     "type": "candidate",
@@ -15026,6 +15070,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Jmfdzdf+Replacement+Power+Cord+Compatible+with+Alpicool%2C+Bod"
   },
   {
+    "asin": "B0H87LRNDF",
+    "title": "Caravan 2in1 Gas Key Fits for Gas Regulator Pressure Reducer Motorhome Cylinder Wrench RV Outdoor Barbecue Parts",
+    "type": "candidate",
+    "score": 32.5,
+    "price": 1.8,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41QsZvwluCL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H87LRNDF",
+    "walmart_url": "https://www.walmart.com/search?q=Caravan+2in1+Gas+Key+Fits+for+Gas+Regulator+Pressure+Reducer"
+  },
+  {
     "asin": "B0H7184CFD",
     "title": "Forklift Propane Tank Adapter, Female to Male Acme &amp; POL",
     "type": "candidate",
@@ -15686,17 +15741,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Front+AT+Speaker+Replaces+86160-0E340"
   },
   {
-    "asin": "B0HHRVMXSC",
-    "title": "Green Rubber Fuel Nozzle Protective Sleeve, 2‑Pack Universal Gas Pump Housing Guard for Fuel Station, Easy‑to‑Clean Ergonomic Handle Cover for Diesel &amp; Gasoline Dispenser",
-    "type": "candidate",
-    "score": 19.5,
-    "price": 5.55,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/410sviCU3RL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHRVMXSC",
-    "walmart_url": "https://www.walmart.com/search?q=Green+Rubber+Fuel+Nozzle+Protective+Sleeve%2C+2%E2%80%91Pack+Universal"
-  },
-  {
     "asin": "B0H6Q4DQQ4",
     "title": "Tailgate Garnish Rear License Assembly Fits for Honda Fit 2015-2020",
     "type": "candidate",
@@ -15728,6 +15772,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61bJ-EsmGYL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHMQM862",
     "walmart_url": "https://www.walmart.com/search?q=2308000872+Roof+Lock+Cylinder+Seal+Kit+for+Mercedes-Benz+SL+"
+  },
+  {
+    "asin": "B0HHRVMXSC",
+    "title": "Green Rubber Fuel Nozzle Protective Sleeve, 2‑Pack Universal Gas Pump Housing Guard for Fuel Station, Easy‑to‑Clean Ergonomic Handle Cover for Diesel &amp; Gasoline Dispenser",
+    "type": "candidate",
+    "score": 17.75,
+    "price": 5.55,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/410sviCU3RL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHRVMXSC",
+    "walmart_url": "https://www.walmart.com/search?q=Green+Rubber+Fuel+Nozzle+Protective+Sleeve%2C+2%E2%80%91Pack+Universal"
   },
   {
     "asin": "B0H71GNRTQ",
