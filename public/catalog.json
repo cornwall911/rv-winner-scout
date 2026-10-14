@@ -253,17 +253,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Tankless+Water+Heater+12V%2C+65%2C000+BTU+Propane+Powered+Ins"
   },
   {
-    "asin": "B0GYD3TVDV",
-    "title": "Soft Start for RV Air Conditioners Reduces Startup Current by up to 75%, Easy DIY Install, Quiet Start IP65 Waterproof Revers",
-    "type": "winner",
-    "score": 85.6,
-    "price": 79.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71w-5mUBP0L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GYD3TVDV",
-    "walmart_url": "https://www.walmart.com/search?q=Soft+Start+for+RV+Air+Conditioners+Reduces+Startup+Current+b"
-  },
-  {
     "asin": "B0H7BF7TH8",
     "title": "Anker SOLIX C1000 Gen 2 Portable Power Station, 2,000W (Peak 3,000W) Solar Generator, Full Charge in 49 Min, 1,024Wh LiFePO4",
     "type": "winner",
@@ -1109,6 +1098,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71AB0q-J0gL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1RJJPMP",
     "walmart_url": "https://www.walmart.com/search?q=87+Gallon%2F330L+Water+Bladder+Tank+-+Portable+Collapsible+Wat"
+  },
+  {
+    "asin": "B0GYD3TVDV",
+    "title": "Soft Start for RV Air Conditioners Reduces Startup Current by up to 75%, Easy DIY Install, Quiet Start IP65 Waterproof Reverse Motor Protection for Home, RVs, Vans &amp; Generator Use",
+    "type": "winner",
+    "score": 80.7,
+    "price": 79.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71YW5tZV0CL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GYD3TVDV",
+    "walmart_url": "https://www.walmart.com/search?q=Soft+Start+for+RV+Air+Conditioners+Reduces+Startup+Current+b"
   },
   {
     "asin": "B0GZSMCDPJ",
@@ -8360,17 +8360,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Motor+%26+Idler+Cover+Kit+R001931006+R001932006+Comp"
   },
   {
-    "asin": "B0HG13D3MX",
-    "title": "Spqnzon 3313107.015 RV AC Condenser Fan Blade for Dometic | Fits Duo-Therm Brisk Air Series, Replaces 3107914.008, 317937.000",
-    "type": "should_test",
-    "score": 52.0,
-    "price": 15.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qlPVXhShL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
-    "walmart_url": "https://www.walmart.com/search?q=Spqnzon+3313107.015+RV+AC+Condenser+Fan+Blade+for+Dometic+%7C+"
-  },
-  {
     "asin": "B0H4G4ZY28",
     "title": "RH 27T RV Power Entry Step Motor 214-1001 214-1009 for Kwikee Step",
     "type": "should_test",
@@ -13154,6 +13143,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71y1UaFiSVL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCY4VBZF",
     "walmart_url": "https://www.walmart.com/search?q=0.6%22+55FT+RV+White+Vinyl+Insert+Trim+Molding+Screw+Cover"
+  },
+  {
+    "asin": "B0HG13D3MX",
+    "title": "3313107.015 RV AC Condenser Fan Blade for Dometic",
+    "type": "candidate",
+    "score": 45.0,
+    "price": 14.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61qlPVXhShL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
+    "walmart_url": "https://www.walmart.com/search?q=3313107.015+RV+AC+Condenser+Fan+Blade+for+Dometic"
   },
   {
     "asin": "B0H1QN8353",
