@@ -121,6 +121,17 @@
     "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+2+Solar+Wireless+Backup+Cameras%3A+6%22+Split+Screen+fo"
   },
   {
+    "asin": "B0H38KLG52",
+    "title": "8L Diesel Heater, 8KW 12V/24V/110V/240V All in One Diesel Heater with LCD Switch, Remote Control, Muffler for Truck, RV, Home, Car, Campers, Boat, White",
+    "type": "winner",
+    "score": 87.2,
+    "price": 26.59,
+    "bsr": 6252,
+    "image_url": "https://m.media-amazon.com/images/I/71FQfqPCsbL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H38KLG52",
+    "walmart_url": "https://www.walmart.com/search?q=8L+Diesel+Heater%2C+8KW+12V%2F24V%2F110V%2F240V+All+in+One+Diesel+He"
+  },
+  {
     "asin": "B0GS5914FR",
     "title": "1080P Strong Magnetic Wireless Backup Camera for RV Trailer 1-Min Install",
     "type": "winner",
@@ -438,17 +449,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+-Hdcc0eL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4WB83JJ",
     "walmart_url": "https://www.walmart.com/search?q=FOSSiBOT+F2400+Portable+Power+Station%2C+2048Wh+LiFePO4+Solar+"
-  },
-  {
-    "asin": "B0GZLLJ9PF",
-    "title": "RV Shower Head with Hose, High Pressure Handheld RV Shower Head Replacement with On Off Switch,5 Modes,Power Jet, Camper Shower Head for RV,Travel Trailer,Motorhome,Boat RV Essentials,Gray",
-    "type": "winner",
-    "score": 83.55,
-    "price": 21.99,
-    "bsr": 5586,
-    "image_url": "https://m.media-amazon.com/images/I/71padaLrgjL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZLLJ9PF",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Shower+Head+with+Hose%2C+High+Pressure+Handheld+RV+Shower+H"
   },
   {
     "asin": "B0HCV5F4XY",
@@ -790,6 +790,28 @@
     "image_url": "https://m.media-amazon.com/images/I/515yjBkOqhL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2VFCC3B",
     "walmart_url": "https://www.walmart.com/search?q=AC+Duct+and+Sound+Suppressor+Compatible+with+Dometic+Duo"
+  },
+  {
+    "asin": "B0GY4TQ2P8",
+    "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 3,000W Peak, Home Backup",
+    "type": "winner",
+    "score": 82.2,
+    "price": 999.99,
+    "bsr": 718,
+    "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GY4TQ2P8",
+    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station%2C+2%2C010Wh%2C+3%2C000W+Pe"
+  },
+  {
+    "asin": "B0GZLLJ9PF",
+    "title": "RV Shower Head with Hose, High Pressure Handheld RV Shower Head Replacement with On Off Switch,5 Modes,Power Jet, Camper Shower Head for RV,Travel Trailer,Motorhome,Boat RV Essentials,Gray",
+    "type": "winner",
+    "score": 82.05,
+    "price": 17.99,
+    "bsr": 2555,
+    "image_url": "https://m.media-amazon.com/images/I/71padaLrgjL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZLLJ9PF",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Shower+Head+with+Hose%2C+High+Pressure+Handheld+RV+Shower+H"
   },
   {
     "asin": "B0GGY4GKNP",
@@ -1252,17 +1274,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61k6b215DfL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H87F5N3R",
     "walmart_url": "https://www.walmart.com/search?q=Starlink+Wall+Pass+Through%2CRJ45+CAT6+Ethernet+Socket+and+DC+"
-  },
-  {
-    "asin": "B0GY4TQ2P8",
-    "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
-    "type": "winner",
-    "score": 80.0,
-    "price": 679.99,
-    "bsr": 2211,
-    "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GY4TQ2P8",
-    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station%2C+2%2C010Wh%2C+1%2C500W"
   },
   {
     "asin": "B0H8RHH69H",
@@ -2293,7 +2304,7 @@
     "type": "should_test",
     "score": 77.3,
     "price": 6.99,
-    "bsr": 5764,
+    "bsr": 2963,
     "image_url": "https://m.media-amazon.com/images/I/61CfypcLiNL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
     "walmart_url": "https://www.walmart.com/search?q=2pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover"
@@ -3030,7 +3041,7 @@
     "type": "should_test",
     "score": 75.15,
     "price": 52.84,
-    "bsr": 11530,
+    "bsr": 10036,
     "image_url": "https://m.media-amazon.com/images/I/71bfpz8rCRL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1MZPMTD",
     "walmart_url": "https://www.walmart.com/search?q=Camco+Tastepure+4-in-1+Adjustable+RV+Water+Pressure+Regulato"
@@ -3298,6 +3309,17 @@
     "image_url": "https://m.media-amazon.com/images/I/718PYgHYLbL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8SYNZSR",
     "walmart_url": "https://www.walmart.com/search?q=RV+Black+Tank+Rinser+Kit+with+Gate+Valve+and+Backflow+Preven"
+  },
+  {
+    "asin": "B0H8HF9VH5",
+    "title": "RV Propane Gas Detector Replacement of #31011, Hardwired—12V DC with Digital Display and Screwdriver for Motorhome Travel Trailer, Motor Coach, R503",
+    "type": "should_test",
+    "score": 74.15,
+    "price": 52.99,
+    "bsr": 5474,
+    "image_url": "https://m.media-amazon.com/images/I/71FbHUpUrUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8HF9VH5",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Propane+Gas+Detector+Replacement+of+%2331011%2C+Hardwired%E2%80%9412V"
   },
   {
     "asin": "B0H8XZYCK4",
@@ -4290,17 +4312,6 @@
     "walmart_url": "https://www.walmart.com/search?q=ARKOVEX+RV+Exhaust+Vent+Fan%2C+12V+2.4W+Silent+Wind+Ventilatio"
   },
   {
-    "asin": "B0HCVBW5M1",
-    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets for RVs,R502",
-    "type": "should_test",
-    "score": 69.45,
-    "price": 52.99,
-    "bsr": 4750,
-    "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCVBW5M1",
-    "walmart_url": "https://www.walmart.com/search?q=2-in-1+RV+Accessories+Gas+Detector%2CHardwired+12V+DC+with+3+D"
-  },
-  {
     "asin": "B0H2XHVKWH",
     "title": "ZAPPUP Van Privacy Curtain, 70.8 x78.7in RV Privacy Curtain for Camper | Cab or Rear Light Blocking Cab Divider Curtains, Lar",
     "type": "should_test",
@@ -5124,17 +5135,6 @@
     "image_url": "https://m.media-amazon.com/images/I/81XY3930ZmL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H53HXP5X",
     "walmart_url": "https://www.walmart.com/search?q=4PCS+RV+Dinette+Cushion+Covers%2C+Premium+3D+Jacquard+Stretch+"
-  },
-  {
-    "asin": "B0H8HF9VH5",
-    "title": "Precogni RV Propane Gas Detector Replacement of #31011, Hardwired—12V DC with Digital Display and Screwdriver for Motorhome T",
-    "type": "should_test",
-    "score": 65.95,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FbHUpUrUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8HF9VH5",
-    "walmart_url": "https://www.walmart.com/search?q=Precogni+RV+Propane+Gas+Detector+Replacement+of+%2331011%2C+Hard"
   },
   {
     "asin": "B0GZ2P3FMV",
@@ -7258,6 +7258,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81DUWgordRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H28BZ931",
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Fabric+Replacement%2C+20.8oz+Heavy+Duty+6-Layer+Viny"
+  },
+  {
+    "asin": "B0HCVBW5M1",
+    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets for RVs,R502",
+    "type": "should_test",
+    "score": 56.75,
+    "price": 52.99,
+    "bsr": 4783,
+    "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCVBW5M1",
+    "walmart_url": "https://www.walmart.com/search?q=2-in-1+RV+Accessories+Gas+Detector%2CHardwired+12V+DC+with+3+D"
   },
   {
     "asin": "B0H29C3ZXD",
