@@ -51,7 +51,7 @@ jobs:
       - name: Run RV Winner Scout
         env:
           AI_PROVIDER: ${{ secrets.AI_PROVIDER || 'gemini' }}
-          AI_MODEL: ${{ secrets.AI_MODEL || 'gemini-3.1-flash-lite' }}
+          AI_MODEL: ${{ secrets.AI_MODEL || 'gemini-flash-lite-latest' }}
           AI_API_KEY: ${{ secrets.AI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
