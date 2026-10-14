@@ -264,6 +264,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+C1000+Gen+2+Portable+Power+Station%2C+2%2C000W+%28Peak"
   },
   {
+    "asin": "B0H83DLDV3",
+    "title": "RV Airflow Systems RV Air Conditioning Vent, 360° Rotating Ceiling Vent | Up to 15% Increased Airflow, 360° Rotating Airflow",
+    "type": "winner",
+    "score": 85.25,
+    "price": 15.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xb2QwUfoL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H83DLDV3",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Airflow+Systems+RV+Air+Conditioning+Vent%2C+360%C2%B0+Rotating+C"
+  },
+  {
     "asin": "B0GYPJRC7C",
     "title": "AUTO-VOX Magnetic Solar Wireless Backup Camera with WiFi Connection | No Monitor Needed, Snaps On in 1 Sec, Solar Powered for",
     "type": "winner",
@@ -1120,6 +1131,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71AB0q-J0gL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1RJJPMP",
     "walmart_url": "https://www.walmart.com/search?q=87+Gallon%2F330L+Water+Bladder+Tank+-+Portable+Collapsible+Wat"
+  },
+  {
+    "asin": "B0HJYWMHSX",
+    "title": "EROMMY 12V DC RV Air Conditioner, 10000 BTU RV AC Unit with LED Light &amp; Auto Swing Airflow, Ultra Quiet, Low Power Consumption, Non-Ducted RV Air Conditioners for RVs, Campers, and Trucks",
+    "type": "winner",
+    "score": 80.75,
+    "price": 449.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/716PKInLVIL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJYWMHSX",
+    "walmart_url": "https://www.walmart.com/search?q=EROMMY+12V+DC+RV+Air+Conditioner%2C+10000+BTU+RV+AC+Unit+with+"
   },
   {
     "asin": "B0GYD3TVDV",
@@ -3848,17 +3870,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/718lDvUfl6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ37FR1G",
     "walmart_url": "https://www.walmart.com/search?q=IMCHZNQ+RV+Windshield+Cover+for+Thor+Four+Winds+29G+2015-201"
-  },
-  {
-    "asin": "B0H83DLDV3",
-    "title": "RV Airflow Systems RV Air Conditioning Vent, 360° Rotating Ceiling Vent | Up to 15% Increased Airflow, 360° Rotating Airflow",
-    "type": "should_test",
-    "score": 70.2,
-    "price": 15.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xb2QwUfoL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H83DLDV3",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Airflow+Systems+RV+Air+Conditioning+Vent%2C+360%C2%B0+Rotating+C"
   },
   {
     "asin": "B0H4Z3SHW5",
