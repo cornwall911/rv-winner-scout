@@ -935,6 +935,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Universal+DC+12V+Air+Conditioner+Heating+Cooling+Air+Conditi"
   },
   {
+    "asin": "B0HC3J97LL",
+    "title": "AUTOXBERT Solar RV Vent Fan - White | No-Wire Solar Powered Roof Vent for Camper, Quiet Odor Moisture Removal, 7&quot; Heavy-Duty",
+    "type": "winner",
+    "score": 81.25,
+    "price": 36.9,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61y-+Wft4KL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC3J97LL",
+    "walmart_url": "https://www.walmart.com/search?q=AUTOXBERT+Solar+RV+Vent+Fan+-+White+%7C+No-Wire+Solar+Powered+"
+  },
+  {
     "asin": "B0H6FDWXLN",
     "title": "High Pressure Shower Head for RV, On/Off Camper Shower Head with 59&quot; Hose",
     "type": "winner",
@@ -2033,17 +2044,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51vFkFt6+VL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8MWH6FL",
     "walmart_url": "https://www.walmart.com/search?q=mnzbue+RV+Slide-Out+Mouse+Guard+Compatible+with+Lippert+Slid"
-  },
-  {
-    "asin": "B0H82QFY35",
-    "title": "RV Airflow Compatible with Furrion Chill Cube 18K AC Silencer | RV Air Conditioner Performance Upgrade",
-    "type": "should_test",
-    "score": 77.55,
-    "price": 139.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71u1uehbOVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H82QFY35",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Airflow+Compatible+with+Furrion+Chill+Cube+18K+AC+Silence"
   },
   {
     "asin": "B0GYK3SZXK",
@@ -4268,6 +4268,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Hiumtree+RV+Holding+Tank+Swivel+Stik+Rinser+with+Stainless+S"
   },
   {
+    "asin": "B0H361R9PX",
+    "title": "RV Air Conditioner, 12V 10000 BTU Rooftop Air Conditioner for RVs, Trucks, Vans, Campers, Tractor, Scroll Compressor, Low Noi",
+    "type": "should_test",
+    "score": 68.5,
+    "price": 439.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CkErZqm4L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H361R9PX",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Air+Conditioner%2C+12V+10000+BTU+Rooftop+Air+Conditioner+fo"
+  },
+  {
     "asin": "B0H98FTSM5",
     "title": "Federedevo Leather RV Windshield Cover for Rockwood Geo Pro Flagstaff 18-27 | Dual-Sided Scratchproof Leather, Protective Cot",
     "type": "should_test",
@@ -4882,6 +4893,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81aa5z2nZqL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZXB1MTS",
     "walmart_url": "https://www.walmart.com/search?q=FSLPQP+RV+Door+Window+Shade+Cover%2C+25%22+L+x+16%22+W+Foldable+Wa"
+  },
+  {
+    "asin": "B0H82QFY35",
+    "title": "RV Airflow Compatible with Furrion Chill Cube 18K AC Silencer | RV Air Conditioner Performance Upgrade",
+    "type": "should_test",
+    "score": 66.0,
+    "price": 139.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71u1uehbOVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H82QFY35",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Airflow+Compatible+with+Furrion+Chill+Cube+18K+AC+Silence"
   },
   {
     "asin": "B0H53HXP5X",
@@ -9493,17 +9515,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Kooprimit+RV+Black+Tank+Rinser+with+Gate+Valve+and+Backflow+"
   },
   {
-    "asin": "B0H69SQFQV",
-    "title": "Stainless Steel RV Plumbing Vent Cap, Heavy-duty RV Roof Sewer Vent Covers | Durable Metal Camper Sewer Vent Cover Replacemen",
-    "type": "candidate",
-    "score": 54.75,
-    "price": 13.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rN6ydaZyL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H69SQFQV",
-    "walmart_url": "https://www.walmart.com/search?q=Stainless+Steel+RV+Plumbing+Vent+Cap%2C+Heavy-duty+RV+Roof+Sew"
-  },
-  {
     "asin": "B0H6Q2R76Z",
     "title": "Propane Tank Storage Bag,Carrying Case for 4 x 1lb Propane Tanks | Camping propane tankstorage bag for Coleman Propane Cylind",
     "type": "candidate",
@@ -10648,17 +10659,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Vocray+8x16+FT+RV+Outdoor+Mat%2C+Reversible+Blue-Gray+RV+Patio"
   },
   {
-    "asin": "B0HDYGLNB9",
-    "title": "JIYIZO RV Air Vent Cover – 5.5&quot; Face 4&quot; Back Round Register with Damper, Round Rotaire Grille, 360 Degree Adjustable Rotating",
-    "type": "candidate",
-    "score": 51.75,
-    "price": 13.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61m5TqlnQiL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDYGLNB9",
-    "walmart_url": "https://www.walmart.com/search?q=JIYIZO+RV+Air+Vent+Cover+%E2%80%93+5.5%22+Face+4%22+Back+Round+Register+"
-  },
-  {
     "asin": "B0HFHVTH48",
     "title": "4&quot; Clear RV Sewer Hose Extension Adapter - Odor-Proof &amp; Leak-Proof",
     "type": "candidate",
@@ -11308,6 +11308,17 @@
     "walmart_url": "https://www.walmart.com/search?q=G379+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
   },
   {
+    "asin": "B0H5K7BQGT",
+    "title": "12V 6W RV for exhaust Fan, Low Noise Ventilation for Trailer Camper Kitchen Range Hood, ABS Quiet Air Extractor, Black or Whi",
+    "type": "candidate",
+    "score": 50.0,
+    "price": 17.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51VvXXadUBL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5K7BQGT",
+    "walmart_url": "https://www.walmart.com/search?q=12V+6W+RV+for+exhaust+Fan%2C+Low+Noise+Ventilation+for+Trailer"
+  },
+  {
     "asin": "B0H4GWRS8L",
     "title": "THMMN RV Awning Puller,Telescopic RV Awning Pole，Easy Reach Camping Hook-1p | Stainless Steel Camper Awning Opener Rod 52.8&quot;,",
     "type": "candidate",
@@ -11449,6 +11460,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nJeWSweFL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHRNLSZZ",
     "walmart_url": "https://www.walmart.com/search?q=RV+Fiberglass+Gloss+Oil+Shine+Restorer%2C+100ML+RV+Oxidation+R"
+  },
+  {
+    "asin": "B0H69SQFQV",
+    "title": "Stainless Steel RV Plumbing Vent Cap, Heavy-duty RV Roof Sewer Vent Covers | Durable Metal Camper Sewer Vent Cover Replacemen",
+    "type": "candidate",
+    "score": 49.65,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rN6ydaZyL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H69SQFQV",
+    "walmart_url": "https://www.walmart.com/search?q=Stainless+Steel+RV+Plumbing+Vent+Cap%2C+Heavy-duty+RV+Roof+Sew"
   },
   {
     "asin": "B0GY43GC6N",
@@ -12430,6 +12452,17 @@
     "walmart_url": "https://www.walmart.com/search?q=SHAOKAOLU+Butyl+Tape+5.9in+x+16.4FT%2C+Waterproof+Seal+for+RV+"
   },
   {
+    "asin": "B0HC17VBCP",
+    "title": "6.5&quot; RV Ceiling Vent Cover with Adjustable Louver for 4-5/8&quot; Ducting | 360° Full Wind Direction Control, Exact Fit for 4-5/8&quot;",
+    "type": "candidate",
+    "score": 47.25,
+    "price": 9.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Nn-87PDSL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC17VBCP",
+    "walmart_url": "https://www.walmart.com/search?q=6.5%22+RV+Ceiling+Vent+Cover+with+Adjustable+Louver+for+4-5%2F8%22"
+  },
+  {
     "asin": "B0HB172GDL",
     "title": "6ft Propane Hose Extension with Gauge, POL x 1/4&quot; Male NPT, Braided Supply Pigtail Hose, for 5-100lb Tank Connection, Extend a Stay RV Propane Kit, Dual Regulator, Camper (Pack of 2)",
     "type": "candidate",
@@ -12925,6 +12958,17 @@
     "walmart_url": "https://www.walmart.com/search?q=NEWBULIG+Foldable+Step+Stool%2C+330lbs+Reinforced+Sturdy+Metal"
   },
   {
+    "asin": "B0H9496C1F",
+    "title": "MREEGS 7&quot; RV AC Vent Covers, Ceiling Grilles with Rotatable Louvers 2 Pack | Round Ceiling Air Vent Port, Adjustable Rotate L",
+    "type": "candidate",
+    "score": 46.0,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61IDXPG3D5L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9496C1F",
+    "walmart_url": "https://www.walmart.com/search?q=MREEGS+7%22+RV+AC+Vent+Covers%2C+Ceiling+Grilles+with+Rotatable+"
+  },
+  {
     "asin": "B0H8JZSWNX",
     "title": "RV Extension Cord 25 FT 50 Amp NEMA 14-50P to 14-50R Heavy Duty Black | Flexible 4 Prong Heavy Duty RV Power Cord, Waterproof",
     "type": "candidate",
@@ -13352,17 +13396,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81FqkSBpGrL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBWMSYQ9",
     "walmart_url": "https://www.walmart.com/search?q=OwnBosy+Adventure+RV+Spare+Tire+Cover+Suitable+for+RV+Truck+"
-  },
-  {
-    "asin": "B0H35NHT5F",
-    "title": "NEBOO K1140-09 RV Vent Handle, Manual Lift Knob Kit, Compatible with Fantastic Fan and Atwood, Fits Most Motorhomes, Travel T",
-    "type": "candidate",
-    "score": 44.5,
-    "price": 18.97,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kc8jmsg3L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H35NHT5F",
-    "walmart_url": "https://www.walmart.com/search?q=NEBOO+K1140-09+RV+Vent+Handle%2C+Manual+Lift+Knob+Kit%2C+Compati"
   },
   {
     "asin": "B0H35GL4R6",
@@ -14487,17 +14520,6 @@
     "walmart_url": "https://www.walmart.com/search?q=3.94%22+x+36+FT+Flexible+Solar+Panel+Mounting+Tape%2C+Weather-Re"
   },
   {
-    "asin": "B0HC17VBCP",
-    "title": "6.5&quot; RV Ceiling Vent Cover with Adjustable Louver for 4-5/8&quot; Ducting | 360° Full Wind Direction Control, Exact Fit for 4-5/8&quot;",
-    "type": "candidate",
-    "score": 39.75,
-    "price": 9.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Nn-87PDSL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC17VBCP",
-    "walmart_url": "https://www.walmart.com/search?q=6.5%22+RV+Ceiling+Vent+Cover+with+Adjustable+Louver+for+4-5%2F8%22"
-  },
-  {
     "asin": "B0H24LZX7D",
     "title": "for T Shape Handle Lock Padlock Toolbox Cabinet Door for Latch Anti-Theft for Caravan RV for Camper Truck Motor Home",
     "type": "candidate",
@@ -14529,17 +14551,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LHQTYhj0L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5NRS2GD",
     "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+30%E2%80%9C+x+36%E2%80%9D+Entry+Door%2C+Black+Aluminum+Alloy+Te"
-  },
-  {
-    "asin": "B0H9496C1F",
-    "title": "MREEGS 7&quot; RV AC Vent Covers, Ceiling Grilles with Rotatable Louvers 2 Pack | Round Ceiling Air Vent Port, Adjustable Rotate L",
-    "type": "candidate",
-    "score": 39.75,
-    "price": 18.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61IDXPG3D5L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9496C1F",
-    "walmart_url": "https://www.walmart.com/search?q=MREEGS+7%22+RV+AC+Vent+Covers%2C+Ceiling+Grilles+with+Rotatable+"
   },
   {
     "asin": "B0H2RGWYCG",
@@ -14839,6 +14850,17 @@
     "walmart_url": "https://www.walmart.com/search?q=TEBEDI+30%22+x+72%22+RV+Entry+Door+Aluminum+Powder+Coated+White+"
   },
   {
+    "asin": "B0H35NHT5F",
+    "title": "NEBOO K1140-09 RV Vent Handle, Manual Lift Knob Kit, Compatible with Fantastic Fan and Atwood, Fits Most Motorhomes, Travel T",
+    "type": "candidate",
+    "score": 38.75,
+    "price": 18.89,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kc8jmsg3L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H35NHT5F",
+    "walmart_url": "https://www.walmart.com/search?q=NEBOO+K1140-09+RV+Vent+Handle%2C+Manual+Lift+Knob+Kit%2C+Compati"
+  },
+  {
     "asin": "B0GZPM2YST",
     "title": "MSFORSPIRT Trailer Cam Lock Door Assembly Set of 4，Replacement for Part # 383200 &amp; PLR158 or cam Rod Door Retainer Cargo Dump",
     "type": "candidate",
@@ -15015,17 +15037,6 @@
     "walmart_url": "https://www.walmart.com/search?q=KPEOY+2PCS+RV+Sewer+Hose+Wrench%2C+Multi-Purpose+Fits+3%22-4%22+Ma"
   },
   {
-    "asin": "B0H25MV94Z",
-    "title": "JIYIZO 7&quot; RV AC Vent Covers, 2-Pack White Ceiling Replacements | Designed for 7&quot; RV vents, durable white ABS covers, improves",
-    "type": "candidate",
-    "score": 38.0,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/616BhgdfA5L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H25MV94Z",
-    "walmart_url": "https://www.walmart.com/search?q=JIYIZO+7%22+RV+AC+Vent+Covers%2C+2-Pack+White+Ceiling+Replacemen"
-  },
-  {
     "asin": "B0HK8K54Z4",
     "title": "Solar Anti-Theft LED Flashing Lamp Fake Car Alarm System",
     "type": "candidate",
@@ -15079,6 +15090,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ekX0H+V5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5ND2KMY",
     "walmart_url": "https://www.walmart.com/search?q=Zxpjkyu+2+Pieces+RV+Awning+Rod+Bracket+Support+Rod+Fixing+Br"
+  },
+  {
+    "asin": "B0H25MV94Z",
+    "title": "JIYIZO 7&quot; RV AC Vent Covers, 2-Pack White Ceiling Replacements | Designed for 7&quot; RV vents, durable white ABS covers, improves",
+    "type": "candidate",
+    "score": 37.5,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/616BhgdfA5L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H25MV94Z",
+    "walmart_url": "https://www.walmart.com/search?q=JIYIZO+7%22+RV+AC+Vent+Covers%2C+2-Pack+White+Ceiling+Replacemen"
   },
   {
     "asin": "B0HCZD699Z",
@@ -15266,6 +15288,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51+JRsHxtSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H114D179",
     "walmart_url": "https://www.walmart.com/search?q=Aluminum+RV+Floor+Vent+Cover%2C+Floor+Register+with+Magnetic+R"
+  },
+  {
+    "asin": "B0HDYGLNB9",
+    "title": "RV Air Vent Cover – 5.5&quot; Face 4&quot; Back Round Register with Damper, Round Rotaire Grille, 360 Degree Adjustable Rotating Louvres, Heat AC Register Vent RV, Two Screw Easy Installation, White",
+    "type": "candidate",
+    "score": 36.75,
+    "price": 12.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61m5TqlnQiL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDYGLNB9",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Air+Vent+Cover+%E2%80%93+5.5%22+Face+4%22+Back+Round+Register+with+Da"
   },
   {
     "asin": "B0H2CRTNCS",
