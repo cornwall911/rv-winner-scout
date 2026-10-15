@@ -759,17 +759,6 @@
     "walmart_url": "https://www.walmart.com/search?q=for+Starlink+Mini+Power+Supply+Cable+12V+24V+to+30V+3.5A+DC+"
   },
   {
-    "asin": "B0H36XG378",
-    "title": "CTOLITY XP1000 Portable Power Station, 1024Wh 1800W LiFePO4 Solar Generator | Peak 3600W, 1 Hr Fast Charge, 100W USB-C Output",
-    "type": "winner",
-    "score": 82.5,
-    "price": 359.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81MHOn8t6eL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H36XG378",
-    "walmart_url": "https://www.walmart.com/search?q=CTOLITY+XP1000+Portable+Power+Station%2C+1024Wh+1800W+LiFePO4+"
-  },
-  {
     "asin": "B0H9CN5CFJ",
     "title": "Banrterd 65,000 BTU RV Tankless Water Heater, 12V DC, 18x15 inches White | with Dual Water Outlet, On Demand Instant Hot Wate",
     "type": "winner",
@@ -834,6 +823,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/813q47y4xIL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6X8ND5D",
     "walmart_url": "https://www.walmart.com/search?q=Gociean+Magnetic+RV+Insulated+Door+Cover+for+Winter%2C+Size+30"
+  },
+  {
+    "asin": "B0H36XG378",
+    "title": "CTOLITY XP1000 Portable Power Station, 1024Wh 1800W LiFePO4 Solar Generator | Peak 3600W, 1 Hr Fast Charge, 100W USB-C Output",
+    "type": "winner",
+    "score": 82.3,
+    "price": 359.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81MHOn8t6eL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H36XG378",
+    "walmart_url": "https://www.walmart.com/search?q=CTOLITY+XP1000+Portable+Power+Station%2C+1024Wh+1800W+LiFePO4+"
   },
   {
     "asin": "B0H4M4RLTY",
@@ -3366,6 +3366,17 @@
     "walmart_url": "https://www.walmart.com/search?q=GK+1600W+Portable+Inverter+Generator%2CLow+Noise+for+Camping%2C2"
   },
   {
+    "asin": "B0HCB18KP3",
+    "title": "2 Pack Magnetic Solar Lights Outdoor 4 Colors &amp; Motion Sensor Remote for RV | 92 LED 600LM w/Remote, Solar &amp; USB Charging, 36",
+    "type": "should_test",
+    "score": 71.25,
+    "price": 30.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AkLG9jwBL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCB18KP3",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pack+Magnetic+Solar+Lights+Outdoor+4+Colors+%26+Motion+Senso"
+  },
+  {
     "asin": "B0H7SFCSL8",
     "title": "2 in 1 RV Pass Through RJ45 &amp; DC Wall Socket for Starlink Mini Gen3/4 | Shielded CAT6 Ethernet Female to Female Aluminum Bulk",
     "type": "should_test",
@@ -3628,17 +3639,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81K9mwOVxeL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1BBG13C",
     "walmart_url": "https://www.walmart.com/search?q=Konfino+17PCS+RV+Furnace+Vent+Cover%2C+Water+Heater+Bug+Insect"
-  },
-  {
-    "asin": "B0HCB18KP3",
-    "title": "2 Pack Magnetic Solar Lights Outdoor 4 Colors &amp; Motion Sensor Remote for RV",
-    "type": "should_test",
-    "score": 70.0,
-    "price": 32.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/81AkLG9jwBL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCB18KP3",
-    "walmart_url": "https://www.walmart.com/search?q=2+Pack+Magnetic+Solar+Lights+Outdoor+4+Colors+%26+Motion+Senso"
   },
   {
     "asin": "B0H1GCCH84",
@@ -5346,17 +5346,6 @@
     "walmart_url": "https://www.walmart.com/search?q=DARAN+R200+Portable+Power+Station+192Wh%2C+200W+Compact+Power+"
   },
   {
-    "asin": "B0H4SLQVM2",
-    "title": "50A 8AWG Portable Power Station Expansion Adapter Cable, Compatible with EcoFlow Delta 2/2 Max, Delta 3/3 Plus Series, Designed for Bidirectional Charging",
-    "type": "should_test",
-    "score": 62.6,
-    "price": 28.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71I-KfEyH+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4SLQVM2",
-    "walmart_url": "https://www.walmart.com/search?q=50A+8AWG+Portable+Power+Station+Expansion+Adapter+Cable%2C+Com"
-  },
-  {
     "asin": "B0H35P3GHB",
     "title": "Anycosy RV Mattress Underlay- 3D Mesh Breathable &amp; Washable Airflow Vent Layer Mattress Support Pad with Straps for Camper, M",
     "type": "should_test",
@@ -6070,6 +6059,17 @@
     "image_url": "https://m.media-amazon.com/images/I/51OPPt0ghmL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZNS7RKR",
     "walmart_url": "https://www.walmart.com/search?q=METOWARE+Trailer+Hitch+Extender+Fits+2%22+Receiver+2%22+Drop%2FRis"
+  },
+  {
+    "asin": "B0H4SLQVM2",
+    "title": "50A 8AWG Portable Power Station Expansion Adapter Cable, Compatible with EcoFlow Delta 2/2 Max, Delta 3/3 Plus Series, Design",
+    "type": "should_test",
+    "score": 59.65,
+    "price": 28.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I-KfEyH+L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4SLQVM2",
+    "walmart_url": "https://www.walmart.com/search?q=50A+8AWG+Portable+Power+Station+Expansion+Adapter+Cable%2C+Com"
   },
   {
     "asin": "B0H24X1BTM",
