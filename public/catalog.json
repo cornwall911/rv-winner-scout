@@ -1276,6 +1276,17 @@
     "walmart_url": "https://www.walmart.com/search?q=SnapPad+SnapJack%C2%AE+TC+Truck+Camper+Jack+Pad+%E2%80%93+for+HappiJac+Le"
   },
   {
+    "asin": "B0HH3TY22G",
+    "title": "250W Power Inverter Compatible for Dewalt 20V Battery, DC 20V to AC 110V",
+    "type": "winner",
+    "score": 80.45,
+    "price": 39.99,
+    "bsr": 26485,
+    "image_url": "https://m.media-amazon.com/images/I/71eiCswsArL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH3TY22G",
+    "walmart_url": "https://www.walmart.com/search?q=250W+Power+Inverter+Compatible+for+Dewalt+20V+Battery%2C+DC+20"
+  },
+  {
     "asin": "B0H5BJQJW3",
     "title": "RV Stabilizer Jack, Heavy Duty I-Beam Camper Anti-Sway, Fits Most Trailers",
     "type": "winner",
@@ -2374,17 +2385,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71e8+GeEiBL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3NQ7375",
     "walmart_url": "https://www.walmart.com/search?q=Vehicle+Awning+6.6%27x8.2%27+Roof+Rack+Pull-Out+Side+Sun+Shade%2C+"
-  },
-  {
-    "asin": "B0HH3TY22G",
-    "title": "250W Power Inverter Compatible for Dewalt 20V Battery, DC 20V to AC 110V | Portable Power Station with 3000LM LED Work Light,",
-    "type": "should_test",
-    "score": 76.75,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eiCswsArL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH3TY22G",
-    "walmart_url": "https://www.walmart.com/search?q=250W+Power+Inverter+Compatible+for+Dewalt+20V+Battery%2C+DC+20"
   },
   {
     "asin": "B0GYBKTKC1",
@@ -4488,17 +4488,6 @@
     "walmart_url": "https://www.walmart.com/search?q=2%E2%80%91in%E2%80%911+RV+Gravity+Fresh+Water+Fill+Funnel%2C+Bayonet+Lock+Inle"
   },
   {
-    "asin": "B0H6VWS6TQ",
-    "title": "Adjustable Water Pressure Regulator for RV Camper with Gauge,2027 Update | Water Pressure Reducer,RV Accessories,Durable Mate",
-    "type": "should_test",
-    "score": 67.4,
-    "price": 19.79,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AOZdCGYbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6VWS6TQ",
-    "walmart_url": "https://www.walmart.com/search?q=Adjustable+Water+Pressure+Regulator+for+RV+Camper+with+Gauge"
-  },
-  {
     "asin": "B0H7BMRPCL",
     "title": "Wide Aluminum Scissor Stairs, 4 Steps Folding RV Step Ladder | 17&quot; Wide Truck Camper Steps, Anti-Slip Surface, for Mobile Hom",
     "type": "should_test",
@@ -5894,6 +5883,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ly4e7sBtL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HB9TPR79",
     "walmart_url": "https://www.walmart.com/search?q=RV+Stabilizer+Jacks%2C+Heavy-Duty+Carbon+Steel+I-Beam+Support+"
+  },
+  {
+    "asin": "B0H6VWS6TQ",
+    "title": "Adjustable Water Pressure Regulator for RV Camper with Gauge,2027 Update",
+    "type": "should_test",
+    "score": 60.75,
+    "price": 19.79,
+    "bsr": 26250,
+    "image_url": "https://m.media-amazon.com/images/I/71AOZdCGYbL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6VWS6TQ",
+    "walmart_url": "https://www.walmart.com/search?q=Adjustable+Water+Pressure+Regulator+for+RV+Camper+with+Gauge"
   },
   {
     "asin": "B0HB5GQQH1",
@@ -9548,6 +9548,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RETRUE+Trailer+Coupler+Pin+Lock%2C+1.1+Inch+Span%2C+Trailer+Comb"
   },
   {
+    "asin": "B0H6LWX93V",
+    "title": "RV Roof AC Cover 600D Fits Coleman Mach RecPro TOSOT Winter",
+    "type": "candidate",
+    "score": 57.0,
+    "price": 20.99,
+    "bsr": 26235,
+    "image_url": "https://m.media-amazon.com/images/I/61XoSr4n5eL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6LWX93V",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Roof+AC+Cover+600D+Fits+Coleman+Mach+RecPro+TOSOT+Winter"
+  },
+  {
     "asin": "B0HD1BYTK4",
     "title": "Propane Splitter 2 Way, 1/4&quot; RV Propane Quick Connect Y Splitter LP Gas Adapter, Dual Outlet Propane Tank Splitter for Camper",
     "type": "candidate",
@@ -11328,17 +11339,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71fzjaKdcoL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H41B3GHM",
     "walmart_url": "https://www.walmart.com/search?q=RV+Shore+Power+Inlet+Charger+Plug%2C+20A+250V+AC+Electrical+Po"
-  },
-  {
-    "asin": "B0H6LWX93V",
-    "title": "RV Roof AC Cover 600D Fits Coleman Mach RecPro TOSOT Winter | 600D Oxford Cloth Fits FOGATTI 16K,RVs Air Conditioner Winter C",
-    "type": "candidate",
-    "score": 51.75,
-    "price": 20.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XoSr4n5eL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6LWX93V",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Roof+AC+Cover+600D+Fits+Coleman+Mach+RecPro+TOSOT+Winter+"
   },
   {
     "asin": "B0H2Y6RW49",
