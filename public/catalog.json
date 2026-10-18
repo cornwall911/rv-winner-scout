@@ -924,17 +924,6 @@
     "walmart_url": "https://www.walmart.com/search?q=ECO-WORTHY+RV+Macerator+Pump+12V+Portable+Macerator+Waste+Pu"
   },
   {
-    "asin": "B0H2KYGWRS",
-    "title": "TURBRO Bluetooth Soft Starter for RV AC &amp; HVAC Units | Reduces Power by 75%, Works with Generators, IP6 Protection, 40A FLA f",
-    "type": "winner",
-    "score": 82.25,
-    "price": 189.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71JjAyRem0L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2KYGWRS",
-    "walmart_url": "https://www.walmart.com/search?q=TURBRO+Bluetooth+Soft+Starter+for+RV+AC+%26+HVAC+Units+%7C+Reduc"
-  },
-  {
     "asin": "B0H2VFCC3B",
     "title": "AC Duct and Sound Suppressor Compatible with Dometic Duo",
     "type": "winner",
@@ -1021,6 +1010,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61EgUXTPW4L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2ZTJMZ8",
     "walmart_url": "https://www.walmart.com/search?q=Starlink+Mount+Magnet+Attachment+%284+Pack%29+%7C+Magnetic+Feet+fo"
+  },
+  {
+    "asin": "B0GHF8P4CK",
+    "title": "Cyrico RV Skylight Insulator 2 Pack, 14&quot; x 14&quot; x 2.8&quot; RV Vent Cover, Blackout Vent Pillow with Reflective Surface, Shade for",
+    "type": "winner",
+    "score": 81.75,
+    "price": 21.06,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81HH32ucFWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GHF8P4CK",
+    "walmart_url": "https://www.walmart.com/search?q=Cyrico+RV+Skylight+Insulator+2+Pack%2C+14%22+x+14%22+x+2.8%22+RV+Ven"
   },
   {
     "asin": "B0H2YYKNGW",
@@ -2772,17 +2772,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+Shower+Head+Holder+for+Vans%2C+RVs+%26+Overlanding+%E2%80%93+Sc"
   },
   {
-    "asin": "B0GHF8P4CK",
-    "title": "Cyrico RV Skylight Insulator 2 Pack, 14&quot; x 14&quot; x 2.8&quot; RV Vent Cover, Blackout Vent Pillow with Reflective Surface, Shade for",
-    "type": "should_test",
-    "score": 75.45,
-    "price": 17.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81HH32ucFWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GHF8P4CK",
-    "walmart_url": "https://www.walmart.com/search?q=Cyrico+RV+Skylight+Insulator+2+Pack%2C+14%22+x+14%22+x+2.8%22+RV+Ven"
-  },
-  {
     "asin": "B0H29ZGFN9",
     "title": "Silent 130CFM Solar for exhaust Fan 12V with 10W Panel, 4 Inch Inline Ventilation System for Yacht RV Camper Shed, Energy Saving Weatherproof Air Extractor",
     "type": "should_test",
@@ -2814,6 +2803,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71j5CMdSEqL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7RFYYW7",
     "walmart_url": "https://www.walmart.com/search?q=2%E2%80%91Inch+Hitch+Receiver+Key+Lock+Box%2C+4%E2%80%91Digit+Metal+Box+with+W"
+  },
+  {
+    "asin": "B0H2KYGWRS",
+    "title": "TURBRO Bluetooth Soft Starter for RV AC &amp; HVAC Units | Reduces Power by 75%, Works with Generators, IP6 Protection, 40A FLA f",
+    "type": "should_test",
+    "score": 75.2,
+    "price": 189.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71JjAyRem0L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2KYGWRS",
+    "walmart_url": "https://www.walmart.com/search?q=TURBRO+Bluetooth+Soft+Starter+for+RV+AC+%26+HVAC+Units+%7C+Reduc"
   },
   {
     "asin": "B0H2YGNTMR",
@@ -8910,6 +8910,17 @@
     "walmart_url": "https://www.walmart.com/search?q=aletbo+Car+Fan%2C+12V+Fan+Triple+Head%2C+Powerful+Airflow%2C+360%C2%B0+"
   },
   {
+    "asin": "B0H7H16JBF",
+    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
+    "type": "candidate",
+    "score": 62.15,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
+    "walmart_url": "https://www.walmart.com/search?q=14+Inch+RV+Roof+Vent+Cover%2C+No+Drilling+Aerodynamic+Weatherp"
+  },
+  {
     "asin": "B0HDSTM349",
     "title": "LUHLEE Rechargeable Ceiling Light, Motion Sensor Magnetic Interior RV Light | 1s Magnetic on rv interior ,usb chargeable ,rem",
     "type": "candidate",
@@ -9238,17 +9249,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71n2-sRVo6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7RSJNR5",
     "walmart_url": "https://www.walmart.com/search?q=Gollense+Waterproof+RV+Couch+Cover+for+Jackknife+Sofa+Bed+Lo"
-  },
-  {
-    "asin": "B0H7H16JBF",
-    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
-    "type": "candidate",
-    "score": 58.9,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
-    "walmart_url": "https://www.walmart.com/search?q=14+Inch+RV+Roof+Vent+Cover%2C+No+Drilling+Aerodynamic+Weatherp"
   },
   {
     "asin": "B0H9SQ6N6J",
