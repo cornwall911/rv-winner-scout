@@ -1081,7 +1081,7 @@
     "asin": "B0GHF8P4CK",
     "title": "Cyrico RV Skylight Insulator 2 Pack, 14&quot; x 14&quot; x 2.8&quot; RV Vent Cover, Blackout Vent Pillow with Reflective Surface, Shade for",
     "type": "winner",
-    "score": 81.75,
+    "score": 81.6,
     "price": 21.06,
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81HH32ucFWL._AC_UL300_SR300,200_.jpg",
@@ -5311,6 +5311,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61mceSbGG3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDS7Z49T",
     "walmart_url": "https://www.walmart.com/search?q=MINHUIJIHUI+Electric+Retractable+Rv+Stairs%2C+Steel+Frame+Non-"
+  },
+  {
+    "asin": "B0H2M44PTM",
+    "title": "KINGRVER 18,000 BTU RV Air Conditioner, Cooling Only, Non-ducted, White | WiFi &amp; Remote Control &amp; Alexa, Energy Efficient, fo",
+    "type": "should_test",
+    "score": 64.4,
+    "price": 949.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71bYt24d6RL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2M44PTM",
+    "walmart_url": "https://www.walmart.com/search?q=KINGRVER+18%2C000+BTU+RV+Air+Conditioner%2C+Cooling+Only%2C+Non-du"
   },
   {
     "asin": "B0HJG2VD9M",
@@ -14707,17 +14718,6 @@
     "walmart_url": "https://www.walmart.com/search?q=MiracleMist+RV+Roof+%26+Awning+Cleaner%2C+Exterior+Surface%2C+32+o"
   },
   {
-    "asin": "B0HGL959T2",
-    "title": "XIHIRCD 5pcs RV Roof Vent Operator Assembly with Knob and Screw | RV Vent Operator Replacement Fits Most Standard 14”x14” Roo",
-    "type": "candidate",
-    "score": 46.5,
-    "price": 17.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61TPZ3lFmhL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGL959T2",
-    "walmart_url": "https://www.walmart.com/search?q=XIHIRCD+5pcs+RV+Roof+Vent+Operator+Assembly+with+Knob+and+Sc"
-  },
-  {
     "asin": "B0HG92QHY2",
     "title": "OUYPLTNY 4 Pcs RV Generator Exhaust Extension Kit, Metal Suction-Cup Mount | No‑Drill Silver Camper Exhaust Pipe Holder with",
     "type": "candidate",
@@ -15508,6 +15508,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61-v0Ua+JKL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZ3GZ4TR",
     "walmart_url": "https://www.walmart.com/search?q=Znektis+2+Pack+15%22+RV+Propane+Hose%2C+1%2F4%22+Male+NPT+to+QCC1+%2F+"
+  },
+  {
+    "asin": "B0HGL959T2",
+    "title": "XIHIRCD 5pcs RV Roof Vent Operator Assembly with Knob and Screw | RV Vent Operator Replacement Fits Most Standard 14”x14” Roo",
+    "type": "candidate",
+    "score": 45.25,
+    "price": 17.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61TPZ3lFmhL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGL959T2",
+    "walmart_url": "https://www.walmart.com/search?q=XIHIRCD+5pcs+RV+Roof+Vent+Operator+Assembly+with+Knob+and+Sc"
   },
   {
     "asin": "B0H5CSZHK4",
