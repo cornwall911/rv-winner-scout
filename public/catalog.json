@@ -1067,17 +1067,6 @@
     "walmart_url": "https://www.walmart.com/search?q=BQDRTMZ+12V+RV+Air+Conditioner+with+PTC+Heating%2CRemote+Contr"
   },
   {
-    "asin": "B0HGR4T2NT",
-    "title": "Portable Power Station 1000W, 1152Wh LiFePO4 Solar Generator | 4 AC Outlets, 100W PD USB-C, 4 Charging Modes, 4-Fan Rapid Coo",
-    "type": "winner",
-    "score": 81.95,
-    "price": 399.98,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/718bijVAeFL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGR4T2NT",
-    "walmart_url": "https://www.walmart.com/search?q=Portable+Power+Station+1000W%2C+1152Wh+LiFePO4+Solar+Generator"
-  },
-  {
     "asin": "B0HDHXLGLS",
     "title": "RV AC Soft Starter for 13.5K-15K BTU 120V Air Conditioners, Soft Start Kit | For Campers &amp; Travel Trailers, Compatible with D",
     "type": "winner",
@@ -1186,6 +1175,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/616PHp492hL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9DBF2RV",
     "walmart_url": "https://www.walmart.com/search?q=Banrterd+65%2C000+BTU+RV+Tankless+Water+Heater%2C+12V+DC%2C+18x18+"
+  },
+  {
+    "asin": "B0HGR4T2NT",
+    "title": "Portable Power Station 1000W, 1152Wh LiFePO4 Solar Generator | 4 AC Outlets, 100W PD USB-C, 4 Charging Modes, 4-Fan Rapid Coo",
+    "type": "winner",
+    "score": 81.25,
+    "price": 399.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/718bijVAeFL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGR4T2NT",
+    "walmart_url": "https://www.walmart.com/search?q=Portable+Power+Station+1000W%2C+1152Wh+LiFePO4+Solar+Generator"
   },
   {
     "asin": "B0HDY3VKJG",
@@ -1362,6 +1362,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71Zc03tUD9L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GY8J1RCW",
     "walmart_url": "https://www.walmart.com/search?q=N300+Portable+Power+Station%2C+300W+256Wh+LiFePO4+Battery"
+  },
+  {
+    "asin": "B0H39MXNGC",
+    "title": "400W Power Inverter DC 18V to AC 110V Compatible with Milwaukee",
+    "type": "winner",
+    "score": 80.4,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/91t8MiQcqAL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H39MXNGC",
+    "walmart_url": "https://www.walmart.com/search?q=400W+Power+Inverter+DC+18V+to+AC+110V+Compatible+with+Milwau"
   },
   {
     "asin": "B0HGR6DDVH",
@@ -1870,6 +1881,17 @@
     "walmart_url": "https://www.walmart.com/search?q=acegoo+Starlink+Mini+Wall+Pass+Through+Socket%2C12V+to+30V+Boo"
   },
   {
+    "asin": "B0HDZ5Y71X",
+    "title": "Jackery HomePower 1000 Plus v2 Portable Power Station | 1024Wh LiFePO4 Battery Expandable to 11kWh, 1800W AC / 140W USB-C Out",
+    "type": "should_test",
+    "score": 78.7,
+    "price": 669.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61LyEYXaQmL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDZ5Y71X",
+    "walmart_url": "https://www.walmart.com/search?q=Jackery+HomePower+1000+Plus+v2+Portable+Power+Station+%7C+1024"
+  },
+  {
     "asin": "B0GY81Q4V3",
     "title": "Vehicle Awning 4.6&#x27;x6.6&#x27; - Car Awning Roof Rack Pullout Sun Shade",
     "type": "should_test",
@@ -2167,6 +2189,17 @@
     "walmart_url": "https://www.walmart.com/search?q=DJI+Power+1000+V2+Portable+Power+Station%2C+1024Wh+LFP+Battery"
   },
   {
+    "asin": "B0H75DT9GX",
+    "title": "Musclez 12V RV Macerator Pump, 15GPM Waste Water Pump 45W for Camper Boat | Sewage Waste Water Pump Camper,Waste Water Sewage",
+    "type": "should_test",
+    "score": 77.75,
+    "price": 85.49,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81G83kSa8iL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H75DT9GX",
+    "walmart_url": "https://www.walmart.com/search?q=Musclez+12V+RV+Macerator+Pump%2C+15GPM+Waste+Water+Pump+45W+fo"
+  },
+  {
     "asin": "B0H14BPJKM",
     "title": "Silvbott RV Awning Sun Shade Screen with Zipper, 8&#x27; x 17&#x27;3&quot;, 95% UV Block | 1200D Oxford Fabric + 8.2 oz Vinyl Mesh, Heavy-Du",
     "type": "should_test",
@@ -2330,17 +2363,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lcOJKYn-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6WT7LPM",
     "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Wireless+RV+Backup+Camera+System+with+Rear+%26+Side+C"
-  },
-  {
-    "asin": "B0HDZ5Y71X",
-    "title": "Jackery HomePower 1000 Plus v2 Portable Power Station | 1024Wh LiFePO4 Battery Expandable to 11kWh, 1800W AC / 140W USB-C Out",
-    "type": "should_test",
-    "score": 77.25,
-    "price": 669.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61LyEYXaQmL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDZ5Y71X",
-    "walmart_url": "https://www.walmart.com/search?q=Jackery+HomePower+1000+Plus+v2+Portable+Power+Station+%7C+1024"
   },
   {
     "asin": "B0GZ4DKYZF",
@@ -3102,17 +3124,6 @@
     "walmart_url": "https://www.walmart.com/search?q=PECRON+E2400LFP+2048Wh%2F2400W%2C+Fast+Charging+in+1.5+Hrs+for+E"
   },
   {
-    "asin": "B0H2XN9729",
-    "title": "AIVOLT 4200W Inverter Generator Gas Powered, Portable Open Frame Generator",
-    "type": "should_test",
-    "score": 74.5,
-    "price": 299.98,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71PQkBBWifL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2XN9729",
-    "walmart_url": "https://www.walmart.com/search?q=AIVOLT+4200W+Inverter+Generator+Gas+Powered%2C+Portable+Open+F"
-  },
-  {
     "asin": "B0H4W8F84N",
     "title": "FOSSiBOT F1800 Portable Power Station 1800W (3600W Surge), 1024Wh Solar Generator with LiFePO4 Battery, 10ms Seamless UPS, Pu",
     "type": "should_test",
@@ -3287,6 +3298,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81PRQRJUEAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GY8P9K4L",
     "walmart_url": "https://www.walmart.com/search?q=DaranEner+Portable+Power+Station+300W+%28600W+Surge%29%2C+192Wh+Li"
+  },
+  {
+    "asin": "B0H878NF4W",
+    "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank | 100W PD Fast Charge, 2 AC Outlets, LiFePO4 Sola",
+    "type": "should_test",
+    "score": 73.3,
+    "price": 129.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81m1eRMHl-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H878NF4W",
+    "walmart_url": "https://www.walmart.com/search?q=DARAN+R200+Portable+Power+Station+192Wh%2C+200W%28400W+Peak%29+Com"
   },
   {
     "asin": "B0H4YWY1GW",
@@ -3663,17 +3685,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Surge+Protector+30+amp%2C+13000J+Surge+Protection"
   },
   {
-    "asin": "B0HBQ26RYC",
-    "title": "Portable Power Station 300W, 296Wh Battery Generator, Pure Sine Wave | MPPT Controller, 20W Flashlight, 300W AC Outlet, 100W",
-    "type": "should_test",
-    "score": 70.95,
-    "price": 149.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71UP0idnBjL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQ26RYC",
-    "walmart_url": "https://www.walmart.com/search?q=Portable+Power+Station+300W%2C+296Wh+Battery+Generator%2C+Pure+S"
-  },
-  {
     "asin": "B0H6ZC5T27",
     "title": "Lyrivan RV Door Window Shade Cover for Blackout &amp; Privacy,16×25 Inch | Universal Fit, 3-Layer Protection, Blocks up to 99% of",
     "type": "should_test",
@@ -3771,6 +3782,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61VtBQ8xrxL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GWH4H4XM",
     "walmart_url": "https://www.walmart.com/search?q=Volnamal+Collapsible+Wash+Basin+with+Drying+Rack+%26+Drain+Plu"
+  },
+  {
+    "asin": "B0HGFKVV8J",
+    "title": "GK 1600W Portable Inverter Generator,Low Noise for Camping,26lbs | small gas inverter generator, lightweight camping, low db,",
+    "type": "should_test",
+    "score": 70.6,
+    "price": 228.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WnzWw+IJL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGFKVV8J",
+    "walmart_url": "https://www.walmart.com/search?q=GK+1600W+Portable+Inverter+Generator%2CLow+Noise+for+Camping%2C2"
   },
   {
     "asin": "B0HJ4V8Q91",
@@ -4004,17 +4026,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Spurtar+RV+Skylight+Cover+16.15%22+x+16.15%22+%28Outer+Frame+Size%29"
   },
   {
-    "asin": "B0H878NF4W",
-    "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank",
-    "type": "should_test",
-    "score": 69.65,
-    "price": 129.98,
-    "bsr": 25875,
-    "image_url": "https://m.media-amazon.com/images/I/81m1eRMHl-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H878NF4W",
-    "walmart_url": "https://www.walmart.com/search?q=DARAN+R200+Portable+Power+Station+192Wh%2C+200W%28400W+Peak%29+Com"
-  },
-  {
     "asin": "B0HGQVDYPS",
     "title": "RV Camper Propane Tank Heater Cover Dual 30LB for Travel Trailers RV Parts | Thermostat Control (41-122°F), Timer Function, Y",
     "type": "should_test",
@@ -4057,6 +4068,39 @@
     "image_url": "https://m.media-amazon.com/images/I/81MEdLn+WGL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ8DR34H",
     "walmart_url": "https://www.walmart.com/search?q=25A+110V+to+12V+Converter+for+2-8KW+Diesel+Heater%2C+AC+to+DC+"
+  },
+  {
+    "asin": "B0H8N5LH93",
+    "title": "CAMPLUX 6 Gallon RV Water Heater, Propane &amp; Electric Hybrid, White | 12000 BTU &amp; 1440W Fast Recovery, Porcelain-Lined Steel T",
+    "type": "should_test",
+    "score": 69.5,
+    "price": 399.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/618ptVbO99L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8N5LH93",
+    "walmart_url": "https://www.walmart.com/search?q=CAMPLUX+6+Gallon+RV+Water+Heater%2C+Propane+%26+Electric+Hybrid%2C"
+  },
+  {
+    "asin": "B0HCNM426T",
+    "title": "Evernexta 3000W Inverter Generator, Ultra Quiet Portable Gas Generator RV | Ultra-quiet 3000W power, fuel-saving Eco Mode, li",
+    "type": "should_test",
+    "score": 69.5,
+    "price": 319.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71TJ1fqC7jL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCNM426T",
+    "walmart_url": "https://www.walmart.com/search?q=Evernexta+3000W+Inverter+Generator%2C+Ultra+Quiet+Portable+Gas"
+  },
+  {
+    "asin": "B0GPWBVY58",
+    "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
+    "type": "should_test",
+    "score": 69.5,
+    "price": 299.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O9LSJyirL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
+    "walmart_url": "https://www.walmart.com/search?q=2800W+Portable+Inverter+Generator%2C+Quiet+Gas+Generator+for+C"
   },
   {
     "asin": "B0H9RWG765",
@@ -4114,6 +4158,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Slide-Out+Mouse+Guard+Compatible+with+Lippert+Slide-Outs+"
   },
   {
+    "asin": "B0HBQ26RYC",
+    "title": "Portable Power Station 300W, 296Wh Battery Generator, Pure Sine Wave | MPPT Controller, 20W Flashlight, 300W AC Outlet, 100W",
+    "type": "should_test",
+    "score": 69.1,
+    "price": 149.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71UP0idnBjL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQ26RYC",
+    "walmart_url": "https://www.walmart.com/search?q=Portable+Power+Station+300W%2C+296Wh+Battery+Generator%2C+Pure+S"
+  },
+  {
     "asin": "B0H6JD6NXL",
     "title": "RV 2 in 1 Pass Through RJ45 &amp; DC Wall Socket for Starlink Mini Gen3/4",
     "type": "should_test",
@@ -4123,17 +4178,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61n2hx4NbdL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6JD6NXL",
     "walmart_url": "https://www.walmart.com/search?q=RV+2+in+1+Pass+Through+RJ45+%26+DC+Wall+Socket+for+Starlink+Mi"
-  },
-  {
-    "asin": "B0GPWBVY58",
-    "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
-    "type": "should_test",
-    "score": 69.0,
-    "price": 299.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O9LSJyirL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
-    "walmart_url": "https://www.walmart.com/search?q=2800W+Portable+Inverter+Generator%2C+Quiet+Gas+Generator+for+C"
   },
   {
     "asin": "B0HJ2SP8CQ",
@@ -4244,6 +4288,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61I6+q+tkjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQN2CRT",
     "walmart_url": "https://www.walmart.com/search?q=Zofianna+RV+Portable+AC+Vent+Adapter+for+5.9-Inch+Exhaust+Ho"
+  },
+  {
+    "asin": "B0H2XN9729",
+    "title": "AIVOLT 4200W Inverter Generator Gas Powered, Portable Open Frame Generator | 16hr Runtime, Low Noise, ECO Mode, RV Ready, Eme",
+    "type": "should_test",
+    "score": 68.5,
+    "price": 299.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71PQkBBWifL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2XN9729",
+    "walmart_url": "https://www.walmart.com/search?q=AIVOLT+4200W+Inverter+Generator+Gas+Powered%2C+Portable+Open+F"
   },
   {
     "asin": "B0GYQQZQD6",
@@ -4530,17 +4585,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+T6HixWhL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H45XH1D7",
     "walmart_url": "https://www.walmart.com/search?q=EZ+RV+Solutions+RV+Snap+Trap+Sewer+Hose+P-Trap+%E2%80%93+Blocks+Sewe"
-  },
-  {
-    "asin": "B0HGFKVV8J",
-    "title": "GK 1600W Portable Inverter Generator,Low Noise for Camping,26lbs | small gas inverter generator, lightweight camping, low db,",
-    "type": "should_test",
-    "score": 67.65,
-    "price": 228.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WnzWw+IJL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGFKVV8J",
-    "walmart_url": "https://www.walmart.com/search?q=GK+1600W+Portable+Inverter+Generator%2CLow+Noise+for+Camping%2C2"
   },
   {
     "asin": "B0HBWML2BM",
@@ -5236,17 +5280,6 @@
     "walmart_url": "https://www.walmart.com/search?q=300W+Car+Power+Inverter+with+Starlink+Mini+Adapter"
   },
   {
-    "asin": "B0HCNM426T",
-    "title": "3000W Inverter Generator, Ultra Quiet Portable Gas Generator RV",
-    "type": "should_test",
-    "score": 64.6,
-    "price": 319.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71TJ1fqC7jL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCNM426T",
-    "walmart_url": "https://www.walmart.com/search?q=3000W+Inverter+Generator%2C+Ultra+Quiet+Portable+Gas+Generator"
-  },
-  {
     "asin": "B0H5BY7SP5",
     "title": "FOGATTI RV Furnace 30K BTU High-Efficiency for Motorhome, Camper, RV Owners | Smart Temp Control ，Easy Installation for Campe",
     "type": "should_test",
@@ -5432,6 +5465,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kMiFfPdfL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7PND9ZT",
     "walmart_url": "https://www.walmart.com/search?q=Exterior+Sprayer+Kit+with+All-Metal+RV+Spray+Port%2C+16.4FT+Co"
+  },
+  {
+    "asin": "B0H71CFWTT",
+    "title": "Portable Sink for Camping With 2x15L Foldable Water Bag, Outdoor Hand Washing Station with Faucet, Camping Sink with Drain Ho",
+    "type": "should_test",
+    "score": 64.0,
+    "price": 79.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81NJ8DYnhXL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H71CFWTT",
+    "walmart_url": "https://www.walmart.com/search?q=Portable+Sink+for+Camping+With+2x15L+Foldable+Water+Bag%2C+Out"
   },
   {
     "asin": "B0H2YF9LQ2",
@@ -5621,6 +5665,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Skid+Steer+Backup+Camera+Dual-View+7+Inch+1080p+HD%2C+Camera%2C+"
   },
   {
+    "asin": "B0H3Q3W3NN",
+    "title": "Accumulator Expansion Tank – Reduces Pump Cycling, Smooth Water Flow, Max 150 PSI, 1/2&quot; MNPT, Compact Design for RV, Marine, Boat &amp; Off-Grid Systems (1.0L (33.8 OZ))",
+    "type": "should_test",
+    "score": 63.15,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71mAqD4EvVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3Q3W3NN",
+    "walmart_url": "https://www.walmart.com/search?q=Accumulator+Expansion+Tank+%E2%80%93+Reduces+Pump+Cycling%2C+Smooth+Wa"
+  },
+  {
     "asin": "B0GSFR7ZJN",
     "title": "ONNAIS Smart RV Door Lock - Full Metal App Control Keyless Entry",
     "type": "should_test",
@@ -5676,17 +5731,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter%2C+Insulated+Camper+Skirt+Kit+28m%2F91ft+"
   },
   {
-    "asin": "B0HFVLMRF5",
-    "title": "FIRINER Collapsible Portable Toilet for Camping Large Travel Camping Toilet | Lightweight Camping Potty with Paper Holder Sta",
-    "type": "should_test",
-    "score": 63.0,
-    "price": 43.56,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71JEAZ+OJzL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFVLMRF5",
-    "walmart_url": "https://www.walmart.com/search?q=FIRINER+Collapsible+Portable+Toilet+for+Camping+Large+Travel"
-  },
-  {
     "asin": "B0GH4F1XWM",
     "title": "Pure Silicone RV Roof Coating &amp; Leak Repair, No Primer Needed, One Coat, Self-Leveling, Waterproof &amp; UV Resistant for EPDM, TPO, Metal, Fiberglass &amp; Flat Roofs - 4.75 Gallons White",
     "type": "should_test",
@@ -5718,17 +5762,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/715VQ1cvuQL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBPSLYLD",
     "walmart_url": "https://www.walmart.com/search?q=VITITE+RV+Propane+Gas+Detector%2C+Hardwired+-+VDC+12V+for+RVs+"
-  },
-  {
-    "asin": "B0H69D5FQZ",
-    "title": "2-Piece Brass RV Water Pressure Regulator Set with 90-Degree Hose Elbow | 40–50 PSI, brass construction and 3/4-inch GHT; inc",
-    "type": "should_test",
-    "score": 62.75,
-    "price": 24.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ajzkMJdhL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H69D5FQZ",
-    "walmart_url": "https://www.walmart.com/search?q=2-Piece+Brass+RV+Water+Pressure+Regulator+Set+with+90-Degree"
   },
   {
     "asin": "B0HB5GQQH1",
@@ -5828,17 +5861,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gK9ur4vpL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF7GQHM2",
     "walmart_url": "https://www.walmart.com/search?q=Garvee+Rv+Steps+with+Handrail%2C+Anti-Slip+4+Step+Rv+Stairs+%7C+"
-  },
-  {
-    "asin": "B0H8N5LH93",
-    "title": "CAMPLUX 6 Gallon RV Water Heater, Propane &amp; Electric Hybrid, White | 12000 BTU &amp; 1440W Fast Recovery, Porcelain-Lined Steel T",
-    "type": "should_test",
-    "score": 62.5,
-    "price": 399.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/618ptVbO99L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8N5LH93",
-    "walmart_url": "https://www.walmart.com/search?q=CAMPLUX+6+Gallon+RV+Water+Heater%2C+Propane+%26+Electric+Hybrid%2C"
   },
   {
     "asin": "B0HG4KZM1C",
@@ -6655,6 +6677,17 @@
     "walmart_url": "https://www.walmart.com/search?q=TC96CNPB+96%27%27+Handle+Valve+Cable%2C+Fit+for+Valterra+Waste+Val"
   },
   {
+    "asin": "B0H2Y3KR6Z",
+    "title": "Kihermao Upgrade RV Water Heater Anode Rod With Flush Wand Maintenance Kit | 2Pcs Magnesium Anode Rod, 9.25&quot;L x 3/4&quot; NPT, Flu",
+    "type": "should_test",
+    "score": 59.5,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DeSWuCOHL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2Y3KR6Z",
+    "walmart_url": "https://www.walmart.com/search?q=Kihermao+Upgrade+RV+Water+Heater+Anode+Rod+With+Flush+Wand+M"
+  },
+  {
     "asin": "B0H2YHPGJT",
     "title": "Dulepax RV Awning Fabric Replacement, 19.5oz Heavy Duty Camper Awning | 15&#x27;2&#x27;&#x27; Fabric with Pull Strap, 5-Layer Vinyl, UV-Resi",
     "type": "should_test",
@@ -6675,6 +6708,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61bP7p11wFL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD198QRX",
     "walmart_url": "https://www.walmart.com/search?q=Natural+Gas+Y+Splitter+1%2F2+Inch%2C+2+Way+Gas+Splitter+with+Shu"
+  },
+  {
+    "asin": "B0HFVLMRF5",
+    "title": "FIRINER Collapsible Portable Toilet for Camping Large Travel Camping Toilet | Lightweight Camping Potty with Paper Holder Sta",
+    "type": "should_test",
+    "score": 59.25,
+    "price": 43.56,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71JEAZ+OJzL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFVLMRF5",
+    "walmart_url": "https://www.walmart.com/search?q=FIRINER+Collapsible+Portable+Toilet+for+Camping+Large+Travel"
   },
   {
     "asin": "B0H5NZ1L4L",
@@ -6917,6 +6961,17 @@
     "image_url": "https://m.media-amazon.com/images/I/51pSZOX0NEL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5QCNGFG",
     "walmart_url": "https://www.walmart.com/search?q=2+Pcs+E2+Hitch+Sway+Bracket+Jacket%2C+Equalizer+Hitch+Parts+95"
+  },
+  {
+    "asin": "B0H69D5FQZ",
+    "title": "2-Piece Brass RV Water Pressure Regulator Set with 90-Degree Hose Elbow | 40–50 PSI, brass construction and 3/4-inch GHT; inc",
+    "type": "should_test",
+    "score": 58.5,
+    "price": 23.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ajzkMJdhL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H69D5FQZ",
+    "walmart_url": "https://www.walmart.com/search?q=2-Piece+Brass+RV+Water+Pressure+Regulator+Set+with+90-Degree"
   },
   {
     "asin": "B0GXW8BQVY",
@@ -7577,17 +7632,6 @@
     "image_url": "https://m.media-amazon.com/images/I/615avRFG6YL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ2BSPFW",
     "walmart_url": "https://www.walmart.com/search?q=27.88ft+420D+Oxford+Camper+Roof+Cover%2C+Waterproof+RV+Caravan"
-  },
-  {
-    "asin": "B0H2Y3KR6Z",
-    "title": "Kihermao Upgrade RV Water Heater Anode Rod With Flush Wand Maintenance Kit | 2Pcs Magnesium Anode Rod, 9.25&quot;L x 3/4&quot; NPT, Flu",
-    "type": "should_test",
-    "score": 56.5,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DeSWuCOHL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2Y3KR6Z",
-    "walmart_url": "https://www.walmart.com/search?q=Kihermao+Upgrade+RV+Water+Heater+Anode+Rod+With+Flush+Wand+M"
   },
   {
     "asin": "B0H26CQP2T",
@@ -9284,6 +9328,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Guilcam+4+Pack+Rearview+Camera+Lens+Protectors+with+Anti-Fog"
   },
   {
+    "asin": "B0H6M764LC",
+    "title": "CCBASEBALL 230 LED Magnetic Solar Lights Outdoor, Waterproof RV Porch Light with Motion Sensor, Strong Magnets RV Exterior Li",
+    "type": "candidate",
+    "score": 61.15,
+    "price": 26.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ncZ-RukQL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6M764LC",
+    "walmart_url": "https://www.walmart.com/search?q=CCBASEBALL+230+LED+Magnetic+Solar+Lights+Outdoor%2C+Waterproof"
+  },
+  {
     "asin": "B0HBCF6Z28",
     "title": "3 Pack RV Shower Corner Storage Bars, Adjustable 7-13 Inch, Stainless Steel | Adhesive Mount, Tool-Free No-Drill Setup, Bottl",
     "type": "candidate",
@@ -9372,17 +9427,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Terapaton+RV+Suction+Cup+Quick+Connect+Shower+Head+Set+with+"
   },
   {
-    "asin": "B0H6DD3CH2",
-    "title": "Magnetic Solar Lights Outdoor, 800LM 231 LED Solar Motion Light for RV | 3-Head 360° Adjustable, Solar+USB Dual Charge, IP65",
-    "type": "candidate",
-    "score": 60.25,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7115PZqhXHL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6DD3CH2",
-    "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor%2C+800LM+231+LED+Solar+Motion+Li"
-  },
-  {
     "asin": "B0HHF8DQ3L",
     "title": "Aotolo Loveseat Recliner, Wall Hugger RV Recliner Sofa with Massage &amp; Heat | PU Leather Reclining Loveseat with 95-160° Infin",
     "type": "candidate",
@@ -9392,17 +9436,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61S66IffZOL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHF8DQ3L",
     "walmart_url": "https://www.walmart.com/search?q=Aotolo+Loveseat+Recliner%2C+Wall+Hugger+RV+Recliner+Sofa+with+"
-  },
-  {
-    "asin": "B0H71CFWTT",
-    "title": "Portable Sink for Camping With 2x15L Foldable Water Bag, Outdoor Hand Washing Station with Faucet, Camping Sink with Drain Ho",
-    "type": "candidate",
-    "score": 60.1,
-    "price": 79.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81NJ8DYnhXL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H71CFWTT",
-    "walmart_url": "https://www.walmart.com/search?q=Portable+Sink+for+Camping+With+2x15L+Foldable+Water+Bag%2C+Out"
   },
   {
     "asin": "B0H4Q61LRZ",
@@ -9436,6 +9469,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71Ijlqszu1L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF7CSL83",
     "walmart_url": "https://www.walmart.com/search?q=SYLVOX+24+Inch+Smart+RV+TV%2C+12V+DC+TV+for+Camper+Truck%2C+1080"
+  },
+  {
+    "asin": "B0H6DD3CH2",
+    "title": "Magnetic Solar Lights Outdoor, 800LM 231 LED Solar Motion Light for RV | 3-Head 360° Adjustable, Solar+USB Dual Charge, IP65",
+    "type": "candidate",
+    "score": 59.75,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7115PZqhXHL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6DD3CH2",
+    "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor%2C+800LM+231+LED+Solar+Motion+Li"
   },
   {
     "asin": "B0HG16DSLY",
@@ -9524,17 +9568,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/717DTXoWOrL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5NKS7NY",
     "walmart_url": "https://www.walmart.com/search?q=AKMGCD+Camper+Van+Awning+Leg+Plates+for+Fiamma%2FOmnistor%2FThul"
-  },
-  {
-    "asin": "B0H6M764LC",
-    "title": "CCBASEBALL 230 LED Magnetic Solar Lights Outdoor, Waterproof RV Porch Light with Motion Sensor, Strong Magnets RV Exterior Li",
-    "type": "candidate",
-    "score": 59.25,
-    "price": 26.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ncZ-RukQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6M764LC",
-    "walmart_url": "https://www.walmart.com/search?q=CCBASEBALL+230+LED+Magnetic+Solar+Lights+Outdoor%2C+Waterproof"
   },
   {
     "asin": "B0H7RSJNR5",
@@ -9733,17 +9766,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VSeRBhm0L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H758394K",
     "walmart_url": "https://www.walmart.com/search?q=Foldable+Car+Back+Seat+Extender+for+Sleeping%2C+Rear+Seat+Matt"
-  },
-  {
-    "asin": "B0HC3J7KGT",
-    "title": "Kadrama RV Tank Rinser, Flush Adapter with Shut-Off Valve, 45-Degree Elbow | Reverse Jet Spray, Clear Elbow View, Swivel 3-In",
-    "type": "candidate",
-    "score": 57.75,
-    "price": 24.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71dHGEjs6ML._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC3J7KGT",
-    "walmart_url": "https://www.walmart.com/search?q=Kadrama+RV+Tank+Rinser%2C+Flush+Adapter+with+Shut-Off+Valve%2C+4"
   },
   {
     "asin": "B0GYHKJYTP",
@@ -10230,6 +10252,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2026+Upgraded+Heavy+Duty+RV+Roof+Cover%2C3000PA+Waterproof+Cam"
   },
   {
+    "asin": "B0HC3J7KGT",
+    "title": "Kadrama RV Tank Rinser, Flush Adapter with Shut-Off Valve, 45-Degree Elbow | Reverse Jet Spray, Clear Elbow View, Swivel 3-In",
+    "type": "candidate",
+    "score": 55.5,
+    "price": 24.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71dHGEjs6ML._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC3J7KGT",
+    "walmart_url": "https://www.walmart.com/search?q=Kadrama+RV+Tank+Rinser%2C+Flush+Adapter+with+Shut-Off+Valve%2C+4"
+  },
+  {
     "asin": "B0H4QKL2VH",
     "title": "RV Awning Tie Down Kit, Heavy Duty Camper Awning Anchors Accessories, RV Awning Anchor Kit for Outdoor Camping",
     "type": "candidate",
@@ -10373,6 +10406,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+TV+Antenna+for+Smart+TV+Outdoor%2C+720%C2%B0+Omni+Directional+Re"
   },
   {
+    "asin": "B0H9RNQJ64",
+    "title": "Obeaming 78W RV USB Outlet, Aluminum Faceplate Wall Mount 12V USB Charger | PD3.0 &amp; QC3.0, 3 Port Fast Charging, Mulit-Protec",
+    "type": "candidate",
+    "score": 55.25,
+    "price": 32.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZuWRF6r7L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9RNQJ64",
+    "walmart_url": "https://www.walmart.com/search?q=Obeaming+78W+RV+USB+Outlet%2C+Aluminum+Faceplate+Wall+Mount+12"
+  },
+  {
     "asin": "B0H7JJCSLT",
     "title": "EJYTRVT RV Door Holder Latch, Upgraded Noiseless, 4-Inch T-Style, 2 Pack | Heavy-Duty Black Metal, Silent Snap Clip, Rust-Res",
     "type": "candidate",
@@ -10503,17 +10547,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/5130GrHvkML._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GTYQRHVD",
     "walmart_url": "https://www.walmart.com/search?q=RV+Shower+Faucet+with+Shower+Head+%26+Hose%2C+TONNY+Metal+Camper"
-  },
-  {
-    "asin": "B0H9RNQJ64",
-    "title": "Obeaming 78W RV USB Outlet, Aluminum Faceplate Wall Mount 12V USB Charger | PD3.0 &amp; QC3.0, 3 Port Fast Charging, Mulit-Protec",
-    "type": "candidate",
-    "score": 54.75,
-    "price": 32.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZuWRF6r7L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9RNQJ64",
-    "walmart_url": "https://www.walmart.com/search?q=Obeaming+78W+RV+USB+Outlet%2C+Aluminum+Faceplate+Wall+Mount+12"
   },
   {
     "asin": "B0H3JKKDTK",
@@ -11264,17 +11297,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+4-Pin+Backup+Camera+for+Truck%2C+AHD+1080P%2C+IP69+Au"
   },
   {
-    "asin": "B0H4RGKQRJ",
-    "title": "RV Toilet Flush Ball Seal 2 Pack for Dometic 300 310 320 Replacement | Keeps water in the bowl to help reduce odors while sup",
-    "type": "candidate",
-    "score": 52.5,
-    "price": 5.69,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61EEyo0B0HL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4RGKQRJ",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Toilet+Flush+Ball+Seal+2+Pack+for+Dometic+300+310+320+Rep"
-  },
-  {
     "asin": "B0HJ2SRZ5L",
     "title": "Fenjidrop 12V RV Air Conditioner, 11000BTU 12 Volt AC Unit for Trucks, Campers, Vans, Split System with Remote, Fast Cooling,",
     "type": "candidate",
@@ -11284,6 +11306,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/715JpPbXZ0L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ2SRZ5L",
     "walmart_url": "https://www.walmart.com/search?q=Fenjidrop+12V+RV+Air+Conditioner%2C+11000BTU+12+Volt+AC+Unit+f"
+  },
+  {
+    "asin": "B0H4RGKQRJ",
+    "title": "RV Toilet Flush Ball Seal 2 Pack for Dometic 300 310 320 Replacement | Keeps water in the bowl to help reduce odors while sup",
+    "type": "candidate",
+    "score": 52.25,
+    "price": 5.69,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61EEyo0B0HL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4RGKQRJ",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Toilet+Flush+Ball+Seal+2+Pack+for+Dometic+300+310+320+Rep"
   },
   {
     "asin": "B0HCTZPY4Q",
@@ -11416,6 +11449,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81BxGvRoiNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H36VY1XY",
     "walmart_url": "https://www.walmart.com/search?q=4+Pack+RV+Fridge+Bars%2C+Adjustable+Refrigerator+Tension+Rods+"
+  },
+  {
+    "asin": "B0H6DJGHMB",
+    "title": "YITAMOTOR RV Toilet with Enamel Bowl, Plastic Toilet Body, Pedal Flush, Gravity Flush Toilet High Profile with Hand Sprayer a",
+    "type": "candidate",
+    "score": 52.25,
+    "price": 149.84,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51bsXZQIgnL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6DJGHMB",
+    "walmart_url": "https://www.walmart.com/search?q=YITAMOTOR+RV+Toilet+with+Enamel+Bowl%2C+Plastic+Toilet+Body%2C+P"
   },
   {
     "asin": "B0H5K564MS",
@@ -11658,17 +11702,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71TV-CN98CL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC3LHCFJ",
     "walmart_url": "https://www.walmart.com/search?q=Kadrama+RV+Tank+Rinser+with+Gate+Valve%2C+45+Degree+Clear+Sewe"
-  },
-  {
-    "asin": "B0H6DJGHMB",
-    "title": "YITAMOTOR RV Toilet with Enamel Bowl, Plastic Toilet Body, Pedal Flush, Gravity Flush Toilet High Profile with Hand Sprayer a",
-    "type": "candidate",
-    "score": 51.75,
-    "price": 149.84,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51bsXZQIgnL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6DJGHMB",
-    "walmart_url": "https://www.walmart.com/search?q=YITAMOTOR+RV+Toilet+with+Enamel+Bowl%2C+Plastic+Toilet+Body%2C+P"
   },
   {
     "asin": "B0H5VVGWJT",
@@ -12826,17 +12859,6 @@
     "walmart_url": "https://www.walmart.com/search?q=cyrico+Aluminum+RV+Bumper+End+Cap+2+Pack%2C+4+Inch+Square+Camp"
   },
   {
-    "asin": "B0H7R169T6",
-    "title": "GXZZ RV Toilet Water Valve Kit for Dometic 300/301/310/311/320/321 | Upgraded 385311641 valve + 385311658 seal. Freeze-resist",
-    "type": "candidate",
-    "score": 49.75,
-    "price": 12.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61iYHylYOWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7R169T6",
-    "walmart_url": "https://www.walmart.com/search?q=GXZZ+RV+Toilet+Water+Valve+Kit+for+Dometic+300%2F301%2F310%2F311%2F3"
-  },
-  {
     "asin": "B0H8CH3MH9",
     "title": "RV Toilet Parts 42048+42049 Compatible with Thetford Aqua-Magic Style II",
     "type": "candidate",
@@ -13695,6 +13717,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Omni+Directional+Outdoor+TV+Antenna+for+Digital+TV+to+Attic%2C"
   },
   {
+    "asin": "B0H86MHQCS",
+    "title": "BCOWPV RV Water Inlet Funnel with 3.94 Inch Wide Mouth, Orange | Hands-free lock-in design, Deep bowl helps reduce splashing,",
+    "type": "candidate",
+    "score": 48.5,
+    "price": 7.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51w+ZNZtNTL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H86MHQCS",
+    "walmart_url": "https://www.walmart.com/search?q=BCOWPV+RV+Water+Inlet+Funnel+with+3.94+Inch+Wide+Mouth%2C+Oran"
+  },
+  {
     "asin": "B0H4Q2HS55",
     "title": "Omni Directional Outdoor TV Antenna for Smart TV, for Attic/Camper/RV，White",
     "type": "candidate",
@@ -13858,6 +13891,17 @@
     "image_url": "https://m.media-amazon.com/images/I/612qXWjzdgL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H25QRSCR",
     "walmart_url": "https://www.walmart.com/search?q=Aluminum+RV+Floor+Vent+Cover%2C+2%22x10%22+RV+Floor+Register+Vent+"
+  },
+  {
+    "asin": "B0H7R169T6",
+    "title": "GXZZ RV Toilet Water Valve Kit for Dometic 300/301/310/311/320/321 | Upgraded 385311641 valve + 385311658 seal. Freeze-resist",
+    "type": "candidate",
+    "score": 48.0,
+    "price": 12.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61iYHylYOWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7R169T6",
+    "walmart_url": "https://www.walmart.com/search?q=GXZZ+RV+Toilet+Water+Valve+Kit+for+Dometic+300%2F301%2F310%2F311%2F3"
   },
   {
     "asin": "B0H4LQG68V",
@@ -14784,6 +14828,17 @@
     "walmart_url": "https://www.walmart.com/search?q=10%E2%80%9112+FT+Truck+Camper+Cover%2C+Waterproof+All+Season+Slide%E2%80%91in+"
   },
   {
+    "asin": "B0H8JZSWNX",
+    "title": "RV Extension Cord 25 FT 50 Amp NEMA 14-50P to 14-50R Heavy Duty Black | Flexible 4 Prong Heavy Duty RV Power Cord, Waterproof",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 89.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EsYva7ylL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8JZSWNX",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Extension+Cord+25+FT+50+Amp+NEMA+14-50P+to+14-50R+Heavy+D"
+  },
+  {
     "asin": "B0H9XSR655",
     "title": "Neptuiby Car Window Fan Solar Powered Car Vent Fan Dual-mode Blow/suction Ventilator Solar Fans for Vehicles Truck RV Backsea",
     "type": "candidate",
@@ -15411,17 +15466,6 @@
     "walmart_url": "https://www.walmart.com/search?q=23%C3%9744+Inch+RV+Trailer+Entry+Door%2C+Left+%26+Right+Driver+Passen"
   },
   {
-    "asin": "B0H7BKNBMR",
-    "title": "Ziquruv 50A RV Male Replacement Plug, 14-50P, Pull Handle, Black | 125/250v Cord-End Repair, Nylon Housing, Copper Contacts,",
-    "type": "candidate",
-    "score": 45.75,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51plzS-ye-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7BKNBMR",
-    "walmart_url": "https://www.walmart.com/search?q=Ziquruv+50A+RV+Male+Replacement+Plug%2C+14-50P%2C+Pull+Handle%2C+B"
-  },
-  {
     "asin": "B0H3QD5F91",
     "title": "48 Inch 4-Way Flat Trailer Hitch Wiring Harness, 16AWG Pure Copper | Weatherproof molded plug, dust cover, no-tool no-splice",
     "type": "candidate",
@@ -15651,17 +15695,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81y7P5D97SL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6RM27S7",
     "walmart_url": "https://www.walmart.com/search?q=PVerandio+2PCS+LED+Red+RV+Camper+Tail+Lights+w%2FTrailer+Licen"
-  },
-  {
-    "asin": "B0H8JZSWNX",
-    "title": "RV Extension Cord 25 FT 50 Amp NEMA 14-50P to 14-50R Heavy Duty Black | Flexible 4 Prong Heavy Duty RV Power Cord, Waterproof",
-    "type": "candidate",
-    "score": 45.25,
-    "price": 89.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EsYva7ylL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8JZSWNX",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Extension+Cord+25+FT+50+Amp+NEMA+14-50P+to+14-50R+Heavy+D"
   },
   {
     "asin": "B0H2B56K8X",
@@ -16071,17 +16104,6 @@
     "walmart_url": "https://www.walmart.com/search?q=JMJGHSRGTY+RV+Windshield+Cover+for+Ford+F-550+4x4+2017-2024%2C"
   },
   {
-    "asin": "B0H9RRTLGW",
-    "title": "XIHIRCD 3pcs RV Sewer Valve Handle RV Waste Valve Replacement (Black) | RV Black Tank Handle Replacement T Handle for 1-1/2&quot;",
-    "type": "candidate",
-    "score": 44.25,
-    "price": 9.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51+eIkCoVdL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9RRTLGW",
-    "walmart_url": "https://www.walmart.com/search?q=XIHIRCD+3pcs+RV+Sewer+Valve+Handle+RV+Waste+Valve+Replacemen"
-  },
-  {
     "asin": "B0H33B36XQ",
     "title": "VASTHOME 50 Amp Twist Lock Adapter NEMA SS2-50P Male to 14-50R Female Plug with Grip Handle, 50Amp to 50 Amp Heavy Duty RV Po",
     "type": "candidate",
@@ -16423,6 +16445,17 @@
     "walmart_url": "https://www.walmart.com/search?q=008-00004+RV+City+Water+Fill+Diverter+Valve+Assembly+with+Mo"
   },
   {
+    "asin": "B0H4KKFKFX",
+    "title": "2 Pack RV Sewer Hose Fitting Adapter Kit to PVC, 3 Inch Rotating Pipe &amp; Termination Adapters for RV Camper Sewer Hoses, Inclu",
+    "type": "candidate",
+    "score": 43.75,
+    "price": 23.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sVbqNSzRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4KKFKFX",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+Sewer+Hose+Fitting+Adapter+Kit+to+PVC%2C+3+Inch+Rota"
+  },
+  {
     "asin": "B0H45VKJ5K",
     "title": "ProCamp 3&quot; RV Sewer Cap with Tether | Waste Valve Dump Cap Cover | Replacement 3&quot; waste valve dump cap with tether strap; fit",
     "type": "candidate",
@@ -16599,6 +16632,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Spqnzon+3313107.015+RV+AC+Condenser+Fan+Blade+for+Dometic+%7C+"
   },
   {
+    "asin": "B0H2VXDPDD",
+    "title": "Huyopu 12 PCS 921 912 RV Light Bulbs, 12V 16W Super Bright Reverse Brake Tail Turn Signal Lamp Replacement, T15 Light Bulbs C",
+    "type": "candidate",
+    "score": 43.45,
+    "price": 5.29,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61OUeP7+mvL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2VXDPDD",
+    "walmart_url": "https://www.walmart.com/search?q=Huyopu+12+PCS+921+912+RV+Light+Bulbs%2C+12V+16W+Super+Bright+R"
+  },
+  {
     "asin": "B0H6NW8D4W",
     "title": "Rucado Car Trailer Tie Down Straps 2 x 10 ft Ratchet Chain Anchors 4 PK | 12000 LBS Break Strength, Heavy Duty Polyester Webb",
     "type": "candidate",
@@ -16740,17 +16784,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/618MZ1DepGL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5W2FS7X",
     "walmart_url": "https://www.walmart.com/search?q=Class+3+Trailer+Hitch+2%22+Receiver+Fits+2015-2025+Ford+Transi"
-  },
-  {
-    "asin": "B0H2VXDPDD",
-    "title": "Huyopu 12 PCS 921 912 RV Light Bulbs, 12V 16W Super Bright Reverse Brake Tail Turn Signal Lamp Replacement, T15 Light Bulbs C",
-    "type": "candidate",
-    "score": 42.95,
-    "price": 5.29,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61OUeP7+mvL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2VXDPDD",
-    "walmart_url": "https://www.walmart.com/search?q=Huyopu+12+PCS+921+912+RV+Light+Bulbs%2C+12V+16W+Super+Bright+R"
   },
   {
     "asin": "B0HDZKP3ML",
@@ -16927,17 +16960,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RLBTKAtIL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8D7P27P",
     "walmart_url": "https://www.walmart.com/search?q=RV+Roof+Cover+for+Winnebago+Minnie+Winnie+22M%2F22R%2F25B%2F26T%2F31"
-  },
-  {
-    "asin": "B0HJ19ZFBV",
-    "title": "RV Waste Valve Handle T1003-6MN Replacement for Camco RV Sewer Valve Handle | Fit for Valterra Metal Camper Dump Valve Handle",
-    "type": "candidate",
-    "score": 42.5,
-    "price": 8.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HXkVXEg1L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ19ZFBV",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Waste+Valve+Handle+T1003-6MN+Replacement+for+Camco+RV+Sew"
   },
   {
     "asin": "B0GVHGJ418",
@@ -17512,17 +17534,6 @@
     "walmart_url": "https://www.walmart.com/search?q=TEVSJG+Right%2FLeft+for+Fiamma+Replacement+Left+%26+Right+Hand+F"
   },
   {
-    "asin": "B0H86MHQCS",
-    "title": "RV Water Inlet Funnel with 3.94 Inch Wide Mouth, Orange",
-    "type": "candidate",
-    "score": 40.75,
-    "price": 7.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/51w+ZNZtNTL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H86MHQCS",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Water+Inlet+Funnel+with+3.94+Inch+Wide+Mouth%2C+Orange"
-  },
-  {
     "asin": "B0GZNTQ3PR",
     "title": "RV Bumper End Caps for 4 Inch Square Bumpers, Aluminum, 2 Pack | Rust-Resistant, Hinged Access Door, Screw-Lock Mount, Ventil",
     "type": "candidate",
@@ -17576,6 +17587,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BZEMfAKUL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
     "walmart_url": "https://www.walmart.com/search?q=WanDwel+Aluminum+RV+Power+Cord+Hatch+Cover+Rubber+Cable+Acce"
+  },
+  {
+    "asin": "B0H9RRTLGW",
+    "title": "XIHIRCD 3pcs RV Sewer Valve Handle RV Waste Valve Replacement (Black) | RV Black Tank Handle Replacement T Handle for 1-1/2&quot;",
+    "type": "candidate",
+    "score": 40.5,
+    "price": 9.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51+eIkCoVdL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9RRTLGW",
+    "walmart_url": "https://www.walmart.com/search?q=XIHIRCD+3pcs+RV+Sewer+Valve+Handle+RV+Waste+Valve+Replacemen"
   },
   {
     "asin": "B0H2YTSNGD",
@@ -18183,6 +18205,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Rubber+Cover+Compatible+with+B%26W+Gooseneck+Hitch+Empty+Turno"
   },
   {
+    "asin": "B0H7BKNBMR",
+    "title": "Ziquruv 50A RV Male Replacement Plug, 14-50P, Pull Handle, Black | 125/250v Cord-End Repair, Nylon Housing, Copper Contacts,",
+    "type": "candidate",
+    "score": 39.0,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51plzS-ye-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7BKNBMR",
+    "walmart_url": "https://www.walmart.com/search?q=Ziquruv+50A+RV+Male+Replacement+Plug%2C+14-50P%2C+Pull+Handle%2C+B"
+  },
+  {
     "asin": "B0H98GKCPR",
     "title": "TEBEDI RV Entry Door 24&quot; X 68&quot; Straighted Corners | w/Window, Pleated Shade Blind, Rubber Seals&amp;Keys Aluminum Powder Coated W",
     "type": "candidate",
@@ -18445,6 +18478,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+kBZSpDXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1WJ2FTL",
     "walmart_url": "https://www.walmart.com/search?q=TURBRO+Air+Distribution+Box%2C+Air+Conditioner+ADB+with+Remote"
+  },
+  {
+    "asin": "B0H8MW7BHC",
+    "title": "Upgraded Brass RV Vacuum Breaker Check Valve Fit for B&amp;B Model 571 Check Valve, Black Tank Flusher Check Valve for Camper Tra",
+    "type": "candidate",
+    "score": 38.5,
+    "price": 29.69,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/614w4tf+YoL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8MW7BHC",
+    "walmart_url": "https://www.walmart.com/search?q=Upgraded+Brass+RV+Vacuum+Breaker+Check+Valve+Fit+for+B%26B+Mod"
   },
   {
     "asin": "B0H1XMN84W",
@@ -19712,6 +19756,17 @@
     "walmart_url": "https://www.walmart.com/search?q=6-Inch+RV+Water+Hose+Hatch+Cover+Replacement+Access+Insert+%7C"
   },
   {
+    "asin": "B0H7WM3RMG",
+    "title": "50 A RV Replacement Female Connector, Yellow SS2-50R Angled End",
+    "type": "candidate",
+    "score": 33.5,
+    "price": 54.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61Nvl5uLXVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7WM3RMG",
+    "walmart_url": "https://www.walmart.com/search?q=50+A+RV+Replacement+Female+Connector%2C+Yellow+SS2-50R+Angled+"
+  },
+  {
     "asin": "B0HKRMZYYT",
     "title": "RV Hatch Door Replacement, 7-3/4&quot; x 12.5&quot;, Black",
     "type": "candidate",
@@ -20150,6 +20205,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/6158BwnLlyL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GX6PH3LK",
     "walmart_url": "https://www.walmart.com/search?q=NyxVeil+070853+RV+Furnace+Bottom+Duct+Gasket+for+Suburban+SF"
+  },
+  {
+    "asin": "B0HJ19ZFBV",
+    "title": "RV Waste Valve Handle T1003-6MN Replacement for Camco RV Sewer Valve Handle | Fit for Valterra Metal Camper Dump Valve Handle",
+    "type": "candidate",
+    "score": 31.75,
+    "price": 8.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HXkVXEg1L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ19ZFBV",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Waste+Valve+Handle+T1003-6MN+Replacement+for+Camco+RV+Sew"
   },
   {
     "asin": "B0H7B9QH4G",
@@ -20614,17 +20680,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Bottom+Awning+Mounting+Bracket+Compatible+with+Domestic+Sun+"
   },
   {
-    "asin": "B0H7WM3RMG",
-    "title": "CORDMITPRO 50 A RV Replacement Female Connector, Yellow SS2-50R Angled End | 125/250V 50A, ETL Listed, Ergonomic Angled Desig",
-    "type": "candidate",
-    "score": 30.0,
-    "price": 54.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Nvl5uLXVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7WM3RMG",
-    "walmart_url": "https://www.walmart.com/search?q=CORDMITPRO+50+A+RV+Replacement+Female+Connector%2C+Yellow+SS2-"
-  },
-  {
     "asin": "B0H5QJKXPG",
     "title": "JoyLamoria Travel Trailer Curtain Camo Hunting Reed Wetland Curtains | Light Filtering Semi Sheer Privacy Curtain Tier for Ha",
     "type": "candidate",
@@ -21043,17 +21098,6 @@
     "walmart_url": "https://www.walmart.com/search?q=20pcs+Propane+Tank+Gasket+%26+O+Rings+Seal+Kit+for+Soft+Nose+P"
   },
   {
-    "asin": "B0HDSWLVK3",
-    "title": "1.25&quot; Fill Hose for RV Concession Fresh Water Tank - With Two Clamps 5 FT | RV Water Tank Fill Hose fit for Marine, Boats, Ca",
-    "type": "candidate",
-    "score": 26.2,
-    "price": 20.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71spp1mQu4L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDSWLVK3",
-    "walmart_url": "https://www.walmart.com/search?q=1.25%22+Fill+Hose+for+RV+Concession+Fresh+Water+Tank+-+With+Tw"
-  },
-  {
     "asin": "B0H4PXP2N1",
     "title": "YILIANDE 10V-30V 8 Red &amp; Amber Side Clearance Lamp for Car SUV Van Lorry RV Bus Boat Trailer Truck Auto parts",
     "type": "candidate",
@@ -21063,6 +21107,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qumtdggFL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4PXP2N1",
     "walmart_url": "https://www.walmart.com/search?q=YILIANDE+10V-30V+8+Red+%26+Amber+Side+Clearance+Lamp+for+Car+S"
+  },
+  {
+    "asin": "B0HDSWLVK3",
+    "title": "1.25&quot; Fill Hose for RV Concession Fresh Water Tank - With Two Clamps 5 FT | RV Water Tank Fill Hose fit for Marine, Boats, Ca",
+    "type": "candidate",
+    "score": 25.9,
+    "price": 20.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71spp1mQu4L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDSWLVK3",
+    "walmart_url": "https://www.walmart.com/search?q=1.25%22+Fill+Hose+for+RV+Concession+Fresh+Water+Tank+-+With+Tw"
   },
   {
     "asin": "B0GYMHY4Q2",
