@@ -1199,17 +1199,6 @@
     "walmart_url": "https://www.walmart.com/search?q=AUTOXBERT+Solar+RV+Vent+Fan+-+White+%7C+No-Wire+Solar+Powered+"
   },
   {
-    "asin": "B0H6X8ND5D",
-    "title": "Magnetic RV Insulated Door Cover for Winter, Size 30&#x27;&#x27; x 75&#x27;&#x27;",
-    "type": "winner",
-    "score": 81.25,
-    "price": 29.69,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/813q47y4xIL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6X8ND5D",
-    "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Insulated+Door+Cover+for+Winter%2C+Size+30%27%27+x+75%27"
-  },
-  {
     "asin": "B0HJDBKJWL",
     "title": "Anker SOLIX S2000 Portable Power Station with Car Charging Cable | 2,010Wh LiFePO4 Battery, 1,500W Output, Solar Generator fo",
     "type": "winner",
@@ -1263,17 +1252,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71eiCswsArL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HH3TY22G",
     "walmart_url": "https://www.walmart.com/search?q=250W+Power+Inverter+Compatible+for+Dewalt+20V+Battery%2C+DC+20"
-  },
-  {
-    "asin": "B0H24X66S4",
-    "title": "RVSNAIL RV Screen Door Protector - Adjustable Camper Screen Door Guard (Fits 16.1&quot; to 31.2&quot; Width), Powder-Coated Metal Pet-R",
-    "type": "winner",
-    "score": 80.95,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nTPEM44+L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H24X66S4",
-    "walmart_url": "https://www.walmart.com/search?q=RVSNAIL+RV+Screen+Door+Protector+-+Adjustable+Camper+Screen+"
   },
   {
     "asin": "B0H884HT8F",
@@ -1439,17 +1417,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51XzMevqbbL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHPRV5HC",
     "walmart_url": "https://www.walmart.com/search?q=MrCool+TravelCool+RV+Heat+%26+AC+System+%7C+Ductless+15K+BTU+Bla"
-  },
-  {
-    "asin": "B0H98FTSM5",
-    "title": "Leather RV Windshield Cover for Rockwood Geo Pro Flagstaff 18-27",
-    "type": "winner",
-    "score": 80.25,
-    "price": 99.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61vrSBWLq6L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H98FTSM5",
-    "walmart_url": "https://www.walmart.com/search?q=Leather+RV+Windshield+Cover+for+Rockwood+Geo+Pro+Flagstaff+1"
   },
   {
     "asin": "B0HBVT555Y",
@@ -1628,17 +1595,6 @@
     "walmart_url": "https://www.walmart.com/search?q=12V+RV+Air+Conditioner%2C+DC+RV+AC+Unit+10%2C000+BTU+Cooling+and"
   },
   {
-    "asin": "B0HKW68WB3",
-    "title": "270° Car RV Awning Camping,78.7&quot; Sunshade Canopy ,Black, Passenger Side | 280G Ripstop Oxford Fabric with Blackout Backing, H",
-    "type": "should_test",
-    "score": 79.75,
-    "price": 199.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/714q5E71C5L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKW68WB3",
-    "walmart_url": "https://www.walmart.com/search?q=270%C2%B0+Car+RV+Awning+Camping%2C78.7%22+Sunshade+Canopy+%2CBlack%2C+Pas"
-  },
-  {
     "asin": "B0H6WT7LPM",
     "title": "AUTO-VOX Wireless RV Backup Camera System with Rear &amp; Side Cameras | 30-Min Plug and Play Install, 7.2&quot; 1080P Full View Monit",
     "type": "should_test",
@@ -1659,6 +1615,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61hSXvCt0qL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H73X6X1W",
     "walmart_url": "https://www.walmart.com/search?q=12V+Fahrenheit+DC+RV+Air+Conditioner%2C+8500+BTU+Ultra-Quiet+A"
+  },
+  {
+    "asin": "B0HKW68WB3",
+    "title": "270° Car RV Awning Camping,78.7&quot; Sunshade Canopy ,Black, Passenger Side | 280G Ripstop Oxford Fabric with Blackout Backing, H",
+    "type": "should_test",
+    "score": 79.5,
+    "price": 199.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/714q5E71C5L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKW68WB3",
+    "walmart_url": "https://www.walmart.com/search?q=270%C2%B0+Car+RV+Awning+Camping%2C78.7%22+Sunshade+Canopy+%2CBlack%2C+Pas"
   },
   {
     "asin": "B0HC5SLZHZ",
@@ -1956,17 +1923,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71QQPfqMODL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5W87QDM",
     "walmart_url": "https://www.walmart.com/search?q=WSDCAM+Two-Way+Bike+Alarm+120dB%2C+USB-C+Rechargeable+with+Rem"
-  },
-  {
-    "asin": "B0HDT3BWWL",
-    "title": "Magnetic Solar Lights Outdoor, 108 LEDs Solar Motion Lights Outdoor | RV Exterior Light, Strong Magnetic Mount, Remote, 360°",
-    "type": "should_test",
-    "score": 78.5,
-    "price": 25.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71udkTOe+JL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDT3BWWL",
-    "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor%2C+108+LEDs+Solar+Motion+Lights+"
   },
   {
     "asin": "B0H4YSW5NQ",
@@ -2363,6 +2319,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71NObqwcNAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZ4DKYZF",
     "walmart_url": "https://www.walmart.com/search?q=RV+Cable+Wall+Pass+Through+Kit+for+Starlink+Mini%2C+Waterproof"
+  },
+  {
+    "asin": "B0H98FTSM5",
+    "title": "Leather RV Windshield Cover for Rockwood Geo Pro Flagstaff 18-27",
+    "type": "should_test",
+    "score": 77.1,
+    "price": 99.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61vrSBWLq6L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H98FTSM5",
+    "walmart_url": "https://www.walmart.com/search?q=Leather+RV+Windshield+Cover+for+Rockwood+Geo+Pro+Flagstaff+1"
   },
   {
     "asin": "B0HJ87RYNH",
@@ -2827,15 +2794,15 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Slide-Out+Mouse+Guard+Compatible+with+Lippert+Slide-Outs%2C"
   },
   {
-    "asin": "B0H2RVN3RX",
-    "title": "Magnetic Shower Head Holder for Vans, RVs &amp; Overlanding – Scratch-Free, Hands-Free Portable Camping Shower with Strong Magnets, for SUV, Truck &amp; Outdoor Travel (Grey)",
+    "asin": "B0H71HT9VM",
+    "title": "Universal RV Awning Sun Shade with Zipper Window, 12&#x27; x 6&#x27;7&quot; Fit 13&#x27; Awning | Roll-Up Mesh Window, UPF 50+ &amp; Waterproof, Comp",
     "type": "should_test",
     "score": 75.5,
-    "price": 34.99,
+    "price": 55.99,
     "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61qzHwdMRVL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2RVN3RX",
-    "walmart_url": "https://www.walmart.com/search?q=Magnetic+Shower+Head+Holder+for+Vans%2C+RVs+%26+Overlanding+%E2%80%93+Sc"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7123R8SbuWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H71HT9VM",
+    "walmart_url": "https://www.walmart.com/search?q=Universal+RV+Awning+Sun+Shade+with+Zipper+Window%2C+12%27+x+6%277%22"
   },
   {
     "asin": "B0H29ZGFN9",
@@ -2979,6 +2946,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71Fw61n-OqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGR2586Z",
     "walmart_url": "https://www.walmart.com/search?q=BILT+HARD+5500W+Dual+Fuel+Inverter+Generator%2C+Gasoline%2FLPG"
+  },
+  {
+    "asin": "B0HB9V7Q2D",
+    "title": "INVOTEK 75 x 33 RV Door Cover, Magnetic RV Door Insulated Cover for Winter | Side Opening, Magnetic RV Thermal Insulated Door",
+    "type": "should_test",
+    "score": 75.0,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ctQfvQ8CL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB9V7Q2D",
+    "walmart_url": "https://www.walmart.com/search?q=INVOTEK+75+x+33+RV+Door+Cover%2C+Magnetic+RV+Door+Insulated+Co"
   },
   {
     "asin": "B0H2KYGWRS",
@@ -3146,6 +3124,17 @@
     "walmart_url": "https://www.walmart.com/search?q=KNOX+5th+Wheel+RV+Skirt+with+Twist+Fasteners%2C+Zippered+Panel"
   },
   {
+    "asin": "B0H24X66S4",
+    "title": "RV Screen Door Protector - Adjustable Camper Screen Door Guard (Fits 16.1&quot; to 31.2&quot; Width), Powder-Coated Metal Pet-Resistant Mesh Prevents Dog Scratching, Universal Fit",
+    "type": "should_test",
+    "score": 74.15,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71nTPEM44+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H24X66S4",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Screen+Door+Protector+-+Adjustable+Camper+Screen+Door+Gua"
+  },
+  {
     "asin": "B0H1R3N4TD",
     "title": "Heavy Duty RV Awning Tie Down Anchor Kit for Camper Trailer Wind Protection | Resists 65 MPH Winds, Heavy Ground Anchors, Sho",
     "type": "should_test",
@@ -3245,6 +3234,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Magnetic+Screen+Door+with+Hook%2C+Screen+Door+Protector+for"
   },
   {
+    "asin": "B0H6PBSKY1",
+    "title": "RV Step Scrubber, Camper Step Boot Brush Shoe Cleaner",
+    "type": "should_test",
+    "score": 73.75,
+    "price": 34.59,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71yJ0b7rX7L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6PBSKY1",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Step+Scrubber%2C+Camper+Step+Boot+Brush+Shoe+Cleaner"
+  },
+  {
     "asin": "B0HBVCFC4N",
     "title": "VEVOR 30FT Heated Water Hose for RV Antifreeze to -45°F Drinking Water Hos | 1/2&quot; ID, Smooth Surface, Built-in Thermostat, Fr",
     "type": "should_test",
@@ -3298,6 +3298,28 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81m1eRMHl-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H878NF4W",
     "walmart_url": "https://www.walmart.com/search?q=DARAN+R200+Portable+Power+Station+192Wh%2C+200W%28400W+Peak%29+Com"
+  },
+  {
+    "asin": "B0H32YCRGN",
+    "title": "Indoor Magnetic Window Bug Screen Compatible with Mercedes Sprinter Van 2019-2026 , Front Door Stealth Fly Mesh, Internal Mount Only Camper Van Life Accessories (2 Pack, 24 Magnets Each)",
+    "type": "should_test",
+    "score": 73.3,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/81-xOR3SclL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H32YCRGN",
+    "walmart_url": "https://www.walmart.com/search?q=Indoor+Magnetic+Window+Bug+Screen+Compatible+with+Mercedes+S"
+  },
+  {
+    "asin": "B0H6X8ND5D",
+    "title": "Gociean Magnetic RV Insulated Door Cover for Winter, Size 30&#x27;&#x27; x 75&#x27;&#x27; | 3-Layer Thermal Insulation, Water-Resistant 300D Oxfo",
+    "type": "should_test",
+    "score": 73.2,
+    "price": 29.69,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/813q47y4xIL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6X8ND5D",
+    "walmart_url": "https://www.walmart.com/search?q=Gociean+Magnetic+RV+Insulated+Door+Cover+for+Winter%2C+Size+30"
   },
   {
     "asin": "B0H4YWY1GW",
@@ -3443,15 +3465,15 @@
     "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+F3800+Plus+Portable+Power+Station+and+400W+Solar"
   },
   {
-    "asin": "B0HB9V7Q2D",
-    "title": "75 x 33 RV Door Cover, Magnetic RV Door Insulated Cover for Winter",
+    "asin": "B0H87BP4XF",
+    "title": "Insulated RV Skirting, 28m/92ft with 10M Hook‑and‑Loop Tape | Cuttable Felt, Trailer Bottom Skirt, Wind Snow Protection, For",
     "type": "should_test",
-    "score": 72.6,
-    "price": 29.99,
+    "score": 72.5,
+    "price": 288.0,
     "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/81ctQfvQ8CL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB9V7Q2D",
-    "walmart_url": "https://www.walmart.com/search?q=75+x+33+RV+Door+Cover%2C+Magnetic+RV+Door+Insulated+Cover+for+"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71dIMaeblML._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H87BP4XF",
+    "walmart_url": "https://www.walmart.com/search?q=Insulated+RV+Skirting%2C+28m%2F92ft+with+10M+Hook%E2%80%91and%E2%80%91Loop+Tape+"
   },
   {
     "asin": "B0H5B29WJ9",
@@ -3496,6 +3518,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kJotpAc3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HB5CXQCD",
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter%2C+Travel+Trailers+%26+5th+Wheels%2C+3-Way+"
+  },
+  {
+    "asin": "B0HDT3BWWL",
+    "title": "Magnetic Solar Lights Outdoor, 108 LEDs Solar Motion Lights Outdoor | RV Exterior Light, Strong Magnetic Mount, Remote, 360°",
+    "type": "should_test",
+    "score": 72.05,
+    "price": 25.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71udkTOe+JL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDT3BWWL",
+    "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor%2C+108+LEDs+Solar+Motion+Lights+"
   },
   {
     "asin": "B0H69WSJ3R",
@@ -3606,6 +3639,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/618-JXjHAyL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZTX6D53",
     "walmart_url": "https://www.walmart.com/search?q=RV+Stabilizer%2C+Telescopic+Adjustable%2C+Fits+2In+Trailer+Recei"
+  },
+  {
+    "asin": "B0H2RPYT1V",
+    "title": "Magnetic Solar Lights Outdoor with Remote,RV LED Lights Exterior with 92 LEDs(2700K-4000K-6000K),Motion Sensor Solar Lights,USB &amp; Solar Powered Waterproof Camper Awning Lights,RV Essentials",
+    "type": "should_test",
+    "score": 71.25,
+    "price": 15.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61DIgvMk6vL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2RPYT1V",
+    "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor+with+Remote%2CRV+LED+Lights+Exte"
   },
   {
     "asin": "B0H7SFCSL8",
@@ -4620,17 +4664,6 @@
     "walmart_url": "https://www.walmart.com/search?q=2%E2%80%91in%E2%80%911+RV+Gravity+Fresh+Water+Fill+Funnel%2C+Bayonet+Lock+Inle"
   },
   {
-    "asin": "B0H4VCJJ4W",
-    "title": "Kadrama RV Screen Door Protector Adjustable 21.5&quot;-35&quot; Heavy Duty Metal | Stops Scratches &amp; Tears, Fits Most RVs, Heavy Zinc A",
-    "type": "should_test",
-    "score": 67.4,
-    "price": 41.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ImZI0FfgL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4VCJJ4W",
-    "walmart_url": "https://www.walmart.com/search?q=Kadrama+RV+Screen+Door+Protector+Adjustable+21.5%22-35%22+Heavy+"
-  },
-  {
     "asin": "B0H7BMRPCL",
     "title": "Wide Aluminum Scissor Stairs, 4 Steps Folding RV Step Ladder | 17&quot; Wide Truck Camper Steps, Anti-Slip Surface, for Mobile Hom",
     "type": "should_test",
@@ -4840,6 +4873,17 @@
     "walmart_url": "https://www.walmart.com/search?q=3-in-1+RV+Propane+Gas+Detector%2C+USB-C+or+12V+Hidden+Terminal"
   },
   {
+    "asin": "B0H2YF9LQ2",
+    "title": "wipcowi 2 PCS RV Door Window Shade Cover, Light-Blocking Heat-Insulating Curtain, Heavyweight Windbreak Privacy Window Cover,",
+    "type": "should_test",
+    "score": 66.65,
+    "price": 11.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81S1ATxwnKL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2YF9LQ2",
+    "walmart_url": "https://www.walmart.com/search?q=wipcowi+2+PCS+RV+Door+Window+Shade+Cover%2C+Light-Blocking+Hea"
+  },
+  {
     "asin": "B0HD6G7HNN",
     "title": "RV Floor Vent Cover 2&quot;x10&quot;, 2-Pack Aluminum Floor Register w/ Mesh Screen | Magnetic Lift Tools, Removable Dust &amp; Debris Scre",
     "type": "should_test",
@@ -4849,17 +4893,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zeZIwdg9L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD6G7HNN",
     "walmart_url": "https://www.walmart.com/search?q=RV+Floor+Vent+Cover+2%22x10%22%2C+2-Pack+Aluminum+Floor+Register+w"
-  },
-  {
-    "asin": "B0HF47QFT8",
-    "title": "Garvee RV Steps with Handrail | 3-Step Camper Entry Stairs | Heavy Duty Wide Anti-Slip Platform | Portable Metal Step for Tra",
-    "type": "should_test",
-    "score": 66.5,
-    "price": 89.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51xxLeOL3eL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF47QFT8",
-    "walmart_url": "https://www.walmart.com/search?q=Garvee+RV+Steps+with+Handrail+%7C+3-Step+Camper+Entry+Stairs+%7C"
   },
   {
     "asin": "B0HH85Y4T4",
@@ -5047,17 +5080,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41abqXUOJpL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYW2L6T7",
     "walmart_url": "https://www.walmart.com/search?q=RV+Steps+with+Dual+Handrails%2C+2-Step+Portable+Outdoor+Stairs"
-  },
-  {
-    "asin": "B0H2RPYT1V",
-    "title": "FIALAME Magnetic Solar Lights Outdoor with Remote,RV LED Lights Exterior with 92 LEDs(2700K-4000K-6000K),Motion Sensor Solar",
-    "type": "should_test",
-    "score": 65.65,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DIgvMk6vL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2RPYT1V",
-    "walmart_url": "https://www.walmart.com/search?q=FIALAME+Magnetic+Solar+Lights+Outdoor+with+Remote%2CRV+LED+Lig"
   },
   {
     "asin": "B0HHB3SV4L",
@@ -5291,6 +5313,17 @@
     "walmart_url": "https://www.walmart.com/search?q=300W+Car+Power+Inverter+with+Starlink+Mini+Adapter"
   },
   {
+    "asin": "B0H4VCJJ4W",
+    "title": "RV Screen Door Protector Adjustable 21.5&quot;-35&quot; Heavy Duty Metal",
+    "type": "should_test",
+    "score": 64.6,
+    "price": 41.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/81ImZI0FfgL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4VCJJ4W",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Screen+Door+Protector+Adjustable+21.5%22-35%22+Heavy+Duty+Met"
+  },
+  {
     "asin": "B0H5BY7SP5",
     "title": "FOGATTI RV Furnace 30K BTU High-Efficiency for Motorhome, Camper, RV Owners | Smart Temp Control ，Easy Installation for Campe",
     "type": "should_test",
@@ -5489,15 +5522,15 @@
     "walmart_url": "https://www.walmart.com/search?q=Portable+Sink+for+Camping+With+2x15L+Foldable+Water+Bag%2C+Out"
   },
   {
-    "asin": "B0H2YF9LQ2",
-    "title": "wipcowi 2 PCS RV Door Window Shade Cover, Light-Blocking Heat-Insulating Curtain, Heavyweight Windbreak Privacy Window Cover,",
+    "asin": "B0H4HDV7DP",
+    "title": "2PCS RV Awning Clamp, Windproof Deflapper Stabilizer Anti Flap Kit | 2 Pack RV Clamps, Wind Support, Soft Non Slip Pads, Weat",
     "type": "should_test",
-    "score": 63.75,
-    "price": 9.99,
+    "score": 64.0,
+    "price": 15.95,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81S1ATxwnKL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2YF9LQ2",
-    "walmart_url": "https://www.walmart.com/search?q=wipcowi+2+PCS+RV+Door+Window+Shade+Cover%2C+Light-Blocking+Hea"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gXfSHsH2L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4HDV7DP",
+    "walmart_url": "https://www.walmart.com/search?q=2PCS+RV+Awning+Clamp%2C+Windproof+Deflapper+Stabilizer+Anti+Fl"
   },
   {
     "asin": "B0HBS1WC22",
@@ -5929,6 +5962,28 @@
     "walmart_url": "https://www.walmart.com/search?q=Winter+Thermal+RV+Skirting+32m%2F105ft+with+10M+Hook%E2%80%91and%E2%80%91Loop+"
   },
   {
+    "asin": "B0H8R2HGSP",
+    "title": "RV Skirting Kits for Winter, Easy Installation - Black, 2.62 x 59.1 ft | Insulated Camper Skirt for Travel Trailer, 5th Wheel",
+    "type": "should_test",
+    "score": 62.25,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nNDgiPGuL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8R2HGSP",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+Kits+for+Winter%2C+Easy+Installation+-+Black%2C+2.62"
+  },
+  {
+    "asin": "B0HFWTKRXZ",
+    "title": "RV Skirting for Winter,31x78.7ft RV Skirt for Travel Trailer &amp; 5th Wheels | Heavy Duty Camper Insulated Skirt Easy Install Wa",
+    "type": "should_test",
+    "score": 62.25,
+    "price": 195.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71a6IUutZSL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFWTKRXZ",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter%2C31x78.7ft+RV+Skirt+for+Travel+Trailer"
+  },
+  {
     "asin": "B0H92VKGDT",
     "title": "CALPOSE Propane Tank Gauge, 3 Colors Coded Universal for Cylinder, Grill, Heater, RV Camper and More, 5-40 Pound LP Tank Gas",
     "type": "should_test",
@@ -6127,15 +6182,15 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Frame+Stabilizer+with+Replaceable+Support+Heads%2C+Heavy+Du"
   },
   {
-    "asin": "B0H8R2HGSP",
-    "title": "RV Skirting Kits for Winter, Easy Installation - Black, 2.62 x 59.1 ft | Insulated Camper Skirt for Travel Trailer, 5th Wheel",
+    "asin": "B0H5K2F15F",
+    "title": "Heavy Duty 5-Step RV Stairs – Portable Black Steel Steps with Double Armrests, Anti-Slip Pad, Handrails, 300kg Capacity for R",
     "type": "should_test",
-    "score": 61.5,
-    "price": 0.0,
+    "score": 61.65,
+    "price": 182.99,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nNDgiPGuL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8R2HGSP",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+Kits+for+Winter%2C+Easy+Installation+-+Black%2C+2.62"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81XVHUn5BQL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5K2F15F",
+    "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+5-Step+RV+Stairs+%E2%80%93+Portable+Black+Steel+Steps+wit"
   },
   {
     "asin": "B0H87J975N",
@@ -6147,17 +6202,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sil0IkPSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H87J975N",
     "walmart_url": "https://www.walmart.com/search?q=5th+Wheel+Camper+Skirting%2C+DIY+Cut%E2%80%91to%E2%80%91Size+Custom+Fit%2C+24m%2F7"
-  },
-  {
-    "asin": "B0H87BP4XF",
-    "title": "Insulated RV Skirting, 28m/92ft with 10M Hook‑and‑Loop Tape | Cuttable Felt, Trailer Bottom Skirt, Wind Snow Protection, For",
-    "type": "should_test",
-    "score": 61.5,
-    "price": 288.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71dIMaeblML._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H87BP4XF",
-    "walmart_url": "https://www.walmart.com/search?q=Insulated+RV+Skirting%2C+28m%2F92ft+with+10M+Hook%E2%80%91and%E2%80%91Loop+Tape+"
   },
   {
     "asin": "B0HF831TT3",
@@ -6193,26 +6237,15 @@
     "walmart_url": "https://www.walmart.com/search?q=Air+Dryer+for+Boat+RV%2CStorage+Room%2CSmall+RV+Boat+Dehumidifie"
   },
   {
-    "asin": "B0H5K2F15F",
-    "title": "Heavy Duty 5-Step RV Stairs – Portable Black Steel Steps with Double Armrests, Anti-Slip Pad, Handrails, 300kg Capacity for R",
+    "asin": "B0HF4K6563",
+    "title": "Garvee Rv Steps with Handrail, Anti-Slip 4 Step Rv Stairs | Reflective Strips, Removable Handrails and Supporting 660Lbs Capa",
     "type": "should_test",
     "score": 61.4,
-    "price": 182.99,
+    "price": 129.99,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81XVHUn5BQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5K2F15F",
-    "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+5-Step+RV+Stairs+%E2%80%93+Portable+Black+Steel+Steps+wit"
-  },
-  {
-    "asin": "B0HJYTZVBB",
-    "title": "Expedeck 4x4 Portable Deck Landing, Assembled RV Stairs, 21 in Straight | Fully assembled, freestanding, no footings, RV stai",
-    "type": "should_test",
-    "score": 61.4,
-    "price": 2399.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/91QBAZpiofL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJYTZVBB",
-    "walmart_url": "https://www.walmart.com/search?q=Expedeck+4x4+Portable+Deck+Landing%2C+Assembled+RV+Stairs%2C+21+"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gbm6fzD6L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4K6563",
+    "walmart_url": "https://www.walmart.com/search?q=Garvee+Rv+Steps+with+Handrail%2C+Anti-Slip+4+Step+Rv+Stairs+%7C+"
   },
   {
     "asin": "B0H8RK2FMC",
@@ -6402,17 +6435,6 @@
     "walmart_url": "https://www.walmart.com/search?q=5-IN-1+RV+Water+Heater+Anode+Rod+%26+Flush+Wand+Kit+Compatible"
   },
   {
-    "asin": "B0H8BYKPXN",
-    "title": "Anti-Slip Rv Steps with Handrail, 4 Step Rv Stairs with Removable Handrails | Reflective Strips and Supporting 660Lbs Capable",
-    "type": "should_test",
-    "score": 60.7,
-    "price": 119.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eJSV9i9ML._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8BYKPXN",
-    "walmart_url": "https://www.walmart.com/search?q=Anti-Slip+Rv+Steps+with+Handrail%2C+4+Step+Rv+Stairs+with+Remo"
-  },
-  {
     "asin": "B0H4QCCP7J",
     "title": "FOGATTI RV Air Conditioner 18K BTU Cooling with 1,800W Heating, WiFi &amp; Remote Control &amp; Alexa, Rooftop AC, Easy Install, Duct",
     "type": "should_test",
@@ -6521,6 +6543,28 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81fC12-DcrL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1DFHLZT",
     "walmart_url": "https://www.walmart.com/search?q=RV+Underbelly+Repair+Tape+6%22+x+33%27+Waterproof+Permanent+Seal"
+  },
+  {
+    "asin": "B0HF8571JM",
+    "title": "RV Underbelly Skirt, 112ft / 34m Roll for RV Winter Protection | Heavy duty winter RV skirting, windproof &amp; UV resistant. Fit",
+    "type": "should_test",
+    "score": 60.0,
+    "price": 348.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71jwIa4hSRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF8571JM",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Underbelly+Skirt%2C+112ft+%2F+34m+Roll+for+RV+Winter+Protecti"
+  },
+  {
+    "asin": "B0H8BYKPXN",
+    "title": "Anti-Slip Rv Steps with Handrail, 4 Step Rv Stairs with Removable Handrails | Reflective Strips and Supporting 660Lbs Capable",
+    "type": "should_test",
+    "score": 59.9,
+    "price": 119.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eJSV9i9ML._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8BYKPXN",
+    "walmart_url": "https://www.walmart.com/search?q=Anti-Slip+Rv+Steps+with+Handrail%2C+4+Step+Rv+Stairs+with+Remo"
   },
   {
     "asin": "B0HBWB7M5Y",
@@ -6941,17 +6985,6 @@
     "walmart_url": "https://www.walmart.com/search?q=LWCH+Adjustable+Trailer+Hitch+for+2.5+Inch+Receiver%2C+8+Inch+"
   },
   {
-    "asin": "B0HDSNT11B",
-    "title": "Dulepax 420D Oxford Travel Trailer Cover 20&#x27;-22&#x27; Waterproof RV Camper Cover | Rip-Resistant Fabric, UV resistant, Windproof w",
-    "type": "should_test",
-    "score": 58.75,
-    "price": 149.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Q+7RSAXpL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDSNT11B",
-    "walmart_url": "https://www.walmart.com/search?q=Dulepax+420D+Oxford+Travel+Trailer+Cover+20%27-22%27+Waterproof+"
-  },
-  {
     "asin": "B0HF7WG8GJ",
     "title": "Camper Undercarriage Snow‑Proof Protective Skirt 28m/92ft | 90cm Height RV Skirting,Supplied with 10M Hook‑and‑Loop Tape for",
     "type": "should_test",
@@ -7115,6 +7148,17 @@
     "image_url": "https://m.media-amazon.com/images/I/51a-I1wR3jL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ1SR8XJ",
     "walmart_url": "https://www.walmart.com/search?q=RV+Black+Tank+Cleaning+Wand+48+Inch+360+Rotating+Nozzle"
+  },
+  {
+    "asin": "B0HF85KSJV",
+    "title": "Travel Trailer Snow-Shield Underbelly Skirt, 98ft /30m Roll | Heavy-Duty Tear Resistant RV Bottom Winter Cover, Cold Weather",
+    "type": "should_test",
+    "score": 58.25,
+    "price": 308.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/716ooKpiFzL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF85KSJV",
+    "walmart_url": "https://www.walmart.com/search?q=Travel+Trailer+Snow-Shield+Underbelly+Skirt%2C+98ft+%2F30m+Roll+"
   },
   {
     "asin": "B0H4SLQVM2",
@@ -7722,6 +7766,17 @@
     "walmart_url": "https://www.walmart.com/search?q=VEVOR+Manual+RV+Awning+Complete+Kit%2C+18.12FT+Retractable+RV+"
   },
   {
+    "asin": "B0HDSNT11B",
+    "title": "Dulepax 420D Oxford Travel Trailer Cover 20&#x27;-22&#x27; Waterproof RV Camper Cover | Rip-Resistant Fabric, UV resistant, Windproof w",
+    "type": "should_test",
+    "score": 56.25,
+    "price": 149.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Q+7RSAXpL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDSNT11B",
+    "walmart_url": "https://www.walmart.com/search?q=Dulepax+420D+Oxford+Travel+Trailer+Cover+20%27-22%27+Waterproof+"
+  },
+  {
     "asin": "B0H28SP7H2",
     "title": "Vullteeon Drop Hitch (for 2.5 Inch Receiver), 8in Adjustable Trailer Hitch | 18,500 LBS GTW, Aluminum Tow Hitch with (2&quot; &amp; 2-",
     "type": "should_test",
@@ -7764,6 +7819,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81--oQDSc7L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDF8668D",
     "walmart_url": "https://www.walmart.com/search?q=LANCO+Dry-Coat+1+Gal.+100%25+Acrylic+Siliconized+White+Reflect"
+  },
+  {
+    "asin": "B0HDP87Y1V",
+    "title": "Heavy Duty RV Roof Cover Waterproof Fits 16 to 41ft RVs, Grey, 34.5 * 9.8ft | Travel Trailers and Campers, Black All Season P",
+    "type": "should_test",
+    "score": 56.25,
+    "price": 128.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71crFilou1L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDP87Y1V",
+    "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+RV+Roof+Cover+Waterproof+Fits+16+to+41ft+RVs%2C+Gre"
   },
   {
     "asin": "B0HDDLWFDW",
@@ -8063,6 +8129,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+RV+Roof+Cover+Waterproof+Fits+16+to+41ft+RVs%2C+Bla"
   },
   {
+    "asin": "B0HJ5Q2R79",
+    "title": "600D Heavy-Duty RV Roof Cover for 37-40ft Travel Trailer Motorhome Camper | Reflective Strips,Camper roof Cover, Waterproof U",
+    "type": "should_test",
+    "score": 55.5,
+    "price": 112.77,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71GHcvZbAML._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ5Q2R79",
+    "walmart_url": "https://www.walmart.com/search?q=600D+Heavy-Duty+RV+Roof+Cover+for+37-40ft+Travel+Trailer+Mot"
+  },
+  {
     "asin": "B0HGY8TG4G",
     "title": "FOGATTI 35000 BTU RV Furnace | Propane Heater for Camper Trailer Van | Quiet Ducted Forced Air Heating, Compact Replacement W",
     "type": "should_test",
@@ -8162,6 +8239,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2-Pack+RV+Toilet+Seal+for+Dometic+300%2F310%2F320%2F400%2F410%2F420%2C+P"
   },
   {
+    "asin": "B0H8JFX3H5",
+    "title": "Wider 3.6m/11.8ft, 1200D, RV Roof Cover, Charcoal Gray, 37.7×11.8ft | Heavy-Duty 7-Layer Thickened, All-Weather Winter Snow P",
+    "type": "should_test",
+    "score": 55.25,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wqacuSM5L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8JFX3H5",
+    "walmart_url": "https://www.walmart.com/search?q=Wider+3.6m%2F11.8ft%2C+1200D%2C+RV+Roof+Cover%2C+Charcoal+Gray%2C+37.7"
+  },
+  {
     "asin": "B0GYJDMK18",
     "title": "﻿5-Gallon Fuel Tank Rack, sturdy four-way support and locking strap",
     "type": "should_test",
@@ -8182,17 +8270,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EBOX3MboL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2WHK52M",
     "walmart_url": "https://www.walmart.com/search?q=DEHOMKUS+RV+Anode+Rod+Kit+9.25%22+3%2F4%22NPT+for+Suburban+Mor-Flo"
-  },
-  {
-    "asin": "B0H8JFX3H5",
-    "title": "Wider 3.6m/11.8ft, 1200D, RV Roof Cover, Charcoal Gray, 37.7×11.8ft | Heavy-Duty 7-Layer Thickened, All-Weather Winter Snow P",
-    "type": "should_test",
-    "score": 55.0,
-    "price": 188.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wqacuSM5L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8JFX3H5",
-    "walmart_url": "https://www.walmart.com/search?q=Wider+3.6m%2F11.8ft%2C+1200D%2C+RV+Roof+Cover%2C+Charcoal+Gray%2C+37.7"
   },
   {
     "asin": "B0H2DSFGXG",
@@ -8558,17 +8635,6 @@
     "walmart_url": "https://www.walmart.com/search?q=PRO+Flex+RV+Flexible+Sealant+10+oz+Cartridge+Waterproof+Flex"
   },
   {
-    "asin": "B0HF8571JM",
-    "title": "RV Underbelly Skirt, 112ft / 34m Roll for RV Winter Protection | Heavy duty winter RV skirting, windproof &amp; UV resistant. Fit",
-    "type": "should_test",
-    "score": 53.45,
-    "price": 348.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71jwIa4hSRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF8571JM",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Underbelly+Skirt%2C+112ft+%2F+34m+Roll+for+RV+Winter+Protecti"
-  },
-  {
     "asin": "B0GZ3M249L",
     "title": "Hicover 600D Rv Roof Cover Waterproof Fits 31ft to 33ft Motorhome Caravan | Camper Roof Cover Wind,Rain and Snow Proof Pop up",
     "type": "should_test",
@@ -8811,10 +8877,21 @@
     "walmart_url": "https://www.walmart.com/search?q=92249+91160+520900+for+Atwood+Dometic+Suburban+RV+water+heat"
   },
   {
+    "asin": "B0HDCQFX4D",
+    "title": "RV Step Motor Conversion Kit for Kwikee Linkage, Replaces 379160 | Fits Kwikee 22, 23, 28A, 30, 32-40 Series Steps with Curve",
+    "type": "should_test",
+    "score": 52.25,
+    "price": 113.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81orXFhWxQL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDCQFX4D",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Step+Motor+Conversion+Kit+for+Kwikee+Linkage%2C+Replaces+37"
+  },
+  {
     "asin": "B0HDBV6J62",
     "title": "WELLBOX 301702 RV Electric Step Control Module Compatible with Lippert Kwikee, Fits Single/Double/Triple Coach Steps, Strombe",
     "type": "should_test",
-    "score": 52.25,
+    "score": 51.75,
     "price": 96.99,
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61NJlkfsIlL._AC_UL300_SR300,200_.jpg",
@@ -8831,17 +8908,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71in0tCXLTL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBV756Q4",
     "walmart_url": "https://www.walmart.com/search?q=55+Amp+RV+Power+Center+Converter+Charger+AC%2FDC+Panel+Fit+Lit"
-  },
-  {
-    "asin": "B0HDCQFX4D",
-    "title": "RV Step Motor Conversion Kit for Kwikee Linkage, Replaces 379160 | Fits Kwikee 22, 23, 28A, 30, 32-40 Series Steps with Curve",
-    "type": "should_test",
-    "score": 51.65,
-    "price": 113.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81orXFhWxQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDCQFX4D",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Step+Motor+Conversion+Kit+for+Kwikee+Linkage%2C+Replaces+37"
   },
   {
     "asin": "B0H1KS44WH",
@@ -9009,17 +9075,6 @@
     "walmart_url": "https://www.walmart.com/search?q=LUHLEE+Clip-On+RV+Solar+Lights+%E2%80%93+800LM+RV+Bumper+Cap+Light+w"
   },
   {
-    "asin": "B0HCB18KP3",
-    "title": "2 Pack Magnetic Solar Lights Outdoor 4 Colors &amp; Motion Sensor Remote for RV | 92 LED 600LM w/Remote, Solar &amp; USB Charging, 36",
-    "type": "candidate",
-    "score": 68.5,
-    "price": 30.39,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AkLG9jwBL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCB18KP3",
-    "walmart_url": "https://www.walmart.com/search?q=2+Pack+Magnetic+Solar+Lights+Outdoor+4+Colors+%26+Motion+Senso"
-  },
-  {
     "asin": "B0GSK3QF5W",
     "title": "LUHLEE Clip-On RV Solar Lights – 800LM RV Bumper Cap Light with Digital Display, No-Drill Exterior Lighting for RVs, Campers,",
     "type": "candidate",
@@ -9040,6 +9095,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61CfypcLiNL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
     "walmart_url": "https://www.walmart.com/search?q=2pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover"
+  },
+  {
+    "asin": "B0HCB18KP3",
+    "title": "2 Pack Magnetic Solar Lights Outdoor 4 Colors &amp; Motion Sensor Remote for RV",
+    "type": "candidate",
+    "score": 66.0,
+    "price": 27.59,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/81AkLG9jwBL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCB18KP3",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pack+Magnetic+Solar+Lights+Outdoor+4+Colors+%26+Motion+Senso"
   },
   {
     "asin": "B0H2H45CBS",
@@ -9207,6 +9273,17 @@
     "walmart_url": "https://www.walmart.com/search?q=POVTOR+Multi-Color+Motion+Activated+RV+Step+Lights%2C+2+Pack+%7C"
   },
   {
+    "asin": "B0H2RVN3RX",
+    "title": "GHKHKTEM Magnetic Shower Head Holder for Vans, RVs &amp; Overlanding – Scratch-Free, Hands-Free Portable Camping Shower with Stro",
+    "type": "candidate",
+    "score": 62.95,
+    "price": 34.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qzHwdMRVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2RVN3RX",
+    "walmart_url": "https://www.walmart.com/search?q=GHKHKTEM+Magnetic+Shower+Head+Holder+for+Vans%2C+RVs+%26+Overlan"
+  },
+  {
     "asin": "B0H38P54WG",
     "title": "VHBW Magnetic Solar Lights Outdoor, 2 Pack Motion Sensor Lights with Remote",
     "type": "candidate",
@@ -9350,6 +9427,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Gollense+Thick+RV+Couch+Cover+for+Jackknife+Sofa+Bed+Long+2-"
   },
   {
+    "asin": "B0H88MX35S",
+    "title": "MoonMount Oval Heavy Duty Vacuum Anchor for Awnings, Camping Accessories | Drill-free Quick Installation on Any Smooth Surfac",
+    "type": "candidate",
+    "score": 61.75,
+    "price": 55.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51T7PXRJshL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H88MX35S",
+    "walmart_url": "https://www.walmart.com/search?q=MoonMount+Oval+Heavy+Duty+Vacuum+Anchor+for+Awnings%2C+Camping"
+  },
+  {
     "asin": "B0H86SFMB6",
     "title": "Magnetic RV Solar Lights Outdoor, 160LEDs Bright RV Light with Motion Sensor, Waterproof 3 Lighting Modes RV Exterior Lightin",
     "type": "candidate",
@@ -9405,6 +9493,17 @@
     "walmart_url": "https://www.walmart.com/search?q=4pcs+Backup+Camera+Rain+Hood+Cover+with+Curved+Black+PVC+Can"
   },
   {
+    "asin": "B0H2CLB19D",
+    "title": "sooogd 8 Pack Solar RV Step Lights, IP68 Waterproof Warm White Stair Lights | Auto Dusk-to-Dawn Lighting With Magnetic Pad, A",
+    "type": "candidate",
+    "score": 60.75,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81pP1w9CYGL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2CLB19D",
+    "walmart_url": "https://www.walmart.com/search?q=sooogd+8+Pack+Solar+RV+Step+Lights%2C+IP68+Waterproof+Warm+Whi"
+  },
+  {
     "asin": "B0HBCF6Z28",
     "title": "3 Pack RV Shower Corner Storage Bars, Adjustable 7-13 Inch, Stainless Steel | Adhesive Mount, Tool-Free No-Drill Setup, Bottl",
     "type": "candidate",
@@ -9414,17 +9513,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81hgviBJlHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBCF6Z28",
     "walmart_url": "https://www.walmart.com/search?q=3+Pack+RV+Shower+Corner+Storage+Bars%2C+Adjustable+7-13+Inch%2C+"
-  },
-  {
-    "asin": "B0H2CLB19D",
-    "title": "sooogd 8 Pack Solar RV Step Lights, IP68 Waterproof Warm White Stair Lights | Auto Dusk-to-Dawn Lighting With Magnetic Pad, A",
-    "type": "candidate",
-    "score": 60.7,
-    "price": 29.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81pP1w9CYGL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2CLB19D",
-    "walmart_url": "https://www.walmart.com/search?q=sooogd+8+Pack+Solar+RV+Step+Lights%2C+IP68+Waterproof+Warm+Whi"
   },
   {
     "asin": "B0H25G3LDV",
@@ -9513,17 +9601,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/31oTE+VbopL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4Q61LRZ",
     "walmart_url": "https://www.walmart.com/search?q=RV+Mirror+Covers+for+Class+A+Motorhomes%2C+7-Layer+Insulated+%7C"
-  },
-  {
-    "asin": "B0H568YL25",
-    "title": "Heavy Duty Suction Cup Hooks 4PCS with Tarp Clips for Car Awning Camping | Strong Suction cup Hooks Tie-Down for Boat/RV/SUV/",
-    "type": "candidate",
-    "score": 60.0,
-    "price": 15.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/717GARC6XGL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H568YL25",
-    "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+Suction+Cup+Hooks+4PCS+with+Tarp+Clips+for+Car+Aw"
   },
   {
     "asin": "B0HF7CSL83",
@@ -9636,6 +9713,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Roof+AC+Cover+600D+Fits+Coleman+Mach+RecPro+TOSOT+Winter"
   },
   {
+    "asin": "B0H5BXVLD1",
+    "title": "TAYOVSZY RV Step Covers 4 Pack, Non‑Slip EVA Foam Camper Stair Mats, Gray | 24&quot;×7.5&quot; RV Step Carpet, Self Adhesive, Reflectiv",
+    "type": "candidate",
+    "score": 59.5,
+    "price": 26.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uK0eF43nL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5BXVLD1",
+    "walmart_url": "https://www.walmart.com/search?q=TAYOVSZY+RV+Step+Covers+4+Pack%2C+Non%E2%80%91Slip+EVA+Foam+Camper+Sta"
+  },
+  {
     "asin": "B0H5NKS7NY",
     "title": "AKMGCD Camper Van Awning Leg Plates for Fiamma/Omnistor/Thule Motorhome Metal Awning Safety Storm Plates with Ground Pegs",
     "type": "candidate",
@@ -9647,6 +9735,17 @@
     "walmart_url": "https://www.walmart.com/search?q=AKMGCD+Camper+Van+Awning+Leg+Plates+for+Fiamma%2FOmnistor%2FThul"
   },
   {
+    "asin": "B0H9L8KV8Y",
+    "title": "12 Pack RV Awning Light Clips with Storage Bag",
+    "type": "candidate",
+    "score": 59.25,
+    "price": 9.98,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71gc8+Ph7RL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9L8KV8Y",
+    "walmart_url": "https://www.walmart.com/search?q=12+Pack+RV+Awning+Light+Clips+with+Storage+Bag"
+  },
+  {
     "asin": "B0H7RSJNR5",
     "title": "Gollense Waterproof RV Couch Cover for Jackknife Sofa Bed Long 2 PCS Green | Stretch Fabric, Anti-Slip Ties, Machine Washable",
     "type": "candidate",
@@ -9656,6 +9755,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71n2-sRVo6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7RSJNR5",
     "walmart_url": "https://www.walmart.com/search?q=Gollense+Waterproof+RV+Couch+Cover+for+Jackknife+Sofa+Bed+Lo"
+  },
+  {
+    "asin": "B0HDGCLTG9",
+    "title": "Fawfose RV Outdoor Shower Box Kit with 1.5m Retractable Hose | - Synthetic Resin, Key Lock Door, 3 Water Modes, Fits van Moto",
+    "type": "candidate",
+    "score": 59.05,
+    "price": 54.6,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51zqwP+tT5L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDGCLTG9",
+    "walmart_url": "https://www.walmart.com/search?q=Fawfose+RV+Outdoor+Shower+Box+Kit+with+1.5m+Retractable+Hose"
   },
   {
     "asin": "B0H9SQ6N6J",
@@ -9691,17 +9801,6 @@
     "walmart_url": "https://www.walmart.com/search?q=14+Inch+RV+Roof+Vent+Cover%2C+No+Drilling+Aerodynamic+Weatherp"
   },
   {
-    "asin": "B0H8BP69DF",
-    "title": "Festisoul Rv Steps with Handrail, 5 Step Rv Stairs with Removable Handrails | Reflective Strips and Non Slip Strips，Camper St",
-    "type": "candidate",
-    "score": 58.5,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71e5eUyxf0L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8BP69DF",
-    "walmart_url": "https://www.walmart.com/search?q=Festisoul+Rv+Steps+with+Handrail%2C+5+Step+Rv+Stairs+with+Remo"
-  },
-  {
     "asin": "B0GYXC3ZZV",
     "title": "DOUANDA RV Step Covers, 24&quot; x 7.5&quot;, 4-Pack, Non Slip RV Stair Covers, Gray | EVA Foam Camper Stair Mats for Trailers, Camper,",
     "type": "candidate",
@@ -9724,17 +9823,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RiToEasysports+Gas+Canister+Cover%2C+Insulated+Windproof+Sleev"
   },
   {
-    "asin": "B0HF4K6563",
-    "title": "Garvee Rv Steps with Handrail, Anti-Slip 4 Step Rv Stairs | Reflective Strips, Removable Handrails and Supporting 660Lbs Capa",
-    "type": "candidate",
-    "score": 58.25,
-    "price": 129.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gbm6fzD6L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4K6563",
-    "walmart_url": "https://www.walmart.com/search?q=Garvee+Rv+Steps+with+Handrail%2C+Anti-Slip+4+Step+Rv+Stairs+%7C+"
-  },
-  {
     "asin": "B0H751VG2H",
     "title": "Foldable Car Back Seat Extender for Sleeping, Rear Seat Mattress Extension Plate, Portable Car Bed Platform for Camping &amp; Roa",
     "type": "candidate",
@@ -9755,17 +9843,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71MVBF+KHkL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCNMLDD9",
     "walmart_url": "https://www.walmart.com/search?q=10x20+FT+RV+Outdoor+Mat+Reversible+Blue-Gray+RV+Patio+Rug"
-  },
-  {
-    "asin": "B0H7HD1FYS",
-    "title": "RV Step Covers 4 Pack, 19 x 7.5 Inch Non-Slip Trimmable Self-Adhesive 6mm EVA Foam RV Stair Cover with Reflective Strips, Cam",
-    "type": "candidate",
-    "score": 58.0,
-    "price": 22.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ouSadCOHL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7HD1FYS",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Step+Covers+4+Pack%2C+19+x+7.5+Inch+Non-Slip+Trimmable+Self"
   },
   {
     "asin": "B0GZ31QS83",
@@ -10010,6 +10087,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Propane+Splitter+2+Way%2C+1%2F4%22+RV+Propane+Quick+Connect+Y+Spli"
   },
   {
+    "asin": "B0HGG5J8TG",
+    "title": "RV Windshield Cover for Ford E450 ，Light Silver | 4-Layer Protection, All-Season Shield, Mirror Cutouts, Wind Resistant, Priv",
+    "type": "candidate",
+    "score": 56.9,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Za1lYi-+L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGG5J8TG",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Windshield+Cover+for+Ford+E450+%EF%BC%8CLight+Silver+%7C+4-Layer+Pr"
+  },
+  {
     "asin": "B0H35TQ3TY",
     "title": "Stick On RV Level, Magnetic Adhesive RV Camper Trailer Bubble Leveler Leveling System Inclinometer Gauge Accessories Mate Pro",
     "type": "candidate",
@@ -10021,15 +10109,15 @@
     "walmart_url": "https://www.walmart.com/search?q=Stick+On+RV+Level%2C+Magnetic+Adhesive+RV+Camper+Trailer+Bubbl"
   },
   {
-    "asin": "B0H8MSHBWH",
-    "title": "RV Awning Repair Tape, 8 in x 21 ft Heavy-Duty RV Underbelly Tape, UV Guard | UV Resistant PVC RV Awning Cover Guard and Awni",
+    "asin": "B0H8S18T1K",
+    "title": "WKQ Collapse RV Steps, Non-Slip Metal Camper Steps | Single Step RV Stairs Ladders, Aluminum Alloy RV Accessories for Outside",
     "type": "candidate",
-    "score": 56.5,
-    "price": 16.99,
+    "score": 56.75,
+    "price": 0.0,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81xxwzc77zL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8MSHBWH",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Repair+Tape%2C+8+in+x+21+ft+Heavy-Duty+RV+Underbelly"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711KDHJrOJL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8S18T1K",
+    "walmart_url": "https://www.walmart.com/search?q=WKQ+Collapse+RV+Steps%2C+Non-Slip+Metal+Camper+Steps+%7C+Single+"
   },
   {
     "asin": "B0H4GLB7SP",
@@ -10087,15 +10175,26 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Camper+Air+Conditioner+Cover+RV+AC+Cover+Reflective+Strip"
   },
   {
-    "asin": "B0HJLB7MH9",
-    "title": "RV Step Covers 4 Pack, 20&quot; x 8&quot; Non Slip RV Step Rugs with Reflective Strip | Reflective Safety Strip, Dirt &amp; Moisture Protec",
+    "asin": "B0HGDGLW93",
+    "title": "Caravan Awning Storm Tie‑Down Kit for Roll‑Out Awnings | Complete storm tie‑down set secures caravan awning against heavy win",
     "type": "candidate",
     "score": 56.5,
-    "price": 29.99,
+    "price": 10.21,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/718lEPy+XWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJLB7MH9",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Step+Covers+4+Pack%2C+20%22+x+8%22+Non+Slip+RV+Step+Rugs+with+R"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/511pccuG9DL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGDGLW93",
+    "walmart_url": "https://www.walmart.com/search?q=Caravan+Awning+Storm+Tie%E2%80%91Down+Kit+for+Roll%E2%80%91Out+Awnings+%7C+Com"
+  },
+  {
+    "asin": "B0HFJCMZQ7",
+    "title": "500 lbs RV Step Stool, Foldable Adjustable Height Step with Wide Platform",
+    "type": "candidate",
+    "score": 56.5,
+    "price": 36.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61+6leeWWsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFJCMZQ7",
+    "walmart_url": "https://www.walmart.com/search?q=500+lbs+RV+Step+Stool%2C+Foldable+Adjustable+Height+Step+with+"
   },
   {
     "asin": "B0H4QRRVYJ",
@@ -10129,28 +10228,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Y3xstYI+L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDBBQCMN",
     "walmart_url": "https://www.walmart.com/search?q=RV+External+Shower+Hose%2C15FT+Retractable+Shower+Hose+for+RV+"
-  },
-  {
-    "asin": "B0HJR1C79H",
-    "title": "660Lbs Capacity Anti-Slip 3-Step RV Steps with Dual Handrails | Heavy Duty Outdoor Stairs with Handrails for Camper, Mobile H",
-    "type": "candidate",
-    "score": 56.0,
-    "price": 109.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/91lfeR9CjfL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJR1C79H",
-    "walmart_url": "https://www.walmart.com/search?q=660Lbs+Capacity+Anti-Slip+3-Step+RV+Steps+with+Dual+Handrail"
-  },
-  {
-    "asin": "B0H3TDJB2C",
-    "title": "Feghezja 25FT LED RV Strip Lights White, 12V Camper Waterproof Awning Light | 6500K Cool White RV Exterior Underglow Flexible",
-    "type": "candidate",
-    "score": 56.0,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZjjGKQS6L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3TDJB2C",
-    "walmart_url": "https://www.walmart.com/search?q=Feghezja+25FT+LED+RV+Strip+Lights+White%2C+12V+Camper+Waterpro"
   },
   {
     "asin": "B0H2TM819G",
@@ -10241,15 +10318,15 @@
     "walmart_url": "https://www.walmart.com/search?q=Double+Sided+Magnetic+Glass+Cleaner+with+Extension+Handle%EF%BC%8C1"
   },
   {
-    "asin": "B0H5BXVLD1",
-    "title": "TAYOVSZY RV Step Covers 4 Pack, Non‑Slip EVA Foam Camper Stair Mats, Gray | 24&quot;×7.5&quot; RV Step Carpet, Self Adhesive, Reflectiv",
+    "asin": "B0H7HD1FYS",
+    "title": "RV Step Covers 4 Pack, 19 x 7.5 Inch Non-Slip Trimmable Self-Adhesive 6mm EVA Foam RV Stair Cover with Reflective Strips, Camper Step Covers for Lippert &amp; MORryde Trailer Steps, Black",
     "type": "candidate",
     "score": 55.75,
-    "price": 26.98,
+    "price": 22.99,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uK0eF43nL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5BXVLD1",
-    "walmart_url": "https://www.walmart.com/search?q=TAYOVSZY+RV+Step+Covers+4+Pack%2C+Non%E2%80%91Slip+EVA+Foam+Camper+Sta"
+    "image_url": "https://m.media-amazon.com/images/I/81ouSadCOHL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7HD1FYS",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Step+Covers+4+Pack%2C+19+x+7.5+Inch+Non-Slip+Trimmable+Self"
   },
   {
     "asin": "B0H38C6RPL",
@@ -10305,6 +10382,28 @@
     "image_url": "https://m.media-amazon.com/images/I/61F9Tfps5AL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8XRLQLT",
     "walmart_url": "https://www.walmart.com/search?q=RV+External+Shower%2C+3%2F8+in+by+15-Foot+Coil+Hose+with+1%2F2+Inc"
+  },
+  {
+    "asin": "B0H6MVJFQH",
+    "title": "YESCAMP Manual RV Awning Complete Kit Retractable Camper Awning for RV or Trailers RV Roll Out Awning for Camper or 5th Wheel",
+    "type": "candidate",
+    "score": 55.75,
+    "price": 644.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Ii8-FDZqL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6MVJFQH",
+    "walmart_url": "https://www.walmart.com/search?q=YESCAMP+Manual+RV+Awning+Complete+Kit+Retractable+Camper+Awn"
+  },
+  {
+    "asin": "B0HGLV2ZD4",
+    "title": "1-Step Manual Retractable RV Steps, Telescopic Folding RV Entry Stair",
+    "type": "candidate",
+    "score": 55.75,
+    "price": 83.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61WJASMQYlL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGLV2ZD4",
+    "walmart_url": "https://www.walmart.com/search?q=1-Step+Manual+Retractable+RV+Steps%2C+Telescopic+Folding+RV+En"
   },
   {
     "asin": "B0GYD7ZFP5",
@@ -10406,15 +10505,26 @@
     "walmart_url": "https://www.walmart.com/search?q=Arsenda+18000+BTU+Rooftop+RV+Air+Conditioner%2C+110-120V+Non-D"
   },
   {
-    "asin": "B0HDGCLTG9",
-    "title": "Fawfose RV Outdoor Shower Box Kit with 1.5m Retractable Hose | - Synthetic Resin, Key Lock Door, 3 Water Modes, Fits van Moto",
+    "asin": "B0HCBRK8GM",
+    "title": "Safoner Heavy Duty Large RV Step Stool, Camper Adjustable Folding Steps | 22&quot; x 13&quot; Wide Platform, 2,000 lb Capacity, 5 Heigh",
+    "type": "candidate",
+    "score": 55.5,
+    "price": 109.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rAlOZSuyL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCBRK8GM",
+    "walmart_url": "https://www.walmart.com/search?q=Safoner+Heavy+Duty+Large+RV+Step+Stool%2C+Camper+Adjustable+Fo"
+  },
+  {
+    "asin": "B0HJLB7MH9",
+    "title": "RV Step Covers 4 Pack, 20&quot; x 8&quot; Non Slip RV Step Rugs with Reflective Strip | Reflective Safety Strip, Dirt &amp; Moisture Protec",
     "type": "candidate",
     "score": 55.4,
-    "price": 54.6,
+    "price": 29.99,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51zqwP+tT5L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDGCLTG9",
-    "walmart_url": "https://www.walmart.com/search?q=Fawfose+RV+Outdoor+Shower+Box+Kit+with+1.5m+Retractable+Hose"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/718lEPy+XWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJLB7MH9",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Step+Covers+4+Pack%2C+20%22+x+8%22+Non+Slip+RV+Step+Rugs+with+R"
   },
   {
     "asin": "B0H29BK8Z3",
@@ -10604,6 +10714,28 @@
     "walmart_url": "https://www.walmart.com/search?q=2026+Upgraded+Heavy+Duty+RV+Roof+Cover%2C3000PA+Waterproof+Cam"
   },
   {
+    "asin": "B0HFMG7N1N",
+    "title": "Worcest Safety RV Steps Stool, Folding Adjustable Step Stool, 500LBS, Black | 3 Heights,Non-slip wide platform &amp; rubber feet，",
+    "type": "candidate",
+    "score": 55.0,
+    "price": 26.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71pNWq14GvL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFMG7N1N",
+    "walmart_url": "https://www.walmart.com/search?q=Worcest+Safety+RV+Steps+Stool%2C+Folding+Adjustable+Step+Stool"
+  },
+  {
+    "asin": "B0H3TDJB2C",
+    "title": "Feghezja 25FT LED RV Strip Lights White, 12V Camper Waterproof Awning Light | 6500K Cool White RV Exterior Underglow Flexible",
+    "type": "candidate",
+    "score": 54.75,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZjjGKQS6L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3TDJB2C",
+    "walmart_url": "https://www.walmart.com/search?q=Feghezja+25FT+LED+RV+Strip+Lights+White%2C+12V+Camper+Waterpro"
+  },
+  {
     "asin": "B0H86K5LD2",
     "title": "RV Door Holder, 304 Stainless Steel Camper Door Latch, Adhesive &amp; Screws | RV Door Stop Accessories with No-Drill or Screw Mo",
     "type": "candidate",
@@ -10725,15 +10857,15 @@
     "walmart_url": "https://www.walmart.com/search?q=Wireless+CarPlay+Adapter+for+iPhone+and+Android+Auto%2C+Car+Pl"
   },
   {
-    "asin": "B0HCBRK8GM",
-    "title": "Safoner Heavy Duty Large RV Step Stool, Camper Adjustable Folding Steps | 22&quot; x 13&quot; Wide Platform, 2,000 lb Capacity, 5 Heigh",
+    "asin": "B0H8BP69DF",
+    "title": "Festisoul Rv Steps with Handrail, 5 Step Rv Stairs with Removable Handrails | Reflective Strips and Non Slip Strips，Camper St",
     "type": "candidate",
-    "score": 54.5,
-    "price": 109.99,
+    "score": 54.65,
+    "price": 0.0,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rAlOZSuyL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCBRK8GM",
-    "walmart_url": "https://www.walmart.com/search?q=Safoner+Heavy+Duty+Large+RV+Step+Stool%2C+Camper+Adjustable+Fo"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71e5eUyxf0L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8BP69DF",
+    "walmart_url": "https://www.walmart.com/search?q=Festisoul+Rv+Steps+with+Handrail%2C+5+Step+Rv+Stairs+with+Remo"
   },
   {
     "asin": "B0H6QVVZZT",
@@ -10934,17 +11066,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Tire+Covers%2C+Dual+Axle+Wheel+Cover+%282+Packs%29+Fits+27-30%22+"
   },
   {
-    "asin": "B0HFJCMZQ7",
-    "title": "500 lbs RV Step Stool, Foldable Adjustable Height Step with Wide Platform | Heavy Duty Folding Step Stool with Non-Slip Plast",
-    "type": "candidate",
-    "score": 53.75,
-    "price": 36.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+6leeWWsL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFJCMZQ7",
-    "walmart_url": "https://www.walmart.com/search?q=500+lbs+RV+Step+Stool%2C+Foldable+Adjustable+Height+Step+with+"
-  },
-  {
     "asin": "B0H6HMT2MM",
     "title": "Piufike RV Black Tank Treatment Pods, Enzyme Blend, Up to a 6-Month Supply | RV Toilet Treatment Pods for Routine Care; Pre-M",
     "type": "candidate",
@@ -11020,6 +11141,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uVrV5zxkL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2W4KJ8F",
     "walmart_url": "https://www.walmart.com/search?q=Vickmons+2+Pack+2.5+x+10+RV+Water+Filter+Replaces+FRE-10-GN+"
+  },
+  {
+    "asin": "B0H8MSHBWH",
+    "title": "RV Awning Repair Tape, 8 in x 21 ft Heavy-Duty RV Underbelly Tape, UV Guard | UV Resistant PVC RV Awning Cover Guard and Awni",
+    "type": "candidate",
+    "score": 53.65,
+    "price": 16.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81xxwzc77zL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8MSHBWH",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Repair+Tape%2C+8+in+x+21+ft+Heavy-Duty+RV+Underbelly"
   },
   {
     "asin": "B0HCPPYGTT",
@@ -11110,6 +11242,28 @@
     "walmart_url": "https://www.walmart.com/search?q=10+Pcs+Heavy+Duty+Camper+Leveling+Blocks+for+Single+and+Dual"
   },
   {
+    "asin": "B0HJR1C79H",
+    "title": "660Lbs Capacity Anti-Slip 3-Step RV Steps with Dual Handrails",
+    "type": "candidate",
+    "score": 53.4,
+    "price": 109.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/91lfeR9CjfL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJR1C79H",
+    "walmart_url": "https://www.walmart.com/search?q=660Lbs+Capacity+Anti-Slip+3-Step+RV+Steps+with+Dual+Handrail"
+  },
+  {
+    "asin": "B0H2TD9N6S",
+    "title": "Waterproof RV Electric Tongue Jack Cover for Trailer with D Ring Chain Hook | 600D Waterproof Camper Motorized Protective Cov",
+    "type": "candidate",
+    "score": 53.4,
+    "price": 12.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61GFI4Kow6L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2TD9N6S",
+    "walmart_url": "https://www.walmart.com/search?q=Waterproof+RV+Electric+Tongue+Jack+Cover+for+Trailer+with+D+"
+  },
+  {
     "asin": "B0H69DVPJN",
     "title": "7/8&quot; RV Trim Molding Insert, 100FT Heavy Duty RV Vinyl Trim, UV Resistant RV Weather Stripping Exterior, Flexible Molding Trim, Waterproof Screw Cover for Camper Travel Trailer Boat Channel, White",
     "type": "candidate",
@@ -11163,6 +11317,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71cWXRWiSdL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8YT5B24",
     "walmart_url": "https://www.walmart.com/search?q=Car+Air+Mattress+for+SUV+Truck+Back+Seat%2CCamping+Bed+with+Pu"
+  },
+  {
+    "asin": "B0H9Y1THYF",
+    "title": "SUPAREE Dual Color RV Porch Light, 180° Wide Angle LED RV Exterior Lights | Super Bright 12V Outdoor Light for RV Trailer Cam",
+    "type": "candidate",
+    "score": 53.25,
+    "price": 40.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uRUeqaxbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9Y1THYF",
+    "walmart_url": "https://www.walmart.com/search?q=SUPAREE+Dual+Color+RV+Porch+Light%2C+180%C2%B0+Wide+Angle+LED+RV+Ex"
   },
   {
     "asin": "B0HF4BRQZZ",
@@ -11242,26 +11407,26 @@
     "walmart_url": "https://www.walmart.com/search?q=YESCAMP+Motorized+RV+Awning+Complete+Kit+Retractable+Electri"
   },
   {
+    "asin": "B0H7J755QF",
+    "title": "1-Step Manual Drop down Step, Folding RV Step for Caravan, Trailer | Single-Level Step for Caravan and Trailer with a Ground",
+    "type": "candidate",
+    "score": 53.0,
+    "price": 59.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gLzopNhvL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7J755QF",
+    "walmart_url": "https://www.walmart.com/search?q=1-Step+Manual+Drop+down+Step%2C+Folding+RV+Step+for+Caravan%2C+T"
+  },
+  {
     "asin": "B0HC5WYJY9",
     "title": "OUTPRIZE 21“ Aluminum Manual RV Step, Folding Trailer Step, 400LBS Capacity | 1-Step, Heavy Duty, Steel Support Plate, Alumin",
     "type": "candidate",
-    "score": 53.0,
+    "score": 52.75,
     "price": 75.99,
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61hovK3ABtL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC5WYJY9",
     "walmart_url": "https://www.walmart.com/search?q=OUTPRIZE+21%E2%80%9C+Aluminum+Manual+RV+Step%2C+Folding+Trailer+Step%2C+"
-  },
-  {
-    "asin": "B0HGR25NTV",
-    "title": "Wawuwao Manual Retractable RV Steps, Single‑Step Aluminum Alloy Camper Step | RV Folding Entry Step with Anti‑Slip Tread &amp; Ye",
-    "type": "candidate",
-    "score": 52.8,
-    "price": 66.73,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WJASMQYlL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGR25NTV",
-    "walmart_url": "https://www.walmart.com/search?q=Wawuwao+Manual+Retractable+RV+Steps%2C+Single%E2%80%91Step+Aluminum+Al"
   },
   {
     "asin": "B0GZKY1228",
@@ -11328,17 +11493,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71VCoIvUzNL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7LM16MX",
     "walmart_url": "https://www.walmart.com/search?q=2+PCS+Car+Air+Conditioning+Wind+Deflector%2C+ABS+Rectangle+Car"
-  },
-  {
-    "asin": "B0H7J755QF",
-    "title": "1-Step Manual Drop down Step, Folding RV Step for Caravan, Trailer | Single-Level Step for Caravan and Trailer with a Ground",
-    "type": "candidate",
-    "score": 52.65,
-    "price": 59.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gLzopNhvL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7J755QF",
-    "walmart_url": "https://www.walmart.com/search?q=1-Step+Manual+Drop+down+Step%2C+Folding+RV+Step+for+Caravan%2C+T"
   },
   {
     "asin": "B0H5L1QWMD",
@@ -11539,6 +11693,17 @@
     "walmart_url": "https://www.walmart.com/search?q=YITAMOTOR+RV+Toilet+with+Enamel+Bowl%2C+Plastic+Toilet+Body%2C+P"
   },
   {
+    "asin": "B0HD74YHX7",
+    "title": "RV Camper Air Conditioner Cover RV AC Cover Reflective Strip 43inch | Weather Protection, For RV Campers",
+    "type": "candidate",
+    "score": 52.25,
+    "price": 20.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61G5FDfYbfL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HD74YHX7",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Camper+Air+Conditioner+Cover+RV+AC+Cover+Reflective+Strip"
+  },
+  {
     "asin": "B0H5K564MS",
     "title": "2026 Upgraded Heavy Duty RV Roof Cover,3000PA Waterproof Camper Top Cover with 16 Adjustable Buckles &amp; 16 Reflective Reinforc",
     "type": "candidate",
@@ -11660,17 +11825,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Deer+Forest+Camo+RV+Dual+Propane+Tank+Cover+Fits+30lb+Tanks+"
   },
   {
-    "asin": "B0HGLVK7YF",
-    "title": "Manual Retractable RV Steps, 2-Step Foldable Aluminum Alloy Camper Steps | Manual RV Step for Campervans, Off-Road Vehicles,",
-    "type": "candidate",
-    "score": 52.0,
-    "price": 64.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719j0RkRieL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGLVK7YF",
-    "walmart_url": "https://www.walmart.com/search?q=Manual+Retractable+RV+Steps%2C+2-Step+Foldable+Aluminum+Alloy+"
-  },
-  {
     "asin": "B0H7BFDNKT",
     "title": "HARVUNIX Multi-Purpose RV Roof Primer Paint, High Adhesion, White, 1Gallon | Repair Paint for EPDM, TPO, Fiberglass, Aluminum",
     "type": "candidate",
@@ -11680,6 +11834,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71SLRrDhfyL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7BFDNKT",
     "walmart_url": "https://www.walmart.com/search?q=HARVUNIX+Multi-Purpose+RV+Roof+Primer+Paint%2C+High+Adhesion%2C+"
+  },
+  {
+    "asin": "B0H44RPVR5",
+    "title": "Garvee RV Steps with 1 Handrail, Heavy-Duty 2-Step Hot Tub Steps, RV Trailer Steps with Non-Slip Mats, Portable Ladder Stairs",
+    "type": "candidate",
+    "score": 52.0,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71dDpRRTC9L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H44RPVR5",
+    "walmart_url": "https://www.walmart.com/search?q=Garvee+RV+Steps+with+1+Handrail%2C+Heavy-Duty+2-Step+Hot+Tub+S"
   },
   {
     "asin": "B0H8S53J45",
@@ -11790,6 +11955,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sxTmsvTxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5VVGWJT",
     "walmart_url": "https://www.walmart.com/search?q=RV+Toilet+Flush+Foot+Pedal+Upgrade+-+Compatible+with+Dometic"
+  },
+  {
+    "asin": "B0HBPBZWNW",
+    "title": "Moryzian R001832 Awning Arm Motor Fit for Carefree of Colorado RV 12V | Outdoor Camping RV Awnings 12v Drive Motor, For Compa",
+    "type": "candidate",
+    "score": 51.75,
+    "price": 67.89,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61fr+3xOGfL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBPBZWNW",
+    "walmart_url": "https://www.walmart.com/search?q=Moryzian+R001832+Awning+Arm+Motor+Fit+for+Carefree+of+Colora"
   },
   {
     "asin": "B0H1VL4VT4",
@@ -11935,28 +12111,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Universal+RV+Plug+Wall+Mount+Holder+4-slot+RV+Power+Adapter+"
   },
   {
-    "asin": "B0H44RPVR5",
-    "title": "Garvee RV Steps with 1 Handrail, Heavy-Duty 2-Step Hot Tub Steps, RV Trailer Steps with Non-Slip Mats, Portable Ladder Stairs",
-    "type": "candidate",
-    "score": 51.5,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71dDpRRTC9L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H44RPVR5",
-    "walmart_url": "https://www.walmart.com/search?q=Garvee+RV+Steps+with+1+Handrail%2C+Heavy-Duty+2-Step+Hot+Tub+S"
-  },
-  {
-    "asin": "B0H7XDW5C1",
-    "title": "KES All Metal RV Exterior Shower Box, Heavy Duty 18/8 Stainless Steel Build | No Deforming RV Outdoor Shower Box, EVA-Cushion",
-    "type": "candidate",
-    "score": 51.5,
-    "price": 82.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kFkE6pWbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7XDW5C1",
-    "walmart_url": "https://www.walmart.com/search?q=KES+All+Metal+RV+Exterior+Shower+Box%2C+Heavy+Duty+18%2F8+Stainl"
-  },
-  {
     "asin": "B0H6J9JYL9",
     "title": "RV Tire Covers Set of 4, Fits 26&quot;to 29&quot; Tires for Camper, Trailers",
     "type": "candidate",
@@ -11966,6 +12120,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71QWn1enGsL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6J9JYL9",
     "walmart_url": "https://www.walmart.com/search?q=RV+Tire+Covers+Set+of+4%2C+Fits+26%22to+29%22+Tires+for+Camper%2C+Tr"
+  },
+  {
+    "asin": "B0HGLVK7YF",
+    "title": "Manual Retractable RV Steps, 2-Step Foldable Aluminum Alloy Camper Steps | Manual RV Step for Campervans, Off-Road Vehicles,",
+    "type": "candidate",
+    "score": 51.25,
+    "price": 64.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719j0RkRieL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGLVK7YF",
+    "walmart_url": "https://www.walmart.com/search?q=Manual+Retractable+RV+Steps%2C+2-Step+Foldable+Aluminum+Alloy+"
   },
   {
     "asin": "B0H2VDX77M",
@@ -12067,6 +12232,28 @@
     "walmart_url": "https://www.walmart.com/search?q=6+Inch+RV+Bunk+Mattress%2C+28%22+x+72%22+RV+Mattress+Gel+Memory+Fo"
   },
   {
+    "asin": "B0H3TP4RYJ",
+    "title": "Multifunctional Insulated RV Trailer Door, 30&quot; W×36&quot; H Soundproof Waterproof Camper Door, Mosquito-Proof Ventilated Aluminum",
+    "type": "candidate",
+    "score": 51.25,
+    "price": 204.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71utBuJmwZL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3TP4RYJ",
+    "walmart_url": "https://www.walmart.com/search?q=Multifunctional+Insulated+RV+Trailer+Door%2C+30%22+W%C3%9736%22+H+Sound"
+  },
+  {
+    "asin": "B0HGQYVRVS",
+    "title": "Wawuwao Manual Retractable RV Steps, 2‑Step Aluminum Alloy Camper Steps | Camper Entry Step with Pre‑Drilled Holes for RV, Ca",
+    "type": "candidate",
+    "score": 51.25,
+    "price": 89.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DDBXeQTFL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGQYVRVS",
+    "walmart_url": "https://www.walmart.com/search?q=Wawuwao+Manual+Retractable+RV+Steps%2C+2%E2%80%91Step+Aluminum+Alloy+C"
+  },
+  {
     "asin": "B0H5JRX2WW",
     "title": "RV Awning Fabric Replacement for 17ft Camper Awnings, 20.8 oz/yd², Gray | 6-Layer Waterproof Vinyl, Heat-Sealed Edges, Pre-In",
     "type": "candidate",
@@ -12076,17 +12263,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YenIxE6jL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5JRX2WW",
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Fabric+Replacement+for+17ft+Camper+Awnings%2C+20.8+o"
-  },
-  {
-    "asin": "B0H6NNZD78",
-    "title": "RV Step, 2 Stairs with Left or Right Installed Handrail RV Stairs Step | Portable and Foldable Entry Steps for Camper Travel",
-    "type": "candidate",
-    "score": 51.0,
-    "price": 89.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71elTpjI5dL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6NNZD78",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Step%2C+2+Stairs+with+Left+or+Right+Installed+Handrail+RV+S"
   },
   {
     "asin": "B0H6M36XNT",
@@ -12298,17 +12474,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Black+Trailer+Door+Hinge+2026+Upgraded%2C+RV+Door+Hinge+198295"
   },
   {
-    "asin": "B0H5NRS2GD",
-    "title": "Rv Entry Door, 30“ x 36” Entry Door, Black Aluminum Alloy Teardrop Trailer Door with Tempered Glass and Key Lock for RVs, Cam",
-    "type": "candidate",
-    "score": 50.75,
-    "price": 286.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LHQTYhj0L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5NRS2GD",
-    "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+30%E2%80%9C+x+36%E2%80%9D+Entry+Door%2C+Black+Aluminum+Alloy+Te"
-  },
-  {
     "asin": "B0H8SJMNVP",
     "title": "Kadrama RV Tension Rods, Adjustable Cabinet Rods 12-19.5 in, 6 Pack | Non-Slip Rubber Ends, Tool-Free Setup, Metal Constructi",
     "type": "candidate",
@@ -12364,17 +12529,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Gzlozak+RV+Water+Tank+Flusher%2C+62%22+RV+Cleaning+Stick+with+Sh"
   },
   {
-    "asin": "B0HHJ2C2PL",
-    "title": "WPXITOO R001832 RV Awning Arm Motor 12V | Compatible with Carefree of Colorado Compass Longitude Altitude RV, Smooth Run, Sec",
-    "type": "candidate",
-    "score": 50.5,
-    "price": 88.95,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dUKeNJJmL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHJ2C2PL",
-    "walmart_url": "https://www.walmart.com/search?q=WPXITOO+R001832+RV+Awning+Arm+Motor+12V+%7C+Compatible+with+Ca"
-  },
-  {
     "asin": "B0H29DRN9Z",
     "title": "Gzlozak RV Cleaning Stick, RV Water Tank Flusher with Shut-Off Valve for RV Black Water Tank Cleaner and RV Toilet Treatment",
     "type": "candidate",
@@ -12417,6 +12571,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZDpdVTZkL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC1H92F1",
     "walmart_url": "https://www.walmart.com/search?q=2+Pack+6.5%22+RV+Ceiling+Vent+Cover+with+Adjustable+Louver+for"
+  },
+  {
+    "asin": "B0H6KHFZGD",
+    "title": "Maxztill RV Awning Fabric Replacement 13FT(Fabric 12&#x27;2&quot;) Checkered Pattern | Heavy-Duty Heat-Sealed Vinyl, UV &amp; Sunproof, Wea",
+    "type": "candidate",
+    "score": 50.5,
+    "price": 94.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81djXW9hJyL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6KHFZGD",
+    "walmart_url": "https://www.walmart.com/search?q=Maxztill+RV+Awning+Fabric+Replacement+13FT%28Fabric+12%272%22%29+Che"
   },
   {
     "asin": "B0H2Y6RW49",
@@ -12604,6 +12769,28 @@
     "image_url": "https://m.media-amazon.com/images/I/71v5by-J4UL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H372G4P1",
     "walmart_url": "https://www.walmart.com/search?q=Wireless+CarPlay+Adapter+for+iPhone+and+Android+Auto%2C+Car+Pl"
+  },
+  {
+    "asin": "B0HFNN6G8R",
+    "title": "RV Roof Cover Heavy Duty Waterproof Oxford Tarp, Black | 44.2× 10.8 ft | Roof-only protection with tie-down straps and storag",
+    "type": "candidate",
+    "score": 50.25,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/714aLikCepL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFNN6G8R",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Roof+Cover+Heavy+Duty+Waterproof+Oxford+Tarp%2C+Black+%7C+44."
+  },
+  {
+    "asin": "B0H3L2H8C6",
+    "title": "Rv Entry Door, RV Camper Teardrop Trailer Door 26&quot; W x 36&quot; H - Black Entry Door with Ventilation Replacement for Travel Trailer Motorhome Campervan Durable Aluminum Frame for RV Enthusiasts",
+    "type": "candidate",
+    "score": 50.25,
+    "price": 272.0,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61NaH0xMgNL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3L2H8C6",
+    "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+RV+Camper+Teardrop+Trailer+Door+26%22+W+x+36%22+H"
   },
   {
     "asin": "B0HCR5GFYG",
@@ -12804,6 +12991,28 @@
     "walmart_url": "https://www.walmart.com/search?q=Chririnla+Black+RV+Propane+Tank+Cover+for+Dual+40+lb+Tanks%2CC"
   },
   {
+    "asin": "B0HKMD2HDY",
+    "title": "Foldable RV Step Stool with Adjustable Handrail,Heavy-Duty Hot Tub Steps, 3 | Foldable 3/4 Step Ladder for Safety, Portable M",
+    "type": "candidate",
+    "score": 49.9,
+    "price": 120.8,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51mtijmeznL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKMD2HDY",
+    "walmart_url": "https://www.walmart.com/search?q=Foldable+RV+Step+Stool+with+Adjustable+Handrail%2CHeavy-Duty+H"
+  },
+  {
+    "asin": "B0HGF62S5D",
+    "title": "WHODNUS Manual Retractable RV Step,Foldable Camper Step Without Light | Camper Entry Step w/Yellow Stripes,17.95&quot; Pedal Lengt",
+    "type": "candidate",
+    "score": 49.9,
+    "price": 63.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61nyroYZQoL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGF62S5D",
+    "walmart_url": "https://www.walmart.com/search?q=WHODNUS+Manual+Retractable+RV+Step%2CFoldable+Camper+Step+With"
+  },
+  {
     "asin": "B0H4Q14Q8Z",
     "title": "Brosoneto Mountain Galaxy Car RV Propane Tank Cover, Waterproof Double 30LB Propane Tank Cover for Camper Trailer, All Weathe",
     "type": "candidate",
@@ -12925,17 +13134,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Pinelicorn+10+Gallon+RV+Water+Storage+Tank%2C+Rectangular+Wate"
   },
   {
-    "asin": "B0H8S18T1K",
-    "title": "WKQ Collapse RV Steps, Non-Slip Metal Camper Steps | Single Step RV Stairs Ladders, Aluminum Alloy RV Accessories for Outside",
-    "type": "candidate",
-    "score": 49.65,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711KDHJrOJL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8S18T1K",
-    "walmart_url": "https://www.walmart.com/search?q=WKQ+Collapse+RV+Steps%2C+Non-Slip+Metal+Camper+Steps+%7C+Single+"
-  },
-  {
     "asin": "B0H8PBXKSD",
     "title": "RV Water Inlet Funnel Wide Mouth 3D Printed Funnel for 1¼&#x27;&#x27; Inlet, Blue | Hands Free Screw On Cam Lock Design Funnel for 31.7",
     "type": "candidate",
@@ -12945,17 +13143,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71OUL0FvJXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8PBXKSD",
     "walmart_url": "https://www.walmart.com/search?q=RV+Water+Inlet+Funnel+Wide+Mouth+3D+Printed+Funnel+for+1%C2%BC%27%27+"
-  },
-  {
-    "asin": "B0H5K8QHT5",
-    "title": "AKMGCD 1 Kits RV Outdoor Shower Room Shower Privacy Shower Curtain with Suction Cup and Pole Set RV Accessories and Accessori",
-    "type": "candidate",
-    "score": 49.5,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+NWcqzkfL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5K8QHT5",
-    "walmart_url": "https://www.walmart.com/search?q=AKMGCD+1+Kits+RV+Outdoor+Shower+Room+Shower+Privacy+Shower+C"
   },
   {
     "asin": "B0HB41WFKR",
@@ -13068,15 +13255,15 @@
     "walmart_url": "https://www.walmart.com/search?q=5-Pack+6.5%22+RV+Ceiling+Vent+Covers%2C+Fits+4-5%2F8%22+Ducts%2C+White"
   },
   {
-    "asin": "B0HGRSG29J",
-    "title": "DUTTIETY 1 Step Manual Retractable RV Steps with Light Non-Slip Aluminum Alloy Camper Steps Foldable Aluminum Alloy Camper St",
+    "asin": "B0HDYS58LY",
+    "title": "RV Roof Cover Oxford Cloth Waterproof Camper Cover, Gray, 45 ft | Adjustable Straps, UV Rain Snow Protection, Foldable Storag",
     "type": "candidate",
-    "score": 49.5,
-    "price": 66.99,
+    "score": 49.4,
+    "price": 0.0,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sWr8-n3SL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGRSG29J",
-    "walmart_url": "https://www.walmart.com/search?q=DUTTIETY+1+Step+Manual+Retractable+RV+Steps+with+Light+Non-S"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mC4O1Wn9L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDYS58LY",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Roof+Cover+Oxford+Cloth+Waterproof+Camper+Cover%2C+Gray%2C+45"
   },
   {
     "asin": "B0H4GWRS8L",
@@ -13088,17 +13275,6 @@
     "image_url": "https://m.media-amazon.com/images/I/51NW5e1cZVL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4GWRS8L",
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Puller%2CTelescopic+RV+Awning+Pole%EF%BC%8CEasy+Reach+Campin"
-  },
-  {
-    "asin": "B0HGF62S5D",
-    "title": "WHODNUS Manual Retractable RV Step,Foldable Camper Step Without Light | Camper Entry Step w/Yellow Stripes,17.95&quot; Pedal Lengt",
-    "type": "candidate",
-    "score": 49.25,
-    "price": 63.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61nyroYZQoL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGF62S5D",
-    "walmart_url": "https://www.walmart.com/search?q=WHODNUS+Manual+Retractable+RV+Step%2CFoldable+Camper+Step+With"
   },
   {
     "asin": "B0H7HXJ1CF",
@@ -13145,15 +13321,15 @@
     "walmart_url": "https://www.walmart.com/search?q=Powerful+RV+Awning+Cleaner+Spray%2C+2026+New+Awning+Fabric+Cle"
   },
   {
-    "asin": "B0H6F3LT7L",
-    "title": "RV Screen Door Slider Panel 239061 Fits Most Popular RV Travel Trailers | RV Screen Door Parts, No Assembly, Easy Installatio",
+    "asin": "B0H7XDW5C1",
+    "title": "KES All Metal RV Exterior Shower Box, Heavy Duty 18/8 Stainless Steel Build | No Deforming RV Outdoor Shower Box, EVA-Cushion",
     "type": "candidate",
-    "score": 49.25,
-    "price": 19.99,
+    "score": 49.0,
+    "price": 82.99,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/516v4MSgvRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6F3LT7L",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Screen+Door+Slider+Panel+239061+Fits+Most+Popular+RV+Trav"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kFkE6pWbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7XDW5C1",
+    "walmart_url": "https://www.walmart.com/search?q=KES+All+Metal+RV+Exterior+Shower+Box%2C+Heavy+Duty+18%2F8+Stainl"
   },
   {
     "asin": "B0GY43GC6N",
@@ -13277,17 +13453,6 @@
     "walmart_url": "https://www.walmart.com/search?q=1LB+Propane+Tank+Holder+Wall+Mount+Bracket+for+16+oz+Propane"
   },
   {
-    "asin": "B0H3ZP7NTQ",
-    "title": "Patriotic Bigfoot Spare Tire Cover for RV Camper SUV Truck, Waterproof Polyester Tire Wheel Cover, Universal Fit Outdoor Spar",
-    "type": "candidate",
-    "score": 49.0,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Z1gK5WJYL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3ZP7NTQ",
-    "walmart_url": "https://www.walmart.com/search?q=Patriotic+Bigfoot+Spare+Tire+Cover+for+RV+Camper+SUV+Truck%2C+"
-  },
-  {
     "asin": "B0HB4SZZDL",
     "title": "BlueStars 12ft RV Propane Hose with POL x 1/4&quot; Inverted Male Flare | CSA-Certified Hose Extension Connects 20lb and 30lb LP T",
     "type": "candidate",
@@ -13319,6 +13484,39 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nJeWSweFL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHRNLSZZ",
     "walmart_url": "https://www.walmart.com/search?q=RV+Fiberglass+Gloss+Oil+Shine+Restorer%2C+100ML+RV+Oxidation+R"
+  },
+  {
+    "asin": "B0H6X9T7DN",
+    "title": "Huyopu Spare Tire Cover for RV Trailer, 14&quot; Waterproof PVC Leather Wheel Protector with American USA Flag, Dustproof Camper S",
+    "type": "candidate",
+    "score": 49.0,
+    "price": 9.29,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dk7PScBiL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6X9T7DN",
+    "walmart_url": "https://www.walmart.com/search?q=Huyopu+Spare+Tire+Cover+for+RV+Trailer%2C+14%22+Waterproof+PVC+L"
+  },
+  {
+    "asin": "B0HKH2858G",
+    "title": "RV Windshield Cover for Thor Motor Coach Chateau 28E 2019–2020, Class C Motorhome Front Windshield Sun Shade, Camper Exterior Window Snow Protector Cover",
+    "type": "candidate",
+    "score": 49.0,
+    "price": 52.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71Fnm29YomL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKH2858G",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Windshield+Cover+for+Thor+Motor+Coach+Chateau+28E+2019%E2%80%9320"
+  },
+  {
+    "asin": "B0HG9PH6ZT",
+    "title": "Onogefel 3-Step RV Steps with 2 Handrails | Heavy-Duty Construction, Non-Slip Mat, Stairs for Hot Tub, Camper, Trailer &amp; Porc",
+    "type": "candidate",
+    "score": 49.0,
+    "price": 108.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81j6SDVdZjL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG9PH6ZT",
+    "walmart_url": "https://www.walmart.com/search?q=Onogefel+3-Step+RV+Steps+with+2+Handrails+%7C+Heavy-Duty+Const"
   },
   {
     "asin": "B0H36GT6T6",
@@ -13354,6 +13552,28 @@
     "walmart_url": "https://www.walmart.com/search?q=DXYVBNYC+RV+Windshield+Curtains+for+Class+A+Motorhomes%2C+2+Pc"
   },
   {
+    "asin": "B0H5NRS2GD",
+    "title": "Rv Entry Door, 30“ x 36” Entry Door, Black Aluminum Alloy Teardrop Trailer Door with Tempered Glass and Key Lock for RVs, Cam",
+    "type": "candidate",
+    "score": 48.75,
+    "price": 286.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LHQTYhj0L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5NRS2GD",
+    "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+30%E2%80%9C+x+36%E2%80%9D+Entry+Door%2C+Black+Aluminum+Alloy+Te"
+  },
+  {
+    "asin": "B0H6F3LT7L",
+    "title": "RV Screen Door Slider Panel 239061 Fits Most Popular RV Travel Trailers | RV Screen Door Parts, No Assembly, Easy Installatio",
+    "type": "candidate",
+    "score": 48.75,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/516v4MSgvRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6F3LT7L",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Screen+Door+Slider+Panel+239061+Fits+Most+Popular+RV+Trav"
+  },
+  {
     "asin": "B0H32D4WRD",
     "title": "J-Shape RV Rain Gutter Drip Rail, 16 ft Self-Adhesive Flexible Trim Molding, Weather Stripping Roof Rain Diverter for RV, Car, Truck, Van, Boat &amp; Home Use (White)",
     "type": "candidate",
@@ -13374,17 +13594,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61ZfqiWeo7L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H82CWR1Z",
     "walmart_url": "https://www.walmart.com/search?q=RV+TV+Antenna+with+Built-in+Signal+Amplifier%2C+360%C2%B0+Omni+Dire"
-  },
-  {
-    "asin": "B0H9Y1THYF",
-    "title": "SUPAREE Dual Color RV Porch Light, 180° Wide Angle LED RV Exterior Lights | Super Bright 12V Outdoor Light for RV Trailer Cam",
-    "type": "candidate",
-    "score": 48.75,
-    "price": 40.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uRUeqaxbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9Y1THYF",
-    "walmart_url": "https://www.walmart.com/search?q=SUPAREE+Dual+Color+RV+Porch+Light%2C+180%C2%B0+Wide+Angle+LED+RV+Ex"
   },
   {
     "asin": "B0H6JDT6N5",
@@ -13440,17 +13649,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EXG3BLxJL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6WZGMWK",
     "walmart_url": "https://www.walmart.com/search?q=5+FT+Propane+Extension+Hose+DIY+Assembly+Kit+for+RVs+and+Tra"
-  },
-  {
-    "asin": "B0HGLV2ZD4",
-    "title": "1-Step Manual Retractable RV Steps, Telescopic Folding RV Entry Stair | Anti-Slip Aluminum Steps, Retractable Compact Storage",
-    "type": "candidate",
-    "score": 48.75,
-    "price": 83.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WJASMQYlL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGLV2ZD4",
-    "walmart_url": "https://www.walmart.com/search?q=1-Step+Manual+Retractable+RV+Steps%2C+Telescopic+Folding+RV+En"
   },
   {
     "asin": "B0H9TBGTC2",
@@ -13563,17 +13761,6 @@
     "walmart_url": "https://www.walmart.com/search?q=6+Inch+RV+Bunk+Mattress%2C+30%22+x+75%22+RV+Mattress+Gel+Memory+Fo"
   },
   {
-    "asin": "B0H2TD9N6S",
-    "title": "Waterproof RV Electric Tongue Jack Cover for Trailer with D Ring Chain Hook | 600D Waterproof Camper Motorized Protective Cov",
-    "type": "candidate",
-    "score": 48.75,
-    "price": 12.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61GFI4Kow6L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2TD9N6S",
-    "walmart_url": "https://www.walmart.com/search?q=Waterproof+RV+Electric+Tongue+Jack+Cover+for+Trailer+with+D+"
-  },
-  {
     "asin": "B0H3PBT39H",
     "title": "MTLEE 2 Pcs Heavy Duty Marine and RV Carnauba Wax with a Cleaning Towel",
     "type": "candidate",
@@ -13596,6 +13783,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Floor+Vent+Cover+2+Pack%2C+Magnetic+RV+Vent+Register+2%22x10%22"
   },
   {
+    "asin": "B0HGRSG29J",
+    "title": "DUTTIETY 1 Step Manual Retractable RV Steps with Light Non-Slip Aluminum Alloy Camper Steps Foldable Aluminum Alloy Camper St",
+    "type": "candidate",
+    "score": 48.5,
+    "price": 66.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sWr8-n3SL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGRSG29J",
+    "walmart_url": "https://www.walmart.com/search?q=DUTTIETY+1+Step+Manual+Retractable+RV+Steps+with+Light+Non-S"
+  },
+  {
     "asin": "B0H4QW86CR",
     "title": "BBTO RV Water Inlet Funnel 3.4 Inch Wide Mouth Fresh Filler, Loop, White | Travel Trailer Essentials Accessories, Quick Fill",
     "type": "candidate",
@@ -13605,17 +13803,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51tv2JyxatL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4QW86CR",
     "walmart_url": "https://www.walmart.com/search?q=BBTO+RV+Water+Inlet+Funnel+3.4+Inch+Wide+Mouth+Fresh+Filler%2C"
-  },
-  {
-    "asin": "B0H7HVKQB3",
-    "title": "Single Layer Aluminum RV Step 440.92LBS Heavy Duty Black Entry Foot Pedal | Carbon steel + aluminum + 304 stainless steel wit",
-    "type": "candidate",
-    "score": 48.5,
-    "price": 83.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+hmkFUboL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7HVKQB3",
-    "walmart_url": "https://www.walmart.com/search?q=Single+Layer+Aluminum+RV+Step+440.92LBS+Heavy+Duty+Black+Ent"
   },
   {
     "asin": "B0H3QXV7W3",
@@ -13904,6 +14091,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Hon%26Guan+Metal+RV+Exhaust+Vent+Cover+with+Mesh+and+Noise+Red"
   },
   {
+    "asin": "B0H3TBK9JX",
+    "title": "23×44 Inch RV Trailer Entry Door, Left &amp; Right Driver Passenger Side Teardrop Camper Doors, Aluminum Alloy Tempered Glass Wat",
+    "type": "candidate",
+    "score": 48.25,
+    "price": 204.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61fgomRACmL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3TBK9JX",
+    "walmart_url": "https://www.walmart.com/search?q=23%C3%9744+Inch+RV+Trailer+Entry+Door%2C+Left+%26+Right+Driver+Passen"
+  },
+  {
     "asin": "B0H25QRSCR",
     "title": "Aluminum RV Floor Vent Cover, 2&quot;x10&quot; RV Floor Register Vent Cover",
     "type": "candidate",
@@ -14091,6 +14289,28 @@
     "walmart_url": "https://www.walmart.com/search?q=G-Sunny+RV+Spray+Port+1%2F2%22+Quick+Connect+Adapter%2C+G1%2F2%22+%26+3%2F"
   },
   {
+    "asin": "B0H7HXKRDN",
+    "title": "Zonon 4 Pcs Awning Rail C Channel 60cm Trim Strips, C-Channel | Aluminum Channel for RV, Caravan, Campervan Awnings Camping T",
+    "type": "candidate",
+    "score": 48.0,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/817MlKrW6TL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7HXKRDN",
+    "walmart_url": "https://www.walmart.com/search?q=Zonon+4+Pcs+Awning+Rail+C+Channel+60cm+Trim+Strips%2C+C-Channe"
+  },
+  {
+    "asin": "B0H5K8QHT5",
+    "title": "AKMGCD 1 Kits RV Outdoor Shower Room Shower Privacy Shower Curtain with Suction Cup and Pole Set RV Accessories and Accessori",
+    "type": "candidate",
+    "score": 47.75,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+NWcqzkfL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5K8QHT5",
+    "walmart_url": "https://www.walmart.com/search?q=AKMGCD+1+Kits+RV+Outdoor+Shower+Room+Shower+Privacy+Shower+C"
+  },
+  {
     "asin": "B0HC7K5JQN",
     "title": "Propane Gas Cylinder Cover, 15kg Oxford Cloth Insulated Protector",
     "type": "candidate",
@@ -14177,17 +14397,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61JaCbOJ70L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6FCKB4T",
     "walmart_url": "https://www.walmart.com/search?q=Goonies+Never+Say+Die+Spare+Tire+Cover%2C+Pirate+Skull+Design%2C"
-  },
-  {
-    "asin": "B0H835N35D",
-    "title": "50&quot; RV Awning Inner Drive Arm for Solera Regal 69&quot; Awning 383152 Black | Fixes sagging, sticking &amp; uneven retraction. Rust-re",
-    "type": "candidate",
-    "score": 47.75,
-    "price": 63.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51M+pCFuKVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H835N35D",
-    "walmart_url": "https://www.walmart.com/search?q=50%22+RV+Awning+Inner+Drive+Arm+for+Solera+Regal+69%22+Awning+38"
   },
   {
     "asin": "B0HFXCFC3L",
@@ -14289,28 +14498,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Cididu+2Pcs+Trailer+Hitch+Storage+Bracket%2C+2+in+Hitch+Holder"
   },
   {
-    "asin": "B0HDS23XSM",
-    "title": "Dziwenul 30&#x27;&#x27;W*36&#x27;&#x27;H Teardrop Camper Door Camper Rv Entry Door, Right Entry | Aluminum Alloy &amp; Tempered Glass, 4* Keys, Sandw",
-    "type": "candidate",
-    "score": 47.65,
-    "price": 217.78,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71OM5dak3rL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDS23XSM",
-    "walmart_url": "https://www.walmart.com/search?q=Dziwenul+30%27%27W%2A36%27%27H+Teardrop+Camper+Door+Camper+Rv+Entry+Do"
-  },
-  {
-    "asin": "B0HFNN6G8R",
-    "title": "RV Roof Cover Heavy Duty Waterproof Oxford Tarp, Black | 44.2× 10.8 ft | Roof-only protection with tie-down straps and storag",
-    "type": "candidate",
-    "score": 47.5,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/714aLikCepL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFNN6G8R",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Roof+Cover+Heavy+Duty+Waterproof+Oxford+Tarp%2C+Black+%7C+44."
-  },
-  {
     "asin": "B0H2HPSWTF",
     "title": "Tudomro 2 Pcs Taupe Rv Windshield Curtain Set Drapery Hook Class A 120x40&#x27;&#x27; | Blackout Privacy Rv Motorhomes Window Curtain C",
     "type": "candidate",
@@ -14388,17 +14575,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Bald+Eagle+Spare+Tire+Cover+for+SUVs+RVs+Trailers+Campers+Tr"
   },
   {
-    "asin": "B0H6PBSKY1",
-    "title": "VEESTARL RV Step Scrubber, Camper Step Boot Brush Shoe Cleaner | Non‑Slip Camper Step Cover, RV step shoe cleaner, Cleans Dir",
-    "type": "candidate",
-    "score": 47.5,
-    "price": 34.59,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71yJ0b7rX7L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6PBSKY1",
-    "walmart_url": "https://www.walmart.com/search?q=VEESTARL+RV+Step+Scrubber%2C+Camper+Step+Boot+Brush+Shoe+Clean"
-  },
-  {
     "asin": "B0HB31HQ5L",
     "title": "3.94&quot; x 36 FT Flexible Solar Panel Mounting Tape, Weather-Resistant Butyl Rubber Tape for RV, Boat, Roof Flexible Solar Panel Installation",
     "type": "candidate",
@@ -14408,6 +14584,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71UsJYcPVjL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HB31HQ5L",
     "walmart_url": "https://www.walmart.com/search?q=3.94%22+x+36+FT+Flexible+Solar+Panel+Mounting+Tape%2C+Weather-Re"
+  },
+  {
+    "asin": "B0HF47QFT8",
+    "title": "Garvee RV Steps with Handrail | 3-Step Camper Entry Stairs | Heavy Duty Wide Anti-Slip Platform | Portable Metal Step for Tra",
+    "type": "candidate",
+    "score": 47.25,
+    "price": 89.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51xxLeOL3eL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF47QFT8",
+    "walmart_url": "https://www.walmart.com/search?q=Garvee+RV+Steps+with+Handrail+%7C+3-Step+Camper+Entry+Stairs+%7C"
   },
   {
     "asin": "B0H3KWHK84",
@@ -14520,17 +14707,6 @@
     "walmart_url": "https://www.walmart.com/search?q=6ft+Propane+Hose+Extension+with+Gauge%2C+POL+x+1%2F4%22+Male+NPT%2C+"
   },
   {
-    "asin": "B0H7WFX6DD",
-    "title": "Jxnaxvp RV Step Cover Brush for Camper Steps, Durable Bristle Scrubber Mat | RV Boot Brush Cleaner with Non-Slip Surface, Fit",
-    "type": "candidate",
-    "score": 47.25,
-    "price": 27.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vwtvdip4L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7WFX6DD",
-    "walmart_url": "https://www.walmart.com/search?q=Jxnaxvp+RV+Step+Cover+Brush+for+Camper+Steps%2C+Durable+Bristl"
-  },
-  {
     "asin": "B0H96KT78K",
     "title": "SEAFLO Manual Galley Sink Pump, 60 GPH, Marine RV Boat Caravan, SFGP-G60-02",
     "type": "candidate",
@@ -14540,17 +14716,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51yaNQt1f+L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H96KT78K",
     "walmart_url": "https://www.walmart.com/search?q=SEAFLO+Manual+Galley+Sink+Pump%2C+60+GPH%2C+Marine+RV+Boat+Carav"
-  },
-  {
-    "asin": "B0H5JGSD87",
-    "title": "RV Water Heater Door 15&quot; x 15&quot;, White Replacement Door Kit for OEVANT Tankless RV Water Heaters, Door Only",
-    "type": "candidate",
-    "score": 47.25,
-    "price": 21.48,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/511Jbd+Y0gL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5JGSD87",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Water+Heater+Door+15%22+x+15%22%2C+White+Replacement+Door+Kit+f"
   },
   {
     "asin": "B0H7WWRSH1",
@@ -14718,6 +14883,28 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Blinds+Repair+Kit%2C+Pleated+Window+Shades+Kit+for+Camper+V"
   },
   {
+    "asin": "B0H7HVKQB3",
+    "title": "Single Layer Aluminum RV Step 440.92LBS Heavy Duty Black Entry Foot Pedal | Carbon steel + aluminum + 304 stainless steel wit",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 83.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+hmkFUboL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7HVKQB3",
+    "walmart_url": "https://www.walmart.com/search?q=Single+Layer+Aluminum+RV+Step+440.92LBS+Heavy+Duty+Black+Ent"
+  },
+  {
+    "asin": "B0H6NNZD78",
+    "title": "RV Step, 2 Stairs with Left or Right Installed Handrail RV Stairs Step | Portable and Foldable Entry Steps for Camper Travel",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 89.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71elTpjI5dL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6NNZD78",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Step%2C+2+Stairs+with+Left+or+Right+Installed+Handrail+RV+S"
+  },
+  {
     "asin": "B0GF27BWJ6",
     "title": "AHD1080P Backup Camera for Cars, CCD Sensor (Outperforms CMOS),Black",
     "type": "candidate",
@@ -14738,17 +14925,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61unNPAq6SL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4GJJPG4",
     "walmart_url": "https://www.walmart.com/search?q=SIKIKU+637360+RV+Refrigerator+Temp+Monitor+Control+Kit+for+6"
-  },
-  {
-    "asin": "B0H3TP4RYJ",
-    "title": "Multifunctional Insulated RV Trailer Door, 30&quot; W×36&quot; H Soundproof Waterproof Camper Door, Mosquito-Proof Ventilated Aluminum",
-    "type": "candidate",
-    "score": 46.75,
-    "price": 204.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71utBuJmwZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3TP4RYJ",
-    "walmart_url": "https://www.walmart.com/search?q=Multifunctional+Insulated+RV+Trailer+Door%2C+30%22+W%C3%9736%22+H+Sound"
   },
   {
     "asin": "B0H9YTXKCR",
@@ -14861,6 +15037,28 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Extension+Cord+25+FT+50+Amp+NEMA+14-50P+to+14-50R+Heavy+D"
   },
   {
+    "asin": "B0H8R52L32",
+    "title": "Tangpxta RV Fresh Water Tank Filling Funnel | Water Fill Accessory, RV Compatible,Camping water filling adapter",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 9.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61pzpeYF7IL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8R52L32",
+    "walmart_url": "https://www.walmart.com/search?q=Tangpxta+RV+Fresh+Water+Tank+Filling+Funnel+%7C+Water+Fill+Acc"
+  },
+  {
+    "asin": "B0HKF97VZT",
+    "title": "RV Entry Door with Frame for Teardrop Camper Trailer 23&quot;x 44&quot; | Solid Tempered Glass Fit Thickness 0.7-0.78in, Frame Resists",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 277.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6155p8A+LGL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKF97VZT",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Entry+Door+with+Frame+for+Teardrop+Camper+Trailer+23%22x+44"
+  },
+  {
     "asin": "B0H9XSR655",
     "title": "Neptuiby Car Window Fan Solar Powered Car Vent Fan Dual-mode Blow/suction Ventilator Solar Fans for Vehicles Truck RV Backsea",
     "type": "candidate",
@@ -14870,6 +15068,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71p9+PUPXwL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9XSR655",
     "walmart_url": "https://www.walmart.com/search?q=Neptuiby+Car+Window+Fan+Solar+Powered+Car+Vent+Fan+Dual-mode"
+  },
+  {
+    "asin": "B0HDS23XSM",
+    "title": "Dziwenul 30&#x27;&#x27;W*36&#x27;&#x27;H Teardrop Camper Door Camper Rv Entry Door, Right Entry | Aluminum Alloy &amp; Tempered Glass, 4* Keys, Sandw",
+    "type": "candidate",
+    "score": 46.5,
+    "price": 217.78,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71OM5dak3rL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDS23XSM",
+    "walmart_url": "https://www.walmart.com/search?q=Dziwenul+30%27%27W%2A36%27%27H+Teardrop+Camper+Door+Camper+Rv+Entry+Do"
   },
   {
     "asin": "B0H6PXDVVF",
@@ -15125,17 +15334,6 @@
     "walmart_url": "https://www.walmart.com/search?q=4%22+x+20FT+RV+Underbelly+Tape%2C+Waterproof+Flexible+Belly+Repa"
   },
   {
-    "asin": "B0H8R52L32",
-    "title": "Tangpxta RV Fresh Water Tank Filling Funnel | Water Fill Accessory, RV Compatible,Camping water filling adapter",
-    "type": "candidate",
-    "score": 46.25,
-    "price": 9.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61pzpeYF7IL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8R52L32",
-    "walmart_url": "https://www.walmart.com/search?q=Tangpxta+RV+Fresh+Water+Tank+Filling+Funnel+%7C+Water+Fill+Acc"
-  },
-  {
     "asin": "B0H2JD7L27",
     "title": "RV Extension Cord 15 FT 30 Amp NEMA TT-30P to TT-30R Heavy Duty 10 Gauge",
     "type": "candidate",
@@ -15255,28 +15453,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MuH2+LReL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2LZ6LTP",
     "walmart_url": "https://www.walmart.com/search?q=Dizlod+31708+Blade+Seal+and+Flange+Seal+Replacement+Kit+for+"
-  },
-  {
-    "asin": "B0H97YC9W6",
-    "title": "418203 RV Awning Drive Head Gear Pack for 373566 266149 Camper Awning Parts | Compatible with Lippert Solera Awning Systems,",
-    "type": "candidate",
-    "score": 46.25,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MWAW5zzYL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H97YC9W6",
-    "walmart_url": "https://www.walmart.com/search?q=418203+RV+Awning+Drive+Head+Gear+Pack+for+373566+266149+Camp"
-  },
-  {
-    "asin": "B0H7WN3KG4",
-    "title": "Aepiraza Class A RV Side Mirror Covers for Motorhomes, 2Pcs Silver 26Inch Motorhome Side Mirror Covers with Drawstrings, Wint",
-    "type": "candidate",
-    "score": 46.25,
-    "price": 31.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61jQehMeoJL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7WN3KG4",
-    "walmart_url": "https://www.walmart.com/search?q=Aepiraza+Class+A+RV+Side+Mirror+Covers+for+Motorhomes%2C+2Pcs+"
   },
   {
     "asin": "B0H8S1N7G3",
@@ -15444,17 +15620,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Dinette+Cushion+Set+with+PU+Leather+Covers%2C+Black%2C+36%22"
   },
   {
-    "asin": "B0H6X9T7DN",
-    "title": "Huyopu Spare Tire Cover for RV Trailer, 14&quot; Waterproof PVC Leather Wheel Protector with American USA Flag, Dustproof Camper S",
-    "type": "candidate",
-    "score": 46.0,
-    "price": 9.29,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dk7PScBiL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6X9T7DN",
-    "walmart_url": "https://www.walmart.com/search?q=Huyopu+Spare+Tire+Cover+for+RV+Trailer%2C+14%22+Waterproof+PVC+L"
-  },
-  {
     "asin": "B0HFMCM4HL",
     "title": "RV Wye Sewer Hose Fittings &amp; 4-in-1 Adapter -Built-In Gaskets for Odor",
     "type": "candidate",
@@ -15477,15 +15642,15 @@
     "walmart_url": "https://www.walmart.com/search?q=12V+Marine+Boat+LED+Light+Strip%2C+2+Pack+6.56FT+IP68+Fully+Wa"
   },
   {
-    "asin": "B0H3TBK9JX",
-    "title": "23×44 Inch RV Trailer Entry Door, Left &amp; Right Driver Passenger Side Teardrop Camper Doors, Aluminum Alloy Tempered Glass Wat",
+    "asin": "B0H5JGSD87",
+    "title": "RV Water Heater Door 15&quot; x 15&quot;, White Replacement Door Kit for OEVANT Tankless RV Water Heaters, Door Only",
     "type": "candidate",
     "score": 45.75,
-    "price": 204.0,
+    "price": 21.48,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61fgomRACmL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3TBK9JX",
-    "walmart_url": "https://www.walmart.com/search?q=23%C3%9744+Inch+RV+Trailer+Entry+Door%2C+Left+%26+Right+Driver+Passen"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/511Jbd+Y0gL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5JGSD87",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Water+Heater+Door+15%22+x+15%22%2C+White+Replacement+Door+Kit+f"
   },
   {
     "asin": "B0H3QD5F91",
@@ -15541,17 +15706,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61AMFt85a6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGFVVR2Y",
     "walmart_url": "https://www.walmart.com/search?q=UNICEU+Dark+Skull+Print+Dual+Propane+Tank+Cover+for+RV+Campe"
-  },
-  {
-    "asin": "B0HKF97VZT",
-    "title": "RV Entry Door with Frame for Teardrop Camper Trailer 23&quot;x 44&quot; | Solid Tempered Glass Fit Thickness 0.7-0.78in, Frame Resists",
-    "type": "candidate",
-    "score": 45.75,
-    "price": 277.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6155p8A+LGL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKF97VZT",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Entry+Door+with+Frame+for+Teardrop+Camper+Trailer+23%22x+44"
   },
   {
     "asin": "B0H75C99Y2",
@@ -15686,6 +15840,28 @@
     "walmart_url": "https://www.walmart.com/search?q=Cowhorse+4+Inch+Aluminum+RV+Door+Catch+%7C+Heavy+Duty+Trailer+"
   },
   {
+    "asin": "B0HLL4J5KN",
+    "title": "MARMERDO Rv Entry Door, 26 X 72 Inch Right Hand, White Aluminum Frame | Tempered Glass Window, Built-in Screen Door &amp; Lock, R",
+    "type": "candidate",
+    "score": 45.5,
+    "price": 538.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71r5yJWX9gL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLL4J5KN",
+    "walmart_url": "https://www.walmart.com/search?q=MARMERDO+Rv+Entry+Door%2C+26+X+72+Inch+Right+Hand%2C+White+Alumi"
+  },
+  {
+    "asin": "B0HHJ2C2PL",
+    "title": "WPXITOO R001832 RV Awning Arm Motor 12V | Compatible with Carefree of Colorado Compass Longitude Altitude RV, Smooth Run, Sec",
+    "type": "candidate",
+    "score": 45.25,
+    "price": 88.95,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dUKeNJJmL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHJ2C2PL",
+    "walmart_url": "https://www.walmart.com/search?q=WPXITOO+R001832+RV+Awning+Arm+Motor+12V+%7C+Compatible+with+Ca"
+  },
+  {
     "asin": "B0H8384SSG",
     "title": "Butyl Sealant Tape 13Ft for Auto, RV, Marine &amp; Windshield （2 piece） | Versatile 4-in-1 – Automotive, RV, Marine &amp; Home window",
     "type": "candidate",
@@ -15818,15 +15994,15 @@
     "walmart_url": "https://www.walmart.com/search?q=Tarp+Clips+Heavy+Duty+Lock+Grip%2C6-Row+Teeth+Alligator+Clamp+"
   },
   {
-    "asin": "B0H941TJ67",
-    "title": "2-Step RV Steps with Dual Handrails and 4 Locking Wheels high Storage 350lb | Indoor Reach for High Storage: Kitchen cabinets",
+    "asin": "B0HGR25NTV",
+    "title": "Manual Retractable RV Steps, Single‑Step Aluminum Alloy Camper Step",
     "type": "candidate",
-    "score": 45.0,
-    "price": 84.99,
+    "score": 45.15,
+    "price": 66.73,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WwCWRgKML._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H941TJ67",
-    "walmart_url": "https://www.walmart.com/search?q=2-Step+RV+Steps+with+Dual+Handrails+and+4+Locking+Wheels+hig"
+    "image_url": "https://m.media-amazon.com/images/I/61WJASMQYlL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGR25NTV",
+    "walmart_url": "https://www.walmart.com/search?q=Manual+Retractable+RV+Steps%2C+Single%E2%80%91Step+Aluminum+Alloy+Camp"
   },
   {
     "asin": "B0H2L9VNH4",
@@ -15961,15 +16137,15 @@
     "walmart_url": "https://www.walmart.com/search?q=GIMWA+2.6+Gal+Collapsible+Baby+Bottle+Wash+Basin+with+Drain+"
   },
   {
-    "asin": "B0HG9PH6ZT",
-    "title": "Onogefel 3-Step RV Steps with 2 Handrails | Heavy-Duty Construction, Non-Slip Mat, Stairs for Hot Tub, Camper, Trailer &amp; Porc",
+    "asin": "B0H7WFX6DD",
+    "title": "Jxnaxvp RV Step Cover Brush for Camper Steps, Durable Bristle Scrubber Mat | RV Boot Brush Cleaner with Non-Slip Surface, Fit",
     "type": "candidate",
     "score": 44.75,
-    "price": 98.99,
+    "price": 27.99,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81j6SDVdZjL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG9PH6ZT",
-    "walmart_url": "https://www.walmart.com/search?q=Onogefel+3-Step+RV+Steps+with+2+Handrails+%7C+Heavy-Duty+Const"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vwtvdip4L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7WFX6DD",
+    "walmart_url": "https://www.walmart.com/search?q=Jxnaxvp+RV+Step+Cover+Brush+for+Camper+Steps%2C+Durable+Bristl"
   },
   {
     "asin": "B0H8X6LFCT",
@@ -16093,6 +16269,28 @@
     "walmart_url": "https://www.walmart.com/search?q=Beach+Scene+Spare+Tire+Cover+for+RV+Camper+SUV+Truck%2C+Waterp"
   },
   {
+    "asin": "B0H991BWTH",
+    "title": "2Pcs Black Awning Suction Cup Lock Sunshade Accessories | Stable lock suction cups support sunshade frames, portable camping",
+    "type": "candidate",
+    "score": 44.5,
+    "price": 9.37,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41m2NnK2T2L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H991BWTH",
+    "walmart_url": "https://www.walmart.com/search?q=2Pcs+Black+Awning+Suction+Cup+Lock+Sunshade+Accessories+%7C+St"
+  },
+  {
+    "asin": "B0HCP2DC3D",
+    "title": "Jusen Spare Tire Cover for RV Trailer, Waterproof Leather Bigfoot American Flag Spare Tire Cover Protectors",
+    "type": "candidate",
+    "score": 44.5,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71oDxZ3xX1L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCP2DC3D",
+    "walmart_url": "https://www.walmart.com/search?q=Jusen+Spare+Tire+Cover+for+RV+Trailer%2C+Waterproof+Leather+Bi"
+  },
+  {
     "asin": "B0H82Q1KT2",
     "title": "RV TV Antenna Roof Mount, 360° Omni Directional Reception with Built-in Signal Amplifier, Outdoor HDTV Antenna for Camper, Motorhome, Travel Trailer &amp; Boat, Supports 4K 1080P, 16.4FT RG6 Cable（Black）",
     "type": "candidate",
@@ -16181,17 +16379,6 @@
     "walmart_url": "https://www.walmart.com/search?q=0.6%22+55FT+RV+White+Vinyl+Insert+Trim+Molding+Screw+Cover"
   },
   {
-    "asin": "B0H3T5QLF3",
-    "title": "28&quot; x 38&quot; RV Trailer Entry Door, Left &amp; Right Side Teardrop Camper Door, Aluminum Alloy Tempered Glass Waterproof Insulated R",
-    "type": "candidate",
-    "score": 44.25,
-    "price": 476.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dWRH8sqQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3T5QLF3",
-    "walmart_url": "https://www.walmart.com/search?q=28%22+x+38%22+RV+Trailer+Entry+Door%2C+Left+%26+Right+Side+Teardrop+"
-  },
-  {
     "asin": "B0GVPGMDXJ",
     "title": "E227 RV Door Stop, 2.25&quot; RV Entry Door Rubber Bumper, 2 Pack | Fit for RV Door Stopper for Outside Door, 2.25&quot; RV Door Bumper",
     "type": "candidate",
@@ -16223,6 +16410,17 @@
     "image_url": "https://m.media-amazon.com/images/I/51U+RmrEb8L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDJYCHB5",
     "walmart_url": "https://www.walmart.com/search?q=Acouto+RV+Gas+Bottle+Wrench+Dual+Head+Non+Slip+Nylon+Grip"
+  },
+  {
+    "asin": "B0H568YL25",
+    "title": "Heavy Duty Suction Cup Hooks 4PCS with Tarp Clips for Car Awning Camping | Strong Suction cup Hooks Tie-Down for Boat/RV/SUV/",
+    "type": "candidate",
+    "score": 44.0,
+    "price": 15.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/717GARC6XGL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H568YL25",
+    "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+Suction+Cup+Hooks+4PCS+with+Tarp+Clips+for+Car+Aw"
   },
   {
     "asin": "B0H9S59BVS",
@@ -16533,17 +16731,6 @@
     "walmart_url": "https://www.walmart.com/search?q=G381+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
   },
   {
-    "asin": "B0H9L8KV8Y",
-    "title": "SKIKIO 12 Pack RV Awning Light Clips with Storage Bag | Heavy Duty S-Shaped, for String Lights, Canopy &amp; Patio Use, Includes",
-    "type": "candidate",
-    "score": 43.5,
-    "price": 9.98,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gc8+Ph7RL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9L8KV8Y",
-    "walmart_url": "https://www.walmart.com/search?q=SKIKIO+12+Pack+RV+Awning+Light+Clips+with+Storage+Bag+%7C+Heav"
-  },
-  {
     "asin": "B0HFWZ1P2L",
     "title": "2pcs Black RV Waste Valve T‑Handle, Replacement Sewer Dump Valve Handle | Universal for Valterra &amp; Camco Tank Valves, metal w",
     "type": "candidate",
@@ -16630,6 +16817,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ovT+PNLjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDNDNPFD",
     "walmart_url": "https://www.walmart.com/search?q=CHOUPIJIANG+RV+Bathroom+Faucets%2C+4+inch+Dual+Handle+Matte+Bl"
+  },
+  {
+    "asin": "B0HH96NMFH",
+    "title": "RV Awning Pull Straps, 901012 27&quot; RV Window Awning Replacement Pull Strap | RV Awning Straps for Manual Universal RV/Travel T",
+    "type": "candidate",
+    "score": 43.5,
+    "price": 18.88,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EXBoTQNqL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH96NMFH",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Pull+Straps%2C+901012+27%22+RV+Window+Awning+Replaceme"
   },
   {
     "asin": "B0H2ZJ61FM",
@@ -16731,6 +16929,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Wiper+Blade+%26+Mirror+Covers+Set+Winter+Protection+for+Cla"
   },
   {
+    "asin": "B0H5Q8N9PT",
+    "title": "Rv Entry Door, 28“ x 38” Entry Door, Black Aluminum Alloy Teardrop Trailer Door with Tempered Glass and Key Lock for RVs, Cam",
+    "type": "candidate",
+    "score": 43.25,
+    "price": 268.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51c1YfpcUcL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5Q8N9PT",
+    "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+28%E2%80%9C+x+38%E2%80%9D+Entry+Door%2C+Black+Aluminum+Alloy+Te"
+  },
+  {
     "asin": "B0HD6LLV2S",
     "title": "CH751 RV Camper Door Key Replacement for Travel Trailers Locks 4PK | Replacement for Original RV Locks,Compatible With Camper",
     "type": "candidate",
@@ -16773,17 +16982,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/4128K9S+EmL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9RSYW37",
     "walmart_url": "https://www.walmart.com/search?q=UnibLn+7+Inch+White+Round+RV+Ceiling+Air+Conditioner+Vent.+%7C"
-  },
-  {
-    "asin": "B0HH96NMFH",
-    "title": "RV Awning Pull Straps, 901012 27&quot; RV Window Awning Replacement Pull Strap | RV Awning Straps for Manual Universal RV/Travel T",
-    "type": "candidate",
-    "score": 43.0,
-    "price": 18.88,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EXBoTQNqL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH96NMFH",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Pull+Straps%2C+901012+27%22+RV+Window+Awning+Replaceme"
   },
   {
     "asin": "B0H2HQLFHN",
@@ -16852,6 +17050,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Marine+Sealant+and+Adhesive%2C+Waterproof+Marine+Grade+Caulk%2C+"
   },
   {
+    "asin": "B0H98VDRH9",
+    "title": "TEBEDI 26&quot; x 72&quot; RV Entry Door Aluminum Powder Coated White | Screen &amp; Lock",
+    "type": "candidate",
+    "score": 42.75,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+ctnGj-FL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H98VDRH9",
+    "walmart_url": "https://www.walmart.com/search?q=TEBEDI+26%22+x+72%22+RV+Entry+Door+Aluminum+Powder+Coated+White+"
+  },
+  {
     "asin": "B0H6MNHZ1V",
     "title": "TTLCFP 2 PCS 4&quot; RV Bumper Plug End Cap, 4x4 Inch Car Sewer Hose Protective End Cover with Vent Holes, Universal Square Bumper",
     "type": "candidate",
@@ -16872,6 +17081,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61J4WFdUVBL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBBJB4QP",
     "walmart_url": "https://www.walmart.com/search?q=RV+Sewer+Termination+Adapter+Replacement+for+T1029-2%2C+3%22+Bay"
+  },
+  {
+    "asin": "B0H941TJ67",
+    "title": "2-Step RV Steps with Dual Handrails and 4 Locking Wheels high Storage 350lb | Indoor Reach for High Storage: Kitchen cabinets",
+    "type": "candidate",
+    "score": 42.55,
+    "price": 84.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WwCWRgKML._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H941TJ67",
+    "walmart_url": "https://www.walmart.com/search?q=2-Step+RV+Steps+with+Dual+Handrails+and+4+Locking+Wheels+hig"
   },
   {
     "asin": "B0H883YM5S",
@@ -17105,6 +17325,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Pushglossy+1-1%2F2%22+ID+x+20FT+Sanitation+Hose+for+Marine+Rv+Se"
   },
   {
+    "asin": "B0HJYTZVBB",
+    "title": "4x4 Portable Deck Landing, Assembled RV Stairs, 21 in Straight",
+    "type": "candidate",
+    "score": 42.0,
+    "price": 2399.0,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/91QBAZpiofL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJYTZVBB",
+    "walmart_url": "https://www.walmart.com/search?q=4x4+Portable+Deck+Landing%2C+Assembled+RV+Stairs%2C+21+in+Straig"
+  },
+  {
     "asin": "B0H1C63M13",
     "title": "31.5&quot; RV Awning Pitch Arm, Compatible with Solera Regal 69&quot; Assemblies | Perfect Fitment, Cost-Effective Fix, Lightweight &amp; S",
     "type": "candidate",
@@ -17193,28 +17424,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Safoner+Aluminum+RV+Floor+Register+4%22x10%22%2C+Removable+Cover%2C+"
   },
   {
-    "asin": "B0H5Q8N9PT",
-    "title": "Rv Entry Door, 28“ x 38” Entry Door, Black Aluminum Alloy Teardrop Trailer Door with Tempered Glass and Key Lock for RVs, Campers, Horse Trailers, Cargo Trailers (28&#x27;&#x27;Wx38&#x27;&#x27;H, Right)",
-    "type": "candidate",
-    "score": 41.75,
-    "price": 268.0,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/51c1YfpcUcL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5Q8N9PT",
-    "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+28%E2%80%9C+x+38%E2%80%9D+Entry+Door%2C+Black+Aluminum+Alloy+Te"
-  },
-  {
-    "asin": "B0H3L2H8C6",
-    "title": "Rv Entry Door, RV Camper Teardrop Trailer Door 26&quot; W x 36&quot; H - Black Entry Door with Ventilation Replacement for Travel Trail",
-    "type": "candidate",
-    "score": 41.75,
-    "price": 272.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61NaH0xMgNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3L2H8C6",
-    "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+RV+Camper+Teardrop+Trailer+Door+26%22+W+x+36%22+H"
-  },
-  {
     "asin": "B0H2HS12TM",
     "title": "23&#x27;&#x27;Wx44&#x27;&#x27;H Right Side RV Entry Door, Camper Teardrop Trailer Entry Door | 23&#x27;&#x27;Wx44&#x27;&#x27;H Right Side RV Entry Door, Camper Teard",
     "type": "candidate",
@@ -17246,17 +17455,6 @@
     "image_url": "https://m.media-amazon.com/images/I/712qZym-o2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZ1RZMPM",
     "walmart_url": "https://www.walmart.com/search?q=4+Pcs+Trailer+Drop+Foot+Jack+Replacement+Pin+9%2F16+Inch+Diame"
-  },
-  {
-    "asin": "B0H7HXKRDN",
-    "title": "Zonon 4 Pcs Awning Rail C Channel 60cm Trim Strips, C-Channel | Aluminum Channel for RV, Caravan, Campervan Awnings Camping T",
-    "type": "candidate",
-    "score": 41.75,
-    "price": 28.49,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/817MlKrW6TL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7HXKRDN",
-    "walmart_url": "https://www.walmart.com/search?q=Zonon+4+Pcs+Awning+Rail+C+Channel+60cm+Trim+Strips%2C+C-Channe"
   },
   {
     "asin": "B0H1R6RJPK",
@@ -17336,6 +17534,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Pniwuno+12V+Marine+Boat+LED+Light+Strip%2C+Cuttable+IP70+Water"
   },
   {
+    "asin": "B0H835N35D",
+    "title": "50&quot; RV Awning Inner Drive Arm for Solera Regal 69&quot; Awning 383152 Black | Fixes sagging, sticking &amp; uneven retraction. Rust-re",
+    "type": "candidate",
+    "score": 41.25,
+    "price": 60.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51M+pCFuKVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H835N35D",
+    "walmart_url": "https://www.walmart.com/search?q=50%22+RV+Awning+Inner+Drive+Arm+for+Solera+Regal+69%22+Awning+38"
+  },
+  {
     "asin": "B0H96VJHKJ",
     "title": "Flame King 0–90 Ohm Twin-Site Remote Dial Gauge for Vertical Non RV Propane Tanks (Bolt-On Design)",
     "type": "candidate",
@@ -17402,15 +17611,15 @@
     "walmart_url": "https://www.walmart.com/search?q=TNAIYH+2PCS+Car+Camera+Lens+Protector%2C+360%C2%B0+All-Round+Protec"
   },
   {
-    "asin": "B0H7B9PPNG",
-    "title": "RV Entry Door 26&quot; W x 36&quot; H Camper Teardrop Door for Driver Side | Aluminum Alloy Teardrop Trailer Door with Tempered Glass a",
+    "asin": "B0HBBT1CMZ",
+    "title": "WUMZIJ 301702 RV Entry Step Control Module and 300-1406 Motor Kit | Fit for Stromberg Carlson Lippert Kwikee Frigette Entry S",
     "type": "candidate",
-    "score": 41.15,
-    "price": 290.0,
+    "score": 41.25,
+    "price": 130.99,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61pAsbwpW8L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7B9PPNG",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Entry+Door+26%22+W+x+36%22+H+Camper+Teardrop+Door+for+Driver+"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dzrFx+hvL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBBT1CMZ",
+    "walmart_url": "https://www.walmart.com/search?q=WUMZIJ+301702+RV+Entry+Step+Control+Module+and+300-1406+Moto"
   },
   {
     "asin": "B0HBC8TLY8",
@@ -17479,17 +17688,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Car+Scratch+Remover+Wax+for+Vehicles+Rubbing+Compound+%26+Pain"
   },
   {
-    "asin": "B0HBQGQKZP",
-    "title": "RV Baggage Cargo Access Locking Door 40 x 16 Light Gray",
-    "type": "candidate",
-    "score": 41.0,
-    "price": 195.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41+e+swGEcL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQGQKZP",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Baggage+Cargo+Access+Locking+Door+40+x+16+Light+Gray"
-  },
-  {
     "asin": "B0H4TBLR42",
     "title": "2 Pack RV T-Style Door Holder, 6 Inch ABS Camper Door Catch, Black",
     "type": "candidate",
@@ -17499,6 +17697,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71bkcIhLGxL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4TBLR42",
     "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+T-Style+Door+Holder%2C+6+Inch+ABS+Camper+Door+Catch%2C"
+  },
+  {
+    "asin": "B0H7B9PPNG",
+    "title": "RV Entry Door 26&quot; W x 36&quot; H Camper Teardrop Door for Driver Side | Aluminum Alloy Teardrop Trailer Door with Tempered Glass a",
+    "type": "candidate",
+    "score": 40.75,
+    "price": 290.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61pAsbwpW8L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7B9PPNG",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Entry+Door+26%22+W+x+36%22+H+Camper+Teardrop+Door+for+Driver+"
   },
   {
     "asin": "B0H346Q6B3",
@@ -17521,17 +17730,6 @@
     "image_url": "https://m.media-amazon.com/images/I/51nBIhSNEAL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZNFD5K6",
     "walmart_url": "https://www.walmart.com/search?q=Right+RV+Awning+Head+Cover+End+Cap+643922+for+Lippert+Solera"
-  },
-  {
-    "asin": "B0H69TZLZJ",
-    "title": "R001785006 RV Awning Motor Cover Kit for Carefree of Colorado Awning Parts | RV Awning End Cap Replacement Compatible with Ca",
-    "type": "candidate",
-    "score": 40.75,
-    "price": 26.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qIGGfmsnL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H69TZLZJ",
-    "walmart_url": "https://www.walmart.com/search?q=R001785006+RV+Awning+Motor+Cover+Kit+for+Carefree+of+Colorad"
   },
   {
     "asin": "B0H8Y5R8WZ",
@@ -17578,17 +17776,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Bumper+End+Caps+for+4+Inch+Square+Bumpers%2C+Aluminum%2C+2+Pa"
   },
   {
-    "asin": "B0HCZ53YJZ",
-    "title": "Fujsnmu 26&quot; W×32&quot; H RV Teardrop Trailer Door for Campers(Right) | Aluminum Alloy Frame, Tempered Glass, Waterproof Insulated,",
-    "type": "candidate",
-    "score": 40.75,
-    "price": 206.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61VQpq0ieZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCZ53YJZ",
-    "walmart_url": "https://www.walmart.com/search?q=Fujsnmu+26%22+W%C3%9732%22+H+RV+Teardrop+Trailer+Door+for+Campers%28Rig"
-  },
-  {
     "asin": "B0H9YJQL8N",
     "title": "4Pcs RV Window and Vent Knob, Plastic Replacement Knob with Screws | Camper Window Crank Handle Turn Latch Vent Replacement R",
     "type": "candidate",
@@ -17611,6 +17798,17 @@
     "walmart_url": "https://www.walmart.com/search?q=De-Mediocre+PEVA+Frosted+Shower+Curtain+Liner+47+x+64+inch+R"
   },
   {
+    "asin": "B0H7WN3KG4",
+    "title": "Aepiraza Class A RV Side Mirror Covers for Motorhomes, 2Pcs Silver 26Inch Motorhome Side Mirror Covers with Drawstrings, Wint",
+    "type": "candidate",
+    "score": 40.65,
+    "price": 31.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61jQehMeoJL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7WN3KG4",
+    "walmart_url": "https://www.walmart.com/search?q=Aepiraza+Class+A+RV+Side+Mirror+Covers+for+Motorhomes%2C+2Pcs+"
+  },
+  {
     "asin": "B0H6ZRC9MR",
     "title": "WanDwel Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black) | Fit 30A/50A Electrical Plug (Non-Handle) Dual Lockin",
     "type": "candidate",
@@ -17620,6 +17818,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BZEMfAKUL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
     "walmart_url": "https://www.walmart.com/search?q=WanDwel+Aluminum+RV+Power+Cord+Hatch+Cover+Rubber+Cable+Acce"
+  },
+  {
+    "asin": "B0H97YC9W6",
+    "title": "418203 RV Awning Drive Head Gear Pack for 373566 266149 Camper Awning Parts | Compatible with Lippert Solera Awning Systems,",
+    "type": "candidate",
+    "score": 40.5,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MWAW5zzYL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H97YC9W6",
+    "walmart_url": "https://www.walmart.com/search?q=418203+RV+Awning+Drive+Head+Gear+Pack+for+373566+266149+Camp"
   },
   {
     "asin": "B0H9RRTLGW",
@@ -17721,6 +17930,17 @@
     "walmart_url": "https://www.walmart.com/search?q=3317085.000U+RV+Awning+Motor+Cover+Kit+Replacement+for+Domet"
   },
   {
+    "asin": "B0H4LJC197",
+    "title": "RV Entry Door,Aluminum Alloy RV Camper Teardrop with Keys,Left Side Teardrop Trailer Door with Tempered Glass, Universal Fit",
+    "type": "candidate",
+    "score": 40.5,
+    "price": 254.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61QhHN++e6L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4LJC197",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Entry+Door%2CAluminum+Alloy+RV+Camper+Teardrop+with+Keys%2CLe"
+  },
+  {
     "asin": "B0HG23N7YF",
     "title": "Butyl Sealant Tape, 13Ft 5/16 Inch Waterproof Headlight Rope",
     "type": "candidate",
@@ -17818,17 +18038,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Gzs8n3K8L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBRC9S2G",
     "walmart_url": "https://www.walmart.com/search?q=4pack+RV+Awning+Arm+Safety+Strap+1%22+x+13%22+%7C+4+pack+1%22+x+13%22+"
-  },
-  {
-    "asin": "B0HKRHZNYF",
-    "title": "SHYYOULQE Clear Sliding Mirrored Door, | ABS Sliding Mirroring Door Replacement Set, Easy to Use for Trailer Campers Interior",
-    "type": "candidate",
-    "score": 40.25,
-    "price": 9.09,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61wTH9t6GRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKRHZNYF",
-    "walmart_url": "https://www.walmart.com/search?q=SHYYOULQE+Clear+Sliding+Mirrored+Door%2C+%7C+ABS+Sliding+Mirrori"
   },
   {
     "asin": "B0H9575GS4",
@@ -17963,15 +18172,15 @@
     "walmart_url": "https://www.walmart.com/search?q=418203+RV+Awning+Drive+Head+Gear+Pack+for+266149+373566+Part"
   },
   {
-    "asin": "B0HFJSSC8Q",
-    "title": "643922 RV Awning Motor Cover Replacement, Compatible with Solera Regal Drive Head, Right-Side Front Cover, Complete Kit with 3 Rubber Grommets, Screws, Screwdriver &amp; Instructions",
+    "asin": "B0HBQGQKZP",
+    "title": "RV Baggage Cargo Access Locking Door 40 x 16 Light Gray",
     "type": "candidate",
-    "score": 39.75,
-    "price": 18.99,
+    "score": 39.5,
+    "price": 195.99,
     "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61DQkt7ARPL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFJSSC8Q",
-    "walmart_url": "https://www.walmart.com/search?q=643922+RV+Awning+Motor+Cover+Replacement%2C+Compatible+with+So"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41+e+swGEcL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQGQKZP",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Baggage+Cargo+Access+Locking+Door+40+x+16+Light+Gray"
   },
   {
     "asin": "B0H2TSVKQD",
@@ -18150,6 +18359,17 @@
     "walmart_url": "https://www.walmart.com/search?q=16.9+fl+oz+Road+Salt+Undercarriage+Wash+for+Trucks+SUVs"
   },
   {
+    "asin": "B0HCZ53YJZ",
+    "title": "Fujsnmu 26&quot; W×32&quot; H RV Teardrop Trailer Door for Campers(Right) | Aluminum Alloy Frame, Tempered Glass, Waterproof Insulated,",
+    "type": "candidate",
+    "score": 39.25,
+    "price": 206.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61VQpq0ieZL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCZ53YJZ",
+    "walmart_url": "https://www.walmart.com/search?q=Fujsnmu+26%22+W%C3%9732%22+H+RV+Teardrop+Trailer+Door+for+Campers%28Rig"
+  },
+  {
     "asin": "B0HGL9H14M",
     "title": "UNICEU RV Propane Tank Cover Double 20Lb Heavy Duty Weather Resistant Skeleton Beach Guitar Print Gas Cylinder Cover Camper T",
     "type": "candidate",
@@ -18271,6 +18491,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Rubber+Cover+Compatible+with+B%26W+Gooseneck+Hitch+Empty+Turno"
   },
   {
+    "asin": "B0H3T5QLF3",
+    "title": "28&quot; x 38&quot; RV Trailer Entry Door, Left &amp; Right Side Teardrop Camper Door, Aluminum Alloy Tempered Glass Waterproof Insulated R",
+    "type": "candidate",
+    "score": 39.0,
+    "price": 476.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dWRH8sqQL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3T5QLF3",
+    "walmart_url": "https://www.walmart.com/search?q=28%22+x+38%22+RV+Trailer+Entry+Door%2C+Left+%26+Right+Side+Teardrop+"
+  },
+  {
     "asin": "B0H7BKNBMR",
     "title": "Ziquruv 50A RV Male Replacement Plug, 14-50P, Pull Handle, Black | 125/250v Cord-End Repair, Nylon Housing, Copper Contacts,",
     "type": "candidate",
@@ -18291,17 +18522,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rbkZ1wANL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H98GKCPR",
     "walmart_url": "https://www.walmart.com/search?q=TEBEDI+RV+Entry+Door+24%22+X+68%22+Straighted+Corners+%7C+w%2FWindow"
-  },
-  {
-    "asin": "B0H4LJC197",
-    "title": "RV Entry Door,Aluminum Alloy RV Camper Teardrop with Keys,Left Side Teardrop Trailer Door with Tempered Glass, Universal Fit",
-    "type": "candidate",
-    "score": 39.0,
-    "price": 254.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61QhHN++e6L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4LJC197",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Entry+Door%2CAluminum+Alloy+RV+Camper+Teardrop+with+Keys%2CLe"
   },
   {
     "asin": "B0HCZKHZSG",
@@ -18392,17 +18612,6 @@
     "walmart_url": "https://www.walmart.com/search?q=ENFORCER+Adjustable+Swing+Bar+Door+Lock+for+Trailers+and+Con"
   },
   {
-    "asin": "B0H9LJH38P",
-    "title": "Portable Shower Holder Magnetic Shower Head Holder for Camping &amp; RV | Magnetic Mount with Compact Design, Hands-Free Shower S",
-    "type": "candidate",
-    "score": 39.0,
-    "price": 35.9,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51o6PMQl-XL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9LJH38P",
-    "walmart_url": "https://www.walmart.com/search?q=Portable+Shower+Holder+Magnetic+Shower+Head+Holder+for+Campi"
-  },
-  {
     "asin": "B0H4RM64LX",
     "title": "RecPro 36&quot; x 24&quot; White RV Bathtub with Center, Left or Right Drain Options (Center Drain)",
     "type": "candidate",
@@ -18423,6 +18632,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51uxqbKfq4L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBPKG9J2",
     "walmart_url": "https://www.walmart.com/search?q=EZROAD+Sheared+Drive+Shaft+Head+Pin+Assy+for+Lippert+Solera+"
+  },
+  {
+    "asin": "B0HHJ8S99N",
+    "title": "RV Awning Adjustable Pitch Arm 30&quot; for Dometic 9100/9200 Power W/Fasteners",
+    "type": "candidate",
+    "score": 39.0,
+    "price": 118.0,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61VK2pb4WjL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHJ8S99N",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Adjustable+Pitch+Arm+30%22+for+Dometic+9100%2F9200+Pow"
   },
   {
     "asin": "B0H713BTZD",
@@ -18700,6 +18920,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Airtaxi+Universal+5.8%22+Ceiling+Garnish+Trim+Ring+for+14%22+RV+"
   },
   {
+    "asin": "B0H5KDF26D",
+    "title": "Kisangel Awning Crank Handle, 24-inch Metal Wand for Rv | Patio Roller Shade &amp; Canopy, Universal Winding Pole with Hook for M",
+    "type": "candidate",
+    "score": 38.0,
+    "price": 25.29,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41vcdd8okbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5KDF26D",
+    "walmart_url": "https://www.walmart.com/search?q=Kisangel+Awning+Crank+Handle%2C+24-inch+Metal+Wand+for+Rv+%7C+Pa"
+  },
+  {
     "asin": "B0H5ND2KMY",
     "title": "Zxpjkyu 2 Pieces RV Awning Rod Bracket Support Rod Fixing Bracket Pole Support Professional Spare Parts Weather Resistant PP",
     "type": "candidate",
@@ -18830,6 +19061,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71UhqxaR2qL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H71ZNQ7B",
     "walmart_url": "https://www.walmart.com/search?q=Purple+Blue+Watercolor+Flower+Spare+Tire+Covers+for+RV+SUV+T"
+  },
+  {
+    "asin": "B0HCNZL6HW",
+    "title": "Oxford Cloth RV Tailgate Cover, Waterproof and Sunshade Protective Cover | Sturdy woven oxford cloth with reinforced stitchin",
+    "type": "candidate",
+    "score": 37.5,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CRkWSXU4L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCNZL6HW",
+    "walmart_url": "https://www.walmart.com/search?q=Oxford+Cloth+RV+Tailgate+Cover%2C+Waterproof+and+Sunshade+Prot"
   },
   {
     "asin": "B0H3964RXF",
@@ -19017,6 +19259,17 @@
     "image_url": "https://m.media-amazon.com/images/I/612fvdBAyLL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GHFF6QWP",
     "walmart_url": "https://www.walmart.com/search?q=RTV+Silicone+Sealant+Adhesive%2C+100%25+Silicone+Waterproof+Caul"
+  },
+  {
+    "asin": "B0H9LJH38P",
+    "title": "Portable Shower Holder Magnetic Shower Head Holder for Camping &amp; RV | Magnetic Mount with Compact Design, Hands-Free Shower S",
+    "type": "candidate",
+    "score": 36.75,
+    "price": 35.9,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51o6PMQl-XL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9LJH38P",
+    "walmart_url": "https://www.walmart.com/search?q=Portable+Shower+Holder+Magnetic+Shower+Head+Holder+for+Campi"
   },
   {
     "asin": "B0H5BT7V98",
@@ -19228,6 +19481,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Backup+Camera+for+2016-2019+Chevy+Silverado+GMC+Sierra+1500+"
   },
   {
+    "asin": "B0H9RJCS9Y",
+    "title": "Rv Entry Door, 26&quot; W×36&quot; H Entry Door Set, RV Camper Teardrop Trailer Door with Tempered Glass and Key Lock, Aluminum Alloy T",
+    "type": "candidate",
+    "score": 36.25,
+    "price": 419.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/617yKCRdMqL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9RJCS9Y",
+    "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+26%22+W%C3%9736%22+H+Entry+Door+Set%2C+RV+Camper+Teardro"
+  },
+  {
     "asin": "B0H1LHLG4F",
     "title": "PIHIL 3313107.015 Rv Air Conditioner Fan Blade | Compatible with Dometic Brisk and Duo-Therm AC Series, Replaces 3313107.0150",
     "type": "candidate",
@@ -19382,6 +19646,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2%22+Trailer+Hitch+Cover+%5BReinforced+Rubber+Strap%5D+Heavy+Duty+"
   },
   {
+    "asin": "B0H3ZP7NTQ",
+    "title": "Patriotic Bigfoot Spare Tire Cover for RV Camper SUV Truck, Waterproof Polyester Tire Wheel Cover, Universal Fit Outdoor Spare Wheel Protector with 14in",
+    "type": "candidate",
+    "score": 35.4,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61Z1gK5WJYL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3ZP7NTQ",
+    "walmart_url": "https://www.walmart.com/search?q=Patriotic+Bigfoot+Spare+Tire+Cover+for+RV+Camper+SUV+Truck%2C+"
+  },
+  {
     "asin": "B0H6NXMLDW",
     "title": "4 Pack Car Tie Down Straps for Trailers 2&quot; x 10&#x27; with Snap Hooks",
     "type": "candidate",
@@ -19391,17 +19666,6 @@
     "image_url": "https://m.media-amazon.com/images/I/8153sxXRg0L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6NXMLDW",
     "walmart_url": "https://www.walmart.com/search?q=4+Pack+Car+Tie+Down+Straps+for+Trailers+2%22+x+10%27+with+Snap+H"
-  },
-  {
-    "asin": "B0H6BRWH28",
-    "title": "Hot Tub Steps with 3-Leg Support - UV-Resistant Spa Stairs for Safe Outdoor Entry - Universal Fit for Pool, RV, Patio, Porch",
-    "type": "candidate",
-    "score": 35.25,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DeKszd1zL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6BRWH28",
-    "walmart_url": "https://www.walmart.com/search?q=Hot+Tub+Steps+with+3-Leg+Support+-+UV-Resistant+Spa+Stairs+f"
   },
   {
     "asin": "B0H2MHZK76",
@@ -19624,6 +19888,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Automobile+Interior+Trim+Strip%2C+9.84FT+Flexible+Leather+Deco"
   },
   {
+    "asin": "B0H5QB1QD5",
+    "title": "JoyLamoria Boho Mandala Floral RV Half Window Curtains 2 Pack Blackout | Short Curtain Cafe Tier Curtain Rod Pocket Light Fil",
+    "type": "candidate",
+    "score": 34.5,
+    "price": 16.88,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8154Ls6KRUL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5QB1QD5",
+    "walmart_url": "https://www.walmart.com/search?q=JoyLamoria+Boho+Mandala+Floral+RV+Half+Window+Curtains+2+Pac"
+  },
+  {
     "asin": "B0H4VCJ8BZ",
     "title": "RV Water Heater Door Latch 2pcs Stainless Steel Cam Lock Replacement Part | Stainless Steel Cam Lock Replacement Metal Water",
     "type": "candidate",
@@ -19756,28 +20031,6 @@
     "walmart_url": "https://www.walmart.com/search?q=TEGRO+V20373+Replacement+for+Pol+Rv+Propane+Tank+Service+Val"
   },
   {
-    "asin": "B0HJG3RVGS",
-    "title": "418203 RV Awning Drive Head Gear Pack",
-    "type": "candidate",
-    "score": 33.55,
-    "price": 39.5,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71MoTD9ZRjL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJG3RVGS",
-    "walmart_url": "https://www.walmart.com/search?q=418203+RV+Awning+Drive+Head+Gear+Pack"
-  },
-  {
-    "asin": "B0H98VDRH9",
-    "title": "30&quot; x 72&quot; RV Entry Door Aluminum Powder Coated White",
-    "type": "candidate",
-    "score": 33.5,
-    "price": 660.0,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/7195mNzRhrL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H98VDRH9",
-    "walmart_url": "https://www.walmart.com/search?q=30%22+x+72%22+RV+Entry+Door+Aluminum+Powder+Coated+White"
-  },
-  {
     "asin": "B0H9SJCV29",
     "title": "Zyghjort 3 Pack RV Dump Valve Handle, RV Black Tank Handle Replacement | T Handle Black Tank Handle Replacement Rv for Camper",
     "type": "candidate",
@@ -19855,17 +20108,6 @@
     "walmart_url": "https://www.walmart.com/search?q=50+A+RV+Replacement+Female+Connector%2C+Yellow+SS2-50R+Angled+"
   },
   {
-    "asin": "B0HKRMZYYT",
-    "title": "RV Hatch Door Replacement, 7-3/4&quot; x 12.5&quot;, Black",
-    "type": "candidate",
-    "score": 33.4,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51MT8p0fukL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKRMZYYT",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Hatch+Door+Replacement%2C+7-3%2F4%22+x+12.5%22%2C+Black"
-  },
-  {
     "asin": "B0HC6MM3BX",
     "title": "Cowhorse 6 Inch Aluminum RV Door Catch | Heavy Duty Trailer Door Hold Back | Aluminum ball-socket holdback;For Camper, Cargo",
     "type": "candidate",
@@ -19921,17 +20163,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Takywep+4-Pack+Heavy-Duty+Wheel+Dollies%2C+8000+lb+Capacity%2C+B"
   },
   {
-    "asin": "B0H4PLYV3T",
-    "title": "XDDPRO 643922 Right RV Awning Motor Cover Compatible with Lippert Components Solera Trailer Awning Replacement Parts Head Mot",
-    "type": "candidate",
-    "score": 33.25,
-    "price": 17.85,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lJqolTYbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4PLYV3T",
-    "walmart_url": "https://www.walmart.com/search?q=XDDPRO+643922+Right+RV+Awning+Motor+Cover+Compatible+with+Li"
-  },
-  {
     "asin": "B0H39TWYGH",
     "title": "25FT 7 Way Trailer Wire Cable,14 Gauge 7 Conductor Trailer Wiring with Color Coded Stranded CCA Wires, Replacement Cable for",
     "type": "candidate",
@@ -19943,6 +20174,17 @@
     "walmart_url": "https://www.walmart.com/search?q=25FT+7+Way+Trailer+Wire+Cable%2C14+Gauge+7+Conductor+Trailer+W"
   },
   {
+    "asin": "B0H3ZV5WTN",
+    "title": "404523 49&quot; RV Awning Inner Drive Arm Compatible with Solera Regal 63&quot; | for 49&quot;x1.75&quot; Black Aluminum Rail, Anti-Rust &amp; Powder",
+    "type": "candidate",
+    "score": 33.25,
+    "price": 60.88,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41MOiLWnbML._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3ZV5WTN",
+    "walmart_url": "https://www.walmart.com/search?q=404523+49%22+RV+Awning+Inner+Drive+Arm+Compatible+with+Solera+"
+  },
+  {
     "asin": "B0H4L5MPP6",
     "title": "RV Sewer Hose Adapter to PVC, 3&quot; Hub x Bayonet Fitting RV Sewer Termination Adapter Kit, Rotating Rigid Pipe Adapter with Bay",
     "type": "candidate",
@@ -19952,6 +20194,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yS36jpvxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4L5MPP6",
     "walmart_url": "https://www.walmart.com/search?q=RV+Sewer+Hose+Adapter+to+PVC%2C+3%22+Hub+x+Bayonet+Fitting+RV+Se"
+  },
+  {
+    "asin": "B0HKRMZYYT",
+    "title": "RV Hatch Door Replacement, 7-3/4&quot; x 12.5&quot;, Black",
+    "type": "candidate",
+    "score": 33.15,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51MT8p0fukL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKRMZYYT",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Hatch+Door+Replacement%2C+7-3%2F4%22+x+12.5%22%2C+Black"
   },
   {
     "asin": "B0HFS76QRK",
@@ -20031,15 +20284,26 @@
     "walmart_url": "https://www.walmart.com/search?q=G365+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
   },
   {
-    "asin": "B0H9RJCS9Y",
-    "title": "Rv Entry Door, 26&quot; W×36&quot; H Entry Door Set, RV Camper Teardrop Trailer Door with Tempered Glass and Key Lock, Aluminum Alloy T",
+    "asin": "B0HFVH5KVZ",
+    "title": "RV Awning Motor &amp; Idler Cover Kit Fit for Carefree of Colorado Compass | R001931006 R001932006 Fit for Carefree of Colorado A",
     "type": "candidate",
-    "score": 32.75,
-    "price": 419.99,
+    "score": 32.95,
+    "price": 29.76,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/617yKCRdMqL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9RJCS9Y",
-    "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+26%22+W%C3%9736%22+H+Entry+Door+Set%2C+RV+Camper+Teardro"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XzhSiF3AL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFVH5KVZ",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Motor+%26+Idler+Cover+Kit+Fit+for+Carefree+of+Colora"
+  },
+  {
+    "asin": "B0H2RGWYCG",
+    "title": "643922 Regal Head Covers Drive Front End Cap Cover, Compatible with Lippert Components and Solera Camper Trailer Awning Motor Right RV Awning Head Cover End Cap",
+    "type": "candidate",
+    "score": 32.9,
+    "price": 15.69,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/51wFW-YpFtL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2RGWYCG",
+    "walmart_url": "https://www.walmart.com/search?q=643922+Regal+Head+Covers+Drive+Front+End+Cap+Cover%2C+Compatib"
   },
   {
     "asin": "B0H57YSVJP",
@@ -20095,6 +20359,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61oEvWwl5UL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H86WPFVD",
     "walmart_url": "https://www.walmart.com/search?q=350184+RV+Furnace+Combustion+Air+Wheel+fit+for+Suburban+SF-2"
+  },
+  {
+    "asin": "B0HJG3RVGS",
+    "title": "418203 RV Awning Drive Head Gear Pack",
+    "type": "candidate",
+    "score": 32.55,
+    "price": 39.5,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71MoTD9ZRjL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJG3RVGS",
+    "walmart_url": "https://www.walmart.com/search?q=418203+RV+Awning+Drive+Head+Gear+Pack"
   },
   {
     "asin": "B0H2HBS4WS",
@@ -20240,6 +20515,28 @@
     "walmart_url": "https://www.walmart.com/search?q=Yoclacr+Utility+Trailer+Cover+for+W+W+Trailer+6%C3%978+6%27%C3%978%27+%7C+42"
   },
   {
+    "asin": "B0HB8WJZCD",
+    "title": "RV Awning Bottom Bracket Foot Fit for Dometic Sunchaser II Rounded Hardware",
+    "type": "candidate",
+    "score": 32.25,
+    "price": 35.19,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/51BlDBrqhaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB8WJZCD",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Bottom+Bracket+Foot+Fit+for+Dometic+Sunchaser+II+R"
+  },
+  {
+    "asin": "B0HFJSSC8Q",
+    "title": "643922 RV Awning Motor Cover Replacement, Compatible with Solera Regal Drive Head, Right-Side Front Cover, Complete Kit with",
+    "type": "candidate",
+    "score": 32.2,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DQkt7ARPL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFJSSC8Q",
+    "walmart_url": "https://www.walmart.com/search?q=643922+RV+Awning+Motor+Cover+Replacement%2C+Compatible+with+So"
+  },
+  {
     "asin": "B0H5BP5HHJ",
     "title": "KNFRXO WF-8930/50NPB RV Power Distribution Center | 30 or 50 Amp Camper AC Panel, 120/240V Input, 12 AC &amp; 15 DC Circuits for",
     "type": "candidate",
@@ -20271,6 +20568,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71fNqjb3wcL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYFYQSTB",
     "walmart_url": "https://www.walmart.com/search?q=RV+Aluminum+Extrusion+End+Caps+%E2%80%93+10+Pack+Black+Plastic+Flat+"
+  },
+  {
+    "asin": "B0H4PLYV3T",
+    "title": "XDDPRO 643922 Right RV Awning Motor Cover Compatible with Lippert Components Solera Trailer Awning Replacement Parts Head Mot",
+    "type": "candidate",
+    "score": 31.95,
+    "price": 17.85,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lJqolTYbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4PLYV3T",
+    "walmart_url": "https://www.walmart.com/search?q=XDDPRO+643922+Right+RV+Awning+Motor+Cover+Compatible+with+Li"
   },
   {
     "asin": "B0GX6PH3LK",
@@ -20383,6 +20691,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Amkixzp+50+Pack+194+Light+Bulb+T10+168+2825+W5W+12V+5W+Clear"
   },
   {
+    "asin": "B0HKRHZNYF",
+    "title": "SHYYOULQE Clear Sliding Mirrored Door, | ABS Sliding Mirroring Door Replacement Set, Easy to Use for Trailer Campers Interior",
+    "type": "candidate",
+    "score": 31.7,
+    "price": 9.09,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Rr4jpcvwL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKRHZNYF",
+    "walmart_url": "https://www.walmart.com/search?q=SHYYOULQE+Clear+Sliding+Mirrored+Door%2C+%7C+ABS+Sliding+Mirrori"
+  },
+  {
     "asin": "B0H7WYSJSS",
     "title": "643922 Right Side Awning End Cap Cover",
     "type": "candidate",
@@ -20460,17 +20779,6 @@
     "walmart_url": "https://www.walmart.com/search?q=U+Channel+Rubber+Edge+Trim+with+Metal+Clips%2C+16Ft+PVC+Rubber"
   },
   {
-    "asin": "B0H5KDF26D",
-    "title": "Kisangel Awning Crank Handle, 24-inch Metal Wand for Rv | Patio Roller Shade &amp; Canopy, Universal Winding Pole with Hook for M",
-    "type": "candidate",
-    "score": 31.5,
-    "price": 25.29,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41vcdd8okbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5KDF26D",
-    "walmart_url": "https://www.walmart.com/search?q=Kisangel+Awning+Crank+Handle%2C+24-inch+Metal+Wand+for+Rv+%7C+Pa"
-  },
-  {
     "asin": "B0H5B2MC13",
     "title": "222PW-A RV Fresh Water Fills Cap Replace for RecPro RV Water Tank | RV Fresh Water Cap Compatible with A01-2000VP 2001VP 2002",
     "type": "candidate",
@@ -20493,6 +20801,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2PCS+Watermelon+Lights+Bunk+Adapter+Kit%2C+Watermelon+Light+Mo"
   },
   {
+    "asin": "B0HF82KM3T",
+    "title": "49&quot; RV Awning Inner Drive Arm Fit for Solera Regal 63&quot; Awning Arm Assembly Fit 49&quot;x1.75&quot; Black Aluminum Rail Anti-Rust Powder",
+    "type": "candidate",
+    "score": 31.05,
+    "price": 68.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61SM0XkZBqL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF82KM3T",
+    "walmart_url": "https://www.walmart.com/search?q=49%22+RV+Awning+Inner+Drive+Arm+Fit+for+Solera+Regal+63%22+Awnin"
+  },
+  {
     "asin": "B0H13NGQHD",
     "title": "TEVSJG 2PCS RV Wing Side Window Arm Bracket Caravan Window Accessories Windbreak Support for VW",
     "type": "candidate",
@@ -20513,17 +20832,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71UpqbTXynL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZK2D75V",
     "walmart_url": "https://www.walmart.com/search?q=EATAKWARD+4+Packs+75mm+Air+Conditioning+Air+Vent+Deflector%2C+"
-  },
-  {
-    "asin": "B0HB8WJZCD",
-    "title": "RV Awning Bottom Bracket Foot Fit for Dometic Sunchaser II Rounded Hardware | Left or Right Side (Bracket U2), 2Pack",
-    "type": "candidate",
-    "score": 31.0,
-    "price": 35.19,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51BlDBrqhaL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB8WJZCD",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Bottom+Bracket+Foot+Fit+for+Dometic+Sunchaser+II+R"
   },
   {
     "asin": "B0HGCYYM56",
@@ -20658,17 +20966,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Utility+Trailer+Cover+for+PJ+U10+Utility+Trailer+7x14ft+2018"
   },
   {
-    "asin": "B0H3ZV5WTN",
-    "title": "404523 49&quot; RV Awning Inner Drive Arm Compatible with Solera Regal 63&quot; | for 49&quot;x1.75&quot; Black Aluminum Rail, Anti-Rust &amp; Powder",
-    "type": "candidate",
-    "score": 30.5,
-    "price": 60.88,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41MOiLWnbML._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3ZV5WTN",
-    "walmart_url": "https://www.walmart.com/search?q=404523+49%22+RV+Awning+Inner+Drive+Arm+Compatible+with+Solera+"
-  },
-  {
     "asin": "B0H4LNZRJ9",
     "title": "50A 4 Prong to 3 Prong Electric Stove Adapter, NEMA 14-50P to NEMA 10-50R",
     "type": "candidate",
@@ -20691,6 +20988,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Replacement+RV+Docking+Station+Spring+%26+Pin+Hardware+Kit+%7C+R"
   },
   {
+    "asin": "B0H69TZLZJ",
+    "title": "R001785006 RV Awning Motor Cover Kit for Carefree of Colorado Awning Parts",
+    "type": "candidate",
+    "score": 30.45,
+    "price": 26.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61qIGGfmsnL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H69TZLZJ",
+    "walmart_url": "https://www.walmart.com/search?q=R001785006+RV+Awning+Motor+Cover+Kit+for+Carefree+of+Colorad"
+  },
+  {
     "asin": "B0H3TCTF81",
     "title": "AC/DC Car Refrigerator Power Cord Kit Compatible with Alpicool, Bodega, Euhomy, BougeRV, ARB, ICECO, Setpower &amp; JoyTutus, 12V",
     "type": "candidate",
@@ -20700,17 +21008,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/710OK9DDBnL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3TCTF81",
     "walmart_url": "https://www.walmart.com/search?q=AC%2FDC+Car+Refrigerator+Power+Cord+Kit+Compatible+with+Alpico"
-  },
-  {
-    "asin": "B0H6G1NRWR",
-    "title": "RV Awning Cover R001785006 Fit for Carefree Colorado Latitude Idler Parts | RV Awning End Caps R001785006 Replacement for Man",
-    "type": "candidate",
-    "score": 30.25,
-    "price": 26.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rcyaZl2qL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6G1NRWR",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Cover+R001785006+Fit+for+Carefree+Colorado+Latitud"
   },
   {
     "asin": "B0H1QJ1TZP",
@@ -20724,15 +21021,15 @@
     "walmart_url": "https://www.walmart.com/search?q=GarveeTech+22+Ton+Jack+Stands%2CHeavy+Duty+Pin+Type+Profession"
   },
   {
-    "asin": "B0H2RGWYCG",
-    "title": "643922 Regal Head Covers Drive Front End Cap Cover, Compatible with Lippert Components and Solera Camper Trailer Awning Motor",
+    "asin": "B0H6G1NRWR",
+    "title": "RV Awning Cover R001785006 Fit for Carefree Colorado Latitude Idler Parts | RV Awning End Caps R001785006 Replacement for Man",
     "type": "candidate",
-    "score": 30.2,
-    "price": 15.69,
+    "score": 30.0,
+    "price": 26.99,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51wFW-YpFtL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2RGWYCG",
-    "walmart_url": "https://www.walmart.com/search?q=643922+Regal+Head+Covers+Drive+Front+End+Cap+Cover%2C+Compatib"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rcyaZl2qL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6G1NRWR",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Cover+R001785006+Fit+for+Carefree+Colorado+Latitud"
   },
   {
     "asin": "B0H4JJK738",
@@ -20977,6 +21274,28 @@
     "walmart_url": "https://www.walmart.com/search?q=Color+Trim+3%22+Body+Side+Molding-+Automotive+Stick-On+Trim+fo"
   },
   {
+    "asin": "B0HFWLM5NQ",
+    "title": "Utility Trailer Cover for Carry-On 5X8 Single Axle Utility Trailer 2015-2020, Water Resistant Outdoor Trailer Cover, Fits Ope",
+    "type": "candidate",
+    "score": 28.75,
+    "price": 95.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41aA7h5k7UL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFWLM5NQ",
+    "walmart_url": "https://www.walmart.com/search?q=Utility+Trailer+Cover+for+Carry-On+5X8+Single+Axle+Utility+T"
+  },
+  {
+    "asin": "B0H6BRWH28",
+    "title": "Hot Tub Steps with 3-Leg Support - UV-Resistant Spa Stairs for Safe Outdoor Entry - Universal Fit for Pool, RV, Patio, Porch",
+    "type": "candidate",
+    "score": 28.5,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DeKszd1zL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6BRWH28",
+    "walmart_url": "https://www.walmart.com/search?q=Hot+Tub+Steps+with+3-Leg+Support+-+UV-Resistant+Spa+Stairs+f"
+  },
+  {
     "asin": "B0H6JN2J4G",
     "title": "DUMOS Foldable Step Stool, 330lbs Capacity Sturdy Metal Stool",
     "type": "candidate",
@@ -21219,6 +21538,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Drfeify+Marker+Light+Lens%2C+Amber+Side+Turn+Signal+Cover%2C+Cli"
   },
   {
+    "asin": "B0H9D9GNXC",
+    "title": "Utility Trailer Cover for MAXXD DDX Dump Trailer 8x16, 420D Heavy Duty Water Resistant Trailer Tarp Cover with Reflective Str",
+    "type": "candidate",
+    "score": 25.75,
+    "price": 135.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/611KDnWRJdL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9D9GNXC",
+    "walmart_url": "https://www.walmart.com/search?q=Utility+Trailer+Cover+for+MAXXD+DDX+Dump+Trailer+8x16%2C+420D+"
+  },
+  {
     "asin": "B0HDSMHHC2",
     "title": "1-1/2&#x27;&#x27; Fill Hose for RV Concession Fresh Water Tank - With Two Clamps 3 FT | RV Water Tank Fill Hose fit for Marine, Boats,",
     "type": "candidate",
@@ -21371,6 +21701,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61UtF84GM0L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFSKQF5S",
     "walmart_url": "https://www.walmart.com/search?q=2-Inch+Fuel+Tank+Strap+Isolator+for+Most+Semi-Trailer+Trucks"
+  },
+  {
+    "asin": "B0HLCZNFFC",
+    "title": "Windshield Cowl Cover for Honda CRV 2023 2024 2025 2026 | Wiper Shield | Reversible Double Sided | All-Weather Water-Resistan",
+    "type": "candidate",
+    "score": 22.2,
+    "price": 21.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51JI9Gk8WML._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLCZNFFC",
+    "walmart_url": "https://www.walmart.com/search?q=Windshield+Cowl+Cover+for+Honda+CRV+2023+2024+2025+2026+%7C+Wi"
   },
   {
     "asin": "B0H6KNT5DN",
