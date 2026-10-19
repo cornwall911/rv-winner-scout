@@ -308,17 +308,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+Wireless+Backup+Camera+for+Truck+Trailer%2C+1-Min+Ins"
   },
   {
-    "asin": "B0HC5VTXFB",
-    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor | 1080P Rear View, Solar Assisted Battery, Night Visi",
-    "type": "winner",
-    "score": 88.7,
-    "price": 129.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+idK5laDL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
-    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Solar+Wireless+Backup+Camera%2C+2+Minute+DIY+Install%2C"
-  },
-  {
     "asin": "B0H7VR5FJ2",
     "title": "Wireless WiFi Magnetic Hitch Camera, 5G HD 720P Backup Camera with Rechargeable Battery for iPhone iPad Android Phone Tablet, Easier Hitching of Gooseneck Horse, Trailer, Camper, TTXSCAM-F01",
     "type": "winner",
@@ -328,6 +317,17 @@
     "image_url": "https://m.media-amazon.com/images/I/612C7JrThbL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7VR5FJ2",
     "walmart_url": "https://www.walmart.com/search?q=Wireless+WiFi+Magnetic+Hitch+Camera%2C+5G+HD+720P+Backup+Camer"
+  },
+  {
+    "asin": "B0HC5VTXFB",
+    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
+    "type": "winner",
+    "score": 88.45,
+    "price": 129.99,
+    "bsr": 6844,
+    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
+    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Solar+Wireless+Backup+Camera%2C+2+Minute+DIY+Install%2C"
   },
   {
     "asin": "B0H1DSFH7F",
@@ -2167,6 +2167,17 @@
     "walmart_url": "https://www.walmart.com/search?q=HHXXTTXS+Keyless+Entry+RV+Door+Lock+Replacement+for+Camper%2C+"
   },
   {
+    "asin": "B0H2MFBDZL",
+    "title": "DJI Power 1000 V2 Portable Power Station, 1024Wh LFP Battery",
+    "type": "should_test",
+    "score": 77.75,
+    "price": 399.98,
+    "bsr": 8239,
+    "image_url": "https://m.media-amazon.com/images/I/614Ud6BBIXL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2MFBDZL",
+    "walmart_url": "https://www.walmart.com/search?q=DJI+Power+1000+V2+Portable+Power+Station%2C+1024Wh+LFP+Battery"
+  },
+  {
     "asin": "B0H14BPJKM",
     "title": "Silvbott RV Awning Sun Shade Screen with Zipper, 8&#x27; x 17&#x27;3&quot;, 95% UV Block | 1200D Oxford Fabric + 8.2 oz Vinyl Mesh, Heavy-Du",
     "type": "should_test",
@@ -2352,17 +2363,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71NObqwcNAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZ4DKYZF",
     "walmart_url": "https://www.walmart.com/search?q=RV+Cable+Wall+Pass+Through+Kit+for+Starlink+Mini%2C+Waterproof"
-  },
-  {
-    "asin": "B0H2MFBDZL",
-    "title": "DJI Power 1000 V2 Portable Power Station, 1024Wh LFP Battery",
-    "type": "should_test",
-    "score": 77.25,
-    "price": 399.98,
-    "bsr": 11061,
-    "image_url": "https://m.media-amazon.com/images/I/614Ud6BBIXL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2MFBDZL",
-    "walmart_url": "https://www.walmart.com/search?q=DJI+Power+1000+V2+Portable+Power+Station%2C+1024Wh+LFP+Battery"
   },
   {
     "asin": "B0HJ87RYNH",
@@ -3487,17 +3487,6 @@
     "walmart_url": "https://www.walmart.com/search?q=EROMMY+RV+Roof+Vent%2C+12V+DC+30W+RV+Vent+Fan+with+10-Speed+Re"
   },
   {
-    "asin": "B0GXXZT82D",
-    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
-    "type": "should_test",
-    "score": 72.0,
-    "price": 274.99,
-    "bsr": 8639,
-    "image_url": "https://m.media-amazon.com/images/I/71KX+LCG+pL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
-    "walmart_url": "https://www.walmart.com/search?q=AIVOLT+1750W+Inverter+Generator+Portable+Gas+Generator+for+C"
-  },
-  {
     "asin": "B0H6KWSBTT",
     "title": "Deerdtride Waterproof RV Couch Covers for Sofa Bed - 2-Piece Stretchable Jackknife Sleeper Sofa Cover, RV Furniture Slipcover",
     "type": "should_test",
@@ -4609,6 +4598,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Wide+Aluminum+Scissor+Stairs%2C+4+Steps+Folding+RV+Step+Ladder"
   },
   {
+    "asin": "B0H98TT1MN",
+    "title": "PowerSmart 4000 Watt Portable Inverter Generator for Home Use",
+    "type": "should_test",
+    "score": 67.25,
+    "price": 359.99,
+    "bsr": 10261,
+    "image_url": "https://m.media-amazon.com/images/I/71yr+PWWTEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
+    "walmart_url": "https://www.walmart.com/search?q=PowerSmart+4000+Watt+Portable+Inverter+Generator+for+Home+Us"
+  },
+  {
     "asin": "B0GZLHBWK1",
     "title": "Heavy-Duty 1680D Water-Resistant Griddle Carry Bag for Blackstone 2363 2250 2246 2364 Adventure Ready 14&quot; with Adjustable Shoulder Strap &amp; Front Pocket",
     "type": "should_test",
@@ -4983,17 +4983,6 @@
     "walmart_url": "https://www.walmart.com/search?q=CMI+RV+Water+Heater+Flush+Wand%2C+RV+Tank+Rinser+for+Camper+Wa"
   },
   {
-    "asin": "B0H98TT1MN",
-    "title": "PowerSmart 4000 Watt Portable Inverter Generator for Home Use",
-    "type": "should_test",
-    "score": 65.25,
-    "price": 399.99,
-    "bsr": 10816,
-    "image_url": "https://m.media-amazon.com/images/I/71yr+PWWTEL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
-    "walmart_url": "https://www.walmart.com/search?q=PowerSmart+4000+Watt+Portable+Inverter+Generator+for+Home+Us"
-  },
-  {
     "asin": "B0GZFNL8PG",
     "title": "Protect-A-Plug RV Camper Cord and Plug Protector - Easily Elevates &amp; Fully Encloses Large 30 &amp; 50 Amp Plugs to Shield from Th",
     "type": "should_test",
@@ -5036,6 +5025,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71JOEjPtr4L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6922CJ4",
     "walmart_url": "https://www.walmart.com/search?q=Leakbee+2-in-1+RV+Propane+Gas+Detector%2CHardwired+12V+DC+with"
+  },
+  {
+    "asin": "B0H6J7BP2P",
+    "title": "RV Propane Gas Detector, Hardwired-12V DC with 3 Different Brackets for RVs,R501",
+    "type": "should_test",
+    "score": 65.25,
+    "price": 39.99,
+    "bsr": 5606,
+    "image_url": "https://m.media-amazon.com/images/I/71JOEjPtr4L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6J7BP2P",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Propane+Gas+Detector%2C+Hardwired-12V+DC+with+3+Different+B"
   },
   {
     "asin": "B0H5C97P8L",
@@ -5091,17 +5091,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61-le4FuCHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2GYKNYK",
     "walmart_url": "https://www.walmart.com/search?q=BAVLUD+12V+Dual+Motor+RV+Side+Mount+Exhaust+Fan+for+Camper+B"
-  },
-  {
-    "asin": "B0H6J7BP2P",
-    "title": "RV Propane Gas Detector, Hardwired-12V DC with 3 Different Brackets for RVs,R501",
-    "type": "should_test",
-    "score": 64.75,
-    "price": 39.99,
-    "bsr": 5380,
-    "image_url": "https://m.media-amazon.com/images/I/71JOEjPtr4L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6J7BP2P",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Propane+Gas+Detector%2C+Hardwired-12V+DC+with+3+Different+B"
   },
   {
     "asin": "B0H4Y9PHXM",
@@ -5401,17 +5390,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Wall+Mount+Holder+Bracket+for+Coleman+1lb+Mini+Propane+Tank+"
   },
   {
-    "asin": "B0HH9BYJBB",
-    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C, Windproof Wa",
-    "type": "should_test",
-    "score": 63.5,
-    "price": 64.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61P7O0fp4jL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter+-+Heavy+Duty+Insulated+Camper+Skirt+f"
-  },
-  {
     "asin": "B0HF7TWVBR",
     "title": "90cm Height Cold‑Weather RV Underbody Skir 24m/79ft | 90cm Height RV Skirting,Supplied with 10M Hook‑and‑Loop Tape for Winter",
     "type": "should_test",
@@ -5432,6 +5410,28 @@
     "image_url": "https://m.media-amazon.com/images/I/61AKRx-k5pL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDNXGCL3",
     "walmart_url": "https://www.walmart.com/search?q=Window+Vent+Duct+Adapter+Compatible+with+EcoFlow+Wave+2+Wave"
+  },
+  {
+    "asin": "B0GXXZT82D",
+    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
+    "type": "should_test",
+    "score": 63.25,
+    "price": 274.99,
+    "bsr": 7814,
+    "image_url": "https://m.media-amazon.com/images/I/71KX+LCG+pL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
+    "walmart_url": "https://www.walmart.com/search?q=AIVOLT+1750W+Inverter+Generator+Portable+Gas+Generator+for+C"
+  },
+  {
+    "asin": "B0HH9BYJBB",
+    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C, Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
+    "type": "should_test",
+    "score": 63.25,
+    "price": 64.99,
+    "bsr": 5152,
+    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter+-+Heavy+Duty+Insulated+Camper+Skirt+f"
   },
   {
     "asin": "B0HBVDYXZT",
@@ -7386,7 +7386,7 @@
     "type": "should_test",
     "score": 56.75,
     "price": 52.99,
-    "bsr": 5664,
+    "bsr": 6044,
     "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCVBW5M1",
     "walmart_url": "https://www.walmart.com/search?q=2-in-1+RV+Accessories+Gas+Detector%2CHardwired+12V+DC+with+3+D"
@@ -11924,17 +11924,6 @@
     "walmart_url": "https://www.walmart.com/search?q=IFERLA+4+Pack+Rv+Waste+Valve+Handle+Replacement%2C+Rv+Camper+S"
   },
   {
-    "asin": "B0H5L6H9JM",
-    "title": "G381 RV Keys, 3 Pack Precut Replacement Keys",
-    "type": "candidate",
-    "score": 51.0,
-    "price": 14.99,
-    "bsr": 10229,
-    "image_url": "https://m.media-amazon.com/images/I/71r1yX-Yx5L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5L6H9JM",
-    "walmart_url": "https://www.walmart.com/search?q=G381+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
-  },
-  {
     "asin": "B0H6WXPD9N",
     "title": "Adjustable Bunk Bed Ladder 52-64 in, Foldable RV Bunk Ladder, Holds 300 lb | 4 wide anti-slip steps, heavy-duty metal frame a",
     "type": "candidate",
@@ -12626,17 +12615,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AL7MXNEIL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4KNDQDR",
     "walmart_url": "https://www.walmart.com/search?q=431840+Awning+Arm+Repair+Pin+Kit+for+Power+RV+Camper+Trailer"
-  },
-  {
-    "asin": "B0HCB9PTGG",
-    "title": "Tarp Clips Heavy Duty, 30 Pcs Plastic Tarp Clamps Set",
-    "type": "candidate",
-    "score": 49.75,
-    "price": 8.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71CnbEVM7pL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCB9PTGG",
-    "walmart_url": "https://www.walmart.com/search?q=Tarp+Clips+Heavy+Duty%2C+30+Pcs+Plastic+Tarp+Clamps+Set"
   },
   {
     "asin": "B0H8SD4P1S",
@@ -15202,6 +15180,17 @@
     "walmart_url": "https://www.walmart.com/search?q=50%27+FT+Black+Vinyl+Trim+Insert+Replacement+Trailer+Camper+RV"
   },
   {
+    "asin": "B0HFMCM4HL",
+    "title": "RV Wye Sewer Hose Fittings &amp; 4-in-1 Adapter -Built-In Gaskets for Odor",
+    "type": "candidate",
+    "score": 46.0,
+    "price": 22.99,
+    "bsr": 11102,
+    "image_url": "https://m.media-amazon.com/images/I/61b2jfLekpL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFMCM4HL",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Wye+Sewer+Hose+Fittings+%26+4-in-1+Adapter+-Built-In+Gasket"
+  },
+  {
     "asin": "B0H3TBK9JX",
     "title": "23×44 Inch RV Trailer Entry Door, Left &amp; Right Driver Passenger Side Teardrop Camper Doors, Aluminum Alloy Tempered Glass Wat",
     "type": "candidate",
@@ -16005,17 +15994,6 @@
     "walmart_url": "https://www.walmart.com/search?q=3.94%22+x+36+FT+Flexible+Solar+Panel+Mounting+Tape%2C+Weather-Re"
   },
   {
-    "asin": "B0HFMCM4HL",
-    "title": "RV Wye Sewer Hose Fittings &amp; 4-in-1 Adapter -Built-In Gaskets for Odor",
-    "type": "candidate",
-    "score": 44.0,
-    "price": 22.99,
-    "bsr": 10507,
-    "image_url": "https://m.media-amazon.com/images/I/61b2jfLekpL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFMCM4HL",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Wye+Sewer+Hose+Fittings+%26+4-in-1+Adapter+-Built-In+Gasket"
-  },
-  {
     "asin": "B0GYNKS5TL",
     "title": "End Cap Replacement Compatible with Fiamma F45i Awning, Right Front and Left Rear Cover for RV Awning, Camper Awning End Cap,",
     "type": "candidate",
@@ -16289,6 +16267,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71f5iZzlhcL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6LXJFSC",
     "walmart_url": "https://www.walmart.com/search?q=4.5-60V+Wide+Input+Range+Adjustable+1.2-28V+Out+Buck+Convert"
+  },
+  {
+    "asin": "B0H5L6H9JM",
+    "title": "G381 RV Keys, 3 Pack Precut Replacement Keys",
+    "type": "candidate",
+    "score": 43.5,
+    "price": 14.99,
+    "bsr": 8133,
+    "image_url": "https://m.media-amazon.com/images/I/71r1yX-Yx5L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5L6H9JM",
+    "walmart_url": "https://www.walmart.com/search?q=G381+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
   },
   {
     "asin": "B0H9L8KV8Y",
@@ -16632,6 +16621,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Saralluna+RV+Cable+Hatch+Cover+PE+UV-Resistant+Heavy-Duty+3+"
   },
   {
+    "asin": "B0HCB9PTGG",
+    "title": "Tarp Clips Heavy Duty, 30 Pcs Plastic Tarp Clamps Set",
+    "type": "candidate",
+    "score": 42.5,
+    "price": 8.5,
+    "bsr": 11738,
+    "image_url": "https://m.media-amazon.com/images/I/71CnbEVM7pL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCB9PTGG",
+    "walmart_url": "https://www.walmart.com/search?q=Tarp+Clips+Heavy+Duty%2C+30+Pcs+Plastic+Tarp+Clamps+Set"
+  },
+  {
     "asin": "B0H49BH23W",
     "title": "Zpana 2PCS Car Camera Lens Protector, Clear Backup Camera Cover | Transparency 360° Panoramic Rearview Camera Rain Guard Cove",
     "type": "candidate",
@@ -16817,6 +16817,17 @@
     "image_url": "https://m.media-amazon.com/images/I/41S4OoAT1BL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3THHX35",
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Crank+Handle+56%22+Fordable+Awning+Crank+Wand+with+H"
+  },
+  {
+    "asin": "B0H9YZXF58",
+    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
+    "type": "candidate",
+    "score": 42.25,
+    "price": 6.99,
+    "bsr": 7060,
+    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
+    "walmart_url": "https://www.walmart.com/search?q=Wall+Phone+Holder+2+Pack+for+iPhone+Android+-+Adhesive+No+Dr"
   },
   {
     "asin": "B0H71B8MYD",
@@ -17281,15 +17292,15 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Baggage+Cargo+Access+Locking+Door+40+x+16+Light+Gray"
   },
   {
-    "asin": "B0H2914TR9",
-    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
+    "asin": "B0H4TBLR42",
+    "title": "2 Pack RV T-Style Door Holder, 6 Inch ABS Camper Door Catch, Black",
     "type": "candidate",
-    "score": 40.9,
-    "price": 4.99,
-    "bsr": 11129,
-    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
-    "walmart_url": "https://www.walmart.com/search?q=6PCS+Trailer+Pin%2C+Standard+1%2F4+Hitch+Pin%2C+Strong+Trailer+Cou"
+    "score": 41.0,
+    "price": 9.99,
+    "bsr": 10061,
+    "image_url": "https://m.media-amazon.com/images/I/71bkcIhLGxL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4TBLR42",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+T-Style+Door+Holder%2C+6+Inch+ABS+Camper+Door+Catch%2C"
   },
   {
     "asin": "B0GZNFD5K6",
@@ -17631,17 +17642,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81q2rivOwvL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFSTLPYM",
     "walmart_url": "https://www.walmart.com/search?q=Luboyear+2+Inch+%C3%9750+ft+Rv+Flex+Aluminum+Foil+Air+Ducting+Hos"
-  },
-  {
-    "asin": "B0H9NZNYXZ",
-    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
-    "type": "candidate",
-    "score": 39.95,
-    "price": 14.99,
-    "bsr": 7307,
-    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
-    "walmart_url": "https://www.walmart.com/search?q=4%22+Stainless+Steel+5%2F8%22+Trailer+Hitch+Pin+with+Hitch+Pin+Cli"
   },
   {
     "asin": "B0H21LFK3K",
@@ -18249,6 +18249,17 @@
     "walmart_url": "https://www.walmart.com/search?q=3M+Flap+Awning+Rail+Piping+for+RV%2FTent%2FTarp%2FMotorhome%2FCamper"
   },
   {
+    "asin": "B0H9NZNYXZ",
+    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
+    "type": "candidate",
+    "score": 38.7,
+    "price": 14.99,
+    "bsr": 7949,
+    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
+    "walmart_url": "https://www.walmart.com/search?q=4%22+Stainless+Steel+5%2F8%22+Trailer+Hitch+Pin+with+Hitch+Pin+Cli"
+  },
+  {
     "asin": "B0HF76WBHN",
     "title": "LANDSIN RV Furnace Lgniter Electrode 231933 Fit for Suburban NT Series | Campervan Heaters Part, Quick Response, Easy Install",
     "type": "candidate",
@@ -18302,17 +18313,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+kBZSpDXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1WJ2FTL",
     "walmart_url": "https://www.walmart.com/search?q=TURBRO+Air+Distribution+Box%2C+Air+Conditioner+ADB+with+Remote"
-  },
-  {
-    "asin": "B0H4TBLR42",
-    "title": "2 Pack RV T-Style Door Holder, 6 Inch ABS Camper Door Catch, Black",
-    "type": "candidate",
-    "score": 38.25,
-    "price": 9.99,
-    "bsr": 12913,
-    "image_url": "https://m.media-amazon.com/images/I/71bkcIhLGxL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4TBLR42",
-    "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+T-Style+Door+Holder%2C+6+Inch+ABS+Camper+Door+Catch%2C"
   },
   {
     "asin": "B0H6RSYHFR",
@@ -18390,17 +18390,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61s5aE47WcL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCJM4NQ5",
     "walmart_url": "https://www.walmart.com/search?q=G386+Universal+RV+Replacement+Key+Set+Compatible+with+Global"
-  },
-  {
-    "asin": "B0H9YZXF58",
-    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
-    "type": "candidate",
-    "score": 38.0,
-    "price": 6.99,
-    "bsr": 6194,
-    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
-    "walmart_url": "https://www.walmart.com/search?q=Wall+Phone+Holder+2+Pack+for+iPhone+Android+-+Adhesive+No+Dr"
   },
   {
     "asin": "B0H7WJ48XP",
@@ -19008,6 +18997,17 @@
     "walmart_url": "https://www.walmart.com/search?q=360SPB+55%22+Outdoor+TV%2C+4K+Google+TV%2C+2500nits+Ultra-High+Out"
   },
   {
+    "asin": "B0H2914TR9",
+    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
+    "type": "candidate",
+    "score": 35.7,
+    "price": 4.99,
+    "bsr": 10158,
+    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
+    "walmart_url": "https://www.walmart.com/search?q=6PCS+Trailer+Pin%2C+Standard+1%2F4+Hitch+Pin%2C+Strong+Trailer+Cou"
+  },
+  {
     "asin": "B0GZP5KZ85",
     "title": "2&quot; Hitch Kit for Bad Boy Lawn Mower Tow Rear Hitch",
     "type": "candidate",
@@ -19028,6 +19028,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71OB-RGky2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDZB64ZX",
     "walmart_url": "https://www.walmart.com/search?q=POL+to+QCC1+Propane+Tank+Adapter+Heavy+Duty+Solid+Brass+Conv"
+  },
+  {
+    "asin": "B0H4Q6DGW4",
+    "title": "2&quot; Trailer Hitch Cover [Reinforced Rubber Strap] Heavy Duty Rustproof Flat",
+    "type": "candidate",
+    "score": 35.5,
+    "price": 5.49,
+    "bsr": 5794,
+    "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
+    "walmart_url": "https://www.walmart.com/search?q=2%22+Trailer+Hitch+Cover+%5BReinforced+Rubber+Strap%5D+Heavy+Duty+"
   },
   {
     "asin": "B0H6BRWH28",
@@ -20821,17 +20832,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qumtdggFL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4PXP2N1",
     "walmart_url": "https://www.walmart.com/search?q=YILIANDE+10V-30V+8+Red+%26+Amber+Side+Clearance+Lamp+for+Car+S"
-  },
-  {
-    "asin": "B0H4Q6DGW4",
-    "title": "2&quot; Trailer Hitch Cover [Reinforced Rubber Strap] Heavy Duty Rustproof Flat",
-    "type": "candidate",
-    "score": 25.95,
-    "price": 5.49,
-    "bsr": 5734,
-    "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
-    "walmart_url": "https://www.walmart.com/search?q=2%22+Trailer+Hitch+Cover+%5BReinforced+Rubber+Strap%5D+Heavy+Duty+"
   },
   {
     "asin": "B0GYMHY4Q2",
