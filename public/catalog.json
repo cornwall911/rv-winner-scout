@@ -199,12 +199,12 @@
   },
   {
     "asin": "B0H456V16B",
-    "title": "ZEROXCLUB 4 CAM 10&quot; Touchscreen Magentic Solar Wireless Backup Camera | 2 Rear View Camera 2 Side View Cameras Wireless Solar",
+    "title": "ZEROXCLUB 4 CAM 10&quot; Touchscreen Magentic Solar Wireless Backup Camera",
     "type": "winner",
-    "score": 89.45,
+    "score": 89.5,
     "price": 339.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/810yRBV13CL._AC_UL300_SR300,200_.jpg",
+    "bsr": 12317,
+    "image_url": "https://m.media-amazon.com/images/I/810yRBV13CL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H456V16B",
     "walmart_url": "https://www.walmart.com/search?q=ZEROXCLUB+4+CAM+10%22+Touchscreen+Magentic+Solar+Wireless+Back"
   },
@@ -1243,15 +1243,15 @@
     "walmart_url": "https://www.walmart.com/search?q=Full+Metal+RV+Door+Lock%2C+10-Digit+Keypad+for+Most+Trailers+%26"
   },
   {
-    "asin": "B0H798WNYX",
-    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
+    "asin": "B0HH3TY22G",
+    "title": "250W Power Inverter Compatible for Dewalt 20V Battery, DC 20V to AC 110V",
     "type": "winner",
     "score": 81.0,
-    "price": 23.66,
-    "bsr": 27947,
-    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
-    "walmart_url": "https://www.walmart.com/search?q=200W+AC+110V+Power+Inverter+Compatible+with+DEWALT+20V+Batte"
+    "price": 19.99,
+    "bsr": 25874,
+    "image_url": "https://m.media-amazon.com/images/I/71eiCswsArL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH3TY22G",
+    "walmart_url": "https://www.walmart.com/search?q=250W+Power+Inverter+Compatible+for+Dewalt+20V+Battery%2C+DC+20"
   },
   {
     "asin": "B0H24X66S4",
@@ -1340,17 +1340,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61iyiXZ1scL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GS339M71",
     "walmart_url": "https://www.walmart.com/search?q=SnapPad+SnapJack%C2%AE+TC+Truck+Camper+Jack+Pad+%E2%80%93+for+HappiJac+Le"
-  },
-  {
-    "asin": "B0HH3TY22G",
-    "title": "250W Power Inverter Compatible for Dewalt 20V Battery, DC 20V to AC 110V",
-    "type": "winner",
-    "score": 80.45,
-    "price": 39.99,
-    "bsr": 26485,
-    "image_url": "https://m.media-amazon.com/images/I/71eiCswsArL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH3TY22G",
-    "walmart_url": "https://www.walmart.com/search?q=250W+Power+Inverter+Compatible+for+Dewalt+20V+Battery%2C+DC+20"
   },
   {
     "asin": "B0H5BJQJW3",
@@ -1549,6 +1538,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61SAPx0YCSL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGRMKKGT",
     "walmart_url": "https://www.walmart.com/search?q=Treeligo+12000+BTU+12V+Air+Conditioner%2C+12+Volt+DC+Split+Ele"
+  },
+  {
+    "asin": "B0H798WNYX",
+    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
+    "type": "should_test",
+    "score": 79.85,
+    "price": 23.66,
+    "bsr": 25498,
+    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
+    "walmart_url": "https://www.walmart.com/search?q=200W+AC+110V+Power+Inverter+Compatible+with+DEWALT+20V+Batte"
   },
   {
     "asin": "B0HFJ863WS",
@@ -14107,7 +14107,7 @@
     "type": "candidate",
     "score": 47.5,
     "price": 12.9,
-    "bsr": 28378,
+    "bsr": 24540,
     "image_url": "https://m.media-amazon.com/images/I/818LKUJNRZL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H33NZGZ7",
     "walmart_url": "https://www.walmart.com/search?q=Zinc+Alloy+RV+Screen+Door+Latch+Handle+Replacement+Kit%2C+Righ"
@@ -16940,6 +16940,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Shackle+Hitch+Receiver+2%22+Inch+Receivers+for+Vehicle+Recover"
   },
   {
+    "asin": "B0H5C1V9BF",
+    "title": "Safoner Aluminum RV Floor Register 4&quot;x10&quot;, Removable Cover, Brown, 2 Pack",
+    "type": "candidate",
+    "score": 42.0,
+    "price": 53.99,
+    "bsr": 24251,
+    "image_url": "https://m.media-amazon.com/images/I/71KYDyK-S2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5C1V9BF",
+    "walmart_url": "https://www.walmart.com/search?q=Safoner+Aluminum+RV+Floor+Register+4%22x10%22%2C+Removable+Cover%2C+"
+  },
+  {
     "asin": "B0H5Q8N9PT",
     "title": "Rv Entry Door, 28“ x 38” Entry Door, Black Aluminum Alloy Teardrop Trailer Door with Tempered Glass and Key Lock for RVs, Campers, Horse Trailers, Cargo Trailers (28&#x27;&#x27;Wx38&#x27;&#x27;H, Right)",
     "type": "candidate",
@@ -19732,17 +19743,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61moo2AOPjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2HBS4WS",
     "walmart_url": "https://www.walmart.com/search?q=49%22+RV+Awning+Inner+Drive+Arm+Replacement%2C+Compatible+with+S"
-  },
-  {
-    "asin": "B0H5C1V9BF",
-    "title": "Safoner Aluminum RV Floor Register 4&quot;x10&quot;, Removable Cover, Brown, 2 Pack | Aluminum Construction, Magnetic Removable Cover,",
-    "type": "candidate",
-    "score": 32.5,
-    "price": 53.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KYDyK-S2L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5C1V9BF",
-    "walmart_url": "https://www.walmart.com/search?q=Safoner+Aluminum+RV+Floor+Register+4%22x10%22%2C+Removable+Cover%2C+"
   },
   {
     "asin": "B0H87LRNDF",
