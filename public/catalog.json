@@ -847,17 +847,6 @@
     "walmart_url": "https://www.walmart.com/search?q=8%27+x+10%273%22+RV+Awning+Privacy+Shade+with+Zipper%2C+90%25+UV+Block"
   },
   {
-    "asin": "B0GZGF2SWX",
-    "title": "Agrieyes T312C Wireless Trailer Lights w/Receiver, Magnetic Tow Light | Real-time Monitor | USB-C Charge | 20H Tail Runtime |",
-    "type": "winner",
-    "score": 82.75,
-    "price": 109.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Mpk7eqTRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZGF2SWX",
-    "walmart_url": "https://www.walmart.com/search?q=Agrieyes+T312C+Wireless+Trailer+Lights+w%2FReceiver%2C+Magnetic+"
-  },
-  {
     "asin": "B0HB4NXXZ3",
     "title": "Treeligo 12V Truck Air Conditioner, Mini Split AC Unit, 8000 BTU Fast Cooling DC Air Conditioner for Semi Truck, Camper, Cons",
     "type": "winner",
@@ -1021,6 +1010,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71padaLrgjL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZLLJ9PF",
     "walmart_url": "https://www.walmart.com/search?q=RV+Shower+Head+with+Hose%2C+High+Pressure+Handheld+RV+Shower+H"
+  },
+  {
+    "asin": "B0GZGF2SWX",
+    "title": "Agrieyes T312C Wireless Trailer Lights w/Receiver, Magnetic Tow Light | Real-time Monitor | USB-C Charge | 20H Tail Runtime |",
+    "type": "winner",
+    "score": 82.0,
+    "price": 93.49,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Mpk7eqTRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZGF2SWX",
+    "walmart_url": "https://www.walmart.com/search?q=Agrieyes+T312C+Wireless+Trailer+Lights+w%2FReceiver%2C+Magnetic+"
   },
   {
     "asin": "B0GZ2RS58N",
@@ -5896,6 +5896,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter%2C2.6+ft+High+x+52+ft+Long+Heavy+Duty+C"
   },
   {
+    "asin": "B0H93YJQMR",
+    "title": "XGRFWE Heavy-Duty Adjustable Spring Bar Lift Tool for Trailer Hitch | Easy Install &amp; Removal, Weight Distribution, Effortless",
+    "type": "should_test",
+    "score": 62.5,
+    "price": 32.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FFRIMSuFL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H93YJQMR",
+    "walmart_url": "https://www.walmart.com/search?q=XGRFWE+Heavy-Duty+Adjustable+Spring+Bar+Lift+Tool+for+Traile"
+  },
+  {
     "asin": "B0H3PBWG6Q",
     "title": "Roof Rack Awning Mount Brackets, Heavy Duty Quick Release &amp; Detachable",
     "type": "should_test",
@@ -7077,7 +7088,7 @@
     "title": "XPE Adjustable Trailer Hitch for 2&quot; Receiver, Heavy Duty 6&quot; Drop Tow Hitch | 2-Inch &amp; 2-5/16-Inch Balls, Up to 20,000 lbs GTW",
     "type": "should_test",
     "score": 58.5,
-    "price": 109.99,
+    "price": 99.99,
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61AFT1Tsg7L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGKY6SXM",
@@ -9078,7 +9089,7 @@
     "asin": "B0GSK3QF5W",
     "title": "LUHLEE Clip-On RV Solar Lights – 800LM RV Bumper Cap Light with Digital Display, No-Drill Exterior Lighting for RVs, Campers,",
     "type": "candidate",
-    "score": 67.85,
+    "score": 66.75,
     "price": 11.99,
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71w35hqhQzL._AC_UL300_SR300,200_.jpg",
@@ -10065,6 +10076,17 @@
     "walmart_url": "https://www.walmart.com/search?q=WKQ+Collapse+RV+Steps%2C+Non-Slip+Metal+Camper+Steps+%7C+Single+"
   },
   {
+    "asin": "B0H4QRRVYJ",
+    "title": "Adjustable RV Step Stool, 17&quot; x 13&quot; Wide Platform, Foldable Legs",
+    "type": "candidate",
+    "score": 56.75,
+    "price": 35.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71IACAT+pQL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4QRRVYJ",
+    "walmart_url": "https://www.walmart.com/search?q=Adjustable+RV+Step+Stool%2C+17%22+x+13%22+Wide+Platform%2C+Foldable+"
+  },
+  {
     "asin": "B0H4GLB7SP",
     "title": "Short Queen Mattress, 10 Inch RV Mattress Cooling Gel Memory Foam, Medium Feel Camper Short Queen Mattress, Breathable&amp; Fiber",
     "type": "candidate",
@@ -10151,17 +10173,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71uN6fIAOBL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1QS6HN9",
     "walmart_url": "https://www.walmart.com/search?q=ONETIGRIS+CAMPING+4-Season+Cot+Mattress+Pad%2C+Reversible+Slee"
-  },
-  {
-    "asin": "B0H4QRRVYJ",
-    "title": "DEPSUNNY Adjustable RV Step Stool, 17&quot; x 13&quot; Wide Platform, Foldable Legs | 3 Height Settings, 1000 lb Capacity, Anti-Slip St",
-    "type": "candidate",
-    "score": 56.25,
-    "price": 35.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71IACAT+pQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4QRRVYJ",
-    "walmart_url": "https://www.walmart.com/search?q=DEPSUNNY+Adjustable+RV+Step+Stool%2C+17%22+x+13%22+Wide+Platform%2C+"
   },
   {
     "asin": "B0H4ZFHMG9",
@@ -12857,17 +12868,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81p0rWrG9PL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4Z3SHW5",
     "walmart_url": "https://www.walmart.com/search?q=KES+18%2F8+Stainless+Steel+RV+Spray+Port+Quick+Connect+with+3%2F"
-  },
-  {
-    "asin": "B0HBQKV5P1",
-    "title": "7 &amp; 4 Pin Trailer Wiring Harness Connector Kit with Mounting Bracket | 7 Pin Blade Trailer Plug &amp; 4 Way Flat Adapter Plug Tow",
-    "type": "candidate",
-    "score": 50.0,
-    "price": 29.59,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71yMdFnGeZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQKV5P1",
-    "walmart_url": "https://www.walmart.com/search?q=7+%26+4+Pin+Trailer+Wiring+Harness+Connector+Kit+with+Mounting"
   },
   {
     "asin": "B0HHQJPHVV",
@@ -16181,6 +16181,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Lrichy+3+in+1+Value+RV+Water+Heater+Replacement+Part+Kit+for"
   },
   {
+    "asin": "B0H6BSY29B",
+    "title": "2 Pcs Trailer Coupler Pin with Anti-Lost Rope Ring, Arch Trailer Hitch Pin, Locking Pins for Farm Trailers, Towing Accessorie",
+    "type": "candidate",
+    "score": 44.7,
+    "price": 7.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61J87awHX2L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6BSY29B",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pcs+Trailer+Coupler+Pin+with+Anti-Lost+Rope+Ring%2C+Arch+Tra"
+  },
+  {
     "asin": "B0H9NZNYXZ",
     "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
     "type": "candidate",
@@ -16962,6 +16973,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+28%E2%80%9C+x+38%E2%80%9D+Entry+Door%2C+Black+Aluminum+Alloy+Te"
   },
   {
+    "asin": "B0H5PFKY2H",
+    "title": "Hitch Holder for Truck Bed， 2-inch Trailer Hitch Storage,Black Hitch Mount | Trailer Hitch Holder for 2&quot; Ball Mount Hitches/",
+    "type": "candidate",
+    "score": 43.25,
+    "price": 15.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71icWvtVRPL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5PFKY2H",
+    "walmart_url": "https://www.walmart.com/search?q=Hitch+Holder+for+Truck+Bed%EF%BC%8C+2-inch+Trailer+Hitch+Storage%2CBla"
+  },
+  {
     "asin": "B0HD6LLV2S",
     "title": "CH751 RV Camper Door Key Replacement for Travel Trailers Locks 4PK | Replacement for Original RV Locks,Compatible With Camper",
     "type": "candidate",
@@ -16971,6 +16993,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vW4RhTfzL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD6LLV2S",
     "walmart_url": "https://www.walmart.com/search?q=CH751+RV+Camper+Door+Key+Replacement+for+Travel+Trailers+Loc"
+  },
+  {
+    "asin": "B0HBQKV5P1",
+    "title": "7 &amp; 4 Pin Trailer Wiring Harness Connector Kit with Mounting Bracket | 7 Pin Blade Trailer Plug &amp; 4 Way Flat Adapter Plug Tow",
+    "type": "candidate",
+    "score": 43.0,
+    "price": 26.63,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71yMdFnGeZL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQKV5P1",
+    "walmart_url": "https://www.walmart.com/search?q=7+%26+4+Pin+Trailer+Wiring+Harness+Connector+Kit+with+Mounting"
   },
   {
     "asin": "B0H7PH7JB1",
@@ -17268,17 +17301,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71DeS2nP+fL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF3BZPJL",
     "walmart_url": "https://www.walmart.com/search?q=14x14+RV+AC+Gasket+Kit%2C+Self-Adhesive+Roof+Seal+with+Levelin"
-  },
-  {
-    "asin": "B0H5PFKY2H",
-    "title": "Hitch Holder for Truck Bed， 2-inch Trailer Hitch Storage,Black Hitch Mount | Trailer Hitch Holder for 2&quot; Ball Mount Hitches/",
-    "type": "candidate",
-    "score": 42.25,
-    "price": 15.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71icWvtVRPL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5PFKY2H",
-    "walmart_url": "https://www.walmart.com/search?q=Hitch+Holder+for+Truck+Bed%EF%BC%8C+2-inch+Trailer+Hitch+Storage%2CBla"
   },
   {
     "asin": "B0H3FHZ2NZ",
@@ -20713,6 +20735,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Amkixzp+50+Pack+194+Light+Bulb+T10+168+2825+W5W+12V+5W+Clear"
   },
   {
+    "asin": "B0H3DLBL6B",
+    "title": "Wsenltvy Trailer Hitch Covers Pink Checkered Mama Heavy Duty 2 Inch Hitch Cover for Weather Protection, Rubber Hitch Receiver",
+    "type": "candidate",
+    "score": 31.75,
+    "price": 9.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71bYOLlJYeL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3DLBL6B",
+    "walmart_url": "https://www.walmart.com/search?q=Wsenltvy+Trailer+Hitch+Covers+Pink+Checkered+Mama+Heavy+Duty"
+  },
+  {
     "asin": "B0HKRHZNYF",
     "title": "SHYYOULQE Clear Sliding Mirrored Door, | ABS Sliding Mirroring Door Replacement Set, Easy to Use for Trailer Campers Interior",
     "type": "candidate",
@@ -21734,17 +21767,6 @@
     "image_url": "https://m.media-amazon.com/images/I/410rD5XM1kL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3L46CDG",
     "walmart_url": "https://www.walmart.com/search?q=Facon+Replacement+Glass+Shape+for+Dinette+Light+Fixture%2C+1Pc"
-  },
-  {
-    "asin": "B0H6BSY29B",
-    "title": "2 Pcs Trailer Coupler Pin with Anti-Lost Rope Ring, Arch Trailer Hitch Pin, Locking Pins for Farm Trailers, Towing Accessories, for Farm Lawn Garden Wagons Towing,Size 1/4&quot; x 3.2&quot;(6.3mm x 80mm)",
-    "type": "candidate",
-    "score": 23.2,
-    "price": 7.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61J87awHX2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6BSY29B",
-    "walmart_url": "https://www.walmart.com/search?q=2+Pcs+Trailer+Coupler+Pin+with+Anti-Lost+Rope+Ring%2C+Arch+Tra"
   },
   {
     "asin": "B0HFSKQF5S",
