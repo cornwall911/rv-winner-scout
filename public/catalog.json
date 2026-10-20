@@ -1441,6 +1441,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Heavy-Duty+I-Beam+RV+Stabilizer%2C+Camper+Anti-Sway+Jack"
   },
   {
+    "asin": "B0H798WNYX",
+    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
+    "type": "winner",
+    "score": 80.15,
+    "price": 23.66,
+    "bsr": 24292,
+    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
+    "walmart_url": "https://www.walmart.com/search?q=200W+AC+110V+Power+Inverter+Compatible+with+DEWALT+20V+Batte"
+  },
+  {
     "asin": "B0H8RJDHGQ",
     "title": "RV Skirting Kits for Winter, Easy Installation - Black, 2.62 x 85.3 ft",
     "type": "winner",
@@ -1527,17 +1538,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61SAPx0YCSL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGRMKKGT",
     "walmart_url": "https://www.walmart.com/search?q=Treeligo+12000+BTU+12V+Air+Conditioner%2C+12+Volt+DC+Split+Ele"
-  },
-  {
-    "asin": "B0H798WNYX",
-    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
-    "type": "should_test",
-    "score": 79.85,
-    "price": 23.66,
-    "bsr": 25498,
-    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
-    "walmart_url": "https://www.walmart.com/search?q=200W+AC+110V+Power+Inverter+Compatible+with+DEWALT+20V+Batte"
   },
   {
     "asin": "B0HFJ863WS",
@@ -1868,17 +1868,6 @@
     "image_url": "https://m.media-amazon.com/images/I/81rEPHW4ujL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9SDMB42",
     "walmart_url": "https://www.walmart.com/search?q=acegoo+Starlink+Mini+Wall+Pass+Through+Socket%2C12V+to+30V+Boo"
-  },
-  {
-    "asin": "B0HDZ5Y71X",
-    "title": "Jackery HomePower 1000 Plus v2 Portable Power Station | 1024Wh LiFePO4 Battery Expandable to 11kWh, 1800W AC / 140W USB-C Out",
-    "type": "should_test",
-    "score": 78.7,
-    "price": 669.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61LyEYXaQmL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDZ5Y71X",
-    "walmart_url": "https://www.walmart.com/search?q=Jackery+HomePower+1000+Plus+v2+Portable+Power+Station+%7C+1024"
   },
   {
     "asin": "B0GY81Q4V3",
@@ -2220,6 +2209,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61OO1Sh4DEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZZVKRXP",
     "walmart_url": "https://www.walmart.com/search?q=GXZZ+Aluminum+Wall+Pass+Through+Kit+for+Starlink+Mini%2C+IP67+"
+  },
+  {
+    "asin": "B0HDZ5Y71X",
+    "title": "Jackery HomePower 1000 Plus v2 Portable Power Station",
+    "type": "should_test",
+    "score": 77.5,
+    "price": 669.0,
+    "bsr": 23573,
+    "image_url": "https://m.media-amazon.com/images/I/61LyEYXaQmL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDZ5Y71X",
+    "walmart_url": "https://www.walmart.com/search?q=Jackery+HomePower+1000+Plus+v2+Portable+Power+Station"
   },
   {
     "asin": "B0H8MRZ45T",
@@ -2948,17 +2948,6 @@
     "walmart_url": "https://www.walmart.com/search?q=BJTDLLX+12V+Air+Conditioner%2C+Mini+Split+12V+AC+Unit+for+RV+T"
   },
   {
-    "asin": "B0HGR2586Z",
-    "title": "BILT HARD 5500W Dual Fuel Inverter Generator, Gasoline/LPG",
-    "type": "should_test",
-    "score": 75.0,
-    "price": 439.99,
-    "bsr": 28390,
-    "image_url": "https://m.media-amazon.com/images/I/71Fw61n-OqL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGR2586Z",
-    "walmart_url": "https://www.walmart.com/search?q=BILT+HARD+5500W+Dual+Fuel+Inverter+Generator%2C+Gasoline%2FLPG"
-  },
-  {
     "asin": "B0HB9V7Q2D",
     "title": "INVOTEK 75 x 33 RV Door Cover, Magnetic RV Door Insulated Cover for Winter | Side Opening, Magnetic RV Thermal Insulated Door",
     "type": "should_test",
@@ -3100,17 +3089,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DSWskbY-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HLYX5VC8",
     "walmart_url": "https://www.walmart.com/search?q=PECRON+E2400LFP+2048Wh%2F2400W%2C+Fast+Charging+in+1.5+Hrs+for+E"
-  },
-  {
-    "asin": "B0H86DN33C",
-    "title": "Vnivxte Magnetic Insulated RV Door Curtain for Winter, 31.5&quot; W x 75&quot; H | Helps Reduce Cold Drafts and Heat Loss, Hands-Free M",
-    "type": "should_test",
-    "score": 74.5,
-    "price": 29.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81x4rT5H7eL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H86DN33C",
-    "walmart_url": "https://www.walmart.com/search?q=Vnivxte+Magnetic+Insulated+RV+Door+Curtain+for+Winter%2C+31.5%22"
   },
   {
     "asin": "B0H4W8F84N",
@@ -3454,6 +3432,17 @@
     "walmart_url": "https://www.walmart.com/search?q=YeloDeer+12V+RV+Tank+Heater+Pad+12%22+x+18%22%2C+with+Toggle+Switc"
   },
   {
+    "asin": "B0HCHRD3VH",
+    "title": "Mental RV Door Lock Keyless Entry with Keypad/Handle/Remotes/Keys",
+    "type": "should_test",
+    "score": 72.75,
+    "price": 89.99,
+    "bsr": 21472,
+    "image_url": "https://m.media-amazon.com/images/I/6155yBbsZNL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
+    "walmart_url": "https://www.walmart.com/search?q=Mental+RV+Door+Lock+Keyless+Entry+with+Keypad%2FHandle%2FRemotes"
+  },
+  {
     "asin": "B0GYPSSZ5H",
     "title": "Anker SOLIX F3800 Plus Portable Power Station and 400W Solar Panel, 3,840Wh",
     "type": "should_test",
@@ -3542,6 +3531,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Fridge+Tension+Rods+2+Pack+13.96-25.6+Inch+Stainless+Stee"
   },
   {
+    "asin": "B0H86DN33C",
+    "title": "Magnetic Insulated RV Door Curtain for Winter, 31.5&quot; W x 75&quot; H",
+    "type": "should_test",
+    "score": 72.0,
+    "price": 29.99,
+    "bsr": 22644,
+    "image_url": "https://m.media-amazon.com/images/I/81x4rT5H7eL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H86DN33C",
+    "walmart_url": "https://www.walmart.com/search?q=Magnetic+Insulated+RV+Door+Curtain+for+Winter%2C+31.5%22+W+x+75%22"
+  },
+  {
     "asin": "B0HBVMVD4S",
     "title": "EROMMY RV Roof Vent, 12V DC 30W RV Vent Fan with 10-Speed Reversible Airflow, Remote Control &amp; Auto Thermostat, 14&quot; x 14&quot; RV",
     "type": "should_test",
@@ -3573,6 +3573,28 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61g9BHAwyaL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2MMFX3V",
     "walmart_url": "https://www.walmart.com/search?q=Hvatry+RV+Shoe+Storage+Organization%2C+4+Pack+Space-Saving+and"
+  },
+  {
+    "asin": "B0H2XN9729",
+    "title": "AIVOLT 4200W Inverter Generator Gas Powered, Portable Open Frame Generator",
+    "type": "should_test",
+    "score": 71.75,
+    "price": 299.98,
+    "bsr": 23655,
+    "image_url": "https://m.media-amazon.com/images/I/71PQkBBWifL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2XN9729",
+    "walmart_url": "https://www.walmart.com/search?q=AIVOLT+4200W+Inverter+Generator+Gas+Powered%2C+Portable+Open+F"
+  },
+  {
+    "asin": "B0GSFR7ZJN",
+    "title": "ONNAIS Smart RV Door Lock - Full Metal App Control Keyless Entry",
+    "type": "should_test",
+    "score": 71.75,
+    "price": 199.99,
+    "bsr": 23200,
+    "image_url": "https://m.media-amazon.com/images/I/71LgiqJOdLL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GSFR7ZJN",
+    "walmart_url": "https://www.walmart.com/search?q=ONNAIS+Smart+RV+Door+Lock+-+Full+Metal+App+Control+Keyless+E"
   },
   {
     "asin": "B0HBP479PL",
@@ -3925,17 +3947,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/718lDvUfl6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ37FR1G",
     "walmart_url": "https://www.walmart.com/search?q=IMCHZNQ+RV+Windshield+Cover+for+Thor+Four+Winds+29G+2015-201"
-  },
-  {
-    "asin": "B0HGF44YWX",
-    "title": "LUHLEE 218 LED Magnetic Solar Lights Outdoor, RV Solar Lights Motion Sensor | Upgraded 1.7&quot; Strong Magnet RV Motion Light, 27",
-    "type": "should_test",
-    "score": 70.2,
-    "price": 45.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/911x20YVNEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGF44YWX",
-    "walmart_url": "https://www.walmart.com/search?q=LUHLEE+218+LED+Magnetic+Solar+Lights+Outdoor%2C+RV+Solar+Light"
   },
   {
     "asin": "B0HFZVHRCM",
@@ -4345,17 +4356,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Zofianna+RV+Portable+AC+Vent+Adapter+for+5.9-Inch+Exhaust+Ho"
   },
   {
-    "asin": "B0H2XN9729",
-    "title": "AIVOLT 4200W Inverter Generator Gas Powered, Portable Open Frame Generator | 16hr Runtime, Low Noise, ECO Mode, RV Ready, Eme",
-    "type": "should_test",
-    "score": 68.5,
-    "price": 299.98,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71PQkBBWifL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2XN9729",
-    "walmart_url": "https://www.walmart.com/search?q=AIVOLT+4200W+Inverter+Generator+Gas+Powered%2C+Portable+Open+F"
-  },
-  {
     "asin": "B0GYQQZQD6",
     "title": "Adjustable Trailer Hitch - Drop Hitch Fit 2&quot; Receiver -8&quot; Drop/Rise",
     "type": "should_test",
@@ -4565,6 +4565,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+1LB+Propane+Tank+Holder%2C+Dual-Function+Cylinder+Mou"
   },
   {
+    "asin": "B0HGR2586Z",
+    "title": "BILT HARD 5500W Dual Fuel Inverter Generator, Gasoline/LPG",
+    "type": "should_test",
+    "score": 67.75,
+    "price": 439.99,
+    "bsr": 23218,
+    "image_url": "https://m.media-amazon.com/images/I/71Fw61n-OqL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGR2586Z",
+    "walmart_url": "https://www.walmart.com/search?q=BILT+HARD+5500W+Dual+Fuel+Inverter+Generator%2C+Gasoline%2FLPG"
+  },
+  {
     "asin": "B0HG98RC4R",
     "title": "UNIONLUX RV Stabilizer Upgraded Super Heavy Duty, Reduces RV Wobble &amp; Sway, Adjustable Shape of Load-Bearing Structure, Adjus",
     "type": "should_test",
@@ -4629,17 +4640,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+T6HixWhL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H45XH1D7",
     "walmart_url": "https://www.walmart.com/search?q=EZ+RV+Solutions+RV+Snap+Trap+Sewer+Hose+P-Trap+%E2%80%93+Blocks+Sewe"
-  },
-  {
-    "asin": "B0HCHRD3VH",
-    "title": "Dyfizer Mental RV Door Lock Keyless Entry with Keypad/Handle/Remotes/Keys | Full metal RV lock with triple access, jam-free d",
-    "type": "should_test",
-    "score": 67.5,
-    "price": 89.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6155yBbsZNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
-    "walmart_url": "https://www.walmart.com/search?q=Dyfizer+Mental+RV+Door+Lock+Keyless+Entry+with+Keypad%2FHandle"
   },
   {
     "asin": "B0HBWML2BM",
@@ -5016,6 +5016,17 @@
     "walmart_url": "https://www.walmart.com/search?q=JMJGHSRGTY+RV+Windshield+Cover+for+Jayco+Redhawk+24B+2024-20"
   },
   {
+    "asin": "B0HJV18ZVT",
+    "title": "2 Pcs Backup Camera Rain Cover 2 Lens Protectors, Rear View Shield for Car",
+    "type": "should_test",
+    "score": 66.25,
+    "price": 9.99,
+    "bsr": 10750,
+    "image_url": "https://m.media-amazon.com/images/I/61rOImaElaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJV18ZVT",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pcs+Backup+Camera+Rain+Cover+2+Lens+Protectors%2C+Rear+View+"
+  },
+  {
     "asin": "B0GZXB1MTS",
     "title": "FSLPQP RV Door Window Shade Cover, 25&quot; L x 16&quot; W Foldable Waterproof Blackout Window Sunshade with UV Protection Privacy Desi",
     "type": "should_test",
@@ -5146,17 +5157,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/619DCTtDl3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJGCP8JK",
     "walmart_url": "https://www.walmart.com/search?q=RV+Fiberglass+Gloss+Oil+Shine+Restorer%2C+RV+Fiberglass+Gloss+"
-  },
-  {
-    "asin": "B0H6VWS6TQ",
-    "title": "Adjustable Water Pressure Regulator for RV Camper with Gauge,2027 Update",
-    "type": "should_test",
-    "score": 65.5,
-    "price": 19.79,
-    "bsr": 23315,
-    "image_url": "https://m.media-amazon.com/images/I/71AOZdCGYbL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6VWS6TQ",
-    "walmart_url": "https://www.walmart.com/search?q=Adjustable+Water+Pressure+Regulator+for+RV+Camper+with+Gauge"
   },
   {
     "asin": "B0H5J8HNZN",
@@ -5729,17 +5729,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter+-+Heavy+Duty+Insulated+Camper+Skirt+f"
-  },
-  {
-    "asin": "B0GSFR7ZJN",
-    "title": "ONNAIS Smart RV Door Lock - Full Metal App Control Keyless Entry",
-    "type": "should_test",
-    "score": 63.0,
-    "price": 199.99,
-    "bsr": 21239,
-    "image_url": "https://m.media-amazon.com/images/I/71LgiqJOdLL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GSFR7ZJN",
-    "walmart_url": "https://www.walmart.com/search?q=ONNAIS+Smart+RV+Door+Lock+-+Full+Metal+App+Control+Keyless+E"
   },
   {
     "asin": "B0H1G59MW6",
@@ -6796,6 +6785,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61bP7p11wFL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD198QRX",
     "walmart_url": "https://www.walmart.com/search?q=Natural+Gas+Y+Splitter+1%2F2+Inch%2C+2+Way+Gas+Splitter+with+Shu"
+  },
+  {
+    "asin": "B0H6VWS6TQ",
+    "title": "Adjustable Water Pressure Regulator for RV Camper with Gauge,2027 Update",
+    "type": "should_test",
+    "score": 59.25,
+    "price": 19.79,
+    "bsr": 22505,
+    "image_url": "https://m.media-amazon.com/images/I/71AOZdCGYbL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6VWS6TQ",
+    "walmart_url": "https://www.walmart.com/search?q=Adjustable+Water+Pressure+Regulator+for+RV+Camper+with+Gauge"
   },
   {
     "asin": "B0HFVLMRF5",
@@ -9152,6 +9152,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover"
   },
   {
+    "asin": "B0HGF44YWX",
+    "title": "LUHLEE 218 LED Magnetic Solar Lights Outdoor, RV Solar Lights Motion Sensor",
+    "type": "candidate",
+    "score": 65.05,
+    "price": 45.99,
+    "bsr": 22498,
+    "image_url": "https://m.media-amazon.com/images/I/911x20YVNEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGF44YWX",
+    "walmart_url": "https://www.walmart.com/search?q=LUHLEE+218+LED+Magnetic+Solar+Lights+Outdoor%2C+RV+Solar+Light"
+  },
+  {
     "asin": "B0H41M799K",
     "title": "RV Propane Tank Cover,Mountain Camper Gas Cylinder Cover Fits 30LB Dual Propane Tanks for RV/Trailer/Camper Accessories Waterproof&amp; Weather Resistant",
     "type": "candidate",
@@ -9205,17 +9216,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71OS4RgikjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H93B4KPN",
     "walmart_url": "https://www.walmart.com/search?q=MYRVIPX+RV+Solar+Lights+Outdoors%2C+Digital+Display+Clip-On+So"
-  },
-  {
-    "asin": "B0HJV18ZVT",
-    "title": "2 Pcs Backup Camera Rain Cover 2 Lens Protectors, Rear View Shield for Car",
-    "type": "candidate",
-    "score": 63.45,
-    "price": 9.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61rOImaElaL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJV18ZVT",
-    "walmart_url": "https://www.walmart.com/search?q=2+Pcs+Backup+Camera+Rain+Cover+2+Lens+Protectors%2C+Rear+View+"
   },
   {
     "asin": "B0HHHWGJSC",
@@ -11966,6 +11966,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61fr+3xOGfL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBPBZWNW",
     "walmart_url": "https://www.walmart.com/search?q=Moryzian+R001832+Awning+Arm+Motor+Fit+for+Carefree+of+Colora"
+  },
+  {
+    "asin": "B0H4L9YNNV",
+    "title": "Safoner Aluminum RV Sewer Hose Storage Carrier,Camper Hose Tube Accessorie",
+    "type": "candidate",
+    "score": 51.75,
+    "price": 149.99,
+    "bsr": 24008,
+    "image_url": "https://m.media-amazon.com/images/I/61RPv5qxzxL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4L9YNNV",
+    "walmart_url": "https://www.walmart.com/search?q=Safoner+Aluminum+RV+Sewer+Hose+Storage+Carrier%2CCamper+Hose+T"
   },
   {
     "asin": "B0H1VL4VT4",
@@ -14740,17 +14751,6 @@
     "walmart_url": "https://www.walmart.com/search?q=EyGde+RV+Plumbing+Vent+Cap+Stainless+Steel+with+Filter+Scree"
   },
   {
-    "asin": "B0H4L9YNNV",
-    "title": "Safoner Aluminum RV Sewer Hose Storage Carrier,Camper Hose Tube Accessorie | Aluminum tube, I-beam mounting, Hinged vented en",
-    "type": "candidate",
-    "score": 47.0,
-    "price": 149.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RPv5qxzxL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4L9YNNV",
-    "walmart_url": "https://www.walmart.com/search?q=Safoner+Aluminum+RV+Sewer+Hose+Storage+Carrier%2CCamper+Hose+T"
-  },
-  {
     "asin": "B0H2MMNX1H",
     "title": "Outus 2.5 Gallon Gas Can Holder, Fuel Jug Mount for Trailer, Angled Hexagon | Gas Can Not Included, Heavy Duty Metal, 2 Locki",
     "type": "candidate",
@@ -15079,6 +15079,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71p9+PUPXwL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9XSR655",
     "walmart_url": "https://www.walmart.com/search?q=Neptuiby+Car+Window+Fan+Solar+Powered+Car+Vent+Fan+Dual-mode"
+  },
+  {
+    "asin": "B0H75C99Y2",
+    "title": "Aluminum RV Floor Vent Cover 2&quot;x10&quot;, Magnetic Removable Cover, 2 Pack-Khaki",
+    "type": "candidate",
+    "score": 46.65,
+    "price": 39.99,
+    "bsr": 22983,
+    "image_url": "https://m.media-amazon.com/images/I/61Y2Hys37sL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H75C99Y2",
+    "walmart_url": "https://www.walmart.com/search?q=Aluminum+RV+Floor+Vent+Cover+2%22x10%22%2C+Magnetic+Removable+Cove"
   },
   {
     "asin": "B0HDS23XSM",
@@ -15706,17 +15717,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61AMFt85a6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGFVVR2Y",
     "walmart_url": "https://www.walmart.com/search?q=UNICEU+Dark+Skull+Print+Dual+Propane+Tank+Cover+for+RV+Campe"
-  },
-  {
-    "asin": "B0H75C99Y2",
-    "title": "Aluminum RV Floor Vent Cover 2&quot;x10&quot;, Magnetic Removable Cover, 2 Pack-Khaki | Cleaning Brush Included; Pet hair protection; R",
-    "type": "candidate",
-    "score": 45.75,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Y2Hys37sL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H75C99Y2",
-    "walmart_url": "https://www.walmart.com/search?q=Aluminum+RV+Floor+Vent+Cover+2%22x10%22%2C+Magnetic+Removable+Cove"
   },
   {
     "asin": "B0H38PR93P",
@@ -18489,6 +18489,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71rxjML5qDL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9R5TRZ3",
     "walmart_url": "https://www.walmart.com/search?q=Rubber+Cover+Compatible+with+B%26W+Gooseneck+Hitch+Empty+Turno"
+  },
+  {
+    "asin": "B0H6PNN79M",
+    "title": "Cross of Nails Trailer Hitch Cover for 2 Inch Receivers with 7/8-Inch Pin Diameter Trailer Hitch Lock",
+    "type": "candidate",
+    "score": 39.25,
+    "price": 33.95,
+    "bsr": 21411,
+    "image_url": "https://m.media-amazon.com/images/I/61LNTY8ZfnL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6PNN79M",
+    "walmart_url": "https://www.walmart.com/search?q=Cross+of+Nails+Trailer+Hitch+Cover+for+2+Inch+Receivers+with"
   },
   {
     "asin": "B0H3T5QLF3",
