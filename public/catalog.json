@@ -297,17 +297,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Sunster+2026+TB10WF+8KW+Toolbox+Diesel+Heater+with+WiFi+%26+Bl"
   },
   {
-    "asin": "B0H38KLG52",
-    "title": "8L Diesel Heater, 8KW 12V/24V/110V/240V All in One Diesel Heater with LCD Switch, Remote Control, Muffler for Truck, RV, Home, Car, Campers, Boat, White",
-    "type": "winner",
-    "score": 89.05,
-    "price": 139.99,
-    "bsr": 7840,
-    "image_url": "https://m.media-amazon.com/images/I/71FQfqPCsbL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H38KLG52",
-    "walmart_url": "https://www.walmart.com/search?q=8L+Diesel+Heater%2C+8KW+12V%2F24V%2F110V%2F240V+All+in+One+Diesel+He"
-  },
-  {
     "asin": "B0GJZL6TJ7",
     "title": "AUTO-VOX 7.2&quot; Solar Wireless Backup Camera, 1-Min Easy Magnetic Install",
     "type": "winner",
@@ -317,6 +306,17 @@
     "image_url": "https://m.media-amazon.com/images/I/815flbCs+VL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GJZL6TJ7",
     "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+7.2%22+Solar+Wireless+Backup+Camera%2C+1-Min+Easy+Magne"
+  },
+  {
+    "asin": "B0H38KLG52",
+    "title": "8L Diesel Heater, 8KW 12V/24V/110V/240V All in One Diesel Heater with LCD Switch, Remote Control, Muffler for Truck, RV, Home, Car, Campers, Boat, White",
+    "type": "winner",
+    "score": 88.85,
+    "price": 129.99,
+    "bsr": 11500,
+    "image_url": "https://m.media-amazon.com/images/I/71FQfqPCsbL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H38KLG52",
+    "walmart_url": "https://www.walmart.com/search?q=8L+Diesel+Heater%2C+8KW+12V%2F24V%2F110V%2F240V+All+in+One+Diesel+He"
   },
   {
     "asin": "B0H7VR5FJ2",
@@ -990,17 +990,6 @@
     "walmart_url": "https://www.walmart.com/search?q=ECO-WORTHY+RV+Macerator+Pump+12V+Portable+Macerator+Waste+Pu"
   },
   {
-    "asin": "B0GY4TQ2P8",
-    "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
-    "type": "winner",
-    "score": 82.25,
-    "price": 699.99,
-    "bsr": 524,
-    "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GY4TQ2P8",
-    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station%2C+2%2C010Wh%2C+1%2C500W"
-  },
-  {
     "asin": "B0H2VFCC3B",
     "title": "AC Duct and Sound Suppressor Compatible with Dometic Duo",
     "type": "winner",
@@ -1571,6 +1560,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61FNlZ9xg2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H36WBTV5",
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Lights+Interior%2C+Battery+LED+Ceiling+Light+with+"
+  },
+  {
+    "asin": "B0GY4TQ2P8",
+    "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
+    "type": "should_test",
+    "score": 79.75,
+    "price": 699.99,
+    "bsr": 519,
+    "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GY4TQ2P8",
+    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station%2C+2%2C010Wh%2C+1%2C500W"
   },
   {
     "asin": "B0HJQR82WN",
@@ -4653,6 +4653,17 @@
     "walmart_url": "https://www.walmart.com/search?q=VEVOR+Motorized+RV+Awning+Complete+Kit+%26+Sunshade+Screen%2C+18"
   },
   {
+    "asin": "B0H98TT1MN",
+    "title": "PowerSmart 4000 Watt Portable Inverter Generator for Home Use",
+    "type": "should_test",
+    "score": 67.5,
+    "price": 359.99,
+    "bsr": 11921,
+    "image_url": "https://m.media-amazon.com/images/I/71yr+PWWTEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
+    "walmart_url": "https://www.walmart.com/search?q=PowerSmart+4000+Watt+Portable+Inverter+Generator+for+Home+Us"
+  },
+  {
     "asin": "B0HDP83874",
     "title": "2‑in‑1 RV Gravity Fresh Water Fill Funnel, Bayonet Lock Inlet, Blue | Hands‑Free 4 Inch Wide Mouth Funnel with Replaceable Ad",
     "type": "should_test",
@@ -4673,17 +4684,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51l3UAOYYiL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7BMRPCL",
     "walmart_url": "https://www.walmart.com/search?q=Wide+Aluminum+Scissor+Stairs%2C+4+Steps+Folding+RV+Step+Ladder"
-  },
-  {
-    "asin": "B0H98TT1MN",
-    "title": "PowerSmart 4000 Watt Portable Inverter Generator for Home Use",
-    "type": "should_test",
-    "score": 67.25,
-    "price": 359.99,
-    "bsr": 10261,
-    "image_url": "https://m.media-amazon.com/images/I/71yr+PWWTEL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
-    "walmart_url": "https://www.walmart.com/search?q=PowerSmart+4000+Watt+Portable+Inverter+Generator+for+Home+Us"
   },
   {
     "asin": "B0H3L33HDH",
@@ -4884,6 +4884,17 @@
     "walmart_url": "https://www.walmart.com/search?q=wipcowi+2+PCS+RV+Door+Window+Shade+Cover%2C+Light-Blocking+Hea"
   },
   {
+    "asin": "B0GXXZT82D",
+    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
+    "type": "should_test",
+    "score": 66.6,
+    "price": 274.99,
+    "bsr": 8981,
+    "image_url": "https://m.media-amazon.com/images/I/71KX+LCG+pL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
+    "walmart_url": "https://www.walmart.com/search?q=AIVOLT+1750W+Inverter+Generator+Portable+Gas+Generator+for+C"
+  },
+  {
     "asin": "B0HD6G7HNN",
     "title": "RV Floor Vent Cover 2&quot;x10&quot;, 2-Pack Aluminum Floor Register w/ Mesh Screen | Magnetic Lift Tools, Removable Dust &amp; Debris Scre",
     "type": "should_test",
@@ -4992,17 +5003,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WTfAbZXzL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGDC27J8",
     "walmart_url": "https://www.walmart.com/search?q=JMJGHSRGTY+RV+Windshield+Cover+for+Jayco+Redhawk+24B+2024-20"
-  },
-  {
-    "asin": "B0HB5W5T8P",
-    "title": "RV Dual C-O and L-P G-as Sensor, 12V DC for RVs, Hardwired, Black",
-    "type": "should_test",
-    "score": 66.1,
-    "price": 69.99,
-    "bsr": 12573,
-    "image_url": "https://m.media-amazon.com/images/I/711focfipsL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB5W5T8P",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Dual+C-O+and+L-P+G-as+Sensor%2C+12V+DC+for+RVs%2C+Hardwired%2C+"
   },
   {
     "asin": "B0GZXB1MTS",
@@ -5203,17 +5203,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Leakbee+2-in-1+RV+Propane+Gas+Detector%2CHardwired+12V+DC+with"
   },
   {
-    "asin": "B0H6J7BP2P",
-    "title": "RV Propane Gas Detector, Hardwired-12V DC with 3 Different Brackets for RVs,R501",
-    "type": "should_test",
-    "score": 65.25,
-    "price": 39.99,
-    "bsr": 5606,
-    "image_url": "https://m.media-amazon.com/images/I/71JOEjPtr4L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6J7BP2P",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Propane+Gas+Detector%2C+Hardwired-12V+DC+with+3+Different+B"
-  },
-  {
     "asin": "B0HKTPFSDC",
     "title": "WEN 5250-Watt Dual Fuel Electric Start Inverter Generator (DF525iX)",
     "type": "should_test",
@@ -5267,6 +5256,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61++m0b1ViL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ1CH8Y8",
     "walmart_url": "https://www.walmart.com/search?q=4-in-1+RV+Accessories+Gas+Detector%2CHardwired+12V+DC+for+Moto"
+  },
+  {
+    "asin": "B0H6J7BP2P",
+    "title": "RV Propane Gas Detector, Hardwired-12V DC with 3 Different Brackets for RVs,R501",
+    "type": "should_test",
+    "score": 64.75,
+    "price": 39.99,
+    "bsr": 5265,
+    "image_url": "https://m.media-amazon.com/images/I/71JOEjPtr4L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6J7BP2P",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Propane+Gas+Detector%2C+Hardwired-12V+DC+with+3+Different+B"
   },
   {
     "asin": "B0H2GYKNYK",
@@ -5632,28 +5632,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Window+Vent+Duct+Adapter+Compatible+with+EcoFlow+Wave+2+Wave"
   },
   {
-    "asin": "B0GXXZT82D",
-    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
-    "type": "should_test",
-    "score": 63.25,
-    "price": 274.99,
-    "bsr": 7814,
-    "image_url": "https://m.media-amazon.com/images/I/71KX+LCG+pL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
-    "walmart_url": "https://www.walmart.com/search?q=AIVOLT+1750W+Inverter+Generator+Portable+Gas+Generator+for+C"
-  },
-  {
-    "asin": "B0HH9BYJBB",
-    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C, Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
-    "type": "should_test",
-    "score": 63.25,
-    "price": 64.99,
-    "bsr": 5152,
-    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter+-+Heavy+Duty+Insulated+Camper+Skirt+f"
-  },
-  {
     "asin": "B0GYDZHPCW",
     "title": "Frezon 12V/24V Auto-Sensing Low-Power Draw Fan for Boats and RV Black",
     "type": "should_test",
@@ -5718,6 +5696,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71mAqD4EvVL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3Q3W3NN",
     "walmart_url": "https://www.walmart.com/search?q=Accumulator+Expansion+Tank+%E2%80%93+Reduces+Pump+Cycling%2C+Smooth+Wa"
+  },
+  {
+    "asin": "B0HH9BYJBB",
+    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C, Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
+    "type": "should_test",
+    "score": 63.0,
+    "price": 64.99,
+    "bsr": 3469,
+    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter+-+Heavy+Duty+Insulated+Camper+Skirt+f"
   },
   {
     "asin": "B0GSFR7ZJN",
@@ -6532,6 +6521,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71a6IUutZSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFWZTNFV",
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter%2C31x104.9ft+RV+Skirt+for+Travel+Traile"
+  },
+  {
+    "asin": "B0HB5W5T8P",
+    "title": "RV Dual C-O and L-P G-as Sensor, 12V DC for RVs, Hardwired, Black",
+    "type": "should_test",
+    "score": 60.0,
+    "price": 65.99,
+    "bsr": 9876,
+    "image_url": "https://m.media-amazon.com/images/I/711focfipsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB5W5T8P",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Dual+C-O+and+L-P+G-as+Sensor%2C+12V+DC+for+RVs%2C+Hardwired%2C+"
   },
   {
     "asin": "B0H1DFHLZT",
@@ -7612,17 +7612,6 @@
     "walmart_url": "https://www.walmart.com/search?q=DEPSUNNY+RV+Step+Stool+with+Handle+for+Elderly%2C+2+Step+Stool"
   },
   {
-    "asin": "B0HCVBW5M1",
-    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets for RVs,R502",
-    "type": "should_test",
-    "score": 56.75,
-    "price": 52.99,
-    "bsr": 6044,
-    "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCVBW5M1",
-    "walmart_url": "https://www.walmart.com/search?q=2-in-1+RV+Accessories+Gas+Detector%2CHardwired+12V+DC+with+3+D"
-  },
-  {
     "asin": "B0HC4BJ2T6",
     "title": "70424,28FT RV Macerator Hose, 1-Inch ID Retractable Camper Sewer Hose Compatible with Thetford Sani-Con 62-5800, RV Sewer Hos",
     "type": "should_test",
@@ -7764,6 +7753,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61L+1d8tXGL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4YJ4MJM",
     "walmart_url": "https://www.walmart.com/search?q=VEVOR+Manual+RV+Awning+Complete+Kit%2C+18.12FT+Retractable+RV+"
+  },
+  {
+    "asin": "B0HCVBW5M1",
+    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets for RVs,R502",
+    "type": "should_test",
+    "score": 56.25,
+    "price": 52.99,
+    "bsr": 5246,
+    "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCVBW5M1",
+    "walmart_url": "https://www.walmart.com/search?q=2-in-1+RV+Accessories+Gas+Detector%2CHardwired+12V+DC+with+3+D"
   },
   {
     "asin": "B0HDSNT11B",
@@ -15059,6 +15059,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Entry+Door+with+Frame+for+Teardrop+Camper+Trailer+23%22x+44"
   },
   {
+    "asin": "B0HFMCM4HL",
+    "title": "RV Wye Sewer Hose Fittings &amp; 4-in-1 Adapter -Built-In Gaskets for Odor",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 22.99,
+    "bsr": 7107,
+    "image_url": "https://m.media-amazon.com/images/I/61b2jfLekpL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFMCM4HL",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Wye+Sewer+Hose+Fittings+%26+4-in-1+Adapter+-Built-In+Gasket"
+  },
+  {
     "asin": "B0H9XSR655",
     "title": "Neptuiby Car Window Fan Solar Powered Car Vent Fan Dual-mode Blow/suction Ventilator Solar Fans for Vehicles Truck RV Backsea",
     "type": "candidate",
@@ -15618,17 +15629,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71HfQFnBqDL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HH936BB8",
     "walmart_url": "https://www.walmart.com/search?q=RV+Dinette+Cushion+Set+with+PU+Leather+Covers%2C+Black%2C+36%22"
-  },
-  {
-    "asin": "B0HFMCM4HL",
-    "title": "RV Wye Sewer Hose Fittings &amp; 4-in-1 Adapter -Built-In Gaskets for Odor",
-    "type": "candidate",
-    "score": 46.0,
-    "price": 22.99,
-    "bsr": 11102,
-    "image_url": "https://m.media-amazon.com/images/I/61b2jfLekpL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFMCM4HL",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Wye+Sewer+Hose+Fittings+%26+4-in-1+Adapter+-Built-In+Gasket"
   },
   {
     "asin": "B0H2ZCRDNQ",
@@ -16214,6 +16214,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Lrichy+3+in+1+Value+RV+Water+Heater+Replacement+Part+Kit+for"
   },
   {
+    "asin": "B0H9NZNYXZ",
+    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
+    "type": "candidate",
+    "score": 44.65,
+    "price": 14.99,
+    "bsr": 7647,
+    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
+    "walmart_url": "https://www.walmart.com/search?q=4%22+Stainless+Steel+5%2F8%22+Trailer+Hitch+Pin+with+Hitch+Pin+Cli"
+  },
+  {
     "asin": "B0H4BZYS8K",
     "title": "Pluvane RV Roof Coating 1.1 Gal – Silicone Waterproof Sealant for Campers | 100% silicone.For fiberglass,aluminum &amp; TPO roofs",
     "type": "candidate",
@@ -16676,6 +16687,28 @@
     "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+Sewer+Hose+Fitting+Adapter+Kit+to+PVC%2C+3+Inch+Rota"
   },
   {
+    "asin": "B0H9YZXF58",
+    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
+    "type": "candidate",
+    "score": 43.75,
+    "price": 6.99,
+    "bsr": 7342,
+    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
+    "walmart_url": "https://www.walmart.com/search?q=Wall+Phone+Holder+2+Pack+for+iPhone+Android+-+Adhesive+No+Dr"
+  },
+  {
+    "asin": "B0HCB9PTGG",
+    "title": "Tarp Clips Heavy Duty, 30 Pcs Plastic Tarp Clamps Set",
+    "type": "candidate",
+    "score": 43.75,
+    "price": 8.5,
+    "bsr": 11107,
+    "image_url": "https://m.media-amazon.com/images/I/71CnbEVM7pL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCB9PTGG",
+    "walmart_url": "https://www.walmart.com/search?q=Tarp+Clips+Heavy+Duty%2C+30+Pcs+Plastic+Tarp+Clamps+Set"
+  },
+  {
     "asin": "B0H45VKJ5K",
     "title": "ProCamp 3&quot; RV Sewer Cap with Tether | Waste Valve Dump Cap Cover | Replacement 3&quot; waste valve dump cap with tether strap; fit",
     "type": "candidate",
@@ -17105,17 +17138,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Saralluna+RV+Cable+Hatch+Cover+PE+UV-Resistant+Heavy-Duty+3+"
   },
   {
-    "asin": "B0HCB9PTGG",
-    "title": "Tarp Clips Heavy Duty, 30 Pcs Plastic Tarp Clamps Set",
-    "type": "candidate",
-    "score": 42.5,
-    "price": 8.5,
-    "bsr": 11738,
-    "image_url": "https://m.media-amazon.com/images/I/71CnbEVM7pL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCB9PTGG",
-    "walmart_url": "https://www.walmart.com/search?q=Tarp+Clips+Heavy+Duty%2C+30+Pcs+Plastic+Tarp+Clamps+Set"
-  },
-  {
     "asin": "B0H49BH23W",
     "title": "Zpana 2PCS Car Camera Lens Protector, Clear Backup Camera Cover | Transparency 360° Panoramic Rearview Camera Rain Guard Cove",
     "type": "candidate",
@@ -17290,17 +17312,6 @@
     "image_url": "https://m.media-amazon.com/images/I/41S4OoAT1BL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3THHX35",
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Crank+Handle+56%22+Fordable+Awning+Crank+Wand+with+H"
-  },
-  {
-    "asin": "B0H9YZXF58",
-    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
-    "type": "candidate",
-    "score": 42.25,
-    "price": 6.99,
-    "bsr": 7060,
-    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
-    "walmart_url": "https://www.walmart.com/search?q=Wall+Phone+Holder+2+Pack+for+iPhone+Android+-+Adhesive+No+Dr"
   },
   {
     "asin": "B0H5SDY31C",
@@ -17686,17 +17697,6 @@
     "image_url": "https://m.media-amazon.com/images/I/51DpruSbzwL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHWPN68Y",
     "walmart_url": "https://www.walmart.com/search?q=Car+Scratch+Remover+Wax+for+Vehicles+Rubbing+Compound+%26+Pain"
-  },
-  {
-    "asin": "B0H4TBLR42",
-    "title": "2 Pack RV T-Style Door Holder, 6 Inch ABS Camper Door Catch, Black",
-    "type": "candidate",
-    "score": 41.0,
-    "price": 9.99,
-    "bsr": 10061,
-    "image_url": "https://m.media-amazon.com/images/I/71bkcIhLGxL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4TBLR42",
-    "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+T-Style+Door+Holder%2C+6+Inch+ABS+Camper+Door+Catch%2C"
   },
   {
     "asin": "B0H7B9PPNG",
@@ -18711,17 +18711,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RP-4200+Thick+Roof+Kit%2C+RV+Antenna+Mounting+Bracket+Replacem"
   },
   {
-    "asin": "B0H9NZNYXZ",
-    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
-    "type": "candidate",
-    "score": 38.7,
-    "price": 14.99,
-    "bsr": 7949,
-    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
-    "walmart_url": "https://www.walmart.com/search?q=4%22+Stainless+Steel+5%2F8%22+Trailer+Hitch+Pin+with+Hitch+Pin+Cli"
-  },
-  {
     "asin": "B0H26MN48T",
     "title": "RecPro 24&quot; x 24&quot; RV Shower Pan with Center Drain | Polar White, Plastic Material, Made in USA",
     "type": "candidate",
@@ -19492,6 +19481,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+26%22+W%C3%9736%22+H+Entry+Door+Set%2C+RV+Camper+Teardro"
   },
   {
+    "asin": "B0H4Q6DGW4",
+    "title": "2&quot; Trailer Hitch Cover [Reinforced Rubber Strap] Heavy Duty Rustproof Flat",
+    "type": "candidate",
+    "score": 36.25,
+    "price": 5.49,
+    "bsr": 5708,
+    "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
+    "walmart_url": "https://www.walmart.com/search?q=2%22+Trailer+Hitch+Cover+%5BReinforced+Rubber+Strap%5D+Heavy+Duty+"
+  },
+  {
     "asin": "B0H1LHLG4F",
     "title": "PIHIL 3313107.015 Rv Air Conditioner Fan Blade | Compatible with Dometic Brisk and Duo-Therm AC Series, Replaces 3313107.0150",
     "type": "candidate",
@@ -19607,7 +19607,7 @@
     "type": "candidate",
     "score": 35.7,
     "price": 4.99,
-    "bsr": 10158,
+    "bsr": 10451,
     "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
     "walmart_url": "https://www.walmart.com/search?q=6PCS+Trailer+Pin%2C+Standard+1%2F4+Hitch+Pin%2C+Strong+Trailer+Cou"
@@ -19633,17 +19633,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71OB-RGky2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDZB64ZX",
     "walmart_url": "https://www.walmart.com/search?q=POL+to+QCC1+Propane+Tank+Adapter+Heavy+Duty+Solid+Brass+Conv"
-  },
-  {
-    "asin": "B0H4Q6DGW4",
-    "title": "2&quot; Trailer Hitch Cover [Reinforced Rubber Strap] Heavy Duty Rustproof Flat",
-    "type": "candidate",
-    "score": 35.5,
-    "price": 5.49,
-    "bsr": 5794,
-    "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
-    "walmart_url": "https://www.walmart.com/search?q=2%22+Trailer+Hitch+Cover+%5BReinforced+Rubber+Strap%5D+Heavy+Duty+"
   },
   {
     "asin": "B0H3ZP7NTQ",
@@ -19941,6 +19930,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61f47jOko1L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD763L7L",
     "walmart_url": "https://www.walmart.com/search?q=161123+RV+Furnace+Heater+Gas+Valve+Fits+Suburban+NT+Series"
+  },
+  {
+    "asin": "B0H4TBLR42",
+    "title": "2 Pack RV T-Style Door Holder, 6 Inch ABS Camper Door Catch, Black",
+    "type": "candidate",
+    "score": 34.0,
+    "price": 9.99,
+    "bsr": 9554,
+    "image_url": "https://m.media-amazon.com/images/I/71bkcIhLGxL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4TBLR42",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+T-Style+Door+Holder%2C+6+Inch+ABS+Camper+Door+Catch%2C"
   },
   {
     "asin": "B0HFMV7VHN",
@@ -21437,6 +21437,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71faBb2K58L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H93W5BZ9",
     "walmart_url": "https://www.walmart.com/search?q=Rear+View+Backup+Camera+OE%3A+FL1Z-19G490-B+Fit+for+2015-2017+"
+  },
+  {
+    "asin": "B0H5L29S9F",
+    "title": "G390 RV Keys, 3 Pack Precut Replacement Keys",
+    "type": "candidate",
+    "score": 27.0,
+    "price": 14.99,
+    "bsr": 6834,
+    "image_url": "https://m.media-amazon.com/images/I/714Wtn4u4KL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5L29S9F",
+    "walmart_url": "https://www.walmart.com/search?q=G390+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
   },
   {
     "asin": "B0H7MDG4GG",
