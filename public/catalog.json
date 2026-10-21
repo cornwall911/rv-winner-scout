@@ -1001,6 +1001,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Banrterd+65%2C000+BTU+RV+Tankless+Water+Heater%2C+12V+DC%2C+18x15+"
   },
   {
+    "asin": "B0GY4TQ2P8",
+    "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
+    "type": "winner",
+    "score": 82.5,
+    "price": 329.99,
+    "bsr": 923,
+    "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GY4TQ2P8",
+    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station%2C+2%2C010Wh%2C+1%2C500W"
+  },
+  {
     "asin": "B0H1Q4CX8C",
     "title": "12V 12000 BTU Split Truck Air Conditioner, Super Quiet Fast Cooling DC Parking AC for Semi Truck, RV, Camper, Construction Ve",
     "type": "winner",
@@ -1659,17 +1670,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61FNlZ9xg2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H36WBTV5",
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Lights+Interior%2C+Battery+LED+Ceiling+Light+with+"
-  },
-  {
-    "asin": "B0GY4TQ2P8",
-    "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
-    "type": "should_test",
-    "score": 79.75,
-    "price": 699.99,
-    "bsr": 519,
-    "image_url": "https://m.media-amazon.com/images/I/71d9U6KPEVL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GY4TQ2P8",
-    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station%2C+2%2C010Wh%2C+1%2C500W"
   },
   {
     "asin": "B0HJQR82WN",
