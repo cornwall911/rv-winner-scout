@@ -1155,17 +1155,6 @@
     "walmart_url": "https://www.walmart.com/search?q=BQDRTMZ+12V+RV+Air+Conditioner+with+PTC+Heating%2CRemote+Contr"
   },
   {
-    "asin": "B0H6JV8ZG9",
-    "title": "IP68 Waterproof Ethernet RJ45 Pass Through for Starlink Gen3 Gen4",
-    "type": "winner",
-    "score": 81.8,
-    "price": 17.99,
-    "bsr": 21057,
-    "image_url": "https://m.media-amazon.com/images/I/61cdOdn1OAL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6JV8ZG9",
-    "walmart_url": "https://www.walmart.com/search?q=IP68+Waterproof+Ethernet+RJ45+Pass+Through+for+Starlink+Gen3"
-  },
-  {
     "asin": "B0H1HKQBCX",
     "title": "RV Slide Topper Awning Support Frame (2 Pack), Anti-Water Pooling Support for Motorhome Travel Trailer Slideouts, Height Adjustable 6-1/2&quot; to 7-1/2&quot;, No-Tool Installation, Weather Resistant",
     "type": "winner",
@@ -1384,6 +1373,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/612tLsVJrxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBW6Y851",
     "walmart_url": "https://www.walmart.com/search?q=12V+Rooftop+RV+Air+Conditioner%2C+Rooftop+Parking+AC+Unit+with"
+  },
+  {
+    "asin": "B0HBVT555Y",
+    "title": "Lymezato RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in | Powder-Coated Iron Helps Resist Rust and Dog Scrat",
+    "type": "winner",
+    "score": 80.75,
+    "price": 36.9,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81P0gDn+eQL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
+    "walmart_url": "https://www.walmart.com/search?q=Lymezato+RV+Screen+Door+Protector%2C+Adjustable+Iron+Dog+Guard"
   },
   {
     "asin": "B0GZSMCDPJ",
@@ -1991,17 +1991,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Vehicle+Awning+4.6%27x6.6%27+-+Car+Awning+Roof+Rack+Pullout+Sun+"
   },
   {
-    "asin": "B0HBVT555Y",
-    "title": "Lymezato RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in | Powder-Coated Iron Helps Resist Rust and Dog Scrat",
-    "type": "should_test",
-    "score": 78.5,
-    "price": 36.9,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81P0gDn+eQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
-    "walmart_url": "https://www.walmart.com/search?q=Lymezato+RV+Screen+Door+Protector%2C+Adjustable+Iron+Dog+Guard"
-  },
-  {
     "asin": "B0GX5N85D9",
     "title": "Heavy Duty Trailer Jack Drill Adapter Fit 1 Inch Jack Drive Shafts | with 1/2 Inch Socket Bit,Universal Cordless Drill Jack C",
     "type": "should_test",
@@ -2044,6 +2033,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71QQPfqMODL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5W87QDM",
     "walmart_url": "https://www.walmart.com/search?q=WSDCAM+Two-Way+Bike+Alarm+120dB%2C+USB-C+Rechargeable+with+Rem"
+  },
+  {
+    "asin": "B0H6JV8ZG9",
+    "title": "IP68 Waterproof Ethernet RJ45 Pass Through for Starlink Gen3 Gen4",
+    "type": "should_test",
+    "score": 78.35,
+    "price": 17.99,
+    "bsr": 19350,
+    "image_url": "https://m.media-amazon.com/images/I/61cdOdn1OAL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6JV8ZG9",
+    "walmart_url": "https://www.walmart.com/search?q=IP68+Waterproof+Ethernet+RJ45+Pass+Through+for+Starlink+Gen3"
   },
   {
     "asin": "B0H884HT8F",
@@ -3212,6 +3212,17 @@
     "walmart_url": "https://www.walmart.com/search?q=AIVOLT+4200W+Inverter+Generator+Gas+Powered%2C+Portable+Open+F"
   },
   {
+    "asin": "B0HGN3429Y",
+    "title": "Foam Cannon + Salt Snapper Bundle – Garden Hose Foam Sprayer &amp; Marine Salt Remover Wash for RV, Boat, Truck &amp; Trailer – No Pressure Washer Needed",
+    "type": "should_test",
+    "score": 74.5,
+    "price": 69.4,
+    "bsr": 1323818,
+    "image_url": "https://m.media-amazon.com/images/I/61ujYp5aycL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGN3429Y",
+    "walmart_url": "https://www.walmart.com/search?q=Foam+Cannon+%2B+Salt+Snapper+Bundle+%E2%80%93+Garden+Hose+Foam+Sprayer"
+  },
+  {
     "asin": "B0H4W8F84N",
     "title": "FOSSiBOT F1800 Portable Power Station 1800W (3600W Surge), 1024Wh Solar Generator with LiFePO4 Battery, 10ms Seamless UPS, Pu",
     "type": "should_test",
@@ -3221,17 +3232,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bKn64S+FL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4W8F84N",
     "walmart_url": "https://www.walmart.com/search?q=FOSSiBOT+F1800+Portable+Power+Station+1800W+%283600W+Surge%29%2C+1"
-  },
-  {
-    "asin": "B0HGN3429Y",
-    "title": "Foam Cannon + Salt Snapper Bundle – Garden Hose Foam Sprayer &amp; Marine Salt Remover Wash for RV, Boat, Truck &amp; Trailer – No Pressure Washer Needed",
-    "type": "should_test",
-    "score": 74.25,
-    "price": 69.4,
-    "bsr": 1153298,
-    "image_url": "https://m.media-amazon.com/images/I/61ujYp5aycL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGN3429Y",
-    "walmart_url": "https://www.walmart.com/search?q=Foam+Cannon+%2B+Salt+Snapper+Bundle+%E2%80%93+Garden+Hose+Foam+Sprayer"
   },
   {
     "asin": "B0HML6MCZV",
@@ -4048,17 +4048,6 @@
     "walmart_url": "https://www.walmart.com/search?q=IXMGA+RV+I-Beam+Stabilizer%2C+Heavy-Duty+Aluminum+Anti-Sway+Ca"
   },
   {
-    "asin": "B0H86SFMB6",
-    "title": "Magnetic RV Solar Lights Outdoor, 160LEDs Bright RV Light with Motion Sensor, Waterproof 3 Lighting Modes RV Exterior Lighting for Camper Trailer Awning Porch",
-    "type": "should_test",
-    "score": 70.05,
-    "price": 25.99,
-    "bsr": 13370,
-    "image_url": "https://m.media-amazon.com/images/I/81mhDG6vzaL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H86SFMB6",
-    "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Solar+Lights+Outdoor%2C+160LEDs+Bright+RV+Light+wi"
-  },
-  {
     "asin": "B0H6B4HJYT",
     "title": "Nilight RV Leveling Ramps with Wheel Chocks, 2-Pack",
     "type": "should_test",
@@ -4673,17 +4662,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71xwd4MZItL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H74YBZPQ",
     "walmart_url": "https://www.walmart.com/search?q=Propane+Tank+Storage+Bag+for+1lb+Cylinders%2C+Holds+6+%28Black%29"
-  },
-  {
-    "asin": "B0H73Z34ZD",
-    "title": "RV Black Tank Wand, RV Black Tank Flush Kit 63&quot; Reach with 360° Rotating Brass Nozzle Quick Shutoff Valve &amp; Flexible Anti-Burst Hose for Deep Tank Cleaning",
-    "type": "should_test",
-    "score": 67.95,
-    "price": 25.99,
-    "bsr": 252913,
-    "image_url": "https://m.media-amazon.com/images/I/61imNsmSypL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H73Z34ZD",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Black+Tank+Wand%2C+RV+Black+Tank+Flush+Kit+63%22+Reach+with+3"
   },
   {
     "asin": "B0H3Z9CG8D",
@@ -5423,6 +5401,28 @@
     "walmart_url": "https://www.walmart.com/search?q=Leakbee+2-in-1+RV+Propane+Gas+Detector%2CHardwired+12V+DC+with"
   },
   {
+    "asin": "B0HDNNMNB4",
+    "title": "RV Holding Tank Swivel Stik Rinser, RV Black Tank Cleaner Wand",
+    "type": "should_test",
+    "score": 65.25,
+    "price": 29.99,
+    "bsr": 75040,
+    "image_url": "https://m.media-amazon.com/images/I/618uHgEfKuL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDNNMNB4",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Holding+Tank+Swivel+Stik+Rinser%2C+RV+Black+Tank+Cleaner+Wa"
+  },
+  {
+    "asin": "B0H73ZJRT9",
+    "title": "RV Black Tank Flush Kit, 63&quot; Flexible RV Black Tank Wand with 360° Rotating Brass Nozzle Quick Shutoff Valve &amp; Anti-Burst Hose for Deep Tank Rinsing",
+    "type": "should_test",
+    "score": 65.25,
+    "price": 26.99,
+    "bsr": 257624,
+    "image_url": "https://m.media-amazon.com/images/I/61K5at5IloL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H73ZJRT9",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Black+Tank+Flush+Kit%2C+63%22+Flexible+RV+Black+Tank+Wand+wit"
+  },
+  {
     "asin": "B0HHB3SV4L",
     "title": "CMI RV Water Heater Flush Wand, RV Tank Rinser for Camper Water Heater Cleaning, Tank Flushing Tool for Sediment, Scale &amp; Deb",
     "type": "should_test",
@@ -5863,17 +5863,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter+-+Heavy+Duty+Insulated+Camper+Skirt+f"
   },
   {
-    "asin": "B0H827Z5YB",
-    "title": "Lyrrhena RV Black Tank Flush Wand Kit – 360° Rotatable 304 Stainless Steel Nozzle with 10ft Hose, Quickly Breaks Down Waste,",
-    "type": "should_test",
-    "score": 63.75,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51yUEFt4hlL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H827Z5YB",
-    "walmart_url": "https://www.walmart.com/search?q=Lyrrhena+RV+Black+Tank+Flush+Wand+Kit+%E2%80%93+360%C2%B0+Rotatable+304+S"
-  },
-  {
     "asin": "B0H1DGRSD5",
     "title": "Wall Mount Holder Bracket for Coleman 1lb Mini Propane Tank Bottle 3D-Printed",
     "type": "should_test",
@@ -5896,6 +5885,17 @@
     "walmart_url": "https://www.walmart.com/search?q=BLUETTI+FridgePower+Portable+Power+Station+with+Screen%2C+2016"
   },
   {
+    "asin": "B0H2TM819G",
+    "title": "4-Pack 6600LBS RV Stabilizer Jacks Set",
+    "type": "should_test",
+    "score": 63.5,
+    "price": 33.29,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/81JBqBBIBoL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2TM819G",
+    "walmart_url": "https://www.walmart.com/search?q=4-Pack+6600LBS+RV+Stabilizer+Jacks+Set"
+  },
+  {
     "asin": "B0HDNXGCL3",
     "title": "Window Vent Duct Adapter Compatible with EcoFlow Wave 2 Wave 3",
     "type": "should_test",
@@ -5905,6 +5905,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61AKRx-k5pL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDNXGCL3",
     "walmart_url": "https://www.walmart.com/search?q=Window+Vent+Duct+Adapter+Compatible+with+EcoFlow+Wave+2+Wave"
+  },
+  {
+    "asin": "B0GH4F1XWM",
+    "title": "Pure Silicone RV Roof Coating &amp; Leak Repair, No Primer Needed, One Coat, Self-Leveling, Waterproof &amp; UV Resistant for EPDM, TPO, Metal, Fiberglass &amp; Flat Roofs - 4.75 Gallons White",
+    "type": "should_test",
+    "score": 63.3,
+    "price": 299.85,
+    "bsr": 813920,
+    "image_url": "https://m.media-amazon.com/images/I/61SQLtkEb1L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GH4F1XWM",
+    "walmart_url": "https://www.walmart.com/search?q=Pure+Silicone+RV+Roof+Coating+%26+Leak+Repair%2C+No+Primer+Neede"
   },
   {
     "asin": "B0HBVDYXZT",
@@ -5984,28 +5995,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Skid+Steer+Backup+Camera+Dual-View+7+Inch+1080p+HD%2C+Camera%2C+"
   },
   {
-    "asin": "B0HDNNMNB4",
-    "title": "RV Holding Tank Swivel Stik Rinser, RV Black Tank Cleaner Wand",
-    "type": "should_test",
-    "score": 63.25,
-    "price": 29.99,
-    "bsr": 121733,
-    "image_url": "https://m.media-amazon.com/images/I/618uHgEfKuL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDNNMNB4",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Holding+Tank+Swivel+Stik+Rinser%2C+RV+Black+Tank+Cleaner+Wa"
-  },
-  {
-    "asin": "B0GH4F1XWM",
-    "title": "Pure Silicone RV Roof Coating &amp; Leak Repair, No Primer Needed, One Coat, Self-Leveling, Waterproof &amp; UV Resistant for EPDM, TPO, Metal, Fiberglass &amp; Flat Roofs - 4.75 Gallons White",
-    "type": "should_test",
-    "score": 63.25,
-    "price": 299.85,
-    "bsr": 683714,
-    "image_url": "https://m.media-amazon.com/images/I/61SQLtkEb1L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GH4F1XWM",
-    "walmart_url": "https://www.walmart.com/search?q=Pure+Silicone+RV+Roof+Coating+%26+Leak+Repair%2C+No+Primer+Neede"
-  },
-  {
     "asin": "B0H3Q3W3NN",
     "title": "Accumulator Expansion Tank – Reduces Pump Cycling, Smooth Water Flow, Max 150 PSI, 1/2&quot; MNPT, Compact Design for RV, Marine, Boat &amp; Off-Grid Systems (1.0L (33.8 OZ))",
     "type": "should_test",
@@ -6059,6 +6048,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Xz4qRogTL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJH9HKNP",
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter%2C+Insulated+Camper+Skirt+Kit+28m%2F91ft+"
+  },
+  {
+    "asin": "B0H827Z5YB",
+    "title": "Lyrrhena RV Black Tank Flush Wand Kit – 360° Rotatable 304 Stainless Steel Nozzle with 10ft Hose, Quickly Breaks Down Waste,",
+    "type": "should_test",
+    "score": 62.75,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51yUEFt4hlL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H827Z5YB",
+    "walmart_url": "https://www.walmart.com/search?q=Lyrrhena+RV+Black+Tank+Flush+Wand+Kit+%E2%80%93+360%C2%B0+Rotatable+304+S"
   },
   {
     "asin": "B0HF7W3KCJ",
@@ -6682,7 +6682,7 @@
     "type": "should_test",
     "score": 61.0,
     "price": 68.99,
-    "bsr": 505529,
+    "bsr": 592031,
     "image_url": "https://m.media-amazon.com/images/I/715pEYIUIzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H44261QZ",
     "walmart_url": "https://www.walmart.com/search?q=Otter+Wash+1+Gallon+Rinseless+Car+Wash+Concentrate+%E2%80%93+120%2B+Wa"
@@ -7293,17 +7293,6 @@
     "walmart_url": "https://www.walmart.com/search?q=4+Pack+RV+Winterizer+Kit%2C+Blowout+Ball+Valve+%26+Plug%2C+3%2F4%22+GH"
   },
   {
-    "asin": "B0H1BVR4FG",
-    "title": "LWCH Adjustable Trailer Hitch for 2.5 Inch Receiver, 8 Inch Drop/Rise | Heavy Duty Aluminum Tow Hitch with 2 &amp; 2-5/16 IN Chro",
-    "type": "should_test",
-    "score": 59.25,
-    "price": 149.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71atDq1aJlL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1BVR4FG",
-    "walmart_url": "https://www.walmart.com/search?q=LWCH+Adjustable+Trailer+Hitch+for+2.5+Inch+Receiver%2C+8+Inch+"
-  },
-  {
     "asin": "B0H5K3ZGZC",
     "title": "RV 2-Stage Auto Changeover LP Propane Gas Regulator for RVs Trailers Campe | with 2PCS 18&quot; RV Pigtail Propane Hoses with Gaug",
     "type": "should_test",
@@ -7370,26 +7359,15 @@
     "walmart_url": "https://www.walmart.com/search?q=LWCH+Adjustable+Trailer+Hitch%2C+Fit+2+in+Receiver%2C+6+Inch+Dro"
   },
   {
-    "asin": "B0HGKY6SXM",
-    "title": "XPE Adjustable Trailer Hitch for 2&quot; Receiver, Heavy Duty 6&quot; Drop Tow Hitch",
-    "type": "should_test",
-    "score": 59.0,
-    "price": 99.98,
-    "bsr": 20205,
-    "image_url": "https://m.media-amazon.com/images/I/61AFT1Tsg7L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGKY6SXM",
-    "walmart_url": "https://www.walmart.com/search?q=XPE+Adjustable+Trailer+Hitch+for+2%22+Receiver%2C+Heavy+Duty+6%22+"
-  },
-  {
-    "asin": "B0H73ZJRT9",
-    "title": "UEGHNS RV Black Tank Flush Kit, 63&quot; Flexible RV Black Tank Wand with 360° Rotating Brass Nozzle Quick Shutoff Valve &amp; Anti-Bu",
+    "asin": "B0H1BVR4FG",
+    "title": "LWCH Adjustable Trailer Hitch for 2.5 Inch Receiver, 8 Inch Drop/Rise | Heavy Duty Aluminum Tow Hitch with 2 &amp; 2-5/16 IN Chro",
     "type": "should_test",
     "score": 58.75,
-    "price": 26.99,
+    "price": 159.99,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61K5at5IloL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H73ZJRT9",
-    "walmart_url": "https://www.walmart.com/search?q=UEGHNS+RV+Black+Tank+Flush+Kit%2C+63%22+Flexible+RV+Black+Tank+W"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71atDq1aJlL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1BVR4FG",
+    "walmart_url": "https://www.walmart.com/search?q=LWCH+Adjustable+Trailer+Hitch+for+2.5+Inch+Receiver%2C+8+Inch+"
   },
   {
     "asin": "B0HGM2V4M9",
@@ -8074,6 +8052,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2-in-1+RV+Accessories+Gas+Detector%2CHardwired+12V+DC+for+Moto"
   },
   {
+    "asin": "B0H73Z34ZD",
+    "title": "RV Black Tank Wand, RV Black Tank Flush Kit 63&quot; Reach with 360° Rotating Brass Nozzle Quick Shutoff Valve &amp; Flexible Anti-Burst Hose for Deep Tank Cleaning",
+    "type": "should_test",
+    "score": 56.75,
+    "price": 25.99,
+    "bsr": 250504,
+    "image_url": "https://m.media-amazon.com/images/I/61imNsmSypL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H73Z34ZD",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Black+Tank+Wand%2C+RV+Black+Tank+Flush+Kit+63%22+Reach+with+3"
+  },
+  {
     "asin": "B0H9R7HBV8",
     "title": "briidea 2-in-1 RV Accessories Gas Detector | Dual UL Listed Sensors with Separate LED Indicator Lights, 12V DC for RVs, Trave",
     "type": "should_test",
@@ -8305,6 +8294,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+RV+Roof+Cover%2C+Waterproof+Campers+Roof+Cover+for+"
   },
   {
+    "asin": "B0HFVDPCKJ",
+    "title": "Hicover 600D Rv Roof Cover Waterproof Fits 31ft to 33ft Motorhome Caravan | Camper Roof Cover Wind,Rain and Snow Proof Pop up",
+    "type": "should_test",
+    "score": 56.1,
+    "price": 99.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81IHpWJAWSL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFVDPCKJ",
+    "walmart_url": "https://www.walmart.com/search?q=Hicover+600D+Rv+Roof+Cover+Waterproof+Fits+31ft+to+33ft+Moto"
+  },
+  {
     "asin": "B0HFK7QH2V",
     "title": "RV Black Tank Cleaning Wand, 48&quot; Stick with 360° Rotating Nozzle &amp;",
     "type": "should_test",
@@ -8380,6 +8380,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61z0RpB09FL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1NS9NPP",
     "walmart_url": "https://www.walmart.com/search?q=Furrion+Chill+Cube+18K+Ducted+Black+Variable+Speed+RV+Roofto"
+  },
+  {
+    "asin": "B0HGKY6SXM",
+    "title": "XPE Adjustable Trailer Hitch for 2&quot; Receiver, Heavy Duty 6&quot; Drop Tow Hitch | 2-Inch &amp; 2-5/16-Inch Balls, Up to 20,000 lbs GTW",
+    "type": "should_test",
+    "score": 55.75,
+    "price": 99.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61AFT1Tsg7L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGKY6SXM",
+    "walmart_url": "https://www.walmart.com/search?q=XPE+Adjustable+Trailer+Hitch+for+2%22+Receiver%2C+Heavy+Duty+6%22+"
   },
   {
     "asin": "B0H5W3KGCQ",
@@ -8468,6 +8479,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/615avRFG6YL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHDQZ8Y8",
     "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+RV+Roof+Cover%2C+Waterproof+%26+UV+Resistant%2C+Fits+24"
+  },
+  {
+    "asin": "B0HDLZXVDR",
+    "title": "RV Tank Rinser with Gate Valve, 2-in-1 RV Waste Valve Black Tank Flush Kit",
+    "type": "should_test",
+    "score": 55.75,
+    "price": 39.99,
+    "bsr": 43775,
+    "image_url": "https://m.media-amazon.com/images/I/61jLkdr25WL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDLZXVDR",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Tank+Rinser+with+Gate+Valve%2C+2-in-1+RV+Waste+Valve+Black+"
   },
   {
     "asin": "B0HC9S5YQ3",
@@ -8666,6 +8688,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wqacuSM5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8JCYYTC",
     "walmart_url": "https://www.walmart.com/search?q=1200D+Wider+3.6m%2F11.8ft%2C+Travel+Trailer+Cover%2C+Charcoal+Gray"
+  },
+  {
+    "asin": "B0H5J8HNZN",
+    "title": "Quynhni 62“ RV Black Water Tank Cleaner Wand，Camper Water Tank Rotating Spray Washer Powerful Cleaning Function for RVs Campe",
+    "type": "should_test",
+    "score": 55.25,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51i1aoTfsWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5J8HNZN",
+    "walmart_url": "https://www.walmart.com/search?q=Quynhni+62%E2%80%9C+RV+Black+Water+Tank+Cleaner+Wand%EF%BC%8CCamper+Water+Ta"
   },
   {
     "asin": "B0GYJDMK18",
@@ -8899,6 +8932,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Step+Stool+with+Handle+for+Adults+%26+Seniors%2C2+Step+Heavy+Dut"
   },
   {
+    "asin": "B0HCTZPY4Q",
+    "title": "RV Black Tank Rinser with Gate Valve and Backflow Preventer",
+    "type": "should_test",
+    "score": 54.5,
+    "price": 29.99,
+    "bsr": 926824,
+    "image_url": "https://m.media-amazon.com/images/I/61LxaxXO0qL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCTZPY4Q",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Black+Tank+Rinser+with+Gate+Valve+and+Backflow+Preventer"
+  },
+  {
     "asin": "B0H7QXHHY3",
     "title": "RV Toilet seal Replacement for Dometic 300/301/310/311/320/321, 385311658 | Leakproof rubber flu ball gasket. Stops leaks &amp; o",
     "type": "should_test",
@@ -8930,6 +8974,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61y2HPkAEWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2537X4J",
     "walmart_url": "https://www.walmart.com/search?q=YCCOREE+3310420.017B+Left+Hand+Power+Awning+Torsion+Assembly"
+  },
+  {
+    "asin": "B0H6RFSBW4",
+    "title": "Self-Leveling RV Roof Lap Sealant White 10oz",
+    "type": "should_test",
+    "score": 54.25,
+    "price": 9.99,
+    "bsr": 74604,
+    "image_url": "https://m.media-amazon.com/images/I/61kDENaUxlL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6RFSBW4",
+    "walmart_url": "https://www.walmart.com/search?q=Self-Leveling+RV+Roof+Lap+Sealant+White+10oz"
   },
   {
     "asin": "B0H2MJL9WQ",
@@ -9141,17 +9196,6 @@
     "walmart_url": "https://www.walmart.com/search?q=BruyanXuan+Upgraded+OEM+520820+521099+RV+Furnace+Control+Cir"
   },
   {
-    "asin": "B0H78ZKS6Q",
-    "title": "Gzlozak RV Black Water Tank Cleaner Wand,63&quot; RV Water Tank Flusher with Shut-Off Valve &amp; Rotary Nozzle for RV Toilet Treatmen",
-    "type": "should_test",
-    "score": 52.75,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WeJgbEqdL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H78ZKS6Q",
-    "walmart_url": "https://www.walmart.com/search?q=Gzlozak+RV+Black+Water+Tank+Cleaner+Wand%2C63%22+RV+Water+Tank+F"
-  },
-  {
     "asin": "B0GZ37CF1Q",
     "title": "YICTENCRD NEMA 14-50R Outlet Box 50A 125/250V ETL Listed | RV Power Outlet Box with Cover, 3-Pole 4-Wire Grounding Outdoor Re",
     "type": "should_test",
@@ -9271,6 +9315,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61otgVq9HsL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8BCKSS6",
     "walmart_url": "https://www.walmart.com/search?q=Coleman-Mach+15+15%2C000+BTU+PowerSaver+Ducted+Quiet+RV+AC%2C+Wh"
+  },
+  {
+    "asin": "B0H78ZKS6Q",
+    "title": "Gzlozak RV Black Water Tank Cleaner Wand,63&quot; RV Water Tank Flusher with Shut-Off Valve &amp; Rotary Nozzle for RV Toilet Treatmen",
+    "type": "should_test",
+    "score": 51.75,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WeJgbEqdL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H78ZKS6Q",
+    "walmart_url": "https://www.walmart.com/search?q=Gzlozak+RV+Black+Water+Tank+Cleaner+Wand%2C63%22+RV+Water+Tank+F"
   },
   {
     "asin": "B0HDHGMP2M",
@@ -9515,6 +9570,17 @@
     "walmart_url": "https://www.walmart.com/search?q=8Pcs+Car+Camera+Cover%2C+Backup+Camera+Rain+Shield%2C+Rear+View+"
   },
   {
+    "asin": "B0H86SFMB6",
+    "title": "Magnetic RV Solar Lights Outdoor, 160LEDs Bright RV Light with Motion Sensor, Waterproof 3 Lighting Modes RV Exterior Lightin",
+    "type": "candidate",
+    "score": 64.65,
+    "price": 25.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81mhDG6vzaL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H86SFMB6",
+    "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Solar+Lights+Outdoor%2C+160LEDs+Bright+RV+Light+wi"
+  },
+  {
     "asin": "B0H41M799K",
     "title": "RV Propane Tank Cover,Mountain Camper Gas Cylinder Cover Fits 30LB Dual Propane Tanks for RV/Trailer/Camper Accessories Waterproof&amp; Weather Resistant",
     "type": "candidate",
@@ -9614,6 +9680,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Retro+Mountain+Sunset+Spare+Tire+Cover+with+Backup+Camera+Ho"
   },
   {
+    "asin": "B0HHSJNGW7",
+    "title": "Rv Fiberglass Gloss Oil Shine Restorer, 100ml Motorhome Gel Coat (3PCS)",
+    "type": "candidate",
+    "score": 63.25,
+    "price": 29.59,
+    "bsr": 1012507,
+    "image_url": "https://m.media-amazon.com/images/I/71o+sPK4BDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHSJNGW7",
+    "walmart_url": "https://www.walmart.com/search?q=Rv+Fiberglass+Gloss+Oil+Shine+Restorer%2C+100ml+Motorhome+Gel+"
+  },
+  {
     "asin": "B0H2HD5QJX",
     "title": "POVTOR Multi-Color Motion Activated RV Step Lights, 2 Pack | Magnetic&amp;Adhesive Tape Mounting, Battery Powered, RGBW&amp;WW Colors",
     "type": "candidate",
@@ -9667,17 +9744,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71Hs14N5HvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H38P54WG",
     "walmart_url": "https://www.walmart.com/search?q=VHBW+Magnetic+Solar+Lights+Outdoor%2C+2+Pack+Motion+Sensor+Lig"
-  },
-  {
-    "asin": "B0HHSJNGW7",
-    "title": "Rv Fiberglass Gloss Oil Shine Restorer, 100ml Motorhome Gel Coat (3PCS)",
-    "type": "candidate",
-    "score": 62.5,
-    "price": 29.59,
-    "bsr": 951832,
-    "image_url": "https://m.media-amazon.com/images/I/71o+sPK4BDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHSJNGW7",
-    "walmart_url": "https://www.walmart.com/search?q=Rv+Fiberglass+Gloss+Oil+Shine+Restorer%2C+100ml+Motorhome+Gel+"
   },
   {
     "asin": "B0HJNCTYSY",
@@ -9755,17 +9821,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/91+CKUiNXvL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8XPWVL7",
     "walmart_url": "https://www.walmart.com/search?q=Tiooii+RV+Loveseat+Recliner+Sofa%2C+Wall+Hugger+Reclining+RV+C"
-  },
-  {
-    "asin": "B0HF7CSL83",
-    "title": "SYLVOX 24 Inch Smart RV TV, 12V DC TV for Camper Truck, 1080P FHD",
-    "type": "candidate",
-    "score": 62.1,
-    "price": 269.0,
-    "bsr": 193952,
-    "image_url": "https://m.media-amazon.com/images/I/71Ijlqszu1L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF7CSL83",
-    "walmart_url": "https://www.walmart.com/search?q=SYLVOX+24+Inch+Smart+RV+TV%2C+12V+DC+TV+for+Camper+Truck%2C+1080"
   },
   {
     "asin": "B0HDSTM349",
@@ -10129,6 +10184,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71RkCf3iKLL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H366VCZJ",
     "walmart_url": "https://www.walmart.com/search?q=LUFEIDRA+Handheld+Bidet+Sprayer%2C+Adjustable+Water+Flow%2C+RV+T"
+  },
+  {
+    "asin": "B0HF7CSL83",
+    "title": "SYLVOX 24 Inch Smart RV TV, 12V DC TV for Camper Truck, 1080P FHD",
+    "type": "candidate",
+    "score": 59.0,
+    "price": 269.0,
+    "bsr": 149202,
+    "image_url": "https://m.media-amazon.com/images/I/71Ijlqszu1L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF7CSL83",
+    "walmart_url": "https://www.walmart.com/search?q=SYLVOX+24+Inch+Smart+RV+TV%2C+12V+DC+TV+for+Camper+Truck%2C+1080"
   },
   {
     "asin": "B0H8XRLQLT",
@@ -10703,17 +10769,6 @@
     "walmart_url": "https://www.walmart.com/search?q=TAYOVSZY+RV+Step+Covers+4+Pack%2C+Non%E2%80%91Slip+EVA+Foam+Camper+Sta"
   },
   {
-    "asin": "B0H2TM819G",
-    "title": "EZUVITA 4-Pack 6600LBS RV Stabilizer Jacks Set | 11&quot;-17&quot; Adjustable Height, 26,400 lbs Total Capacity, Cast Aluminum Construc",
-    "type": "candidate",
-    "score": 56.0,
-    "price": 33.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81JBqBBIBoL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2TM819G",
-    "walmart_url": "https://www.walmart.com/search?q=EZUVITA+4-Pack+6600LBS+RV+Stabilizer+Jacks+Set+%7C+11%22-17%22+Adj"
-  },
-  {
     "asin": "B0H7QZQRG7",
     "title": "RV Dual Flag Pole Mount for 2&quot; &amp; 2-1/4&quot; Trailer Tongue Jack, 1&quot; Flagpoles | Heavy-Duty Aluminum No-Drill Flag Holder with Too",
     "type": "candidate",
@@ -11060,7 +11115,7 @@
     "type": "candidate",
     "score": 55.25,
     "price": 79.99,
-    "bsr": 1416975,
+    "bsr": 1492027,
     "image_url": "https://m.media-amazon.com/images/I/61ZoeZpJ8NL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7PJ5BC6",
     "walmart_url": "https://www.walmart.com/search?q=RV+TV+Antenna+for+Smart+TV+Outdoor%2C+720%C2%B0+Omni+Directional+Re"
@@ -11196,6 +11251,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71IBJQE3TBL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8S1VTFM",
     "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+RV+Roof+Cover+fits+27ft+to+30ft+Class+A%2FB%2FC+Motor"
+  },
+  {
+    "asin": "B0HC6NS2HR",
+    "title": "RV Tank Rinser with Check Valve, 45° Clear Sewer Adapter",
+    "type": "candidate",
+    "score": 55.0,
+    "price": 24.68,
+    "bsr": 151665,
+    "image_url": "https://m.media-amazon.com/images/I/71sHRVzqfiL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6NS2HR",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Tank+Rinser+with+Check+Valve%2C+45%C2%B0+Clear+Sewer+Adapter"
   },
   {
     "asin": "B0HH8CNS1F",
@@ -11394,17 +11460,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61MVXwsngrL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ2GK626",
     "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+RV+Roof+Cover%2C+Winter+Snow+Protection+%7C+Fits+16+t"
-  },
-  {
-    "asin": "B0H69DVPJN",
-    "title": "7/8&quot; RV Trim Molding Insert, 100FT Heavy Duty RV Vinyl Trim, UV Resistant RV Weather Stripping Exterior, Flexible Molding Trim, Waterproof Screw Cover for Camper Travel Trailer Boat Channel, White",
-    "type": "candidate",
-    "score": 54.5,
-    "price": 16.99,
-    "bsr": 233768,
-    "image_url": "https://m.media-amazon.com/images/I/71YD+44wUVL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H69DVPJN",
-    "walmart_url": "https://www.walmart.com/search?q=7%2F8%22+RV+Trim+Molding+Insert%2C+100FT+Heavy+Duty+RV+Vinyl+Trim%2C"
   },
   {
     "asin": "B0HGQRJHG6",
@@ -11660,17 +11715,6 @@
     "walmart_url": "https://www.walmart.com/search?q=4+Pack+Wheel+Chocks%2C+Non-Slip+Wheel+Chocks+for+Travel+Traile"
   },
   {
-    "asin": "B0HC6NS2HR",
-    "title": "Yaozzix RV Tank Rinser with Check Valve, 45° Clear Sewer Adapter | Bonus Check Valve Stops Backflow, Protects Water. See-Thro",
-    "type": "candidate",
-    "score": 53.5,
-    "price": 24.68,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sHRVzqfiL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6NS2HR",
-    "walmart_url": "https://www.walmart.com/search?q=Yaozzix+RV+Tank+Rinser+with+Check+Valve%2C+45%C2%B0+Clear+Sewer+Ada"
-  },
-  {
     "asin": "B0H5VKG5N4",
     "title": "The RV water heater tank cleaner handle is equipped with a water stop valve",
     "type": "candidate",
@@ -11913,17 +11957,6 @@
     "walmart_url": "https://www.walmart.com/search?q=YESCAMP+Motorized+RV+Awning+Complete+Kit+Retractable+Electri"
   },
   {
-    "asin": "B0H4Q2HS55",
-    "title": "Omni Directional Outdoor TV Antenna for Smart TV, for Attic/Camper/RV，White | 720° Long Range Reception Digital HD TV Signal,",
-    "type": "candidate",
-    "score": 53.0,
-    "price": 79.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Ut5fbcnRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4Q2HS55",
-    "walmart_url": "https://www.walmart.com/search?q=Omni+Directional+Outdoor+TV+Antenna+for+Smart+TV%2C+for+Attic%2F"
-  },
-  {
     "asin": "B0HGR25NTV",
     "title": "Wawuwao Manual Retractable RV Steps, Single‑Step Aluminum Alloy Camper Step | RV Folding Entry Step with Anti‑Slip Tread &amp; Ye",
     "type": "candidate",
@@ -11935,15 +11968,15 @@
     "walmart_url": "https://www.walmart.com/search?q=Wawuwao+Manual+Retractable+RV+Steps%2C+Single%E2%80%91Step+Aluminum+Al"
   },
   {
-    "asin": "B0HDLZXVDR",
-    "title": "RV Tank Rinser with Gate Valve, 2-in-1 RV Waste Valve Black Tank Flush Kit",
+    "asin": "B0H372G4P1",
+    "title": "Wireless CarPlay Adapter for iPhone and Android Auto, Car Play Dongle Beige",
     "type": "candidate",
-    "score": 52.75,
-    "price": 39.99,
-    "bsr": 36026,
-    "image_url": "https://m.media-amazon.com/images/I/61jLkdr25WL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDLZXVDR",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Tank+Rinser+with+Gate+Valve%2C+2-in-1+RV+Waste+Valve+Black+"
+    "score": 53.0,
+    "price": 35.99,
+    "bsr": 1101547,
+    "image_url": "https://m.media-amazon.com/images/I/71v5by-J4UL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H372G4P1",
+    "walmart_url": "https://www.walmart.com/search?q=Wireless+CarPlay+Adapter+for+iPhone+and+Android+Auto%2C+Car+Pl"
   },
   {
     "asin": "B0GZKY1228",
@@ -12661,6 +12694,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Universal+RV+Plug+Wall+Mount+Holder+4-slot+RV+Power+Adapter+"
   },
   {
+    "asin": "B0H2Y6RW49",
+    "title": "Carnovate 3314082.000 RV Thermostat Fit for Dometic CCC2 | Multi-Zone Comfort Control Center 2, 10-Button, for Air Conditoner",
+    "type": "candidate",
+    "score": 51.5,
+    "price": 49.89,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DDvl0HXEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2Y6RW49",
+    "walmart_url": "https://www.walmart.com/search?q=Carnovate+3314082.000+RV+Thermostat+Fit+for+Dometic+CCC2+%7C+M"
+  },
+  {
     "asin": "B0H7K3FHQW",
     "title": "SEAFLO Fresh Water Strainer 02 Series, 3/4&quot; NPT Pump Strainer w/ 50 Mesh 316 Stainless Steel Filter, Clear PC Bowl, Nylon Housing, Inline Water Pump Filter for Marine, RV, Pressure Washer SFWS-750-02",
     "type": "candidate",
@@ -12758,17 +12802,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/716ooKpiFzL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF85KSJV",
     "walmart_url": "https://www.walmart.com/search?q=Travel+Trailer+Snow-Shield+Underbelly+Skirt%2C+98ft+%2F30m+Roll+"
-  },
-  {
-    "asin": "B0HCTZPY4Q",
-    "title": "RV Black Tank Rinser with Gate Valve and Backflow Preventer",
-    "type": "candidate",
-    "score": 51.05,
-    "price": 29.99,
-    "bsr": 835587,
-    "image_url": "https://m.media-amazon.com/images/I/61LxaxXO0qL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCTZPY4Q",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Black+Tank+Rinser+with+Gate+Valve+and+Backflow+Preventer"
   },
   {
     "asin": "B0HBPBZWNW",
@@ -13187,17 +13220,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71oKFTTErXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9R9DYZH",
     "walmart_url": "https://www.walmart.com/search?q=8PCS+Utility+RV+Master+Key+Set+with+Wire+Ring+CH751+MK9001+G"
-  },
-  {
-    "asin": "B0H372G4P1",
-    "title": "Wireless CarPlay Adapter for iPhone and Android Auto, Car Play Dongle Beige",
-    "type": "candidate",
-    "score": 50.5,
-    "price": 35.99,
-    "bsr": 2659250,
-    "image_url": "https://m.media-amazon.com/images/I/71v5by-J4UL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H372G4P1",
-    "walmart_url": "https://www.walmart.com/search?q=Wireless+CarPlay+Adapter+for+iPhone+and+Android+Auto%2C+Car+Pl"
   },
   {
     "asin": "B0H9RSZ52Y",
@@ -13629,6 +13651,28 @@
     "walmart_url": "https://www.walmart.com/search?q=American+Bigfoot+Spare+Tire+Cover+for+RV+Camper+SUV+Truck%2C+W"
   },
   {
+    "asin": "B0HFTJKSXN",
+    "title": "MiracleMist RV Roof &amp; Awning Cleaner, Exterior Surface, 32 oz, 2pk",
+    "type": "candidate",
+    "score": 50.0,
+    "price": 19.99,
+    "bsr": 73917,
+    "image_url": "https://m.media-amazon.com/images/I/71pKDYNwYiL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFTJKSXN",
+    "walmart_url": "https://www.walmart.com/search?q=MiracleMist+RV+Roof+%26+Awning+Cleaner%2C+Exterior+Surface%2C+32+o"
+  },
+  {
+    "asin": "B0H69DVPJN",
+    "title": "7/8&quot; RV Trim Molding Insert, 100FT Heavy Duty RV Vinyl Trim, UV Resistant RV Weather Stripping Exterior, Flexible Molding Trim, Waterproof Screw Cover for Camper Travel Trailer Boat Channel, White",
+    "type": "candidate",
+    "score": 49.9,
+    "price": 16.99,
+    "bsr": 233495,
+    "image_url": "https://m.media-amazon.com/images/I/71YD+44wUVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H69DVPJN",
+    "walmart_url": "https://www.walmart.com/search?q=7%2F8%22+RV+Trim+Molding+Insert%2C+100FT+Heavy+Duty+RV+Vinyl+Trim%2C"
+  },
+  {
     "asin": "B0HKMD2HDY",
     "title": "Foldable RV Step Stool with Adjustable Handrail,Heavy-Duty Hot Tub Steps, 3 | Foldable 3/4 Step Ladder for Safety, Portable M",
     "type": "candidate",
@@ -13649,28 +13693,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61NaH0xMgNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3L2H8C6",
     "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+RV+Camper+Teardrop+Trailer+Door+26%22+W+x+36%22+H"
-  },
-  {
-    "asin": "B0H82CWR1Z",
-    "title": "RV TV Antenna with Built-in Signal Amplifier, 360° Omni Directional Roof Mount Antenna for Camper, Motorhome &amp; Travel Trailer, Supports 4K 1080P HD, VHF/UHF Reception, 16.4FT RG6 Cable（White）",
-    "type": "candidate",
-    "score": 49.75,
-    "price": 79.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61ZfqiWeo7L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H82CWR1Z",
-    "walmart_url": "https://www.walmart.com/search?q=RV+TV+Antenna+with+Built-in+Signal+Amplifier%2C+360%C2%B0+Omni+Dire"
-  },
-  {
-    "asin": "B0H5J8HNZN",
-    "title": "Quynhni 62“ RV Black Water Tank Cleaner Wand，Camper Water Tank Rotating Spray Washer Powerful Cleaning Function for RVs Campe",
-    "type": "candidate",
-    "score": 49.75,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51i1aoTfsWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5J8HNZN",
-    "walmart_url": "https://www.walmart.com/search?q=Quynhni+62%E2%80%9C+RV+Black+Water+Tank+Cleaner+Wand%EF%BC%8CCamper+Water+Ta"
   },
   {
     "asin": "B0H4Q14Q8Z",
@@ -14322,17 +14344,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Zinc+Alloy+RV+Screen+Door+Latch+Handle+Replacement+Kit%2C+Righ"
   },
   {
-    "asin": "B0H82Q1KT2",
-    "title": "RV TV Antenna Roof Mount, 360° Omni Directional Reception with Built-in Signal Amplifier, Outdoor HDTV Antenna for Camper, Motorhome, Travel Trailer &amp; Boat, Supports 4K 1080P, 16.4FT RG6 Cable（Black）",
-    "type": "candidate",
-    "score": 48.75,
-    "price": 79.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/717ETRTp1NL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H82Q1KT2",
-    "walmart_url": "https://www.walmart.com/search?q=RV+TV+Antenna+Roof+Mount%2C+360%C2%B0+Omni+Directional+Reception+wi"
-  },
-  {
     "asin": "B0H6JDT6N5",
     "title": "CamperXlite RV USB Outlet 12V 74W Aluminum 3-Port (1 Pack) | 27W PD &amp; 20W PD USB C Socket, Flush Mount for RV Car Caravan Tra",
     "type": "candidate",
@@ -14641,6 +14652,28 @@
     "walmart_url": "https://www.walmart.com/search?q=EPDM+Waterproofing+Membrane+EasyStick+-+63+Mil+-+Fiber+Reinf"
   },
   {
+    "asin": "B0H82CWR1Z",
+    "title": "RV TV Antenna with Built-in Signal Amplifier, 360° Omni Directional Roof Mount Antenna for Camper, Motorhome &amp; Travel Trailer, Supports 4K 1080P HD, VHF/UHF Reception, 16.4FT RG6 Cable（White）",
+    "type": "candidate",
+    "score": 48.3,
+    "price": 79.99,
+    "bsr": 488639,
+    "image_url": "https://m.media-amazon.com/images/I/61ZfqiWeo7L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H82CWR1Z",
+    "walmart_url": "https://www.walmart.com/search?q=RV+TV+Antenna+with+Built-in+Signal+Amplifier%2C+360%C2%B0+Omni+Dire"
+  },
+  {
+    "asin": "B0H4Q2HS55",
+    "title": "Omni Directional Outdoor TV Antenna for Smart TV, for Attic/Camper/RV，White",
+    "type": "candidate",
+    "score": 48.25,
+    "price": 79.99,
+    "bsr": 493158,
+    "image_url": "https://m.media-amazon.com/images/I/71Ut5fbcnRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4Q2HS55",
+    "walmart_url": "https://www.walmart.com/search?q=Omni+Directional+Outdoor+TV+Antenna+for+Smart+TV%2C+for+Attic%2F"
+  },
+  {
     "asin": "B0H5B6NK79",
     "title": "Temsteel 3PCS RV Shower Hose Quick Connect, 1/2&quot;NPT Water Hose Adapter | Brass,1/2&quot;NPT and 3/4&quot;GHT Quick Connect and DisConne",
     "type": "candidate",
@@ -14661,17 +14694,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/613nqPxh6rL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H38B3SBG",
     "walmart_url": "https://www.walmart.com/search?q=Huyopu+Dishpan+for+Washing+Dishes%2C+9L+Collapsible+Auto+Wash+"
-  },
-  {
-    "asin": "B0H2Y6RW49",
-    "title": "Carnovate 3314082.000 RV Thermostat Fit for Dometic CCC2 | Multi-Zone Comfort Control Center 2, 10-Button, for Air Conditoner",
-    "type": "candidate",
-    "score": 48.25,
-    "price": 50.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DDvl0HXEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2Y6RW49",
-    "walmart_url": "https://www.walmart.com/search?q=Carnovate+3314082.000+RV+Thermostat+Fit+for+Dometic+CCC2+%7C+M"
   },
   {
     "asin": "B0HFTDS223",
@@ -14817,17 +14839,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Aluminum+RV+Floor+Vent+Cover%2C+2%22x10%22+RV+Floor+Register+Vent+"
   },
   {
-    "asin": "B0HFTJKSXN",
-    "title": "MiracleMist RV Roof &amp; Awning Cleaner, Exterior Surface, 32 oz, 2pk",
-    "type": "candidate",
-    "score": 48.15,
-    "price": 19.99,
-    "bsr": 71320,
-    "image_url": "https://m.media-amazon.com/images/I/71pKDYNwYiL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFTJKSXN",
-    "walmart_url": "https://www.walmart.com/search?q=MiracleMist+RV+Roof+%26+Awning+Cleaner%2C+Exterior+Surface%2C+32+o"
-  },
-  {
     "asin": "B0HGRSG29J",
     "title": "DUTTIETY 1 Step Manual Retractable RV Steps with Light Non-Slip Aluminum Alloy Camper Steps Foldable Aluminum Alloy Camper St",
     "type": "candidate",
@@ -14881,17 +14892,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WsjjvKTqL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2Q7LLMB",
     "walmart_url": "https://www.walmart.com/search?q=Aluminum+Rod+RV+Shower+Corner+Storage+Bar%2C+Adjustable+No-Dri"
-  },
-  {
-    "asin": "B0HCB77DHD",
-    "title": "Omni Directional Outdoor TV Antenna for Digital TV to Attic,Camper,RV，Black | Outdoor Antenna for Smart TV, 720° Long Range R",
-    "type": "candidate",
-    "score": 48.0,
-    "price": 89.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BDf5wtcWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCB77DHD",
-    "walmart_url": "https://www.walmart.com/search?q=Omni+Directional+Outdoor+TV+Antenna+for+Digital+TV+to+Attic%2C"
   },
   {
     "asin": "B0H7R169T6",
@@ -15202,6 +15202,28 @@
     "walmart_url": "https://www.walmart.com/search?q=Propane+Tank+Storage+Bag%2CCarrying+Case+for+6+x+1lb+Propane+T"
   },
   {
+    "asin": "B0HMXCNYPX",
+    "title": "RV Roof Cover for Fleetwood Storm 36F 2017-2018, 420D Oxford Fabric Motorhome Top Tarp for Class A RV, Outdoor Roof Canopy with Tie Down Cords for Parked Motorhomes",
+    "type": "candidate",
+    "score": 47.75,
+    "price": 117.99,
+    "bsr": 851421,
+    "image_url": "https://m.media-amazon.com/images/I/617n6dQ5phL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMXCNYPX",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Roof+Cover+for+Fleetwood+Storm+36F+2017-2018%2C+420D+Oxford"
+  },
+  {
+    "asin": "B0H83CF2BM",
+    "title": "RV Antenna Roof Mounted Digital TV Antenna for Camper, Built-in Signal Amplifier, Compatible with All TVs, Supports 4K 1080P HD, Weatherproof Design, RV TV Antenna for Camper, 10m Cable",
+    "type": "candidate",
+    "score": 47.75,
+    "price": 99.99,
+    "bsr": 2507757,
+    "image_url": "https://m.media-amazon.com/images/I/718I0M1gSxL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H83CF2BM",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Antenna+Roof+Mounted+Digital+TV+Antenna+for+Camper%2C+Built"
+  },
+  {
     "asin": "B0H7VXJ4M5",
     "title": "30 Amp to 110 Volt RV Adapter, NEMA 5-15P to TT-30R Electrical Power 30 Amp to 15 Amp 110 Adaptor, 15A Household Male to 30A",
     "type": "candidate",
@@ -15334,17 +15356,6 @@
     "walmart_url": "https://www.walmart.com/search?q=2+in+1+RV+Gravity+Water+Fill+Inlet+Funnel%2CHands-Free+Water+T"
   },
   {
-    "asin": "B0H3LH9JM3",
-    "title": "Shower Cleaner 32oz Spray - RV Bathroom Cleaner for Fiberglass &amp; Plastic | Removes Hard Water Stains, Soap Scum &amp; Mildew | Bleach-Free, Low Odor, Citrus Scent, Made in USA (Pack of 2)",
-    "type": "candidate",
-    "score": 47.25,
-    "price": 49.99,
-    "bsr": 1159113,
-    "image_url": "https://m.media-amazon.com/images/I/71+Mvz1Kr6L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3LH9JM3",
-    "walmart_url": "https://www.walmart.com/search?q=Shower+Cleaner+32oz+Spray+-+RV+Bathroom+Cleaner+for+Fibergla"
-  },
-  {
     "asin": "B0H9L8KV8Y",
     "title": "SKIKIO 12 Pack RV Awning Light Clips with Storage Bag | Heavy Duty S-Shaped, for String Lights, Canopy &amp; Patio Use, Includes",
     "type": "candidate",
@@ -15354,17 +15365,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gc8+Ph7RL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9L8KV8Y",
     "walmart_url": "https://www.walmart.com/search?q=SKIKIO+12+Pack+RV+Awning+Light+Clips+with+Storage+Bag+%7C+Heav"
-  },
-  {
-    "asin": "B0H6RFSBW4",
-    "title": "Self-Leveling RV Roof Lap Sealant White 10oz",
-    "type": "candidate",
-    "score": 47.25,
-    "price": 9.99,
-    "bsr": 89428,
-    "image_url": "https://m.media-amazon.com/images/I/61kDENaUxlL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6RFSBW4",
-    "walmart_url": "https://www.walmart.com/search?q=Self-Leveling+RV+Roof+Lap+Sealant+White+10oz"
   },
   {
     "asin": "B0HH5YG3PT",
@@ -15532,17 +15532,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Tangpxta+RV+Fresh+Water+Tank+Filling+Funnel+%7C+Water+Fill+Acc"
   },
   {
-    "asin": "B0H38K4GNV",
-    "title": "4&quot; x 20FT RV Underbelly Tape, Waterproof Flexible Belly Repair Tape with Permanent Adhesive, Seal Tears for Mobile Home Camper Travel Trailer (Black)",
-    "type": "candidate",
-    "score": 47.0,
-    "price": 8.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/81zB2Gcz6ZL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H38K4GNV",
-    "walmart_url": "https://www.walmart.com/search?q=4%22+x+20FT+RV+Underbelly+Tape%2C+Waterproof+Flexible+Belly+Repa"
-  },
-  {
     "asin": "B0HJ31MWVF",
     "title": "Hyuduo RV Cleaning Stick 48 Inch with Shut Off Valve and Rotating Nozzle | ABS/stainless Steel Construction, 360 Rotating Noz",
     "type": "candidate",
@@ -15552,17 +15541,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51a-I1wR3jL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ31MWVF",
     "walmart_url": "https://www.walmart.com/search?q=Hyuduo+RV+Cleaning+Stick+48+Inch+with+Shut+Off+Valve+and+Rot"
-  },
-  {
-    "asin": "B0H83CF2BM",
-    "title": "RV Antenna Roof Mounted Digital TV Antenna for Camper, Built-in Signal Amplifier, Compatible with All TVs, Supports 4K 1080P HD, Weatherproof Design, RV TV Antenna for Camper, 10m Cable",
-    "type": "candidate",
-    "score": 47.0,
-    "price": 99.99,
-    "bsr": 2438967,
-    "image_url": "https://m.media-amazon.com/images/I/718I0M1gSxL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H83CF2BM",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Antenna+Roof+Mounted+Digital+TV+Antenna+for+Camper%2C+Built"
   },
   {
     "asin": "B0H6LWX93V",
@@ -15706,6 +15684,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uEO0tawnL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3T8JF63",
     "walmart_url": "https://www.walmart.com/search?q=Terapaton+Aluminum+RV+Exterior+Porch+Light+with+Dual-Color+S"
+  },
+  {
+    "asin": "B0HBWQ68D9",
+    "title": "60 Mil Butyl Rubber Roofing Membrane 16ft/33ft Self-Adhesive Waterproof Underlayment Butyl Rubber Backed Flat Roof Sheet for RV Shed Garage Patio(Size:3.3x33ft(1x10m))",
+    "type": "candidate",
+    "score": 47.0,
+    "price": 151.0,
+    "bsr": 321685,
+    "image_url": "https://m.media-amazon.com/images/I/71eVBJrMKmL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBWQ68D9",
+    "walmart_url": "https://www.walmart.com/search?q=60+Mil+Butyl+Rubber+Roofing+Membrane+16ft%2F33ft+Self-Adhesive"
   },
   {
     "asin": "B0HC5WYJY9",
@@ -16071,6 +16060,17 @@
     "walmart_url": "https://www.walmart.com/search?q=3316250.712+RV+Thermostat+Fit+For+Furnace+Control+in+RVs%2FCam"
   },
   {
+    "asin": "B0H38K4GNV",
+    "title": "4&quot; x 20FT RV Underbelly Tape, Waterproof Flexible Belly Repair Tape with Permanent Adhesive, Seal Tears for Mobile Home Camper Travel Trailer (Black)",
+    "type": "candidate",
+    "score": 46.25,
+    "price": 8.99,
+    "bsr": 747939,
+    "image_url": "https://m.media-amazon.com/images/I/81zB2Gcz6ZL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H38K4GNV",
+    "walmart_url": "https://www.walmart.com/search?q=4%22+x+20FT+RV+Underbelly+Tape%2C+Waterproof+Flexible+Belly+Repa"
+  },
+  {
     "asin": "B0H3NJX6TK",
     "title": "Aluminum Bunk Bed Ladder, 4 Step Ladder with Adjustable Handrails Hooks",
     "type": "candidate",
@@ -16098,7 +16098,7 @@
     "type": "candidate",
     "score": 46.25,
     "price": 24.99,
-    "bsr": 685917,
+    "bsr": 1003101,
     "image_url": "https://m.media-amazon.com/images/I/61wS4KDRCCL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFPP7677",
     "walmart_url": "https://www.walmart.com/search?q=MiracleMist+RV+%26+Mobile+Home+Exterior+Cleaner%2C+Outdoor+Surfa"
@@ -16203,17 +16203,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Extension+Cord+100+FT+30+Amp+NEMA+TT-30P+to+TT-30R+Heavy+"
   },
   {
-    "asin": "B0HBWQ68D9",
-    "title": "60 Mil Butyl Rubber Roofing Membrane 16ft/33ft Self-Adhesive Waterproof Underlayment Butyl Rubber Backed Flat Roof Sheet for RV Shed Garage Patio(Size:3.3x33ft(1x10m))",
-    "type": "candidate",
-    "score": 46.25,
-    "price": 151.0,
-    "bsr": 276164,
-    "image_url": "https://m.media-amazon.com/images/I/71eVBJrMKmL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBWQ68D9",
-    "walmart_url": "https://www.walmart.com/search?q=60+Mil+Butyl+Rubber+Roofing+Membrane+16ft%2F33ft+Self-Adhesive"
-  },
-  {
     "asin": "B0H2LZ6LTP",
     "title": "Dizlod 31708 Blade Seal and Flange Seal Replacement Kit for Thetford Aqua-Magic V &amp; VI RV Toilet - Fixes Leaks, Stops Odor, f",
     "type": "candidate",
@@ -16256,17 +16245,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61X0wqFXE8L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3MZPJ2H",
     "walmart_url": "https://www.walmart.com/search?q=34100+RV+Toilet+Water+Valve+Kit%2C+Leakproof+Flush+Repair+Asse"
-  },
-  {
-    "asin": "B0H3PBT39H",
-    "title": "MTLEE 2 Pcs Heavy Duty Marine and RV Carnauba Wax with a Cleaning Towel",
-    "type": "candidate",
-    "score": 46.25,
-    "price": 18.99,
-    "bsr": 1068949,
-    "image_url": "https://m.media-amazon.com/images/I/71bLjc+pN+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3PBT39H",
-    "walmart_url": "https://www.walmart.com/search?q=MTLEE+2+Pcs+Heavy+Duty+Marine+and+RV+Carnauba+Wax+with+a+Cle"
   },
   {
     "asin": "B0HFMR98KT",
@@ -16487,17 +16465,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sVbqNSzRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4KKFKFX",
     "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+Sewer+Hose+Fitting+Adapter+Kit+to+PVC%2C+3+Inch+Rota"
-  },
-  {
-    "asin": "B0H8384SSG",
-    "title": "Butyl Sealant Tape 13Ft for Auto, RV, Marine &amp; Windshield （2 piece）",
-    "type": "candidate",
-    "score": 45.95,
-    "price": 7.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/81mV++317mL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8384SSG",
-    "walmart_url": "https://www.walmart.com/search?q=Butyl+Sealant+Tape+13Ft+for+Auto%2C+RV%2C+Marine+%26+Windshield+%EF%BC%882"
   },
   {
     "asin": "B0H8JZSWNX",
@@ -16874,6 +16841,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Wiper+Blade+%26+Mirror+Covers+Set+Winter+Protection+for+Cla"
   },
   {
+    "asin": "B0H3LH9JM3",
+    "title": "Shower Cleaner 32oz Spray - RV Bathroom Cleaner for Fiberglass &amp; Plastic | Removes Hard Water Stains, Soap Scum &amp; Mildew | Bleach-Free, Low Odor, Citrus Scent, Made in USA (Pack of 2)",
+    "type": "candidate",
+    "score": 45.0,
+    "price": 49.99,
+    "bsr": 1192022,
+    "image_url": "https://m.media-amazon.com/images/I/71+Mvz1Kr6L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3LH9JM3",
+    "walmart_url": "https://www.walmart.com/search?q=Shower+Cleaner+32oz+Spray+-+RV+Bathroom+Cleaner+for+Fibergla"
+  },
+  {
     "asin": "B0H2DVV19X",
     "title": "POIUNA 3 to 4 Adjustable 5 Gallon Fuel Jug Holder for Trailer, Heavy Duty Gas Can Rack Compatible with VP Racing and Most Bra",
     "type": "candidate",
@@ -17006,6 +16984,17 @@
     "walmart_url": "https://www.walmart.com/search?q=GIMWA+2.6+Gal+Collapsible+Baby+Bottle+Wash+Basin+with+Drain+"
   },
   {
+    "asin": "B0HCB77DHD",
+    "title": "Omni Directional Outdoor TV Antenna for Digital TV to Attic,Camper,RV，Black",
+    "type": "candidate",
+    "score": 44.75,
+    "price": 89.99,
+    "bsr": 1489438,
+    "image_url": "https://m.media-amazon.com/images/I/71BDf5wtcWL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCB77DHD",
+    "walmart_url": "https://www.walmart.com/search?q=Omni+Directional+Outdoor+TV+Antenna+for+Digital+TV+to+Attic%2C"
+  },
+  {
     "asin": "B0H8X6LFCT",
     "title": "5ft RV Propane Hose, POL x 1/4&quot; Inverted Male Flare RV Propane Extension Tank hose Connect to 20lb or 30lb Propane Tank, Rubb",
     "type": "candidate",
@@ -17127,6 +17116,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2+Pcs+Trailer+Coupler+Pin+with+Anti-Lost+Rope+Ring%2C+Arch+Tra"
   },
   {
+    "asin": "B0H8384SSG",
+    "title": "Butyl Sealant Tape 13Ft for Auto, RV, Marine &amp; Windshield （2 piece）",
+    "type": "candidate",
+    "score": 44.5,
+    "price": 7.99,
+    "bsr": 232872,
+    "image_url": "https://m.media-amazon.com/images/I/81mV++317mL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8384SSG",
+    "walmart_url": "https://www.walmart.com/search?q=Butyl+Sealant+Tape+13Ft+for+Auto%2C+RV%2C+Marine+%26+Windshield+%EF%BC%882"
+  },
+  {
     "asin": "B0HBXJPZ2V",
     "title": "Triple 5 Gallon Gas Can Holder for Trailer, Heavy Duty Fuel Jug Mount Rack",
     "type": "candidate",
@@ -17235,6 +17235,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/614mKCIkdAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6MNHZ1V",
     "walmart_url": "https://www.walmart.com/search?q=TTLCFP+2+PCS+4%22+RV+Bumper+Plug+End+Cap%2C+4x4+Inch+Car+Sewer+H"
+  },
+  {
+    "asin": "B0H82Q1KT2",
+    "title": "RV TV Antenna Roof Mount, 360° Omni Directional Reception with Built-in Signal Amplifier, Outdoor HDTV Antenna for Camper, Motorhome, Travel Trailer &amp; Boat, Supports 4K 1080P, 16.4FT RG6 Cable（Black）",
+    "type": "candidate",
+    "score": 44.25,
+    "price": 79.99,
+    "bsr": 2693143,
+    "image_url": "https://m.media-amazon.com/images/I/717ETRTp1NL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H82Q1KT2",
+    "walmart_url": "https://www.walmart.com/search?q=RV+TV+Antenna+Roof+Mount%2C+360%C2%B0+Omni+Directional+Reception+wi"
   },
   {
     "asin": "B0HG8ZHYB1",
@@ -17930,6 +17941,17 @@
     "walmart_url": "https://www.walmart.com/search?q=4%22+Stainless+Steel+5%2F8%22+Trailer+Hitch+Pin+with+Hitch+Pin+Cli"
   },
   {
+    "asin": "B0H3PBT39H",
+    "title": "MTLEE 2 Pcs Heavy Duty Marine and RV Carnauba Wax with a Cleaning Towel",
+    "type": "candidate",
+    "score": 43.0,
+    "price": 18.99,
+    "bsr": 1208285,
+    "image_url": "https://m.media-amazon.com/images/I/71bLjc+pN+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3PBT39H",
+    "walmart_url": "https://www.walmart.com/search?q=MTLEE+2+Pcs+Heavy+Duty+Marine+and+RV+Carnauba+Wax+with+a+Cle"
+  },
+  {
     "asin": "B0H3TBK9JX",
     "title": "23×44 Inch RV Trailer Entry Door, Left &amp; Right Driver Passenger Side Teardrop Camper Doors, Aluminum Alloy Tempered Glass Wat",
     "type": "candidate",
@@ -18060,17 +18082,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61SdTotit-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYX9VD3M",
     "walmart_url": "https://www.walmart.com/search?q=Wsenltvy+Dog+Paw+Love+Heart+Tow+Hitch+Covers+Heavy+Duty+Rubb"
-  },
-  {
-    "asin": "B0H6PNXLFS",
-    "title": "Bigfoot Rock On American Flag Trailer Hitch Cover for 2 Inch Receivers with 7/8-Inch Pin Diameter Trailer Hitch Lock",
-    "type": "candidate",
-    "score": 42.75,
-    "price": 33.95,
-    "bsr": 27116,
-    "image_url": "https://m.media-amazon.com/images/I/71mO8RZ0zdL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6PNXLFS",
-    "walmart_url": "https://www.walmart.com/search?q=Bigfoot+Rock+On+American+Flag+Trailer+Hitch+Cover+for+2+Inch"
   },
   {
     "asin": "B0H6L5WYTZ",
@@ -18821,17 +18832,6 @@
     "walmart_url": "https://www.walmart.com/search?q=White+7%22+RV+AC+Vent+Covers%2C+Ceiling+Grilles+With+Rotatable+L"
   },
   {
-    "asin": "B0HG23N7YF",
-    "title": "Butyl Sealant Tape, 13Ft 5/16 Inch Waterproof Headlight Rope",
-    "type": "candidate",
-    "score": 40.75,
-    "price": 7.49,
-    "bsr": 69747,
-    "image_url": "https://m.media-amazon.com/images/I/61V90mcIQpL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG23N7YF",
-    "walmart_url": "https://www.walmart.com/search?q=Butyl+Sealant+Tape%2C+13Ft+5%2F16+Inch+Waterproof+Headlight+Rope"
-  },
-  {
     "asin": "B0HDYGLNB9",
     "title": "JIYIZO RV Air Vent Cover – 5.5&quot; Face 4&quot; Back Round Register with Damper, Round Rotaire Grille, 360 Degree Adjustable Rotating",
     "type": "candidate",
@@ -19019,17 +19019,6 @@
     "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+Awning+Foot+Compatible+with+Dometic+3310811.009M+D"
   },
   {
-    "asin": "B0HBP99KBB",
-    "title": "Amoyttn 2 Sets RV Roof AC Gasket 14 x 14 Inch, Self-Adhesive Seal Kit | RV AC Gaskets With Self-Adhesive Backing And Dual-Thi",
-    "type": "candidate",
-    "score": 40.5,
-    "price": 0.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61IZNmeu11L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBP99KBB",
-    "walmart_url": "https://www.walmart.com/search?q=Amoyttn+2+Sets+RV+Roof+AC+Gasket+14+x+14+Inch%2C+Self-Adhesive"
-  },
-  {
     "asin": "B0H7B9PPNG",
     "title": "RV Entry Door 26&quot; W x 36&quot; H Camper Teardrop Door for Driver Side",
     "type": "candidate",
@@ -19195,6 +19184,17 @@
     "walmart_url": "https://www.walmart.com/search?q=10+PCS+12V+18W+RV+Vent+Hood+Light+Bulb%2C+Light+Bulbs+for+RV+R"
   },
   {
+    "asin": "B0HFCKWD9J",
+    "title": "50FT Black 1 Inch Trim Insert Replacement for Trailer Camper RV",
+    "type": "candidate",
+    "score": 40.0,
+    "price": 52.99,
+    "bsr": 999707,
+    "image_url": "https://m.media-amazon.com/images/I/51lusbHC+vL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFCKWD9J",
+    "walmart_url": "https://www.walmart.com/search?q=50FT+Black+1+Inch+Trim+Insert+Replacement+for+Trailer+Camper"
+  },
+  {
     "asin": "B0H87RQ4RZ",
     "title": "Shore Power NEMA L5-30P to 5-15/20R RV Generator Adapter Marine 30 Amp to 110 15 Amp Household Regular Inlet Connector,Suitab",
     "type": "candidate",
@@ -19281,6 +19281,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WOI0MkvHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBKLBT1P",
     "walmart_url": "https://www.walmart.com/search?q=ECHO-OVE+7+Pcs+RV+Flying+Insect+Screen+Mount+Spring+Fastener"
+  },
+  {
+    "asin": "B0H5JYCHYQ",
+    "title": "16.9 fl oz Road Salt Undercarriage Wash for Trucks SUVs",
+    "type": "candidate",
+    "score": 39.75,
+    "price": 15.99,
+    "bsr": 1359169,
+    "image_url": "https://m.media-amazon.com/images/I/61879CXPnGL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5JYCHYQ",
+    "walmart_url": "https://www.walmart.com/search?q=16.9+fl+oz+Road+Salt+Undercarriage+Wash+for+Trucks+SUVs"
   },
   {
     "asin": "B0HBC8TLY8",
@@ -19435,17 +19446,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61jEy3cfMdL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDP2LMDB",
     "walmart_url": "https://www.walmart.com/search?q=Fits+BBQ+Patio+Heater+%26+Rv+Forklift+Propane+Tank+Adapter+1-1"
-  },
-  {
-    "asin": "B0H5JYCHYQ",
-    "title": "16.9 fl oz Road Salt Undercarriage Wash for Trucks SUVs",
-    "type": "candidate",
-    "score": 39.5,
-    "price": 15.99,
-    "bsr": 1296213,
-    "image_url": "https://m.media-amazon.com/images/I/61879CXPnGL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5JYCHYQ",
-    "walmart_url": "https://www.walmart.com/search?q=16.9+fl+oz+Road+Salt+Undercarriage+Wash+for+Trucks+SUVs"
   },
   {
     "asin": "B0H729N822",
@@ -19690,6 +19690,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Drive+Shaft+Shear+Pin+Fits+Solera+LC273478+LC93FR%2C"
   },
   {
+    "asin": "B0HC67QDWJ",
+    "title": "RP-4200 Thick Roof Kit, RV Antenna Mounting Bracket Replacement for Winegard Air 360, Rayzar Air, Sensar &amp; RoadStar Antennas, Compatible with Campers, Travel Trailers &amp; 5th Wheels",
+    "type": "candidate",
+    "score": 39.0,
+    "price": 13.99,
+    "bsr": 966116,
+    "image_url": "https://m.media-amazon.com/images/I/51hpdjzvmVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC67QDWJ",
+    "walmart_url": "https://www.walmart.com/search?q=RP-4200+Thick+Roof+Kit%2C+RV+Antenna+Mounting+Bracket+Replacem"
+  },
+  {
     "asin": "B0H3QD5F91",
     "title": "48 Inch 4-Way Flat Trailer Hitch Wiring Harness, 16AWG Pure Copper | Weatherproof molded plug, dust cover, no-tool no-splice",
     "type": "candidate",
@@ -19855,17 +19866,6 @@
     "walmart_url": "https://www.walmart.com/search?q=10A20281K1+Roof+Vent+Lid+Lift+Gear+Operator+Replacement+for+"
   },
   {
-    "asin": "B0HC67QDWJ",
-    "title": "RP-4200 Thick Roof Kit, RV Antenna Mounting Bracket Replacement for Winegard Air 360, Rayzar Air, Sensar &amp; RoadStar Antennas, Compatible with Campers, Travel Trailers &amp; 5th Wheels",
-    "type": "candidate",
-    "score": 38.5,
-    "price": 13.99,
-    "bsr": 880399,
-    "image_url": "https://m.media-amazon.com/images/I/51hpdjzvmVL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC67QDWJ",
-    "walmart_url": "https://www.walmart.com/search?q=RP-4200+Thick+Roof+Kit%2C+RV+Antenna+Mounting+Bracket+Replacem"
-  },
-  {
     "asin": "B0HDS23XSM",
     "title": "30&#x27;&#x27;W*36&#x27;&#x27;H Teardrop Camper Door Camper Rv Entry Door, Right Entry",
     "type": "candidate",
@@ -19875,17 +19875,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71OM5dak3rL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDS23XSM",
     "walmart_url": "https://www.walmart.com/search?q=30%27%27W%2A36%27%27H+Teardrop+Camper+Door+Camper+Rv+Entry+Door%2C+Right"
-  },
-  {
-    "asin": "B0HFCKWD9J",
-    "title": "50FT Black 1 Inch Trim Insert Replacement for Trailer Camper RV",
-    "type": "candidate",
-    "score": 38.25,
-    "price": 52.99,
-    "bsr": 827674,
-    "image_url": "https://m.media-amazon.com/images/I/51lusbHC+vL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFCKWD9J",
-    "walmart_url": "https://www.walmart.com/search?q=50FT+Black+1+Inch+Trim+Insert+Replacement+for+Trailer+Camper"
   },
   {
     "asin": "B0H6RSYHFR",
@@ -19998,6 +19987,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Drive+Shaft+Shear+Pin+Fits+Solera+LC273478+LC93FR%2C"
   },
   {
+    "asin": "B0HBP99KBB",
+    "title": "Amoyttn 2 Sets RV Roof AC Gasket 14 x 14 Inch, Self-Adhesive Seal Kit | RV AC Gaskets With Self-Adhesive Backing And Dual-Thi",
+    "type": "candidate",
+    "score": 37.75,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61IZNmeu11L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBP99KBB",
+    "walmart_url": "https://www.walmart.com/search?q=Amoyttn+2+Sets+RV+Roof+AC+Gasket+14+x+14+Inch%2C+Self-Adhesive"
+  },
+  {
     "asin": "B0H8YT1WV9",
     "title": "EWESD *SET OF FOUR 12 VOLT RV LED DREAM LIGHTING LED WHITE 4 1/2&quot; ROUND",
     "type": "candidate",
@@ -20062,17 +20062,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KYDyK-S2L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5C1V9BF",
     "walmart_url": "https://www.walmart.com/search?q=Safoner+Aluminum+RV+Floor+Register+4%22x10%22%2C+Removable+Cover%2C+"
-  },
-  {
-    "asin": "B0H3RZ4R2Z",
-    "title": "LRFJUFI 25 FT 4 Pin Trailer Wiring Harness，Waterproof Trailer Wiring Kit | 18 AWG Copper Trailer Wires with Nylon Braided Sle",
-    "type": "candidate",
-    "score": 37.5,
-    "price": 8.98,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81mYUES74GL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3RZ4R2Z",
-    "walmart_url": "https://www.walmart.com/search?q=LRFJUFI+25+FT+4+Pin+Trailer+Wiring+Harness%EF%BC%8CWaterproof+Traile"
   },
   {
     "asin": "B0H25MV94Z",
@@ -20438,6 +20427,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Alocs+T1003-6MN+RV+Sewer+Valve+Handle+Replacement+for+Waste+"
   },
   {
+    "asin": "B0H6PNXLFS",
+    "title": "Bigfoot Rock On American Flag Trailer Hitch Cover for 2 Inch Receivers with 7/8-Inch Pin Diameter Trailer Hitch Lock",
+    "type": "candidate",
+    "score": 36.5,
+    "price": 33.95,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mO8RZ0zdL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6PNXLFS",
+    "walmart_url": "https://www.walmart.com/search?q=Bigfoot+Rock+On+American+Flag+Trailer+Hitch+Cover+for+2+Inch"
+  },
+  {
     "asin": "B0H9YZXF58",
     "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
     "type": "candidate",
@@ -20524,17 +20524,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gF9kQX2YL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4XBLF1V",
     "walmart_url": "https://www.walmart.com/search?q=NOVOPARTS+418203+RV+Awning+Drive+Head+Gear+Pack+Fits+373566+"
-  },
-  {
-    "asin": "B0H95GB72V",
-    "title": "RecPro RV Extendable Adhesive Pressure Roller with Handle",
-    "type": "candidate",
-    "score": 36.4,
-    "price": 34.95,
-    "bsr": 731500,
-    "image_url": "https://m.media-amazon.com/images/I/51-dOxvJJZL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H95GB72V",
-    "walmart_url": "https://www.walmart.com/search?q=RecPro+RV+Extendable+Adhesive+Pressure+Roller+with+Handle"
   },
   {
     "asin": "B0H3VHMLQ7",
@@ -20702,17 +20691,6 @@
     "walmart_url": "https://www.walmart.com/search?q=6-Pack+RV+Sewer+Hose+Gasket+39834+Fits+Camco+RhinoFLEX+%26+Bay"
   },
   {
-    "asin": "B0H6B3347T",
-    "title": "360SPB 55&quot; Outdoor TV, 4K Google TV, 2500nits Ultra-High Outdoor Television, IP65 Waterproof TV, Weatherproof TVs with Voice Assistant Remote, Compatible with Dolby for Patios",
-    "type": "candidate",
-    "score": 35.75,
-    "price": 2099.0,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71Em8Sj3WZL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6B3347T",
-    "walmart_url": "https://www.walmart.com/search?q=360SPB+55%22+Outdoor+TV%2C+4K+Google+TV%2C+2500nits+Ultra-High+Out"
-  },
-  {
     "asin": "B0HMCHSM2M",
     "title": "for Suburban Gas Valve for RV, Trailer &amp; Camper Parts F-20 SF-25 SF-30 | RV Furnace Maintenance Service Kit Gas Valve ,Parts:",
     "type": "candidate",
@@ -20801,6 +20779,17 @@
     "walmart_url": "https://www.walmart.com/search?q=WODHMIEY+RV+Water+Heater+Gas+Valve+161109+Replacement+%7C+RV+W"
   },
   {
+    "asin": "B0H6B3347T",
+    "title": "360SPB 55&quot; Outdoor TV, 4K Google TV, 2500nits Ultra-High Outdoor Television, IP65 Waterproof TV, Weatherproof TVs with Voice Assistant Remote, Compatible with Dolby for Patios",
+    "type": "candidate",
+    "score": 35.25,
+    "price": 2099.0,
+    "bsr": 4449034,
+    "image_url": "https://m.media-amazon.com/images/I/71Em8Sj3WZL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6B3347T",
+    "walmart_url": "https://www.walmart.com/search?q=360SPB+55%22+Outdoor+TV%2C+4K+Google+TV%2C+2500nits+Ultra-High+Out"
+  },
+  {
     "asin": "B0H6NXMLDW",
     "title": "4 Pack Car Tie Down Straps for Trailers 2&quot; x 10&#x27; with Snap Hooks",
     "type": "candidate",
@@ -20839,7 +20828,7 @@
     "type": "candidate",
     "score": 35.0,
     "price": 89.99,
-    "bsr": 221088,
+    "bsr": 81037,
     "image_url": "https://m.media-amazon.com/images/I/71kBBThciYL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDN7Z2CP",
     "walmart_url": "https://www.walmart.com/search?q=3Pcs+Upgrade+Double+Sided+Butyl+Tape%2C+2%22+X+90%27+Butyl+Sealant"
@@ -20887,6 +20876,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61MsKJQ5WFL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4QHVDSH",
     "walmart_url": "https://www.walmart.com/search?q=Propane+Tank+Base+Stabilizer+Tray+12.6+Inch+Gas+Cylinder+Hol"
+  },
+  {
+    "asin": "B0H4LSTVS1",
+    "title": "65Inch Outdoor TV, 4K Waterproof Google TV, 1000nits Ultra-High Outdoor TVs, IP65 Weatherproof TVs, Outdise TV with Voice Assistant Remote, Compatible with Dolby, Outdoor Tvs for Patios, Sports",
+    "type": "candidate",
+    "score": 35.0,
+    "price": 1699.0,
+    "bsr": 268847,
+    "image_url": "https://m.media-amazon.com/images/I/61N1vSWAxlL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4LSTVS1",
+    "walmart_url": "https://www.walmart.com/search?q=65Inch+Outdoor+TV%2C+4K+Waterproof+Google+TV%2C+1000nits+Ultra-H"
   },
   {
     "asin": "B0H5KY3962",
@@ -21087,17 +21087,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Kisangel+Awning+Crank+Handle%2C+24-inch+Metal+Wand+for+Rv+%7C+Pa"
   },
   {
-    "asin": "B0GHFF6QWP",
-    "title": "RTV Silicone Sealant Adhesive, 100% Silicone Waterproof Caulk Strength Adhesive for Car Windshield, Window, Bathroom &amp; Kitchen Shrink &amp; Crack Proof (Black, 40g/1.4oz)",
-    "type": "candidate",
-    "score": 34.25,
-    "price": 13.99,
-    "bsr": 102122,
-    "image_url": "https://m.media-amazon.com/images/I/612fvdBAyLL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GHFF6QWP",
-    "walmart_url": "https://www.walmart.com/search?q=RTV+Silicone+Sealant+Adhesive%2C+100%25+Silicone+Waterproof+Caul"
-  },
-  {
     "asin": "B0H6JCLDTN",
     "title": "Automobile Interior Trim Strip, 9.84FT Flexible Leather Decorative Line, DIY Gap Moulding Trim Sticker for Door &amp; Dashboard, Universal for SUV Truck RV (White)",
     "type": "candidate",
@@ -21197,17 +21186,6 @@
     "walmart_url": "https://www.walmart.com/search?q=2+Inch+%C3%9750+ft+Rv+Flex+Aluminum+Foil+Air+Ducting+Hose%2C+Silver"
   },
   {
-    "asin": "B0H4JJK738",
-    "title": "10 Proseal Wide Tips A Wide Sealant Tip Fits Most Caulk Nozzles. for Most Any RV, Camper, Motorhome, Trailer, or Autobody and Lap Sealants. (Variety Pack, One of Each Size Tip)",
-    "type": "candidate",
-    "score": 33.75,
-    "price": 17.49,
-    "bsr": 53903,
-    "image_url": "https://m.media-amazon.com/images/I/51jPoCUe8YL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4JJK738",
-    "walmart_url": "https://www.walmart.com/search?q=10+Proseal+Wide+Tips+A+Wide+Sealant+Tip+Fits+Most+Caulk+Nozz"
-  },
-  {
     "asin": "B0H5C97P8L",
     "title": "Truck Bed Light Compatible with 19-26 Chevy Silverado GMC Sierra",
     "type": "candidate",
@@ -21250,6 +21228,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ss6XUKyFL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD3BY3ZM",
     "walmart_url": "https://www.walmart.com/search?q=TEGRO+V20373+Replacement+for+Pol+Rv+Propane+Tank+Service+Val"
+  },
+  {
+    "asin": "B0H95GB72V",
+    "title": "RecPro RV Extendable Adhesive Pressure Roller with Handle",
+    "type": "candidate",
+    "score": 33.65,
+    "price": 34.95,
+    "bsr": 890481,
+    "image_url": "https://m.media-amazon.com/images/I/51-dOxvJJZL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H95GB72V",
+    "walmart_url": "https://www.walmart.com/search?q=RecPro+RV+Extendable+Adhesive+Pressure+Roller+with+Handle"
   },
   {
     "asin": "B0HKTNW7KQ",
@@ -21373,6 +21362,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Utility+Trailer+Cover+for+Carry-On+5X8+Single+Axle+Utility+T"
   },
   {
+    "asin": "B0H4JJK738",
+    "title": "10 Proseal Wide Tips A Wide Sealant Tip Fits Most Caulk Nozzles. for Most Any RV, Camper, Motorhome, Trailer, or Autobody and Lap Sealants. (Variety Pack, One of Each Size Tip)",
+    "type": "candidate",
+    "score": 33.25,
+    "price": 17.49,
+    "bsr": 33725,
+    "image_url": "https://m.media-amazon.com/images/I/51jPoCUe8YL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4JJK738",
+    "walmart_url": "https://www.walmart.com/search?q=10+Proseal+Wide+Tips+A+Wide+Sealant+Tip+Fits+Most+Caulk+Nozz"
+  },
+  {
     "asin": "B0H6FCKB4T",
     "title": "Goonies Never Say Die Spare Tire Cover, Pirate Skull Design, Universal Fit for SUV, Truck, RV, Camper, Travel Trailer",
     "type": "candidate",
@@ -21481,6 +21481,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yS36jpvxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4L5MPP6",
     "walmart_url": "https://www.walmart.com/search?q=RV+Sewer+Hose+Adapter+to+PVC%2C+3%22+Hub+x+Bayonet+Fitting+RV+Se"
+  },
+  {
+    "asin": "B0H3RZ4R2Z",
+    "title": "25 FT 4 Pin Trailer Wiring Harness，Waterproof Trailer Wiring Kit",
+    "type": "candidate",
+    "score": 33.0,
+    "price": 8.98,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/81mYUES74GL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3RZ4R2Z",
+    "walmart_url": "https://www.walmart.com/search?q=25+FT+4+Pin+Trailer+Wiring+Harness%EF%BC%8CWaterproof+Trailer+Wiring"
   },
   {
     "asin": "B0H8MW7BHC",
@@ -21756,6 +21767,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xqGM9v1wL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7GBX69H",
     "walmart_url": "https://www.walmart.com/search?q=Kit+for+Kwikee+369299+RV+Step+Magnetic+Switch+for+Kwikee+32+"
+  },
+  {
+    "asin": "B0HG23N7YF",
+    "title": "Butyl Sealant Tape, 13Ft 5/16 Inch Waterproof Headlight Rope",
+    "type": "candidate",
+    "score": 32.4,
+    "price": 7.49,
+    "bsr": 41832,
+    "image_url": "https://m.media-amazon.com/images/I/61V90mcIQpL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG23N7YF",
+    "walmart_url": "https://www.walmart.com/search?q=Butyl+Sealant+Tape%2C+13Ft+5%2F16+Inch+Waterproof+Headlight+Rope"
   },
   {
     "asin": "B0HBQGQKZP",
@@ -22088,6 +22110,17 @@
     "walmart_url": "https://www.walmart.com/search?q=10+Pack+RV+Refrigerator+Clips+Latch+Replacement%2C+37.5+%2A+14.2"
   },
   {
+    "asin": "B0GHFF6QWP",
+    "title": "RTV Silicone Sealant Adhesive, 100% Silicone Waterproof Caulk Strength Adhesive for Car Windshield, Window, Bathroom &amp; Kitchen Shrink &amp; Crack Proof (Black, 40g/1.4oz)",
+    "type": "candidate",
+    "score": 31.0,
+    "price": 13.99,
+    "bsr": 109177,
+    "image_url": "https://m.media-amazon.com/images/I/612fvdBAyLL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GHFF6QWP",
+    "walmart_url": "https://www.walmart.com/search?q=RTV+Silicone+Sealant+Adhesive%2C+100%25+Silicone+Waterproof+Caul"
+  },
+  {
     "asin": "B0H13NGQHD",
     "title": "TEVSJG 2PCS RV Wing Side Window Arm Bracket Caravan Window Accessories Windbreak Support for VW",
     "type": "candidate",
@@ -22306,17 +22339,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/8199FYArasL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HB4MX3ZN",
     "walmart_url": "https://www.walmart.com/search?q=ZHDD+RV+Bumper+End+Caps+2+Pack%2C+Star+and+Stripe+Design%2C+Alum"
-  },
-  {
-    "asin": "B0HGF4QZWV",
-    "title": "Premium Butyl Sealant Tape for Above-Ground Pool, Liner, Cover, Underwater",
-    "type": "candidate",
-    "score": 30.5,
-    "price": 14.99,
-    "bsr": 453050,
-    "image_url": "https://m.media-amazon.com/images/I/61I8qn8bqdL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGF4QZWV",
-    "walmart_url": "https://www.walmart.com/search?q=Premium+Butyl+Sealant+Tape+for+Above-Ground+Pool%2C+Liner%2C+Cov"
   },
   {
     "asin": "B0H69TZLZJ",
@@ -22583,6 +22605,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Utility+Trailer+Cover+for+Load+Trail+DE7210+6.5%27%C3%9710%27+%7C+Oxfor"
   },
   {
+    "asin": "B0H37DX3HV",
+    "title": "Color Trim 3&quot; Body Side Molding- Automotive Stick-On Trim for Cars, Trucks, SUVS, and Trailers (Satin Black, 20 Feet)",
+    "type": "candidate",
+    "score": 29.0,
+    "price": 90.95,
+    "bsr": 1382257,
+    "image_url": "https://m.media-amazon.com/images/I/61s15+yeqwL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H37DX3HV",
+    "walmart_url": "https://www.walmart.com/search?q=Color+Trim+3%22+Body+Side+Molding-+Automotive+Stick-On+Trim+fo"
+  },
+  {
     "asin": "B0H5HZL16Z",
     "title": "Utility Trailer Cover for Carry-On 5x8 Utility Trailer 5x8ft 2016-Present, Heavy Duty Water Resistant Trailer Tarp Cover, Out",
     "type": "candidate",
@@ -22636,6 +22669,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61aDoIUvuRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFR6DDG3",
     "walmart_url": "https://www.walmart.com/search?q=OFTTZJ+Car+Camera+Lens+Protector%2C+Car+Camera+Protective+Cove"
+  },
+  {
+    "asin": "B0H6JGVLF6",
+    "title": "Automobile Interior Trim Strip, 9.84FT Flexible Leather Decorative Line, DIY Gap Moulding Trim Sticker for Door &amp; Dashboard, Universal for SUV Truck RV (Black)",
+    "type": "candidate",
+    "score": 28.5,
+    "price": 5.99,
+    "bsr": 130234,
+    "image_url": "https://m.media-amazon.com/images/I/61ggYo9aOmL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6JGVLF6",
+    "walmart_url": "https://www.walmart.com/search?q=Automobile+Interior+Trim+Strip%2C+9.84FT+Flexible+Leather+Deco"
   },
   {
     "asin": "B0HGB1KY4B",
@@ -22713,17 +22757,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/517G242AECL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC6279N4",
     "walmart_url": "https://www.walmart.com/search?q=Heater+Air+Vent+Diffuser+for+Truma+Combi+4+%7C+RV+Heating+Air+"
-  },
-  {
-    "asin": "B0H6JGVLF6",
-    "title": "Automobile Interior Trim Strip, 9.84FT Flexible Leather Decorative Line, DIY Gap Moulding Trim Sticker for Door &amp; Dashboard, Universal for SUV Truck RV (Black)",
-    "type": "candidate",
-    "score": 27.75,
-    "price": 5.49,
-    "bsr": 72878,
-    "image_url": "https://m.media-amazon.com/images/I/61ggYo9aOmL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6JGVLF6",
-    "walmart_url": "https://www.walmart.com/search?q=Automobile+Interior+Trim+Strip%2C+9.84FT+Flexible+Leather+Deco"
   },
   {
     "asin": "B0H9D922DV",
@@ -22847,17 +22880,6 @@
     "walmart_url": "https://www.walmart.com/search?q=G355+RV+Keys%2C+3+Pack+Precut+Replacement+Keys"
   },
   {
-    "asin": "B0H37DX3HV",
-    "title": "Color Trim 3&quot; Body Side Molding- Automotive Stick-On Trim for Cars, Trucks, SUVS, and Trailers (Satin Black, 20 Feet)",
-    "type": "candidate",
-    "score": 26.25,
-    "price": 90.95,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61s15+yeqwL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H37DX3HV",
-    "walmart_url": "https://www.walmart.com/search?q=Color+Trim+3%22+Body+Side+Molding-+Automotive+Stick-On+Trim+fo"
-  },
-  {
     "asin": "B0H5W53WKV",
     "title": "Zahawn 2&quot; x 6&quot; inch Hitch Receiver Tube Weld-On Trailer Combo Bar Raw Steel | Heavy Duty Raw Steel Trailer Receiver Tube, Fin",
     "type": "candidate",
@@ -22911,6 +22933,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/611cGJqf22L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6ZMQCQF",
     "walmart_url": "https://www.walmart.com/search?q=Replacement+Cap+Kit+Tank+Cover+with+2+Caps+and+Lanyards+Fit+"
+  },
+  {
+    "asin": "B0HGF4QZWV",
+    "title": "Premium Butyl Sealant Tape for Above-Ground Pool, Liner, Cover, Underwater",
+    "type": "candidate",
+    "score": 26.0,
+    "price": 14.99,
+    "bsr": 477744,
+    "image_url": "https://m.media-amazon.com/images/I/61I8qn8bqdL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGF4QZWV",
+    "walmart_url": "https://www.walmart.com/search?q=Premium+Butyl+Sealant+Tape+for+Above-Ground+Pool%2C+Liner%2C+Cov"
   },
   {
     "asin": "B0HDSWLVK3",
@@ -23166,6 +23199,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Impact+Implements+Trailer+Cover+for+Agricultural+Trailers+by"
   },
   {
+    "asin": "B0HBHWR5X9",
+    "title": "Black Roof Top Trim Drip Molding Kit Fits 2009-2019 Ram 1500 4-Door",
+    "type": "candidate",
+    "score": 21.5,
+    "price": 37.99,
+    "bsr": 118883,
+    "image_url": "https://m.media-amazon.com/images/I/61bWxj96ouL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBHWR5X9",
+    "walmart_url": "https://www.walmart.com/search?q=Black+Roof+Top+Trim+Drip+Molding+Kit+Fits+2009-2019+Ram+1500"
+  },
+  {
     "asin": "B0HDM6G6MB",
     "title": "Tbest Fuel Tank Strap Isolator Gas Cushion EPDM Rubber Tank Strap 1.37in x",
     "type": "candidate",
@@ -23298,17 +23342,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Tow+Hook+Covers+for+Ford+F150+2004-2025+and+Bronco+Base%2FBig+"
   },
   {
-    "asin": "B0HBHWR5X9",
-    "title": "Black Roof Top Trim Drip Molding Kit Fits 2009-2019 Ram 1500 4-Door",
-    "type": "candidate",
-    "score": 18.0,
-    "price": 37.99,
-    "bsr": 117095,
-    "image_url": "https://m.media-amazon.com/images/I/61bWxj96ouL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBHWR5X9",
-    "walmart_url": "https://www.walmart.com/search?q=Black+Roof+Top+Trim+Drip+Molding+Kit+Fits+2009-2019+Ram+1500"
-  },
-  {
     "asin": "B0HHRVMXSC",
     "title": "Green Rubber Fuel Nozzle Protective Sleeve, 2‑Pack Universal Gas Pump Housing Guard for Fuel Station, Easy‑to‑Clean Ergonomic Handle Cover for Diesel &amp; Gasoline Dispenser",
     "type": "candidate",
@@ -23430,17 +23463,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Rear+View+Backup+Camera+Fit+for+Honda+CRV+2017-2022+%26+CR-V+H"
   },
   {
-    "asin": "B0HJ233K9L",
-    "title": "2PCS Rear Roof Quarter Intake Port Trim For Corvette C8",
-    "type": "candidate",
-    "score": 16.0,
-    "price": 169.99,
-    "bsr": 754929,
-    "image_url": "https://m.media-amazon.com/images/I/81UdR92ovLL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ233K9L",
-    "walmart_url": "https://www.walmart.com/search?q=2PCS+Rear+Roof+Quarter+Intake+Port+Trim+For+Corvette+C8"
-  },
-  {
     "asin": "B0HG1NZWPQ",
     "title": "Interior Reading Light For Santa Fe",
     "type": "candidate",
@@ -23450,6 +23472,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61fdJ-ZRUIL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HG1NZWPQ",
     "walmart_url": "https://www.walmart.com/search?q=Interior+Reading+Light+For+Santa+Fe"
+  },
+  {
+    "asin": "B0HJ233K9L",
+    "title": "2PCS Rear Roof Quarter Intake Port Trim For Corvette C8",
+    "type": "candidate",
+    "score": 14.25,
+    "price": 169.99,
+    "bsr": 917626,
+    "image_url": "https://m.media-amazon.com/images/I/81UdR92ovLL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ233K9L",
+    "walmart_url": "https://www.walmart.com/search?q=2PCS+Rear+Roof+Quarter+Intake+Port+Trim+For+Corvette+C8"
   },
   {
     "asin": "B0HGX78X4D",
@@ -23475,14 +23508,14 @@
   },
   {
     "asin": "B0H88CFJNV",
-    "title": "zggsWZBWK Front Door Speaker Assembly Compatible with Honda Civic Accord CRV 2008-2025 Replaces 39120-SNA-A01 39120-TA0-A01",
+    "title": "Front Door Speaker Assembly Compatible with Honda Civic Accord CRV 2008-2025 Replaces 39120-SNA-A01 39120-TA0-A01",
     "type": "candidate",
-    "score": 12.65,
+    "score": 13.0,
     "price": 85.82,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rIxtWyeyL._AC_UL300_SR300,200_.jpg",
+    "bsr": 1474497,
+    "image_url": "https://m.media-amazon.com/images/I/61rIxtWyeyL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H88CFJNV",
-    "walmart_url": "https://www.walmart.com/search?q=zggsWZBWK+Front+Door+Speaker+Assembly+Compatible+with+Honda+"
+    "walmart_url": "https://www.walmart.com/search?q=Front+Door+Speaker+Assembly+Compatible+with+Honda+Civic+Acco"
   },
   {
     "asin": "B0H71GNRTQ",
@@ -23490,7 +23523,7 @@
     "type": "candidate",
     "score": 12.5,
     "price": 55.49,
-    "bsr": 896019,
+    "bsr": 408530,
     "image_url": "https://m.media-amazon.com/images/I/716spTil-FL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H71GNRTQ",
     "walmart_url": "https://www.walmart.com/search?q=2PCS+28156-9FF0A+Door+Speaker+Replaces+281567Z800%2F28156EA000"
@@ -23510,9 +23543,9 @@
     "asin": "B0H4DYRY6D",
     "title": "Front AT Speaker Replaces 86160-0E340",
     "type": "candidate",
-    "score": 11.5,
+    "score": 11.0,
     "price": 78.89,
-    "bsr": 818798,
+    "bsr": 990921,
     "image_url": "https://m.media-amazon.com/images/I/71Nzm7vLaWL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4DYRY6D",
     "walmart_url": "https://www.walmart.com/search?q=Front+AT+Speaker+Replaces+86160-0E340"
