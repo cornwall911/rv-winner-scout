@@ -209,17 +209,6 @@
     "walmart_url": "https://www.walmart.com/search?q=SIMOE+6%2C500+BTU+Over-the-Sill+RV+Window+Air+Conditioner+%7C+Sm"
   },
   {
-    "asin": "B0HC5X73XW",
-    "title": "AUTO-VOX 6&quot; Solar Wireless Backup Camera, 16:9 Monitor, Dual Antenna Signal",
-    "type": "winner",
-    "score": 89.7,
-    "price": 149.99,
-    "bsr": 7058,
-    "image_url": "https://m.media-amazon.com/images/I/71RgBFVD2iL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC5X73XW",
-    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+6%22+Solar+Wireless+Backup+Camera%2C+16%3A9+Monitor%2C+Dual"
-  },
-  {
     "asin": "B0H3FDSMHF",
     "title": "1080P HD Magnetic Wireless Backup Camera: 5.8G WiFi Easy Connect iPhone | Easy Trailer Hook-up &amp; Hitching Gooseneck, Clear Ni",
     "type": "winner",
@@ -262,6 +251,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eEEx5f-UL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMK1NCPW",
     "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+7.2%22+Solar+Wireless+Backup+Camera%2C+1-Min+Easy+Magne"
+  },
+  {
+    "asin": "B0HC5X73XW",
+    "title": "AUTO-VOX 6&quot; Solar Wireless Backup Camera, 16:9 Monitor, Dual Antenna Signal",
+    "type": "winner",
+    "score": 89.45,
+    "price": 149.99,
+    "bsr": 6740,
+    "image_url": "https://m.media-amazon.com/images/I/71RgBFVD2iL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC5X73XW",
+    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+6%22+Solar+Wireless+Backup+Camera%2C+16%3A9+Monitor%2C+Dual"
   },
   {
     "asin": "B0HGDQ4YNX",
@@ -3960,17 +3960,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Renogy+3-in-1+RV+Air+Conditioner+with+Heat+Pump+15000+BTU+Co"
   },
   {
-    "asin": "B0HB5W5T8P",
-    "title": "RV Dual C-O and L-P G-as Sensor, 12V DC for RVs, Hardwired, Black",
-    "type": "should_test",
-    "score": 70.5,
-    "price": 69.99,
-    "bsr": 10578,
-    "image_url": "https://m.media-amazon.com/images/I/711focfipsL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB5W5T8P",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Dual+C-O+and+L-P+G-as+Sensor%2C+12V+DC+for+RVs%2C+Hardwired%2C+"
-  },
-  {
     "asin": "B0H711HKD7",
     "title": "FOGATTI RV Air Conditioner, Cooling Only, Ducted or Non-ducted, White | WiFi &amp; Remote Control, Energy Efficient, Quiet AC, Fi",
     "type": "should_test",
@@ -6202,6 +6191,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71xfi52ereL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3PBWG6Q",
     "walmart_url": "https://www.walmart.com/search?q=Roof+Rack+Awning+Mount+Brackets%2C+Heavy+Duty+Quick+Release+%26+"
+  },
+  {
+    "asin": "B0HB5W5T8P",
+    "title": "RV Dual C-O and L-P G-as Sensor, 12V DC for RVs, Hardwired, Black",
+    "type": "should_test",
+    "score": 62.25,
+    "price": 65.99,
+    "bsr": 11729,
+    "image_url": "https://m.media-amazon.com/images/I/711focfipsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB5W5T8P",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Dual+C-O+and+L-P+G-as+Sensor%2C+12V+DC+for+RVs%2C+Hardwired%2C+"
   },
   {
     "asin": "B0H1RBWFTK",
@@ -20740,7 +20740,7 @@
     "type": "candidate",
     "score": 35.7,
     "price": 4.99,
-    "bsr": 10988,
+    "bsr": 11768,
     "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
     "walmart_url": "https://www.walmart.com/search?q=6PCS+Trailer+Pin%2C+Standard+1%2F4+Hitch+Pin%2C+Strong+Trailer+Cou"
