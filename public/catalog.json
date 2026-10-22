@@ -88,17 +88,6 @@
     "walmart_url": "https://www.walmart.com/search?q=9000+BTU+12V+RV+AC+Unit%2C+Low+Power+Consumption%2C+50dB+Ultra+Q"
   },
   {
-    "asin": "B0H695SHXG",
-    "title": "Venluna Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install | 15000mAh Solar Battery, 5” 1080P Monitor, 500ft Wi",
-    "type": "winner",
-    "score": 90.05,
-    "price": 109.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8105IsnmmVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
-    "walmart_url": "https://www.walmart.com/search?q=Venluna+Magnetic+Wireless+Backup+Camera+for+Truck+Trailer%2C+1"
-  },
-  {
     "asin": "B0HBQJHTCT",
     "title": "AUTO-VOX Magnetic Solar Wireless Backup Camera for iPhone &amp; Android | 1S Quick Start, Solar Panel Longer Runtime, Magnetic Mo",
     "type": "winner",
@@ -119,6 +108,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Z77+alPTL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H93W4JLP",
     "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+7.2-Inch+Solar+Wireless+Backup+Camera%2C+1-Min+Magnet"
+  },
+  {
+    "asin": "B0H695SHXG",
+    "title": "Venluna Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install | 15000mAh Solar Battery, 5” 1080P Monitor, 500ft Wi",
+    "type": "winner",
+    "score": 89.85,
+    "price": 109.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8105IsnmmVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
+    "walmart_url": "https://www.walmart.com/search?q=Venluna+Magnetic+Wireless+Backup+Camera+for+Truck+Trailer%2C+1"
   },
   {
     "asin": "B0H5QBNVRR",
@@ -647,17 +647,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61hSXvCt0qL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H73X6X1W",
     "walmart_url": "https://www.walmart.com/search?q=12V+Fahrenheit+DC+RV+Air+Conditioner%2C+8500+BTU+Ultra-Quiet+A"
-  },
-  {
-    "asin": "B0H6SV7GY5",
-    "title": "Bluetooth RV Surge Protectors 30 Amp,Circuit Analyzer for Camper",
-    "type": "winner",
-    "score": 84.05,
-    "price": 79.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/81DHJKiFVRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6SV7GY5",
-    "walmart_url": "https://www.walmart.com/search?q=Bluetooth+RV+Surge+Protectors+30+Amp%2CCircuit+Analyzer+for+Ca"
   },
   {
     "asin": "B0HCBNNJ6W",
@@ -2475,6 +2464,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Cable+Wall+Pass+Through+Kit+for+Starlink+Mini%2C+Waterproof"
   },
   {
+    "asin": "B0GSK3QF5W",
+    "title": "LUHLEE Clip-On RV Solar Lights – 800LM RV Bumper Cap Light with Digital Display, No-Drill Exterior Lighting for RVs, Campers,",
+    "type": "should_test",
+    "score": 77.2,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71w35hqhQzL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GSK3QF5W",
+    "walmart_url": "https://www.walmart.com/search?q=LUHLEE+Clip-On+RV+Solar+Lights+%E2%80%93+800LM+RV+Bumper+Cap+Light+w"
+  },
+  {
     "asin": "B0H2MC6TJD",
     "title": "Portable Power Station 3600Wh PowerMax 3600 SE With 200W Solar Panel | 3600W (Surge 7200W) Output, LiFePO4 Solar Generator fo",
     "type": "should_test",
@@ -3454,6 +3454,17 @@
     "walmart_url": "https://www.walmart.com/search?q=SinKeu+200W+Portable+Power+Station%2C+155Wh+Solar+Generator+fo"
   },
   {
+    "asin": "B0HLCYKGVW",
+    "title": "Power Station with 15V 400A Automobile Charging Cable, 1800W",
+    "type": "should_test",
+    "score": 73.2,
+    "price": 428.39,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61IN-hTcTvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLCYKGVW",
+    "walmart_url": "https://www.walmart.com/search?q=Power+Station+with+15V+400A+Automobile+Charging+Cable%2C+1800W"
+  },
+  {
     "asin": "B0H6HK6QQT",
     "title": "50 Amp RV Surge Protector with Circuit Analyzer: 20000J Surge Protection, Auto Power Disconnect, Real-Time Voltage Display &amp; Overheat Protection for RV Campers and Campgrounds",
     "type": "should_test",
@@ -3606,6 +3617,17 @@
     "image_url": "https://m.media-amazon.com/images/I/711V2qdMb+L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYPSSZ5H",
     "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+F3800+Plus+Portable+Power+Station+and+400W+Solar"
+  },
+  {
+    "asin": "B0H6SV7GY5",
+    "title": "PohuStues 30 Amp Bluetooth RV Surge Protector, 18,000 J, Circuit Analyzer | IP67 Waterproof | APP Control | Smart Digital Dis",
+    "type": "should_test",
+    "score": 72.5,
+    "price": 79.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81DHJKiFVRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6SV7GY5",
+    "walmart_url": "https://www.walmart.com/search?q=PohuStues+30+Amp+Bluetooth+RV+Surge+Protector%2C+18%2C000+J%2C+Cir"
   },
   {
     "asin": "B0H5B29WJ9",
@@ -3806,6 +3828,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor+with+Remote%2CRV+LED+Lights+Exte"
   },
   {
+    "asin": "B0HCB18KP3",
+    "title": "2 Pack Magnetic Solar Lights Outdoor 4 Colors &amp; Motion Sensor Remote for RV | 92 LED 600LM w/Remote, Solar &amp; USB Charging, 36",
+    "type": "should_test",
+    "score": 71.25,
+    "price": 27.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AkLG9jwBL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCB18KP3",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pack+Magnetic+Solar+Lights+Outdoor+4+Colors+%26+Motion+Senso"
+  },
+  {
     "asin": "B0H7SFCSL8",
     "title": "2 in 1 RV Pass Through RJ45 &amp; DC Wall Socket for Starlink Mini Gen3/4 | Shielded CAT6 Ethernet Female to Female Aluminum Bulk",
     "type": "should_test",
@@ -3892,6 +3925,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61ru15f2ejL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HL4334RT",
     "walmart_url": "https://www.walmart.com/search?q=EROMMY+RV+Roof+Vent%2C+12V+DC+30W+RV+Vent+Fan+with+10-Speed+Re"
+  },
+  {
+    "asin": "B0HCHRD3VH",
+    "title": "Dyfizer Mental RV Door Lock Keyless Entry with Keypad/Handle/Remotes/Keys | Full metal RV lock with triple access, jam-free d",
+    "type": "should_test",
+    "score": 71.0,
+    "price": 89.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6155yBbsZNL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
+    "walmart_url": "https://www.walmart.com/search?q=Dyfizer+Mental+RV+Door+Lock+Keyless+Entry+with+Keypad%2FHandle"
   },
   {
     "asin": "B0H5PR3HWX",
@@ -4752,17 +4796,6 @@
     "walmart_url": "https://www.walmart.com/search?q=WEN+5250-Watt+Dual+Fuel+Electric+Start+Inverter+Generator+%28D"
   },
   {
-    "asin": "B0HCHRD3VH",
-    "title": "Dyfizer Mental RV Door Lock Keyless Entry with Keypad/Handle/Remotes/Keys | Full metal RV lock with triple access, jam-free d",
-    "type": "should_test",
-    "score": 67.75,
-    "price": 89.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6155yBbsZNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
-    "walmart_url": "https://www.walmart.com/search?q=Dyfizer+Mental+RV+Door+Lock+Keyless+Entry+with+Keypad%2FHandle"
-  },
-  {
     "asin": "B0HG98RC4R",
     "title": "UNIONLUX RV Stabilizer Upgraded Super Heavy Duty, Reduces RV Wobble &amp; Sway, Adjustable Shape of Load-Bearing Structure, Adjus",
     "type": "should_test",
@@ -5401,6 +5434,17 @@
     "walmart_url": "https://www.walmart.com/search?q=VEVOR+RV+Water+Filter+System%2C+5-Micron+3+Stage+Premium+RV+Wa"
   },
   {
+    "asin": "B0HHHV2RXX",
+    "title": "2pcs Waterproof Rear View Camera Rain Shield Cover | Backup Camera Rain Hood Cover with Curved, Black PVC Canopy Universal Ca",
+    "type": "should_test",
+    "score": 65.4,
+    "price": 6.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CfypcLiNL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
+    "walmart_url": "https://www.walmart.com/search?q=2pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover+%7C+Backup+"
+  },
+  {
     "asin": "B0GZFNL8PG",
     "title": "Protect-A-Plug RV Camper Cord and Plug Protector - Easily Elevates &amp; Fully Encloses Large 30 &amp; 50 Amp Plugs to Shield from Th",
     "type": "should_test",
@@ -5498,6 +5542,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VqGhZbnuL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3235H2C",
     "walmart_url": "https://www.walmart.com/search?q=3+Stage+RV+Water+Filter+System%2C+for+RVs%2C+Campers+%26+Boats%2C+%7C+"
+  },
+  {
+    "asin": "B0HDJTFYZN",
+    "title": "110V AC to 12V DC Converter, 25A 300W for 5KW/8KW Diesel Air Heater | Plug-In Indoor Setup for RVs, Campers, Caravans and Gar",
+    "type": "should_test",
+    "score": 65.0,
+    "price": 20.59,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61UM-kh9A4L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDJTFYZN",
+    "walmart_url": "https://www.walmart.com/search?q=110V+AC+to+12V+DC+Converter%2C+25A+300W+for+5KW%2F8KW+Diesel+Air"
   },
   {
     "asin": "B0HBPSLYLD",
@@ -9647,17 +9702,6 @@
     "walmart_url": "https://www.walmart.com/search?q=LUHLEE+Clip-On+RV+Solar+Lights+%E2%80%93+800LM+RV+Bumper+Cap+Light+w"
   },
   {
-    "asin": "B0GSK3QF5W",
-    "title": "LUHLEE Clip-On RV Solar Lights – 800LM RV Bumper Cap Light with Digital Display, No-Drill Exterior Lighting for RVs, Campers,",
-    "type": "candidate",
-    "score": 67.35,
-    "price": 18.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71w35hqhQzL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GSK3QF5W",
-    "walmart_url": "https://www.walmart.com/search?q=LUHLEE+Clip-On+RV+Solar+Lights+%E2%80%93+800LM+RV+Bumper+Cap+Light+w"
-  },
-  {
     "asin": "B0H2H45CBS",
     "title": "Xiqaler 3 PCS Motion Activated RV Step Lights, 10 LED Battery Operated Light Strip with Motion Sensor, Magnetic Night Light B",
     "type": "candidate",
@@ -9667,17 +9711,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/6136ddpI-sL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2H45CBS",
     "walmart_url": "https://www.walmart.com/search?q=Xiqaler+3+PCS+Motion+Activated+RV+Step+Lights%2C+10+LED+Batter"
-  },
-  {
-    "asin": "B0HHHV2RXX",
-    "title": "2pcs Waterproof Rear View Camera Rain Shield Cover",
-    "type": "candidate",
-    "score": 65.7,
-    "price": 6.99,
-    "bsr": 7423,
-    "image_url": "https://m.media-amazon.com/images/I/61CfypcLiNL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
-    "walmart_url": "https://www.walmart.com/search?q=2pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover"
   },
   {
     "asin": "B0HJLXKRBT",
@@ -10032,6 +10065,17 @@
     "walmart_url": "https://www.walmart.com/search?q=3+Pack+RV+Shower+Corner+Storage+Bar%2C+Camper+Bathroom+Organiz"
   },
   {
+    "asin": "B0HDCP8KJL",
+    "title": "Magnetic RV Solar Light with Amber Lights | 218 LED RV Light Outdoor with Motion Sense, Waterproof 3 Modes RV Porch Lights fo",
+    "type": "candidate",
+    "score": 61.0,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Wq120Z-KL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDCP8KJL",
+    "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Solar+Light+with+Amber+Lights+%7C+218+LED+RV+Light"
+  },
+  {
     "asin": "B0H93B4KPN",
     "title": "MYRVIPX RV Solar Lights Outdoors, Digital Display Clip-On Solar Lights, 600LM Solar RV Awning Light for Camper, Porch, Fence",
     "type": "candidate",
@@ -10052,17 +10096,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71-WOfQDehL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ2F2Y18",
     "walmart_url": "https://www.walmart.com/search?q=RV+Fiberglass+Gloss+Oil+Shine+Restorer%2C+RV+FiberglassGloss+R"
-  },
-  {
-    "asin": "B0HDCP8KJL",
-    "title": "Magnetic RV Solar Light with Amber Lights | 218 LED RV Light Outdoor with Motion Sense, Waterproof 3 Modes RV Porch Lights fo",
-    "type": "candidate",
-    "score": 60.75,
-    "price": 29.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Wq120Z-KL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDCP8KJL",
-    "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Solar+Light+with+Amber+Lights+%7C+218+LED+RV+Light"
   },
   {
     "asin": "B0H6HJ5B83",
@@ -10195,17 +10228,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/7115PZqhXHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6DD3CH2",
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor%2C+800LM+231+LED+Solar+Motion+Li"
-  },
-  {
-    "asin": "B0HCB18KP3",
-    "title": "2 Pack Magnetic Solar Lights Outdoor 4 Colors &amp; Motion Sensor Remote for RV | 92 LED 600LM w/Remote, Solar &amp; USB Charging, 36",
-    "type": "candidate",
-    "score": 60.0,
-    "price": 27.59,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AkLG9jwBL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCB18KP3",
-    "walmart_url": "https://www.walmart.com/search?q=2+Pack+Magnetic+Solar+Lights+Outdoor+4+Colors+%26+Motion+Senso"
   },
   {
     "asin": "B0HDSKLY74",
@@ -15015,6 +15037,17 @@
     "walmart_url": "https://www.walmart.com/search?q=H%26G+Lifestyles+Iron+Filter+for+Garden+Hose%2C+RV+Water+Filter+"
   },
   {
+    "asin": "B0HC3HQQPX",
+    "title": "20Amp Shore Power Inlet 5-in-1 T-Blade Adapter 125V to 250V for RV Trailers | AC Port Plug with 20 inch waterproof electrical",
+    "type": "candidate",
+    "score": 48.25,
+    "price": 17.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61tn6Xxw2PL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC3HQQPX",
+    "walmart_url": "https://www.walmart.com/search?q=20Amp+Shore+Power+Inlet+5-in-1+T-Blade+Adapter+125V+to+250V+"
+  },
+  {
     "asin": "B0H6F3LT7L",
     "title": "RV Screen Door Slider Panel 239061 Fits Most Popular RV Travel Trailers | RV Screen Door Parts, No Assembly, Easy Installatio",
     "type": "candidate",
@@ -15785,17 +15818,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Travel+Trailer+Cover+for+Keystone+Passport+2400BHWE+2017-201"
   },
   {
-    "asin": "B0H7X5TP51",
-    "title": "WF-8955-AD-MBA 55 Amp RV Power Converter Main Board, Auto-Detect WF-8900 | Replacement Converter/Charger Board 55A for WF-895",
-    "type": "candidate",
-    "score": 47.0,
-    "price": 68.9,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xn8IcOt4L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7X5TP51",
-    "walmart_url": "https://www.walmart.com/search?q=WF-8955-AD-MBA+55+Amp+RV+Power+Converter+Main+Board%2C+Auto-De"
-  },
-  {
     "asin": "B0H6RM27S7",
     "title": "PVerandio 2PCS LED Red RV Camper Tail Lights w/Trailer License Plate Lights | IP67 Waterproof 12V 54 LED Stop Brake Turn Sign",
     "type": "candidate",
@@ -15981,6 +16003,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71OB-RGky2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDZB64ZX",
     "walmart_url": "https://www.walmart.com/search?q=POL+to+QCC1+Propane+Tank+Adapter+Heavy+Duty+Solid+Brass+Conv"
+  },
+  {
+    "asin": "B0H7BKNBMR",
+    "title": "Ziquruv 50A RV Male Replacement Plug, 14-50P, Pull Handle, Black | 125/250v Cord-End Repair, Nylon Housing, Copper Contacts,",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51plzS-ye-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7BKNBMR",
+    "walmart_url": "https://www.walmart.com/search?q=Ziquruv+50A+RV+Male+Replacement+Plug%2C+14-50P%2C+Pull+Handle%2C+B"
   },
   {
     "asin": "B0H9XSR655",
@@ -16421,17 +16454,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61yMNj+jcqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFMR98KT",
     "walmart_url": "https://www.walmart.com/search?q=RV+AC+Louver+Fins+Replacement+Compatible+with+Coleman+Mach"
-  },
-  {
-    "asin": "B0H7BKNBMR",
-    "title": "Ziquruv 50A RV Male Replacement Plug, 14-50P, Pull Handle, Black | 125/250v Cord-End Repair, Nylon Housing, Copper Contacts,",
-    "type": "candidate",
-    "score": 46.25,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51plzS-ye-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7BKNBMR",
-    "walmart_url": "https://www.walmart.com/search?q=Ziquruv+50A+RV+Male+Replacement+Plug%2C+14-50P%2C+Pull+Handle%2C+B"
   },
   {
     "asin": "B0H8JZSWNX",
@@ -17479,6 +17501,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Acouto+RV+Gas+Bottle+Wrench+Dual+Head+Non+Slip+Nylon+Grip"
   },
   {
+    "asin": "B0H7X5TP51",
+    "title": "WF-8955-AD-MBA 55 Amp RV Power Converter Main Board, Auto-Detect WF-8900 | Replacement Converter/Charger Board 55A for WF-895",
+    "type": "candidate",
+    "score": 44.0,
+    "price": 68.9,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xn8IcOt4L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7X5TP51",
+    "walmart_url": "https://www.walmart.com/search?q=WF-8955-AD-MBA+55+Amp+RV+Power+Converter+Main+Board%2C+Auto-De"
+  },
+  {
     "asin": "B0GZ3GZ4TR",
     "title": "2 Pack 15&quot; RV Propane Hose, 1/4&quot; Male NPT to QCC1 / Type1 Propane Tank Hose, Low Pressure LP Gas Extension for RV Two-Stage Regulator, Dual Tank Exchange, BBQ Grill, Camping Stove",
     "type": "candidate",
@@ -17886,6 +17919,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Tarp+Clips+Heavy+Duty%2C+30+Pcs+Plastic+Tarp+Clamps+Set"
   },
   {
+    "asin": "B0HCJP5C4W",
+    "title": "G339 Universal RV Replacement Key Set Compatible with Global Link Trailer Camper Locks, Include G301-G390 Series G391 CH751 R",
+    "type": "candidate",
+    "score": 43.5,
+    "price": 12.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61s5aE47WcL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCJP5C4W",
+    "walmart_url": "https://www.walmart.com/search?q=G339+Universal+RV+Replacement+Key+Set+Compatible+with+Global"
+  },
+  {
     "asin": "B0H2ZJ61FM",
     "title": "ProCamp 3&quot; RV Waste Valve Body | Black Tank Gate Valve with Handle | Replacement 3&quot; black-water tank gate termination valve w",
     "type": "candidate",
@@ -18093,17 +18137,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/618MZ1DepGL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5W2FS7X",
     "walmart_url": "https://www.walmart.com/search?q=Class+3+Trailer+Hitch+2%22+Receiver+Fits+2015-2025+Ford+Transi"
-  },
-  {
-    "asin": "B0H2VXDPDD",
-    "title": "Huyopu 12 PCS 921 912 RV Light Bulbs, 12V 16W Super Bright Reverse Brake Tail Turn Signal Lamp Replacement, T15 Light Bulbs C",
-    "type": "candidate",
-    "score": 42.95,
-    "price": 5.29,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61OUeP7+mvL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2VXDPDD",
-    "walmart_url": "https://www.walmart.com/search?q=Huyopu+12+PCS+921+912+RV+Light+Bulbs%2C+12V+16W+Super+Bright+R"
   },
   {
     "asin": "B0HDZKP3ML",
@@ -20955,6 +20988,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Zahawn+3%22+to+2.5%22+%26+2.5%22+to+2%22+Hitch+Receiver+Reducer+Set+wi"
   },
   {
+    "asin": "B0H5JT58JC",
+    "title": "EPLESFTON 1 Pack Power Grip 50 Amp Replacement Plug - Head Attaches to Existing RV Extension Cord - Features 50 Amp RV Plug (",
+    "type": "candidate",
+    "score": 35.25,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81HusAEzj9L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5JT58JC",
+    "walmart_url": "https://www.walmart.com/search?q=EPLESFTON+1+Pack+Power+Grip+50+Amp+Replacement+Plug+-+Head+A"
+  },
+  {
     "asin": "B0H9YJQL8N",
     "title": "4Pcs RV Window and Vent Knob, Plastic Replacement Knob with Screws | Camper Window Crank Handle Turn Latch Vent Replacement R",
     "type": "candidate",
@@ -23012,6 +23056,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Utility+Trailer+Cover+for+Carry-On+4x6+Mesh+Trailer+4x6ft+20"
   },
   {
+    "asin": "B0H2VXDPDD",
+    "title": "12 PCS 921 912 RV Light Bulbs, 12V 16W Super Bright Reverse Brake Tail Turn Signal Lamp Replacement, T15 Light Bulbs Compatible with Most Sedans Trucks RVs Campers",
+    "type": "candidate",
+    "score": 26.95,
+    "price": 5.29,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61OUeP7+mvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2VXDPDD",
+    "walmart_url": "https://www.walmart.com/search?q=12+PCS+921+912+RV+Light+Bulbs%2C+12V+16W+Super+Bright+Reverse+"
+  },
+  {
     "asin": "B0H7MDG4GG",
     "title": "UPGRADED DA97-05557Y Freezer Door Gasket Replacement Compatible with Samsung Refrigerator Parts Door Seal, Replaces DA97-05557B DA97-07192A Freezer Door Seal, Fit RF267AZRS RF26XAZRS RFG298HDRS",
     "type": "candidate",
@@ -23483,6 +23538,17 @@
     "image_url": "https://m.media-amazon.com/images/I/41Y0qok9gWL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2M3NDDZ",
     "walmart_url": "https://www.walmart.com/search?q=Windshield+Post+Spotlight+Hole+Cover+Fits+Dodge+Charger%2C+Che"
+  },
+  {
+    "asin": "B0HDJ6SGJ5",
+    "title": "30pcs 194 Bulb, 168 W5W T10 12V 5W Clear Lights Bulbs 1/4 Wedge Base",
+    "type": "candidate",
+    "score": 19.7,
+    "price": 9.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71LD1-uBYoL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDJ6SGJ5",
+    "walmart_url": "https://www.walmart.com/search?q=30pcs+194+Bulb%2C+168+W5W+T10+12V+5W+Clear+Lights+Bulbs+1%2F4+We"
   },
   {
     "asin": "B0H6Q4DQQ4",
