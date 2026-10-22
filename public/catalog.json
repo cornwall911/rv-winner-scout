@@ -1532,12 +1532,23 @@
     "asin": "B0H798WNYX",
     "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
     "type": "winner",
-    "score": 80.15,
+    "score": 80.2,
     "price": 23.66,
-    "bsr": 24292,
+    "bsr": 24425,
     "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
     "walmart_url": "https://www.walmart.com/search?q=200W+AC+110V+Power+Inverter+Compatible+with+DEWALT+20V+Batte"
+  },
+  {
+    "asin": "B0H6WT7LPM",
+    "title": "AUTO-VOX Wireless RV Backup Camera System with Rear &amp; Side Cameras",
+    "type": "winner",
+    "score": 80.1,
+    "price": 269.99,
+    "bsr": 8333,
+    "image_url": "https://m.media-amazon.com/images/I/71lcOJKYn-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6WT7LPM",
+    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Wireless+RV+Backup+Camera+System+with+Rear+%26+Side+C"
   },
   {
     "asin": "B0H8RJDHGQ",
@@ -1857,17 +1868,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/714q5E71C5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKW68WB3",
     "walmart_url": "https://www.walmart.com/search?q=270%C2%B0+Car+RV+Awning+Camping%2C78.7%22+Sunshade+Canopy+%2CBlack%2C+Pas"
-  },
-  {
-    "asin": "B0H6WT7LPM",
-    "title": "AUTO-VOX Wireless RV Backup Camera System with Rear &amp; Side Cameras",
-    "type": "should_test",
-    "score": 79.0,
-    "price": 269.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71lcOJKYn-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6WT7LPM",
-    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Wireless+RV+Backup+Camera+System+with+Rear+%26+Side+C"
   },
   {
     "asin": "B0HGDJRBXM",
@@ -4631,6 +4631,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Dual+View+Mirror+Extenders+for+Towing+with+Rain+Guards%2C360%C2%B0+"
   },
   {
+    "asin": "B0HF7WG8GJ",
+    "title": "Camper Undercarriage Snow‑Proof Protective Skirt 28m/92ft",
+    "type": "should_test",
+    "score": 68.0,
+    "price": 288.0,
+    "bsr": 12682,
+    "image_url": "https://m.media-amazon.com/images/I/71jwIa4hSRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF7WG8GJ",
+    "walmart_url": "https://www.walmart.com/search?q=Camper+Undercarriage+Snow%E2%80%91Proof+Protective+Skirt+28m%2F92ft"
+  },
+  {
     "asin": "B0GXXZT82D",
     "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
     "type": "should_test",
@@ -6708,17 +6719,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71XU1+i4O7L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFJ2C961",
     "walmart_url": "https://www.walmart.com/search?q=RVSPARK+120W+RV+USB+Outlet+with+100W+%26+20W+PD+Dual+USB-C+Por"
-  },
-  {
-    "asin": "B0HF7WG8GJ",
-    "title": "Camper Undercarriage Snow‑Proof Protective Skirt 28m/92ft | 90cm Height RV Skirting,Supplied with 10M Hook‑and‑Loop Tape for",
-    "type": "should_test",
-    "score": 61.0,
-    "price": 288.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71jwIa4hSRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF7WG8GJ",
-    "walmart_url": "https://www.walmart.com/search?q=Camper+Undercarriage+Snow%E2%80%91Proof+Protective+Skirt+28m%2F92ft+%7C+"
   },
   {
     "asin": "B0H9MCZWJK",
@@ -9570,17 +9570,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Fold+Down+RV+Water+Tap+Faucet+for+Caravan+and+Motorhome+%7C+36"
   },
   {
-    "asin": "B0HGF44YWX",
-    "title": "LUHLEE 218 LED Magnetic Solar Lights Outdoor, RV Solar Lights Motion Sensor",
-    "type": "candidate",
-    "score": 63.8,
-    "price": 45.99,
-    "bsr": 21191,
-    "image_url": "https://m.media-amazon.com/images/I/911x20YVNEL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGF44YWX",
-    "walmart_url": "https://www.walmart.com/search?q=LUHLEE+218+LED+Magnetic+Solar+Lights+Outdoor%2C+RV+Solar+Light"
-  },
-  {
     "asin": "B0H4GWRS8L",
     "title": "RV Awning Puller,Telescopic RV Awning Pole，Easy Reach Camping Hook-1p",
     "type": "candidate",
@@ -9845,6 +9834,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+Suction+Cup+Hooks+4PCS+with+Tarp+Clips+for+Car+Aw"
   },
   {
+    "asin": "B0HGF44YWX",
+    "title": "LUHLEE 218 LED Magnetic Solar Lights Outdoor, RV Solar Lights Motion Sensor",
+    "type": "candidate",
+    "score": 61.25,
+    "price": 45.99,
+    "bsr": 22417,
+    "image_url": "https://m.media-amazon.com/images/I/911x20YVNEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGF44YWX",
+    "walmart_url": "https://www.walmart.com/search?q=LUHLEE+218+LED+Magnetic+Solar+Lights+Outdoor%2C+RV+Solar+Light"
+  },
+  {
     "asin": "B0H48JCTTX",
     "title": "Guilcam 4 Pack Rearview Camera Lens Protectors with Anti-Fog Film | clear plastic, 0.89 x 0.27 Inch profile, keeps backup ima",
     "type": "candidate",
@@ -9942,6 +9942,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71X2j+xTmBL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H71LFGYW",
     "walmart_url": "https://www.walmart.com/search?q=Terapaton+RV+Exterior+Sprayer+Kit+Without+Port%2C+16.4FT+Coile"
+  },
+  {
+    "asin": "B0H7C349DW",
+    "title": "368 LED Magnetic Solar Lights Outdoor Waterproof with Motion Sensor",
+    "type": "candidate",
+    "score": 60.45,
+    "price": 30.99,
+    "bsr": 14202,
+    "image_url": "https://m.media-amazon.com/images/I/71v2MkvC6BL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7C349DW",
+    "walmart_url": "https://www.walmart.com/search?q=368+LED+Magnetic+Solar+Lights+Outdoor+Waterproof+with+Motion"
   },
   {
     "asin": "B0HHF8X4GC",
@@ -10173,17 +10184,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ncZ-RukQL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6M764LC",
     "walmart_url": "https://www.walmart.com/search?q=CCBASEBALL+230+LED+Magnetic+Solar+Lights+Outdoor%2C+Waterproof"
-  },
-  {
-    "asin": "B0H7C349DW",
-    "title": "Peasur 368 LED Magnetic Solar Lights Outdoor Waterproof with Motion Sensor | 2 Pack/3 Modes, Cool White, Strong Magnets RV Li",
-    "type": "candidate",
-    "score": 58.75,
-    "price": 30.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71v2MkvC6BL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7C349DW",
-    "walmart_url": "https://www.walmart.com/search?q=Peasur+368+LED+Magnetic+Solar+Lights+Outdoor+Waterproof+with"
   },
   {
     "asin": "B0H5BCGW4R",
@@ -11064,6 +11064,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61ZoeZpJ8NL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7PJ5BC6",
     "walmart_url": "https://www.walmart.com/search?q=RV+TV+Antenna+for+Smart+TV+Outdoor%2C+720%C2%B0+Omni+Directional+Re"
+  },
+  {
+    "asin": "B0H8SB7FQF",
+    "title": "Heavy Duty RV Roof Cover fits 30ft to 32ft Class A/B/C Motorhomes",
+    "type": "candidate",
+    "score": 55.25,
+    "price": 117.99,
+    "bsr": 14519,
+    "image_url": "https://m.media-amazon.com/images/I/71IBJQE3TBL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8SB7FQF",
+    "walmart_url": "https://www.walmart.com/search?q=Heavy+Duty+RV+Roof+Cover+fits+30ft+to+32ft+Class+A%2FB%2FC+Motor"
   },
   {
     "asin": "B0H5JS1GNK",
@@ -13066,6 +13077,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61aok47iefL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ1GBX38",
     "walmart_url": "https://www.walmart.com/search?q=Teardrop+Trailer+Cover+Fits+for+10-12FT%2C+Waterproof+UV+Prote"
+  },
+  {
+    "asin": "B0H6ZRC9MR",
+    "title": "Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black)",
+    "type": "candidate",
+    "score": 50.55,
+    "price": 26.99,
+    "bsr": 22170,
+    "image_url": "https://m.media-amazon.com/images/I/71BZEMfAKUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
+    "walmart_url": "https://www.walmart.com/search?q=Aluminum+RV+Power+Cord+Hatch+Cover+Rubber+Cable+Access+%28Blac"
   },
   {
     "asin": "B0H4L7ZG9L",
@@ -17743,6 +17765,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Roof+Vent+Operator+Assembly+for+Ventline+Ventadome%2C+Knob+"
   },
   {
+    "asin": "B0HCB9PTGG",
+    "title": "Tarp Clips Heavy Duty, 30 Pcs Plastic Tarp Clamps Set",
+    "type": "candidate",
+    "score": 43.5,
+    "price": 8.99,
+    "bsr": 14810,
+    "image_url": "https://m.media-amazon.com/images/I/71CnbEVM7pL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCB9PTGG",
+    "walmart_url": "https://www.walmart.com/search?q=Tarp+Clips+Heavy+Duty%2C+30+Pcs+Plastic+Tarp+Clamps+Set"
+  },
+  {
     "asin": "B0H2ZJ61FM",
     "title": "ProCamp 3&quot; RV Waste Valve Body | Black Tank Gate Valve with Handle | Replacement 3&quot; black-water tank gate termination valve w",
     "type": "candidate",
@@ -18007,17 +18040,6 @@
     "walmart_url": "https://www.walmart.com/search?q=XIHIRCD+5pcs+RV+Roof+Vent+Operator+Assembly+with+Knob+and+Sc"
   },
   {
-    "asin": "B0HCB9PTGG",
-    "title": "Tarp Clips Heavy Duty, 30 Pcs Plastic Tarp Clamps Set",
-    "type": "candidate",
-    "score": 42.75,
-    "price": 8.5,
-    "bsr": 12466,
-    "image_url": "https://m.media-amazon.com/images/I/71CnbEVM7pL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCB9PTGG",
-    "walmart_url": "https://www.walmart.com/search?q=Tarp+Clips+Heavy+Duty%2C+30+Pcs+Plastic+Tarp+Clamps+Set"
-  },
-  {
     "asin": "B0HJ87RYNH",
     "title": "Fuel Cartridge Refill Adapter Compatible with Thermacell | Portable Gas Canister Transfer Filling Tool for Camping, Hiking, a",
     "type": "candidate",
@@ -18060,6 +18082,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71I7EKYlVDL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6L5WYTZ",
     "walmart_url": "https://www.walmart.com/search?q=2PCS+Awning+Mounting+Brackets+for+Car+Roof+Rack+Cross+Bars+P"
+  },
+  {
+    "asin": "B0H4TBLR42",
+    "title": "2 Pack RV T-Style Door Holder, 6 Inch ABS Camper Door Catch, Black",
+    "type": "candidate",
+    "score": 42.75,
+    "price": 9.99,
+    "bsr": 13066,
+    "image_url": "https://m.media-amazon.com/images/I/71bkcIhLGxL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4TBLR42",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+T-Style+Door+Holder%2C+6+Inch+ABS+Camper+Door+Catch%2C"
   },
   {
     "asin": "B0HBRD1RKG",
@@ -18786,17 +18819,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Nf-ObKrfL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8SNQG6S",
     "walmart_url": "https://www.walmart.com/search?q=3+Pack+RV+Waste+Valve+Handle+Replacement%2C+Valve+Extension+Ro"
-  },
-  {
-    "asin": "B0H6ZRC9MR",
-    "title": "WanDwel Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black) | Fit 30A/50A Electrical Plug (Non-Handle) Dual Lockin",
-    "type": "candidate",
-    "score": 40.9,
-    "price": 26.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BZEMfAKUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
-    "walmart_url": "https://www.walmart.com/search?q=WanDwel+Aluminum+RV+Power+Cord+Hatch+Cover+Rubber+Cable+Acce"
   },
   {
     "asin": "B0H252FC6Q",
@@ -20713,17 +20735,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Roof+Vent+Operator+Assembly+for+Ventline+Ventadome%2C+Knob+"
   },
   {
-    "asin": "B0H4TBLR42",
-    "title": "2 Pack RV T-Style Door Holder, 6 Inch ABS Camper Door Catch, Black",
-    "type": "candidate",
-    "score": 35.75,
-    "price": 9.99,
-    "bsr": 10470,
-    "image_url": "https://m.media-amazon.com/images/I/71bkcIhLGxL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4TBLR42",
-    "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+T-Style+Door+Holder%2C+6+Inch+ABS+Camper+Door+Catch%2C"
-  },
-  {
     "asin": "B0HF76WBHN",
     "title": "LANDSIN RV Furnace Lgniter Electrode 231933 Fit for Suburban NT Series | Campervan Heaters Part, Quick Response, Easy Install",
     "type": "candidate",
@@ -21239,17 +21250,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ss6XUKyFL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD3BY3ZM",
     "walmart_url": "https://www.walmart.com/search?q=TEGRO+V20373+Replacement+for+Pol+Rv+Propane+Tank+Service+Val"
-  },
-  {
-    "asin": "B0H5WNK7VB",
-    "title": "2&quot; x 12&quot; inch Hitch Receiver Tube Weld-On Trailer Combo Raw Steel",
-    "type": "candidate",
-    "score": 33.75,
-    "price": 23.99,
-    "bsr": 21556,
-    "image_url": "https://m.media-amazon.com/images/I/71yGHB6id5L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5WNK7VB",
-    "walmart_url": "https://www.walmart.com/search?q=2%22+x+12%22+inch+Hitch+Receiver+Tube+Weld-On+Trailer+Combo+Raw+"
   },
   {
     "asin": "B0HKTNW7KQ",
@@ -22352,6 +22352,17 @@
     "walmart_url": "https://www.walmart.com/search?q=GarveeTech+22+Ton+Jack+Stands%2CHeavy+Duty+Pin+Type+Profession"
   },
   {
+    "asin": "B0H5WNK7VB",
+    "title": "2&quot; x 12&quot; inch Hitch Receiver Tube Weld-On Trailer Combo Raw Steel",
+    "type": "candidate",
+    "score": 30.0,
+    "price": 23.99,
+    "bsr": 22929,
+    "image_url": "https://m.media-amazon.com/images/I/71yGHB6id5L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5WNK7VB",
+    "walmart_url": "https://www.walmart.com/search?q=2%22+x+12%22+inch+Hitch+Receiver+Tube+Weld-On+Trailer+Combo+Raw+"
+  },
+  {
     "asin": "B0H2TZR1YX",
     "title": "GRIZZEX 2-1/2&quot; to 2&#x27;&#x27; Trailer Hitch Adapter for 2007-2026 Chevy Silverado/GMC Sierra 2500 HD 3500 HD, Heavy Duty Steel Hitch",
     "type": "candidate",
@@ -23320,6 +23331,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2-piece+Rear+Air+Vent+Covers+for+Tesla+Model+3+Highland+and+"
   },
   {
+    "asin": "B0H4D8ZM13",
+    "title": "WR55X26671 LED Light Board Compatible with GE Refrigerators (3)",
+    "type": "candidate",
+    "score": 17.6,
+    "price": 13.99,
+    "bsr": 22853,
+    "image_url": "https://m.media-amazon.com/images/I/61Dz-8w1PdL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4D8ZM13",
+    "walmart_url": "https://www.walmart.com/search?q=WR55X26671+LED+Light+Board+Compatible+with+GE+Refrigerators+"
+  },
+  {
     "asin": "B0H93Q45CR",
     "title": "3-Pack WR02X10585 Refrigerator Recess Door Spring for GE Refrigerators",
     "type": "candidate",
@@ -23351,17 +23373,6 @@
     "image_url": "https://m.media-amazon.com/images/I/81DxEJo+x0L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQTT6TJ",
     "walmart_url": "https://www.walmart.com/search?q=Forklift+Propane+Tank+Adapter%2C+1-1%2F4%22+Female+to+1-5%2F16%22+Male"
-  },
-  {
-    "asin": "B0H4D8ZM13",
-    "title": "WR55X26671 LED Light Board Compatible with GE Refrigerators (3)",
-    "type": "candidate",
-    "score": 17.0,
-    "price": 13.99,
-    "bsr": 23217,
-    "image_url": "https://m.media-amazon.com/images/I/61Dz-8w1PdL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4D8ZM13",
-    "walmart_url": "https://www.walmart.com/search?q=WR55X26671+LED+Light+Board+Compatible+with+GE+Refrigerators+"
   },
   {
     "asin": "B0HBQ9TQ3B",
