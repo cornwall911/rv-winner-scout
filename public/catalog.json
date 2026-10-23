@@ -341,6 +341,17 @@
     "walmart_url": "https://www.walmart.com/search?q=MRCARTOOL+1080P+Solar+Wireless+Backup+Camera+with+App+for+iO"
   },
   {
+    "asin": "B0HKZG8F46",
+    "title": "8KW Diesel Parking Heater 12V/24V with App Control and LCD Display | Auto Start &amp; Stop, for RV, Camper &amp; Boat, Vertical Mount",
+    "type": "winner",
+    "score": 89.2,
+    "price": 89.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71qYsOSlxYL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKZG8F46",
+    "walmart_url": "https://www.walmart.com/search?q=8KW+Diesel+Parking+Heater+12V%2F24V+with+App+Control+and+LCD+D"
+  },
+  {
     "asin": "B0HC5V3KLK",
     "title": "AUTO-VOX 2 Solar Wireless Backup Camera, 7.2&quot; Split Screen for Dual Views",
     "type": "winner",
@@ -902,17 +913,6 @@
     "walmart_url": "https://www.walmart.com/search?q=8%27+x+13%273%22+RV+Awning+Privacy+Shade+with+Zipper%2C+90%25+UV+Block"
   },
   {
-    "asin": "B0GYD3TVDV",
-    "title": "Soft Start for RV Air Conditioners Reduces Startup Current by up to 75%, Easy DIY Install, Quiet Start IP65 Waterproof Reverse Motor Protection for Home, RVs, Vans &amp; Generator Use",
-    "type": "winner",
-    "score": 83.0,
-    "price": 79.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71YW5tZV0CL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GYD3TVDV",
-    "walmart_url": "https://www.walmart.com/search?q=Soft+Start+for+RV+Air+Conditioners+Reduces+Startup+Current+b"
-  },
-  {
     "asin": "B0GZW6T12W",
     "title": "Starlink Wall Pass Through Kit, IP68 Waterproof Aluminum RJ45 CAT6 Bulkhead Socket, Hidden Cable Style for Starlink Gen3/4/4X / Mini Only, Ideal for RV Camper Boat Trailer &amp; Off-Grid Users",
     "type": "winner",
@@ -1419,6 +1419,17 @@
     "walmart_url": "https://www.walmart.com/search?q=SnapPad+SnapJack%C2%AE+TC+Truck+Camper+Jack+Pad+%E2%80%93+for+HappiJac+Le"
   },
   {
+    "asin": "B0GYD3TVDV",
+    "title": "Soft Start for RV Air Conditioners Reduces Startup Current by up to 75%, Easy DIY Install, Quiet Start IP65 Waterproof Reverse Motor Protection for Home, RVs, Vans &amp; Generator Use",
+    "type": "winner",
+    "score": 80.6,
+    "price": 79.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71YW5tZV0CL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GYD3TVDV",
+    "walmart_url": "https://www.walmart.com/search?q=Soft+Start+for+RV+Air+Conditioners+Reduces+Startup+Current+b"
+  },
+  {
     "asin": "B0H5BJQJW3",
     "title": "RV Stabilizer Jack, Heavy Duty I-Beam Camper Anti-Sway, Fits Most Trailers",
     "type": "winner",
@@ -1705,17 +1716,6 @@
     "walmart_url": "https://www.walmart.com/search?q=PECRON+E2400LFP+2048Wh%2F2400W%2C+Fast+Charging+in+1.5+Hrs+for+E"
   },
   {
-    "asin": "B0HK4D3SCX",
-    "title": "12V RV Air Conditioner, DC RV AC Unit 10,000 BTU Cooling and 3,500 BTU Heating, 12V AC Unit with Heat, Rooftop Camper Air Con",
-    "type": "should_test",
-    "score": 79.75,
-    "price": 559.98,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61SoXtRH+jL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HK4D3SCX",
-    "walmart_url": "https://www.walmart.com/search?q=12V+RV+Air+Conditioner%2C+DC+RV+AC+Unit+10%2C000+BTU+Cooling+and"
-  },
-  {
     "asin": "B0HC5SLZHZ",
     "title": "LF Bros 12V/110V 5KW Diesel Heater with Plateau Mode with Timer Controller",
     "type": "should_test",
@@ -1791,6 +1791,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61BjEo3XWUL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGL38M3N",
     "walmart_url": "https://www.walmart.com/search?q=Dyness+Portable+Power+Station+1536Wh+1800W%2C+Solar+Generator+"
+  },
+  {
+    "asin": "B0HK4D3SCX",
+    "title": "12V RV Air Conditioner, DC RV AC Unit 10,000 BTU Cooling and 3,500 BTU Heating, 12V AC Unit with Heat, Rooftop Camper Air Con",
+    "type": "should_test",
+    "score": 79.25,
+    "price": 559.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61SoXtRH+jL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HK4D3SCX",
+    "walmart_url": "https://www.walmart.com/search?q=12V+RV+Air+Conditioner%2C+DC+RV+AC+Unit+10%2C000+BTU+Cooling+and"
   },
   {
     "asin": "B0HHPPTKJK",
@@ -5511,6 +5522,17 @@
     "walmart_url": "https://www.walmart.com/search?q=CMI+RV+Water+Heater+Flush+Wand%2C+RV+Tank+Rinser+for+Camper+Wa"
   },
   {
+    "asin": "B0HJ2LFS8N",
+    "title": "12V 13700 BTU Under Dash Air Conditioner Kit, 12 Volt Electric AC Unit with 4 Vents &amp; Scroll Compressor for Car RV Van Truck",
+    "type": "should_test",
+    "score": 65.65,
+    "price": 499.97,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81mvl0FHpNL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ2LFS8N",
+    "walmart_url": "https://www.walmart.com/search?q=12V+13700+BTU+Under+Dash+Air+Conditioner+Kit%2C+12+Volt+Electr"
+  },
+  {
     "asin": "B0H6MHK8ZC",
     "title": "12V Truck Cab Air Conditioner 12000BTU, Electric RV Truck Air Conditioner Camper A/C Unit, Split AC Quiet Van A/C for RV Caravan, Semi-Truck, Tractor, Crane, Pickup, Excavators",
     "type": "should_test",
@@ -5797,17 +5819,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Electric+Trailer+Dolly%2C+4000Lbs+Max+Trailer+Weight+1100Lbs+T"
   },
   {
-    "asin": "B0H873KJK9",
-    "title": "YeloDeer 12V RV Tank Heater Pad 12&quot; x 18&quot;, with Toggle Switch (2 Pads) | RV Water Tank Heater Built-In Overheat Protection fo",
-    "type": "should_test",
-    "score": 64.5,
-    "price": 49.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+SF470ejL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H873KJK9",
-    "walmart_url": "https://www.walmart.com/search?q=YeloDeer+12V+RV+Tank+Heater+Pad+12%22+x+18%22%2C+with+Toggle+Switc"
-  },
-  {
     "asin": "B0HJ61VWC1",
     "title": "2-in-1 RV Accessories Gas Detector, Hardwired - DC 12V for RVs, Black",
     "type": "should_test",
@@ -5916,6 +5927,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81+vKmRNEBL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H93DPLYL",
     "walmart_url": "https://www.walmart.com/search?q=EROMMY+10FT+Electric+RV+Awning+with+Motor+%26+Manual+Crank%2C+Re"
+  },
+  {
+    "asin": "B0H873KJK9",
+    "title": "YeloDeer 12V RV Tank Heater Pad 12&quot; x 18&quot;, with Toggle Switch (2 Pads) | RV Water Tank Heater Built-In Overheat Protection fo",
+    "type": "should_test",
+    "score": 64.0,
+    "price": 49.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+SF470ejL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H873KJK9",
+    "walmart_url": "https://www.walmart.com/search?q=YeloDeer+12V+RV+Tank+Heater+Pad+12%22+x+18%22%2C+with+Toggle+Switc"
   },
   {
     "asin": "B0H35HWG7N",
@@ -6763,6 +6785,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71icWvtVRPL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5PFKY2H",
     "walmart_url": "https://www.walmart.com/search?q=Hitch+Holder+for+Truck+Bed%EF%BC%8C+2-inch+Trailer+Hitch+Storage%2CBla"
+  },
+  {
+    "asin": "B0H3ZVG35V",
+    "title": "ARKOVEX RV Side Vent Fan, 12V 2.4W Silent Wind Ventilation Wall Exhaust Fan for Camper, Caravan, Motorhome, Trailer, Black",
+    "type": "should_test",
+    "score": 61.65,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71HgOWtL9OL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3ZVG35V",
+    "walmart_url": "https://www.walmart.com/search?q=ARKOVEX+RV+Side+Vent+Fan%2C+12V+2.4W+Silent+Wind+Ventilation+W"
   },
   {
     "asin": "B0H87BP4XF",
@@ -9559,6 +9592,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2-in-1+RV+Accessories+Gas+Detector%2CHardwired+12V+DC+for+Moto"
   },
   {
+    "asin": "B0HK4VBV2B",
+    "title": "DFMDH35111 RV Propane Furnace 35000 BTU 12V Camper Trailer Motorhome | Doorless Design, Quiet Operation with Soft Start Techn",
+    "type": "should_test",
+    "score": 52.75,
+    "price": 729.95,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KPiWPRSWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HK4VBV2B",
+    "walmart_url": "https://www.walmart.com/search?q=DFMDH35111+RV+Propane+Furnace+35000+BTU+12V+Camper+Trailer+M"
+  },
+  {
     "asin": "B0GZ37CF1Q",
     "title": "YICTENCRD NEMA 14-50R Outlet Box 50A 125/250V ETL Listed | RV Power Outlet Box with Cover, 3-Pole 4-Wire Grounding Outdoor Re",
     "type": "should_test",
@@ -9656,17 +9700,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61otgVq9HsL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8BCKSS6",
     "walmart_url": "https://www.walmart.com/search?q=Coleman-Mach+15+15%2C000+BTU+PowerSaver+Ducted+Quiet+RV+AC%2C+Wh"
-  },
-  {
-    "asin": "B0HK4VBV2B",
-    "title": "DFMDH35111 RV Propane Furnace 35000 BTU 12V Camper Trailer Motorhome",
-    "type": "should_test",
-    "score": 51.9,
-    "price": 729.95,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71KPiWPRSWL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HK4VBV2B",
-    "walmart_url": "https://www.walmart.com/search?q=DFMDH35111+RV+Propane+Furnace+35000+BTU+12V+Camper+Trailer+M"
   },
   {
     "asin": "B0HDHGMP2M",
@@ -12848,6 +12881,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+External+Shower+Hose%2C15FT+Retractable+Shower+Hose+for+RV+"
   },
   {
+    "asin": "B0H7S71XQK",
+    "title": "3316250.712 RV Thermostat Fit For Furnace Control in RVs/Campers 3-Wire 12V",
+    "type": "candidate",
+    "score": 51.9,
+    "price": 21.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/51xgVQ22MQL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7S71XQK",
+    "walmart_url": "https://www.walmart.com/search?q=3316250.712+RV+Thermostat+Fit+For+Furnace+Control+in+RVs%2FCam"
+  },
+  {
     "asin": "B0H262M4LT",
     "title": "WKZO RV AC Vent Cover, Adjustable 360 Air Dispersion for RV Motorhome | Replacement Round Ceiling Vent for RV Motorhome, Fits",
     "type": "candidate",
@@ -13651,6 +13695,28 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+TV+Antenna+Roof+Mount%2C+360%C2%B0+Omni+Directional+Reception+wi"
   },
   {
+    "asin": "B0H839D4NT",
+    "title": "Lazenta 1020270 RV Vent Lift Motor 12V with Knob and Screw, Compatible with Maxx Air MaxxFan 4500K to 4900K, 7000K to 8951K,",
+    "type": "candidate",
+    "score": 50.5,
+    "price": 49.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/518bkuHNqOL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H839D4NT",
+    "walmart_url": "https://www.walmart.com/search?q=Lazenta+1020270+RV+Vent+Lift+Motor+12V+with+Knob+and+Screw%2C+"
+  },
+  {
+    "asin": "B0HDY52JZX",
+    "title": "JIYIZO Round RV Ceiling AC Vent with 1 1/2&quot; Flange,5-1/2&quot; ID x 6-7/8&quot; OD—360° Rotatable Cover, White 2 Pack，Adjustable Airflo",
+    "type": "candidate",
+    "score": 50.5,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lFZ331++L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDY52JZX",
+    "walmart_url": "https://www.walmart.com/search?q=JIYIZO+Round+RV+Ceiling+AC+Vent+with+1+1%2F2%22+Flange%2C5-1%2F2%22+ID"
+  },
+  {
     "asin": "B0HJ1GBX38",
     "title": "Teardrop Trailer Cover Fits for 10-12FT, Waterproof UV Protection Teardrop Trailer Camper Cover, with Windproof Strap Access",
     "type": "candidate",
@@ -14056,6 +14122,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71cuAu9g9VL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3ZVLCH1",
     "walmart_url": "https://www.walmart.com/search?q=American+Bigfoot+Spare+Tire+Cover+for+RV+Camper+SUV+Truck%2C+W"
+  },
+  {
+    "asin": "B0HC32TN2H",
+    "title": "RV Side Air Vent Fan, 12V Ventilation Cooling Fan With Mesh Screen",
+    "type": "candidate",
+    "score": 50.0,
+    "price": 16.49,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/51WS+fMM1kL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC32TN2H",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Side+Air+Vent+Fan%2C+12V+Ventilation+Cooling+Fan+With+Mesh+"
   },
   {
     "asin": "B0HKMD2HDY",
@@ -16291,6 +16368,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Neptuiby+Car+Window+Fan+Solar+Powered+Car+Vent+Fan+Dual-mode"
   },
   {
+    "asin": "B0H86B6FPP",
+    "title": "Crumye 12V RV Cooling Fan with 2 Speed Switch Ventilador para Carro(8 inch) | Heavy Duty Metal, Quiet, Portable, for Car, Bus",
+    "type": "candidate",
+    "score": 46.65,
+    "price": 29.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zJ9toL8IL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H86B6FPP",
+    "walmart_url": "https://www.walmart.com/search?q=Crumye+12V+RV+Cooling+Fan+with+2+Speed+Switch+Ventilador+par"
+  },
+  {
     "asin": "B0HFTJKSXN",
     "title": "MiracleMist RV Roof &amp; Awning Cleaner, Exterior Surface, 32 oz, 2pk",
     "type": "candidate",
@@ -16487,17 +16575,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gsdEi1o3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3KWZYL5",
     "walmart_url": "https://www.walmart.com/search?q=Terapaton+Aluminum+RV+Exterior+Porch+Light+with+Dual-Color+S"
-  },
-  {
-    "asin": "B0H7S71XQK",
-    "title": "3316250.712 RV Thermostat Fit For Furnace Control in RVs/Campers 3-Wire 12V",
-    "type": "candidate",
-    "score": 46.4,
-    "price": 21.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51xgVQ22MQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7S71XQK",
-    "walmart_url": "https://www.walmart.com/search?q=3316250.712+RV+Thermostat+Fit+For+Furnace+Control+in+RVs%2FCam"
   },
   {
     "asin": "B0HMBSWJJ2",
@@ -16784,17 +16861,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RWjztJ-tL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3T5KQBL",
     "walmart_url": "https://www.walmart.com/search?q=Retro+Green+Tree+RV+Camping+Spare+Tire+Covers+Weatherproof+D"
-  },
-  {
-    "asin": "B0HC32TN2H",
-    "title": "RV Side Air Vent Fan, 12V Ventilation Cooling Fan With Mesh Screen",
-    "type": "candidate",
-    "score": 46.0,
-    "price": 16.49,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/51WS+fMM1kL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC32TN2H",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Side+Air+Vent+Fan%2C+12V+Ventilation+Cooling+Fan+With+Mesh+"
   },
   {
     "asin": "B0H1XJ7JWQ",
@@ -18403,17 +18469,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Pniwuno+12V+Marine+Boat+LED+Light+Strip%2C+Cuttable+IP69+Water"
   },
   {
-    "asin": "B0HG13D3MX",
-    "title": "Spqnzon 3313107.015 RV AC Condenser Fan Blade for Dometic | Fits Duo-Therm Brisk Air Series, Replaces 3107914.008, 317937.000",
-    "type": "candidate",
-    "score": 42.7,
-    "price": 14.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qlPVXhShL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
-    "walmart_url": "https://www.walmart.com/search?q=Spqnzon+3313107.015+RV+AC+Condenser+Fan+Blade+for+Dometic+%7C+"
-  },
-  {
     "asin": "B0HBRD1RKG",
     "title": "500W Boat Engine Compartment Heater HMA500 Boat Bilge Heater, White",
     "type": "candidate",
@@ -18863,6 +18918,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51M+pCFuKVL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H835N35D",
     "walmart_url": "https://www.walmart.com/search?q=50%22+RV+Awning+Inner+Drive+Arm+for+Solera+Regal+69%22+Awning+38"
+  },
+  {
+    "asin": "B0HC47MP3J",
+    "title": "Rushinghorse 2Pcs 6 7/8&quot; White Round RV Ceiling AC Vent, Open/Close Rotate | Screw-in collar hides mounting screws for clean",
+    "type": "candidate",
+    "score": 41.75,
+    "price": 16.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/618cdjyLpcL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC47MP3J",
+    "walmart_url": "https://www.walmart.com/search?q=Rushinghorse+2Pcs+6+7%2F8%22+White+Round+RV+Ceiling+AC+Vent%2C+Ope"
   },
   {
     "asin": "B0H3SZ9X8Z",
@@ -20680,6 +20746,17 @@
     "walmart_url": "https://www.walmart.com/search?q=License+Plate+Backup+Camera%2C+Rear+Camera+with+Clear+Images"
   },
   {
+    "asin": "B0HG13D3MX",
+    "title": "3313107.015 RV AC Condenser Fan Blade for Dometic",
+    "type": "candidate",
+    "score": 37.0,
+    "price": 14.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/61qlPVXhShL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
+    "walmart_url": "https://www.walmart.com/search?q=3313107.015+RV+AC+Condenser+Fan+Blade+for+Dometic"
+  },
+  {
     "asin": "B0H33YTHW4",
     "title": "Lrichy 3 in 1 Value RV Water Heater Replacement Part Kit for Atwood/Dometic | Includes 91365 Ignition Circuit Board, 91447 Th",
     "type": "candidate",
@@ -21340,6 +21417,17 @@
     "walmart_url": "https://www.walmart.com/search?q=4Pcs+RV+Window+and+Vent+Knob%2C+Plastic+Replacement+Knob+with+"
   },
   {
+    "asin": "B0H1LHLG4F",
+    "title": "PIHIL 3313107.015 Rv Air Conditioner Fan Blade | Compatible with Dometic Brisk and Duo-Therm AC Series, Replaces 3313107.0150",
+    "type": "candidate",
+    "score": 35.15,
+    "price": 17.59,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/615TwmdQFwL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1LHLG4F",
+    "walmart_url": "https://www.walmart.com/search?q=PIHIL+3313107.015+Rv+Air+Conditioner+Fan+Blade+%7C+Compatible+"
+  },
+  {
     "asin": "B0H98GKCPR",
     "title": "RV Entry Door 24&quot; X 68&quot; Straighted Corners",
     "type": "candidate",
@@ -21703,6 +21791,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Truck+Bed+Light+Compatible+with+19-26+Chevy+Silverado+GMC+Si"
   },
   {
+    "asin": "B0HC3SSVLX",
+    "title": "RV Air Louver Ceiling Vent 6.5&quot; White Adjustable for 4-5/8&quot; Ducting AC/Heat",
+    "type": "candidate",
+    "score": 34.25,
+    "price": 9.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/71Nn-87PDSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC3SSVLX",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Air+Louver+Ceiling+Vent+6.5%22+White+Adjustable+for+4-5%2F8%22+"
+  },
+  {
     "asin": "B0HD763L7L",
     "title": "161123 RV Furnace Heater Gas Valve Fits Suburban NT Series",
     "type": "candidate",
@@ -21932,17 +22031,6 @@
     "image_url": "https://m.media-amazon.com/images/I/81mYUES74GL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3RZ4R2Z",
     "walmart_url": "https://www.walmart.com/search?q=25+FT+4+Pin+Trailer+Wiring+Harness%EF%BC%8CWaterproof+Trailer+Wiring"
-  },
-  {
-    "asin": "B0H1LHLG4F",
-    "title": "PIHIL 3313107.015 Rv Air Conditioner Fan Blade | Compatible with Dometic Brisk and Duo-Therm AC Series, Replaces 3313107.0150",
-    "type": "candidate",
-    "score": 33.3,
-    "price": 17.59,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/615TwmdQFwL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1LHLG4F",
-    "walmart_url": "https://www.walmart.com/search?q=PIHIL+3313107.015+Rv+Air+Conditioner+Fan+Blade+%7C+Compatible+"
   },
   {
     "asin": "B0H691FLZZ",
