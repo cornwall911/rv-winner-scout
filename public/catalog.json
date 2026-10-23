@@ -209,17 +209,6 @@
     "walmart_url": "https://www.walmart.com/search?q=1080P+Strong+Magnetic+Wireless+Backup+Camera+for+RV+Trailer+"
   },
   {
-    "asin": "B0HF7XD1XC",
-    "title": "1296P HD 7.2&#x27;&#x27; Magnetic Wireless Backup Camera for Trucks Clear Day &amp; Night",
-    "type": "winner",
-    "score": 89.7,
-    "price": 109.98,
-    "bsr": 12281,
-    "image_url": "https://m.media-amazon.com/images/I/81T7qlyeXoL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF7XD1XC",
-    "walmart_url": "https://www.walmart.com/search?q=1296P+HD+7.2%27%27+Magnetic+Wireless+Backup+Camera+for+Trucks+Cl"
-  },
-  {
     "asin": "B0H69MDVYL",
     "title": "SIMOE 6,500 BTU Over-the-Sill RV Window Air Conditioner | Smart Split Window AC Unit with WiFi App &amp; Voice Control, Quiet 50d",
     "type": "winner",
@@ -273,6 +262,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eEEx5f-UL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMK1NCPW",
     "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+7.2%22+Solar+Wireless+Backup+Camera%2C+1-Min+Easy+Magne"
+  },
+  {
+    "asin": "B0HF7XD1XC",
+    "title": "1296P HD 7.2&#x27;&#x27; Magnetic Wireless Backup Camera for Trucks Clear Day &amp; Night",
+    "type": "winner",
+    "score": 89.45,
+    "price": 109.98,
+    "bsr": 12126,
+    "image_url": "https://m.media-amazon.com/images/I/81T7qlyeXoL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF7XD1XC",
+    "walmart_url": "https://www.walmart.com/search?q=1296P+HD+7.2%27%27+Magnetic+Wireless+Backup+Camera+for+Trucks+Cl"
   },
   {
     "asin": "B0HC5X73XW",
@@ -2420,17 +2420,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Rooftop+Airflow+Vent+Deflector+compatible+with+Coleman+Ma"
   },
   {
-    "asin": "B0HDZ5Y71X",
-    "title": "Jackery HomePower 1000 Plus v2 Portable Power Station",
-    "type": "should_test",
-    "score": 77.5,
-    "price": 669.0,
-    "bsr": 28276,
-    "image_url": "https://m.media-amazon.com/images/I/61LyEYXaQmL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDZ5Y71X",
-    "walmart_url": "https://www.walmart.com/search?q=Jackery+HomePower+1000+Plus+v2+Portable+Power+Station"
-  },
-  {
     "asin": "B0H1GYXTF6",
     "title": "RV Exterior Sprayer Kit Without Port, 16.4FT Coiled Water Hose with 8-Pattern Sprayer &amp; GHT 3/4&quot; Quick Connect Adapter,Waterproof Bag Anti-Kink Coil Hose",
     "type": "should_test",
@@ -2814,6 +2803,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81mErxVJTXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2YS9TCK",
     "walmart_url": "https://www.walmart.com/search?q=RV+Mattress+Underlay+Pad+-+83+x+59+Inch+Plastic+Under+Mattre"
+  },
+  {
+    "asin": "B0HDSKLY74",
+    "title": "LUHLEE Rechargeable Ceiling Light, Motion Sensor Magnetic Interior RV Light",
+    "type": "should_test",
+    "score": 76.0,
+    "price": 39.99,
+    "bsr": 21458,
+    "image_url": "https://m.media-amazon.com/images/I/711WVsGJFlL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDSKLY74",
+    "walmart_url": "https://www.walmart.com/search?q=LUHLEE+Rechargeable+Ceiling+Light%2C+Motion+Sensor+Magnetic+In"
   },
   {
     "asin": "B0H29R1YHP",
@@ -3485,6 +3485,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61xFGtsOhTL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HN5NRFL7",
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter+-+Heavy+Duty+Insulated+Camper+Skirt+f"
+  },
+  {
+    "asin": "B0HDZ5Y71X",
+    "title": "Jackery HomePower 1000 Plus v2 Portable Power Station",
+    "type": "should_test",
+    "score": 73.45,
+    "price": 669.0,
+    "bsr": 23922,
+    "image_url": "https://m.media-amazon.com/images/I/61LyEYXaQmL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDZ5Y71X",
+    "walmart_url": "https://www.walmart.com/search?q=Jackery+HomePower+1000+Plus+v2+Portable+Power+Station"
   },
   {
     "asin": "B0H2M6D97S",
@@ -4917,6 +4928,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2%E2%80%91in%E2%80%911+RV+Gravity+Fresh+Water+Fill+Funnel%2C+Bayonet+Lock+Inle"
   },
   {
+    "asin": "B0H878NF4W",
+    "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank",
+    "type": "should_test",
+    "score": 67.4,
+    "price": 199.99,
+    "bsr": 23884,
+    "image_url": "https://m.media-amazon.com/images/I/81m1eRMHl-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H878NF4W",
+    "walmart_url": "https://www.walmart.com/search?q=DARAN+R200+Portable+Power+Station+192Wh%2C+200W%28400W+Peak%29+Com"
+  },
+  {
     "asin": "B0H9LZWMT1",
     "title": "YCXCMAT RV AC Airflow Diverter, Ducted System for Coleman Mach 1/3/10/15/Q | Y-Split Vent Deflector, Air Flow Improvement, +4",
     "type": "should_test",
@@ -5025,17 +5047,6 @@
     "image_url": "https://m.media-amazon.com/images/I/51gx1qiQOFL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZJS5XXQ",
     "walmart_url": "https://www.walmart.com/search?q=Collapsible+Dish+Basin%2C+9L%2F2.4+Gal+Foldable+Sink+Tub+with+Dr"
-  },
-  {
-    "asin": "B0H878NF4W",
-    "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank | 100W PD Fast Charge, 2 AC Outlets, LiFePO4 Sola",
-    "type": "should_test",
-    "score": 66.75,
-    "price": 199.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81m1eRMHl-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H878NF4W",
-    "walmart_url": "https://www.walmart.com/search?q=DARAN+R200+Portable+Power+Station+192Wh%2C+200W%28400W+Peak%29+Com"
   },
   {
     "asin": "B0H24X66S4",
@@ -5465,17 +5476,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VPtVkdgTL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZNRBQ4L",
     "walmart_url": "https://www.walmart.com/search?q=VEVOR+RV+Water+Filter+System%2C+5-Micron+3+Stage+Premium+RV+Wa"
-  },
-  {
-    "asin": "B0HHHV2RXX",
-    "title": "2pcs Waterproof Rear View Camera Rain Shield Cover | Backup Camera Rain Hood Cover with Curved, Black PVC Canopy Universal Ca",
-    "type": "should_test",
-    "score": 65.4,
-    "price": 6.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CfypcLiNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
-    "walmart_url": "https://www.walmart.com/search?q=2pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover+%7C+Backup+"
   },
   {
     "asin": "B0H8C2DSB3",
@@ -6226,6 +6226,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Skirting+for+Winter%2C+Insulated+Camper+Skirt+Kit+28m%2F91ft+"
   },
   {
+    "asin": "B0H5QCNGFG",
+    "title": "2 Pcs E2 Hitch Sway Bracket Jacket, Equalizer Hitch Parts 95015150",
+    "type": "should_test",
+    "score": 63.0,
+    "price": 12.99,
+    "bsr": 22219,
+    "image_url": "https://m.media-amazon.com/images/I/51pSZOX0NEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5QCNGFG",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pcs+E2+Hitch+Sway+Bracket+Jacket%2C+Equalizer+Hitch+Parts+95"
+  },
+  {
     "asin": "B0HH9BYJBB",
     "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C, Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
     "type": "should_test",
@@ -6523,6 +6534,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Expedeck+4x4+Portable+Deck+Landing%2C+Assembled+RV+Stairs%2C+21+"
   },
   {
+    "asin": "B0H87J975N",
+    "title": "5th Wheel Camper Skirting, DIY Cut‑to‑Size Custom Fit, 24m/79ft",
+    "type": "should_test",
+    "score": 62.0,
+    "price": 248.0,
+    "bsr": 23822,
+    "image_url": "https://m.media-amazon.com/images/I/71sil0IkPSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H87J975N",
+    "walmart_url": "https://www.walmart.com/search?q=5th+Wheel+Camper+Skirting%2C+DIY+Cut%E2%80%91to%E2%80%91Size+Custom+Fit%2C+24m%2F7"
+  },
+  {
     "asin": "B0GZPC8H9J",
     "title": "Step Stool with Handle for Elderly &amp; Seniors,Rv Steps with Handrail 330lbs,Step Stools for Seniors, Adjustables 5-Level Handr",
     "type": "should_test",
@@ -6699,17 +6721,6 @@
     "walmart_url": "https://www.walmart.com/search?q=12V+DC+RV+Gas+Detection+Unit%2C+31011+Replacement%2C+Flush+Mount"
   },
   {
-    "asin": "B0H87J975N",
-    "title": "5th Wheel Camper Skirting, DIY Cut‑to‑Size Custom Fit, 24m/79ft | with 10M Hook‑and‑Loop Tape, Snow‑Resistant for Stationary",
-    "type": "should_test",
-    "score": 61.5,
-    "price": 248.0,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sil0IkPSL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H87J975N",
-    "walmart_url": "https://www.walmart.com/search?q=5th+Wheel+Camper+Skirting%2C+DIY+Cut%E2%80%91to%E2%80%91Size+Custom+Fit%2C+24m%2F7"
-  },
-  {
     "asin": "B0HF831TT3",
     "title": "5th Wheel Skirting, 90cm Height 125 ft/38m for Motorhome or Travel Trailer | Snow Wind Deflect RV Skirting with 10M Hook and",
     "type": "should_test",
@@ -6807,17 +6818,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ysHn0It5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H87FGZ8L",
     "walmart_url": "https://www.walmart.com/search?q=Zenkaelum+1+lb+Propane+Tank+Holder%2C+16+oz+Single+Wall+Mount+"
-  },
-  {
-    "asin": "B0H5QCNGFG",
-    "title": "2 Pcs E2 Hitch Sway Bracket Jacket, Equalizer Hitch Parts 95015150",
-    "type": "should_test",
-    "score": 61.0,
-    "price": 12.99,
-    "bsr": 24902,
-    "image_url": "https://m.media-amazon.com/images/I/51pSZOX0NEL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5QCNGFG",
-    "walmart_url": "https://www.walmart.com/search?q=2+Pcs+E2+Hitch+Sway+Bracket+Jacket%2C+Equalizer+Hitch+Parts+95"
   },
   {
     "asin": "B0H44261QZ",
@@ -9779,6 +9779,17 @@
     "walmart_url": "https://www.walmart.com/search?q=LUHLEE+Clip-On+RV+Solar+Lights+%E2%80%93+800LM+RV+Bumper+Cap+Light+w"
   },
   {
+    "asin": "B0HHHV2RXX",
+    "title": "2pcs Waterproof Rear View Camera Rain Shield Cover",
+    "type": "candidate",
+    "score": 66.4,
+    "price": 6.99,
+    "bsr": 10852,
+    "image_url": "https://m.media-amazon.com/images/I/61CfypcLiNL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
+    "walmart_url": "https://www.walmart.com/search?q=2pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover"
+  },
+  {
     "asin": "B0H2H45CBS",
     "title": "Xiqaler 3 PCS Motion Activated RV Step Lights, 10 LED Battery Operated Light Strip with Motion Sensor, Magnetic Night Light B",
     "type": "candidate",
@@ -10120,6 +10131,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Nowdowin+RV+Stove+Top+Cover%2C+Bamboo%2C+19.5%27%27+W+x+16.9%27%27+D+%2849"
   },
   {
+    "asin": "B0H7C349DW",
+    "title": "368 LED Magnetic Solar Lights Outdoor Waterproof with Motion Sensor",
+    "type": "candidate",
+    "score": 61.1,
+    "price": 30.99,
+    "bsr": 13774,
+    "image_url": "https://m.media-amazon.com/images/I/71v2MkvC6BL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7C349DW",
+    "walmart_url": "https://www.walmart.com/search?q=368+LED+Magnetic+Solar+Lights+Outdoor+Waterproof+with+Motion"
+  },
+  {
     "asin": "B0H36R4D2C",
     "title": "3 Pack RV Shower Corner Storage Bar, Camper Bathroom Organizer Accessories | Keeps Shower Essentials Secure and Organization,",
     "type": "candidate",
@@ -10219,17 +10241,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Terapaton+RV+Exterior+Sprayer+Kit+Without+Port%2C+16.4FT+Coile"
   },
   {
-    "asin": "B0H7C349DW",
-    "title": "368 LED Magnetic Solar Lights Outdoor Waterproof with Motion Sensor",
-    "type": "candidate",
-    "score": 60.45,
-    "price": 30.99,
-    "bsr": 14202,
-    "image_url": "https://m.media-amazon.com/images/I/71v2MkvC6BL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7C349DW",
-    "walmart_url": "https://www.walmart.com/search?q=368+LED+Magnetic+Solar+Lights+Outdoor+Waterproof+with+Motion"
-  },
-  {
     "asin": "B0H5PFKY2H",
     "title": "Hitch Holder for Truck Bed， 2-inch Trailer Hitch Storage,Black Hitch Mount",
     "type": "candidate",
@@ -10307,17 +10318,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor%2C+800LM+231+LED+Solar+Motion+Li"
   },
   {
-    "asin": "B0HDSKLY74",
-    "title": "LUHLEE Rechargeable Ceiling Light, Motion Sensor Magnetic Interior RV Light | 1s Magnetic on rv interior ,usb chargeable ,rem",
-    "type": "candidate",
-    "score": 60.0,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711WVsGJFlL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDSKLY74",
-    "walmart_url": "https://www.walmart.com/search?q=LUHLEE+Rechargeable+Ceiling+Light%2C+Motion+Sensor+Magnetic+In"
-  },
-  {
     "asin": "B0HG16DSLY",
     "title": "Garvee Vehicle Awning 6.6x10ft Roof Rack Pull-Out Sun Shade UV50+ PU3000mm Waterproof 600D Oxford Ripstop 4x4 Side Awning for",
     "type": "candidate",
@@ -10349,17 +10349,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71HnXjG3OQL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ73V25D",
     "walmart_url": "https://www.walmart.com/search?q=10+PCS+Car+Camera+Lens+Protector%2C+Backup+Camera+Lens+Cover+w"
-  },
-  {
-    "asin": "B0H1QS6HN9",
-    "title": "ONETIGRIS CAMPING 4-Season Cot Mattress Pad, Reversible Sleeping Pad",
-    "type": "candidate",
-    "score": 59.6,
-    "price": 56.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/71uN6fIAOBL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1QS6HN9",
-    "walmart_url": "https://www.walmart.com/search?q=ONETIGRIS+CAMPING+4-Season+Cot+Mattress+Pad%2C+Reversible+Slee"
   },
   {
     "asin": "B0HBK2X5YT",
@@ -10789,6 +10778,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eJSV9i9ML._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HLCV4Q6H",
     "walmart_url": "https://www.walmart.com/search?q=Garvee+Rv+Steps+with+Handrail%2C+Anti-Slip+4+Step+Rv+Stairs+%7C+"
+  },
+  {
+    "asin": "B0H1QS6HN9",
+    "title": "ONETIGRIS CAMPING 4-Season Cot Mattress Pad, Reversible Sleeping Pad",
+    "type": "candidate",
+    "score": 57.45,
+    "price": 56.99,
+    "bsr": 23590,
+    "image_url": "https://m.media-amazon.com/images/I/71uN6fIAOBL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1QS6HN9",
+    "walmart_url": "https://www.walmart.com/search?q=ONETIGRIS+CAMPING+4-Season+Cot+Mattress+Pad%2C+Reversible+Slee"
   },
   {
     "asin": "B0H25LPNCJ",
@@ -18304,17 +18304,6 @@
     "walmart_url": "https://www.walmart.com/search?q=2PCS+Awning+Mounting+Brackets+for+Car+Roof+Rack+Cross+Bars+P"
   },
   {
-    "asin": "B0H4TBLR42",
-    "title": "2 Pack RV T-Style Door Holder, 6 Inch ABS Camper Door Catch, Black",
-    "type": "candidate",
-    "score": 42.75,
-    "price": 9.99,
-    "bsr": 13066,
-    "image_url": "https://m.media-amazon.com/images/I/71bkcIhLGxL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4TBLR42",
-    "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+T-Style+Door+Holder%2C+6+Inch+ABS+Camper+Door+Catch%2C"
-  },
-  {
     "asin": "B0H4ZDFHTH",
     "title": "Pniwuno 12V Marine Boat LED Light Strip, Cuttable IP69 Waterproof RV Front Cap Lights, Golf Cart Underglow Roof Lights Strip",
     "type": "candidate",
@@ -18452,7 +18441,7 @@
     "type": "candidate",
     "score": 42.5,
     "price": 29.99,
-    "bsr": 27055,
+    "bsr": 24104,
     "image_url": "https://m.media-amazon.com/images/I/71KbgUfKr6L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5SDY31C",
     "walmart_url": "https://www.walmart.com/search?q=Shackle+Hitch+Receiver+2%22+Inch+Receivers+for+Vehicle+Recover"
@@ -21087,6 +21076,17 @@
     "walmart_url": "https://www.walmart.com/search?q=3317085.000U+Awning+Arm+End+Cap+Kit%2C+Fits+Dometic+9200+RV+Po"
   },
   {
+    "asin": "B0H4TBLR42",
+    "title": "2 Pack RV T-Style Door Holder, 6 Inch ABS Camper Door Catch, Black",
+    "type": "candidate",
+    "score": 35.5,
+    "price": 9.99,
+    "bsr": 15890,
+    "image_url": "https://m.media-amazon.com/images/I/71bkcIhLGxL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4TBLR42",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pack+RV+T-Style+Door+Holder%2C+6+Inch+ABS+Camper+Door+Catch%2C"
+  },
+  {
     "asin": "B0HGF7BQDT",
     "title": "RV Window Awning Replacement Pull Strap, 27&quot; Camper Window Awning Straps | 901012 Window Awning Tie Down Kit for RV Travel Tr",
     "type": "candidate",
@@ -21747,6 +21747,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Waste+Ball+Kit+34117%2CRV+Toilet+Parts+for+Thetford+Aqua+Magic"
   },
   {
+    "asin": "B0H3RZ4R2Z",
+    "title": "25 FT 4 Pin Trailer Wiring Harness，Waterproof Trailer Wiring Kit",
+    "type": "candidate",
+    "score": 33.4,
+    "price": 8.98,
+    "bsr": 15276,
+    "image_url": "https://m.media-amazon.com/images/I/81mYUES74GL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3RZ4R2Z",
+    "walmart_url": "https://www.walmart.com/search?q=25+FT+4+Pin+Trailer+Wiring+Harness%EF%BC%8CWaterproof+Trailer+Wiring"
+  },
+  {
     "asin": "B0H6P5YSNT",
     "title": "WODHMIEY RV Water Heater Gas Valve 161109 Replacement | RV Water Heater Gas Control Valve 161109 Replacement for SW4D SW6D SW",
     "type": "candidate",
@@ -21888,17 +21899,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/617yKCRdMqL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9RJCS9Y",
     "walmart_url": "https://www.walmart.com/search?q=Rv+Entry+Door%2C+26%22+W%C3%9736%22+H+Entry+Door+Set%2C+RV+Camper+Teardro"
-  },
-  {
-    "asin": "B0H3RZ4R2Z",
-    "title": "25 FT 4 Pin Trailer Wiring Harness，Waterproof Trailer Wiring Kit",
-    "type": "candidate",
-    "score": 33.0,
-    "price": 8.98,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/81mYUES74GL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3RZ4R2Z",
-    "walmart_url": "https://www.walmart.com/search?q=25+FT+4+Pin+Trailer+Wiring+Harness%EF%BC%8CWaterproof+Trailer+Wiring"
   },
   {
     "asin": "B0H8MW7BHC",
