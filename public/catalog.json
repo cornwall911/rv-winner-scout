@@ -33,17 +33,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Solar+Magnetic+Backup+Camera+7%22+1080P+for+RV+Trailer+Truck"
   },
   {
-    "asin": "B0HC5V3KLK",
-    "title": "AUTO-VOX 2 Solar Wireless Backup Camera, 7.2&quot; Split Screen for Dual Views | 3 Min Install, 1080P Dual View, Dual Antenna Sign",
-    "type": "winner",
-    "score": 90.3,
-    "price": 199.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710nzG257dL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC5V3KLK",
-    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+2+Solar+Wireless+Backup+Camera%2C+7.2%22+Split+Screen+f"
-  },
-  {
     "asin": "B0HJPNYB3P",
     "title": "2027 New Wall Mounted Air Conditioner, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating Wall AC Unit with Remote, Quiet O",
     "type": "winner",
@@ -350,6 +339,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/718boxrmhsL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC6MSXG6",
     "walmart_url": "https://www.walmart.com/search?q=WIPPRO+Diesel+Heater+8KW%2C+12V+24V+110V+All-in-One%2C2Gal+Porta"
+  },
+  {
+    "asin": "B0HC5V3KLK",
+    "title": "AUTO-VOX 2 Solar Wireless Backup Camera, 7.2&quot; Split Screen for Dual Views",
+    "type": "winner",
+    "score": 89.15,
+    "price": 199.99,
+    "bsr": 7219,
+    "image_url": "https://m.media-amazon.com/images/I/710nzG257dL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC5V3KLK",
+    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+2+Solar+Wireless+Backup+Camera%2C+7.2%22+Split+Screen+f"
   },
   {
     "asin": "B0H748Y253",
@@ -4752,17 +4752,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Dual+View+Mirror+Extenders+for+Towing+with+Rain+Guards%2C360%C2%B0+"
   },
   {
-    "asin": "B0HF7WG8GJ",
-    "title": "Camper Undercarriage Snow‑Proof Protective Skirt 28m/92ft",
-    "type": "should_test",
-    "score": 68.0,
-    "price": 288.0,
-    "bsr": 12682,
-    "image_url": "https://m.media-amazon.com/images/I/71jwIa4hSRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF7WG8GJ",
-    "walmart_url": "https://www.walmart.com/search?q=Camper+Undercarriage+Snow%E2%80%91Proof+Protective+Skirt+28m%2F92ft"
-  },
-  {
     "asin": "B0H74YBZPQ",
     "title": "Propane Tank Storage Bag for 1lb Cylinders, Holds 6 (Black)",
     "type": "should_test",
@@ -5157,6 +5146,17 @@
     "image_url": "https://m.media-amazon.com/images/I/81g0q3Z3mnL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJPYRKZH",
     "walmart_url": "https://www.walmart.com/search?q=8Pcs+Waterproof+Rear+View+Camera+Rain+Shield+Cover%2C+Backup+C"
+  },
+  {
+    "asin": "B0HF7WG8GJ",
+    "title": "Camper Undercarriage Snow‑Proof Protective Skirt 28m/92ft",
+    "type": "should_test",
+    "score": 66.5,
+    "price": 288.0,
+    "bsr": 12155,
+    "image_url": "https://m.media-amazon.com/images/I/71jwIa4hSRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF7WG8GJ",
+    "walmart_url": "https://www.walmart.com/search?q=Camper+Undercarriage+Snow%E2%80%91Proof+Protective+Skirt+28m%2F92ft"
   },
   {
     "asin": "B0H7B7GD6Y",
@@ -6407,7 +6407,7 @@
     "type": "should_test",
     "score": 62.25,
     "price": 65.99,
-    "bsr": 11729,
+    "bsr": 11625,
     "image_url": "https://m.media-amazon.com/images/I/711focfipsL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HB5W5T8P",
     "walmart_url": "https://www.walmart.com/search?q=RV+Dual+C-O+and+L-P+G-as+Sensor%2C+12V+DC+for+RVs%2C+Hardwired%2C+"
@@ -17908,6 +17908,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Spare+Tire+Cover+15in+Roaring+Bear+Universal+Wheel+Protec"
   },
   {
+    "asin": "B0HCB9PTGG",
+    "title": "Tarp Clips Heavy Duty, 30 Pcs Plastic Tarp Clamps Set",
+    "type": "candidate",
+    "score": 43.75,
+    "price": 8.99,
+    "bsr": 12605,
+    "image_url": "https://m.media-amazon.com/images/I/71CnbEVM7pL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCB9PTGG",
+    "walmart_url": "https://www.walmart.com/search?q=Tarp+Clips+Heavy+Duty%2C+30+Pcs+Plastic+Tarp+Clamps+Set"
+  },
+  {
     "asin": "B0H45VKJ5K",
     "title": "ProCamp 3&quot; RV Sewer Cap with Tether | Waste Valve Dump Cap Cover | Replacement 3&quot; waste valve dump cap with tether strap; fit",
     "type": "candidate",
@@ -18005,17 +18016,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WsepeXALL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFS7KQ23",
     "walmart_url": "https://www.walmart.com/search?q=RV+Roof+Vent+Operator+Assembly+for+Ventline+Ventadome%2C+Knob+"
-  },
-  {
-    "asin": "B0HCB9PTGG",
-    "title": "Tarp Clips Heavy Duty, 30 Pcs Plastic Tarp Clamps Set",
-    "type": "candidate",
-    "score": 43.5,
-    "price": 8.99,
-    "bsr": 14810,
-    "image_url": "https://m.media-amazon.com/images/I/71CnbEVM7pL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCB9PTGG",
-    "walmart_url": "https://www.walmart.com/search?q=Tarp+Clips+Heavy+Duty%2C+30+Pcs+Plastic+Tarp+Clamps+Set"
   },
   {
     "asin": "B0HCJP5C4W",
