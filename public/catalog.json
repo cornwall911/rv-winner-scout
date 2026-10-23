@@ -66,6 +66,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Backup+Camera+Wireless+Clear+Picture%3A+Install-Fr"
   },
   {
+    "asin": "B0H695SHXG",
+    "title": "Venluna Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install | 15000mAh Solar Battery, 5” 1080P Monitor, 500ft Wi",
+    "type": "winner",
+    "score": 90.2,
+    "price": 109.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8105IsnmmVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
+    "walmart_url": "https://www.walmart.com/search?q=Venluna+Magnetic+Wireless+Backup+Camera+for+Truck+Trailer%2C+1"
+  },
+  {
     "asin": "B0HJPGLTYC",
     "title": "2027 New Wall Mounted Air Conditioner, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating Wall AC Unit with Remote, Quiet O",
     "type": "winner",
@@ -141,28 +152,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Z77+alPTL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H93W4JLP",
     "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+7.2-Inch+Solar+Wireless+Backup+Camera%2C+1-Min+Magnet"
-  },
-  {
-    "asin": "B0H5QBNVRR",
-    "title": "AUTO-VOX Solar Wireless Backup Camera: 1-Minute No-Drill Installation | Stable Dual Antenna Signal, 6&quot; 1080P Display with Col",
-    "type": "winner",
-    "score": 90.0,
-    "price": 159.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711LpS7xzVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5QBNVRR",
-    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Solar+Wireless+Backup+Camera%3A+1-Minute+No-Drill+Ins"
-  },
-  {
-    "asin": "B0H695SHXG",
-    "title": "Venluna Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install | 15000mAh Solar Battery, 5” 1080P Monitor, 500ft Wi",
-    "type": "winner",
-    "score": 89.85,
-    "price": 109.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8105IsnmmVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
-    "walmart_url": "https://www.walmart.com/search?q=Venluna+Magnetic+Wireless+Backup+Camera+for+Truck+Trailer%2C+1"
   },
   {
     "asin": "B0HJTW3DW4",
@@ -460,6 +449,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71bDMug1r8L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3NJC8PS",
     "walmart_url": "https://www.walmart.com/search?q=HEECOOMI+Magnetic+Solar+Wireless+Backup+Camera+System%2C+7%22+IP"
+  },
+  {
+    "asin": "B0H5QBNVRR",
+    "title": "AUTO-VOX Solar Wireless Backup Camera: 1-Minute No-Drill Installation | Stable Dual Antenna Signal, 6&quot; 1080P Display with Col",
+    "type": "winner",
+    "score": 88.25,
+    "price": 159.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711LpS7xzVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5QBNVRR",
+    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Solar+Wireless+Backup+Camera%3A+1-Minute+No-Drill+Ins"
   },
   {
     "asin": "B0H1DSFH7F",
@@ -1518,17 +1518,6 @@
     "walmart_url": "https://www.walmart.com/search?q=200W+AC+110V+Power+Inverter+Compatible+with+DEWALT+20V+Batte"
   },
   {
-    "asin": "B0H6WT7LPM",
-    "title": "AUTO-VOX Wireless RV Backup Camera System with Rear &amp; Side Cameras",
-    "type": "winner",
-    "score": 80.1,
-    "price": 269.99,
-    "bsr": 8333,
-    "image_url": "https://m.media-amazon.com/images/I/71lcOJKYn-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6WT7LPM",
-    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Wireless+RV+Backup+Camera+System+with+Rear+%26+Side+C"
-  },
-  {
     "asin": "B0H8RJDHGQ",
     "title": "RV Skirting Kits for Winter, Easy Installation - Black, 2.62 x 85.3 ft",
     "type": "winner",
@@ -1758,6 +1747,17 @@
     "image_url": "https://m.media-amazon.com/images/I/71HGpyhfAiL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1BSLPWF",
     "walmart_url": "https://www.walmart.com/search?q=24V+RV+10000+BTU+Air+Conditioner+Pro+-+Ultra-Quiet+Cooling+S"
+  },
+  {
+    "asin": "B0HCHRD3VH",
+    "title": "Mental RV Door Lock Keyless Entry with Keypad/Handle/Remotes/Keys",
+    "type": "should_test",
+    "score": 79.35,
+    "price": 89.99,
+    "bsr": 9999999,
+    "image_url": "https://m.media-amazon.com/images/I/6155yBbsZNL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
+    "walmart_url": "https://www.walmart.com/search?q=Mental+RV+Door+Lock+Keyless+Entry+with+Keypad%2FHandle%2FRemotes"
   },
   {
     "asin": "B0GWPF46YB",
@@ -2530,6 +2530,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Jumyee+RV+Screen+Door+Curtain%2C+Magnetic+Camper+Door+Mesh+31."
   },
   {
+    "asin": "B0H6WT7LPM",
+    "title": "AUTO-VOX Wireless RV Backup Camera System with Rear &amp; Side Cameras | 30-Min Plug and Play Install, 7.2&quot; 1080P Full View Monit",
+    "type": "should_test",
+    "score": 77.0,
+    "price": 269.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lcOJKYn-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6WT7LPM",
+    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Wireless+RV+Backup+Camera+System+with+Rear+%26+Side+C"
+  },
+  {
     "asin": "B0H6JV8ZG9",
     "title": "IP68 Waterproof Ethernet RJ45 Pass Through for Starlink Gen3 Gen4",
     "type": "should_test",
@@ -3034,6 +3045,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vfFCvat6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8RHH69H",
     "walmart_url": "https://www.walmart.com/search?q=14%22+RV+Roof+Vent+Fan%2C+12V+24V+48V%2C+Smart+Temp+Humidity%2C+LED%2C"
+  },
+  {
+    "asin": "B0HCB18KP3",
+    "title": "2 Pack Magnetic Solar Lights Outdoor 4 Colors &amp; Motion Sensor Remote for RV | 92 LED 600LM w/Remote, Solar &amp; USB Charging, 36",
+    "type": "should_test",
+    "score": 75.5,
+    "price": 27.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AkLG9jwBL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCB18KP3",
+    "walmart_url": "https://www.walmart.com/search?q=2+Pack+Magnetic+Solar+Lights+Outdoor+4+Colors+%26+Motion+Senso"
   },
   {
     "asin": "B0H29ZGFN9",
@@ -3839,15 +3861,15 @@
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor+with+Remote%2CRV+LED+Lights+Exte"
   },
   {
-    "asin": "B0HCB18KP3",
-    "title": "2 Pack Magnetic Solar Lights Outdoor 4 Colors &amp; Motion Sensor Remote for RV | 92 LED 600LM w/Remote, Solar &amp; USB Charging, 36",
+    "asin": "B0HH8G5N4Q",
+    "title": "AUTO-VOX Wireless RV Backup Camera System,Dual Lens Rear and Side Coverage | 7.2&quot; HD Monitor, Triple Split View, IR Night Vis",
     "type": "should_test",
     "score": 71.25,
-    "price": 27.99,
+    "price": 319.98,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AkLG9jwBL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCB18KP3",
-    "walmart_url": "https://www.walmart.com/search?q=2+Pack+Magnetic+Solar+Lights+Outdoor+4+Colors+%26+Motion+Senso"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71t-DUyO6cL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH8G5N4Q",
+    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Wireless+RV+Backup+Camera+System%2CDual+Lens+Rear+and"
   },
   {
     "asin": "B0H7SFCSL8",
@@ -3905,17 +3927,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Apexlife+RV+Couch+Covers+for+Sofa+Bed%2C+2+Piece+Jackknife+Sof"
   },
   {
-    "asin": "B0HH8G5N4Q",
-    "title": "AUTO-VOX Wireless RV Backup Camera System,Dual Lens Rear and Side Coverage | 7.2&quot; HD Monitor, Triple Split View, IR Night Vis",
-    "type": "should_test",
-    "score": 71.0,
-    "price": 319.98,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71t-DUyO6cL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH8G5N4Q",
-    "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+Wireless+RV+Backup+Camera+System%2CDual+Lens+Rear+and"
-  },
-  {
     "asin": "B0H4VJTFR3",
     "title": "GEARGO 𝑨𝑳𝑳-𝑵𝑬𝑾 RV Surge Protector 50 Amp, 30000J RV Circuit Analyzer with Smart APP &amp; Bluetooth, Larger LED Display, IP",
     "type": "should_test",
@@ -3947,17 +3958,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61ru15f2ejL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HL4334RT",
     "walmart_url": "https://www.walmart.com/search?q=EROMMY+RV+Roof+Vent%2C+12V+DC+30W+RV+Vent+Fan+with+10-Speed+Re"
-  },
-  {
-    "asin": "B0HCHRD3VH",
-    "title": "Dyfizer Mental RV Door Lock Keyless Entry with Keypad/Handle/Remotes/Keys | Full metal RV lock with triple access, jam-free d",
-    "type": "should_test",
-    "score": 71.0,
-    "price": 89.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6155yBbsZNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
-    "walmart_url": "https://www.walmart.com/search?q=Dyfizer+Mental+RV+Door+Lock+Keyless+Entry+with+Keypad%2FHandle"
   },
   {
     "asin": "B0H5PR3HWX",
@@ -4145,6 +4145,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AOZdCGYbL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6VWS6TQ",
     "walmart_url": "https://www.walmart.com/search?q=Adjustable+Water+Pressure+Regulator+for+RV+Camper+with+Gauge"
+  },
+  {
+    "asin": "B0GPWBVY58",
+    "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
+    "type": "should_test",
+    "score": 70.25,
+    "price": 299.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O9LSJyirL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
+    "walmart_url": "https://www.walmart.com/search?q=2800W+Portable+Inverter+Generator%2C+Quiet+Gas+Generator+for+C"
   },
   {
     "asin": "B0GGY4GKNP",
@@ -4653,17 +4664,6 @@
     "walmart_url": "https://www.walmart.com/search?q=TZYWFZ+RV+Exterior+Trash+Bag+Holder%2C+No+Drill+Suction+Cup+Co"
   },
   {
-    "asin": "B0GSFR7ZJN",
-    "title": "ONNAIS Smart RV Door Lock - Full Metal App Control Keyless Entry | Fits Most Trailers &amp; 5th Wheels, App Operation, 100 ft Fob",
-    "type": "should_test",
-    "score": 68.25,
-    "price": 199.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LgiqJOdLL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GSFR7ZJN",
-    "walmart_url": "https://www.walmart.com/search?q=ONNAIS+Smart+RV+Door+Lock+-+Full+Metal+App+Control+Keyless+E"
-  },
-  {
     "asin": "B0HH9H7VHJ",
     "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C, Windproof Wa",
     "type": "should_test",
@@ -4752,15 +4752,15 @@
     "walmart_url": "https://www.walmart.com/search?q=Coleman-Mach+Everest+VS-18+RV+Air+Conditioner%2C+18%2C000+BTU%2C+H"
   },
   {
-    "asin": "B0GPWBVY58",
-    "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
+    "asin": "B0GSFR7ZJN",
+    "title": "ONNAIS Smart RV Door Lock - Full Metal App Control Keyless Entry | Fits Most Trailers &amp; 5th Wheels, App Operation, 100 ft Fob",
     "type": "should_test",
     "score": 68.0,
-    "price": 299.99,
+    "price": 199.99,
     "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O9LSJyirL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
-    "walmart_url": "https://www.walmart.com/search?q=2800W+Portable+Inverter+Generator%2C+Quiet+Gas+Generator+for+C"
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LgiqJOdLL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GSFR7ZJN",
+    "walmart_url": "https://www.walmart.com/search?q=ONNAIS+Smart+RV+Door+Lock+-+Full+Metal+App+Control+Keyless+E"
   },
   {
     "asin": "B0H83DLDV3",
@@ -10219,17 +10219,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Guilcam+4+Pack+Rearview+Camera+Lens+Protectors+with+Anti-Fog"
   },
   {
-    "asin": "B0HJLXKRBT",
-    "title": "8Pcs Car Camera Cover, Backup Camera Rain Shield, Rear View Lens Protector | 8Pcs Curved Black PVC Rain Hood with Adhesive Ba",
-    "type": "candidate",
-    "score": 61.2,
-    "price": 7.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7148yYD2lmL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJLXKRBT",
-    "walmart_url": "https://www.walmart.com/search?q=8Pcs+Car+Camera+Cover%2C+Backup+Camera+Rain+Shield%2C+Rear+View+"
-  },
-  {
     "asin": "B0HHF8DQ3L",
     "title": "Aotolo Loveseat Recliner, Wall Hugger RV Recliner Sofa with Massage &amp; Heat | PU Leather Reclining Loveseat with 95-160° Infin",
     "type": "candidate",
@@ -12065,6 +12054,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71utBuJmwZL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3TP4RYJ",
     "walmart_url": "https://www.walmart.com/search?q=Multifunctional+Insulated+RV+Trailer+Door%2C+30%22+W%C3%9736%22+H+Sound"
+  },
+  {
+    "asin": "B0HJLXKRBT",
+    "title": "8Pcs Car Camera Cover, Backup Camera Rain Shield, Rear View Lens Protector | 8Pcs Curved Black PVC Rain Hood with Adhesive Ba",
+    "type": "candidate",
+    "score": 53.7,
+    "price": 7.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7148yYD2lmL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJLXKRBT",
+    "walmart_url": "https://www.walmart.com/search?q=8Pcs+Car+Camera+Cover%2C+Backup+Camera+Rain+Shield%2C+Rear+View+"
   },
   {
     "asin": "B0HJLB7MH9",
@@ -16302,6 +16302,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Outus+4+Pack+Folding+Safety+Steps+and+Grab+Handle+for+Truck+"
   },
   {
+    "asin": "B0H7BKNBMR",
+    "title": "Ziquruv 50A RV Male Replacement Plug, 14-50P, Pull Handle, Black | 125/250v Cord-End Repair, Nylon Housing, Copper Contacts,",
+    "type": "candidate",
+    "score": 47.0,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51plzS-ye-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7BKNBMR",
+    "walmart_url": "https://www.walmart.com/search?q=Ziquruv+50A+RV+Male+Replacement+Plug%2C+14-50P%2C+Pull+Handle%2C+B"
+  },
+  {
     "asin": "B0H8R52L32",
     "title": "Tangpxta RV Fresh Water Tank Filling Funnel | Water Fill Accessory, RV Compatible,Camping water filling adapter",
     "type": "candidate",
@@ -16454,17 +16465,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71OB-RGky2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDZB64ZX",
     "walmart_url": "https://www.walmart.com/search?q=POL+to+QCC1+Propane+Tank+Adapter+Heavy+Duty+Solid+Brass+Conv"
-  },
-  {
-    "asin": "B0H7BKNBMR",
-    "title": "Ziquruv 50A RV Male Replacement Plug, 14-50P, Pull Handle, Black | 125/250v Cord-End Repair, Nylon Housing, Copper Contacts,",
-    "type": "candidate",
-    "score": 46.75,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51plzS-ye-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7BKNBMR",
-    "walmart_url": "https://www.walmart.com/search?q=Ziquruv+50A+RV+Male+Replacement+Plug%2C+14-50P%2C+Pull+Handle%2C+B"
   },
   {
     "asin": "B0H3LNS52X",
@@ -17710,17 +17710,6 @@
     "walmart_url": "https://www.walmart.com/search?q=XPJDTRAAH+for+Fiamma+F45S+Motorhome+Awning+Box+Rafter+Fixing"
   },
   {
-    "asin": "B0HC3JBWT2",
-    "title": "ETL Listed 50 Amp Twist Lock RV Adapter 4-Prong NEMA 14-50P Male to SS2-50R/CS6364 Female Plug Extender Shore Power Converter",
-    "type": "candidate",
-    "score": 44.75,
-    "price": 28.49,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61D1U4zx2lL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC3JBWT2",
-    "walmart_url": "https://www.walmart.com/search?q=ETL+Listed+50+Amp+Twist+Lock+RV+Adapter+4-Prong+NEMA+14-50P+"
-  },
-  {
     "asin": "B0H5Q135R5",
     "title": "Rv Entry Door, 28“ x 38” Entry Door, Black Aluminum Alloy Teardrop Trailer Door with Tempered Glass and Key Lock for RVs, Cam",
     "type": "candidate",
@@ -18489,6 +18478,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vW4RhTfzL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD6LLV2S",
     "walmart_url": "https://www.walmart.com/search?q=CH751+RV+Camper+Door+Key+Replacement+for+Travel+Trailers+Loc"
+  },
+  {
+    "asin": "B0HC3JBWT2",
+    "title": "ETL Listed 50 Amp Twist Lock RV Adapter 4-Prong NEMA 14-50P Male to SS2-50R/CS6364 Female Plug Extender Shore Power Converter",
+    "type": "candidate",
+    "score": 43.0,
+    "price": 28.49,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61D1U4zx2lL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC3JBWT2",
+    "walmart_url": "https://www.walmart.com/search?q=ETL+Listed+50+Amp+Twist+Lock+RV+Adapter+4-Prong+NEMA+14-50P+"
   },
   {
     "asin": "B0H717NWG8",
@@ -19371,6 +19371,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Bumper+End+Caps+for+4+Inch+Square+Bumpers%2C+Aluminum%2C+2+Pa"
   },
   {
+    "asin": "B0H49DDTLW",
+    "title": "TNAIYH 2PCS Car Camera Lens Protector, 360° All-Round Protection Transparency Vehicle Backup Camera Shield Cover, Auto Rearvi",
+    "type": "candidate",
+    "score": 40.75,
+    "price": 3.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qXVhyRngL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H49DDTLW",
+    "walmart_url": "https://www.walmart.com/search?q=TNAIYH+2PCS+Car+Camera+Lens+Protector%2C+360%C2%B0+All-Round+Protec"
+  },
+  {
     "asin": "B0H7WN3KG4",
     "title": "Aepiraza Class A RV Side Mirror Covers for Motorhomes, 2Pcs Silver 26Inch Motorhome Side Mirror Covers with Drawstrings, Wint",
     "type": "candidate",
@@ -19380,17 +19391,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61jQehMeoJL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7WN3KG4",
     "walmart_url": "https://www.walmart.com/search?q=Aepiraza+Class+A+RV+Side+Mirror+Covers+for+Motorhomes%2C+2Pcs+"
-  },
-  {
-    "asin": "B0H49DDTLW",
-    "title": "2PCS Car Camera Lens Protector, 360° All-Round Protection Transparency Vehicle Backup Camera Shield Cover, Auto Rearview Lens Anti-Scratch Guard Protection Accessories, Universal Fit",
-    "type": "candidate",
-    "score": 40.5,
-    "price": 3.99,
-    "bsr": 12242,
-    "image_url": "https://m.media-amazon.com/images/I/61qXVhyRngL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H49DDTLW",
-    "walmart_url": "https://www.walmart.com/search?q=2PCS+Car+Camera+Lens+Protector%2C+360%C2%B0+All-Round+Protection+Tr"
   },
   {
     "asin": "B0HDNBVFZ8",
@@ -20381,17 +20381,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61s5aE47WcL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCJR6GM5",
     "walmart_url": "https://www.walmart.com/search?q=G364+Universal+RV+Replacement+Key+Set+Compatible+with+Global"
-  },
-  {
-    "asin": "B0HCJQVNWP",
-    "title": "G367 Universal RV Replacement Key Set Compatible with Global Link Trailer Camper Locks, Include G301-G390 Series G391 CH751 R",
-    "type": "candidate",
-    "score": 38.75,
-    "price": 12.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61s5aE47WcL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCJQVNWP",
-    "walmart_url": "https://www.walmart.com/search?q=G367+Universal+RV+Replacement+Key+Set+Compatible+with+Global"
   },
   {
     "asin": "B0H26MN48T",
@@ -21470,6 +21459,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61SjNhRnqhL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFMV7VHN",
     "walmart_url": "https://www.walmart.com/search?q=Chanjunovire+418203+RV+Awning+Drive+Head+Gear+Pack+for+37356"
+  },
+  {
+    "asin": "B0HCJQVNWP",
+    "title": "G367 Universal RV Replacement Key Set Compatible with Global Link Trailer Camper Locks, Include G301-G390 Series G391 CH751 R",
+    "type": "candidate",
+    "score": 35.25,
+    "price": 12.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61s5aE47WcL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCJQVNWP",
+    "walmart_url": "https://www.walmart.com/search?q=G367+Universal+RV+Replacement+Key+Set+Compatible+with+Global"
   },
   {
     "asin": "B0HB4JJF16",
@@ -23551,17 +23551,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Utility+Trailer+Cover+for+MAXXD+DDX+Dump+Trailer+8x16%2C+420D+"
   },
   {
-    "asin": "B0HFR6DDG3",
-    "title": "OFTTZJ Car Camera Lens Protector, Car Camera Protective Cover, 4PCS | 360° Panoramic Rearview Camera Cover, Ultra Clear Prote",
-    "type": "candidate",
-    "score": 28.5,
-    "price": 6.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61aDoIUvuRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFR6DDG3",
-    "walmart_url": "https://www.walmart.com/search?q=OFTTZJ+Car+Camera+Lens+Protector%2C+Car+Camera+Protective+Cove"
-  },
-  {
     "asin": "B0H8QN3GQS",
     "title": "Marine Sealant and Adhesive, Waterproof Marine Grade Caulk, High Temp | Water Sealant for Boat, Auto, RV, Without Silicone, 1",
     "type": "candidate",
@@ -23626,6 +23615,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61qJAmKabbL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCBNC17N",
     "walmart_url": "https://www.walmart.com/search?q=20pcs+Propane+Tank+Gasket+%26+O+Rings+Seal+Kit+for+Soft+Nose+P"
+  },
+  {
+    "asin": "B0HFR6DDG3",
+    "title": "OFTTZJ Car Camera Lens Protector, Car Camera Protective Cover, 4PCS | 360° Panoramic Rearview Camera Cover, Ultra Clear Prote",
+    "type": "candidate",
+    "score": 27.75,
+    "price": 0.0,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61aDoIUvuRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFR6DDG3",
+    "walmart_url": "https://www.walmart.com/search?q=OFTTZJ+Car+Camera+Lens+Protector%2C+Car+Camera+Protective+Cove"
   },
   {
     "asin": "B0GZQV219N",
