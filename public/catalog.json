@@ -1463,17 +1463,6 @@
     "walmart_url": "https://www.walmart.com/search?q=8800+BTU+12V+RV+Air+Conditioner%2C+Rooftop+AC+Unit+with+Remote"
   },
   {
-    "asin": "B0GY4TQ2P8",
-    "title": "Anker SOLIX S2000 Portable Power Station with AC Cable, 2,010Wh, 1,500W | 2,010Wh LiFePO4 Battery, 1,500W Output, Solar Gener",
-    "type": "winner",
-    "score": 80.35,
-    "price": 699.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RIWZLpAdL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GY4TQ2P8",
-    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station+with+AC+Cable%2C+2%2C01"
-  },
-  {
     "asin": "B0H3QLN517",
     "title": "classAcustoms Breezy 80006 Multiple Speed RV Roof Vent Fan Upgrade kit | 12 Volt DC Power | Powerful and Quiet | Trailer | Ca",
     "type": "winner",
@@ -1494,6 +1483,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/616YZQt0y0L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4TVNKT9",
     "walmart_url": "https://www.walmart.com/search?q=1Pack+Caravan+Van+Sliding+Car+Door+Curtain+Magnetic+Mosquito"
+  },
+  {
+    "asin": "B0GY4TQ2P8",
+    "title": "Anker SOLIX S2000 Portable Power Station with AC Cable, 2,010Wh, 1,500W | 2,010Wh LiFePO4 Battery, 1,500W Output, Solar Gener",
+    "type": "winner",
+    "score": 80.25,
+    "price": 699.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RIWZLpAdL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GY4TQ2P8",
+    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station+with+AC+Cable%2C+2%2C01"
   },
   {
     "asin": "B0HJ218GGF",
