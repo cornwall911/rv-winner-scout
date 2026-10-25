@@ -1375,17 +1375,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Full+Metal+RV+Door+Lock%2C+10-Digit+Keypad+for+Most+Trailers+%26"
   },
   {
-    "asin": "B0H36XG378",
-    "title": "CTOLITY XP1000 Portable Power Station, 1024Wh 1800W LiFePO4 Solar Generator | Peak 3600W, 1 Hr Fast Charge, 100W USB-C Output",
-    "type": "winner",
-    "score": 80.85,
-    "price": 399.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81MHOn8t6eL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H36XG378",
-    "walmart_url": "https://www.walmart.com/search?q=CTOLITY+XP1000+Portable+Power+Station%2C+1024Wh+1800W+LiFePO4+"
-  },
-  {
     "asin": "B0H4ZVM8PN",
     "title": "Kadrama RV Screen Door Protector for Dogs, Adjustable 21.5-31.5&quot; Aluminum | Heavy-Duty Solid Metal Grille for Small Pet Rust-",
     "type": "winner",
@@ -1417,6 +1406,17 @@
     "image_url": "https://m.media-amazon.com/images/I/61iyiXZ1scL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GS339M71",
     "walmart_url": "https://www.walmart.com/search?q=SnapPad+SnapJack%C2%AE+TC+Truck+Camper+Jack+Pad+%E2%80%93+for+HappiJac+Le"
+  },
+  {
+    "asin": "B0H36XG378",
+    "title": "CTOLITY XP1000 Portable Power Station, 1024Wh 1800W LiFePO4 Solar Generator | Peak 3600W, 1 Hr Fast Charge, 100W USB-C Output",
+    "type": "winner",
+    "score": 80.6,
+    "price": 399.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81MHOn8t6eL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H36XG378",
+    "walmart_url": "https://www.walmart.com/search?q=CTOLITY+XP1000+Portable+Power+Station%2C+1024Wh+1800W+LiFePO4+"
   },
   {
     "asin": "B0GYD3TVDV",
@@ -1584,6 +1584,17 @@
     "walmart_url": "https://www.walmart.com/search?q=200W+AC+110V+Power+Inverter+Compatible+with+DEWALT+20V+Batte"
   },
   {
+    "asin": "B0HJDBKJWL",
+    "title": "Anker SOLIX S2000 Portable Power Station with Car Charging Cable | 2,010Wh LiFePO4 Battery, 1,500W Output, Solar Generator fo",
+    "type": "winner",
+    "score": 80.2,
+    "price": 699.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EV2yOARhL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJDBKJWL",
+    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station+with+Car+Charging+C"
+  },
+  {
     "asin": "B0H8RJDHGQ",
     "title": "RV Skirting Kits for Winter, Easy Installation - Black, 2.62 x 85.3 ft",
     "type": "winner",
@@ -1604,17 +1615,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61jvhwDfMyL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ4F7PLJ",
     "walmart_url": "https://www.walmart.com/search?q=Magnetic+Cup+Holder+Stabilizer+Pads+Anti-Tip+for+RVs+%26+Boats"
-  },
-  {
-    "asin": "B0HJDBKJWL",
-    "title": "Anker SOLIX S2000 Portable Power Station with Car Charging Cable | 2,010Wh LiFePO4 Battery, 1,500W Output, Solar Generator fo",
-    "type": "winner",
-    "score": 80.0,
-    "price": 699.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EV2yOARhL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJDBKJWL",
-    "walmart_url": "https://www.walmart.com/search?q=Anker+SOLIX+S2000+Portable+Power+Station+with+Car+Charging+C"
   },
   {
     "asin": "B0H87F5N3R",
@@ -3949,6 +3949,17 @@
     "walmart_url": "https://www.walmart.com/search?q=FOGATTI+Camper+Gas+Furnace+35%2C000+BTU+-+for+Camper%2C+Motorhom"
   },
   {
+    "asin": "B0H878NF4W",
+    "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank | 100W PD Fast Charge, 2 AC Outlets, LiFePO4 Sola",
+    "type": "should_test",
+    "score": 70.85,
+    "price": 199.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81m1eRMHl-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H878NF4W",
+    "walmart_url": "https://www.walmart.com/search?q=DARAN+R200+Portable+Power+Station+192Wh%2C+200W%28400W+Peak%29+Com"
+  },
+  {
     "asin": "B0H12JS94Q",
     "title": "Portable Gas Bladder, Tpu Leakproof Fuel Bag Gasoline Handheld Oil Transfer Foldable Fuel Transfer Vehicle Oil Bag Gasoline Container for Drivers Suvs (10L)",
     "type": "should_test",
@@ -4323,17 +4334,6 @@
     "walmart_url": "https://www.walmart.com/search?q=GRIZZEX+Hitch+Tightener+Anti+Rattle+Stabilizer+for+1.25%22+to+"
   },
   {
-    "asin": "B0HFWTMYXH",
-    "title": "GEARGO 2026 𝐀𝐥𝐥-𝐍𝐞𝐰 RV Surge Protector 30 Amp, Latest RV Circuit Analyzer with Larger Cover, IP68 Waterproof Voltage Pr",
-    "type": "should_test",
-    "score": 69.15,
-    "price": 49.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KMhhmc2ZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFWTMYXH",
-    "walmart_url": "https://www.walmart.com/search?q=GEARGO+2026+%F0%9D%90%80%F0%9D%90%A5%F0%9D%90%A5-%F0%9D%90%8D%F0%9D%90%9E%F0%9D%90%B0+RV+Surge+Protector+30+Amp%2C+Latest+RV+Cir"
-  },
-  {
     "asin": "B0HFZ35MF8",
     "title": "RV Slide-Out Mouse Guard Compatible with Lippert Slide-Outs | Magnetic Installation, Fits 1.75 in. Openings, 12 x 2 mm Magnet",
     "type": "should_test",
@@ -4686,6 +4686,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Coleman-Mach+Everest+VS-18+RV+Air+Conditioner%2C+18%2C000+BTU%2C+H"
   },
   {
+    "asin": "B0HFWTMYXH",
+    "title": "GEARGO 2026 𝐀𝐥𝐥-𝐍𝐞𝐰 RV Surge Protector 30 Amp, Latest RV Circuit Analyzer with Larger Cover, IP68 Waterproof Voltage Pr",
+    "type": "should_test",
+    "score": 68.0,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KMhhmc2ZL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFWTMYXH",
+    "walmart_url": "https://www.walmart.com/search?q=GEARGO+2026+%F0%9D%90%80%F0%9D%90%A5%F0%9D%90%A5-%F0%9D%90%8D%F0%9D%90%9E%F0%9D%90%B0+RV+Surge+Protector+30+Amp%2C+Latest+RV+Cir"
+  },
+  {
     "asin": "B0H83DLDV3",
     "title": "RV Airflow Systems RV Air Conditioning Vent, 360° Rotating Ceiling Vent | Up to 15% Increased Airflow, 360° Rotating Airflow",
     "type": "should_test",
@@ -4728,6 +4739,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61zKvQxU1yL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFHWKZWB",
     "walmart_url": "https://www.walmart.com/search?q=Dual+View+Mirror+Extenders+for+Towing+with+Rain+Guards%2C360%C2%B0+"
+  },
+  {
+    "asin": "B0H2XN9729",
+    "title": "AIVOLT 4200W Inverter Generator Gas Powered, Portable Open Frame Generator | 16hr Runtime, Low Noise, ECO Mode, RV Ready, Eme",
+    "type": "should_test",
+    "score": 68.0,
+    "price": 299.98,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71PQkBBWifL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2XN9729",
+    "walmart_url": "https://www.walmart.com/search?q=AIVOLT+4200W+Inverter+Generator+Gas+Powered%2C+Portable+Open+F"
   },
   {
     "asin": "B0H74YBZPQ",
@@ -4783,17 +4805,6 @@
     "image_url": "https://m.media-amazon.com/images/I/71AB0q-J0gL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1RJJPMP",
     "walmart_url": "https://www.walmart.com/search?q=87+Gallon%2F330L+Water+Bladder+Tank+-+Portable+Collapsible+Wat"
-  },
-  {
-    "asin": "B0H2XN9729",
-    "title": "AIVOLT 4200W Inverter Generator Gas Powered, Portable Open Frame Generator | 16hr Runtime, Low Noise, ECO Mode, RV Ready, Eme",
-    "type": "should_test",
-    "score": 67.75,
-    "price": 299.98,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71PQkBBWifL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2XN9729",
-    "walmart_url": "https://www.walmart.com/search?q=AIVOLT+4200W+Inverter+Generator+Gas+Powered%2C+Portable+Open+F"
   },
   {
     "asin": "B0H45XH1D7",
@@ -6567,17 +6578,6 @@
     "walmart_url": "https://www.walmart.com/search?q=Expedeck+4x4+Portable+Deck+Landing%2C+Assembled+RV+Stairs%2C+21+"
   },
   {
-    "asin": "B0H878NF4W",
-    "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank | 100W PD Fast Charge, 2 AC Outlets, LiFePO4 Sola",
-    "type": "should_test",
-    "score": 62.3,
-    "price": 199.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81m1eRMHl-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H878NF4W",
-    "walmart_url": "https://www.walmart.com/search?q=DARAN+R200+Portable+Power+Station+192Wh%2C+200W%28400W+Peak%29+Com"
-  },
-  {
     "asin": "B0H3PBWG6Q",
     "title": "Roof Rack Awning Mount Brackets, Heavy Duty Quick Release &amp; Detachable",
     "type": "should_test",
@@ -8187,7 +8187,7 @@
     "asin": "B0HFJCZJJP",
     "title": "GENMAX 10500 Peak Watt Tri Fuel Open Frame Inverter Generator,with ATS,CO Sensor,digital display and 50A,Ideal for Home backu",
     "type": "should_test",
-    "score": 57.65,
+    "score": 57.5,
     "price": 1399.99,
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uqZF6++lL._AC_UL300_SR300,200_.jpg",
@@ -9988,6 +9988,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Propane+Tank+Cover%2CMountain+Camper+Gas+Cylinder+Cover+Fit"
   },
   {
+    "asin": "B0HHF8X4GC",
+    "title": "MITCHENIFY RV Fresh Water Inlet Funnel with Hose &amp; Suction Cup, RV Gadgets | Universal Funnel, 5-inch Wide Mouth, 360°Flexibl",
+    "type": "candidate",
+    "score": 64.2,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61402ygPeFL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHF8X4GC",
+    "walmart_url": "https://www.walmart.com/search?q=MITCHENIFY+RV+Fresh+Water+Inlet+Funnel+with+Hose+%26+Suction+C"
+  },
+  {
     "asin": "B0H83XF9GN",
     "title": "Car Camera Lens Protector - 360° All-Round Protection, Anti-Scratch &amp; Waterproof, Sleek Original Design, No Drill Easy Install,Compatible with Most Vehicle Cameras (4PCS)",
     "type": "candidate",
@@ -10041,17 +10052,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xRUT3fMIL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5K1KB11",
     "walmart_url": "https://www.walmart.com/search?q=Hrionsee+Magnetic+Solar+RV+Light+with+Motion+Sensor%2C+118+LED"
-  },
-  {
-    "asin": "B0HHF8X4GC",
-    "title": "MITCHENIFY RV Fresh Water Inlet Funnel with Hose &amp; Suction Cup, RV Gadgets | Universal Funnel, 5-inch Wide Mouth, 360°Flexibl",
-    "type": "candidate",
-    "score": 63.6,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61402ygPeFL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHF8X4GC",
-    "walmart_url": "https://www.walmart.com/search?q=MITCHENIFY+RV+Fresh+Water+Inlet+Funnel+with+Hose+%26+Suction+C"
   },
   {
     "asin": "B0H55JLS26",
@@ -10195,17 +10195,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-2YHs+dDL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJNCTYSY",
     "walmart_url": "https://www.walmart.com/search?q=Rearview+Camera+Rain+Guard+for+Car%2C+Adhesive+Backed+Waterpro"
-  },
-  {
-    "asin": "B0H6V2T6GW",
-    "title": "Magnetic Solar Lights Outdoor, 600LM 92 LED Solar Motion Light for RV Shed",
-    "type": "candidate",
-    "score": 62.5,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/7162bhGOPSL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6V2T6GW",
-    "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor%2C+600LM+92+LED+Solar+Motion+Lig"
   },
   {
     "asin": "B0HG9KPK6W",
@@ -10492,6 +10481,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/31oTE+VbopL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4Q61LRZ",
     "walmart_url": "https://www.walmart.com/search?q=RV+Mirror+Covers+for+Class+A+Motorhomes%2C+7-Layer+Insulated+%7C"
+  },
+  {
+    "asin": "B0H6V2T6GW",
+    "title": "Magnetic Solar Lights Outdoor, 600LM 92 LED Solar Motion Light for RV Shed | 360° Rotatable Head, Solar+USB Charging, Strong",
+    "type": "candidate",
+    "score": 60.0,
+    "price": 39.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7162bhGOPSL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6V2T6GW",
+    "walmart_url": "https://www.walmart.com/search?q=Magnetic+Solar+Lights+Outdoor%2C+600LM+92+LED+Solar+Motion+Lig"
   },
   {
     "asin": "B0H6DD3CH2",
@@ -11515,17 +11515,6 @@
     "image_url": "https://m.media-amazon.com/images/I/710Jpl5cH3L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCNG91H2",
     "walmart_url": "https://www.walmart.com/search?q=6+FT+Round+Outdoor+Mat%2C+Reversible+Blue+Gray+RV+Patio+Rug"
-  },
-  {
-    "asin": "B0H3KGL32T",
-    "title": "Bhanboth 12v RV USB Wall Panel Mount Outlet, 78W 3 Port 12 Volt USB Charging Station, Aluminum Body + Black Faceplate usbc an",
-    "type": "candidate",
-    "score": 55.5,
-    "price": 30.49,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vO-uCEviL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3KGL32T",
-    "walmart_url": "https://www.walmart.com/search?q=Bhanboth+12v+RV+USB+Wall+Panel+Mount+Outlet%2C+78W+3+Port+12+V"
   },
   {
     "asin": "B0H8NZBMRF",
@@ -13508,6 +13497,17 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Fabric+Replacement+for+19ft+Camper+Awnings%2C+20.8+o"
   },
   {
+    "asin": "B0HC3LHCFJ",
+    "title": "Kadrama RV Tank Rinser with Gate Valve, 45 Degree Clear Sewer Adapter | Vacuum Breaker, Clear Viewing Elbow, 3-Inch Bayonet C",
+    "type": "candidate",
+    "score": 51.25,
+    "price": 49.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71TV-CN98CL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC3LHCFJ",
+    "walmart_url": "https://www.walmart.com/search?q=Kadrama+RV+Tank+Rinser+with+Gate+Valve%2C+45+Degree+Clear+Sewe"
+  },
+  {
     "asin": "B0H7RQFFBL",
     "title": "R001326BLK RV Awning Motor Fit for Travel&#x27;R Patio Awnings Black 12V | Electric Camper Awning Motor for Awnings Up to 21&quot;in Le",
     "type": "candidate",
@@ -13827,6 +13827,17 @@
     "walmart_url": "https://www.walmart.com/search?q=KES+All+Metal+RV+City+Water+Inlet+with+Lead-Free+90+Degree+E"
   },
   {
+    "asin": "B0H3KGL32T",
+    "title": "Bhanboth 12v RV USB Wall Panel Mount Outlet, 78W 3 Port 12 Volt USB Charging Station, Aluminum Body + Black Faceplate usbc an",
+    "type": "candidate",
+    "score": 50.5,
+    "price": 30.49,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vO-uCEviL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3KGL32T",
+    "walmart_url": "https://www.walmart.com/search?q=Bhanboth+12v+RV+USB+Wall+Panel+Mount+Outlet%2C+78W+3+Port+12+V"
+  },
+  {
     "asin": "B0H5J8HNZN",
     "title": "Quynhni 62“ RV Black Water Tank Cleaner Wand，Camper Water Tank Rotating Spray Washer Powerful Cleaning Function for RVs Campe",
     "type": "candidate",
@@ -13836,17 +13847,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51i1aoTfsWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5J8HNZN",
     "walmart_url": "https://www.walmart.com/search?q=Quynhni+62%E2%80%9C+RV+Black+Water+Tank+Cleaner+Wand%EF%BC%8CCamper+Water+Ta"
-  },
-  {
-    "asin": "B0H8CX296Q",
-    "title": "MECMO NEMA L14-30P to 14-50R RV Generator Adapter, Twist Lock 30 to 50 Amp | 4 Prong Locking Generator, 7500W 30A 125/250V Ma",
-    "type": "candidate",
-    "score": 50.5,
-    "price": 19.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZC1D5iw5L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
-    "walmart_url": "https://www.walmart.com/search?q=MECMO+NEMA+L14-30P+to+14-50R+RV+Generator+Adapter%2C+Twist+Loc"
   },
   {
     "asin": "B0H28ZRF8N",
@@ -15917,17 +15917,6 @@
     "walmart_url": "https://www.walmart.com/search?q=TALWBTA+Anderson+Powerpole+Connectors+15%2F30%2F45A+Kit+with+Dus"
   },
   {
-    "asin": "B0HC3LHCFJ",
-    "title": "Kadrama RV Tank Rinser with Gate Valve, 45 Degree Clear Sewer Adapter | Vacuum Breaker, Clear Viewing Elbow, 3-Inch Bayonet C",
-    "type": "candidate",
-    "score": 47.75,
-    "price": 49.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71TV-CN98CL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC3LHCFJ",
-    "walmart_url": "https://www.walmart.com/search?q=Kadrama+RV+Tank+Rinser+with+Gate+Valve%2C+45+Degree+Clear+Sewe"
-  },
-  {
     "asin": "B0HC7K5JQN",
     "title": "Propane Gas Cylinder Cover, 15kg Oxford Cloth Insulated Protector",
     "type": "candidate",
@@ -16432,17 +16421,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/512+ti99s9L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMBSWJJ2",
     "walmart_url": "https://www.walmart.com/search?q=OUTPRIZE+55in+Wooden+Bunk+Ladder%2C+Bunk+Bed+Ladder+for+Loft%2C+"
-  },
-  {
-    "asin": "B0H8JZSWNX",
-    "title": "RV Extension Cord 25 FT 50 Amp NEMA 14-50P to 14-50R Heavy Duty Black | Flexible 4 Prong Heavy Duty RV Power Cord, Waterproof",
-    "type": "candidate",
-    "score": 47.25,
-    "price": 89.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EsYva7ylL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8JZSWNX",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Extension+Cord+25+FT+50+Amp+NEMA+14-50P+to+14-50R+Heavy+D"
   },
   {
     "asin": "B0H7WWRSH1",
@@ -17501,6 +17479,17 @@
     "walmart_url": "https://www.walmart.com/search?q=20+lb+Propane+Tank+Cover+Heavy+Duty+1200D+Tear+Resistance+Ox"
   },
   {
+    "asin": "B0H8CX296Q",
+    "title": "MECMO NEMA L14-30P to 14-50R RV Generator Adapter, Twist Lock 30 to 50 Amp | 4 Prong Locking Generator, 7500W 30A 125/250V Ma",
+    "type": "candidate",
+    "score": 45.75,
+    "price": 19.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZC1D5iw5L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
+    "walmart_url": "https://www.walmart.com/search?q=MECMO+NEMA+L14-30P+to+14-50R+RV+Generator+Adapter%2C+Twist+Loc"
+  },
+  {
     "asin": "B0H6JV8ZG9",
     "title": "RVSPARK IP68 Waterproof Ethernet RJ45 Pass Through for Starlink Gen3 Gen4 | Shielded CAT6 Ethernet Female to Female Coupler,S",
     "type": "candidate",
@@ -17906,6 +17895,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WwCWRgKML._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H941TJ67",
     "walmart_url": "https://www.walmart.com/search?q=2-Step+RV+Steps+with+Dual+Handrails+and+4+Locking+Wheels+hig"
+  },
+  {
+    "asin": "B0H8JZSWNX",
+    "title": "RV Extension Cord 25 FT 50 Amp NEMA 14-50P to 14-50R Heavy Duty Black | Flexible 4 Prong Heavy Duty RV Power Cord, Waterproof",
+    "type": "candidate",
+    "score": 45.0,
+    "price": 89.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EsYva7ylL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8JZSWNX",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Extension+Cord+25+FT+50+Amp+NEMA+14-50P+to+14-50R+Heavy+D"
   },
   {
     "asin": "B0H2DVV19X",
@@ -22693,17 +22693,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RecPro+36%22+x+24%22+RV+Bathtub+with+Left+Drain+%7C+Easy-to-Clean+"
   },
   {
-    "asin": "B0H7WM3RMG",
-    "title": "CORDMITPRO 50 A RV Replacement Female Connector, Yellow SS2-50R Angled End | 125/250V 50A, ETL Listed, Ergonomic Angled Desig",
-    "type": "candidate",
-    "score": 34.0,
-    "price": 54.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Nvl5uLXVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7WM3RMG",
-    "walmart_url": "https://www.walmart.com/search?q=CORDMITPRO+50+A+RV+Replacement+Female+Connector%2C+Yellow+SS2-"
-  },
-  {
     "asin": "B0H7GBX69H",
     "title": "Kit for Kwikee 369299 RV Step Magnetic Switch for Kwikee 32 Series Steps | 369299 Magnetic Switch Kit, Door Switch for Kwikee",
     "type": "candidate",
@@ -24044,6 +24033,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51OxOQDh8nL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8DYZQGT",
     "walmart_url": "https://www.walmart.com/search?q=AIYOYOLIFE+Black+Right+RV+Awning+Drive+Head+Front+Cover+Comp"
+  },
+  {
+    "asin": "B0H7WM3RMG",
+    "title": "CORDMITPRO 50 A RV Replacement Female Connector, Yellow SS2-50R Angled End | 125/250V 50A, ETL Listed, Ergonomic Angled Desig",
+    "type": "candidate",
+    "score": 30.0,
+    "price": 54.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Nvl5uLXVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7WM3RMG",
+    "walmart_url": "https://www.walmart.com/search?q=CORDMITPRO+50+A+RV+Replacement+Female+Connector%2C+Yellow+SS2-"
   },
   {
     "asin": "B0H5LK83Y8",
