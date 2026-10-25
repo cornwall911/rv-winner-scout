@@ -264,6 +264,17 @@
     "walmart_url": "https://www.walmart.com/search?q=AUTO-VOX+7.2%22+Solar+Wireless+Backup+Camera%2C+1-Min+Easy+Magne"
   },
   {
+    "asin": "B0HC6MSXG6",
+    "title": "WIPPRO Diesel Heater 8KW, 12V 24V 110V All-in-One,2Gal Portable Diesel Air Heater with LCD Switch &amp; Remote Control for Car RV",
+    "type": "winner",
+    "score": 89.55,
+    "price": 149.9,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/718boxrmhsL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6MSXG6",
+    "walmart_url": "https://www.walmart.com/search?q=WIPPRO+Diesel+Heater+8KW%2C+12V+24V+110V+All-in-One%2C2Gal+Porta"
+  },
+  {
     "asin": "B0HF7XD1XC",
     "title": "1296P HD 7.2&#x27;&#x27; Magnetic Wireless Backup Camera for Trucks Clear Day &amp; Night",
     "type": "winner",
@@ -339,17 +350,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71qYsOSlxYL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKZG8F46",
     "walmart_url": "https://www.walmart.com/search?q=8KW+Diesel+Parking+Heater+12V%2F24V+with+App+Control+and+LCD+D"
-  },
-  {
-    "asin": "B0HC6MSXG6",
-    "title": "WIPPRO Diesel Heater 8KW, 12V 24V 110V All-in-One,2Gal Portable Diesel Air Heater with LCD Switch &amp; Remote Control for Car RV",
-    "type": "winner",
-    "score": 89.2,
-    "price": 149.9,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/718boxrmhsL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6MSXG6",
-    "walmart_url": "https://www.walmart.com/search?q=WIPPRO+Diesel+Heater+8KW%2C+12V+24V+110V+All-in-One%2C2Gal+Porta"
   },
   {
     "asin": "B0HJPGLTYC",
@@ -9493,6 +9493,17 @@
     "walmart_url": "https://www.walmart.com/search?q=2-Stage+Automatic+Changeover+LP+Propane+RV+Gas+Regulator+2+t"
   },
   {
+    "asin": "B0HK4VBV2B",
+    "title": "DFMDH35111 RV Propane Furnace 35000 BTU 12V Camper Trailer Motorhome | Doorless Design, Quiet Operation with Soft Start Techn",
+    "type": "should_test",
+    "score": 53.0,
+    "price": 729.95,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KPiWPRSWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HK4VBV2B",
+    "walmart_url": "https://www.walmart.com/search?q=DFMDH35111+RV+Propane+Furnace+35000+BTU+12V+Camper+Trailer+M"
+  },
+  {
     "asin": "B0HJ29G73N",
     "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC for Motorhome Travel Trailer, Motor Coach, Truck Camper,R502-White",
     "type": "should_test",
@@ -9502,17 +9513,6 @@
     "image_url": "https://m.media-amazon.com/images/I/61MV9wgd0UL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ29G73N",
     "walmart_url": "https://www.walmart.com/search?q=2-in-1+RV+Accessories+Gas+Detector%2CHardwired+12V+DC+for+Moto"
-  },
-  {
-    "asin": "B0HK4VBV2B",
-    "title": "DFMDH35111 RV Propane Furnace 35000 BTU 12V Camper Trailer Motorhome | Doorless Design, Quiet Operation with Soft Start Techn",
-    "type": "should_test",
-    "score": 52.75,
-    "price": 729.95,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KPiWPRSWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HK4VBV2B",
-    "walmart_url": "https://www.walmart.com/search?q=DFMDH35111+RV+Propane+Furnace+35000+BTU+12V+Camper+Trailer+M"
   },
   {
     "asin": "B0HF8PXVRJ",
@@ -17196,7 +17196,7 @@
     "asin": "B0H418JLC8",
     "title": "Hon&amp;Guan Metal RV Exhaust Vent Cover with Mesh and Noise Reduction Pad | Magnetic Seal, External Locking Clip, Adjustable Dep",
     "type": "candidate",
-    "score": 46.15,
+    "score": 46.0,
     "price": 35.99,
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61FrlgtTz-L._AC_UL300_SR300,200_.jpg",
