@@ -3355,17 +3355,6 @@
     "walmart_url": "https://www.walmart.com/search?q=RV+AC+Duct+For+Dometic+Brisk+II+Blizzard+NXT+%26+FreshJet+3+Ai"
   },
   {
-    "asin": "B0HC36QZ77",
-    "title": "Magnetic RV Insulated Door Cover 33&quot; x 80&quot; Thermal Door Curtain for Camper | Winter Door Insulation Blanket with Thick Waterp",
-    "type": "should_test",
-    "score": 74.75,
-    "price": 24.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-wJrIArbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC36QZ77",
-    "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Insulated+Door+Cover+33%22+x+80%22+Thermal+Door+Curt"
-  },
-  {
     "asin": "B0H1HHNLNB",
     "title": "420D Oxford Rear Door Shower Curtain for RV Trunk Camper Vans, 90.5&quot;x70.8&quot; Double Layer Changing Curtain with Magnetic Hooks",
     "type": "should_test",
@@ -3419,6 +3408,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bKn64S+FL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4W8F84N",
     "walmart_url": "https://www.walmart.com/search?q=FOSSiBOT+F1800+Portable+Power+Station+1800W+%283600W+Surge%29%2C+1"
+  },
+  {
+    "asin": "B0HC36QZ77",
+    "title": "Magnetic RV Insulated Door Cover 33&quot; x 80&quot; Thermal Door Curtain for Camper | Winter Door Insulation Blanket with Thick Waterp",
+    "type": "should_test",
+    "score": 74.35,
+    "price": 24.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-wJrIArbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC36QZ77",
+    "walmart_url": "https://www.walmart.com/search?q=Magnetic+RV+Insulated+Door+Cover+33%22+x+80%22+Thermal+Door+Curt"
   },
   {
     "asin": "B0HC81QFGD",
@@ -4983,17 +4983,6 @@
     "walmart_url": "https://www.walmart.com/search?q=VEVOR+Motorized+RV+Awning+Complete+Kit+%26+Sunshade+Screen%2C+18"
   },
   {
-    "asin": "B0H4VCJJ4W",
-    "title": "Kadrama RV Screen Door Protector Adjustable 21.5&quot;-35&quot; Heavy Duty Metal | Stops Scratches &amp; Tears, Fits Most RVs, Heavy Zinc A",
-    "type": "should_test",
-    "score": 67.5,
-    "price": 41.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ImZI0FfgL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4VCJJ4W",
-    "walmart_url": "https://www.walmart.com/search?q=Kadrama+RV+Screen+Door+Protector+Adjustable+21.5%22-35%22+Heavy+"
-  },
-  {
     "asin": "B0H3L33HDH",
     "title": "GaofeiLTF Non-Ducted Heat Strip Kit 120V, 5600 BTU RV Auxiliary Heater | for 3314998.000, Fits Dometic Brisk Air II, Fits Pen",
     "type": "should_test",
@@ -5179,6 +5168,17 @@
     "image_url": "https://m.media-amazon.com/images/I/51gx1qiQOFL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZJS5XXQ",
     "walmart_url": "https://www.walmart.com/search?q=Collapsible+Dish+Basin%2C+9L%2F2.4+Gal+Foldable+Sink+Tub+with+Dr"
+  },
+  {
+    "asin": "B0H4VCJJ4W",
+    "title": "RV Screen Door Protector Adjustable 21.5&quot;-35&quot; Heavy Duty Metal | Stops Scratches &amp; Tears, Fits Most RVs, Heavy Zinc Alloy Iro",
+    "type": "should_test",
+    "score": 66.75,
+    "price": 41.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ImZI0FfgL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4VCJJ4W",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Screen+Door+Protector+Adjustable+21.5%22-35%22+Heavy+Duty+Met"
   },
   {
     "asin": "B0HD5Z3CMC",
@@ -12529,6 +12529,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Kohree+RV+LED+Ceiling+Lights+Interior%2C+5+Packs+%7C+12V+DC%2C+Dou"
   },
   {
+    "asin": "B0HFHN658J",
+    "title": "RV Awning Wind Stabilizer Tie Down Kit | Complete heavy‑duty tie‑down set secures RV awning against strong wind for outdoor c",
+    "type": "candidate",
+    "score": 53.5,
+    "price": 10.76,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51PQAhFhdtL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFHN658J",
+    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Wind+Stabilizer+Tie+Down+Kit+%7C+Complete+heavy%E2%80%91duty"
+  },
+  {
     "asin": "B0HJLXKRBT",
     "title": "8Pcs Car Camera Cover, Backup Camera Rain Shield, Rear View Lens Protector | 8Pcs Curved Black PVC Rain Hood with Adhesive Ba",
     "type": "candidate",
@@ -13220,17 +13231,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61jQaECh5uL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H74VR6L9",
     "walmart_url": "https://www.walmart.com/search?q=RV+Refrigerator+Door+Latch+Travel+Fridge+Lock%2C+1-3%2F16%22+Hole+"
-  },
-  {
-    "asin": "B0HFHN658J",
-    "title": "RV Awning Wind Stabilizer Tie Down Kit | Complete heavy‑duty tie‑down set secures RV awning against strong wind for outdoor c",
-    "type": "candidate",
-    "score": 52.0,
-    "price": 10.76,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51PQAhFhdtL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFHN658J",
-    "walmart_url": "https://www.walmart.com/search?q=RV+Awning+Wind+Stabilizer+Tie+Down+Kit+%7C+Complete+heavy%E2%80%91duty"
   },
   {
     "asin": "B0H44RPVR5",
@@ -18040,6 +18040,17 @@
     "walmart_url": "https://www.walmart.com/search?q=YaoMaoHong+50FT+Black+1+Inch+Trim+Insert+Replacement+for+Tra"
   },
   {
+    "asin": "B0H4G62L2Q",
+    "title": "CapyBud RV Screen Door Curtain 80 x 33&#x27;&#x27; Magnetic Tear-Resistant Mesh for Camper Doorway, Travel Trailer, Fifth Wheel and Mot",
+    "type": "candidate",
+    "score": 46.0,
+    "price": 9.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/812E6jermaL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4G62L2Q",
+    "walmart_url": "https://www.walmart.com/search?q=CapyBud+RV+Screen+Door+Curtain+80+x+33%27%27+Magnetic+Tear-Resis"
+  },
+  {
     "asin": "B0HJCG2Q7Q",
     "title": "22.83In Wall-Mounted 2-Tier Ladders | 2-Step Ladder for Attic, Bunk Bed, RV, Deck, Dorm",
     "type": "candidate",
@@ -18104,17 +18115,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41TAm8gZqKL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4QWYDLN",
     "walmart_url": "https://www.walmart.com/search?q=RV+Wiper+Covers+for+Class+A+Motorhomes+%28Set+of+2%29%2C+Insulated"
-  },
-  {
-    "asin": "B0H4G62L2Q",
-    "title": "CapyBud RV Screen Door Curtain 80 x 33&#x27;&#x27; Magnetic Tear-Resistant Mesh for Camper Doorway, Travel Trailer, Fifth Wheel and Mot",
-    "type": "candidate",
-    "score": 45.75,
-    "price": 9.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/812E6jermaL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4G62L2Q",
-    "walmart_url": "https://www.walmart.com/search?q=CapyBud+RV+Screen+Door+Curtain+80+x+33%27%27+Magnetic+Tear-Resis"
   },
   {
     "asin": "B0H7BXZ8K8",
@@ -20870,7 +20870,7 @@
     "asin": "B0HBKLBT1P",
     "title": "ECHO-OVE 7 Pcs RV Flying Insect Screen Mount Spring Fastener 6 Hooks&amp;Tool | Stainless Steel Fridge Door Spring Hinge,for Whee",
     "type": "candidate",
-    "score": 39.9,
+    "score": 39.75,
     "price": 6.77,
     "bsr": 9999999,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WOI0MkvHL._AC_UL300_SR300,200_.jpg",
@@ -20986,17 +20986,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZarukTLCL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4ZHXRRR",
     "walmart_url": "https://www.walmart.com/search?q=Langina+RV+Exterior+Shower+Quick+Connector%2C1%2F2%22NPT+%263%2F4%22GHT+"
-  },
-  {
-    "asin": "B0H97YC9W6",
-    "title": "418203 RV Awning Drive Head Gear Pack for 373566 266149 Camper Awning Parts | Compatible with Lippert Solera Awning Systems,",
-    "type": "candidate",
-    "score": 39.5,
-    "price": 39.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MWAW5zzYL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H97YC9W6",
-    "walmart_url": "https://www.walmart.com/search?q=418203+RV+Awning+Drive+Head+Gear+Pack+for+373566+266149+Camp"
   },
   {
     "asin": "B0H1HGDH11",
@@ -22572,6 +22561,17 @@
     "walmart_url": "https://www.walmart.com/search?q=LLYZFED+161123+RV+Furnace+Heater+Gas+Valve+Fits+Suburban+NT+"
   },
   {
+    "asin": "B0H97YC9W6",
+    "title": "418203 RV Awning Drive Head Gear Pack for 373566 266149 Camper Awning Parts | Compatible with Lippert Solera Awning Systems,",
+    "type": "candidate",
+    "score": 35.75,
+    "price": 28.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MWAW5zzYL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H97YC9W6",
+    "walmart_url": "https://www.walmart.com/search?q=418203+RV+Awning+Drive+Head+Gear+Pack+for+373566+266149+Camp"
+  },
+  {
     "asin": "B0HFS76QRK",
     "title": "RV Roof Vent Operator Assembly for Ventline Ventadome, Knob &amp; Screw, 1Pack | Fits 14 x 14in RV roof vents with wedge covers;",
     "type": "candidate",
@@ -22603,17 +22603,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51yMDeVz7kL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF76WBHN",
     "walmart_url": "https://www.walmart.com/search?q=LANDSIN+RV+Furnace+Lgniter+Electrode+231933+Fit+for+Suburban"
-  },
-  {
-    "asin": "B0H9XJRXVY",
-    "title": "3317085.000U Awning Arm End Cap Kit, Fits Dometic 9200 RV Power Awning | Cross Part# 9600011005, Black RH &amp; LH Arm Caps, Heav",
-    "type": "candidate",
-    "score": 35.6,
-    "price": 18.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Od3FMjhhL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9XJRXVY",
-    "walmart_url": "https://www.walmart.com/search?q=3317085.000U+Awning+Arm+End+Cap+Kit%2C+Fits+Dometic+9200+RV+Po"
   },
   {
     "asin": "B0HCZ53YJZ",
@@ -24013,17 +24002,6 @@
     "walmart_url": "https://www.walmart.com/search?q=YunGlee+Drive+Shaft+Shear+Pin+Replacement+Fits+Solera+RV+Awn"
   },
   {
-    "asin": "B0H4PLYV3T",
-    "title": "XDDPRO 643922 Right RV Awning Motor Cover Compatible with Lippert Components Solera Trailer Awning Replacement Parts Head Mot",
-    "type": "candidate",
-    "score": 31.95,
-    "price": 17.85,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lJqolTYbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4PLYV3T",
-    "walmart_url": "https://www.walmart.com/search?q=XDDPRO+643922+Right+RV+Awning+Motor+Cover+Compatible+with+Li"
-  },
-  {
     "asin": "B0GX6PH3LK",
     "title": "NyxVeil 070853 RV Furnace Bottom Duct Gasket for Suburban SF Series | RV furnace sealing replacement gasket, fits for Suburba",
     "type": "candidate",
@@ -24165,6 +24143,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/412WF9qaQAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKJXZSBP",
     "walmart_url": "https://www.walmart.com/search?q=RV+Camper+Replacement+6.5+inch+x+8+inch+Storage+Hatch+Door+w"
+  },
+  {
+    "asin": "B0H9XJRXVY",
+    "title": "3317085.000U Awning Arm End Cap Kit, Fits Dometic 9200 RV Power Awning | Cross Part# 9600011005, Black RH &amp; LH Arm Caps, Heav",
+    "type": "candidate",
+    "score": 31.5,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Od3FMjhhL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9XJRXVY",
+    "walmart_url": "https://www.walmart.com/search?q=3317085.000U+Awning+Arm+End+Cap+Kit%2C+Fits+Dometic+9200+RV+Po"
   },
   {
     "asin": "B0H8ZBBP1D",
@@ -24321,6 +24310,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Lawn+Mower+Hitch+with+2%22+Ball%2C+Trailer+Hitch+Zero+Turn+Mower"
   },
   {
+    "asin": "B0H4PLYV3T",
+    "title": "XDDPRO 643922 Right RV Awning Motor Cover Compatible with Lippert Components Solera Trailer Awning Replacement Parts Head Mot",
+    "type": "candidate",
+    "score": 30.7,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lJqolTYbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4PLYV3T",
+    "walmart_url": "https://www.walmart.com/search?q=XDDPRO+643922+Right+RV+Awning+Motor+Cover+Compatible+with+Li"
+  },
+  {
     "asin": "B0H5L7CPYT",
     "title": "G370 RV Keys, 3 Pack Precut Replacement Keys | G301-G390 Series RV Keys Compatible with Global Link RV Trailer Camper Locks,",
     "type": "candidate",
@@ -24330,17 +24330,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mWhhNXKLL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5L7CPYT",
     "walmart_url": "https://www.walmart.com/search?q=G370+RV+Keys%2C+3+Pack+Precut+Replacement+Keys+%7C+G301-G390+Ser"
-  },
-  {
-    "asin": "B0HFJSSC8Q",
-    "title": "643922 RV Awning Motor Cover Replacement, Compatible with Solera Regal Drive Head, Right-Side Front Cover, Complete Kit with",
-    "type": "candidate",
-    "score": 30.5,
-    "price": 18.99,
-    "bsr": 9999999,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DQkt7ARPL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFJSSC8Q",
-    "walmart_url": "https://www.walmart.com/search?q=643922+RV+Awning+Motor+Cover+Replacement%2C+Compatible+with+So"
   },
   {
     "asin": "B0H6PWHDWQ",
@@ -24627,6 +24616,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51-eewymCFL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1FQ92CZ",
     "walmart_url": "https://www.walmart.com/search?q=TEVSJG+4pcs+Seat+Rail+Protectors+Trucks+RV+Campers+Driver+Pa"
+  },
+  {
+    "asin": "B0HFJSSC8Q",
+    "title": "643922 RV Awning Motor Cover Replacement, Compatible with Solera Regal Drive Head, Right-Side Front Cover, Complete Kit with",
+    "type": "candidate",
+    "score": 29.8,
+    "price": 18.99,
+    "bsr": 9999999,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DQkt7ARPL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFJSSC8Q",
+    "walmart_url": "https://www.walmart.com/search?q=643922+RV+Awning+Motor+Cover+Replacement%2C+Compatible+with+So"
   },
   {
     "asin": "B0H6G1NRWR",
