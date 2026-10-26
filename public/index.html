@@ -195255,8 +195255,8 @@
         }
 
         // Client-side authentication credentials
-        const AUTH_USER = "mostafa";
-        const AUTH_HASH = "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918"; // SHA-256 of 'admin'
+        const AUTH_USER = "Almostafa";
+        const AUTH_HASH = "d7f6bc259795aebde3360364c91c781ac93edc0feaa81dead8d512f40376d726"; // SHA-256 of 'Almostafa311911@z'
 
         async function sha256(message) {
             const msgBuffer = new TextEncoder().encode(message);
@@ -195284,7 +195284,7 @@
 
             const hashed = await sha256(pass);
 
-            if (user === AUTH_USER && hashed === AUTH_HASH) {
+            if (user.toLowerCase() === AUTH_USER.toLowerCase() && hashed === AUTH_HASH) {
                 errBox.style.display = 'none';
                 if (remember) {
                     localStorage.setItem('scout_auth', 'true');
