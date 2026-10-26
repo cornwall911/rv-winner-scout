@@ -343,23 +343,27 @@ def generate_executive_dashboard_html(
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
+                <!-- Marketing & Commercial Insights (Tabbed Intelligence Component) -->
                 <div class="insights-box">
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-why">🎯 Why It Converts:</span>
-                        </div>
-                        <p class="insight-text">{why_next}</p>
+                    <div class="card-tabs">
+                        <button type="button" class="tab-btn active" onclick="switchCardTab(this, 'why')">Why Converts</button>
+                        <button type="button" class="tab-btn" onclick="switchCardTab(this, 'risk')">Risk Factor</button>
+                        <button type="button" class="tab-btn" onclick="switchCardTab(this, 'angles')">Ad Angles ({len(angles)})</button>
                     </div>
-
-                    <div class="insight-row">
-                        <div class="insight-header">
-                            <span class="insight-label-risk">⚠️ Bottleneck / Risk:</span>
+                    <div class="tab-panes">
+                        <div class="tab-pane pane-why active">
+                            <div class="insight-header"><span class="insight-label-why">🎯 Why It Converts:</span></div>
+                            {archetype_row_html}
+                            <p class="insight-text">{why_next}</p>
                         </div>
-                        <p class="insight-text">{why_fail}</p>
+                        <div class="tab-pane pane-risk">
+                            <div class="insight-header"><span class="insight-label-risk">⚠️ Bottleneck / Risk:</span></div>
+                            <p class="insight-text">{why_fail}</p>
+                        </div>
+                        <div class="tab-pane pane-angles">
+                            {angles_html if angles_html else '<p class="insight-text" style="color:var(--muted)">No ad angles generated yet.</p>'}
+                        </div>
                     </div>
-{archetype_row_html}
-{angles_html}
                 </div>
             </div>
         </div>
@@ -379,6 +383,21 @@ def generate_executive_dashboard_html(
     changed_tab_btn = ""
     if health.products_changed > 0:
         changed_tab_btn = f'<button class="filter-btn" onclick="setFilter(\'changed\', this)">🔄 Changed ({health.products_changed})</button>'
+
+    changes_delta_subtitle = ""
+    if health.products_changed > 0:
+        changes_delta_subtitle = f'<div class="s">📈 {health.products_improved} Improved • 📉 {health.products_declined} Declined</div>'
+    else:
+        changes_delta_subtitle = '<div class="s">No recent score shifts</div>'
+
+    scene_svg_inline = ""
+    try:
+        scene_path = os.path.join(os.path.dirname(__file__), "..", "..", "public", "scene.svg")
+        if os.path.exists(scene_path):
+            with open(scene_path, "r", encoding="utf-8") as f_scene:
+                scene_svg_inline = f_scene.read().strip()
+    except Exception:
+        scene_svg_inline = ""
 
     html_content = f"""<!DOCTYPE html>
 <html lang="en" data-theme="campfire" data-mode="night">
@@ -704,6 +723,378 @@ def generate_executive_dashboard_html(
         .modebtn svg {{ color: var(--accent); }}
         .btn-logout {{ color: var(--muted); }}
         .btn-logout:hover {{ color: var(--err); border-color: var(--err); }}
+
+
+        /* Scene & Theme Variables */
+        :root[data-mode="night"] {{
+            color-scheme: dark;
+            --ok: #4ADE80; --warn: #F5B544; --err: #FF7B6B; --run: #7CC4FF; --shadow: 0 18px 50px #0008;
+            --stars: 1; --sun-y: 340px; --sun-o: 0; --moon-y: 0px; --moon-o: 1; --haze-o: .28;
+            --fireglow: 1; --smoke: 0; --moonpath: .14; --bulboff: #2b2b2b; --wheel: #0b0b0b;
+        }}
+        :root[data-mode="day"] {{
+            color-scheme: light;
+            --ok: #15803D; --warn: #B45309; --err: #C2321F; --run: #1D4ED8; --shadow: 0 18px 50px #2a1d0c1f;
+            --stars: 0; --sun-y: 0px; --sun-o: 1; --moon-y: 160px; --moon-o: 0; --haze-o: .55;
+            --fireglow: .22; --smoke: .28; --moonpath: 0; --bulboff: #8d8a85; --wheel: #1d1d1d;
+        }}
+        :root[data-theme="campfire"][data-mode="night"] {{
+            --sk1: #060912; --sk2: #121A2E; --sk3: #2E2A3A; --lk1: #141C30; --lk2: #090D17; --m3: #1D2538; --m2: #141A28;
+            --snow: #3A4560; --t3: #0D1320; --t2: #0A0E16; --t1: #06080D; --ground: #0C1017; --rv: #6F7889; --rvhi: #A5AFBF;
+            --win: #1B2230; --haze: #E0905C; --sun: #FFE7B0; --sunglow: #FFC66B; --shine: #8FA6D6;
+        }}
+        :root[data-theme="campfire"][data-mode="day"] {{
+            --sk1: #7FB3DD; --sk2: #BCD7E6; --sk3: #F3D9A8; --lk1: #8FB7CF; --lk2: #4F7D99; --m3: #7D94AD; --m2: #5B7590;
+            --snow: #F4F6F8; --t3: #3F5B4C; --t2: #2B4536; --t1: #1E3226; --ground: #4B5F3C; --rv: #D9DDE3; --rvhi: #FFFFFF;
+            --win: #8FB3C9; --haze: #FFE2B0; --sun: #FFF6DA; --sunglow: #FFD47A; --shine: #FFFFFF;
+        }}
+        :root[data-theme="forest"][data-mode="night"] {{
+            --sk1: #040907; --sk2: #0D1A14; --sk3: #1D2C24; --lk1: #0F1D17; --lk2: #070D0A; --m3: #17251F; --m2: #101B16;
+            --snow: #2F4038; --t3: #0A130F; --t2: #07100B; --t1: #040805; --ground: #0A120D; --rv: #66746C; --rvhi: #9DAAA2;
+            --win: #16201B; --haze: #C9A46A; --sun: #FFF0C8; --sunglow: #F0D28A; --shine: #9FC2AF;
+        }}
+        :root[data-theme="forest"][data-mode="day"] {{
+            --sk1: #A3C4B5; --sk2: #CFDFD2; --sk3: #EFE6C8; --lk1: #9CBCAE; --lk2: #4F7566; --m3: #7F9C8F; --m2: #5D7D6E;
+            --snow: #F2F4EF; --t3: #35503F; --t2: #24402F; --t1: #193023; --ground: #455C3A; --rv: #DADFD9; --rvhi: #FFFFFF;
+            --win: #9DB9AE; --haze: #F4EBCB; --sun: #FFF8E0; --sunglow: #F3DC98; --shine: #FFFFFF;
+        }}
+        :root[data-theme="lakeside"][data-mode="night"] {{
+            --sk1: #02060D; --sk2: #0A1A2B; --sk3: #123349; --lk1: #0D2638; --lk2: #05101A; --m3: #142A3C; --m2: #0D1E2C;
+            --snow: #2D4A60; --t3: #081622; --t2: #06101A; --t1: #030A10; --ground: #08141D; --rv: #62798A; --rvhi: #9FB5C4;
+            --win: #122230; --haze: #3FA7C9; --sun: #E8FBFF; --sunglow: #9FE7F0; --shine: #7FCFE6;
+        }}
+        :root[data-theme="lakeside"][data-mode="day"] {{
+            --sk1: #6CB8E0; --sk2: #B4DEF0; --sk3: #E6F5F3; --lk1: #5FB4CF; --lk2: #2C7C99; --m3: #6D9CBA; --m2: #4B7D9D;
+            --snow: #F7FBFD; --t3: #2E5A52; --t2: #1F463F; --t1: #15332E; --ground: #3D6150; --rv: #DCE5EA; --rvhi: #FFFFFF;
+            --win: #7FB6CC; --haze: #E4F6F8; --sun: #FFFFFF; --sunglow: #FFF3C4; --shine: #FFFFFF;
+        }}
+        :root[data-theme="ember"][data-mode="night"] {{
+            --sk1: #08050A; --sk2: #1D0F18; --sk3: #3D1C22; --lk1: #1F1218; --lk2: #0C070A; --m3: #2A1A22; --m2: #1C1218;
+            --snow: #463039; --t3: #120B0E; --t2: #0D0809; --t1: #070405; --ground: #110A0C; --rv: #7A6A6C; --rvhi: #B19D9F;
+            --win: #221719; --haze: #F26B4A; --sun: #FFE3C8; --sunglow: #FF9C6B; --shine: #E89A88;
+        }}
+        :root[data-theme="ember"][data-mode="day"] {{
+            --sun-y: 110px; --sk1: #E88E72; --sk2: #F6BF96; --sk3: #FDE4C3; --lk1: #E6A88F; --lk2: #9C5B55; --m3: #A7737A;
+            --m2: #7B525C; --snow: #FBE9E2; --t3: #4E3439; --t2: #3A2529; --t1: #2A191C; --ground: #5B4038; --rv: #EAD9D3;
+            --rvhi: #FFF4EF; --win: #C9928A; --haze: #FFD2A6; --sun: #FFF1D6; --sunglow: #FFB27A; --shine: #FFE6D6;
+        }}
+        :root[data-theme="desert"][data-mode="night"] {{
+            --sk1: #090705; --sk2: #1C1610; --sk3: #3A2A1D; --lk1: #20180F; --lk2: #0D0A06; --m3: #2B2017; --m2: #1E1610;
+            --snow: #4A3A2B; --t3: #120E09; --t2: #0D0A07; --t1: #070504; --ground: #15100B; --rv: #7A7064; --rvhi: #B5A898;
+            --win: #221C15; --haze: #E9A866; --sun: #FFEFD0; --sunglow: #F5C27A; --shine: #D9B98E;
+        }}
+        :root[data-theme="desert"][data-mode="day"] {{
+            --sun-y: 60px; --sk1: #9CC0D8; --sk2: #E8D9BF; --sk3: #F6DCAE; --lk1: #9FB6B8; --lk2: #5D7A78; --m3: #C2906A;
+            --m2: #9A6A4C; --snow: #F3E3CF; --t3: #6B6A45; --t2: #4B4A30; --t1: #35331F; --ground: #8A6A48; --rv: #E6DED3;
+            --rvhi: #FFFFFF; --win: #A7B9BC; --haze: #FBE3BC; --sun: #FFF6E0; --sunglow: #FFD08A; --shine: #FFFFFF;
+        }}
+
+        /* Hero Banner & Dynamic Camp Scene */
+        .hero {{
+            position: relative;
+            border-radius: 22px;
+            overflow: hidden;
+            min-height: clamp(320px, 34vw, 430px);
+            border: 1px solid var(--line);
+            isolation: isolate;
+            display: flex;
+            align-items: center;
+            box-shadow: var(--shadow);
+            margin-bottom: 24px;
+        }}
+        .scene {{
+            position: absolute;
+            inset: 0;
+            z-index: -2;
+            background: var(--sk2);
+        }}
+        .scene svg {{
+            width: 100%;
+            height: 100%;
+            display: block;
+        }}
+        .hero:before {{
+            content: "";
+            position: absolute;
+            inset: 0;
+            z-index: -1;
+            pointer-events: none;
+            background: linear-gradient(90deg, color-mix(in srgb, var(--bg) 92%, transparent) 0%, color-mix(in srgb, var(--bg) 66%, transparent) 30%, transparent 62%);
+        }}
+        .hero-in {{
+            padding: 40px 46px;
+            max-width: 600px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }}
+        .kick {{
+            font-size: 11.5px;
+            letter-spacing: .18em;
+            text-transform: uppercase;
+            font-weight: 700;
+            color: var(--accent2);
+        }}
+        .display {{
+            margin: 0;
+            font-family: var(--serif);
+            font-weight: 400;
+            font-size: clamp(32px, 3.8vw, 54px);
+            line-height: 1.05;
+            letter-spacing: -.02em;
+        }}
+        .display em {{
+            font-style: italic;
+            color: var(--accent);
+        }}
+        .hero-in p {{
+            margin: 0;
+            font-size: 15px;
+            color: var(--muted);
+            max-width: 44ch;
+            line-height: 1.55;
+        }}
+        .hero-acts {{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 6px;
+        }}
+
+        /* Scene Animation and Coloring */
+        .scene svg * {{
+            transition: fill 2.2s ease, stop-color 2.2s ease, opacity 1.8s ease, transform 2.6s cubic-bezier(.45, 0, .2, 1);
+        }}
+        .sk1 {{ stop-color: var(--sk1); }} .sk2 {{ stop-color: var(--sk2); }} .sk3 {{ stop-color: var(--sk3); }}
+        .lk1 {{ stop-color: var(--lk1); }} .lk2 {{ stop-color: var(--lk2); }}
+        .fd0 {{ stop-color: var(--bg); stop-opacity: 0; }} .fd1 {{ stop-color: var(--bg); stop-opacity: 1; }}
+        .sunglow {{ stop-color: var(--sunglow); stop-opacity: .42; }} .sunglow0 {{ stop-color: var(--sunglow); stop-opacity: 0; }}
+        .stars {{ opacity: var(--stars); transition-delay: .5s !important; }}
+        .stars circle {{ fill: #fff; opacity: var(--so); animation: twinkle var(--tw) ease-in-out var(--td) infinite; }}
+        @keyframes twinkle {{ 50% {{ opacity: calc(var(--so) * .35); }} }}
+        .sun {{ transform: translateY(var(--sun-y)); opacity: var(--sun-o); }} .sundisc {{ fill: var(--sun); }}
+        .moon {{ transform: translateY(var(--moon-y)); opacity: var(--moon-o); transition-delay: .4s !important; }}
+        .moondisc {{ fill: #F3EFE4; }} .moonglow {{ fill: #DCE6FF; opacity: .1; }}
+        .haze {{ fill: var(--haze); opacity: var(--haze-o); }}
+        .m3 {{ fill: var(--m3); }} .m2 {{ fill: var(--m2); }} .snow {{ fill: var(--snow); opacity: .9; }}
+        .lake {{ opacity: 1; }} .refl {{ fill: var(--m2); opacity: .38; }}
+        .shine rect {{ fill: var(--shine); opacity: .35; animation: shimmer 5s ease-in-out var(--d) infinite; }}
+        @keyframes shimmer {{ 50% {{ opacity: .08; }} }}
+        .moonpath {{ fill: #DCE6FF; opacity: var(--moonpath); }}
+        .t3 {{ fill: var(--t3); }} .t2 {{ fill: var(--t2); }} .t1 {{ fill: var(--t1); }} .ground {{ fill: var(--ground); }}
+        .rvbody {{ fill: var(--rv); }} .rvhi {{ fill: var(--rvhi); opacity: .55; }} .rvline {{ fill: var(--t1); opacity: .35; }} .rvshadow {{ fill: #000; }}
+        .win, .door {{ fill: var(--win); }} .awning {{ fill: var(--accent); opacity: .9; }} .wheel {{ fill: var(--wheel); }} .hub {{ fill: #77736D; }}
+        .wire {{ stroke: var(--t1); stroke-width: 1.4; opacity: .8; }} .bulb {{ fill: var(--bulboff); }}
+        .winlit, .bulblit {{ fill: #FFD58A; }}
+        .lamp {{ opacity: 0; transition: opacity 1.2s ease !important; }}
+        :root[data-mode="night"] .lamp {{ opacity: 1; transition-delay: calc(1s + var(--i) * .12s) !important; }}
+        .fireglow {{ opacity: var(--fireglow); transition-delay: .8s !important; animation: glow 2.6s ease-in-out infinite; }}
+        @keyframes glow {{ 50% {{ transform: scale(1.05); transform-origin: 930px 482px; }} }}
+        .flame {{ transform-box: fill-box; transform-origin: 50% 100%; animation: flick 1.3s ease-in-out infinite; }}
+        .f1 {{ fill: #FF8A3D; }} .f2 {{ fill: #FFD27A; animation-duration: .9s; }}
+        @keyframes flick {{ 25% {{ transform: scale(.92, 1.08) skewX(2deg); }} 50% {{ transform: scale(1.04, .94); }} 75% {{ transform: scale(.96, 1.05) skewX(-2deg); }} }}
+        .logs {{ fill: #3B2A1E; }} .chair {{ stroke: var(--t1); }}
+        .smoke * {{ fill: #fff; opacity: calc(var(--smoke) * .7); }}
+        .scene:after {{
+            content: "";
+            position: absolute;
+            inset: 0;
+            pointer-events: none;
+            opacity: 0;
+            background: radial-gradient(70% 38% at 60% 86%, #ff9d5266, transparent 72%), radial-gradient(45% 26% at 78% 80%, #ffd08a44, transparent 70%);
+        }}
+        html.switching .scene:after {{ animation: horizon 2.8s ease-in-out both; }}
+        @keyframes horizon {{ 0% {{ opacity: 0; }} 45% {{ opacity: .8; }} 100% {{ opacity: 0; }} }}
+        .scene .glow {{ position: absolute; inset: 0; pointer-events: none; opacity: 0; transition: opacity .8s ease-in; }}
+        .scene .glow.g1 {{ background: radial-gradient(34% 46% at 78% 60%, #ffb35c66, transparent 70%); }}
+        .scene .glow.g2 {{ background: radial-gradient(14% 22% at 72% 78%, #ff8a3d55, transparent 70%); }}
+        :root[data-mode="night"] .scene .glow.g1 {{ opacity: 1; transition: opacity 1.3s ease-out 1.2s; }}
+        :root[data-mode="night"] .scene .glow.g2 {{ opacity: 1; transition: opacity 1.3s ease-out 1.8s; }}
+        .scene .tint {{ position: absolute; inset: 0; pointer-events: none; background: var(--accent); opacity: .06; }}
+        html.away .scene * {{ animation-play-state: paused; }}
+
+        /* Layout Switcher */
+        .view-switcher {{
+            display: inline-flex;
+            background: var(--card2);
+            border: 1px solid var(--line);
+            border-radius: 12px;
+            padding: 3px;
+            gap: 3px;
+        }}
+        .view-btn {{
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            border-radius: 9px;
+            border: none;
+            background: transparent;
+            color: var(--muted);
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all .2s ease;
+        }}
+        .view-btn:hover {{
+            color: var(--fg);
+            background: color-mix(in srgb, var(--card) 60%, transparent);
+        }}
+        .view-btn.active {{
+            background: var(--card);
+            color: var(--accent);
+            box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+        }}
+
+        /* Card Tabs Styling */
+        .card-tabs {{
+            display: flex;
+            gap: 6px;
+            border-bottom: 1px solid var(--line);
+            padding-bottom: 8px;
+            margin-bottom: 10px;
+            margin-top: 10px;
+        }}
+        .tab-btn {{
+            padding: 5px 11px;
+            border-radius: 8px;
+            border: 1px solid var(--line);
+            background: var(--card2);
+            color: var(--muted);
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all .2s ease;
+        }}
+        .tab-btn:hover {{
+            color: var(--fg);
+            border-color: color-mix(in srgb, var(--accent) 40%, var(--line));
+        }}
+        .tab-btn.active {{
+            background: color-mix(in srgb, var(--accent) 14%, transparent);
+            color: var(--accent);
+            border-color: var(--accent);
+        }}
+        .tab-panes {{
+            position: relative;
+            min-height: 100px;
+        }}
+        .tab-pane {{
+            display: none;
+            animation: paneFade 0.2s ease-out;
+        }}
+        .tab-pane.active {{
+            display: block;
+        }}
+        @keyframes paneFade {{
+            from {{ opacity: 0; transform: translateY(4px); }}
+            to {{ opacity: 1; transform: translateY(0); }}
+        }}
+
+        /* View 1: Tabbed Grid (Default) */
+        .cards-grid.view-tabbed {{
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+            gap: 20px;
+        }}
+
+        /* View 2: Compact E-Commerce Grid */
+        .cards-grid.view-compact {{
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 16px;
+        }}
+        .cards-grid.view-compact .product-card {{
+            padding: 14px;
+        }}
+        .cards-grid.view-compact .product-image-box {{
+            height: 160px;
+        }}
+        .cards-grid.view-compact .product-title {{
+            font-size: 13.5px;
+            height: 38px;
+            -webkit-line-clamp: 2;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+        }}
+        .cards-grid.view-compact .card-tabs {{
+            gap: 4px;
+            margin-top: 8px;
+            padding-bottom: 6px;
+        }}
+        .cards-grid.view-compact .tab-btn {{
+            padding: 4px 8px;
+            font-size: 11px;
+        }}
+        .cards-grid.view-compact .insight-text {{
+            font-size: 12px;
+            -webkit-line-clamp: 3;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+        }}
+
+        /* View 3: Horizontal Rows */
+        .cards-grid.view-row {{
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }}
+        .cards-grid.view-row .product-card {{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 16px;
+            padding: 18px;
+            align-items: start;
+        }}
+        .cards-grid.view-row .card-top-bar {{
+            width: 100%;
+            margin-bottom: 2px;
+        }}
+        .cards-grid.view-row .product-image-box {{
+            width: 200px;
+            height: 180px;
+            flex-shrink: 0;
+            margin: 0;
+        }}
+        .cards-grid.view-row .card-body {{
+            flex: 1;
+            min-width: 320px;
+            display: grid;
+            grid-template-columns: 1.1fr 1.2fr;
+            gap: 20px;
+            align-items: start;
+        }}
+        .cards-grid.view-row .card-body > .product-title,
+        .cards-grid.view-row .card-body > .bsr-meta-box,
+        .cards-grid.view-row .card-body > .stores-row {{
+            grid-column: 1;
+        }}
+        .cards-grid.view-row .card-body > .insights-box {{
+            grid-column: 2;
+            grid-row: 1 / span 3;
+            margin-top: 0;
+            padding-left: 18px;
+            border-left: 1px solid var(--line);
+        }}
+        @media (max-width: 900px) {{
+            .cards-grid.view-row .product-image-box {{
+                width: 100%;
+                height: 200px;
+            }}
+            .cards-grid.view-row .card-body {{
+                grid-template-columns: 1fr;
+            }}
+            .cards-grid.view-row .card-body > .insights-box {{
+                grid-column: 1;
+                padding-left: 0;
+                border-left: none;
+                border-top: 1px solid var(--line);
+                padding-top: 12px;
+            }}
+        }}
 
         /* Content Body */
         .content-body {{
@@ -1365,7 +1756,8 @@ def generate_executive_dashboard_html(
         .floating-side-widget {{
             position: fixed;
             bottom: 24px;
-            left: 24px;
+            right: 24px;
+            left: auto;
             z-index: 900;
         }}
         .floating-side-btn {{
@@ -1396,7 +1788,7 @@ def generate_executive_dashboard_html(
         /* Toast Messages */
         .toast-msg {{
             position: fixed;
-            bottom: 24px;
+            bottom: 84px;
             right: 24px;
             background: var(--card2);
             border: 1px solid var(--line);
@@ -1567,6 +1959,9 @@ def generate_executive_dashboard_html(
         <symbol id="i-alert" viewBox="0 0 24 24"><path d="M10.3 3.9 2.4 18a2 2 0 0 0 1.7 3h15.8a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/><path d="M12 9v4M12 17h.01"/></symbol>
         <symbol id="i-focus" viewBox="0 0 24 24"><path d="M4 8V5a1 1 0 0 1 1-1h3M16 4h3a1 1 0 0 1 1 1v3M20 16v3a1 1 0 0 1-1 1h-3M8 20H5a1 1 0 0 1-1-1v-3"/><circle cx="12" cy="12" r="3"/></symbol>
         <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/></symbol>
+        <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></symbol>
+        <symbol id="i-cards" viewBox="0 0 24 24"><rect x="3" y="4" width="8" height="16" rx="2"/><rect x="13" y="4" width="8" height="16" rx="2"/></symbol>
+        <symbol id="i-list" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"/></symbol>
     </svg>
 
     <!-- Login Screen Overlay -->
@@ -1650,11 +2045,11 @@ def generate_executive_dashboard_html(
                     <!-- Theme Selector Dropdown (Reel Factory 5 Themes) -->
                     <div class="theme-select-wrap">
                         <select id="themeSelector" class="theme-dropdown" onchange="setThemeName(this.value)" title="Choose theme">
-                            <option value="campfire">🏕️ Campfire</option>
-                            <option value="forest">🌲 Forest</option>
-                            <option value="lakeside">🌊 Lakeside</option>
-                            <option value="ember">🔥 Ember</option>
-                            <option value="desert">🏜️ Desert</option>
+                            <option value="campfire">Campfire</option>
+                            <option value="forest">Forest</option>
+                            <option value="lakeside">Lakeside</option>
+                            <option value="ember">Ember</option>
+                            <option value="desert">Desert</option>
                         </select>
                     </div>
 
@@ -1665,13 +2060,12 @@ def generate_executive_dashboard_html(
 
                     <!-- Refresh Feed Button -->
                     <button id="refreshBtn" class="btn" onclick="manualRefresh()" title="Click to refresh latest discoveries">
-                        <span id="refreshIcon" class="refresh-icon">🔄</span>
                         <span id="refreshText">Refresh Feed</span>
                     </button>
 
                     <!-- Sign Out Button -->
                     <button class="btn btn-logout" onclick="logout()" title="Sign Out">
-                        🔒 Sign Out
+                        Sign Out
                     </button>
                 </header>
 
@@ -1679,6 +2073,7 @@ def generate_executive_dashboard_html(
                 <div class="content-body">
                     <!-- Hero Banner -->
                     <section class="hero" id="hero" aria-label="Welcome">
+                        <div class="scene" id="scene" aria-hidden="true">{scene_svg_inline}</div>
                         <div class="hero-in">
                             <div class="kick">RV MARKET INTELLIGENCE</div>
                             <h1 class="display">Find the <em>winning</em> RV products first.</h1>
@@ -1724,7 +2119,7 @@ def generate_executive_dashboard_html(
                             <div>
                                 <div class="kpi-label k">Changes Detected</div>
                                 <div class="kpi-num v" style="color: var(--muted)">{health.products_changed}</div>
-                                <div class="s">📈 {health.products_improved} Improved • 📉 {health.products_declined} Declined</div>
+                                {changes_delta_subtitle}
                             </div>
                         </div>
 
@@ -1760,12 +2155,25 @@ def generate_executive_dashboard_html(
                             <div class="sort-wrapper">
                                 <label for="sortSelect" class="sort-label">Sort by:</label>
                                 <select id="sortSelect" class="sort-select" onchange="sortCards(this.value)">
-                                    <option value="score-desc">Highest Score ⭐</option>
+                                    <option value="score-desc">Highest Score</option>
                                     <option value="score-asc">Lowest Score</option>
                                     <option value="price-desc">Price: High to Low</option>
                                     <option value="price-asc">Price: Low to High</option>
                                     <option value="bsr-asc">Amazon BSR (Best Rank)</option>
                                 </select>
+                            </div>
+
+                            <!-- Layout View Switcher (Tabbed, Compact, Rows) -->
+                            <div class="view-switcher" role="group" aria-label="Layout view">
+                                <button type="button" class="view-btn active" data-view="tabbed" onclick="setViewMode('tabbed')" title="Tabbed Intelligence View">
+                                    <svg class="i"><use href="#i-grid"/></svg> Tabbed
+                                </button>
+                                <button type="button" class="view-btn" data-view="compact" onclick="setViewMode('compact')" title="Compact Grid View">
+                                    <svg class="i"><use href="#i-cards"/></svg> Compact
+                                </button>
+                                <button type="button" class="view-btn" data-view="row" onclick="setViewMode('row')" title="Horizontal Row View">
+                                    <svg class="i"><use href="#i-list"/></svg> Rows
+                                </button>
                             </div>
                         </div>
                     </section>
@@ -2249,8 +2657,47 @@ def generate_executive_dashboard_html(
             }}, 3500);
         }}
 
+
+        // Card Layout View Switcher & Tabs Engine
+        function setViewMode(mode) {{
+            const grid = document.getElementById("cardsGrid");
+            if (!grid) return;
+            grid.classList.remove("view-tabbed", "view-compact", "view-row");
+            grid.classList.add("view-" + mode);
+            document.querySelectorAll(".view-btn").forEach(b => {{
+                b.classList.toggle("active", b.getAttribute("data-view") === mode);
+            }});
+            try {{ localStorage.setItem("scout_card_view", mode); }} catch(e) {{}}
+        }}
+
+        function switchCardTab(btn, tabName) {{
+            const card = btn.closest(".product-card");
+            if (!card) return;
+            card.querySelectorAll(".tab-btn").forEach(b => b.classList.toggle("active", b === btn));
+            card.querySelectorAll(".tab-pane").forEach(p => {{
+                p.classList.toggle("active", p.classList.contains("pane-" + tabName));
+            }});
+        }}
+
+        async function loadScene() {{
+            const box = document.getElementById("scene");
+            if (!box || box.children.length > 0) return;
+            try {{
+                const res = await fetch("scene.svg");
+                if (res.ok) box.innerHTML = await res.text();
+            }} catch(e) {{}}
+        }}
+
+        window.addEventListener("blur", () => document.documentElement.classList.add("away"));
+        window.addEventListener("focus", () => document.documentElement.classList.remove("away"));
+
         // Initialization
         applyLook(false);
+        loadScene();
+        const savedView = (function() {{
+            try {{ return localStorage.getItem("scout_card_view") || "tabbed"; }} catch(e) {{ return "tabbed"; }}
+        }})();
+        setViewMode(savedView);
         updatePriceFilterButtons();
         filterCards();
         checkAuth();
