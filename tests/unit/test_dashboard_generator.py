@@ -364,3 +364,47 @@ def test_merge_html_with_existing(tmp_path) -> None:
     assert {d["asin"] for d in data} == {"B0001", "B0002"}
 
 
+def test_dashboard_generator_pagination() -> None:
+    health = RunHealthReport(
+        run_id="test-page-run",
+        start_time=datetime.now(timezone.utc),
+        end_time=datetime.now(timezone.utc),
+        products_discovered=1,
+        products_verified=1,
+        products_rejected=0,
+    )
+    raw = RawAmazonProduct(
+        title="RV Solar Inverter",
+        price=199.99,
+        displayed_price=199.99,
+        asin="B0HPAGE001",
+        url="https://amazon.com/dp/B0HPAGE001",
+        category="RV Solar",
+        source_page_url="https://amazon.com",
+    )
+    cand = ProductCandidate(
+        canonical_url="https://amazon.com/dp/B0HPAGE001",
+        asin="B0HPAGE001",
+        normalized_title="RV Solar Inverter",
+        raw_product=raw,
+    )
+
+    html_out = generate_executive_dashboard_html(
+        reviewed_count=1,
+        winners=[cand],
+        near_misses=[],
+        health=health,
+        candidates=[cand],
+    )
+
+    assert 'id="paginationWrapper"' in html_out
+    assert 'id="topResultsBar"' in html_out
+    assert 'id="paginationNav"' in html_out
+    assert 'id="pageSizeSelect"' in html_out
+    assert 'function goToPage' in html_out
+    assert 'function changePageSize' in html_out
+    assert 'function renderPaginationNav' in html_out
+    assert '.cards-grid.initialized' in html_out
+
+
+

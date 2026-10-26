@@ -386,6 +386,133 @@
             grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
             gap: 24px;
         }
+        /* Performance Optimization: hide non-active page cards to prevent memory & layout explosion */
+        .cards-grid .product-card {
+            display: none;
+        }
+        .cards-grid.initialized .product-card.page-active {
+            display: flex;
+        }
+        .cards-grid:not(.initialized) .product-card:nth-child(-n+24) {
+            display: flex;
+        }
+
+        /* Results Meta Bar */
+        .results-meta-bar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 16px;
+            font-size: 0.88rem;
+            color: var(--text-secondary);
+        }
+        .results-meta-bar span {
+            color: var(--text-primary);
+            font-weight: 700;
+        }
+
+        /* Pagination Controls */
+        .pagination-wrapper {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 16px;
+            margin: 36px 0 24px;
+            padding: 16px 20px;
+            background: var(--bg-surface);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            box-shadow: var(--card-shadow);
+        }
+        .pagination-info {
+            font-size: 0.88rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+        .pagination-info span {
+            color: var(--text-primary);
+            font-weight: 700;
+        }
+        .pagination-buttons {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+        .page-btn {
+            background: var(--bg-card-alt);
+            border: 1px solid var(--border-color);
+            color: var(--text-secondary);
+            font-size: 0.84rem;
+            font-weight: 600;
+            min-width: 38px;
+            height: 38px;
+            padding: 0 10px;
+            border-radius: 8px;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            user-select: none;
+        }
+        .page-btn:hover:not(:disabled) {
+            color: var(--text-primary);
+            border-color: var(--accent);
+            background: rgba(255, 255, 255, 0.05);
+            transform: translateY(-1px);
+        }
+        .page-btn.active {
+            background: var(--accent);
+            color: #0F172A;
+            border-color: var(--accent);
+            font-weight: 800;
+            box-shadow: 0 2px 10px rgba(16, 185, 129, 0.35);
+        }
+        .page-btn:disabled {
+            opacity: 0.35;
+            cursor: not-allowed;
+            transform: none !important;
+        }
+        .page-ellipsis {
+            color: var(--text-muted);
+            font-size: 0.88rem;
+            padding: 0 4px;
+            user-select: none;
+        }
+        .pagination-size-selector {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.84rem;
+            color: var(--text-secondary);
+        }
+        .page-size-select {
+            background: var(--bg-card-alt);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 6px 12px;
+            color: var(--text-primary);
+            font-size: 0.82rem;
+            font-weight: 600;
+            outline: none;
+            cursor: pointer;
+        }
+        .page-size-select:focus {
+            border-color: var(--accent);
+        }
+        @media (max-width: 768px) {
+            .pagination-wrapper {
+                flex-direction: column;
+                align-items: center;
+                gap: 14px;
+            }
+            .pagination-buttons {
+                justify-content: center;
+            }
+        }
+
         .product-card {
             background: var(--bg-card);
             border: 1px solid var(--border-color);
@@ -999,6 +1126,12 @@
         </div>
 
         <!-- Product Cards Grid -->
+        
+        <!-- Results Top Meta -->
+        <div class="results-meta-bar" id="topResultsBar">
+            <div id="topPaginationInfo">Showing <span id="topRangeText">1–24</span> of <span id="topTotalText">1,469</span> products</div>
+        </div>
+
         <main class="cards-grid" id="cardsGrid">
         <div class="product-card winner" data-title="auto-vox solar wireless backup camera, 2 minute diy install, 5&quot; monitor | 1080p rear view, solar assisted battery, night visi b0hc5vtxfb" data-type="winner" data-changed="none" data-score="90.45" data-price="129.99" data-bsr="9999999">
             <div class="card-top-bar">
@@ -194723,6 +194856,28 @@
             </div>
         </div>
     </main>
+
+        <!-- Pagination Controls -->
+        <div class="pagination-wrapper" id="paginationWrapper">
+            <div class="pagination-info" id="paginationInfo">
+                Showing <span id="pageRangeText">1–24</span> of <span id="pageTotalText">1,469</span> products
+            </div>
+
+            <div class="pagination-buttons" id="paginationNav">
+                <!-- Dynamically populated page buttons -->
+            </div>
+
+            <div class="pagination-size-selector">
+                <label for="pageSizeSelect">Per page:</label>
+                <select id="pageSizeSelect" class="page-size-select" onchange="changePageSize(this.value)">
+                    <option value="24" selected>24</option>
+                    <option value="48">48</option>
+                    <option value="96">96</option>
+                    <option value="all">All</option>
+                </select>
+            </div>
+        </div>
+
     </div>
 
     <script>
@@ -194759,8 +194914,12 @@
         }
 
         // 4. Live Search, Category Filter, and Price Filter (> $100 Toggle)
+        // 4. Live Search, Category Filter, and Price Filter (> $100 Toggle) with High-Performance Pagination
         let currentFilter = 'all';
         let hideOver100 = localStorage.getItem('scout_hide_over_100') === 'true';
+        let currentPage = 1;
+        let itemsPerPage = 24;
+        let matchingCards = [];
 
         function updatePriceFilterButtons() {
             const btn = document.getElementById('priceFilterBtn');
@@ -194793,6 +194952,7 @@
             hideOver100 = !hideOver100;
             localStorage.setItem('scout_hide_over_100', hideOver100 ? 'true' : 'false');
             updatePriceFilterButtons();
+            currentPage = 1;
             filterCards();
             if (hideOver100) {
                 showToast('💵 Filter Active: Showing products ≤ $100 only');
@@ -194802,16 +194962,20 @@
         }
 
         function filterCards() {
-            const searchVal = document.getElementById('searchInput').value.toLowerCase();
-            const cards = document.querySelectorAll('.product-card');
+            const searchVal = (document.getElementById('searchInput')?.value || '').toLowerCase().trim();
+            const grid = document.getElementById('cardsGrid');
+            if (grid) grid.classList.add('initialized');
 
-            cards.forEach(card => {
+            const allCards = Array.from(document.querySelectorAll('.product-card'));
+            matchingCards = [];
+
+            allCards.forEach(card => {
                 const type = card.getAttribute('data-type');
-                const title = card.getAttribute('data-title');
+                const title = card.getAttribute('data-title') || '';
                 const changed = card.getAttribute('data-changed');
                 const price = parseFloat(card.getAttribute('data-price')) || 0;
 
-                const matchesSearch = title.includes(searchVal);
+                const matchesSearch = !searchVal || title.includes(searchVal);
                 const matchesFilter = (currentFilter === 'all')
                     || (type === currentFilter)
                     || (currentFilter === 'changed' && changed && changed !== 'none');
@@ -194819,15 +194983,129 @@
                 const matchesPrice = !hideOver100 || (price <= 100.0);
 
                 if (matchesSearch && matchesFilter && matchesPrice) {
-                    card.style.display = 'flex';
+                    matchingCards.push(card);
                 } else {
                     card.style.display = 'none';
+                    card.classList.remove('page-active');
                 }
             });
+
+            const totalMatches = matchingCards.length;
+            const effectivePerPage = itemsPerPage === 'all' ? (totalMatches || 1) : parseInt(itemsPerPage, 10);
+            const totalPages = Math.max(1, Math.ceil(totalMatches / effectivePerPage));
+            if (currentPage > totalPages) {
+                currentPage = 1;
+            }
+
+            renderCurrentPage(effectivePerPage, totalPages);
+            renderPaginationNav(totalMatches, effectivePerPage, totalPages);
+        }
+
+        function renderCurrentPage(perPage, totalPages) {
+            const totalMatches = matchingCards.length;
+            const startIndex = (currentPage - 1) * perPage;
+            const endIndex = startIndex + perPage;
+
+            matchingCards.forEach((card, idx) => {
+                if (itemsPerPage === 'all' || (idx >= startIndex && idx < endIndex)) {
+                    card.style.display = 'flex';
+                    card.classList.add('page-active');
+                } else {
+                    card.style.display = 'none';
+                    card.classList.remove('page-active');
+                }
+            });
+
+            const displayStart = totalMatches === 0 ? 0 : startIndex + 1;
+            const displayEnd = Math.min(endIndex, totalMatches);
+            const rangeStr = displayStart + '–' + displayEnd;
+            const totalStr = totalMatches.toLocaleString();
+
+            const topRange = document.getElementById('topRangeText');
+            const topTotal = document.getElementById('topTotalText');
+            const btmRange = document.getElementById('pageRangeText');
+            const btmTotal = document.getElementById('pageTotalText');
+
+            if (topRange) topRange.innerText = rangeStr;
+            if (topTotal) topTotal.innerText = totalStr;
+            if (btmRange) btmRange.innerText = rangeStr;
+            if (btmTotal) btmTotal.innerText = totalStr;
+        }
+
+        function goToPage(page) {
+            const totalMatches = matchingCards.length;
+            const effectivePerPage = itemsPerPage === 'all' ? (totalMatches || 1) : parseInt(itemsPerPage, 10);
+            const totalPages = Math.max(1, Math.ceil(totalMatches / effectivePerPage));
+
+            if (page < 1 || page > totalPages) return;
+            currentPage = page;
+
+            renderCurrentPage(effectivePerPage, totalPages);
+            renderPaginationNav(totalMatches, effectivePerPage, totalPages);
+
+            const grid = document.getElementById('cardsGrid');
+            if (grid) {
+                grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        }
+
+        function changePageSize(size) {
+            itemsPerPage = size === 'all' ? 'all' : parseInt(size, 10);
+            currentPage = 1;
+            filterCards();
+        }
+
+        function renderPaginationNav(totalMatches, perPage, totalPages) {
+            const nav = document.getElementById('paginationNav');
+            const wrapper = document.getElementById('paginationWrapper');
+            if (!nav || !wrapper) return;
+
+            if (totalMatches === 0 || itemsPerPage === 'all') {
+                nav.innerHTML = '';
+                return;
+            }
+
+            let html = '';
+
+            // Previous Button
+            const prevDisabled = currentPage === 1 ? 'disabled' : '';
+            html += '<button class="page-btn" onclick="goToPage(' + (currentPage - 1) + ')" ' + prevDisabled + ' title="Previous Page">‹</button>';
+
+            // Range with ellipsis
+            const delta = 2;
+            const rangeArr = [];
+            for (let i = 1; i <= totalPages; i++) {
+                if (i === 1 || i === totalPages || (i >= currentPage - delta && i <= currentPage + delta)) {
+                    rangeArr.push(i);
+                }
+            }
+
+            let lastPage = null;
+            rangeArr.forEach(p => {
+                if (lastPage !== null) {
+                    if (p - lastPage === 2) {
+                        const midPage = lastPage + 1;
+                        const activeClass = midPage === currentPage ? 'active' : '';
+                        html += '<button class="page-btn ' + activeClass + '" onclick="goToPage(' + midPage + ')">' + midPage + '</button>';
+                    } else if (p - lastPage > 2) {
+                        html += '<span class="page-ellipsis">...</span>';
+                    }
+                }
+                const activeClass = p === currentPage ? 'active' : '';
+                html += '<button class="page-btn ' + activeClass + '" onclick="goToPage(' + p + ')">' + p + '</button>';
+                lastPage = p;
+            });
+
+            // Next Button
+            const nextDisabled = currentPage === totalPages ? 'disabled' : '';
+            html += '<button class="page-btn" onclick="goToPage(' + (currentPage + 1) + ')" ' + nextDisabled + ' title="Next Page">›</button>';
+
+            nav.innerHTML = html;
         }
 
         function setFilter(type, btn) {
             currentFilter = type;
+            currentPage = 1;
             document.querySelectorAll('.filter-tabs .filter-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             filterCards();
@@ -194857,6 +195135,8 @@
             });
 
             cards.forEach(card => grid.appendChild(card));
+            currentPage = 1;
+            filterCards();
         }
 
         // 6. Authentication & Client Access Gate
