@@ -390,7 +390,7 @@ def generate_executive_dashboard_html(
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
-    <title>RV Winner Scout — Executive Dashboard ({run_date})</title>
+    <title>RV Winner Scout · Executive Dashboard ({run_date})</title>
     <link rel="preload" href="fonts/fraunces-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="fonts/manrope-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
     <script>
@@ -945,13 +945,34 @@ def generate_executive_dashboard_html(
             gap: 18px;
             width: 100%;
         }}
-        @media (max-width: 768px) {{
+                @media (max-width: 768px) {{
             .cards-grid {{ grid-template-columns: 1fr; }}
+            .filter-btn, .price-toggle-btn {{
+                min-height: 44px;
+                padding: 10px 16px;
+            }}
+            .page-btn {{
+                min-height: 44px;
+                min-width: 44px;
+            }}
+            .search-input {{
+                min-height: 44px;
+            }}
+            .btn-store {{
+                min-height: 44px;
+            }}
         }}
 
         /* High-Performance Pagination Visibility */
         .cards-grid .product-card {{ display: none; }}
-        .cards-grid.initialized .product-card.page-active {{ display: flex; }}
+        .cards-grid.initialized .product-card.page-active {{
+            display: flex;
+            animation: cardFadeIn 0.22s ease-out;
+        }}
+        @keyframes cardFadeIn {{
+            from {{ opacity: 0; transform: translateY(4px); }}
+            to {{ opacity: 1; transform: translateY(0); }}
+        }}
         .cards-grid:not(.initialized) .product-card:nth-child(-n+24) {{ display: flex; }}
 
         /* Product Card (Reel Factory Warm Card) */
@@ -1496,6 +1517,26 @@ def generate_executive_dashboard_html(
         }}
         .btn-submit-login:hover {{ filter: brightness(1.06); }}
 
+        
+        /* Fix 2 (R-25): Day Mode Contrast Corrections (WCAG AA > 4.5:1) */
+        :root[data-mode="day"] .status-pill.badge-winner {{
+            color: var(--accent2);
+            border-color: color-mix(in srgb, var(--accent2) 35%, transparent);
+            background: color-mix(in srgb, var(--accent2) 14%, transparent);
+        }}
+        :root[data-mode="day"] .meta-val.highlight {{
+            color: var(--accent2);
+        }}
+        :root[data-mode="day"] .display em {{
+            color: var(--accent2);
+        }}
+        :root[data-mode="day"] .greet em {{
+            color: var(--accent2);
+        }}
+        :root[data-mode="day"] .kpi-num.v[style*="var(--accent)"] {{
+            color: var(--accent2) !important;
+        }}
+
         /* Media Queries (Responsive at 375px, 768px, 1440px) */
         @media (max-width: 1000px) {{
             .app {{ grid-template-columns: 1fr; }}
@@ -1703,9 +1744,9 @@ def generate_executive_dashboard_html(
 
                         <div class="filter-tabs">
                             <button class="filter-btn active" data-type="all" onclick="setFilter('all', this)">All ({total_count})</button>
-                            <button class="filter-btn" data-type="winner" onclick="setFilter('winner', this)">🏆 Winners ({winners_count})</button>
-                            <button class="filter-btn" data-type="should_test" onclick="setFilter('should_test', this)">🧪 Should Be Tested ({should_test_count})</button>
-                            <button class="filter-btn" data-type="candidate" onclick="setFilter('candidate', this)">Candidates ({candidates_count})</button>
+                            <button class="filter-btn" data-type="winner" onclick="setFilter('winner', this)"><svg class="i" style="width:14px;height:14px;vertical-align:-2px"><use href="#i-check"/></svg> Winners ({winners_count})</button>
+                            <button class="filter-btn" data-type="should_test" onclick="setFilter('should_test', this)"><svg class="i" style="width:14px;height:14px;vertical-align:-2px"><use href="#i-play"/></svg> Should Be Tested ({should_test_count})</button>
+                            <button class="filter-btn" data-type="candidate" onclick="setFilter('candidate', this)"><svg class="i" style="width:14px;height:14px;vertical-align:-2px"><use href="#i-compass"/></svg> Candidates ({candidates_count})</button>
                             {changed_tab_btn}
                         </div>
 
@@ -1740,6 +1781,15 @@ def generate_executive_dashboard_html(
                     <!-- Results Top Meta -->
                     <div class="results-meta-bar" id="topResultsBar">
                         <div id="topPaginationInfo">Showing <span id="topRangeText">1–24</span> of <span id="topTotalText">{total_count}</span> products</div>
+                    </div>
+
+                    
+                    <!-- Client-side No Results State (Fix 3: R-27) -->
+                    <div id="noResultsState" class="empty-state" style="display: none; width: 100%; margin-bottom: 20px;">
+                        <div class="empty-icon"><svg class="i" style="width:40px;height:40px;color:var(--muted);"><use href="#i-box"/></svg></div>
+                        <h3 class="empty-title">No products match your current filters</h3>
+                        <p class="empty-desc">Try clearing the search query or resetting filters to view all audited products.</p>
+                        <button class="btn pri" onclick="resetFilters()">Reset All Filters</button>
                     </div>
 
                     <!-- Product Cards Grid -->
@@ -2000,6 +2050,15 @@ def generate_executive_dashboard_html(
             goToPage(1);
         }}
 
+                function resetFilters() {{
+            const searchInput = document.getElementById('searchInput');
+            if (searchInput) searchInput.value = '';
+            hideOver100 = false;
+            try {{ localStorage.setItem('scout_hide_over_100', 'false'); }} catch(e) {{}}
+            updatePriceFilterButtons();
+            setFilter('all');
+        }}
+
         function renderCurrentPage() {{
             const total = matchingCards.length;
             const cards = document.querySelectorAll('.product-card');
@@ -2027,6 +2086,8 @@ def generate_executive_dashboard_html(
             }}
 
             updateResultsBar(total > 0 ? startIndex + 1 : 0, endIndex, total, currentPage, totalPages);
+            const noRes = document.getElementById('noResultsState');
+            if (noRes) noRes.style.display = (total === 0) ? 'flex' : 'none';
             renderPaginationNav(currentPage, totalPages);
         }}
 
