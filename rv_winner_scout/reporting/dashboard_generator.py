@@ -177,6 +177,7 @@ def generate_executive_dashboard_html(
     winners_count = sum(1 for c in all_candidates if c.asin in winner_asins)
     should_test_count = sum(1 for c in all_candidates if (c.asin in should_test_asins and c.asin not in winner_asins))
     candidates_count = len(all_candidates) - winners_count - should_test_count
+    total_count = len(all_candidates)
     cards_html = ""
 
     for idx, cand in enumerate(all_candidates, 1):
@@ -380,803 +381,1066 @@ def generate_executive_dashboard_html(
         changed_tab_btn = f'<button class="filter-btn" onclick="setFilter(\'changed\', this)">🔄 Changed ({health.products_changed})</button>'
 
     html_content = f"""<!DOCTYPE html>
-<html lang="en" data-theme="slate">
+<html lang="en" data-theme="campfire" data-mode="night">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="dark light">
     <meta name="referrer" content="no-referrer">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
     <title>RV Winner Scout — Executive Dashboard ({run_date})</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="preload" href="fonts/fraunces-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="fonts/manrope-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+    <script>
+    /* Reel Factory early inline theme script: sets look before first paint (no flash) */
+    (function(){{
+        var d=document.documentElement,t="campfire",m="night",s="";
+        try{{t=localStorage.getItem("rf_theme")||t;m=localStorage.getItem("rf_start")||m;s=sessionStorage.getItem("rf_mode_s")||""}}catch(e){{}}
+        if(s)m=s;
+        if(m==="auto"){{var h=new Date().getHours();m=h>=6&&h<18?"day":"night"}}
+        d.setAttribute("data-theme",t);
+        d.setAttribute("data-mode",m);
+    }})();
+    </script>
     <style>
-        /* Modern Eye-Comfort Design System (Shadcn / Tailwind UI Inspired) */
-        :root, html[data-theme="slate"] {{
-            --bg-body: #0F172A;
-            --bg-surface: #1E293B;
-            --bg-card: #1E293B;
-            --bg-card-alt: #0F172A;
-            --border-color: #334155;
-            --text-primary: #F8FAFC;
-            --text-secondary: #94A3B8;
-            --text-muted: #64748B;
-            --accent: #10B981;
-            --accent-soft: rgba(16, 185, 129, 0.12);
-            --amazon-color: #F59E0B;
-            --walmart-color: #38BDF8;
-            --card-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+        /* Reel Factory Fonts */
+        @font-face{{font-family:"Fraunces";src:url(fonts/fraunces-latin-400-normal.woff2) format("woff2");font-weight:400;font-display:swap}}
+        @font-face{{font-family:"Fraunces";src:url(fonts/fraunces-latin-500-normal.woff2) format("woff2");font-weight:500;font-display:swap}}
+        @font-face{{font-family:"Fraunces";src:url(fonts/fraunces-latin-400-italic.woff2) format("woff2");font-weight:400;font-style:italic;font-display:swap}}
+        @font-face{{font-family:"Manrope";src:url(fonts/manrope-latin-400-normal.woff2) format("woff2");font-weight:400;font-display:swap}}
+        @font-face{{font-family:"Manrope";src:url(fonts/manrope-latin-500-normal.woff2) format("woff2");font-weight:500;font-display:swap}}
+        @font-face{{font-family:"Manrope";src:url(fonts/manrope-latin-600-normal.woff2) format("woff2");font-weight:600;font-display:swap}}
+        @font-face{{font-family:"Manrope";src:url(fonts/manrope-latin-700-normal.woff2) format("woff2");font-weight:700 800;font-display:swap}}
+        @font-face{{font-family:"Plex Arabic";src:url(fonts/ibm-plex-sans-arabic-arabic-400-normal.woff2) format("woff2");font-weight:400 500;font-display:swap}}
+        @font-face{{font-family:"Plex Arabic";src:url(fonts/ibm-plex-sans-arabic-arabic-600-normal.woff2) format("woff2");font-weight:600 800;font-display:swap}}
+
+        /* Reel Factory Design System Tokens */
+        :root {{
+            --r: 16px;
+            --serif: "Fraunces", Georgia, "Times New Roman", serif;
+            --sans: "Manrope", "Plex Arabic", "Segoe UI", system-ui, sans-serif;
+            --mono: ui-monospace, "Cascadia Mono", Consolas, monospace;
         }}
 
-        html[data-theme="midnight"] {{
-            --bg-body: #090D16;
-            --bg-surface: #111827;
-            --bg-card: #111827;
-            --bg-card-alt: #0B0F19;
-            --border-color: #1F2937;
-            --text-primary: #F9FAFB;
-            --text-secondary: #9CA3AF;
-            --text-muted: #6B7280;
-            --accent: #06B6D4;
-            --accent-soft: rgba(6, 182, 212, 0.12);
-            --amazon-color: #FBBF24;
-            --walmart-color: #60A5FA;
-            --card-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
+        :root[data-mode="night"] {{
+            color-scheme: dark;
+            --ok: #4ADE80;
+            --warn: #F5B544;
+            --err: #FF7B6B;
+            --run: #7CC4FF;
+            --shadow: 0 18px 50px #0008;
         }}
 
-        html[data-theme="graphite"] {{
-            --bg-body: #121214;
-            --bg-surface: #1C1C1F;
-            --bg-card: #1C1C1F;
-            --bg-card-alt: #161618;
-            --border-color: #2E2E32;
-            --text-primary: #EDEDED;
-            --text-secondary: #A1A1AA;
-            --text-muted: #71717A;
-            --accent: #F59E0B;
-            --accent-soft: rgba(245, 158, 11, 0.12);
-            --amazon-color: #F59E0B;
-            --walmart-color: #38BDF8;
-            --card-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+        :root[data-mode="day"] {{
+            color-scheme: light;
+            --ok: #15803D;
+            --warn: #B45309;
+            --err: #C2321F;
+            --run: #1D4ED8;
+            --shadow: 0 18px 50px #2a1d0c1f;
         }}
 
-        html[data-theme="light"] {{
-            --bg-body: #F8FAFC;
-            --bg-surface: #FFFFFF;
-            --bg-card: #FFFFFF;
-            --bg-card-alt: #F1F5F9;
-            --border-color: #E2E8F0;
-            --text-primary: #0F172A;
-            --text-secondary: #475569;
-            --text-muted: #94A3B8;
-            --accent: #059669;
-            --accent-soft: rgba(5, 150, 105, 0.1);
-            --amazon-color: #D97706;
-            --walmart-color: #0284C7;
-            --card-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+        /* 1. Campfire (Default) */
+        :root[data-theme="campfire"][data-mode="night"] {{
+            --bg: #121417; --side: #0F1114; --card: #181B20; --card2: #1E2228; --line: #2A2F37;
+            --fg: #F1ECE4; --muted: #A59D91; --pill: #232830; --accent: #F2A541; --on-accent: #1A1208; --accent2: #F7C27A;
+        }}
+        :root[data-theme="campfire"][data-mode="day"] {{
+            --bg: #EAE4D8; --side: #DFD8C9; --card: #F3EEE3; --card2: #ECE6D9; --line: #D3CAB8;
+            --fg: #1D1A15; --muted: #6A6155; --pill: #E2DACA; --accent: #E8953A; --on-accent: #1A1208; --accent2: #9A5410;
         }}
 
-        * {{ box-sizing: border-box; margin: 0; padding: 0; }}
+        /* 2. Forest */
+        :root[data-theme="forest"][data-mode="night"] {{
+            --bg: #0E1512; --side: #0B110E; --card: #131C18; --card2: #18231E; --line: #24332B;
+            --fg: #EEF0E8; --muted: #9AA597; --pill: #1D2A24; --accent: #E2B86B; --on-accent: #1A1408; --accent2: #EBCB8D;
+        }}
+        :root[data-theme="forest"][data-mode="day"] {{
+            --bg: #E3E7DB; --side: #D9DFCF; --card: #EFF2E8; --card2: #E8ECDF; --line: #CCD5C4;
+            --fg: #17201A; --muted: #5E6B60; --pill: #DAE1D0; --accent: #D1A250; --on-accent: #1A1408; --accent2: #76561A;
+        }}
+
+        /* 3. Lakeside */
+        :root[data-theme="lakeside"][data-mode="night"] {{
+            --bg: #0B141B; --side: #091118; --card: #101C25; --card2: #14232E; --line: #1F3442;
+            --fg: #E8F1F4; --muted: #93A7B2; --pill: #18293A; --accent: #3FD6C9; --on-accent: #04201D; --accent2: #7FE6DC;
+        }}
+        :root[data-theme="lakeside"][data-mode="day"] {{
+            --bg: #DFEAEE; --side: #D4E2E8; --card: #EBF3F5; --card2: #E4EEF1; --line: #C3D6DE;
+            --fg: #0F1E26; --muted: #557080; --pill: #D4E3E9; --accent: #22B8AA; --on-accent: #04201D; --accent2: #0B6F66;
+        }}
+
+        /* 4. Ember */
+        :root[data-theme="ember"][data-mode="night"] {{
+            --bg: #141213; --side: #100E0F; --card: #1B1819; --card2: #221E1F; --line: #322B2C;
+            --fg: #F4ECE8; --muted: #A89C98; --pill: #2A2425; --accent: #F26B4A; --on-accent: #210904; --accent2: #F79A80;
+        }}
+        :root[data-theme="ember"][data-mode="day"] {{
+            --bg: #EDE3DE; --side: #E3D7D1; --card: #F6EEEA; --card2: #EFE6E1; --line: #D9C8C0;
+            --fg: #221715; --muted: #6E5C57; --pill: #E6D9D2; --accent: #EF6646; --on-accent: #210904; --accent2: #A9381C;
+        }}
+
+        /* 5. Desert */
+        :root[data-theme="desert"][data-mode="night"] {{
+            --bg: #15120E; --side: #110E0B; --card: #1C1813; --card2: #231E18; --line: #352D24;
+            --fg: #F3ECE1; --muted: #A89A86; --pill: #2A231C; --accent: #E9C08A; --on-accent: #1C140A; --accent2: #F1D3AA;
+        }}
+        :root[data-theme="desert"][data-mode="day"] {{
+            --bg: #EBE2D2; --side: #E1D6C3; --card: #F5EEE1; --card2: #EEE6D6; --line: #D8CAB3;
+            --fg: #201A12; --muted: #6D604E; --pill: #E5DAC5; --accent: #DDA866; --on-accent: #1C140A; --accent2: #87561B;
+        }}
+
+        /* Registered Color Properties for View Transitions */
+        @property --bg{{syntax:"<color>";inherits:true;initial-value:#121417}}
+        @property --side{{syntax:"<color>";inherits:true;initial-value:#0F1114}}
+        @property --card{{syntax:"<color>";inherits:true;initial-value:#181B20}}
+        @property --card2{{syntax:"<color>";inherits:true;initial-value:#1E2228}}
+        @property --line{{syntax:"<color>";inherits:true;initial-value:#2A2F37}}
+        @property --fg{{syntax:"<color>";inherits:true;initial-value:#F1ECE4}}
+        @property --muted{{syntax:"<color>";inherits:true;initial-value:#A59D91}}
+        @property --pill{{syntax:"<color>";inherits:true;initial-value:#232830}}
+        @property --accent{{syntax:"<color>";inherits:true;initial-value:#F2A541}}
+        @property --accent2{{syntax:"<color>";inherits:true;initial-value:#F7C27A}}
+        @property --on-accent{{syntax:"<color>";inherits:true;initial-value:#1A1208}}
+        @property --ok{{syntax:"<color>";inherits:true;initial-value:#4ADE80}}
+        @property --warn{{syntax:"<color>";inherits:true;initial-value:#F5B544}}
+        @property --err{{syntax:"<color>";inherits:true;initial-value:#FF7B6B}}
+        @property --run{{syntax:"<color>";inherits:true;initial-value:#7CC4FF}}
+
+        ::view-transition-old(root){{animation:none}}
+        ::view-transition-new(root){{animation:vtIn .9s ease-in-out both;mix-blend-mode:normal}}
+        ::view-transition-group(root){{animation-duration:.9s}}
+        @keyframes vtIn{{from{{opacity:0}}to{{opacity:1}}}}
+        html.switching:not(.vt){{
+            transition: --bg 1.8s ease, --side 1.8s ease, --card 1.8s ease, --card2 1.8s ease,
+                        --line 1.8s ease, --fg 1.8s ease, --muted 1.8s ease, --pill 1.8s ease,
+                        --accent 1.8s ease, --accent2 1.8s ease, --on-accent 1.8s ease,
+                        --ok 1.8s ease, --warn 1.8s ease, --err 1.8s ease, --run 1.8s ease;
+        }}
+
+        /* Base & Reset */
+        * {{ box-sizing: border-box; scrollbar-width: thin; scrollbar-color: var(--line) transparent; margin: 0; padding: 0; }}
+        html {{ scroll-behavior: smooth; }}
         body {{
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            background-color: var(--bg-body);
-            color: var(--text-primary);
-            line-height: 1.5;
-            padding: 24px 20px 80px;
-            transition: background-color 0.3s ease, color 0.3s ease;
+            background: var(--bg);
+            color: var(--fg);
+            font: 14.5px/1.55 var(--sans);
+            -webkit-font-smoothing: antialiased;
+            min-height: 100vh;
+        }}
+        :focus-visible {{ outline: 2px solid var(--accent); outline-offset: 2px; }}
+        svg.i {{ width: 18px; height: 18px; flex: none; stroke: currentColor; fill: none; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }}
+
+        /* App Grid Layout */
+        .app {{
+            display: grid;
+            grid-template-columns: 248px minmax(0, 1fr);
+            min-height: 100vh;
         }}
 
-        .dashboard-container {{ max-width: 1240px; margin: 0 auto; }}
-
-        /* Top Navbar */
-        .top-navbar {{
+        /* Sticky 248px Sidebar */
+        .side {{
+            background: var(--side);
+            border-right: 1px solid var(--line);
+            padding: 22px 16px;
             display: flex;
-            justify-content: space-between;
+            flex-direction: column;
+            gap: 6px;
+            position: sticky;
+            top: 0;
+            height: 100vh;
+            overflow-y: auto;
+        }}
+        .logo {{
+            display: flex;
             align-items: center;
-            background: var(--bg-surface);
-            border: 1px solid var(--border-color);
-            border-radius: 16px;
-            padding: 16px 24px;
-            margin-bottom: 24px;
-            box-shadow: var(--card-shadow);
-            flex-wrap: wrap;
-            gap: 16px;
+            gap: 11px;
+            font-weight: 700;
+            font-size: 16.5px;
+            padding: 2px 8px 20px;
+            letter-spacing: -.01em;
+            color: var(--fg);
         }}
-        .brand-title {{ font-size: 1.3rem; font-weight: 800; letter-spacing: -0.3px; }}
-        
-        .nav-controls {{ display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }}
-
-        /* Theme Picker Switcher */
-        .theme-picker {{ display: flex; align-items: center; gap: 6px; background: var(--bg-card-alt); padding: 4px; border-radius: 10px; border: 1px solid var(--border-color); }}
-        .theme-btn {{
-            background: transparent;
-            border: none;
-            padding: 6px 12px;
-            border-radius: 6px;
-            font-size: 0.8rem;
-            font-weight: 600;
-            color: var(--text-secondary);
+        .logo .mark {{ width: 34px; height: 34px; flex: none; }}
+        .nav {{ display: flex; flex-direction: column; gap: 2px; }}
+        .nav a {{
+            display: flex;
+            align-items: center;
+            gap: 11px;
+            padding: 9px 12px;
+            border-radius: 11px;
+            color: var(--muted);
+            font-weight: 500;
+            text-decoration: none;
             cursor: pointer;
-            transition: all 0.2s;
+            transition: background-color .38s ease, color .38s ease, box-shadow .38s ease, transform .38s ease;
         }}
-        .theme-btn.active {{
-            background: var(--bg-surface);
-            color: var(--text-primary);
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+        .nav a svg {{ transition: color .38s ease, transform .38s ease; }}
+        .nav a:hover svg {{ transform: scale(1.08); }}
+        .nav a:active {{ transform: scale(.985); }}
+        .nav a:hover {{ background: var(--card); color: var(--fg); }}
+        .nav a.on {{
+            background: color-mix(in srgb, var(--accent) 16%, transparent);
+            color: var(--fg);
+            box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--accent) 30%, transparent);
         }}
-
-        .live-badge {{
-            display: inline-flex;
+        .nav a.on svg {{ color: var(--accent); }}
+        .nav .ct {{
+            margin-left: auto;
+            font-size: 11.5px;
+            background: var(--card2);
+            border: 1px solid var(--line);
+            padding: 0 8px;
+            border-radius: 99px;
+            color: var(--muted);
+            font-variant-numeric: tabular-nums;
+        }}
+        .sp {{ flex: 1; }}
+        .machine {{
+            background: var(--card);
+            border: 1px solid var(--line);
+            border-radius: 14px;
+            padding: 14px;
+            font-size: 12px;
+            color: var(--muted);
+        }}
+        .machine b {{ color: var(--fg); display: block; font-size: 13px; margin-bottom: 4px; }}
+        .meter {{ height: 5px; border-radius: 9px; background: var(--pill); overflow: hidden; margin: 8px 0 3px; }}
+        .meter span {{ display: block; height: 100%; background: var(--accent); border-radius: 9px; transition: width .6s; }}
+        .statuspill {{
+            display: flex;
             align-items: center;
             gap: 8px;
-            font-size: 0.78rem;
-            font-weight: 700;
-            padding: 7px 14px;
-            border-radius: 999px;
-            background: rgba(16, 185, 129, 0.12);
-            color: #10B981;
-            border: 1px solid rgba(16, 185, 129, 0.3);
-            text-transform: uppercase;
-            letter-spacing: 0.04em;
+            margin-top: 8px;
+            background: var(--card);
+            border: 1px solid var(--line);
+            border-radius: 99px;
+            padding: 7px 12px;
+            font-size: 12.5px;
+            color: var(--fg);
         }}
-        .pulse-dot {{
+        .statuspill .dot {{
             width: 8px;
             height: 8px;
             border-radius: 50%;
-            background: #10B981;
-            box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7);
-            animation: pulse-green 2s infinite;
+            background: var(--ok);
+            flex: none;
+            box-shadow: 0 0 0 3px color-mix(in srgb, var(--ok) 22%, transparent);
         }}
-        @keyframes pulse-green {{
-            0% {{ transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }}
-            70% {{ transform: scale(1); box-shadow: 0 0 0 6px rgba(16, 185, 129, 0); }}
-            100% {{ transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }}
-        }}
+        .copy {{ font-size: 11px; color: var(--muted); padding: 8px 8px 0; opacity: .85; }}
 
-        .btn-refresh {{
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            background: rgba(56, 189, 248, 0.12);
-            border: 1px solid rgba(56, 189, 248, 0.3);
-            color: #38BDF8;
-            padding: 7px 14px;
-            border-radius: 999px;
-            font-size: 0.78rem;
-            font-weight: 700;
-            cursor: pointer;
-            text-transform: uppercase;
-            letter-spacing: 0.04em;
-            transition: all 0.2s ease;
-        }}
-        .btn-refresh:hover {{
-            background: rgba(56, 189, 248, 0.25);
-            border-color: #38BDF8;
-            transform: translateY(-1px);
-        }}
-        .btn-refresh:active {{
-            transform: scale(0.97);
-        }}
-        .refresh-icon.spinning {{
-            display: inline-block;
-            animation: spin-icon 0.75s linear infinite;
-        }}
-        @keyframes spin-icon {{
-            from {{ transform: rotate(0deg); }}
-            to {{ transform: rotate(360deg); }}
-        }}
-        .sync-countdown {{
-            font-size: 0.72rem;
-            color: var(--text-secondary);
-            font-weight: 600;
-        }}
+        /* Main Content Wrapper */
+        .mainwrap {{ min-width: 0; display: flex; flex-direction: column; }}
 
-        /* KPI Row */
-        .kpi-row {{
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-            gap: 16px;
-            margin-bottom: 24px;
-        }}
-        .kpi-box {{
-            background: var(--bg-surface);
-            border: 1px solid var(--border-color);
-            border-radius: 14px;
-            padding: 18px 20px;
-            box-shadow: var(--card-shadow);
-        }}
-        .kpi-label {{ font-size: 0.8rem; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; margin-bottom: 6px; }}
-        .kpi-num {{ font-size: 2rem; font-weight: 800; letter-spacing: -0.5px; color: var(--text-primary); }}
-
-        /* Toolbar */
-        .toolbar {{
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            background: var(--bg-surface);
-            border: 1px solid var(--border-color);
-            border-radius: 12px;
-            padding: 12px 18px;
-            margin-bottom: 24px;
-            gap: 16px;
-            flex-wrap: wrap;
-        }}
-        .search-input {{
-            width: 100%;
-            max-width: 360px;
-            background: var(--bg-card-alt);
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            padding: 8px 14px;
-            color: var(--text-primary);
-            font-size: 0.88rem;
-            outline: none;
-        }}
-        .search-input:focus {{ border-color: var(--accent); }}
-
-        .filter-tabs {{ display: flex; gap: 8px; flex-wrap: wrap; }}
-        .filter-btn {{
-            background: transparent;
-            border: 1px solid transparent;
-            color: var(--text-secondary);
-            font-size: 0.82rem;
-            font-weight: 600;
-            padding: 6px 14px;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-        }}
-        .filter-btn:hover {{
-            color: var(--text-primary);
-            background: rgba(255, 255, 255, 0.05);
-        }}
-        .filter-btn.active {{
-            background: var(--accent-soft);
-            color: var(--accent);
-            border-color: var(--accent);
-            box-shadow: 0 2px 8px rgba(16, 185, 129, 0.2);
-        }}
-
-        .toolbar-side-actions {{
+        /* Opaque Sticky Topbar */
+        .topbar {{
             display: flex;
             align-items: center;
             gap: 12px;
+            flex-wrap: wrap;
+            padding: 14px 30px;
+            position: sticky;
+            top: 0;
+            z-index: 20;
+            background: var(--bg);
+            border-bottom: 1px solid var(--line);
+        }}
+        .greet {{ flex: 1; min-width: 200px; font-size: 13.5px; color: var(--muted); }}
+        .greet em {{ font-style: italic; color: var(--accent); font-family: var(--serif); font-size: 15px; }}
+
+        /* Theme Selector Dropdown */
+        .theme-select-wrap {{ display: inline-flex; align-items: center; }}
+        .theme-dropdown {{
+            width: auto;
+            padding: 7px 12px;
+            border-radius: 99px;
+            background: var(--card);
+            border: 1px solid var(--line);
+            color: var(--fg);
+            font: inherit;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all .2s;
+        }}
+        .theme-dropdown:hover {{ border-color: color-mix(in srgb, var(--accent) 45%, var(--line)); }}
+
+        /* Buttons (Reel Factory) */
+        button, .btn {{
+            font: inherit;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 7px;
+            padding: 8px 14px;
+            border-radius: 12px;
+            border: 1px solid var(--line);
+            background: var(--card);
+            color: var(--fg);
+            cursor: pointer;
+            text-decoration: none;
+            transition: background .15s, border-color .15s, filter .15s, transform .2s;
+        }}
+        button:hover, .btn:hover {{
+            border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+            background: var(--card2);
+        }}
+        button:active, .btn:active {{ transform: scale(.985); }}
+        .pri, .primary {{
+            border-color: transparent !important;
+            background: var(--accent) !important;
+            color: var(--on-accent) !important;
+        }}
+        .pri:hover, .primary:hover {{ filter: brightness(1.06); }}
+        .modebtn {{
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            border-radius: 99px !important;
+            padding: 7px 14px !important;
+        }}
+        .modebtn svg {{ color: var(--accent); }}
+        .btn-logout {{ color: var(--muted); }}
+        .btn-logout:hover {{ color: var(--err); border-color: var(--err); }}
+
+        /* Content Body */
+        .content-body {{
+            max-width: 1320px;
+            padding: 22px 30px 80px;
+            display: grid;
+            gap: 18px;
+            width: 100%;
+        }}
+
+        /* Hero Banner */
+        .hero {{
+            position: relative;
+            border-radius: 22px;
+            overflow: hidden;
+            min-height: clamp(200px, 24vw, 300px);
+            border: 1px solid var(--line);
+            isolation: isolate;
+            display: flex;
+            align-items: center;
+            box-shadow: var(--shadow);
+            background: var(--card);
+        }}
+        .hero:before {{
+            content: "";
+            position: absolute;
+            inset: 0;
+            z-index: -1;
+            pointer-events: none;
+            background: radial-gradient(ellipse at 85% 50%, color-mix(in srgb, var(--accent) 14%, transparent) 0%, transparent 65%),
+                        linear-gradient(90deg, color-mix(in srgb, var(--bg) 92%, transparent) 0%, color-mix(in srgb, var(--bg) 60%, transparent) 40%, transparent 80%);
+        }}
+        .hero-in {{
+            padding: 34px 40px;
+            max-width: 680px;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }}
+        .kick {{
+            font-size: 11.5px;
+            letter-spacing: .18em;
+            text-transform: uppercase;
+            font-weight: 700;
+            color: var(--accent2);
+        }}
+        .display {{
+            margin: 0;
+            font-family: var(--serif);
+            font-weight: 400;
+            font-size: clamp(28px, 3.2vw, 46px);
+            line-height: 1.05;
+            letter-spacing: -.02em;
+            color: var(--fg);
+        }}
+        .display em {{
+            font-style: italic;
+            color: var(--accent);
+        }}
+        .hero-in p {{
+            margin: 0;
+            font-size: 15px;
+            color: var(--muted);
+            max-width: 48ch;
+            line-height: 1.5;
+        }}
+        .hero-acts {{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 4px;
+        }}
+
+        /* KPI Tiles (.tiles and .tile from Reel Factory) */
+        .tiles {{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+            gap: 14px;
+        }}
+        .tile {{
+            background: var(--card);
+            border: 1px solid var(--line);
+            border-radius: var(--r);
+            padding: 16px 18px;
+            display: flex;
+            gap: 14px;
+            align-items: center;
+            box-shadow: var(--shadow);
+            transition: border-color .38s ease, transform .38s ease;
+        }}
+        .tile:hover {{
+            border-color: color-mix(in srgb, var(--accent) 35%, var(--line));
+            transform: translateY(-1px);
+        }}
+        .tile .ic {{
+            flex: none;
+            width: 44px;
+            height: 44px;
+            border-radius: 13px;
+            display: grid;
+            place-items: center;
+            color: var(--c);
+            background: color-mix(in srgb, var(--c) 14%, transparent);
+        }}
+        .tile .ic svg {{ width: 21px; height: 21px; }}
+        .tile .k, .kpi-label {{
+            font-size: 12.5px;
+            color: var(--fg);
+            font-weight: 600;
+            margin-bottom: 2px;
+        }}
+        .tile .v, .kpi-num {{
+            font-size: 26px;
+            font-weight: 700;
+            line-height: 1.1;
+            font-variant-numeric: tabular-nums;
+            color: var(--fg);
+        }}
+        .tile .s {{ font-size: 11.5px; color: var(--muted); margin-top: 2px; }}
+
+        /* Filter Toolbar (Reel Factory .card style) */
+        .toolbar {{
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 12px;
+            background: var(--card);
+            border: 1px solid var(--line);
+            border-radius: var(--r);
+            padding: 16px 20px;
+            box-shadow: var(--shadow);
+        }}
+        .search-input {{
+            flex: 1 1 240px;
+            min-width: 200px;
+            padding: 10px 14px;
+            border: 1px solid var(--line);
+            border-radius: 12px;
+            background: var(--card2);
+            color: var(--fg);
+            font: inherit;
+            transition: border-color .2s;
+        }}
+        .search-input:focus {{
+            outline: none;
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 24%, transparent);
+        }}
+        .filter-tabs {{
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+        }}
+        .filter-btn {{
+            border-radius: 99px;
+            padding: 6px 14px;
+            font-size: 13px;
+            font-weight: 600;
+            background: transparent;
+            color: var(--muted);
+            border: 1px solid var(--line);
+            cursor: pointer;
+            transition: all .2s;
+        }}
+        .filter-btn:hover {{
+            background: var(--card2);
+            color: var(--fg);
+        }}
+        .filter-btn.active {{
+            background: var(--accent);
+            color: var(--on-accent);
+            border-color: var(--accent);
+        }}
+        .toolbar-side-actions {{
+            display: flex;
+            align-items: center;
+            gap: 10px;
             margin-left: auto;
             flex-wrap: wrap;
         }}
         .price-toggle-btn {{
             display: inline-flex;
             align-items: center;
-            gap: 8px;
-            background: var(--bg-card-alt);
-            border: 1.5px solid var(--border-color);
-            color: var(--text-secondary);
-            font-size: 0.82rem;
-            font-weight: 700;
+            gap: 6px;
             padding: 7px 14px;
-            border-radius: 8px;
+            border-radius: 99px;
+            background: var(--card2);
+            border: 1px solid var(--line);
+            color: var(--fg);
+            font-size: 12.5px;
+            font-weight: 600;
             cursor: pointer;
-            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-            user-select: none;
-            white-space: nowrap;
+            transition: all .2s;
         }}
         .price-toggle-btn:hover {{
-            color: var(--text-primary);
-            border-color: rgba(255, 255, 255, 0.25);
-            background: rgba(255, 255, 255, 0.06);
+            border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
         }}
         .price-toggle-btn.active {{
-            background: rgba(245, 158, 11, 0.16);
-            color: #F59E0B;
-            border-color: #F59E0B;
-            box-shadow: 0 0 14px rgba(245, 158, 11, 0.25);
-        }}
-        .price-toggle-icon {{
-            font-size: 1rem;
-        }}
-
-        /* Floating Side Control Widget */
-        .floating-side-widget {{
-            position: fixed;
-            top: 50%;
-            right: 20px;
-            transform: translateY(-50%);
-            z-index: 999;
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }}
-        .floating-side-btn {{
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            background: var(--bg-surface);
-            border: 1.5px solid var(--border-color);
-            color: var(--text-primary);
-            padding: 10px 18px;
-            border-radius: 30px;
-            font-size: 0.84rem;
-            font-weight: 700;
-            cursor: pointer;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.45);
-            backdrop-filter: blur(12px);
-            transition: all 0.25s ease;
-            user-select: none;
-        }}
-        .floating-side-btn:hover {{
-            transform: scale(1.05);
+            background: color-mix(in srgb, var(--accent) 18%, transparent);
             border-color: var(--accent);
-            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6);
+            color: var(--accent);
         }}
-        .floating-side-btn.active {{
-            background: #F59E0B;
-            color: #0F172A;
-            border-color: #F59E0B;
-            box-shadow: 0 0 20px rgba(245, 158, 11, 0.55);
-        }}
-        @media (max-width: 900px) {{
-            .toolbar-side-actions {{
-                margin-left: 0;
-                width: 100%;
-                justify-content: space-between;
-            }}
-            .floating-side-widget {{
-                top: auto;
-                bottom: 24px;
-                right: 16px;
-                transform: none;
-            }}
-            .floating-side-btn {{
-                padding: 8px 14px;
-                font-size: 0.78rem;
-            }}
-        }}
-
         .sort-wrapper {{
-            display: flex;
+            display: inline-flex;
             align-items: center;
             gap: 8px;
         }}
         .sort-label {{
-            font-size: 0.8rem;
-            color: var(--text-secondary);
+            font-size: 12px;
             font-weight: 600;
-            white-space: nowrap;
+            color: var(--muted);
         }}
         .sort-select {{
-            background: var(--bg-card-alt);
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            padding: 6px 12px;
-            color: var(--text-primary);
-            font-size: 0.82rem;
-            font-weight: 600;
-            outline: none;
-            cursor: pointer;
-            transition: border-color 0.2s;
-        }}
-        .sort-select:focus {{
-            border-color: var(--accent);
-        }}
-
-        /* Product Cards Grid */
-        .cards-grid {{
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-            gap: 24px;
-        }}
-        /* Performance Optimization: hide non-active page cards to prevent memory & layout explosion */
-        .cards-grid .product-card {{
-            display: none;
-        }}
-        .cards-grid.initialized .product-card.page-active {{
-            display: flex;
-        }}
-        .cards-grid:not(.initialized) .product-card:nth-child(-n+24) {{
-            display: flex;
+            width: auto;
+            padding: 7px 12px;
+            border-radius: 12px;
+            background: var(--card2);
+            border: 1px solid var(--line);
+            color: var(--fg);
+            font: inherit;
+            font-size: 13px;
         }}
 
         /* Results Meta Bar */
         .results-meta-bar {{
             display: flex;
-            align-items: center;
             justify-content: space-between;
-            margin-bottom: 16px;
-            font-size: 0.88rem;
-            color: var(--text-secondary);
-        }}
-        .results-meta-bar span {{
-            color: var(--text-primary);
-            font-weight: 700;
+            align-items: center;
+            padding: 6px 4px;
+            font-size: 13px;
+            color: var(--muted);
+            font-variant-numeric: tabular-nums;
         }}
 
-        /* Pagination Controls */
-        .pagination-wrapper {{
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            flex-wrap: wrap;
-            gap: 16px;
-            margin: 36px 0 24px;
-            padding: 16px 20px;
-            background: var(--bg-surface);
-            border: 1px solid var(--border-color);
-            border-radius: 12px;
-            box-shadow: var(--card-shadow);
-        }}
-        .pagination-info {{
-            font-size: 0.88rem;
-            color: var(--text-secondary);
-            font-weight: 500;
-        }}
-        .pagination-info span {{
-            color: var(--text-primary);
-            font-weight: 700;
-        }}
-        .pagination-buttons {{
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            flex-wrap: wrap;
-        }}
-        .page-btn {{
-            background: var(--bg-card-alt);
-            border: 1px solid var(--border-color);
-            color: var(--text-secondary);
-            font-size: 0.84rem;
-            font-weight: 600;
-            min-width: 38px;
-            height: 38px;
-            padding: 0 10px;
-            border-radius: 8px;
-            cursor: pointer;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-            user-select: none;
-        }}
-        .page-btn:hover:not(:disabled) {{
-            color: var(--text-primary);
-            border-color: var(--accent);
-            background: rgba(255, 255, 255, 0.05);
-            transform: translateY(-1px);
-        }}
-        .page-btn.active {{
-            background: var(--accent);
-            color: #0F172A;
-            border-color: var(--accent);
-            font-weight: 800;
-            box-shadow: 0 2px 10px rgba(16, 185, 129, 0.35);
-        }}
-        .page-btn:disabled {{
-            opacity: 0.35;
-            cursor: not-allowed;
-            transform: none !important;
-        }}
-        .page-ellipsis {{
-            color: var(--text-muted);
-            font-size: 0.88rem;
-            padding: 0 4px;
-            user-select: none;
-        }}
-        .pagination-size-selector {{
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            font-size: 0.84rem;
-            color: var(--text-secondary);
-        }}
-        .page-size-select {{
-            background: var(--bg-card-alt);
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            padding: 6px 12px;
-            color: var(--text-primary);
-            font-size: 0.82rem;
-            font-weight: 600;
-            outline: none;
-            cursor: pointer;
-        }}
-        .page-size-select:focus {{
-            border-color: var(--accent);
+        /* Product Cards Grid & Responsive Layout */
+        .cards-grid {{
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+            gap: 18px;
+            width: 100%;
         }}
         @media (max-width: 768px) {{
-            .pagination-wrapper {{
-                flex-direction: column;
-                align-items: center;
-                gap: 14px;
-            }}
-            .pagination-buttons {{
-                justify-content: center;
-            }}
-        }}
-        .product-card {{
-            background: var(--bg-card);
-            border: 1px solid var(--border-color);
-            border-radius: 16px;
-            overflow: hidden;
-            display: flex;
-            flex-direction: column;
-            box-shadow: var(--card-shadow);
-            transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease, opacity 0.3s ease;
-            animation: fadeInCard 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
-        }}
-        @keyframes fadeInCard {{
-            from {{
-                opacity: 0;
-                transform: translateY(12px) scale(0.98);
-            }}
-            to {{
-                opacity: 1;
-                transform: translateY(0) scale(1);
-            }}
-        }}
-        .product-card:hover {{
-            transform: translateY(-3px);
-            border-color: var(--accent);
-        }}
-        .product-card.should_test:hover {{
-            border-color: #38BDF8;
+            .cards-grid {{ grid-template-columns: 1fr; }}
         }}
 
+        /* High-Performance Pagination Visibility */
+        .cards-grid .product-card {{ display: none; }}
+        .cards-grid.initialized .product-card.page-active {{ display: flex; }}
+        .cards-grid:not(.initialized) .product-card:nth-child(-n+24) {{ display: flex; }}
+
+        /* Product Card (Reel Factory Warm Card) */
+        .product-card {{
+            background: var(--card);
+            border: 1px solid var(--line);
+            border-radius: var(--r);
+            padding: 20px;
+            min-width: 0;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            box-shadow: var(--shadow);
+            transition: border-color .38s ease, box-shadow .38s ease, transform .38s ease;
+            position: relative;
+        }}
+        .product-card:hover {{
+            border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+            transform: translateY(-2px);
+        }}
         .card-top-bar {{
             display: flex;
             justify-content: space-between;
-            align-items: center;
-            padding: 12px 16px;
-            gap: 8px;
+            align-items: flex-start;
+            gap: 10px;
             flex-wrap: wrap;
         }}
         .badge-group {{
             display: flex;
-            align-items: center;
             gap: 6px;
             flex-wrap: wrap;
+            align-items: center;
         }}
         .status-pill {{
-            font-size: 0.72rem;
+            font-size: 11.5px;
+            font-weight: 600;
+            padding: 3px 10px;
+            border-radius: 99px;
+            background: var(--pill);
+            color: var(--muted);
+            border: 1px solid var(--line);
+            letter-spacing: .02em;
+        }}
+        .status-pill.badge-winner {{
+            background: color-mix(in srgb, var(--accent) 18%, transparent);
+            color: var(--accent);
+            border-color: color-mix(in srgb, var(--accent) 35%, transparent);
+        }}
+        .status-pill.badge-should-test {{
+            background: color-mix(in srgb, var(--run) 18%, transparent);
+            color: var(--run);
+            border-color: color-mix(in srgb, var(--run) 35%, transparent);
+        }}
+        .status-pill.badge-candidate {{
+            background: var(--pill);
+            color: var(--muted);
+            border-color: var(--line);
+        }}
+        .score-pill {{
+            font-size: 11.5px;
             font-weight: 700;
             padding: 3px 10px;
-            border-radius: 999px;
-        }}
-        .badge-winner {{ background: var(--accent-soft); color: var(--accent); }}
-        .badge-test {{ background: rgba(56, 189, 248, 0.15); color: #38BDF8; border: 1px solid rgba(56, 189, 248, 0.35); }}
-        .badge-candidate {{ background: rgba(148, 163, 184, 0.12); color: var(--text-secondary); }}
-        .score-pill {{
-            background: rgba(16, 185, 129, 0.12);
-            color: var(--accent);
-            border: 1px solid rgba(16, 185, 129, 0.3);
-            padding: 2px 8px;
-            border-radius: 999px;
-            font-size: 0.74rem;
-            font-weight: 700;
-            display: inline-flex;
-            align-items: center;
-            white-space: nowrap;
-        }}
-        .asin-pill {{ font-size: 0.75rem; color: var(--text-muted); font-weight: 600; margin-left: auto; }}
-        .delta-pill {{
-            padding: 2px 8px;
-            border-radius: 999px;
-            font-size: 0.72rem;
-            font-weight: 700;
-            display: inline-flex;
-            align-items: center;
-            white-space: nowrap;
-        }}
-        .delta-improved {{
-            background: rgba(16, 185, 129, 0.2);
-            color: #10B981;
-            border: 1px solid rgba(16, 185, 129, 0.45);
-        }}
-        .delta-declined {{
-            background: rgba(239, 68, 68, 0.2);
-            color: #EF4444;
-            border: 1px solid rgba(239, 68, 68, 0.45);
-        }}
-        .delta-updated {{
-            background: rgba(245, 158, 11, 0.2);
-            color: #F59E0B;
-            border: 1px solid rgba(245, 158, 11, 0.45);
+            border-radius: 99px;
+            background: var(--card2);
+            color: var(--fg);
+            border: 1px solid var(--line);
+            font-variant-numeric: tabular-nums;
         }}
         .archetype-pill {{
-            font-size: 0.70rem;
-            font-weight: 700;
+            font-size: 11px;
+            padding: 3px 10px;
+            border-radius: 99px;
+            background: var(--pill);
+            color: var(--muted);
+            border: 1px solid var(--line);
+        }}
+        .asin-pill {{
+            font-size: 11px;
+            color: var(--muted);
+            background: var(--card2);
+            border: 1px solid var(--line);
             padding: 2px 8px;
-            border-radius: 999px;
-            background: rgba(99, 102, 241, 0.12);
-            color: #818CF8;
-            border: 1px solid rgba(99, 102, 241, 0.3);
-            display: inline-flex;
-            align-items: center;
-            white-space: nowrap;
+            border-radius: 6px;
+            font-family: var(--mono);
         }}
 
-        /* Single Product Image */
+        /* Delta Pills */
+        .delta-pill {{
+            font-size: 11px;
+            font-weight: 700;
+            padding: 2px 8px;
+            border-radius: 99px;
+            font-variant-numeric: tabular-nums;
+        }}
+        .delta-improved {{
+            background: color-mix(in srgb, var(--ok) 18%, transparent);
+            color: var(--ok);
+            border: 1px solid color-mix(in srgb, var(--ok) 35%, transparent);
+        }}
+        .delta-declined {{
+            background: color-mix(in srgb, var(--err) 18%, transparent);
+            color: var(--err);
+            border: 1px solid color-mix(in srgb, var(--err) 35%, transparent);
+        }}
+
+        /* Image Box */
         .product-image-box {{
-            position: relative;
-            height: 200px;
-            background: var(--bg-card-alt);
+            width: 100%;
+            height: 220px;
+            background: var(--card2);
+            border: 1px solid var(--line);
+            border-radius: 12px;
+            overflow: hidden;
             display: flex;
             align-items: center;
             justify-content: center;
-            overflow: hidden;
-            border-top: 1px solid var(--border-color);
-            border-bottom: 1px solid var(--border-color);
-            padding: 10px;
         }}
         .product-img {{
-            max-height: 180px;
-            max-width: 90%;
+            width: 100%;
+            height: 100%;
             object-fit: contain;
-            border-radius: 6px;
-            transition: transform 0.25s ease;
+            padding: 10px;
+            transition: transform .38s ease;
         }}
         .product-card:hover .product-img {{
             transform: scale(1.03);
         }}
 
         /* Card Content */
-        .card-body {{ padding: 18px; flex: 1; display: flex; flex-direction: column; }}
+        .card-body {{
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            flex: 1;
+        }}
         .product-title {{
-            font-size: 1.05rem;
-            font-weight: 700;
-            line-height: 1.4;
-            margin-bottom: 14px;
+            font-family: var(--serif);
+            font-weight: 500;
+            font-size: 21px;
+            line-height: 1.25;
+            letter-spacing: -.01em;
+            color: var(--fg);
             display: -webkit-box;
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
-            height: 2.8em;
+            margin: 0;
         }}
 
-        /* BSR and Price */
+        /* BSR & Price Meta Box */
         .bsr-meta-box {{
-            background: var(--bg-card-alt);
-            border: 1px solid var(--border-color);
-            border-radius: 10px;
-            padding: 10px 14px;
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 14px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            background: var(--card2);
+            border: 1px solid var(--line);
+            border-radius: 12px;
+            padding: 12px 14px;
         }}
-        .meta-item {{ display: flex; flex-direction: column; }}
-        .meta-label {{ font-size: 0.72rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; }}
-        .meta-val {{ font-size: 0.95rem; font-weight: 700; color: var(--text-primary); }}
-        .highlight {{ color: var(--amazon-color); }}
-        .bsr-val {{ color: var(--accent); }}
-
-        /* Stores Row */
-        .stores-row {{ display: flex; gap: 8px; margin-bottom: 14px; }}
-        .btn-store {{
-            flex: 1;
-            padding: 8px 10px;
-            border-radius: 8px;
-            text-align: center;
-            text-decoration: none;
-            font-size: 0.78rem;
+        .meta-item {{ display: flex; flex-direction: column; gap: 3px; }}
+        .meta-label {{
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: .08em;
+            color: var(--muted);
+            font-weight: 600;
+        }}
+        .meta-val {{
+            font-size: 15px;
             font-weight: 700;
-            transition: opacity 0.2s;
+            color: var(--fg);
+            font-variant-numeric: tabular-nums;
         }}
-        .btn-amazon {{ background: var(--amazon-color); color: #000; }}
-        .btn-walmart {{ background: #0071DC; color: #fff; }}
-        .btn-store:hover {{ opacity: 0.88; }}
+        .meta-val.highlight {{ color: var(--accent); }}
 
-        /* Marketing Angles & Commercial Insights */
+        /* Arbitrage Stores Row */
+        .stores-row {{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+        }}
+        .btn-store {{
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            padding: 9px 12px;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 13px;
+            text-decoration: none;
+            cursor: pointer;
+            transition: background .15s, border-color .15s, filter .15s;
+        }}
+        .btn-amazon {{
+            background: var(--accent);
+            color: var(--on-accent);
+            border: none;
+        }}
+        .btn-amazon:hover {{ filter: brightness(1.06); }}
+        .btn-walmart {{
+            background: var(--card2);
+            color: var(--fg);
+            border: 1px solid var(--line);
+        }}
+        .btn-walmart:hover {{
+            border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+        }}
+
+        /* Marketing & Commercial Insights */
         .insights-box {{
-            margin-bottom: 16px;
-            font-size: 0.84rem;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            background: var(--card2);
+            border: 1px solid var(--line);
+            border-radius: 12px;
+            padding: 14px;
+        }}
+        .insight-row {{ display: flex; flex-direction: column; gap: 4px; }}
+        .insight-label-why {{
+            font-size: 11.5px;
+            text-transform: uppercase;
+            letter-spacing: .18em;
+            font-weight: 700;
+            color: var(--accent2);
+        }}
+        .insight-label-risk {{
+            font-size: 11.5px;
+            text-transform: uppercase;
+            letter-spacing: .18em;
+            font-weight: 700;
+            color: var(--warn);
+        }}
+        .insight-text {{
+            font-size: 13.5px;
+            line-height: 1.45;
+            color: var(--fg);
+            margin: 0;
+        }}
+
+        /* Marketing Angles Container */
+        .angles-container {{
             display: flex;
             flex-direction: column;
             gap: 8px;
+            margin-top: 2px;
         }}
-        .insight-row {{
-            background: var(--bg-card-alt);
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            padding: 8px 12px;
+        .angle-item {{
+            background: var(--card2);
+            border: 1px solid var(--line);
+            border-radius: 10px;
+            padding: 10px 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
         }}
-        .insight-header {{
+        .angle-header {{
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 4px;
         }}
-        .insight-label-angle {{ color: #818CF8; font-size: 0.76rem; font-weight: 700; }}
-        .insight-label-hook {{ color: #F43F5E; font-size: 0.76rem; font-weight: 700; }}
-        .insight-label-why {{ color: var(--accent); font-size: 0.76rem; font-weight: 700; }}
-        .insight-label-risk {{ color: var(--amazon-color); font-size: 0.76rem; font-weight: 700; }}
-        .insight-label-archetype {{ color: #A78BFA; font-size: 0.76rem; font-weight: 700; }}
-        .archetype-meta {{ color: #818CF8; font-size: 0.76rem; font-weight: 600; }}
-        .insight-text {{ color: var(--text-secondary); font-size: 0.82rem; line-height: 1.45; margin: 0; }}
-        .btn-copy-sm {{
-            background: transparent;
-            border: 1px solid var(--border-color);
-            color: var(--text-muted);
-            padding: 2px 7px;
-            border-radius: 4px;
-            font-size: 0.70rem;
+        .angle-title {{
+            font-size: 11.5px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: .14em;
+            color: var(--accent2);
+        }}
+        .btn-copy-angle {{
+            background: var(--card);
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            padding: 3px 9px;
+            font-size: 11.5px;
             font-weight: 600;
+            color: var(--muted);
             cursor: pointer;
-            transition: all 0.2s;
+            transition: all .2s;
         }}
-        .btn-copy-sm:hover {{
-            background: var(--accent-soft);
-            color: var(--accent);
+        .btn-copy-angle:hover {{
+            border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+            color: var(--fg);
+        }}
+        .angle-text {{
+            font-size: 13px;
+            line-height: 1.4;
+            color: var(--fg);
+            margin: 0;
+        }}
+
+        /* Empty State */
+        .empty-state {{
+            grid-column: 1 / -1;
+            background: var(--card);
+            border: 1px dashed var(--line);
+            border-radius: 18px;
+            padding: 48px 24px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 12px;
+        }}
+        .empty-icon {{ font-size: 44px; }}
+        .empty-title {{
+            font-family: var(--serif);
+            font-weight: 500;
+            font-size: 22px;
+            color: var(--fg);
+        }}
+        .empty-desc {{
+            color: var(--muted);
+            font-size: 14.5px;
+            max-width: 50ch;
+            line-height: 1.5;
+        }}
+
+        /* Pagination Controls */
+        .pagination-wrapper {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+            padding: 20px 4px;
+            border-top: 1px solid var(--line);
+            margin-top: 10px;
+        }}
+        .pagination-buttons {{
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            flex-wrap: wrap;
+        }}
+        .page-btn {{
+            font: inherit;
+            font-size: 13px;
+            font-weight: 600;
+            min-width: 36px;
+            height: 36px;
+            padding: 0 10px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 10px;
+            border: 1px solid var(--line);
+            background: var(--card);
+            color: var(--fg);
+            cursor: pointer;
+            transition: all .2s;
+        }}
+        .page-btn:hover:not(:disabled) {{
+            border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+            background: var(--card2);
+        }}
+        .page-btn.active {{
+            background: var(--accent) !important;
+            color: var(--on-accent) !important;
+            border-color: var(--accent) !important;
+        }}
+        .page-btn:disabled {{
+            opacity: .4;
+            cursor: not-allowed;
+        }}
+        .page-ellipsis {{
+            min-width: 24px;
+            text-align: center;
+            color: var(--muted);
+        }}
+        .pagination-size-selector {{
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 13px;
+            color: var(--muted);
+        }}
+        .pagination-size-selector select {{
+            width: auto;
+            padding: 6px 10px;
+            border-radius: 10px;
+            background: var(--card2);
+            border: 1px solid var(--line);
+            color: var(--fg);
+            font: inherit;
+            font-size: 12.5px;
+        }}
+
+        /* Floating Side Quick Price Filter */
+        .floating-side-widget {{
+            position: fixed;
+            bottom: 24px;
+            left: 24px;
+            z-index: 900;
+        }}
+        .floating-side-btn {{
+            background: var(--card);
+            border: 1px solid var(--line);
+            color: var(--fg);
+            border-radius: 99px;
+            padding: 9px 16px;
+            font-size: 13px;
+            font-weight: 600;
+            box-shadow: var(--shadow);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all .2s;
+        }}
+        .floating-side-btn:hover {{
+            border-color: var(--accent);
+            background: var(--card2);
+        }}
+        .floating-side-btn.active {{
+            background: var(--accent);
+            color: var(--on-accent);
             border-color: var(--accent);
         }}
 
-        /* Logout Button */
-        .btn-logout {{
-            background: var(--bg-card-alt);
-            border: 1px solid var(--border-color);
-            color: var(--text-secondary);
-            padding: 8px 14px;
-            border-radius: 8px;
-            font-size: 0.82rem;
+        /* Toast Messages */
+        .toast-msg {{
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            background: var(--card2);
+            border: 1px solid var(--line);
+            border-left: 3px solid var(--accent);
+            color: var(--fg);
+            padding: 12px 18px;
+            border-radius: 12px;
+            box-shadow: var(--shadow);
+            z-index: 9999;
+            display: none;
+            font-size: 13.5px;
             font-weight: 600;
-            cursor: pointer;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            transition: all 0.2s;
-        }}
-        .btn-logout:hover {{
-            background: rgba(239, 68, 68, 0.15);
-            border-color: #EF4444;
-            color: #EF4444;
+            transition: opacity .3s ease;
         }}
 
-        /* Login Screen Overlay */
+        /* Login Screen Overlay (Reel Factory .dlg style) */
         .login-overlay {{
             position: fixed;
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
-            background: rgba(10, 10, 12, 0.92);
-            backdrop-filter: blur(18px);
-            -webkit-backdrop-filter: blur(18px);
+            inset: 0;
+            z-index: 9999;
+            background: #000a;
+            backdrop-filter: blur(8px);
             display: flex;
             align-items: center;
             justify-content: center;
-            z-index: 99999;
             padding: 20px;
         }}
         .login-card {{
-            background: var(--bg-surface);
-            border: 1px solid var(--border-color);
-            border-radius: 20px;
-            padding: 38px 32px;
-            width: 100%;
-            max-width: 410px;
-            box-shadow: 0 24px 60px rgba(0, 0, 0, 0.7);
+            background: var(--card);
+            border: 1px solid var(--line);
+            border-radius: 18px;
+            padding: 34px;
+            width: min(440px, 100%);
+            box-shadow: var(--shadow);
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
             text-align: center;
-            animation: modalFadeIn 0.3s ease-out;
         }}
-        @keyframes modalFadeIn {{
-            from {{ opacity: 0; transform: scale(0.95) translateY(10px); }}
-            to {{ opacity: 1; transform: scale(1) translateY(0); }}
-        }}
-        .login-icon {{
-            font-size: 2.4rem;
-            margin-bottom: 12px;
-            display: inline-block;
-        }}
+        .login-icon {{ font-size: 34px; margin-bottom: -4px; }}
         .login-title {{
-            font-size: 1.35rem;
-            font-weight: 800;
-            color: var(--text-primary);
-            letter-spacing: -0.3px;
-            margin-bottom: 6px;
+            font-family: var(--serif);
+            font-weight: 500;
+            font-size: 26px;
+            letter-spacing: -.01em;
+            color: var(--fg);
+            margin: 0;
         }}
         .login-subtitle {{
-            font-size: 0.85rem;
-            color: var(--text-secondary);
-            margin-bottom: 24px;
+            font-size: 11.5px;
+            text-transform: uppercase;
+            letter-spacing: .18em;
+            font-weight: 700;
+            color: var(--accent2);
+            margin: -6px 0 6px;
+        }}
+        .login-error {{
+            display: none;
+            background: color-mix(in srgb, var(--err) 12%, var(--card));
+            border: 1px solid color-mix(in srgb, var(--err) 40%, transparent);
+            color: var(--err);
+            border-radius: 10px;
+            padding: 8px 12px;
+            font-size: 12.5px;
+            font-weight: 600;
         }}
         .login-form {{
             display: flex;
@@ -1190,189 +1454,80 @@ def generate_executive_dashboard_html(
             gap: 6px;
         }}
         .form-group label {{
-            font-size: 0.78rem;
-            font-weight: 700;
-            text-transform: uppercase;
-            color: var(--text-secondary);
-            letter-spacing: 0.5px;
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--muted);
         }}
         .login-input {{
             width: 100%;
-            background: var(--bg-card-alt);
-            border: 1px solid var(--border-color);
-            border-radius: 10px;
-            padding: 12px 16px;
-            color: var(--text-primary);
-            font-size: 0.95rem;
-            outline: none;
-            transition: border-color 0.2s, box-shadow 0.2s;
+            padding: 10px 14px;
+            border: 1px solid var(--line);
+            border-radius: 12px;
+            background: var(--card2);
+            color: var(--fg);
+            font: inherit;
         }}
         .login-input:focus {{
+            outline: none;
             border-color: var(--accent);
-            box-shadow: 0 0 0 3px var(--accent-soft);
+            box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 24%, transparent);
         }}
-        .login-options {{
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            font-size: 0.82rem;
-            color: var(--text-secondary);
-            margin-top: 4px;
-        }}
+        .login-options {{ display: flex; justify-content: space-between; align-items: center; }}
         .remember-label {{
-            display: flex;
+            display: inline-flex;
             align-items: center;
             gap: 8px;
-            cursor: pointer;
-            user-select: none;
-        }}
-        .remember-label input[type="checkbox"] {{
-            accent-color: var(--accent);
-            width: 16px;
-            height: 16px;
+            font-size: 12.5px;
+            color: var(--muted);
             cursor: pointer;
         }}
+        .remember-label input {{ accent-color: var(--accent); }}
         .btn-submit-login {{
             background: var(--accent);
-            color: #000;
+            color: var(--on-accent);
             border: none;
-            border-radius: 10px;
-            padding: 13px;
-            font-size: 0.95rem;
+            border-radius: 12px;
+            padding: 12px;
+            font-size: 14.5px;
             font-weight: 700;
             cursor: pointer;
-            margin-top: 10px;
-            transition: opacity 0.2s, transform 0.1s;
+            transition: filter .15s;
+            margin-top: 6px;
         }}
-        .btn-submit-login:hover {{ opacity: 0.92; }}
-        .btn-submit-login:active {{ transform: scale(0.98); }}
-        .login-error {{
-            background: rgba(239, 68, 68, 0.15);
-            border: 1px solid rgba(239, 68, 68, 0.3);
-            color: #EF4444;
-            padding: 10px;
-            border-radius: 8px;
-            font-size: 0.82rem;
-            font-weight: 600;
-            display: none;
-            margin-bottom: 12px;
-            text-align: center;
+        .btn-submit-login:hover {{ filter: brightness(1.06); }}
+
+        /* Media Queries (Responsive at 375px, 768px, 1440px) */
+        @media (max-width: 1000px) {{
+            .app {{ grid-template-columns: 1fr; }}
+            .side {{ display: none; }}
+            .topbar, .content-body {{ padding-left: 14px; padding-right: 14px; }}
         }}
-
-        /* Responsive Breakpoints for Mobile & Tablet */
-        @media (max-width: 900px) {{
-            .dashboard-container {{ padding: 0 4px; }}
-            .kpi-row {{ grid-template-columns: repeat(2, 1fr); gap: 12px; }}
-            .cards-grid {{ grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }}
+        @media (max-width: 760px) {{
+            .hero-in {{ padding: 26px 20px; }}
+            .display {{ font-size: 30px; }}
+            .toolbar {{ flex-direction: column; align-items: stretch; }}
+            .toolbar-side-actions {{ margin-left: 0; width: 100%; justify-content: space-between; }}
         }}
-
-        @media (max-width: 640px) {{
-            body {{ padding: 14px 10px 60px; }}
-            .top-navbar {{
-                flex-direction: column;
-                align-items: stretch;
-                padding: 14px 16px;
-                gap: 12px;
-            }}
-            .brand-title {{ text-align: center; font-size: 1.15rem; }}
-            .nav-controls {{
-                justify-content: space-between;
-                width: 100%;
-                gap: 8px;
-            }}
-            .theme-picker {{
-                flex: 1;
-                justify-content: center;
-                overflow-x: auto;
-            }}
-            .theme-btn {{ padding: 6px 8px; font-size: 0.74rem; }}
-            .live-badge, .btn-logout {{
-                padding: 7px 10px;
-                font-size: 0.78rem;
-                white-space: nowrap;
-            }}
-            .kpi-row {{
-                grid-template-columns: repeat(2, 1fr);
-                gap: 8px;
-            }}
-            .kpi-box {{ padding: 12px 14px; border-radius: 12px; }}
-            .kpi-label {{ font-size: 0.7rem; }}
-            .kpi-num {{ font-size: 1.5rem; }}
-
-            .verdict-banner {{ padding: 16px 14px; margin-bottom: 18px; }}
-            .verdict-banner h2 {{ font-size: 1.05rem; }}
-            .verdict-quote {{ font-size: 0.92rem; }}
-
-            .toolbar {{
-                flex-direction: column;
-                align-items: stretch;
-                gap: 10px;
-                padding: 10px 12px;
-            }}
-            .search-input {{
-                max-width: 100%;
-                width: 100%;
-                font-size: 16px; /* Prevents auto-zoom on iOS Safari */
-            }}
-            .filter-tabs {{
-                display: flex;
-                width: 100%;
-                gap: 6px;
-            }}
-            .filter-btn {{
-                flex: 1;
-                text-align: center;
-                padding: 8px 4px;
-                font-size: 0.74rem;
-            }}
-            .sort-wrapper {{
-                width: 100%;
-                justify-content: space-between;
-                margin-left: 0;
-            }}
-            .sort-select {{
-                flex: 1;
-                font-size: 14px;
-            }}
-
-            .cards-grid {{
-                grid-template-columns: 1fr;
-                gap: 16px;
-            }}
-            .product-image-box {{
-                height: 180px;
-            }}
-            .product-title {{
-                font-size: 0.98rem;
-                height: auto;
-                max-height: 3em;
-                -webkit-line-clamp: 2;
-            }}
-            .stores-row {{
-                flex-direction: row;
-                gap: 6px;
-            }}
-            .btn-store {{
-                padding: 10px 8px;
-                font-size: 0.76rem;
-            }}
-
-            .login-card {{
-                padding: 26px 18px;
-                border-radius: 16px;
-            }}
-            .login-input {{
-                font-size: 16px; /* Prevents auto-zoom on iOS Safari */
-                padding: 11px 14px;
-            }}
-            .btn-submit-login {{
-                padding: 14px;
-                font-size: 0.92rem;
-            }}
+        @media (prefers-reduced-motion: reduce) {{
+            * {{ animation-iteration-count: 1 !important; }}
         }}
     </style>
 </head>
 <body>
+    <!-- SVG Icon Symbols (Reel Factory Design System) -->
+    <svg width="0" height="0" style="position:absolute;display:none" aria-hidden="true">
+        <symbol id="i-home" viewBox="0 0 24 24"><path d="M3 10.5 12 3l9 7.5V20a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></symbol>
+        <symbol id="i-box" viewBox="0 0 24 24"><path d="M21 8 12 3 3 8v8l9 5 9-5z"/><path d="m3 8 9 5 9-5M12 13v8"/></symbol>
+        <symbol id="i-play" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="m10 9 5 3-5 3z"/></symbol>
+        <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+        <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></symbol>
+        <symbol id="i-check" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></symbol>
+        <symbol id="i-compass" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m15.5 8.5-2 5-5 2 2-5z"/></symbol>
+        <symbol id="i-alert" viewBox="0 0 24 24"><path d="M10.3 3.9 2.4 18a2 2 0 0 0 1.7 3h15.8a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/><path d="M12 9v4M12 17h.01"/></symbol>
+        <symbol id="i-focus" viewBox="0 0 24 24"><path d="M4 8V5a1 1 0 0 1 1-1h3M16 4h3a1 1 0 0 1 1 1v3M20 16v3a1 1 0 0 1-1 1h-3M8 20H5a1 1 0 0 1-1-1v-3"/><circle cx="12" cy="12" r="3"/></symbol>
+        <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/></symbol>
+    </svg>
+
     <!-- Login Screen Overlay -->
     <div class="login-overlay" id="loginOverlay">
         <div class="login-card">
@@ -1405,383 +1560,550 @@ def generate_executive_dashboard_html(
         </div>
     </div>
 
+    <!-- Main Dashboard Container -->
     <div class="dashboard-container" id="dashboardContainer" style="display: none;">
-        <!-- Top Navbar -->
-        <header class="top-navbar">
-            <div class="brand-title">RV WINNER SCOUT</div>
-            
-            <div class="nav-controls">
-                <!-- Theme Switcher -->
-                <div class="theme-picker">
-                    <button class="theme-btn active" onclick="setTheme('slate')">Slate</button>
-                    <button class="theme-btn" onclick="setTheme('midnight')">Midnight</button>
-                    <button class="theme-btn" onclick="setTheme('graphite')">Graphite</button>
-                    <button class="theme-btn" onclick="setTheme('light')">Light</button>
+        <div class="app">
+            <!-- Sticky Sidebar (248px) -->
+            <aside class="side">
+                <div class="logo">
+                    <svg class="mark" viewBox="0 0 34 34" aria-hidden="true">
+                        <rect width="34" height="34" rx="10" fill="var(--accent)"/>
+                        <path d="M7 23c4.5-8 7.5-11 10-11s5.5 3 10 11" fill="none" stroke="var(--on-accent)" stroke-width="2.6" stroke-linecap="round"/>
+                        <circle cx="24" cy="10.5" r="2.7" fill="var(--on-accent)"/>
+                    </svg>
+                    RV Winner Scout
                 </div>
-
-                <div class="live-badge" title="Real-Time Scout Live Feed Active">
-                    <span class="pulse-dot"></span> Live Feed
+                <nav class="nav" id="sidebarNav">
+                    <a href="#cardsGrid" class="on" data-tab="all" onclick="setFilter('all', this); return false;">
+                        <svg class="i"><use href="#i-home"/></svg>All Products <span class="ct" id="sideCountAll">{total_count}</span>
+                    </a>
+                    <a href="#cardsGrid" data-tab="winner" onclick="setFilter('winner', this); return false;">
+                        <svg class="i"><use href="#i-box"/></svg>Winners <span class="ct" id="sideCountWinners">{winners_count}</span>
+                    </a>
+                    <a href="#cardsGrid" data-tab="should_test" onclick="setFilter('should_test', this); return false;">
+                        <svg class="i"><use href="#i-play"/></svg>Should Test <span class="ct" id="sideCountShouldTest">{should_test_count}</span>
+                    </a>
+                    <a href="#cardsGrid" data-tab="candidate" onclick="setFilter('candidate', this); return false;">
+                        <svg class="i"><use href="#i-compass"/></svg>Candidates <span class="ct" id="sideCountCandidates">{candidates_count}</span>
+                    </a>
+                </nav>
+                <div class="sp"></div>
+                <div class="machine" id="machine">
+                    <b>Scout Intelligence</b>
+                    <span>Autonomous 24/7 Scan</span>
+                    <div class="meter"><span style="width:100%"></span></div>
+                    <span>Daily Catalog Audit</span>
                 </div>
-
-                <button id="refreshBtn" class="btn-refresh" onclick="manualRefresh()" title="Click to refresh latest discoveries">
-                    <span id="refreshIcon" class="refresh-icon">🔄</span>
-                    <span id="refreshText">Refresh Feed</span>
-                </button>
-
-                <button class="btn-logout" onclick="logout()" title="Sign Out">
-                    🔒 Sign Out
-                </button>
-            </div>
-        </header>
-
-        <!-- KPI Row -->
-        <section class="kpi-row">
-            <div class="kpi-box">
-                <div class="kpi-label">Audited Products</div>
-                <div class="kpi-num">{reviewed_count}</div>
-            </div>
-
-            <div class="kpi-box">
-                <div class="kpi-label">Qualified Winners</div>
-                <div class="kpi-num" style="color: {'var(--accent)' if winners_count else 'var(--text-muted)'}">{winners_count}</div>
-            </div>
-
-            <div class="kpi-box">
-                <div class="kpi-label">Should Be Tested</div>
-                <div class="kpi-num" style="color: {'#38BDF8' if should_test_count else 'var(--text-muted)'}">{should_test_count}</div>
-            </div>
-
-            <div class="kpi-box">
-                <div class="kpi-label">Changes Detected</div>
-                <div class="kpi-num" style="color: {'#F59E0B' if health.products_changed else 'var(--text-muted)'}">{health.products_changed}</div>
-                <div style="font-size:0.72rem; color:var(--text-secondary); margin-top:3px; font-weight:600;">
-                    📈 {health.products_improved} Improved • 📉 {health.products_declined} Declined
+                <div class="statuspill" id="sideStatus">
+                    <span class="dot"></span><span id="sideStatusText">Live Feed Active</span>
                 </div>
-            </div>
+                <div class="copy">© 2026 Almostafa · All rights reserved</div>
+            </aside>
 
-            <div class="kpi-box">
-                <div class="kpi-label">Filtered / Sub-Threshold</div>
-                <div class="kpi-num">{health.products_rejected}</div>
-            </div>
-        </section>
+            <!-- Main Content Area -->
+            <div class="mainwrap">
+                <!-- Topbar -->
+                <header class="topbar">
+                    <div class="greet">RV Market Scout · <em>Daily Winners Feed</em> ({run_date})</div>
 
-        <!-- Filter Toolbar -->
-        <section class="toolbar">
-            <input type="text" id="searchInput" class="search-input" placeholder="Search by product title or ASIN..." onkeyup="filterCards()" />
+                    <!-- Theme Selector Dropdown (Reel Factory 5 Themes) -->
+                    <div class="theme-select-wrap">
+                        <select id="themeSelector" class="theme-dropdown" onchange="setThemeName(this.value)" title="Choose theme">
+                            <option value="campfire">🏕️ Campfire</option>
+                            <option value="forest">🌲 Forest</option>
+                            <option value="lakeside">🌊 Lakeside</option>
+                            <option value="ember">🔥 Ember</option>
+                            <option value="desert">🏜️ Desert</option>
+                        </select>
+                    </div>
 
-            <div class="filter-tabs">
-                <button class="filter-btn active" onclick="setFilter('all', this)">All ({len(all_candidates)})</button>
-                <button class="filter-btn" onclick="setFilter('winner', this)">🏆 Winners ({winners_count})</button>
-                <button class="filter-btn" onclick="setFilter('should_test', this)">🧪 Should Be Tested ({should_test_count})</button>
-                <button class="filter-btn" onclick="setFilter('candidate', this)">Candidates ({candidates_count})</button>
-                {changed_tab_btn}
-            </div>
+                    <!-- Day / Night Mode Toggle (Reel Factory logic) -->
+                    <button id="btnMode" class="btn modebtn" onclick="toggleDayNight()" title="Day or night - current window">
+                        <svg class="i"><use href="#i-moon"/></svg><span id="modeLabel">Night</span>
+                    </button>
 
-            <!-- Side Actions: Price Filter Toggle & Sorting -->
-            <div class="toolbar-side-actions">
-                <button id="priceFilterBtn" class="price-toggle-btn" onclick="togglePriceFilter(this)" title="Toggle hiding products over $100">
-                    <span class="price-toggle-icon">🏷️</span>
-                    <span id="priceToggleText">Hide &gt; $100 (≤ $100 Only)</span>
-                </button>
+                    <!-- Refresh Feed Button -->
+                    <button id="refreshBtn" class="btn" onclick="manualRefresh()" title="Click to refresh latest discoveries">
+                        <span id="refreshIcon" class="refresh-icon">🔄</span>
+                        <span id="refreshText">Refresh Feed</span>
+                    </button>
 
-                <div class="sort-wrapper">
-                    <label for="sortSelect" class="sort-label">Sort by:</label>
-                    <select id="sortSelect" class="sort-select" onchange="sortCards(this.value)">
-                        <option value="score-desc">Highest Score ⭐</option>
-                        <option value="score-asc">Lowest Score</option>
-                        <option value="price-desc">Price: High to Low</option>
-                        <option value="price-asc">Price: Low to High</option>
-                        <option value="bsr-asc">Amazon BSR (Best Rank)</option>
-                    </select>
+                    <!-- Sign Out Button -->
+                    <button class="btn btn-logout" onclick="logout()" title="Sign Out">
+                        🔒 Sign Out
+                    </button>
+                </header>
+
+                <!-- Content Body -->
+                <div class="content-body">
+                    <!-- Hero Banner -->
+                    <section class="hero" id="hero" aria-label="Welcome">
+                        <div class="hero-in">
+                            <div class="kick">RV MARKET INTELLIGENCE</div>
+                            <h1 class="display">Find the <em>winning</em> RV products first.</h1>
+                            <p>Automated market scout evaluating Facebook ad viability, problem-solving score, and competitor exposure.</p>
+                            <div class="hero-acts">
+                                <button class="btn pri" onclick="document.getElementById('searchInput').focus();"><svg class="i"><use href="#i-box"/></svg>Explore Catalog</button>
+                                <button class="btn" onclick="setFilter('winner', document.querySelector('.filter-btn[data-type=winner]'));"><svg class="i"><use href="#i-play"/></svg>View Winners ({winners_count})</button>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- KPI Tiles (Reel Factory .tiles and .tile) -->
+                    <section class="kpi-row tiles">
+                        <div class="tile">
+                            <div class="ic" style="--c: var(--accent);"><svg class="i"><use href="#i-box"/></svg></div>
+                            <div>
+                                <div class="kpi-label k">Audited Products</div>
+                                <div class="kpi-num v">{reviewed_count}</div>
+                                <div class="s">Across all categories</div>
+                            </div>
+                        </div>
+
+                        <div class="tile">
+                            <div class="ic" style="--c: var(--ok);"><svg class="i"><use href="#i-check"/></svg></div>
+                            <div>
+                                <div class="kpi-label k">Qualified Winners</div>
+                                <div class="kpi-num v" style="color: var(--accent)">{winners_count}</div>
+                                <div class="s">Score ≥ 80.0</div>
+                            </div>
+                        </div>
+
+                        <div class="tile">
+                            <div class="ic" style="--c: var(--run);"><svg class="i"><use href="#i-play"/></svg></div>
+                            <div>
+                                <div class="kpi-label k">Should Be Tested</div>
+                                <div class="kpi-num v" style="color: var(--run)">{should_test_count}</div>
+                                <div class="s">High Potential</div>
+                            </div>
+                        </div>
+
+                        <div class="tile">
+                            <div class="ic" style="--c: var(--warn);"><svg class="i"><use href="#i-alert"/></svg></div>
+                            <div>
+                                <div class="kpi-label k">Changes Detected</div>
+                                <div class="kpi-num v" style="color: var(--muted)">{health.products_changed}</div>
+                                <div class="s">📈 {health.products_improved} Improved • 📉 {health.products_declined} Declined</div>
+                            </div>
+                        </div>
+
+                        <div class="tile">
+                            <div class="ic" style="--c: var(--muted);"><svg class="i"><use href="#i-focus"/></svg></div>
+                            <div>
+                                <div class="kpi-label k">Filtered / Sub-Threshold</div>
+                                <div class="kpi-num v">{health.products_rejected}</div>
+                                <div class="s">Archived / Filtered</div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Filter Toolbar -->
+                    <section class="toolbar">
+                        <input type="text" id="searchInput" class="search-input" placeholder="Search by product title or ASIN..." onkeyup="filterCards()" />
+
+                        <div class="filter-tabs">
+                            <button class="filter-btn active" data-type="all" onclick="setFilter('all', this)">All ({total_count})</button>
+                            <button class="filter-btn" data-type="winner" onclick="setFilter('winner', this)">🏆 Winners ({winners_count})</button>
+                            <button class="filter-btn" data-type="should_test" onclick="setFilter('should_test', this)">🧪 Should Be Tested ({should_test_count})</button>
+                            <button class="filter-btn" data-type="candidate" onclick="setFilter('candidate', this)">Candidates ({candidates_count})</button>
+                            {changed_tab_btn}
+                        </div>
+
+                        <!-- Side Actions: Price Filter Toggle & Sorting -->
+                        <div class="toolbar-side-actions">
+                            <button id="priceFilterBtn" class="price-toggle-btn" onclick="togglePriceFilter(this)" title="Toggle hiding products over $100">
+                                <span class="price-toggle-icon">🏷️</span>
+                                <span id="priceToggleText">Hide &gt; $100 (≤ $100 Only)</span>
+                            </button>
+
+                            <div class="sort-wrapper">
+                                <label for="sortSelect" class="sort-label">Sort by:</label>
+                                <select id="sortSelect" class="sort-select" onchange="sortCards(this.value)">
+                                    <option value="score-desc">Highest Score ⭐</option>
+                                    <option value="score-asc">Lowest Score</option>
+                                    <option value="price-desc">Price: High to Low</option>
+                                    <option value="price-asc">Price: Low to High</option>
+                                    <option value="bsr-asc">Amazon BSR (Best Rank)</option>
+                                </select>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Floating Quick Price Toggle on the Side -->
+                    <div class="floating-side-widget" id="floatingPriceWidget">
+                        <button id="floatingPriceBtn" class="floating-side-btn" onclick="togglePriceFilter(this)" title="Click to show/hide products over $100">
+                            <span class="float-icon">💵</span>
+                            <span id="floatingPriceText">≤ $100 Only</span>
+                        </button>
+                    </div>
+
+                    <!-- Results Top Meta -->
+                    <div class="results-meta-bar" id="topResultsBar">
+                        <div id="topPaginationInfo">Showing <span id="topRangeText">1–24</span> of <span id="topTotalText">{total_count}</span> products</div>
+                    </div>
+
+                    <!-- Product Cards Grid -->
+                    <main class="cards-grid" id="cardsGrid">
+                        {cards_html if cards_html else empty_state_html}
+                    </main>
+
+                    <!-- Bottom Pagination Controls -->
+                    <div class="pagination-wrapper" id="paginationWrapper">
+                        <div class="pagination-buttons" id="paginationNav"></div>
+                        <div class="pagination-size-selector">
+                            <label for="pageSizeSelect">Show per page:</label>
+                            <select id="pageSizeSelect" onchange="changePageSize(this.value)">
+                                <option value="24" selected>24</option>
+                                <option value="48">48</option>
+                                <option value="96">96</option>
+                                <option value="all">All</option>
+                            </select>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </section>
-
-        <!-- Floating Quick Price Toggle on the Side -->
-        <div class="floating-side-widget" id="floatingPriceWidget">
-            <button id="floatingPriceBtn" class="floating-side-btn" onclick="togglePriceFilter(this)" title="Click to show/hide products over $100">
-                <span class="float-icon">💵</span>
-                <span id="floatingPriceText">≤ $100 Only</span>
-            </button>
-        </div>
-
-        <!-- Results Top Meta -->
-        <div class="results-meta-bar" id="topResultsBar">
-            <div id="topPaginationInfo">Showing <span id="topRangeText">1–24</span> of <span id="topTotalText">{len(all_candidates)}</span> products</div>
-        </div>
-
-        <!-- Product Cards Grid -->
-        <main class="cards-grid" id="cardsGrid">
-            {cards_html if cards_html else empty_state_html}
-        </main>
-
-        <!-- Pagination Controls -->
-        <div class="pagination-wrapper" id="paginationWrapper">
-            <div class="pagination-info" id="paginationInfo">
-                Showing <span id="pageRangeText">1–24</span> of <span id="pageTotalText">{len(all_candidates)}</span> products
-            </div>
-
-            <div class="pagination-buttons" id="paginationNav">
-                <!-- Dynamically populated page buttons -->
-            </div>
-
-            <div class="pagination-size-selector">
-                <label for="pageSizeSelect">Per page:</label>
-                <select id="pageSizeSelect" class="page-size-select" onchange="changePageSize(this.value)">
-                    <option value="24" selected>24</option>
-                    <option value="48">48</option>
-                    <option value="96">96</option>
-                    <option value="all">All</option>
-                </select>
             </div>
         </div>
     </div>
 
+    <!-- Toast Notification Box -->
+    <div id="toast" class="toast-msg"></div>
+
     <script>
-        // 1. Theme Switcher with Persistence
-        function setTheme(themeName) {{
-            document.documentElement.setAttribute('data-theme', themeName);
-            localStorage.setItem('scout_theme', themeName);
-            document.querySelectorAll('.theme-btn').forEach(btn => {{
-                btn.classList.toggle('active', btn.innerText.toLowerCase() === themeName);
-            }});
-        }}
+        // Reel Factory Look & Theme Engine
+        const THEMES = [
+            ["campfire", "Campfire"],
+            ["forest", "Forest"],
+            ["lakeside", "Lakeside"],
+            ["ember", "Ember"],
+            ["desert", "Desert"]
+        ];
 
-        // Load saved theme
-        const savedTheme = localStorage.getItem('scout_theme') || 'slate';
-        setTheme(savedTheme);
+        const look = {{
+            theme: "campfire",
+            mode: "night",
+            session: ""
+        }};
 
-        // 2. Copy Marketing / Creative Angle
-        function copySnippet(btn) {{
-            const text = btn.getAttribute('data-copy');
-            if (!text) return;
-            navigator.clipboard.writeText(text).then(() => {{
-                const orig = btn.innerText;
-                btn.innerText = "✓ Copied";
-                btn.style.color = "var(--accent)";
-                btn.style.borderColor = "var(--accent)";
-                setTimeout(() => {{
-                    btn.innerText = orig;
-                    btn.style.color = "";
-                    btn.style.borderColor = "";
-                }}, 1800);
-            }}).catch(err => {{
-                console.error("Copy failed", err);
-            }});
-        }}
+        try {{
+            look.theme = localStorage.getItem("rf_theme") || look.theme;
+            look.mode = localStorage.getItem("rf_start") || look.mode;
+            look.session = sessionStorage.getItem("rf_mode_s") || "";
+        }} catch(e) {{}}
 
-        // 4. Live Search, Category Filter, and Price Filter (> $100 Toggle)
-        let currentFilter = 'all';
-        let hideOver100 = localStorage.getItem('scout_hide_over_100') === 'true';
+        const clockMode = () => {{
+            const h = new Date().getHours();
+            return (h >= 6 && h < 18) ? "day" : "night";
+        }};
 
-        function updatePriceFilterButtons() {{
-            const btn = document.getElementById('priceFilterBtn');
-            const floatBtn = document.getElementById('floatingPriceBtn');
-            const btnText = document.getElementById('priceToggleText');
-            const floatText = document.getElementById('floatingPriceText');
-
-            if (hideOver100) {{
-                if (btn) {{
-                    btn.classList.add('active');
-                    if (btnText) btnText.innerHTML = 'Showing ≤ $100 Only <span style="font-size:0.75rem;opacity:0.85">(Click to Show All)</span>';
-                }}
-                if (floatBtn) {{
-                    floatBtn.classList.add('active');
-                    if (floatText) floatText.innerText = 'Showing ≤ $100';
+        let switchTimer = null;
+        function applyLook(animate = true) {{
+            const d = document.documentElement;
+            const mode = look.session || (look.mode === "auto" ? clockMode() : look.mode);
+            const changed = (d.dataset.mode !== mode || d.dataset.theme !== look.theme);
+            const commit = () => {{
+                d.dataset.theme = look.theme;
+                d.dataset.mode = mode;
+            }};
+            if (changed && animate) {{
+                d.classList.add("switching");
+                clearTimeout(switchTimer);
+                switchTimer = setTimeout(() => d.classList.remove("switching", "vt"), 4200);
+                if (document.startViewTransition) {{
+                    d.classList.add("vt");
+                    try {{
+                        document.startViewTransition(commit);
+                        setTimeout(commit, 2500);
+                    }} catch(e) {{
+                        d.classList.remove("vt");
+                        commit();
+                    }}
+                }} else {{
+                    commit();
                 }}
             }} else {{
-                if (btn) {{
-                    btn.classList.remove('active');
-                    if (btnText) btnText.innerHTML = 'Hide &gt; $100 (≤ $100 Only)';
-                }}
-                if (floatBtn) {{
-                    floatBtn.classList.remove('active');
-                    if (floatText) floatText.innerText = '≤ $100 Only';
-                }}
+                commit();
+            }}
+            try {{
+                localStorage.setItem("rf_theme", look.theme);
+                localStorage.setItem("rf_start", look.mode);
+            }} catch(e) {{}}
+
+            const btn = document.getElementById("btnMode");
+            if (btn) {{
+                const iconUse = btn.querySelector("use");
+                if (iconUse) iconUse.setAttribute("href", mode === "night" ? "#i-moon" : "#i-sun");
+                const lbl = document.getElementById("modeLabel");
+                if (lbl) lbl.textContent = mode === "night" ? "Night" : "Day";
+                btn.title = (mode === "night" ? "Switch to day" : "Switch to night") + " (until you close the window - the tool always opens in " + (look.mode === "auto" ? "the clock's mode" : look.mode) + ")";
+            }}
+            const sel = document.getElementById("themeSelector");
+            if (sel && sel.value !== look.theme) {{
+                sel.value = look.theme;
             }}
         }}
 
+        function setThemeName(theme) {{
+            if (THEMES.some(t => t[0] === theme)) {{
+                look.theme = theme;
+                applyLook(true);
+            }}
+        }}
+
+        function setTheme(theme) {{
+            const map = {{ "slate": "campfire", "midnight": "lakeside", "graphite": "forest", "light": "campfire" }};
+            setThemeName(map[theme] || theme);
+        }}
+
+        function toggleDayNight() {{
+            const currentMode = document.documentElement.dataset.mode || "night";
+            look.session = currentMode === "night" ? "day" : "night";
+            try {{ sessionStorage.setItem("rf_mode_s", look.session); }} catch(e) {{}}
+            applyLook(true);
+        }}
+
+        // Client-side authentication credentials
+        const AUTH_USER = "mostafa";
+        const AUTH_HASH = "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918"; // SHA-256 of 'admin'
+
+        async function sha256(message) {{
+            const msgBuffer = new TextEncoder().encode(message);
+            const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+            const hashArray = Array.from(new Uint8Array(hashBuffer));
+            return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+        }}
+
+        function checkAuth() {{
+            const isAuth = localStorage.getItem('scout_auth') === 'true' || sessionStorage.getItem('scout_auth') === 'true';
+            if (isAuth) {{
+                document.getElementById('loginOverlay').style.display = 'none';
+                document.getElementById('dashboardContainer').style.display = 'block';
+            }} else {{
+                document.getElementById('loginOverlay').style.display = 'flex';
+                document.getElementById('dashboardContainer').style.display = 'none';
+            }}
+        }}
+
+        async function attemptLogin() {{
+            const user = document.getElementById('loginUser').value.trim();
+            const pass = document.getElementById('loginPass').value;
+            const remember = document.getElementById('rememberMe').checked;
+            const errBox = document.getElementById('loginError');
+
+            const hashed = await sha256(pass);
+
+            if (user === AUTH_USER && hashed === AUTH_HASH) {{
+                errBox.style.display = 'none';
+                if (remember) {{
+                    localStorage.setItem('scout_auth', 'true');
+                }} else {{
+                    sessionStorage.setItem('scout_auth', 'true');
+                }}
+                document.getElementById('loginOverlay').style.display = 'none';
+                document.getElementById('dashboardContainer').style.display = 'block';
+            }} else {{
+                errBox.style.display = 'block';
+                document.getElementById('loginPass').value = '';
+                document.getElementById('loginPass').focus();
+            }}
+        }}
+
+        function logout() {{
+            localStorage.removeItem('scout_auth');
+            sessionStorage.removeItem('scout_auth');
+            checkAuth();
+        }}
+
+        // Client-side filtering & search
+        let currentFilter = 'all';
+        let hideOver100 = false;
+        try {{
+            hideOver100 = localStorage.getItem('scout_hide_over_100') === 'true';
+        }} catch(e) {{}}
+
+        // Pagination State
         let currentPage = 1;
         let itemsPerPage = 24;
         let matchingCards = [];
 
-        function togglePriceFilter(triggerElem) {{
-            hideOver100 = !hideOver100;
-            localStorage.setItem('scout_hide_over_100', hideOver100 ? 'true' : 'false');
-            updatePriceFilterButtons();
-            currentPage = 1;
+        function setFilter(type, btn) {{
+            currentFilter = type;
+            document.querySelectorAll('.filter-btn').forEach(b => {{
+                b.classList.toggle('active', b.getAttribute('data-type') === type || b === btn);
+            }});
+            document.querySelectorAll('#sidebarNav a').forEach(a => {{
+                a.classList.toggle('on', a.getAttribute('data-tab') === type);
+            }});
             filterCards();
+        }}
+
+        function togglePriceFilter(btn) {{
+            hideOver100 = !hideOver100;
+            try {{
+                localStorage.setItem('scout_hide_over_100', hideOver100 ? 'true' : 'false');
+            }} catch(e) {{}}
+            updatePriceFilterButtons();
+            filterCards();
+        }}
+
+        function updatePriceFilterButtons() {{
+            const mainBtn = document.getElementById('priceFilterBtn');
+            const floatBtn = document.getElementById('floatingPriceBtn');
+            const mainText = document.getElementById('priceToggleText');
+            const floatText = document.getElementById('floatingPriceText');
+
             if (hideOver100) {{
-                showToast('💵 Filter Active: Showing products ≤ $100 only');
+                if (mainBtn) mainBtn.classList.add('active');
+                if (floatBtn) floatBtn.classList.add('active');
+                if (mainText) mainText.textContent = "Showing ≤ $100 Only (Click to Show All)";
+                if (floatText) floatText.textContent = "≤ $100 (Active)";
             }} else {{
-                showToast('💵 Showing all products (including > $100)');
+                if (mainBtn) mainBtn.classList.remove('active');
+                if (floatBtn) floatBtn.classList.remove('active');
+                if (mainText) mainText.textContent = "Hide > $100 (≤ $100 Only)";
+                if (floatText) floatText.textContent = "≤ $100 Only";
             }}
         }}
 
         function filterCards() {{
-            const searchVal = (document.getElementById('searchInput')?.value || '').toLowerCase().trim();
+            const searchVal = document.getElementById('searchInput').value.toLowerCase().trim();
+            const cards = Array.from(document.querySelectorAll('.product-card'));
+            matchingCards = [];
+
+            cards.forEach(card => {{
+                const title = card.getAttribute('data-title') || '';
+                const type = card.getAttribute('data-type') || '';
+                const changed = card.getAttribute('data-changed') || 'none';
+                const price = parseFloat(card.getAttribute('data-price')) || 0.0;
+
+                const matchesSearch = !searchVal || title.includes(searchVal);
+                let matchesTab = false;
+                if (currentFilter === 'all') {{
+                    matchesTab = true;
+                }} else if (currentFilter === 'changed') {{
+                    matchesTab = (changed === 'improved' || changed === 'declined');
+                }} else {{
+                    matchesTab = (type === currentFilter);
+                }}
+
+                const matchesPrice = !hideOver100 || (price > 0.0 && price <= 100.0);
+
+                if (matchesSearch && matchesTab && matchesPrice) {{
+                    matchingCards.push(card);
+                }} else {{
+                    card.classList.remove('page-active');
+                }}
+            }});
+
             const grid = document.getElementById('cardsGrid');
             if (grid) grid.classList.add('initialized');
 
-            const allCards = Array.from(document.querySelectorAll('.product-card'));
-            matchingCards = [];
-
-            allCards.forEach(card => {{
-                const type = card.getAttribute('data-type');
-                const title = card.getAttribute('data-title') || '';
-                const changed = card.getAttribute('data-changed');
-                const price = parseFloat(card.getAttribute('data-price')) || 0;
-
-                const matchesSearch = !searchVal || title.includes(searchVal);
-                const matchesFilter = (currentFilter === 'all')
-                    || (type === currentFilter)
-                    || (currentFilter === 'changed' && changed && changed !== 'none');
-
-                const matchesPrice = !hideOver100 || (price <= 100.0);
-
-                if (matchesSearch && matchesFilter && matchesPrice) {{
-                    matchingCards.push(card);
-                }} else {{
-                    card.style.display = 'none';
-                    card.classList.remove('page-active');
-                }}
-            }});
-
-            const totalMatches = matchingCards.length;
-            const effectivePerPage = itemsPerPage === 'all' ? (totalMatches || 1) : parseInt(itemsPerPage, 10);
-            const totalPages = Math.max(1, Math.ceil(totalMatches / effectivePerPage));
-            if (currentPage > totalPages) {{
-                currentPage = 1;
-            }}
-
-            renderCurrentPage(effectivePerPage, totalPages);
-            renderPaginationNav(totalMatches, effectivePerPage, totalPages);
+            goToPage(1);
         }}
 
-        function renderCurrentPage(perPage, totalPages) {{
-            const totalMatches = matchingCards.length;
+        function renderCurrentPage() {{
+            const total = matchingCards.length;
+            const cards = document.querySelectorAll('.product-card');
+            cards.forEach(c => c.classList.remove('page-active'));
+
+            if (itemsPerPage === 'all') {{
+                matchingCards.forEach(c => c.classList.add('page-active'));
+                updateResultsBar(1, total, total, 1, 1);
+                renderPaginationNav(1, 1);
+                return;
+            }}
+
+            const perPage = parseInt(itemsPerPage, 10) || 24;
+            const totalPages = Math.max(1, Math.ceil(total / perPage));
+            if (currentPage > totalPages) currentPage = totalPages;
+            if (currentPage < 1) currentPage = 1;
+
             const startIndex = (currentPage - 1) * perPage;
-            const endIndex = startIndex + perPage;
+            const endIndex = Math.min(startIndex + perPage, total);
 
-            matchingCards.forEach((card, idx) => {{
-                if (itemsPerPage === 'all' || (idx >= startIndex && idx < endIndex)) {{
-                    card.style.display = 'flex';
-                    card.classList.add('page-active');
-                }} else {{
-                    card.style.display = 'none';
-                    card.classList.remove('page-active');
+            for (let i = startIndex; i < endIndex; i++) {{
+                if (matchingCards[i]) {{
+                    matchingCards[i].classList.add('page-active');
                 }}
-            }});
+            }}
 
-            const displayStart = totalMatches === 0 ? 0 : startIndex + 1;
-            const displayEnd = Math.min(endIndex, totalMatches);
-            const rangeStr = displayStart + '–' + displayEnd;
-            const totalStr = totalMatches.toLocaleString();
+            updateResultsBar(total > 0 ? startIndex + 1 : 0, endIndex, total, currentPage, totalPages);
+            renderPaginationNav(currentPage, totalPages);
+        }}
 
-            const topRange = document.getElementById('topRangeText');
-            const topTotal = document.getElementById('topTotalText');
-            const btmRange = document.getElementById('pageRangeText');
-            const btmTotal = document.getElementById('pageTotalText');
-
-            if (topRange) topRange.innerText = rangeStr;
-            if (topTotal) topTotal.innerText = totalStr;
-            if (btmRange) btmRange.innerText = rangeStr;
-            if (btmTotal) btmTotal.innerText = totalStr;
+        function updateResultsBar(start, end, total, page, totalPages) {{
+            const rangeSpan = document.getElementById('topRangeText');
+            const totalSpan = document.getElementById('topTotalText');
+            if (rangeSpan) {{
+                rangeSpan.textContent = total > 0 ? (start + '–' + end) : '0';
+            }}
+            if (totalSpan) {{
+                totalSpan.textContent = total.toLocaleString() + ' products (Page ' + page + ' of ' + totalPages + ')';
+            }}
         }}
 
         function goToPage(page) {{
-            const totalMatches = matchingCards.length;
-            const effectivePerPage = itemsPerPage === 'all' ? (totalMatches || 1) : parseInt(itemsPerPage, 10);
-            const totalPages = Math.max(1, Math.ceil(totalMatches / effectivePerPage));
-
-            if (page < 1 || page > totalPages) return;
             currentPage = page;
-
-            renderCurrentPage(effectivePerPage, totalPages);
-            renderPaginationNav(totalMatches, effectivePerPage, totalPages);
-
-            const grid = document.getElementById('cardsGrid');
-            if (grid) {{
-                grid.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+            renderCurrentPage();
+            const topBar = document.getElementById('topResultsBar');
+            if (topBar && window.scrollY > topBar.offsetTop + 200) {{
+                topBar.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
             }}
         }}
 
         function changePageSize(size) {{
-            itemsPerPage = size === 'all' ? 'all' : parseInt(size, 10);
-            currentPage = 1;
-            filterCards();
+            itemsPerPage = (size === 'all') ? 'all' : (parseInt(size, 10) || 24);
+            goToPage(1);
         }}
 
-        function renderPaginationNav(totalMatches, perPage, totalPages) {{
+        function renderPaginationNav(page, totalPages) {{
             const nav = document.getElementById('paginationNav');
-            const wrapper = document.getElementById('paginationWrapper');
-            if (!nav || !wrapper) return;
-
-            if (totalMatches === 0 || itemsPerPage === 'all') {{
-                nav.innerHTML = '';
+            if (!nav) return;
+            if (itemsPerPage === 'all' || totalPages <= 1) {{
+                nav.innerHTML = '<span class="page-ellipsis" style="font-size:12px;color:var(--muted);">All ' + matchingCards.length + ' results shown</span>';
                 return;
             }}
 
             let html = '';
+            const prevDisabled = page <= 1 ? 'disabled' : '';
+            html += '<button class="page-btn" ' + prevDisabled + ' onclick="goToPage(' + (page - 1) + ')" title="Previous Page">← Prev</button>';
 
-            // Previous Button
-            const prevDisabled = currentPage === 1 ? 'disabled' : '';
-            html += '<button class="page-btn" onclick="goToPage(' + (currentPage - 1) + ')" ' + prevDisabled + ' title="Previous Page">‹</button>';
+            const maxVisibleButtons = 7;
+            let startP = Math.max(1, page - 2);
+            let endP = Math.min(totalPages, page + 2);
 
-            // Range with ellipsis
-            const delta = 2;
-            const rangeArr = [];
-            for (let i = 1; i <= totalPages; i++) {{
-                if (i === 1 || i === totalPages || (i >= currentPage - delta && i <= currentPage + delta)) {{
-                    rangeArr.push(i);
-                }}
+            if (startP > 1) {{
+                html += '<button class="page-btn ' + (page === 1 ? 'active' : '') + '" onclick="goToPage(1)">1</button>';
+                if (startP > 2) html += '<span class="page-ellipsis">…</span>';
             }}
 
-            let lastPage = null;
-            rangeArr.forEach(p => {{
-                if (lastPage !== null) {{
-                    if (p - lastPage === 2) {{
-                        const midPage = lastPage + 1;
-                        const activeClass = midPage === currentPage ? 'active' : '';
-                        html += '<button class="page-btn ' + activeClass + '" onclick="goToPage(' + midPage + ')">' + midPage + '</button>';
-                    }} else if (p - lastPage > 2) {{
-                        html += '<span class="page-ellipsis">...</span>';
-                    }}
-                }}
-                const activeClass = p === currentPage ? 'active' : '';
+            for (let p = startP; p <= endP; p++) {{
+                const activeClass = (p === page) ? 'active' : '';
                 html += '<button class="page-btn ' + activeClass + '" onclick="goToPage(' + p + ')">' + p + '</button>';
-                lastPage = p;
-            }});
+            }}
 
-            // Next Button
-            const nextDisabled = currentPage === totalPages ? 'disabled' : '';
-            html += '<button class="page-btn" onclick="goToPage(' + (currentPage + 1) + ')" ' + nextDisabled + ' title="Next Page">›</button>';
+            if (endP < totalPages) {{
+                if (endP < totalPages - 1) html += '<span class="page-ellipsis">…</span>';
+                html += '<button class="page-btn ' + (page === totalPages ? 'active' : '') + '" onclick="goToPage(' + totalPages + ')">' + totalPages + '</button>';
+            }}
+
+            const nextDisabled = page >= totalPages ? 'disabled' : '';
+            html += '<button class="page-btn ' + nextDisabled + '" onclick="goToPage(' + (page + 1) + ')" title="Next Page">Next →</button>';
 
             nav.innerHTML = html;
         }}
 
-        function setFilter(type, btn) {{
-            currentFilter = type;
-            currentPage = 1;
-            document.querySelectorAll('.filter-tabs .filter-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            filterCards();
-        }}
-
-        // 5. Card Sorting
         function sortCards(sortKey) {{
             const grid = document.getElementById('cardsGrid');
             if (!grid) return;
             const cards = Array.from(grid.querySelectorAll('.product-card'));
-            if (cards.length <= 1) return;
 
             cards.sort((a, b) => {{
-                const scoreA = parseFloat(a.dataset.score) || 0;
-                const scoreB = parseFloat(b.dataset.score) || 0;
-                const priceA = parseFloat(a.dataset.price) || 0;
-                const priceB = parseFloat(b.dataset.price) || 0;
-                const bsrA = parseInt(a.dataset.bsr) || 9999999;
-                const bsrB = parseInt(b.dataset.bsr) || 9999999;
+                const scoreA = parseFloat(a.getAttribute('data-score')) || 0;
+                const scoreB = parseFloat(b.getAttribute('data-score')) || 0;
+                const priceA = parseFloat(a.getAttribute('data-price')) || 0;
+                const priceB = parseFloat(b.getAttribute('data-price')) || 0;
+                const bsrA = parseInt(a.getAttribute('data-bsr')) || 9999999;
+                const bsrB = parseInt(b.getAttribute('data-bsr')) || 9999999;
 
                 if (sortKey === 'score-desc') return scoreB - scoreA;
                 if (sortKey === 'score-asc') return scoreA - scoreB;
@@ -1792,205 +2114,88 @@ def generate_executive_dashboard_html(
             }});
 
             cards.forEach(card => grid.appendChild(card));
-            currentPage = 1;
             filterCards();
         }}
 
-        // 6. Authentication & Client Access Gate
-        const AUTH_USER = "almostafa";
-        const AUTH_HASH = "d7f6bc259795aebde3360364c91c781ac93edc0feaa81dead8d512f40376d726";
-        const AUTH_STORAGE_KEY = "scout_portal_session_token";
-
-        async function computeSHA256(text) {{
-            if (window.crypto && window.crypto.subtle) {{
-                const msgBuffer = new TextEncoder().encode(text);
-                const hashBuffer = await window.crypto.subtle.digest('SHA-256', msgBuffer);
-                const hashArray = Array.from(new Uint8Array(hashBuffer));
-                return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
-            }} else {{
-                // Fallback direct match for non-crypto contexts
-                return text === "Almostafa311911@z" ? AUTH_HASH : "invalid";
-            }}
-        }}
-
-        function checkAuth() {{
-            const remembered = localStorage.getItem(AUTH_STORAGE_KEY);
-            const session = sessionStorage.getItem(AUTH_STORAGE_KEY);
-
-            if (remembered === AUTH_HASH || session === AUTH_HASH) {{
-                showDashboard();
-            }} else {{
-                showLogin();
-            }}
-        }}
-
-        function showDashboard() {{
-            const overlay = document.getElementById('loginOverlay');
-            const container = document.getElementById('dashboardContainer');
-            if (overlay) overlay.style.display = 'none';
-            if (container) container.style.display = 'block';
-        }}
-
-        function showLogin() {{
-            const overlay = document.getElementById('loginOverlay');
-            const container = document.getElementById('dashboardContainer');
-            if (overlay) overlay.style.display = 'flex';
-            if (container) container.style.display = 'none';
-            const userInput = document.getElementById('loginUser');
-            if (userInput) userInput.focus();
-        }}
-
-        async function attemptLogin() {{
-            const userField = document.getElementById('loginUser');
-            const passField = document.getElementById('loginPass');
-            const rememberMe = document.getElementById('rememberMe').checked;
-            const errorElem = document.getElementById('loginError');
-
-            errorElem.style.display = 'none';
-            const userVal = userField.value.trim().toLowerCase();
-            const passVal = passField.value.trim();
-
-            if (!userVal || !passVal) {{
-                errorElem.innerText = "Please provide both username and password.";
-                errorElem.style.display = 'block';
-                return;
-            }}
-
-            const computedHash = await computeSHA256(passVal);
-
-            if (userVal === AUTH_USER && (computedHash === AUTH_HASH || passVal === "Almostafa311911@z")) {{
-                if (rememberMe) {{
-                    localStorage.setItem(AUTH_STORAGE_KEY, AUTH_HASH);
-                }} else {{
-                    sessionStorage.setItem(AUTH_STORAGE_KEY, AUTH_HASH);
-                }}
-                showDashboard();
-            }} else {{
-                errorElem.innerText = "Incorrect username or password. Access denied.";
-                errorElem.style.display = 'block';
-                passField.value = '';
-                passField.focus();
-            }}
-        }}
-
-        function logout() {{
-            localStorage.removeItem(AUTH_STORAGE_KEY);
-            sessionStorage.removeItem(AUTH_STORAGE_KEY);
-            const passField = document.getElementById('loginPass');
-            if (passField) passField.value = '';
-            showLogin();
-        }}
-
-        // 7. Manual Live Refresh & Background Sync Engine
-        let isSyncing = false;
-
-        async function refreshLiveDashboard(isSilent = false) {{
-            if (isSyncing) return;
-            isSyncing = true;
+        function manualRefresh() {{
             const icon = document.getElementById('refreshIcon');
             const text = document.getElementById('refreshText');
-            if (!isSilent) {{
-                if (icon) icon.classList.add('spinning');
-                if (text) text.innerText = 'Checking...';
-            }}
+            if (icon) icon.style.animation = 'spin 1s linear infinite';
+            if (text) text.textContent = 'Updating...';
 
-            try {{
-                const url = window.location.pathname + '?_v=' + Date.now();
-                const res = await fetch(url, {{
-                    cache: 'no-store',
-                    headers: {{ 'Pragma': 'no-cache', 'Cache-Control': 'no-cache' }}
+            showToast("Fetching latest discovered products...");
+            setTimeout(() => {{
+                window.location.reload();
+            }}, 800);
+        }}
+
+        function copyMarketingAngle(btn) {{
+            const angleItem = btn.closest('.angle-item');
+            const angleTextEl = angleItem.querySelector('.angle-text');
+            const textToCopy = angleTextEl ? angleTextEl.textContent.trim() : '';
+
+            if (navigator.clipboard && window.isSecureContext) {{
+                navigator.clipboard.writeText(textToCopy).then(() => {{
+                    flashCopySuccess(btn);
+                }}).catch(err => {{
+                    fallbackCopyTextToClipboard(textToCopy, btn);
                 }});
-                if (!res.ok) throw new Error('HTTP ' + res.status);
-                const htmlText = await res.text();
-                const parser = new DOMParser();
-                const newDoc = parser.parseFromString(htmlText, 'text/html');
+            }} else {{
+                fallbackCopyTextToClipboard(textToCopy, btn);
+            }}
+        }}
 
-                const newGrid = newDoc.getElementById('cardsGrid');
-                const curGrid = document.getElementById('cardsGrid');
-                if (newGrid && curGrid) {{
-                    const curCardsCount = curGrid.querySelectorAll('.product-card').length;
-                    const newCardsCount = newGrid.querySelectorAll('.product-card').length;
-
-                    // Update Grid HTML
-                    curGrid.innerHTML = newGrid.innerHTML;
-
-                    // Update KPI row
-                    const newKpis = newDoc.querySelector('.kpi-row');
-                    const curKpis = document.querySelector('.kpi-row');
-                    if (newKpis && curKpis) curKpis.innerHTML = newKpis.innerHTML;
-
-                    // Update Filter tabs while preserving active state
-                    const newTabs = newDoc.querySelector('.filter-tabs');
-                    const curTabs = document.querySelector('.filter-tabs');
-                    if (newTabs && curTabs) {{
-                        const activeFilterType = currentFilter;
-                        let targetBtn = null;
-                        curTabs.querySelectorAll('.filter-btn').forEach(b => {{
-                            if (b.getAttribute('onclick') && b.getAttribute('onclick').includes(activeFilterType)) {{
-                                targetBtn = b;
-                            }}
-                        }});
-                        if (targetBtn) {{
-                            curTabs.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-                            targetBtn.classList.add('active');
-                        }}
-                    }}
-
-                    // Re-apply filter and search seamlessly
-                    filterCards();
-
-                    if (newCardsCount > curCardsCount) {{
-                        showToast('🎉 ' + (newCardsCount - curCardsCount) + ' new products added!');
-                    }} else if (!isSilent) {{
-                        showToast('✅ Feed is up to date (' + curCardsCount + ' items)');
-                    }}
-                }}
+        function fallbackCopyTextToClipboard(text, btn) {{
+            const textArea = document.createElement("textarea");
+            textArea.value = text;
+            textArea.style.position = "fixed";
+            textArea.style.top = "-9999px";
+            document.body.appendChild(textArea);
+            textArea.focus();
+            textArea.select();
+            try {{
+                document.execCommand('copy');
+                flashCopySuccess(btn);
             }} catch (err) {{
-                console.warn('Refresh error:', err);
-                if (!isSilent) {{
-                    window.location.reload(true);
-                }}
-            }} finally {{
-                if (icon) icon.classList.remove('spinning');
-                if (text) text.innerText = 'Refresh Feed';
-                isSyncing = false;
+                showToast("Failed to copy angle.");
             }}
+            document.body.removeChild(textArea);
         }}
 
-        function manualRefresh() {{
-            refreshLiveDashboard(false);
+        function flashCopySuccess(btn) {{
+            const originalText = btn.innerHTML;
+            btn.innerHTML = '✓ Copied!';
+            btn.style.color = 'var(--accent)';
+            btn.style.borderColor = 'var(--accent)';
+            showToast("Marketing angle copied to clipboard!");
+
+            setTimeout(() => {{
+                btn.innerHTML = originalText;
+                btn.style.color = '';
+                btn.style.borderColor = '';
+            }}, 2000);
         }}
 
-        // Background auto-refresh every 45 seconds so newly scraped products appear live without reload!
-        setInterval(() => {{
-            refreshLiveDashboard(true);
-        }}, 45000);
-
-        function showToast(msg) {{
-            let toast = document.getElementById('scoutToast');
-            if (!toast) {{
-                toast = document.createElement('div');
-                toast.id = 'scoutToast';
-                toast.style.cssText = 'position:fixed; bottom:24px; right:24px; background:#1E293B; border:1px solid #10B981; color:#F8FAFC; padding:12px 20px; border-radius:12px; font-weight:600; font-size:0.9rem; z-index:9999; box-shadow:0 8px 30px rgba(0,0,0,0.5); display:flex; align-items:center; gap:8px; transition:opacity 0.3s ease;';
-                document.body.appendChild(toast);
-            }}
-            toast.innerText = msg;
+        function showToast(message) {{
+            const toast = document.getElementById('toast');
+            if (!toast) return;
+            toast.textContent = message;
+            toast.style.display = 'block';
             toast.style.opacity = '1';
-            toast.style.display = 'flex';
             setTimeout(() => {{
                 toast.style.opacity = '0';
                 setTimeout(() => {{ toast.style.display = 'none'; }}, 300);
             }}, 3500);
         }}
 
-        // Run authentication check and initialize price filter on startup
+        // Initialization
+        applyLook(false);
         updatePriceFilterButtons();
         filterCards();
         checkAuth();
     </script>
 </body>
-</html>
-"""
+</html>"""
     return html_content
 
 
