@@ -2780,20 +2780,21 @@ def merge_html_with_existing(new_html: str, existing_html: str) -> str:
 
     # Update KPIs
     merged_html = re.sub(
-        r'(<div class="kpi-label">Audited Products</div>\s*<div class="kpi-num"[^>]*>)[^<]+(</div>)',
+        r'(<div class="kpi-label[^"]*">\s*Audited Products\s*</div>\s*<div class="kpi-num[^"]*"[^>]*>)[^<]+(</div>)',
         rf'\g<1>{len(sorted_cards)}\g<2>',
         merged_html
     )
     merged_html = re.sub(
-        r'(<div class="kpi-label">Qualified Winners</div>\s*<div class="kpi-num"[^>]*>)[^<]+(</div>)',
+        r'(<div class="kpi-label[^"]*">\s*Qualified Winners\s*</div>\s*<div class="kpi-num[^"]*"[^>]*>)[^<]+(</div>)',
         rf'\g<1>{winners_count}\g<2>',
         merged_html
     )
     merged_html = re.sub(
-        r'(<div class="kpi-label">Should Be Tested</div>\s*<div class="kpi-num"[^>]*>)[^<]+(</div>)',
+        r'(<div class="kpi-label[^"]*">\s*Should Be Tested\s*</div>\s*<div class="kpi-num[^"]*"[^>]*>)[^<]+(</div>)',
         rf'\g<1>{should_test_count}\g<2>',
         merged_html
     )
+    merged_html = re.sub(r'View Winners \(\d+\)', f'View Winners ({winners_count})', merged_html)
     # Update Filter Tabs
     merged_html = re.sub(r'All \(\d+\)', f'All ({len(sorted_cards)})', merged_html)
     merged_html = re.sub(r'Winners \(\d+\)', f'Winners ({winners_count})', merged_html)
