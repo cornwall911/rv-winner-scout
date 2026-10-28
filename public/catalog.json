@@ -836,6 +836,17 @@
     "walmart_url": "https://www.walmart.com/search?q=Banrterd+65%2C000+BTU+RV+Tankless+Water+Heater%2C+12V+DC%2C+18x15+"
   },
   {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "winner",
+    "score": 83.75,
+    "price": 869.0,
+    "bsr": 11507,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
+    "walmart_url": "https://www.walmart.com/search?q=Jackery+Solar+Generator+1000+Plus+v2+200W+Solar+Panel"
+  },
+  {
     "asin": "B0HKJ6P3WR",
     "title": "2027 New Wall Ac Unit, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating, Wall Mount Air Conditioner with Remote, Quiet Op",
     "type": "winner",
@@ -2814,17 +2825,6 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81tW2NQEtzL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GTXH7CRK",
     "walmart_url": "https://www.walmart.com/search?q=Portable+Camping+Shower+Pump+with+Night+Light+Mode+%7C+8000mAh"
-  },
-  {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "should_test",
-    "score": 76.5,
-    "price": 869.0,
-    "bsr": 9999999,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
-    "walmart_url": "https://www.walmart.com/search?q=Jackery+Solar+Generator+1000+Plus+v2+200W+Solar+Panel"
   },
   {
     "asin": "B0GY8TP5GZ",
@@ -25861,17 +25861,6 @@
     "walmart_url": "https://www.walmart.com/search?q=MorningRo+6+Pcs+Rv+Door+Strike+Plate+Replacement+for+Baggage"
   },
   {
-    "asin": "B0H4Q6DGW4",
-    "title": "2&quot; Trailer Hitch Cover [Reinforced Rubber Strap] Heavy Duty Rustproof Flat",
-    "type": "candidate",
-    "score": 25.9,
-    "price": 5.79,
-    "bsr": 9469,
-    "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
-    "walmart_url": "https://www.walmart.com/search?q=2%22+Trailer+Hitch+Cover+%5BReinforced+Rubber+Strap%5D+Heavy+Duty+"
-  },
-  {
     "asin": "B0HJM2S16X",
     "title": "2PCS Caravan Waste Water Outlet Plug, 28mm Vent Bung Cap with Anti-Lost | 28mm rubber bung cap for RV wastewater outlet, buil",
     "type": "candidate",
@@ -25914,6 +25903,17 @@
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AjquxSxdL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ74X74H",
     "walmart_url": "https://www.walmart.com/search?q=Dump+Trailer+Tarp+Kit+with+Tarp%2C+Rear+Anti-Sail+Bow+Set%2C+Alu"
+  },
+  {
+    "asin": "B0H4Q6DGW4",
+    "title": "2&quot; Trailer Hitch Cover [Reinforced Rubber Strap] Heavy Duty Rustproof Flat",
+    "type": "candidate",
+    "score": 25.6,
+    "price": 5.79,
+    "bsr": 9591,
+    "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
+    "walmart_url": "https://www.walmart.com/search?q=2%22+Trailer+Hitch+Cover+%5BReinforced+Rubber+Strap%5D+Heavy+Duty+"
   },
   {
     "asin": "B0H21345WG",
