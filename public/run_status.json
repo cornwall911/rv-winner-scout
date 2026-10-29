@@ -1,0 +1,20 @@
+{
+  "started_at": "2026-10-29T05:20:00Z",
+  "finished_at": "2026-10-29T05:20:18Z",
+  "amazon": {
+    "ok": true,
+    "products_seen": 2425,
+    "error": null
+  },
+  "walmart": {
+    "ok": false,
+    "blocked": true,
+    "searched": 8,
+    "matched_high": 0,
+    "no_match": 8,
+    "error": "Walmart anti-bot barrier (PerimeterX / 403)"
+  },
+  "errors": [
+    "Blocked by Walmart anti-bot barrier (PerimeterX)"
+  ]
+}

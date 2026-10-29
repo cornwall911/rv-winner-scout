@@ -43,6 +43,7 @@ data/*
 *.sqlite3
 .run.lock
 logs/
+scratch/
 
 # Testing & Coverage
 .pytest_cache/

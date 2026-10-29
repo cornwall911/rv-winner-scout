@@ -4,7 +4,7 @@ import logging
 import time
 import uuid
 from datetime import datetime, timezone
-from typing import Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 
 from rv_winner_scout.adapters.ai.factory import AIFactory
 from rv_winner_scout.adapters.amazon.category_crawler import AmazonCategoryCrawler, canonicalize_amazon_url
@@ -36,6 +36,14 @@ from rv_winner_scout.domain.models import (
     VerifiedAmazonProduct,
 )
 from rv_winner_scout.domain.scoring import compute_heuristic_scores
+from rv_winner_scout.domain.walmart_matcher import clean_walmart_url, extract_walmart_item_id
+from rv_winner_scout.reporting.match_reporter import (
+    get_public_dir,
+    load_walmart_matches,
+    merge_walmart_matches,
+    save_run_status,
+    save_walmart_matches,
+)
 from rv_winner_scout.reporting.dashboard_generator import save_dashboard
 from rv_winner_scout.reporting.formatter import format_full_report
 from rv_winner_scout.services.backup_service import BackupService
@@ -150,7 +158,7 @@ class PipelineOrchestrator:
                 subprocess.run(["git", "config", "user.name", "github-actions[bot]"], capture_output=True, timeout=10)
                 subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], capture_output=True, timeout=10)
 
-            subprocess.run(["git", "add", "public/index.html", "index.html", "public/catalog.json"], capture_output=True, timeout=10)
+            subprocess.run(["git", "add", "public/index.html", "index.html", "public/catalog.json", "public/walmart_matches.json", "public/run_status.json"], capture_output=True, timeout=10)
             subprocess.run(["git", "commit", "-m", f"Auto-update live dashboard: {reason}"], capture_output=True, timeout=10)
 
             subprocess.run(["git", "pull", "--rebase", "origin", "main"], capture_output=True, timeout=25)
@@ -161,6 +169,60 @@ class PipelineOrchestrator:
                 logger.warning("Git push returned code %d: %s", push_res.returncode, push_res.stderr)
         except Exception as exc:
             logger.debug("Git auto-push skipped or failed: %s", exc)
+
+    async def _save_run_telemetry(
+        self,
+        started_at: str,
+        amazon_ok: bool,
+        amazon_seen: int,
+        amazon_error: Optional[str],
+        walmart_ok: bool,
+        walmart_blocked: bool,
+        walmart_searched: int,
+        walmart_matched_high: int,
+        walmart_no_match: int,
+        walmart_error: Optional[str],
+        errors: List[str],
+        new_matches: List[Dict[str, Any]],
+    ) -> None:
+        """Persists run_status.json and verified walmart_matches.json adhering to Contracts A & B."""
+        finished_at = datetime.now(timezone.utc).isoformat()
+        try:
+            if not walmart_blocked and new_matches:
+                existing = load_walmart_matches()
+                merged = merge_walmart_matches(existing, new_matches)
+                save_walmart_matches(merged)
+            elif not (get_public_dir() / "walmart_matches.json").exists():
+                save_walmart_matches([])
+
+            save_run_status(
+                started_at=started_at,
+                finished_at=finished_at,
+                amazon_ok=amazon_ok,
+                amazon_seen=amazon_seen,
+                amazon_error=amazon_error,
+                walmart_ok=walmart_ok,
+                walmart_blocked=walmart_blocked,
+                walmart_searched=walmart_searched,
+                walmart_matched_high=walmart_matched_high,
+                walmart_no_match=walmart_no_match,
+                walmart_error=walmart_error,
+                errors=errors,
+            )
+        except Exception as e:
+            logger.error("Failed to save run telemetry / matches: %s", e)
+
+        if (walmart_blocked or not amazon_ok) and self.telegram_notifier.is_configured:
+            msg = (
+                f"🚨 <b>Scout Anti-Bot Block Alert</b>\n"
+                f"• Amazon Status: {'OK' if amazon_ok else 'BLOCKED'}\n"
+                f"• Walmart Status: {'BLOCKED' if walmart_blocked else 'OK'}\n"
+                f"• Reason: {walmart_error or amazon_error or 'Unknown block'}"
+            )
+            try:
+                await self.telegram_notifier.send_message(msg)
+            except Exception as t_err:
+                logger.debug("Failed to send block alert: %s", t_err)
 
     def _sync_live_dashboard(
         self,
@@ -242,6 +304,19 @@ class PipelineOrchestrator:
 
         logger.info("Starting RV Winner Scout run %s in [%s] mode (max: %d)", run_id, run_mode_val, max_products)
 
+        started_at = datetime.now(timezone.utc).isoformat()
+        amazon_seen = 0
+        amazon_ok = True
+        amazon_error: Optional[str] = None
+        walmart_searched = 0
+        walmart_matched_high = 0
+        walmart_no_match = 0
+        walmart_blocked = False
+        walmart_error: Optional[str] = None
+        walmart_ok = True
+        run_errors: List[str] = []
+        new_walmart_matches: List[Dict[str, Any]] = []
+
         with RunLock(settings=self.settings):
             try:
                 # Send run start notification with real-time progress tracking
@@ -264,10 +339,26 @@ class PipelineOrchestrator:
                 except AntiBotBlockedException as exc:
                     health.record_failed_source(exc.source_url, exc.failure_detail)
                     health.set_fatal_failure(f"Amazon Discovery Blocked: {exc.failure_detail}")
+                    amazon_ok = False
+                    amazon_error = exc.failure_detail
+                    run_errors.append(f"Amazon Discovery Blocked: {exc.failure_detail}")
+                    await self._save_run_telemetry(
+                        started_at, amazon_ok, amazon_seen, amazon_error,
+                        walmart_ok, walmart_blocked, walmart_searched, walmart_matched_high,
+                        walmart_no_match, walmart_error, run_errors, new_walmart_matches
+                    )
                     return self._conclude_run(0, [], [], health)
                 except Exception as exc:
                     health.record_failed_source(MAIN_AMAZON_SOURCE, str(exc))
                     health.set_fatal_failure(f"Category discovery failed: {exc}")
+                    amazon_ok = False
+                    amazon_error = str(exc)
+                    run_errors.append(str(exc))
+                    await self._save_run_telemetry(
+                        started_at, amazon_ok, amazon_seen, amazon_error,
+                        walmart_ok, walmart_blocked, walmart_searched, walmart_matched_high,
+                        walmart_no_match, walmart_error, run_errors, new_walmart_matches
+                    )
                     return self._conclude_run(0, [], [], health)
 
                 categories_to_crawl = categories if max_categories is None else categories[:max_categories]
@@ -313,8 +404,17 @@ class PipelineOrchestrator:
                         break
 
                 health.products_discovered = len(raw_products)
+                amazon_seen = len(raw_products)
                 if not raw_products:
                     health.set_fatal_failure("Zero products discovered from Amazon New Releases")
+                    amazon_ok = False
+                    amazon_error = "Zero products discovered from Amazon New Releases"
+                    run_errors.append(amazon_error)
+                    await self._save_run_telemetry(
+                        started_at, amazon_ok, amazon_seen, amazon_error,
+                        walmart_ok, walmart_blocked, walmart_searched, walmart_matched_high,
+                        walmart_no_match, walmart_error, run_errors, new_walmart_matches
+                    )
                     return self._conclude_run(0, [], [], health)
 
                 # Report crawl discovery progress
@@ -630,19 +730,64 @@ class PipelineOrchestrator:
                     is_cand_should_test = cand.is_should_test or (cand.scores and cand.scores.is_should_test)
 
                     if is_cand_winner:
-                        # Walmart research for potential winner
-                        health.walmart_searches += 1
-                        query = cand.verified_product.title if cand.verified_product else cand.raw_product.title
-                        try:
-                            walmart_res = await self.walmart_adapter.search_and_verify(
-                                query=query, expected_title=query
+                        # Walmart research for potential winner (capped at 40 per run, stops on bot block)
+                        if not walmart_blocked and walmart_searched < 40:
+                            walmart_searched += 1
+                            health.walmart_searches += 1
+                            query = cand.verified_product.title if cand.verified_product else cand.raw_product.title
+                            cand_price = (
+                                (cand.verified_product.displayed_price if cand.verified_product and cand.verified_product.displayed_price else None)
+                                or (cand.raw_product.displayed_price if cand.raw_product else None)
                             )
-                            cand.walmart = walmart_res
-                            if walmart_res.status == WalmartStatus.NOT_VERIFIED:
+                            try:
+                                walmart_res = await self.walmart_adapter.search_and_verify(
+                                    query=query, expected_title=query, expected_price=cand_price
+                                )
+                                cand.walmart = walmart_res
+                                if walmart_res.notes and "Blocked by Walmart anti-bot barrier" in walmart_res.notes:
+                                    walmart_blocked = True
+                                    walmart_ok = False
+                                    walmart_error = "Blocked by Walmart anti-bot barrier (PerimeterX)"
+                                    run_errors.append(walmart_error)
+                                    health.walmart_failures += 1
+                                    logger.warning("Walmart anti-bot barrier triggered for %s. Halting Walmart searches.", cand.asin)
+                                elif walmart_res.status == WalmartStatus.FOUND and walmart_res.is_direct_alternative:
+                                    walmart_matched_high += 1
+                                    item_id = extract_walmart_item_id(walmart_res.url or "")
+                                    clean_url = clean_walmart_url(walmart_res.url or "")
+                                    if item_id and clean_url:
+                                        score_val = cand.scores.total_score if cand.scores else 0.0
+                                        reason_text = (
+                                            walmart_res.notes.replace("High-confidence match: ", "")
+                                            if walmart_res.notes
+                                            else "High-confidence verified match"
+                                        )
+                                        new_walmart_matches.append({
+                                            "asin": cand.asin,
+                                            "title": query,
+                                            "walmart_item_url": clean_url,
+                                            "walmart_item_id": item_id,
+                                            "walmart_title": walmart_res.product_name or query,
+                                            "walmart_price": walmart_res.displayed_price or 0.0,
+                                            "amazon_price": cand_price or 0.0,
+                                            "match_confidence": "high",
+                                            "match_reason": reason_text,
+                                            "image_url": (
+                                                cand.verified_product.images[0]
+                                                if cand.verified_product and cand.verified_product.images
+                                                else (cand.raw_product.image_url if cand.raw_product else None)
+                                            ),
+                                            "score": score_val,
+                                            "verified_at": datetime.now(timezone.utc).isoformat(),
+                                        })
+                                else:
+                                    walmart_no_match += 1
+                                    if walmart_res.status == WalmartStatus.NOT_VERIFIED:
+                                        health.walmart_failures += 1
+                            except Exception as exc:
+                                walmart_no_match += 1
                                 health.walmart_failures += 1
-                        except Exception as exc:
-                            health.walmart_failures += 1
-                            logger.warning("Walmart research failed for %s: %s", cand.asin, exc)
+                                logger.warning("Walmart research failed for %s: %s", cand.asin, exc)
 
                         cand.lifecycle_stage = ProductLifecycleStage.FINAL_WINNER
                         was_added = _add_or_replace_concept_champion(winners, cand)
@@ -707,6 +852,77 @@ class PipelineOrchestrator:
                                 reason=f"Periodic candidate update ({len(scored_candidates)} scored)",
                                 push_git=False,
                             )
+
+                # -------------------------------------------------------------
+                # STAGE 10 (Post-loop): Cross-check unverified top winners (capped at 40, stop on block)
+                # -------------------------------------------------------------
+                if not walmart_blocked and walmart_searched < 40 and winners:
+                    existing_matches_map = {m["asin"]: m for m in load_walmart_matches()}
+                    unverified_winners = [
+                        w for w in sorted(winners, key=lambda x: x.scores.total_score if x.scores else 0.0, reverse=True)
+                        if w.asin not in existing_matches_map and (not w.walmart or w.walmart.status == WalmartStatus.NOT_VERIFIED)
+                    ]
+                    for w in unverified_winners:
+                        if walmart_blocked or walmart_searched >= 40:
+                            break
+                        deadline.check_deadline()
+                        walmart_searched += 1
+                        health.walmart_searches += 1
+                        w_title = w.verified_product.title if w.verified_product else w.raw_product.title
+                        w_price = (
+                            (w.verified_product.displayed_price if w.verified_product and w.verified_product.displayed_price else None)
+                            or (w.raw_product.displayed_price if w.raw_product else None)
+                        )
+                        try:
+                            walmart_res = await self.walmart_adapter.search_and_verify(
+                                query=w_title, expected_title=w_title, expected_price=w_price
+                            )
+                            w.walmart = walmart_res
+                            if walmart_res.notes and "Blocked by Walmart anti-bot barrier" in walmart_res.notes:
+                                walmart_blocked = True
+                                walmart_ok = False
+                                walmart_error = "Blocked by Walmart anti-bot barrier (PerimeterX)"
+                                run_errors.append(walmart_error)
+                                health.walmart_failures += 1
+                                logger.warning("Walmart anti-bot barrier triggered for %s. Halting Walmart searches.", w.asin)
+                                break
+                            elif walmart_res.status == WalmartStatus.FOUND and walmart_res.is_direct_alternative:
+                                walmart_matched_high += 1
+                                item_id = extract_walmart_item_id(walmart_res.url or "")
+                                clean_url = clean_walmart_url(walmart_res.url or "")
+                                if item_id and clean_url:
+                                    score_val = w.scores.total_score if w.scores else 0.0
+                                    reason_text = (
+                                        walmart_res.notes.replace("High-confidence match: ", "")
+                                        if walmart_res.notes
+                                        else "High-confidence verified match"
+                                    )
+                                    new_walmart_matches.append({
+                                        "asin": w.asin,
+                                        "title": w_title,
+                                        "walmart_item_url": clean_url,
+                                        "walmart_item_id": item_id,
+                                        "walmart_title": walmart_res.product_name or w_title,
+                                        "walmart_price": walmart_res.displayed_price or 0.0,
+                                        "amazon_price": w_price or 0.0,
+                                        "match_confidence": "high",
+                                        "match_reason": reason_text,
+                                        "image_url": (
+                                            w.verified_product.images[0]
+                                            if w.verified_product and w.verified_product.images
+                                            else (w.raw_product.image_url if w.raw_product else None)
+                                        ),
+                                        "score": score_val,
+                                        "verified_at": datetime.now(timezone.utc).isoformat(),
+                                    })
+                            else:
+                                walmart_no_match += 1
+                                if walmart_res.status == WalmartStatus.NOT_VERIFIED:
+                                    health.walmart_failures += 1
+                        except Exception as exc:
+                            walmart_no_match += 1
+                            health.walmart_failures += 1
+                            logger.warning("Walmart research failed for %s: %s", w.asin, exc)
 
                 # -------------------------------------------------------------
                 # STAGE 12: Final report generation (Markdown & Executive HTML)
@@ -782,6 +998,12 @@ class PipelineOrchestrator:
                     len(winners),
                 )
 
+                await self._save_run_telemetry(
+                    started_at, amazon_ok, amazon_seen, amazon_error,
+                    walmart_ok, walmart_blocked, walmart_searched, walmart_matched_high,
+                    walmart_no_match, walmart_error, run_errors, new_walmart_matches
+                )
+
                 if self.telegram_notifier.is_configured:
                     try:
                         if progress_msg_map:
@@ -822,6 +1044,12 @@ class PipelineOrchestrator:
                 except Exception:
                     pass
 
+                await self._save_run_telemetry(
+                    started_at, amazon_ok, amazon_seen, amazon_error,
+                    walmart_ok, walmart_blocked, walmart_searched, walmart_matched_high,
+                    walmart_no_match, walmart_error, run_errors, new_walmart_matches
+                )
+
                 if self.telegram_notifier.is_configured:
                     try:
                         if progress_msg_map:
@@ -839,6 +1067,12 @@ class PipelineOrchestrator:
             except Exception as exc:
                 health.set_fatal_failure(f"Unhandled pipeline exception: {exc}")
                 logger.exception("Fatal pipeline error: %s", exc)
+                run_errors.append(str(exc))
+                await self._save_run_telemetry(
+                    started_at, amazon_ok, amazon_seen, amazon_error,
+                    walmart_ok, walmart_blocked, walmart_searched, walmart_matched_high,
+                    walmart_no_match, walmart_error, run_errors, new_walmart_matches
+                )
                 if self.telegram_notifier.is_configured:
                     try:
                         await self.telegram_notifier.notify_failure(str(exc), run_id=run_id)

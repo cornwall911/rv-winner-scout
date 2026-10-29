@@ -1,6 +1,6 @@
 """Walmart product search and price verification adapter.
 
-Adheres strictly to honest verification. Never fabricates prices or URLs.
+Adheres strictly to honest verification and high-confidence matching. Never fabricates prices or URLs.
 """
 
 import re
@@ -12,6 +12,7 @@ from rv_winner_scout.adapters.amazon.category_crawler import PRICE_REGEX
 from rv_winner_scout.adapters.http.client import ResilientHttpClient
 from rv_winner_scout.domain.enums import WalmartStatus
 from rv_winner_scout.domain.models import WalmartResearchResult
+from rv_winner_scout.domain.walmart_matcher import evaluate_match
 from rv_winner_scout.ports.walmart_port import WalmartResearchPort
 
 
@@ -22,7 +23,7 @@ class WalmartSearchAdapter(WalmartResearchPort):
         self.http_client = http_client
 
     async def search_and_verify(
-        self, query: str, expected_title: str
+        self, query: str, expected_title: str, expected_price: Optional[float] = None
     ) -> WalmartResearchResult:
         """Searches Walmart for the given query and inspects top result for direct equivalence."""
         clean_query = " ".join(query.strip().split()[:5])  # Use 3-5 word query
@@ -53,7 +54,6 @@ class WalmartSearchAdapter(WalmartResearchPort):
             "div[data-item-id], div[data-testid='list-view'] > div, div.search-result-gridview-item"
         )
         if not cards:
-            # Check if there are no search results
             if "no results for" in html_lower or "0 results" in html_lower:
                 return WalmartResearchResult(
                     status=WalmartStatus.NOT_FOUND,
@@ -66,7 +66,7 @@ class WalmartSearchAdapter(WalmartResearchPort):
                 notes="Could not locate Walmart product grid items in DOM",
             )
 
-        # Inspect first candidate card
+        # Inspect candidate cards
         for card in cards[:3]:
             link_tag = card.select_one("a[href*='/ip/']")
             if not link_tag:
@@ -94,18 +94,24 @@ class WalmartSearchAdapter(WalmartResearchPort):
                     except ValueError:
                         pass
 
-            # Determine whether it is a direct/real alternative
-            is_alternative = self._is_direct_alternative(expected_title, found_title)
+            # High-confidence matching check
+            decision = evaluate_match(
+                amazon_title=expected_title,
+                amazon_price=expected_price,
+                walmart_title=found_title,
+                walmart_price=price_val,
+                walmart_url=full_url,
+            )
 
-            if full_url and is_alternative:
+            if decision.is_match and decision.confidence == "high":
                 return WalmartResearchResult(
                     status=WalmartStatus.FOUND,
                     product_name=found_title,
-                    url=full_url,
+                    url=decision.clean_walmart_url,
                     displayed_price=price_val,
                     is_direct_alternative=True,
                     search_query_used=clean_query,
-                    notes="Verified direct alternative found",
+                    notes=f"High-confidence match: {decision.reason}",
                 )
 
         return WalmartResearchResult(
@@ -113,20 +119,3 @@ class WalmartSearchAdapter(WalmartResearchPort):
             search_query_used=clean_query,
             notes="Search completed; no direct equivalent products identified",
         )
-
-    def _is_direct_alternative(self, original_title: str, candidate_title: str) -> bool:
-        """Determines if the candidate product is a genuine direct alternative."""
-        orig_tokens = set(re.findall(r"\w+", original_title.lower()))
-        cand_tokens = set(re.findall(r"\w+", candidate_title.lower()))
-
-        # Strip common stopwords
-        stopwords = {"for", "the", "and", "with", "a", "an", "in", "on", "of", "to", "by"}
-        orig_meaningful = orig_tokens - stopwords
-        cand_meaningful = cand_tokens - stopwords
-
-        if not orig_meaningful:
-            return False
-
-        overlap = orig_meaningful.intersection(cand_meaningful)
-        # Require at least 2 key overlapping tokens or >= 30% Jaccard
-        return len(overlap) >= 2 or (len(overlap) / len(orig_meaningful)) >= 0.3

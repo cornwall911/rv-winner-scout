@@ -2828,30 +2828,36 @@ def export_catalog_json(html_doc: str, json_path: str) -> None:
         score = float(m_score.group(1)) if m_score else 0.0
 
         m_price = re.search(r'data-price="([^"]+)"', card_html)
-        price = float(m_price.group(1)) if m_price else 0.0
+        price_val = float(m_price.group(1)) if m_price else None
+        if price_val == 0.0:
+            price_val = None
 
         m_bsr = re.search(r'data-bsr="([^"]+)"', card_html)
-        bsr = int(m_bsr.group(1)) if m_bsr else 9999999
+        bsr_val = int(m_bsr.group(1)) if m_bsr else None
+        if bsr_val == 9999999 or bsr_val == 0:
+            bsr_val = None
 
         m_title = re.search(r'<h3 class="product-title"[^>]*>([^<]+)</h3>', card_html)
         title = m_title.group(1).strip() if m_title else ""
 
         m_img = re.search(r'<img [^>]*src="([^"]+)"', card_html)
-        img_url = m_img.group(1) if m_img else ""
+        img_url = m_img.group(1) if m_img else None
 
         m_amz = re.search(r'href="([^"]+)"[^>]*class="btn-store btn-amazon"', card_html)
         amz_url = m_amz.group(1) if m_amz else f"https://www.amazon.com/dp/{asin}"
 
         m_wal = re.search(r'href="([^"]+)"[^>]*class="btn-store btn-walmart"', card_html)
-        wal_url = m_wal.group(1) if m_wal else ""
+        wal_url = m_wal.group(1) if m_wal else None
+        if wal_url and ("/search?" in wal_url or not wal_url.startswith("http")):
+            wal_url = None
 
         catalog.append({
             "asin": asin,
             "title": title,
             "type": card_type,
             "score": score,
-            "price": price,
-            "bsr": bsr,
+            "price": price_val,
+            "bsr": bsr_val,
             "image_url": img_url,
             "amazon_url": amz_url,
             "walmart_url": wal_url,

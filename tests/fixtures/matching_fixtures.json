@@ -1,0 +1,42 @@
+[
+  {
+    "name": "same_product_different_wording",
+    "expected_match": true,
+    "expected_confidence": "high",
+    "amazon_title": "AUTO-VOX Solar Wireless Backup Camera, 5 Inch Monitor, 1080P Solar 1",
+    "amazon_price": 129.99,
+    "walmart_title": "AUTO-VOX Solar 1 1080P Wireless Backup Camera with 5'' Screen Monitor",
+    "walmart_price": 129.97,
+    "walmart_url": "https://www.walmart.com/ip/AUTO-VOX-Solar-1-Backup-Camera/847291039?athcpid=847291039"
+  },
+  {
+    "name": "same_brand_different_size",
+    "expected_match": false,
+    "expected_confidence": "none",
+    "amazon_title": "Camco 25ft TastePURE Drinking Water Hose 5/8 Inch ID",
+    "amazon_price": 24.99,
+    "walmart_title": "Camco 50ft TastePURE Drinking Water Hose 5/8 Inch ID",
+    "walmart_price": 39.99,
+    "walmart_url": "https://www.walmart.com/ip/Camco-50ft-TastePURE-Drinking-Water-Hose/14560021"
+  },
+  {
+    "name": "accessory_vs_main_product",
+    "expected_match": false,
+    "expected_confidence": "none",
+    "amazon_title": "MapleGrace 55,000 BTU RV Tankless Water Heater On Demand",
+    "amazon_price": 139.99,
+    "walmart_title": "MapleGrace Door Cover for 55,000 BTU RV Tankless Water Heater",
+    "walmart_price": 29.99,
+    "walmart_url": "https://www.walmart.com/ip/MapleGrace-Water-Heater-Door-Cover/99881122"
+  },
+  {
+    "name": "model_number_only_on_one_side",
+    "expected_match": false,
+    "expected_confidence": "none",
+    "amazon_title": "MaxxAir RV Roof Vent Cover 00-933066 White",
+    "amazon_price": 55.00,
+    "walmart_title": "MaxxAir Universal RV Roof Vent Cover Replacement",
+    "walmart_price": 52.00,
+    "walmart_url": "https://www.walmart.com/ip/MaxxAir-Universal-RV-Roof-Vent-Cover/55443322"
+  }
+]

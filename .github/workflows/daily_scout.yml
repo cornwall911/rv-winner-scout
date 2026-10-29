@@ -2,8 +2,8 @@ name: Daily RV Winner Scout
 
 on:
   schedule:
-    # Runs every day at 06:00 UTC (9:00 AM Egypt / Saudi time)
-    - cron: '0 6 * * *'
+    # Runs daily at 02:00 UTC (finishes before 05:00 UTC)
+    - cron: '0 2 * * *'
   workflow_dispatch:
     inputs:
       mode:
@@ -75,6 +75,7 @@ jobs:
           path: |
             data/reports/
             data/checkpoint.db
+            public/
           retention-days: 14
 
       - name: Sync Public Dashboard to Main for Cloudflare
@@ -89,6 +90,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/index.html index.html public/catalog.json || true
-          git commit -m "Auto-update Cloudflare dashboard" || true
+          git add public/index.html index.html public/catalog.json public/walmart_matches.json public/run_status.json || true
+          git commit -m "Auto-update Cloudflare dashboard & verified Walmart matches" || true
           git push origin main || true
