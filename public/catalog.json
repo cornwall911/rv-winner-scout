@@ -704,6 +704,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H83DLDV3",
+    "title": "RV Airflow Systems RV Air Conditioning Vent, 360° Rotating Ceiling Vent | Up to 15% Increased Airflow, 360° Rotating Airflow",
+    "type": "winner",
+    "score": 84.85,
+    "price": 15.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xb2QwUfoL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H83DLDV3",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HBQMPND1",
     "title": "RV Water Heater, 65,000 BTU Tankless Water Heater for All Trailers | CSA Certified, Anti-Freeze High Altitude, Instant Shower",
     "type": "winner",
@@ -5082,17 +5093,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H83DLDV3",
-    "title": "RV Airflow Systems RV Air Conditioning Vent, 360° Rotating Ceiling Vent | Up to 15% Increased Airflow, 360° Rotating Airflow",
-    "type": "should_test",
-    "score": 68.0,
-    "price": 15.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xb2QwUfoL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H83DLDV3",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HC7PMZ84",
     "title": "KNOX 5th Wheel RV Skirt with Twist Fasteners, Zippered Panels, 5.5x22.1 ft, Black",
     "type": "should_test",
@@ -7953,6 +7953,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H89NFGB4",
+    "title": "Coleman-Mach 15 15,000 BTU Quiet PowerSaver RV Heat Pump, Black | 15,000 BTU heat pump + PowerSaver; black shroud, ducted qui",
+    "type": "should_test",
+    "score": 60.0,
+    "price": 1251.39,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KxgnSUi8L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H89NFGB4",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF85KSJV",
     "title": "Travel Trailer Snow-Shield Underbelly Skirt, 98ft /30m Roll | Heavy-Duty Tear Resistant RV Bottom Winter Cover, Cold Weather",
     "type": "should_test",
@@ -8401,17 +8412,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LdyOb8QqL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H29F87XG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H89NFGB4",
-    "title": "Coleman-Mach 15 15,000 BTU Quiet PowerSaver RV Heat Pump, Black | 15,000 BTU heat pump + PowerSaver; black shroud, ducted qui",
-    "type": "should_test",
-    "score": 58.75,
-    "price": 1260.88,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KxgnSUi8L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H89NFGB4",
     "walmart_url": null
   },
   {
