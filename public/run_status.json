@@ -1,18 +1,18 @@
 {
-  "started_at": "2026-10-29T05:20:00Z",
-  "finished_at": "2026-10-29T05:20:18Z",
+  "started_at": "2026-10-30T07:57:44.663109+00:00",
+  "finished_at": "2026-10-30T10:42:58.136127+00:00",
   "amazon": {
     "ok": true,
-    "products_seen": 2425,
+    "products_seen": 4412,
     "error": null
   },
   "walmart": {
     "ok": false,
     "blocked": true,
-    "searched": 8,
+    "searched": 1,
     "matched_high": 0,
-    "no_match": 8,
-    "error": "Walmart anti-bot barrier (PerimeterX / 403)"
+    "no_match": 0,
+    "error": "Blocked by Walmart anti-bot barrier (PerimeterX)"
   },
   "errors": [
     "Blocked by Walmart anti-bot barrier (PerimeterX)"
