@@ -278,10 +278,10 @@
     "asin": "B0H748Y253",
     "title": "2026 TB10WF 8KW Toolbox Diesel Heater with WiFi &amp; Bluetooth APP, 3-in-1 Smart Remote, 12V/24V Portable Heater for Camping RV Truck, Silent Oil Pump with CO Monitor &amp;18045ft Altitude Adapt",
     "type": "winner",
-    "score": 89.4,
+    "score": 89.45,
     "price": 189.99,
     "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61v1C4C9xsL.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/717Q5H4XgyL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H748Y253",
     "walmart_url": null
   },
@@ -2376,6 +2376,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGGSV85B",
+    "title": "RV Vent Fan 10-Speed Roof Vent Fan with Remote Control &amp; Rain Sensor 14 inch",
+    "type": "should_test",
+    "score": 78.0,
+    "price": 129.5,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VkXvTivKL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGGSV85B",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHDY7NKW",
     "title": "Waterproof Rear View Camera Rain Shield Cover, Backup Rain Shield (5) | Backup Camera Rain Hood Cover with Curved Black PVC C",
     "type": "should_test",
@@ -2791,17 +2802,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71e8+GeEiBL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3NQ7375",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGGSV85B",
-    "title": "RV Vent Fan 10-Speed Roof Vent Fan with Remote Control &amp; Rain Sensor 14 inch",
-    "type": "should_test",
-    "score": 76.75,
-    "price": 129.5,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VkXvTivKL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGGSV85B",
     "walmart_url": null
   },
   {
@@ -6292,17 +6292,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H3ZZ72FZ",
-    "title": "Hon&amp;Guan RV Exhaust Vent Cover Metal with Mesh and Noise Reduction Pad",
-    "type": "should_test",
-    "score": 64.15,
-    "price": 35.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61M9vF3CZfL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3ZZ72FZ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H73ZJRT9",
     "title": "RV Black Tank Flush Kit, 63&quot; Flexible RV Black Tank Wand with 360° Rotating Brass Nozzle Quick Shutoff Valve &amp; Anti-Burst Hose for Deep Tank Rinsing",
     "type": "should_test",
@@ -7392,6 +7381,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGY3VFMM",
+    "title": "FOGATTI RV Furnace 35,000 BTU for Camper, Motorhome, RV Owners | High-Efficiency, 40dB Quiet Operation, Smart Thermostat 4-Le",
+    "type": "should_test",
+    "score": 61.75,
+    "price": 699.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tyVKHSWEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGY3VFMM",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCNJ9SP8",
     "title": "RV Frame Stabilizer with Replaceable Support Heads, Heavy Duty Anti-Wobble Trailer Stabilizer for I-Beam &amp; Box Frame Chassis,",
     "type": "should_test",
@@ -7565,17 +7565,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+ovebby5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNDPTXX9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGY3VFMM",
-    "title": "FOGATTI RV Furnace 35,000 BTU for Camper, Motorhome, RV Owners | High-Efficiency, 40dB Quiet Operation, Smart Thermostat 4-Le",
-    "type": "should_test",
-    "score": 61.0,
-    "price": 699.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tyVKHSWEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGY3VFMM",
     "walmart_url": null
   },
   {
@@ -11220,6 +11209,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7H16JBF",
+    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
+    "type": "candidate",
+    "score": 59.5,
+    "price": 39.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1QS6HN9",
     "title": "ONETIGRIS CAMPING 4-Season Cot Mattress Pad, Reversible Sleeping Pad | Reversible cooling ice silk and warm fleece pad with s",
     "type": "candidate",
@@ -11415,17 +11415,6 @@
     "bsr": 25942,
     "image_url": "https://m.media-amazon.com/images/I/71MVBF+KHkL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCNMLDD9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7H16JBF",
-    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
-    "type": "candidate",
-    "score": 58.25,
-    "price": 39.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
     "walmart_url": null
   },
   {
@@ -14036,6 +14025,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H3ZZ72FZ",
+    "title": "Hon&amp;Guan RV Exhaust Vent Cover Metal with Mesh and Noise Reduction Pad | Magnetic Seal, External Locking Clip, Adjustable Dep",
+    "type": "candidate",
+    "score": 51.5,
+    "price": 35.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61M9vF3CZfL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3ZZ72FZ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1VL4VT4",
     "title": "7 Pack RV Flying Insect Screen Mount Spring Fastener, Stainless Steel A10-1370VP Replacement Spring Kit for Flying Insect Screens, 5th Wheel Camper Trailer Bug Vent Cover Mesh Basket F",
     "type": "candidate",
@@ -15628,6 +15628,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81jr-J6g1dL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD7VQ4TM",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HG4L1MR6",
+    "title": "Universal 5.8&quot; Ceiling Garnish Trim Ring for 14&quot; RV Vent Fan",
+    "type": "candidate",
+    "score": 49.75,
+    "price": 29.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/41odZUirxbL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG4L1MR6",
     "walmart_url": null
   },
   {
@@ -26210,17 +26221,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71YZSSb1f8L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5QC9775",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HG4L1MR6",
-    "title": "Airtaxi Universal 5.8&quot; Ceiling Garnish Trim Ring for 14&quot; RV Vent Fan | White Modular Design, Simple assembly required before",
-    "type": "candidate",
-    "score": 27.5,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41odZUirxbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG4L1MR6",
     "walmart_url": null
   },
   {
