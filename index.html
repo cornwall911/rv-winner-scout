@@ -1610,13 +1610,13 @@
                 </div>
                 <nav class="nav" id="sidebarNav">
                     <a href="#cardsGrid" class="on" data-tab="all" onclick="setFilter('all', this); return false;">
-                        <svg class="i"><use href="#i-home"/></svg>All Products <span class="ct" id="sideCountAll">157</span>
+                        <svg class="i"><use href="#i-home"/></svg>All Products <span class="ct" id="sideCountAll">160</span>
                     </a>
                     <a href="#cardsGrid" data-tab="winner" onclick="setFilter('winner', this); return false;">
-                        <svg class="i"><use href="#i-box"/></svg>Winners <span class="ct" id="sideCountWinners">10</span>
+                        <svg class="i"><use href="#i-box"/></svg>Winners <span class="ct" id="sideCountWinners">11</span>
                     </a>
                     <a href="#cardsGrid" data-tab="should_test" onclick="setFilter('should_test', this); return false;">
-                        <svg class="i"><use href="#i-play"/></svg>Should Test <span class="ct" id="sideCountShouldTest">51</span>
+                        <svg class="i"><use href="#i-play"/></svg>Should Test <span class="ct" id="sideCountShouldTest">53</span>
                     </a>
                     <a href="#cardsGrid" data-tab="candidate" onclick="setFilter('candidate', this); return false;">
                         <svg class="i"><use href="#i-compass"/></svg>Candidates <span class="ct" id="sideCountCandidates">96</span>
@@ -1766,7 +1766,7 @@
                             <p>Automated market scout evaluating Facebook ad viability, problem-solving score, and competitor exposure.</p>
                             <div class="hero-acts">
                                 <button class="btn pri" onclick="document.getElementById('searchInput').focus();"><svg class="i"><use href="#i-box"/></svg>Explore Catalog</button>
-                                <button class="btn" onclick="setFilter('winner', document.querySelector('.filter-btn[data-type=winner]'));"><svg class="i"><use href="#i-play"/></svg>View Winners (170)</button>
+                                <button class="btn" onclick="setFilter('winner', document.querySelector('.filter-btn[data-type=winner]'));"><svg class="i"><use href="#i-play"/></svg>View Winners (171)</button>
                             </div>
                         </div>
                     </section>
@@ -1777,7 +1777,7 @@
                             <div class="ic" style="--c: var(--accent);"><svg class="i"><use href="#i-box"/></svg></div>
                             <div>
                                 <div class="kpi-label k">Audited Products</div>
-                                <div class="kpi-num v">2556</div>
+                                <div class="kpi-num v">2558</div>
                                 <div class="s">Across all categories</div>
                             </div>
                         </div>
@@ -1786,7 +1786,7 @@
                             <div class="ic" style="--c: var(--ok);"><svg class="i"><use href="#i-check"/></svg></div>
                             <div>
                                 <div class="kpi-label k">Qualified Winners</div>
-                                <div class="kpi-num v" style="color: var(--accent)">170</div>
+                                <div class="kpi-num v" style="color: var(--accent)">171</div>
                                 <div class="s">Score ≥ 80.0</div>
                             </div>
                         </div>
@@ -1795,7 +1795,7 @@
                             <div class="ic" style="--c: var(--run);"><svg class="i"><use href="#i-play"/></svg></div>
                             <div>
                                 <div class="kpi-label k">Should Be Tested</div>
-                                <div class="kpi-num v" style="color: var(--run)">817</div>
+                                <div class="kpi-num v" style="color: var(--run)">818</div>
                                 <div class="s">High Potential</div>
                             </div>
                         </div>
@@ -1813,7 +1813,7 @@
                             <div class="ic" style="--c: var(--muted);"><svg class="i"><use href="#i-focus"/></svg></div>
                             <div>
                                 <div class="kpi-label k">Filtered / Sub-Threshold</div>
-                                <div class="kpi-num v">92</div>
+                                <div class="kpi-num v">93</div>
                                 <div class="s">Archived / Filtered</div>
                             </div>
                         </div>
@@ -1824,9 +1824,9 @@
                         <input type="text" id="searchInput" class="search-input" placeholder="Search by product title or ASIN..." onkeyup="filterCards()" />
 
                         <div class="filter-tabs">
-                            <button class="filter-btn active" data-type="all" onclick="setFilter('all', this)">All (2556)</button>
-                            <button class="filter-btn" data-type="winner" onclick="setFilter('winner', this)"><svg class="i" style="width:14px;height:14px;vertical-align:-2px"><use href="#i-check"/></svg> Winners (170)</button>
-                            <button class="filter-btn" data-type="should_test" onclick="setFilter('should_test', this)"><svg class="i" style="width:14px;height:14px;vertical-align:-2px"><use href="#i-play"/></svg> Should Be Tested (817)</button>
+                            <button class="filter-btn active" data-type="all" onclick="setFilter('all', this)">All (2558)</button>
+                            <button class="filter-btn" data-type="winner" onclick="setFilter('winner', this)"><svg class="i" style="width:14px;height:14px;vertical-align:-2px"><use href="#i-check"/></svg> Winners (171)</button>
+                            <button class="filter-btn" data-type="should_test" onclick="setFilter('should_test', this)"><svg class="i" style="width:14px;height:14px;vertical-align:-2px"><use href="#i-play"/></svg> Should Be Tested (818)</button>
                             <button class="filter-btn" data-type="candidate" onclick="setFilter('candidate', this)"><svg class="i" style="width:14px;height:14px;vertical-align:-2px"><use href="#i-compass"/></svg> Candidates (1569)</button>
                             
                         </div>
@@ -1874,7 +1874,7 @@
 
                     <!-- Results Top Meta -->
                     <div class="results-meta-bar" id="topResultsBar">
-                        <div id="topPaginationInfo">Showing <span id="topRangeText">1–24</span> of <span id="topTotalText">157</span> products</div>
+                        <div id="topPaginationInfo">Showing <span id="topRangeText">1–24</span> of <span id="topTotalText">160</span> products</div>
                     </div>
 
                     
@@ -4662,6 +4662,93 @@
                             <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without VEVOR Diesel Heater DC 12 V All in your storage bay." title="Copy Angle">📋 Copy</button>
                         </div>
                         <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without VEVOR Diesel Heater DC 12 V All in your storage bay.</p>
+                    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="product-card winner" data-title="8kw diesel heater, 12v/24v parking heater with app control and lcd display, automatic start and stop, for rv garage camper fi b0hkz6gs5b" data-type="winner" data-changed="none" data-score="89.35" data-price="99.99" data-bsr="9999999">
+            <div class="card-top-bar">
+                <div class="badge-group">
+                    <span class="status-pill badge-winner">🏆 QUALIFIED WINNER</span>
+                    <span class="score-pill">⭐ 89.3 / 100</span>
+                    
+                    
+                </div>
+                <span class="asin-pill">ASIN: B0HKZ6GS5B</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/61-A7GZ-2XL._AC_UL300_SR300,200_.jpg" alt="8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fi" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
+            </div>
+
+            <!-- Card Content -->
+            <div class="card-body">
+                <h3 class="product-title" title="8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fi">8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fi</h3>
+
+                <!-- BSR and Price Meta -->
+                <div class="bsr-meta-box">
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Price</span>
+                        <span class="meta-val highlight">$99.99</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Best Sellers Rank</span>
+                        <span class="meta-val bsr-val">Ranked in RV New Releases</span>
+                    </div>
+                </div>
+
+                <!-- Stores Arbitrage Row -->
+                <div class="stores-row">
+                    <a href="https://www.amazon.com/dp/B0HKZ6GS5B" target="_blank" rel="noopener noreferrer" class="btn-store btn-amazon">
+                        🛒 View on Amazon ↗
+                    </a>
+                    <a href="https://www.walmart.com/search?q=8KW+Diesel+Heater%2C+12V%2F24V+Parking+Heater+with+App+Control+a" target="_blank" rel="noopener noreferrer" class="btn-store btn-walmart">
+                        🔵 Walmart (Check Walmart) ↗
+                    </a>
+                </div>
+
+                <!-- Marketing & Commercial Insights (Tabbed Intelligence Component) -->
+                <div class="insights-box">
+                    <div class="card-tabs">
+                        <button type="button" class="tab-btn active" onclick="switchCardTab(this, 'why')">Why Converts</button>
+                        <button type="button" class="tab-btn" onclick="switchCardTab(this, 'risk')">Risk Factor</button>
+                        <button type="button" class="tab-btn" onclick="switchCardTab(this, 'angles')">Ad Angles (3)</button>
+                    </div>
+                    <div class="tab-panes">
+                        <div class="tab-pane pane-why active">
+                            <div class="insight-header"><span class="insight-label-why">🎯 Why It Converts:</span></div>
+                            
+                            <p class="insight-text">It solves the ultimate winter camping nightmare of freezing temperatures and dead propane tanks for a fraction of the cost of built-in systems. App control and low power draw make it a viral must-have for off-grid enthusiasts.</p>
+                        </div>
+                        <div class="tab-pane pane-risk">
+                            <div class="insight-header"><span class="insight-label-risk">⚠️ Bottleneck / Risk:</span></div>
+                            <p class="insight-text">Requires a minor exterior exhaust/intake vent installation through the floor or wall which can intimidate non-DIYers, and running it incorrectly could cause ventilation or fuel-feed issues.</p>
+                        </div>
+                        <div class="tab-pane pane-angles">
+                            
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">🗣️ Angle 1 (Campground Reality):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Nothing ruins a peaceful campground evening faster than dealing with power: Boondockers and extended-season campers are going crazy over how this diesel heater warms up an entire rig on pennies of fuel without draining the house battery or using up propane. This is the exact upgrade you need before your next trip." title="Copy Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">Nothing ruins a peaceful campground evening faster than dealing with power: Boondockers and extended-season campers are going crazy over how this diesel heater warms up an entire rig on pennies of fuel without draining the house battery or using up propane. This is the exact upgrade you need before your next trip.</p>
+                    </div>
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">💡 Angle 2 (Practical RV Fix):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Skip the crazy dealership markups and $150/hr RV mechanic fees. This 8KW Diesel Heater takes 5 minutes to install yourself and permanently eliminates power headaches on the road." title="Copy Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">Skip the crazy dealership markups and $150/hr RV mechanic fees. This 8KW Diesel Heater takes 5 minutes to install yourself and permanently eliminates power headaches on the road.</p>
+                    </div>
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">🚀 Angle 3 (Travel Peace of Mind):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 8KW Diesel Heater in your storage bay." title="Copy Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 8KW Diesel Heater in your storage bay.</p>
                     </div>
                         </div>
                     </div>
@@ -57757,6 +57844,93 @@ Detector | 2-in-1 Detector, LED Indicator Light, 100dB Loud Alarm, Plastic Mater
                 </div>
             </div>
         </div>
+        <div class="product-card should_test" data-title="700w boat engine compartment heater, bilge marine heater-freeze protection b0hjh6yr41" data-type="should_test" data-changed="none" data-score="61.90" data-price="199.98" data-bsr="9999999">
+            <div class="card-top-bar">
+                <div class="badge-group">
+                    <span class="status-pill badge-test">🧪 SHOULD BE TESTED</span>
+                    <span class="score-pill">⭐ 61.9 / 100</span>
+                    
+                    
+                </div>
+                <span class="asin-pill">ASIN: B0HJH6YR41</span>
+            </div>
+
+            <!-- Single Product Image -->
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/718eg+BTAWL.jpg" alt="700W Boat Engine Compartment Heater, Bilge Marine Heater-Freeze Protection" class="product-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600&auto=format&fit=crop&q=80';" />
+            </div>
+
+            <!-- Card Content -->
+            <div class="card-body">
+                <h3 class="product-title" title="700W Boat Engine Compartment Heater, Bilge Marine Heater-Freeze Protection">700W Boat Engine Compartment Heater, Bilge Marine Heater-Freeze Protection</h3>
+
+                <!-- BSR and Price Meta -->
+                <div class="bsr-meta-box">
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Price</span>
+                        <span class="meta-val highlight">$199.98</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Amazon Best Sellers Rank</span>
+                        <span class="meta-val bsr-val">Ranked in RV New Releases</span>
+                    </div>
+                </div>
+
+                <!-- Stores Arbitrage Row -->
+                <div class="stores-row">
+                    <a href="https://www.amazon.com/dp/B0HJH6YR41" target="_blank" rel="noopener noreferrer" class="btn-store btn-amazon">
+                        🛒 View on Amazon ↗
+                    </a>
+                    <a href="https://www.walmart.com/search?q=700W+Boat+Engine+Compartment+Heater%2C+Bilge+Marine+Heater-Fre" target="_blank" rel="noopener noreferrer" class="btn-store btn-walmart">
+                        🔵 Walmart (Check Walmart) ↗
+                    </a>
+                </div>
+
+                <!-- Marketing & Commercial Insights (Tabbed Intelligence Component) -->
+                <div class="insights-box">
+                    <div class="card-tabs">
+                        <button type="button" class="tab-btn active" onclick="switchCardTab(this, 'why')">Why Converts</button>
+                        <button type="button" class="tab-btn" onclick="switchCardTab(this, 'risk')">Risk Factor</button>
+                        <button type="button" class="tab-btn" onclick="switchCardTab(this, 'angles')">Ad Angles (3)</button>
+                    </div>
+                    <div class="tab-panes">
+                        <div class="tab-pane pane-why active">
+                            <div class="insight-header"><span class="insight-label-why">🎯 Why It Converts:</span></div>
+                            
+                            <p class="insight-text">Winter RVers constantly worry about frozen pipes and underbellies, and this compact, automatic self-regulating heater provides direct freeze protection without complicated setups. Its automatic thermostat control prevents overheating and lowers energy costs, making it a practical choice for cold-weather camping.</p>
+                        </div>
+                        <div class="tab-pane pane-risk">
+                            <div class="insight-header"><span class="insight-label-risk">⚠️ Bottleneck / Risk:</span></div>
+                            <p class="insight-text">At a $199.98 price point, it is a niche specialty item for extreme winter campers rather than a broad impulse buy. Continuous high-wattage power draw during freezing weather can also strain limited off-grid electrical systems.</p>
+                        </div>
+                        <div class="tab-pane pane-angles">
+                            
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">🗣️ Angle 1 (Campground Reality):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Nothing ruins a peaceful campground evening faster than dealing with power: Targeting four-season RVers and winter campers stressed about frozen underbellies, burst pipes, and expensive plumbing repairs during sub-zero cold snaps. This is the exact upgrade you need before your next trip." title="Copy Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">Nothing ruins a peaceful campground evening faster than dealing with power: Targeting four-season RVers and winter campers stressed about frozen underbellies, burst pipes, and expensive plumbing repairs during sub-zero cold snaps. This is the exact upgrade you need before your next trip.</p>
+                    </div>
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">💡 Angle 2 (Practical RV Fix):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Skip the crazy dealership markups and $150/hr RV mechanic fees. This 700W Boat Engine Compartment Heater takes 5 minutes to install yourself and permanently eliminates power headaches on the road." title="Copy Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">Skip the crazy dealership markups and $150/hr RV mechanic fees. This 700W Boat Engine Compartment Heater takes 5 minutes to install yourself and permanently eliminates power headaches on the road.</p>
+                    </div>
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
+                            <span class="insight-label-angle">🚀 Angle 3 (Travel Peace of Mind):</span>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 700W Boat Engine Compartment Heater in your storage bay." title="Copy Angle">📋 Copy</button>
+                        </div>
+                        <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without 700W Boat Engine Compartment Heater in your storage bay.</p>
+                    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="product-card should_test" data-title="6kw 12v hydronic coolant heater, diesel water heater lcd remote control b0hbkjsglw" data-type="should_test" data-changed="none" data-score="61.85" data-price="230.99" data-bsr="9999999">
             <div class="card-top-bar">
                 <div class="badge-group">
@@ -61591,7 +61765,7 @@ Detector | 2-in-1 Detector, LED Indicator Light, 100dB Loud Alarm, Plastic Mater
                     </a>
                 </div>
 
-                <!-- Marketing & Commercial Insights (Angles below Why Converts & Risk) -->
+                <!-- Marketing & Commercial Insights (Tabbed Intelligence Component) -->
                 <div class="insights-box">
                     <div class="card-tabs">
                         <button type="button" class="tab-btn active" onclick="switchCardTab(this, 'why')">Why Converts</button>
@@ -61602,28 +61776,35 @@ Detector | 2-in-1 Detector, LED Indicator Light, 100dB Loud Alarm, Plastic Mater
                         <div class="tab-pane pane-why active">
                             <div class="insight-header"><span class="insight-label-why">🎯 Why It Converts:</span></div>
                             
-                            <p class="insight-text">Scorching summer heat is the #1 complaint among RVers, and smart high-BTU rooftop climate control units solve severe cabin discomfort. Upgrading to an efficient, connected system appeals strongly to travelers seeking modern home comforts on the road.</p>
+                            <p class="insight-text">Campers constantly battle failing or deafeningly loud rooftop AC units during peak summer heat waves. Offering a high-capacity 18K BTU smart-controlled upgrade taps into immediate seasonal comfort pain.</p>
                         </div>
                         <div class="tab-pane pane-risk">
                             <div class="insight-header"><span class="insight-label-risk">⚠️ Bottleneck / Risk:</span></div>
-                            <p class="insight-text">At a $1,399.99 price point and requiring complex rooftop installation, it suffers from low impulse-click potential and high shipping/return friction compared to portable plug-in solutions.</p>
+                            <p class="insight-text">At a $1399.99 price point, it functions as a high-ticket capital replacement rather than a spontaneous impulse buy, and rooftop AC replacement involves labor-intensive installation hurdles.</p>
                         </div>
                         <div class="tab-pane pane-angles">
-                            <div class="insight-row angle-row"><div class="insight-header">
+                            
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
                             <span class="insight-label-angle">🗣️ Angle 1 (Campground Reality):</span>
-                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Nothing ruins a peaceful campground evening faster than dealing with campground setup &amp; daily maintenance: Discussing how old clunky RV air conditioners struggle during scorching summer boondocking and whether smart WiFi-enabled rooftop units with Alexa integration are worth the upgrade. This is the exact upgrade you need before your next trip." title="Copy Angle">📋 Copy</button>
+                            <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Nothing ruins a peaceful campground evening faster than dealing with campground setup &amp; daily maintenance: Discussing modern smart climate control upgrades for older rigs, highlighting quiet cooling and app integration over loud factory units. This is the exact upgrade you need before your next trip." title="Copy Angle">📋 Copy</button>
                         </div>
-                        <p class="insight-text">Nothing ruins a peaceful campground evening faster than dealing with campground setup &amp; daily maintenance: Discussing how old clunky RV air conditioners struggle during scorching summer boondocking and whether smart WiFi-enabled rooftop units with Alexa integration are worth the upgrade. This is the exact upgrade you need before your next trip.</p></div>
-<div class="insight-row angle-row"><div class="insight-header">
+                        <p class="insight-text">Nothing ruins a peaceful campground evening faster than dealing with campground setup &amp; daily maintenance: Discussing modern smart climate control upgrades for older rigs, highlighting quiet cooling and app integration over loud factory units. This is the exact upgrade you need before your next trip.</p>
+                    </div>
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
                             <span class="insight-label-angle">💡 Angle 2 (Practical RV Fix):</span>
                             <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="Skip the crazy dealership markups and $150/hr RV mechanic fees. This FOGATTI RV Air Conditioner 18K BTU Co... takes 5 minutes to install yourself and permanently eliminates campground setup &amp; daily maintenance headaches on the road." title="Copy Angle">📋 Copy</button>
                         </div>
-                        <p class="insight-text">Skip the crazy dealership markups and $150/hr RV mechanic fees. This FOGATTI RV Air Conditioner 18K BTU Co... takes 5 minutes to install yourself and permanently eliminates campground setup &amp; daily maintenance headaches on the road.</p></div>
-<div class="insight-row angle-row"><div class="insight-header">
+                        <p class="insight-text">Skip the crazy dealership markups and $150/hr RV mechanic fees. This FOGATTI RV Air Conditioner 18K BTU Co... takes 5 minutes to install yourself and permanently eliminates campground setup &amp; daily maintenance headaches on the road.</p>
+                    </div>
+                    <div class="insight-row angle-row">
+                        <div class="insight-header">
                             <span class="insight-label-angle">🚀 Angle 3 (Travel Peace of Mind):</span>
                             <button class="btn-copy-sm" onclick="copySnippet(this)" data-copy="The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without FOGATTI RV Air Conditioner 18K BTU Co... in your storage bay." title="Copy Angle">📋 Copy</button>
                         </div>
-                        <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without FOGATTI RV Air Conditioner 18K BTU Co... in your storage bay.</p></div>
+                        <p class="insight-text">The difference between a stressful RV trip and genuine camping freedom comes down to having the right setup. Don&#x27;t hit the road or boondock without FOGATTI RV Air Conditioner 18K BTU Co... in your storage bay.</p>
+                    </div>
                         </div>
                     </div>
                 </div>
