@@ -385,17 +385,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HC6MSXG6",
-    "title": "WIPPRO Diesel Heater 8KW, 12V 24V 110V All-in-One,2Gal Portable Diesel Air Heater with LCD Switch &amp; Remote Control for Car RV",
-    "type": "winner",
-    "score": 89.2,
-    "price": 139.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/718boxrmhsL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6MSXG6",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HKYXJH9L",
     "title": "8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fi",
     "type": "winner",
@@ -547,6 +536,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Y5HtahcML._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQG8J4Z",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC6MSXG6",
+    "title": "WIPPRO Diesel Heater 8KW, 12V 24V 110V All-in-One,2Gal Portable Diesel Air Heater with LCD Switch &amp; Remote Control for Car RV",
+    "type": "winner",
+    "score": 87.75,
+    "price": 139.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/718boxrmhsL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6MSXG6",
     "walmart_url": null
   },
   {
@@ -2530,17 +2530,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGGSV85B",
-    "title": "RV Vent Fan 10-Speed Roof Vent Fan with Remote Control &amp; Rain Sensor 14 inch",
-    "type": "should_test",
-    "score": 78.0,
-    "price": 129.5,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VkXvTivKL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGGSV85B",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHDY7NKW",
     "title": "Waterproof Rear View Camera Rain Shield Cover, Backup Rain Shield (5) | Backup Camera Rain Hood Cover with Curved Black PVC C",
     "type": "should_test",
@@ -2901,6 +2890,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81lZigupZAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5JS34BP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGGSV85B",
+    "title": "RV Vent Fan 10-Speed Roof Vent Fan with Remote Control &amp; Rain Sensor 14 inch",
+    "type": "should_test",
+    "score": 77.0,
+    "price": 129.5,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VkXvTivKL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGGSV85B",
     "walmart_url": null
   },
   {
