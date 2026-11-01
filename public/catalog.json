@@ -77,17 +77,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9KBN91X",
-    "title": "9000 BTU 12V RV AC Unit, Low Power Consumption, 50dB Ultra Quiet &amp; Fast Cooling Upgraded Rooftop AC Unit with Remote Control",
-    "type": "winner",
-    "score": 90.05,
-    "price": 339.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61m+8KPTgmL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9KBN91X",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HMK1NCPW",
     "title": "AUTO-VOX 7.2&quot; Solar Wireless Backup Camera, 1-Min Easy Magnetic Install | Intelligent Blind Spot Obstacle Alarm, 1080P HD IR",
     "type": "winner",
@@ -712,6 +701,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VsFZ4sSvL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H25V471H",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H9KBN91X",
+    "title": "9000 BTU 12V RV AC Unit, Low Power Consumption, 50dB Ultra Quiet &amp; Fast Cooling Upgraded Rooftop AC Unit with Remote Control",
+    "type": "winner",
+    "score": 85.4,
+    "price": 359.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61m+8KPTgmL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9KBN91X",
     "walmart_url": null
   },
   {
@@ -7183,6 +7183,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HH8MG1K4",
+    "title": "Roof Vent Adapter Frame Compatible with ProMaster for Van MaxxFan | Curved Roof Mounting Base Support Bracket for Camper Van",
+    "type": "should_test",
+    "score": 62.55,
+    "price": 38.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ePkJvqY+L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH8MG1K4",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5QCNGFG",
     "title": "2 Pcs E2 Hitch Sway Bracket Jacket, Equalizer Hitch Parts 95015150",
     "type": "should_test",
@@ -8225,17 +8236,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71a6IUutZSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFWZTNFV",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HH8MG1K4",
-    "title": "Roof Vent Adapter Frame Compatible with ProMaster for Van MaxxFan | Curved Roof Mounting Base Support Bracket for Camper Van",
-    "type": "should_test",
-    "score": 60.05,
-    "price": 38.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ePkJvqY+L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH8MG1K4",
     "walmart_url": null
   },
   {
@@ -12086,6 +12086,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71aVNmRgIyL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4QX7R7H",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H7BLJ7J5",
+    "title": "14 Inch RV Roof Vent Cover Replacement Lid, No Drill, Low Profile, White",
+    "type": "candidate",
+    "score": 57.75,
+    "price": 39.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61ZEwWR6ToL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7BLJ7J5",
     "walmart_url": null
   },
   {
@@ -21626,6 +21637,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9YJQL8N",
+    "title": "4Pcs RV Window and Vent Knob, Plastic Replacement Knob with Screws | Camper Window Crank Handle Turn Latch Vent Replacement R",
+    "type": "candidate",
+    "score": 43.2,
+    "price": 7.29,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ccvgZP4pL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9YJQL8N",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H4YPT2RT",
     "title": "American USA Flag Spare Tire Cover for Overall Wheel Diameter 27-29 Inch",
     "type": "candidate",
@@ -25715,17 +25737,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71e2DP4XbVL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3VRP5LY",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9YJQL8N",
-    "title": "4Pcs RV Window and Vent Knob, Plastic Replacement Knob with Screws | Camper Window Crank Handle Turn Latch Vent Replacement R",
-    "type": "candidate",
-    "score": 33.4,
-    "price": 7.29,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ccvgZP4pL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9YJQL8N",
     "walmart_url": null
   },
   {
