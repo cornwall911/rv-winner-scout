@@ -473,6 +473,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HF8FMS5G",
+    "title": "Diesel Heater 12KW, 8L All in One Diesel Air Heater 110/12/24V Parking Heater with App Control, Wireless Temperature Sensing and Altitude Mode for RV Garage Camper",
+    "type": "winner",
+    "score": 88.85,
+    "price": 239.99,
+    "bsr": 19705,
+    "image_url": "https://m.media-amazon.com/images/I/716N7nKiHyL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF8FMS5G",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GWQ8BS75",
     "title": "AUTO-VOX 2 Solar Wireless Backup Camera: Dual Antenna for Stable Live View | 1Min Quick Install, 6&quot; Dual-Split Screen with 10",
     "type": "winner",
@@ -3762,17 +3773,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCZZ39DX",
-    "title": "Anker SOLIX S5000 Portable Power Station, 5,024Wh, 4,500W Rated (120V/240V)",
-    "type": "should_test",
-    "score": 74.15,
-    "price": 2939.0,
-    "bsr": 7029,
-    "image_url": "https://m.media-amazon.com/images/I/71U3EEelixL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCZZ39DX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HH3M98N4",
     "title": "Vehicle Awning 4.9&#x27;×6.5&#x27;, Retractable Car SUV Truck Van Camper Awning | Roof Rack Pull-out Side Sun Shade UV50+600D Oxford Wa",
     "type": "should_test",
@@ -3861,6 +3861,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0GXXZT82D",
+    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
+    "type": "should_test",
+    "score": 73.5,
+    "price": 279.29,
+    "bsr": 5667,
+    "image_url": "https://m.media-amazon.com/images/I/71KX+LCG+pL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H2M6D97S",
     "title": "Portable Power Station 3600Wh PowerMax 3600 SE With 2x200W Solar Panel | 3600W (Surge 7200W) Output, LiFePO4 Solar Generator",
     "type": "should_test",
@@ -3924,6 +3935,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61IN-hTcTvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HLCYKGVW",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCZZ39DX",
+    "title": "Anker SOLIX S5000 Portable Power Station, 5,024Wh, 4,500W Rated (120V/240V)",
+    "type": "should_test",
+    "score": 73.15,
+    "price": 2939.0,
+    "bsr": 5447,
+    "image_url": "https://m.media-amazon.com/images/I/71U3EEelixL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCZZ39DX",
     "walmart_url": null
   },
   {
@@ -4103,6 +4125,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDZ6J42W",
+    "title": "SinKeu 300W 260Wh Portable Power Station with 40W Solar Panel Included",
+    "type": "should_test",
+    "score": 72.3,
+    "price": 209.98,
+    "bsr": 7929,
+    "image_url": "https://m.media-amazon.com/images/I/71Ic2bOHeRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDZ6J42W",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H87J975N",
     "title": "5th Wheel Camper Skirting, DIY Cut‑to‑Size Custom Fit, 24m/79ft | with 10M Hook‑and‑Loop Tape, Snow‑Resistant for Stationary",
     "type": "should_test",
@@ -4111,17 +4144,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sil0IkPSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H87J975N",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0GXXZT82D",
-    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
-    "type": "should_test",
-    "score": 72.25,
-    "price": 279.29,
-    "bsr": 14442,
-    "image_url": "https://m.media-amazon.com/images/I/71KX+LCG+pL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
     "walmart_url": null
   },
   {
@@ -5005,17 +5027,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGR2586Z",
-    "title": "BILT HARD 5500W Dual Fuel Inverter Generator, Gasoline/LPG",
-    "type": "should_test",
-    "score": 69.0,
-    "price": 449.99,
-    "bsr": 8397,
-    "image_url": "https://m.media-amazon.com/images/I/71Fw61n-OqL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGR2586Z",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H93B4KPN",
     "title": "RV Solar Lights Outdoors, Digital Display Clip-On Solar Lights, 600LM Solar RV Awning Light for Camper, Porch, Fence (2Pcs, Black)",
     "type": "should_test",
@@ -5200,17 +5211,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81gavFKnPPL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZ3NHX3Z",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HDZ6J42W",
-    "title": "SinKeu 300W 260Wh Portable Power Station with 40W Solar Panel Included",
-    "type": "should_test",
-    "score": 68.3,
-    "price": 209.98,
-    "bsr": 10569,
-    "image_url": "https://m.media-amazon.com/images/I/71Ic2bOHeRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDZ6J42W",
     "walmart_url": null
   },
   {
@@ -5731,6 +5731,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGR2586Z",
+    "title": "BILT HARD 5500W Dual Fuel Inverter Generator, Gasoline/LPG",
+    "type": "should_test",
+    "score": 66.8,
+    "price": 449.99,
+    "bsr": 7477,
+    "image_url": "https://m.media-amazon.com/images/I/71Fw61n-OqL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGR2586Z",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GPWBVY58",
     "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
     "type": "should_test",
@@ -6248,17 +6259,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6HN2LZ6",
-    "title": "Genkins 4200W Portable Inverter Generator, Quiet Lightweight for Camping Home Backup",
-    "type": "should_test",
-    "score": 65.05,
-    "price": 369.0,
-    "bsr": 14468,
-    "image_url": "https://m.media-amazon.com/images/I/617cM83953L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6HN2LZ6",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H3235H2C",
     "title": "3 Stage RV Water Filter System, for RVs, Campers &amp; Boats, | 0.2 Micron Outdoor Camper Water Filter with Compact 5-Inch Filter",
     "type": "should_test",
@@ -6278,6 +6278,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FbHUpUrUL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8HF9VH5",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6HN2LZ6",
+    "title": "Genkins 4200W Portable Inverter Generator, Quiet Lightweight for Camping Home Backup",
+    "type": "should_test",
+    "score": 64.9,
+    "price": 369.0,
+    "bsr": 11128,
+    "image_url": "https://m.media-amazon.com/images/I/617cM83953L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6HN2LZ6",
     "walmart_url": null
   },
   {
@@ -11407,6 +11418,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7C349DW",
+    "title": "368 LED Magnetic Solar Lights Outdoor Waterproof with Motion Sensor",
+    "type": "candidate",
+    "score": 62.2,
+    "price": 26.99,
+    "bsr": 9182,
+    "image_url": "https://m.media-amazon.com/images/I/71v2MkvC6BL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7C349DW",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8XPWVL7",
     "title": "Tiooii RV Loveseat Recliner Sofa, Wall Hugger Reclining RV Couch with USB | RV Reclining Loveseat with Massage, Pocket, Cup H",
     "type": "candidate",
@@ -11470,17 +11492,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/612D8PM+e6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H48JCTTX",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7C349DW",
-    "title": "368 LED Magnetic Solar Lights Outdoor Waterproof with Motion Sensor",
-    "type": "candidate",
-    "score": 61.25,
-    "price": 30.99,
-    "bsr": 10808,
-    "image_url": "https://m.media-amazon.com/images/I/71v2MkvC6BL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7C349DW",
     "walmart_url": null
   },
   {
@@ -19299,7 +19310,7 @@
     "type": "candidate",
     "score": 46.25,
     "price": 206.37,
-    "bsr": null,
+    "bsr": 19520,
     "image_url": "https://m.media-amazon.com/images/I/61tbFdS5EHL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6GMDS2H",
     "walmart_url": null
@@ -20905,7 +20916,7 @@
     "type": "candidate",
     "score": 44.0,
     "price": 22.99,
-    "bsr": 7310,
+    "bsr": 8061,
     "image_url": "https://m.media-amazon.com/images/I/61b2jfLekpL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFMCM4HL",
     "walmart_url": null
@@ -22470,6 +22481,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Nf7an3uCL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDRVJNZZ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H9NZNYXZ",
+    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
+    "type": "candidate",
+    "score": 41.5,
+    "price": 14.24,
+    "bsr": 5416,
+    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
     "walmart_url": null
   },
   {
@@ -24838,6 +24860,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H2914TR9",
+    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
+    "type": "candidate",
+    "score": 35.7,
+    "price": 4.99,
+    "bsr": 6324,
+    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCZ53YJZ",
     "title": "Fujsnmu 26&quot; W×32&quot; H RV Teardrop Trailer Door for Campers(Right) | Aluminum Alloy Frame, Tempered Glass, Waterproof Insulated,",
     "type": "candidate",
@@ -25069,17 +25102,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H5KY3962",
-    "title": "G383 RV Keys, 3 Pack Precut Replacement Keys | G301-G390 Series RV Keys Compatible with Global Link RV Trailer Camper Locks,",
-    "type": "candidate",
-    "score": 34.95,
-    "price": 14.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71QU0uop5LL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5KY3962",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H46N65XL",
     "title": "7 Pin Trailer Wiring Harness, 7 Way &amp; 4 Flat Hitch Receptacle Kit for USCAR | Multi-Tow USCAR Plug for Ford GM Chevy Ram - Sn",
     "type": "candidate",
@@ -25176,17 +25198,6 @@
     "bsr": 263160,
     "image_url": "https://m.media-amazon.com/images/I/61N1vSWAxlL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4LSTVS1",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H2914TR9",
-    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
-    "type": "candidate",
-    "score": 34.7,
-    "price": 4.99,
-    "bsr": 6879,
-    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
     "walmart_url": null
   },
   {
@@ -26070,14 +26081,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9NZNYXZ",
-    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
+    "asin": "B0H5KY3962",
+    "title": "G383 RV Keys, 3 Pack Precut Replacement Keys",
     "type": "candidate",
     "score": 32.7,
-    "price": 14.24,
-    "bsr": 5946,
-    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
+    "price": 14.99,
+    "bsr": 7781,
+    "image_url": "https://m.media-amazon.com/images/I/71QU0uop5LL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5KY3962",
     "walmart_url": null
   },
   {
@@ -26639,6 +26650,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DjbL48YIL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3KJG1WF",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H4Q6DGW4",
+    "title": "2&quot; Trailer Hitch Cover [Reinforced Rubber Strap] Heavy Duty Rustproof Flat",
+    "type": "candidate",
+    "score": 31.25,
+    "price": 5.49,
+    "bsr": 12058,
+    "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
     "walmart_url": null
   },
   {
@@ -27610,17 +27632,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H4Q6DGW4",
-    "title": "2&quot; Trailer Hitch Cover [Reinforced Rubber Strap] Heavy Duty Rustproof Flat",
-    "type": "candidate",
-    "score": 26.45,
-    "price": 5.49,
-    "bsr": 12082,
-    "image_url": "https://m.media-amazon.com/images/I/61Em+VsaH+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4Q6DGW4",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBBFPXWV",
     "title": "Utility Trailer Cover for Load Trail DS4808 4&#x27;×8&#x27; | Utility Trailer Cover Waterproof Windproof Heavy Duty Dump Trailer Cover,",
     "type": "candidate",
@@ -28410,6 +28421,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/619SUeggfgL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6X74XVN",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H4D9MBTN",
+    "title": "WR55X26671 LED Light Board Compatible with GE Refrigerators (4)",
+    "type": "candidate",
+    "score": 17.45,
+    "price": 15.99,
+    "bsr": 11849,
+    "image_url": "https://m.media-amazon.com/images/I/61j02VLo2dL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4D9MBTN",
     "walmart_url": null
   },
   {
