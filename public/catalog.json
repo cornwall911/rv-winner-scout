@@ -715,6 +715,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9CN5CFJ",
+    "title": "65,000 BTU RV Tankless Water Heater, 12V DC, 18x15 inches White",
+    "type": "winner",
+    "score": 85.65,
+    "price": 349.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61WhMobM0eL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9CN5CFJ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H9KBN91X",
     "title": "9000 BTU 12V RV AC Unit, Low Power Consumption, 50dB Ultra Quiet &amp; Fast Cooling Upgraded Rooftop AC Unit with Remote Control",
     "type": "winner",
@@ -1284,17 +1295,6 @@
     "bsr": 23557,
     "image_url": "https://m.media-amazon.com/images/I/71S1LuFIN1L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZLGTZWJ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9CN5CFJ",
-    "title": "Banrterd 65,000 BTU RV Tankless Water Heater, 12V DC, 18x15 inches White | with Dual Water Outlet, On Demand Instant Hot Wate",
-    "type": "winner",
-    "score": 82.5,
-    "price": 349.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WhMobM0eL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9CN5CFJ",
     "walmart_url": null
   },
   {
@@ -4796,17 +4796,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8SP7SNL",
-    "title": "25FT Heated Water Hose for RV, -40°F Freeze Resistant Heated Hose with Thermostat, for Winter Camping, Travel Trailer Motorho",
-    "type": "should_test",
-    "score": 69.75,
-    "price": 69.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lWMprlVlL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8SP7SNL",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJ2N7FJ1",
     "title": "6000W Inverter Generator, Portable Gas Powered Generator",
     "type": "should_test",
@@ -5134,6 +5123,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61I6+q+tkjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQN2CRT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8SP7SNL",
+    "title": "Heated Water Hose for RV 25FT, -40°F Freeze Resistant Heated Hose with Thermostat, for Winter Camping, Travel Trailer Motorho",
+    "type": "should_test",
+    "score": 68.5,
+    "price": 69.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lWMprlVlL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8SP7SNL",
     "walmart_url": null
   },
   {
@@ -15675,6 +15675,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6JBGDG4",
+    "title": "Ciseret 10FT Heated RV Sewer Hose Sleeve Camper Insulation for Winter | Avoid Freezing at -45°F, Auto ON/OFF &amp; Overheat Prote",
+    "type": "candidate",
+    "score": 50.5,
+    "price": 72.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WeaUVUhqL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6JBGDG4",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H3TBK9JX",
     "title": "23×44 Inch RV Trailer Entry Door, Left &amp; Right Driver Passenger Side Teardrop Camper Doors, Aluminum Alloy Tempered Glass Waterproof Insulated Doors with 8 Keys (Right)",
     "type": "candidate",
@@ -21414,17 +21425,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61y+rg4--rL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9X815XK",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H69D6WM1",
-    "title": "1.25&quot; Fresh Water Fill Hose 5FT, RV Concession Tank Hose for Marine/Camper",
-    "type": "candidate",
-    "score": 43.55,
-    "price": 20.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/81ehu58ErKL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H69D6WM1",
     "walmart_url": null
   },
   {
@@ -27970,6 +27970,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61s5aE47WcL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCJYDSD8",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H69D6WM1",
+    "title": "1.25&quot; Fresh Water Fill Hose 5FT, RV Concession Tank Hose for Marine/Camper | Transports Fresh Water; Fits RV, Boats, Campers,",
+    "type": "candidate",
+    "score": 25.95,
+    "price": 20.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ehu58ErKL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H69D6WM1",
     "walmart_url": null
   },
   {
