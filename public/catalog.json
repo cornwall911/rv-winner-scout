@@ -374,17 +374,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HL8GM6WY",
-    "title": "8KW Diesel Heater, 12V/24V Parking Heater with LCD Display, Automatic Start and Stop, for RV Garage Camper Fishing SUV Car Tr",
-    "type": "winner",
-    "score": 89.35,
-    "price": 109.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71YRfntBKZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HL8GM6WY",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H45FXY1V",
     "title": "ZEROXCLUB 3 CAM 7&quot; Touchscreen Magentic Solar Wireless Backup Camera | 1 Rear View Camera 2 Side View Cameras Wireless Solar",
     "type": "winner",
@@ -404,6 +393,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81QArkkS5XL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H28WH54Z",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HL8GM6WY",
+    "title": "8KW Diesel Heater, 12V/24V Parking Heater with LCD Display, Automatic Start and Stop, for RV Garage Camper Fishing SUV Car Tr",
+    "type": "winner",
+    "score": 89.2,
+    "price": 109.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71YRfntBKZL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HL8GM6WY",
     "walmart_url": null
   },
   {
@@ -1361,17 +1361,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71j7FHyekuL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3FDSMHF",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HHY3BLNN",
-    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200 | Stop venting sewer gases into your RV! Passive",
-    "type": "winner",
-    "score": 82.3,
-    "price": 100.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
     "walmart_url": null
   },
   {
@@ -3363,6 +3352,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81HH32ucFWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GHF8P4CK",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHY3BLNN",
+    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200 | Stop venting sewer gases into your RV! Passive",
+    "type": "should_test",
+    "score": 75.5,
+    "price": 100.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
     "walmart_url": null
   },
   {
@@ -6336,6 +6336,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7H16JBF",
+    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
+    "type": "should_test",
+    "score": 64.75,
+    "price": 39.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJ1CH8Y8",
     "title": "4-in-1 RV Accessories Gas Detector,Hardwired 12V DC for Motorhome Travel Trailer, Motor Coach, Truck Camper",
     "type": "should_test",
@@ -6487,6 +6498,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81S1ATxwnKL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2YF9LQ2",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5BTXSVN",
+    "title": "FOGATTI Camper Heater 35,000 BTU - for Camper, Motorhome, RV Owners",
+    "type": "should_test",
+    "score": 64.4,
+    "price": 699.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61sdfKSCcOL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5BTXSVN",
     "walmart_url": null
   },
   {
@@ -6850,17 +6872,6 @@
     "bsr": 716847,
     "image_url": "https://m.media-amazon.com/images/I/715pEYIUIzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H44261QZ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H5BTXSVN",
-    "title": "FOGATTI Camper Heater 35,000 BTU - for Camper, Motorhome, RV Owners",
-    "type": "should_test",
-    "score": 63.2,
-    "price": 699.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61sdfKSCcOL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5BTXSVN",
     "walmart_url": null
   },
   {
@@ -7568,17 +7579,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBKJSGLW",
-    "title": "6KW 12V Hydronic Coolant Heater, Diesel Water Heater LCD Remote Control",
-    "type": "should_test",
-    "score": 61.85,
-    "price": 230.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61poiSBHhfL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBKJSGLW",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HD6NKZY9",
     "title": "DARAN Cubus600L Portable Power Station 576Wh Emergency Battery Backup | 3 AC Outlets 600W Peak 1200W, Solar Generator, Home P",
     "type": "should_test",
@@ -7950,6 +7950,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VmR3Nps3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HLZ9B92N",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBKJSGLW",
+    "title": "6KW 12V Hydronic Coolant Heater, Diesel Water Heater LCD Remote Control",
+    "type": "should_test",
+    "score": 60.9,
+    "price": 230.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61poiSBHhfL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBKJSGLW",
     "walmart_url": null
   },
   {
@@ -12075,17 +12086,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71aVNmRgIyL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4QX7R7H",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7H16JBF",
-    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elixir Heng&#x27;s Jensen 14x14 Vents",
-    "type": "candidate",
-    "score": 57.5,
-    "price": 39.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61KtLOf7PSL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
     "walmart_url": null
   },
   {
@@ -22066,6 +22066,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHKNQRFX",
+    "title": "VEVOR Boat Engine Compartment Heater 600W Bilge Heater Fit Boats Up to 28FT",
+    "type": "candidate",
+    "score": 42.5,
+    "price": 184.9,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71p0dWTp+kL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHKNQRFX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1J828TX",
     "title": "Ycauty Heavy Duty Steel Construction Attack Step Load Capacity 600 lbs Rear Bumper Step for SUV RV Truck",
     "type": "candidate",
@@ -24486,6 +24497,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HG4L1MR6",
+    "title": "Airtaxi Universal 5.8&quot; Ceiling Garnish Trim Ring for 14&quot; RV Vent Fan | White Modular Design, Simple assembly required before",
+    "type": "candidate",
+    "score": 37.25,
+    "price": 29.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41odZUirxbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG4L1MR6",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHD23BRG",
     "title": "51&quot; RV Roof Vent Seal BVD0455-01 Replacement, Vinyl StripRV Roof Vent Seal | for Camco Ventline Hengs, Weatherproof Seal, Tra",
     "type": "candidate",
@@ -24703,17 +24725,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ChbqpBc+L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGKWJGD3",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HG4L1MR6",
-    "title": "Airtaxi Universal 5.8&quot; Ceiling Garnish Trim Ring for 14&quot; RV Vent Fan | White Modular Design, Simple assembly required before",
-    "type": "candidate",
-    "score": 36.25,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41odZUirxbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG4L1MR6",
     "walmart_url": null
   },
   {
