@@ -1122,17 +1122,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBX577L6",
-    "title": "12V RV Air Conditioner Rooftop, Low Power AC Unit with Heating and Cooling | Fast Cooling, 50dB Ultra Quiet Operation, Panel",
-    "type": "winner",
-    "score": 83.15,
-    "price": 443.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61YsRDwneZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBX577L6",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H14QBS6X",
     "title": "8&#x27; x 13&#x27;3&quot; RV Awning Privacy Shade with Zipper, 90% UV Block, Shadow Black | 8&#x27; x 13&#x27;3&quot;, Shadow Black; breathable zipper mesh",
     "type": "winner",
@@ -1581,17 +1570,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61y-+Wft4KL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC3J97LL",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGLYS6X1",
-    "title": "QGHMWCZ 12V RV Air Conditioner with Heater,Portable Inverter Ac | Small Rv Ac Unit Low Power Draw 50db Quiet forCamper Truck",
-    "type": "winner",
-    "score": 81.2,
-    "price": 435.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/612tLsVJrxL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGLYS6X1",
     "walmart_url": null
   },
   {
@@ -2065,6 +2043,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/714q5E71C5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKW68WB3",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGLYS6X1",
+    "title": "12V RV Air Conditioner with Heater,Portable Inverter Ac",
+    "type": "should_test",
+    "score": 79.45,
+    "price": 435.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/612tLsVJrxL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGLYS6X1",
     "walmart_url": null
   },
   {
@@ -3352,6 +3341,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XERKFDjCL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GGY4GKNP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6RJWP4B",
+    "title": "Ultra-Thin Electric Parking Air Conditioner Cooling &amp; Heating Cooling-60V~72V",
+    "type": "should_test",
+    "score": 75.75,
+    "price": 606.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61-iz3pcwkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6RJWP4B",
     "walmart_url": null
   },
   {
@@ -4870,6 +4870,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71xteOKU7SL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3TH7HK3",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBX577L6",
+    "title": "12V RV Air Conditioner Rooftop, Low Power AC Unit with Heating and Cooling | Fast Cooling, 50dB Ultra Quiet Operation, Panel",
+    "type": "should_test",
+    "score": 69.5,
+    "price": 453.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61YsRDwneZL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBX577L6",
     "walmart_url": null
   },
   {
@@ -6699,17 +6710,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8728XS4",
-    "title": "YeloDeer 120V RV Tank Heater Pad 12&quot; x 18&quot;, with Lighted Plug (2 Pads) | RV Water Tank Heater Built-In Overheat Protection fo",
-    "type": "should_test",
-    "score": 64.0,
-    "price": 59.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bpAwRiHZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8728XS4",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHRDJ3YP",
     "title": "6000W Portable Inverter Generator, Open Frame Gas Powered Generator for Home Use, 30A RV Ready, 3-Gallon Fuel Tank for Camping, Jobsite and Emergency Backup",
     "type": "should_test",
@@ -6806,6 +6806,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/51dLlKtg8pL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJWXJDRJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8728XS4",
+    "title": "YeloDeer 120V RV Tank Heater Pad 12&quot; x 18&quot;, with Lighted Plug (2 Pads) | RV Water Tank Heater Built-In Overheat Protection fo",
+    "type": "should_test",
+    "score": 63.5,
+    "price": 59.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bpAwRiHZL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8728XS4",
     "walmart_url": null
   },
   {
@@ -10450,17 +10461,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HK4VBV2B",
-    "title": "DFMDH35111 RV Propane Furnace 35000 BTU 12V Camper Trailer Motorhome | Doorless Design, Quiet Operation with Soft Start Techn",
-    "type": "should_test",
-    "score": 54.95,
-    "price": 729.95,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KPiWPRSWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HK4VBV2B",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H7R169T6",
     "title": "RV Toilet Water Valve Kit for Dometic 300/301/310/311/320/321",
     "type": "should_test",
@@ -10612,6 +10612,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61wF8H3WDvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYYVQ6P4",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HK4VBV2B",
+    "title": "DFMDH35111 RV Propane Furnace 35000 BTU 12V Camper Trailer Motorhome | Doorless Design, Quiet Operation with Soft Start Techn",
+    "type": "should_test",
+    "score": 54.25,
+    "price": 729.95,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KPiWPRSWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HK4VBV2B",
     "walmart_url": null
   },
   {
@@ -11184,17 +11195,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/412Ezo3S2cL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6ZJD9DN",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HG6RGBWB",
-    "title": "RV Toilet Water Valve Kit for Dometic Sealand 300 385311641&amp;385311658 Seals",
-    "type": "should_test",
-    "score": 49.5,
-    "price": 14.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71R1qQIqbAL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG6RGBWB",
     "walmart_url": null
   },
   {
@@ -12881,6 +12881,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H59RXXGS",
+    "title": "10 Pcs Heavy Duty Camper Leveling Blocks for Single and Dual Wheels | Interlocking Stackable Jack Pads with Carrying Bag, Hea",
+    "type": "candidate",
+    "score": 55.5,
+    "price": 29.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HjSegcYGL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H59RXXGS",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H29BK8Z3",
     "title": "Dual Color RV Lights Exterior, Aluminum 180° 3-Sided RV LED Porch Light 1600LM Super Bright Outdoor Outside White/Amber Lighting fit for RVs Travel Trailer Truck Camper 5th Wheel Motorhome (2X)",
     "type": "candidate",
@@ -13846,17 +13857,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/715lfCiK4mL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5JZ1HTK",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H59RXXGS",
-    "title": "10 Pcs Heavy Duty Camper Leveling Blocks for Single and Dual Wheels | Interlocking Stackable Jack Pads with Carrying Bag, Hea",
-    "type": "candidate",
-    "score": 53.5,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61HjSegcYGL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H59RXXGS",
     "walmart_url": null
   },
   {
@@ -19415,6 +19415,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HG6RGBWB",
+    "title": "RV Toilet Water Valve Kit for Dometic Sealand 300 385311641&amp;385311658 Seals | Camper Water Closet Valve Seal Repair Assembly,",
+    "type": "candidate",
+    "score": 46.25,
+    "price": 14.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71R1qQIqbAL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG6RGBWB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8R52L32",
     "title": "Tangpxta RV Fresh Water Tank Filling Funnel | Water Fill Accessory, RV Compatible,Camping water filling adapter",
     "type": "candidate",
@@ -21989,6 +22000,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDYGLNB9",
+    "title": "JIYIZO RV Air Vent Cover – 5.5&quot; Face 4&quot; Back Round Register with Damper, Round Rotaire Grille, 360 Degree Adjustable Rotating",
+    "type": "candidate",
+    "score": 43.0,
+    "price": 10.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61m5TqlnQiL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDYGLNB9",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFHVTH48",
     "title": "4&quot; Extension Clear RV Sewer HoseAdapter - Odor-Proof &amp; Leak-Proof | Anti-Aging Resin, Leak-Proof &amp; Odor-Proof Waste Valve Con",
     "type": "candidate",
@@ -22371,17 +22393,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61pXlNMvK3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HH9G5ZMS",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HDYGLNB9",
-    "title": "JIYIZO RV Air Vent Cover – 5.5&quot; Face 4&quot; Back Round Register with Damper, Round Rotaire Grille, 360 Degree Adjustable Rotating",
-    "type": "candidate",
-    "score": 42.25,
-    "price": 12.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61m5TqlnQiL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDYGLNB9",
     "walmart_url": null
   },
   {
@@ -23009,6 +23020,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vW4RhTfzL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD6LLV2S",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCCLPWKV",
+    "title": "22x15 Inch RV Emergency Push Out Exit Window Camper Trailer Replace Window | Adjustable 30-40° Opening Angle, Secure Locking",
+    "type": "candidate",
+    "score": 40.9,
+    "price": 79.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/715sQ3R6tlL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCCLPWKV",
     "walmart_url": null
   },
   {
