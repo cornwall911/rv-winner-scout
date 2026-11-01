@@ -1166,17 +1166,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0GYD3TVDV",
-    "title": "Soft Start for RV Air Conditioners Reduces Startup Current by up to 75%, Easy DIY Install, Quiet Start IP65 Waterproof Revers",
-    "type": "winner",
-    "score": 82.75,
-    "price": 79.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71YW5tZV0CL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GYD3TVDV",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HB4NXXZ3",
     "title": "Treeligo 12V Truck Air Conditioner, Mini Split AC Unit, 8000 BTU Fast Cooling DC Air Conditioner for Semi Truck, Camper, Cons",
     "type": "winner",
@@ -1375,6 +1364,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H82QFY35",
+    "title": "RV Airflow Compatible with Furrion Chill Cube 18K AC Silencer",
+    "type": "winner",
+    "score": 82.25,
+    "price": 139.0,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71u1uehbOVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H82QFY35",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZLLJ9PF",
     "title": "RV Shower Head with Hose, High Pressure Handheld RV Shower Head Replacement with On Off Switch,5 Modes,Power Jet, Camper Shower Head for RV,Travel Trailer,Motorhome,Boat RV Essentials,Gray",
     "type": "winner",
@@ -1438,6 +1438,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61EgUXTPW4L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2ZTJMZ8",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0GYD3TVDV",
+    "title": "Soft Start for RV Air Conditioners Reduces Startup Current by up to 75%, Easy DIY Install, Quiet Start IP65 Waterproof Revers",
+    "type": "winner",
+    "score": 81.7,
+    "price": 79.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71YW5tZV0CL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GYD3TVDV",
     "walmart_url": null
   },
   {
@@ -5750,17 +5761,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/91mdlpI6DuL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBVY6661",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H82QFY35",
-    "title": "RV Airflow Compatible with Furrion Chill Cube 18K AC Silencer | RV Air Conditioner Performance Upgrade",
-    "type": "should_test",
-    "score": 66.75,
-    "price": 139.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71u1uehbOVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H82QFY35",
     "walmart_url": null
   },
   {
@@ -15873,17 +15873,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBQKZJJY",
-    "title": "2 Pack 6-7/8&quot; RV AC Vent Cover with Louver （for 5 7/8&quot; ceiling ducts） | 360° Adjustable Airflow ,Replacement RV Ceiling Air V",
-    "type": "candidate",
-    "score": 50.15,
-    "price": 19.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/618cdjyLpcL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQKZJJY",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6J9JYL9",
     "title": "RV Tire Covers Set of 4, Fits 26&quot;to 29&quot; Tires for Camper, Trailers",
     "type": "candidate",
@@ -18235,6 +18224,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71NZV9drETL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H97B19GX",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBQKZJJY",
+    "title": "2 Pack 6-7/8&quot; RV AC Vent Cover with Louver （for 5 7/8&quot; ceiling ducts）",
+    "type": "candidate",
+    "score": 47.5,
+    "price": 19.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/618cdjyLpcL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQKZJJY",
     "walmart_url": null
   },
   {
