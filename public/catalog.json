@@ -566,7 +566,7 @@
     "type": "winner",
     "score": 88.5,
     "price": 110.49,
-    "bsr": 3556,
+    "bsr": 3415,
     "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
     "walmart_url": null
@@ -3773,6 +3773,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9RWG765",
+    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
+    "type": "should_test",
+    "score": 74.25,
+    "price": 239.99,
+    "bsr": 2275,
+    "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC81QFGD",
     "title": "KNOX 5th Wheel RV Skirt with Twist Fasteners, Zippered Panels, 5.5x19.6 ft, Black",
     "type": "should_test",
@@ -3894,17 +3905,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0GXXZT82D",
-    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
-    "type": "should_test",
-    "score": 73.5,
-    "price": 279.29,
-    "bsr": 5667,
-    "image_url": "https://m.media-amazon.com/images/I/71KX+LCG+pL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H2M6D97S",
     "title": "Portable Power Station 3600Wh PowerMax 3600 SE With 2x200W Solar Panel | 3600W (Surge 7200W) Output, LiFePO4 Solar Generator",
     "type": "should_test",
@@ -3957,17 +3957,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61IN-hTcTvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HLCYKGVW",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCZZ39DX",
-    "title": "Anker SOLIX S5000 Portable Power Station, 5,024Wh, 4,500W Rated (120V/240V)",
-    "type": "should_test",
-    "score": 73.15,
-    "price": 2939.0,
-    "bsr": 5447,
-    "image_url": "https://m.media-amazon.com/images/I/71U3EEelixL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCZZ39DX",
     "walmart_url": null
   },
   {
@@ -4122,17 +4111,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81DHJKiFVRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6SV7GY5",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HH9BYJBB",
-    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
-    "type": "should_test",
-    "score": 72.5,
-    "price": 64.99,
-    "bsr": 4380,
-    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
@@ -4840,6 +4818,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0GXXZT82D",
+    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
+    "type": "should_test",
+    "score": 69.75,
+    "price": 286.68,
+    "bsr": 4966,
+    "image_url": "https://m.media-amazon.com/images/I/71KX+LCG+pL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZYBWMHD",
     "title": "Motorhome Electric Steps, Aluminum Alloy Steps, Electric Retractable RV Stairs, 440 LBS Load Capacity, for RV, Campers Safe Entry and Exit 12V-Single",
     "type": "should_test",
@@ -4914,17 +4903,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/5196rZYcx8L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HG15818S",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9RWG765",
-    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output | 1200W Peak, LiFePO4 Battery Backup, 10ms UPS, 8",
-    "type": "should_test",
-    "score": 69.35,
-    "price": 239.98,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81hASwXbptL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
     "walmart_url": null
   },
   {
@@ -5527,7 +5505,7 @@
     "type": "should_test",
     "score": 67.5,
     "price": 409.99,
-    "bsr": 1580,
+    "bsr": 1699,
     "image_url": "https://m.media-amazon.com/images/I/71yr+PWWTEL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
     "walmart_url": null
@@ -6047,6 +6025,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81aa5z2nZqL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZXB1MTS",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCZZ39DX",
+    "title": "Anker SOLIX S5000 Portable Power Station, 5,024Wh, 4,500W Rated (120V/240V)",
+    "type": "should_test",
+    "score": 66.05,
+    "price": 2939.0,
+    "bsr": 4864,
+    "image_url": "https://m.media-amazon.com/images/I/71U3EEelixL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCZZ39DX",
     "walmart_url": null
   },
   {
@@ -6641,6 +6630,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61QGDGId-jL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1W7P3XG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HH9BYJBB",
+    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
+    "type": "should_test",
+    "score": 64.0,
+    "price": 64.99,
+    "bsr": 4166,
+    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
@@ -10032,6 +10032,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCVBW5M1",
+    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets for RVs,R502",
+    "type": "should_test",
+    "score": 56.0,
+    "price": 52.99,
+    "bsr": 4329,
+    "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCVBW5M1",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H4JJCH7K",
     "title": "MOLLOR 2-Part RV Roof Coating Kit, White, Coating &amp; Primer 1.32 Gallon | Covers up to 86 sq ft, Water-based Low Odor, Reflect",
     "type": "should_test",
@@ -10766,17 +10777,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71u+DNMsywL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8DLCCPC",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCVBW5M1",
-    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets for RVs,R502",
-    "type": "should_test",
-    "score": 53.5,
-    "price": 52.99,
-    "bsr": 4725,
-    "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCVBW5M1",
     "walmart_url": null
   },
   {
