@@ -1540,17 +1540,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCMN6LFC",
-    "title": "ECO-WORTHY RV Macerator Pump 12V Portable Macerator Waste Pump 12GPM Suction 3.2 feet Lift 10 feet Quick Release Sewage Pump",
-    "type": "winner",
-    "score": 81.25,
-    "price": 67.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71QWRdk3DKL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCMN6LFC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGR4T2NT",
     "title": "Portable Power Station 1000W, 1152Wh LiFePO4 Solar Generator | 4 AC Outlets, 100W PD USB-C, 4 Charging Modes, 4-Fan Rapid Coo",
     "type": "winner",
@@ -1867,6 +1856,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61LyEYXaQmL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDZ5Y71X",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCMN6LFC",
+    "title": "ECO-WORTHY RV Macerator Pump 12V Portable Macerator Waste Pump 12GPM Suction 3.2 feet Lift 10 feet Quick Release Sewage Pump for RV Camper Boat Kitchen",
+    "type": "winner",
+    "score": 80.15,
+    "price": 67.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71QWRdk3DKL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCMN6LFC",
     "walmart_url": null
   },
   {
@@ -4268,6 +4268,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6VWS6TQ",
+    "title": "Adjustable Water Pressure Regulator for RV Camper with Gauge,2027 Update",
+    "type": "should_test",
+    "score": 71.5,
+    "price": 20.98,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71AOZdCGYbL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6VWS6TQ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H72RMLSN",
     "title": "SEAFLO SFVF-01K Holding Tank Vent Filter Kit with Cartridge, End Pieces, Brackets, Hose Adapters &amp; Screws, Fits 5/8&quot; 16mm, 3/",
     "type": "should_test",
@@ -5486,17 +5497,6 @@
     "bsr": 23142,
     "image_url": "https://m.media-amazon.com/images/I/81O1NEhPj5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H28SJ2W2",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGD3S8HQ",
-    "title": "H&amp;G Lifestyles Heated RV Sewer Hose Sleeve for Campers 15FT",
-    "type": "should_test",
-    "score": 67.75,
-    "price": 79.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/8165Qu2VKxL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGD3S8HQ",
     "walmart_url": null
   },
   {
@@ -8822,6 +8822,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDHM6XDG",
+    "title": "TianPtion RV Winterizing Kit with 0-60psi Pressure Gauge &amp; Shut-Off Valve | 17 Inch RV Winterize Blowout Adapter-Garden Sprin",
+    "type": "should_test",
+    "score": 59.25,
+    "price": 24.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xMZH2s0qL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDHM6XDG",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1RJJPMP",
     "title": "YYLXTEX 87 Gallon/330L Water Bladder Tank - Portable Collapsible Water Storage Bag with Heavy-Duty PVC Material for Camping,R",
     "type": "should_test",
@@ -8830,17 +8841,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AB0q-J0gL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1RJJPMP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HDHM6XDG",
-    "title": "TianPtion RV Winterizing Kit with 0-60psi Pressure Gauge &amp; Shut-Off Valve | 17 Inch RV Winterize Blowout Adapter-Garden Sprin",
-    "type": "should_test",
-    "score": 59.0,
-    "price": 24.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xMZH2s0qL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDHM6XDG",
     "walmart_url": null
   },
   {
@@ -8918,17 +8918,6 @@
     "bsr": 43124,
     "image_url": "https://m.media-amazon.com/images/I/71IA9KsOEBL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5NZ1L4L",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6VWS6TQ",
-    "title": "Adjustable Water Pressure Regulator for RV Camper with Gauge,2027 Update | Water Pressure Reducer,RV Accessories,Durable Mate",
-    "type": "should_test",
-    "score": 58.75,
-    "price": 20.98,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AOZdCGYbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6VWS6TQ",
     "walmart_url": null
   },
   {
@@ -10370,6 +10359,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wqacuSM5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8JFX3H5",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGD3S8HQ",
+    "title": "H&amp;G Lifestyles Heated RV Sewer Hose Sleeve for Campers 15FT | Heated Sewage Hose Skirting Cover for RV Campers, Anti-freeze S",
+    "type": "should_test",
+    "score": 55.1,
+    "price": 79.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8165Qu2VKxL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGD3S8HQ",
     "walmart_url": null
   },
   {
@@ -12518,6 +12518,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8XRLQLT",
+    "title": "RV External Shower, 3/8 in by 15-Foot Coil Hose with 1/2 Inch Quick Connect Adapter for RV Outdoor Shower, Boat Hose Coil, 3/",
+    "type": "candidate",
+    "score": 57.0,
+    "price": 22.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61F9Tfps5AL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8XRLQLT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGG5J8TG",
     "title": "RV Windshield Cover for Ford E450 ，Light Silver | 4-Layer Protection, All-Season Shield, Mirror Cutouts, Wind Resistant, Priv",
     "type": "candidate",
@@ -13915,17 +13926,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8XRLQLT",
-    "title": "RV External Shower, 3/8 in by 15-Foot Coil Hose with 1/2 Inch Quick Connect Adapter for RV Outdoor Shower, Boat Hose Coil, 3/",
-    "type": "candidate",
-    "score": 53.5,
-    "price": 22.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61F9Tfps5AL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8XRLQLT",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HCJTMW9H",
     "title": "G371 Universal RV Replacement Key Set Compatible with Global Link Trailer Camper Locks, Include G301-G390 Series G391 CH751 R001 Pre Cut Keys",
     "type": "candidate",
@@ -14209,17 +14209,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WJASMQYlL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGR25NTV",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGQKJ2G1",
-    "title": "OUTPRIZE RV Sewer Hose Storage Tube Carrier, Adjustable 50-94 Inch | With lockable Door Cap, 2 Mounting Tabs and Screws Inclu",
-    "type": "candidate",
-    "score": 53.0,
-    "price": 59.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61cs6FcMQbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGQKJ2G1",
     "walmart_url": null
   },
   {
@@ -15012,6 +15001,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61JAa1ba-eL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMJ52324",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGQKJ2G1",
+    "title": "OUTPRIZE RV Sewer Hose Storage Tube Carrier, Adjustable 50-94 Inch | With lockable Door Cap, 2 Mounting Tabs and Screws Inclu",
+    "type": "candidate",
+    "score": 51.5,
+    "price": 59.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61cs6FcMQbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGQKJ2G1",
     "walmart_url": null
   },
   {
@@ -17006,6 +17006,28 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCBM6Y8S",
+    "title": "FUSCH Aluminum RV Table and Floor Mounting Base, Heavy-Duty Thickened | Heavy Duty Aluminum RV Table Base Mount For Camper Tr",
+    "type": "candidate",
+    "score": 49.25,
+    "price": 25.69,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719hxL4uGfL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCBM6Y8S",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HG6RGBWB",
+    "title": "RV Toilet Water Valve Kit for Dometic Sealand 300 385311641&amp;385311658 Seals | Camper Water Closet Valve Seal Repair Assembly,",
+    "type": "candidate",
+    "score": 49.25,
+    "price": 14.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71R1qQIqbAL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG6RGBWB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HKF97VZT",
     "title": "RV Entry Door with Frame for Teardrop Camper Trailer 23&quot;x 44&quot; | Solid Tempered Glass Fit Thickness 0.7-0.78in, Frame Resists",
     "type": "candidate",
@@ -17245,6 +17267,17 @@
     "bsr": 15346,
     "image_url": "https://m.media-amazon.com/images/I/712PUISic9L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGL6RYTH",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHG5NDM6",
+    "title": "Prime RV Gravity 20ft RV Premium RV Sewer Hose Kit - 90° Clear Elbow, Crush &amp; Crack Resistant, Matt&#x27;s RV Reviews",
+    "type": "candidate",
+    "score": 49.0,
+    "price": 89.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Cv4oaIc2L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHG5NDM6",
     "walmart_url": null
   },
   {
@@ -18645,17 +18678,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HHG5NDM6",
-    "title": "Prime RV Gravity 20ft RV Premium RV Sewer Hose Kit - 90° Clear Elbow, Crush &amp; Crack Resistant, Matt&#x27;s RV Reviews",
-    "type": "candidate",
-    "score": 47.5,
-    "price": 89.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Cv4oaIc2L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHG5NDM6",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGFWJB1W",
     "title": "Holder Wall Mount Bracket Compatible with RV Propane Tank (1) | For 1LB 16 oz Propane Cylinder, Single Bottle Storage Rack fo",
     "type": "candidate",
@@ -18854,6 +18876,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H4R9LPX7",
+    "title": "Aluminum 2x10 RV Floor Vent Cover with 2 Removable Covers - 1 Pack | URMLCUS Magnet-Assisted Camper Floor Register,No Rattle,",
+    "type": "candidate",
+    "score": 47.25,
+    "price": 19.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uXP7NmIWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4R9LPX7",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7WWRSH1",
     "title": "EyGde RV Plumbing Vent Cap Stainless Steel with Filter Screen, 2 Packs | Durable stainless steel RV roof vent cap for campers",
     "type": "candidate",
@@ -18873,17 +18906,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MI4bbvu9L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD6NL2DM",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCBM6Y8S",
-    "title": "FUSCH Aluminum RV Table and Floor Mounting Base, Heavy-Duty Thickened | Heavy Duty Aluminum RV Table Base Mount For Camper Tr",
-    "type": "candidate",
-    "score": 47.0,
-    "price": 25.69,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719hxL4uGfL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCBM6Y8S",
     "walmart_url": null
   },
   {
@@ -19643,17 +19665,6 @@
     "bsr": 1516903,
     "image_url": "https://m.media-amazon.com/images/I/81zB2Gcz6ZL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H38K4GNV",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HG6RGBWB",
-    "title": "RV Toilet Water Valve Kit for Dometic Sealand 300 385311641&amp;385311658 Seals | Camper Water Closet Valve Seal Repair Assembly,",
-    "type": "candidate",
-    "score": 46.25,
-    "price": 14.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71R1qQIqbAL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG6RGBWB",
     "walmart_url": null
   },
   {
@@ -21326,17 +21337,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CD9YFsAwL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7W7D5JG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H4L9YNNV",
-    "title": "Safoner Aluminum RV Sewer Hose Storage Carrier,Camper Hose Tube Accessorie | Aluminum tube, I-beam mounting, Hinged vented en",
-    "type": "candidate",
-    "score": 44.25,
-    "price": 149.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RPv5qxzxL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4L9YNNV",
     "walmart_url": null
   },
   {
@@ -23735,6 +23735,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Nf-ObKrfL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8SNQG6S",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H4L9YNNV",
+    "title": "Safoner Aluminum RV Sewer Hose Storage Carrier,Camper Hose Tube Accessorie | Aluminum tube, I-beam mounting, Hinged vented en",
+    "type": "candidate",
+    "score": 39.75,
+    "price": 149.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RPv5qxzxL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4L9YNNV",
     "walmart_url": null
   },
   {
