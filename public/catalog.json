@@ -330,17 +330,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ7S8Y2K",
-    "title": "8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fishing SUV Car Trailer Camper Van Boat",
-    "type": "winner",
-    "score": 89.5,
-    "price": 96.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71iE23mWZ2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ7S8Y2K",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HMK7B4JP",
     "title": "AUTO-VOX Dual Solar Wireless Magnetic Backup Camera, 2-Min Easy Install",
     "type": "winner",
@@ -426,6 +415,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uvHnbnJ2L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H45FXY1V",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ7S8Y2K",
+    "title": "8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fi",
+    "type": "winner",
+    "score": 89.25,
+    "price": 98.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iE23mWZ2L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ7S8Y2K",
     "walmart_url": null
   },
   {
@@ -4279,6 +4279,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5BTXSVN",
+    "title": "FOGATTI Camper Heater 35,000 BTU - for Camper, Motorhome, RV Owners | 40dB Whisper-Quiet ，Easy Installation for Camper, Motor",
+    "type": "should_test",
+    "score": 71.4,
+    "price": 699.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sdfKSCcOL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5BTXSVN",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H4TVNKT9",
     "title": "1Pack Caravan Van Sliding Car Door Curtain Magnetic Mosquito Net Ventilate Fly Screen Proof Curtain Ultra Fine Anti-Mosquito",
     "type": "should_test",
@@ -6600,17 +6611,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H5BTXSVN",
-    "title": "FOGATTI Camper Heater 35,000 BTU - for Camper, Motorhome, RV Owners",
-    "type": "should_test",
-    "score": 64.4,
-    "price": 699.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61sdfKSCcOL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5BTXSVN",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJG2VD9M",
     "title": "3-in-1 Collapsible Cutting Board with Drain Plug – Foldable Wash Basin, Camping Sink &amp; Meal Prep Tub with Cutting Board Lid for Kitchen, RV, Camping &amp; BBQ, Gray",
     "type": "should_test",
@@ -6894,17 +6894,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81X14uOBhbL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGQ2NPKR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGY3VFMM",
-    "title": "FOGATTI RV Furnace 35,000 BTU for Camper, Motorhome, RV Owners | High-Efficiency, 40dB Quiet Operation, Smart Thermostat 4-Le",
-    "type": "should_test",
-    "score": 63.5,
-    "price": 699.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tyVKHSWEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGY3VFMM",
     "walmart_url": null
   },
   {
@@ -7862,6 +7851,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61-Ej3X+mJL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC2TR9TB",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGY3VFMM",
+    "title": "FOGATTI RV Furnace 35,000 BTU for Camper, Motorhome, RV Owners | High-Efficiency, 40dB Quiet Operation, Smart Thermostat 4-Le",
+    "type": "should_test",
+    "score": 61.5,
+    "price": 699.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tyVKHSWEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGY3VFMM",
     "walmart_url": null
   },
   {
