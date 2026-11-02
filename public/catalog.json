@@ -1133,17 +1133,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ31GH9Y",
-    "title": "Anker SOLIX C2000 Gen 2 Portable Power Station&amp;400W Bifacial Panel, 2048Wh",
-    "type": "winner",
-    "score": 83.05,
-    "price": 1499.99,
-    "bsr": 884,
-    "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H38G5KX1",
     "title": "30V 2A Starlink Mini Power Supply Adapter Wall RV Pass Through Kit for RV | Aluminum Waterproof RV Power Socket 12V to 30V DC",
     "type": "winner",
@@ -1196,6 +1185,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81l2tO4aIxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H14QPC23",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ31GH9Y",
+    "title": "Anker SOLIX C2000 Gen 2 Portable Power Station&amp;400W Bifacial Panel, 2048Wh",
+    "type": "winner",
+    "score": 82.75,
+    "price": 1499.99,
+    "bsr": 1165,
+    "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
     "walmart_url": null
   },
   {
@@ -2612,7 +2612,7 @@
     "type": "should_test",
     "score": 77.95,
     "price": 949.0,
-    "bsr": 894,
+    "bsr": 737,
     "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
