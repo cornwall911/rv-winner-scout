@@ -522,7 +522,7 @@
     "type": "winner",
     "score": 88.85,
     "price": 239.99,
-    "bsr": 19705,
+    "bsr": 20197,
     "image_url": "https://m.media-amazon.com/images/I/716N7nKiHyL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF8FMS5G",
     "walmart_url": null
@@ -1364,6 +1364,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC6K52WC",
+    "title": "AP1000 1800W Portable Power Station, 1024Wh LiFePO4 Battery",
+    "type": "winner",
+    "score": 82.25,
+    "price": 399.99,
+    "bsr": 19082,
+    "image_url": "https://m.media-amazon.com/images/I/41w6c1Xl83L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6K52WC",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZLLJ9PF",
     "title": "RV Shower Head with Hose, High Pressure Handheld RV Shower Head Replacement with On Off Switch,5 Modes,Power Jet, Camper Shower Head for RV,Travel Trailer,Motorhome,Boat RV Essentials,Gray",
     "type": "winner",
@@ -1900,17 +1911,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mIHMAoLVL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4W51ZMH",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC6K52WC",
-    "title": "CTOLITY AP1000 1800W Portable Power Station, 1024Wh LiFePO4 Battery | (Peak 3600W) Solar Generator for Camping, UPS, Home Bac",
-    "type": "winner",
-    "score": 80.0,
-    "price": 399.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41w6c1Xl83L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6K52WC",
     "walmart_url": null
   },
   {
@@ -3960,17 +3960,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCHRD3VH",
-    "title": "Mental RV Door Lock Keyless Entry with Keypad/Handle/Remotes/Keys",
-    "type": "should_test",
-    "score": 73.1,
-    "price": 89.99,
-    "bsr": 25886,
-    "image_url": "https://m.media-amazon.com/images/I/6155yBbsZNL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6HK6QQT",
     "title": "50 Amp RV Surge Protector with Circuit Analyzer: 20000J Surge Protection, Auto Power Disconnect, Real-Time Voltage Display &amp; Overheat Protection for RV Campers and Campgrounds",
     "type": "should_test",
@@ -4001,6 +3990,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71i4Ary7KxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDYPG6D5",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCHRD3VH",
+    "title": "Mental RV Door Lock Keyless Entry with Keypad/Handle/Remotes/Keys",
+    "type": "should_test",
+    "score": 72.9,
+    "price": 89.99,
+    "bsr": 17276,
+    "image_url": "https://m.media-amazon.com/images/I/6155yBbsZNL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
     "walmart_url": null
   },
   {
@@ -4144,28 +4144,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71hvyklMlbL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2RM82NK",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HDZ6J42W",
-    "title": "SinKeu 300W 260Wh Portable Power Station with 40W Solar Panel Included",
-    "type": "should_test",
-    "score": 72.3,
-    "price": 209.98,
-    "bsr": 7929,
-    "image_url": "https://m.media-amazon.com/images/I/71Ic2bOHeRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDZ6J42W",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H87J975N",
-    "title": "5th Wheel Camper Skirting, DIY Cut‑to‑Size Custom Fit, 24m/79ft | with 10M Hook‑and‑Loop Tape, Snow‑Resistant for Stationary",
-    "type": "should_test",
-    "score": 72.25,
-    "price": 248.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sil0IkPSL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H87J975N",
     "walmart_url": null
   },
   {
@@ -5126,6 +5104,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0GPWBVY58",
+    "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
+    "type": "should_test",
+    "score": 68.75,
+    "price": 319.99,
+    "bsr": 18998,
+    "image_url": "https://m.media-amazon.com/images/I/71O9LSJyirL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8SX8VPF",
     "title": "Aluminum Car Roof Step for Hyundai Santa Cruz",
     "type": "should_test",
@@ -5189,17 +5178,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+T6HixWhL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H45XH1D7",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0GPWBVY58",
-    "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
-    "type": "should_test",
-    "score": 68.5,
-    "price": 287.1,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O9LSJyirL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
     "walmart_url": null
   },
   {
@@ -5764,14 +5742,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGR2586Z",
-    "title": "BILT HARD 5500W Dual Fuel Inverter Generator, Gasoline/LPG",
+    "asin": "B0H4GL3TWC",
+    "title": "Propane Refill Adapter for 1 lb. Tanks, 3FT Hose with Gauge and Valve",
     "type": "should_test",
     "score": 66.8,
-    "price": 449.99,
-    "bsr": 7477,
-    "image_url": "https://m.media-amazon.com/images/I/71Fw61n-OqL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGR2586Z",
+    "price": 18.49,
+    "bsr": 18328,
+    "image_url": "https://m.media-amazon.com/images/I/61LCcvlDnRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4GL3TWC",
     "walmart_url": null
   },
   {
@@ -5838,6 +5816,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81g0q3Z3mnL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJPYRKZH",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGR2586Z",
+    "title": "BILT HARD 5500W Dual Fuel Inverter Generator, Gasoline/LPG",
+    "type": "should_test",
+    "score": 66.7,
+    "price": 449.99,
+    "bsr": 7029,
+    "image_url": "https://m.media-amazon.com/images/I/71Fw61n-OqL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGR2586Z",
     "walmart_url": null
   },
   {
@@ -6047,6 +6036,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71Od-1l3uKL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9X1WZYZ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HDZ6J42W",
+    "title": "SinKeu 300W 260Wh Portable Power Station with 40W Solar Panel Included",
+    "type": "should_test",
+    "score": 66.0,
+    "price": 219.98,
+    "bsr": 8045,
+    "image_url": "https://m.media-amazon.com/images/I/71Ic2bOHeRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDZ6J42W",
     "walmart_url": null
   },
   {
@@ -6292,6 +6292,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJ61VWC1",
+    "title": "2-in-1 RV Accessories Gas Detector, Hardwired - DC 12V for RVs, Black",
+    "type": "should_test",
+    "score": 65.25,
+    "price": 51.99,
+    "bsr": 18923,
+    "image_url": "https://m.media-amazon.com/images/I/81Bm6RrCHaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ61VWC1",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHB3SV4L",
     "title": "CMI RV Water Heater Flush Wand, RV Tank Rinser for Camper Water Heater Cleaning, Tank Flushing Tool for Sediment, Scale &amp; Deb",
     "type": "should_test",
@@ -6314,6 +6325,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H1R5842J",
+    "title": "YYLXTEX 105 Gallon/400L Water Bladder Tank - Portable Collapsible Water Storage Bag with Heavy-Duty PVC Material for Camping,",
+    "type": "should_test",
+    "score": 65.1,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7161JqK5VLL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1R5842J",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HK33PRW7",
     "title": "RV Window Insulation Cover, Thermal Shade for Winter, Roll Up, 42 x 28 in",
     "type": "should_test",
@@ -6333,28 +6355,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VqGhZbnuL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3235H2C",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJ61VWC1",
-    "title": "2-in-1 RV Accessories Gas Detector, Hardwired - DC 12V for RVs, Black",
-    "type": "should_test",
-    "score": 64.95,
-    "price": 51.99,
-    "bsr": 20689,
-    "image_url": "https://m.media-amazon.com/images/I/81Bm6RrCHaL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ61VWC1",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6HN2LZ6",
-    "title": "Genkins 4200W Portable Inverter Generator, Quiet Lightweight for Camping Home Backup",
-    "type": "should_test",
-    "score": 64.9,
-    "price": 369.0,
-    "bsr": 11128,
-    "image_url": "https://m.media-amazon.com/images/I/617cM83953L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6HN2LZ6",
     "walmart_url": null
   },
   {
@@ -6454,6 +6454,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/712D5+sL1RL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF768S12",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6HN2LZ6",
+    "title": "Genkins 4200W Portable Inverter Generator, Quiet Lightweight for Camping Home Backup",
+    "type": "should_test",
+    "score": 64.7,
+    "price": 369.0,
+    "bsr": 10513,
+    "image_url": "https://m.media-amazon.com/images/I/617cM83953L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6HN2LZ6",
     "walmart_url": null
   },
   {
@@ -6616,7 +6627,7 @@
     "type": "should_test",
     "score": 64.3,
     "price": 17.29,
-    "bsr": null,
+    "bsr": 19591,
     "image_url": "https://m.media-amazon.com/images/I/71i9Q5EMJbL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHK3YL98",
     "walmart_url": null
@@ -7326,17 +7337,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H5QCNGFG",
-    "title": "2 Pcs E2 Hitch Sway Bracket Jacket, Equalizer Hitch Parts 95015150",
-    "type": "should_test",
-    "score": 62.5,
-    "price": 12.99,
-    "bsr": 20893,
-    "image_url": "https://m.media-amazon.com/images/I/51pSZOX0NEL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5QCNGFG",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HML6VHDK",
     "title": "RV Skirting for Winter, Camper Insulated Skirt Travel Trailers &amp; 5th Wheels | 20m/65ft Wind &amp; Snow Proof,RV Underbelly Cover,",
     "type": "should_test",
@@ -7524,17 +7524,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H1R5842J",
-    "title": "YYLXTEX 105 Gallon/400L Water Bladder Tank - Portable Collapsible Water Storage Bag with Heavy-Duty PVC Material for Camping,",
-    "type": "should_test",
-    "score": 62.25,
-    "price": null,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7161JqK5VLL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1R5842J",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H1RBWFTK",
     "title": "YYLXTEX 105 Gallon/400L Water Bladder Tank - Portable Collapsible Water Storage Bag with Heavy-Duty PVC Material for Camping,",
     "type": "should_test",
@@ -7631,6 +7620,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71M+2Yye42L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H92VKGDT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H87J975N",
+    "title": "5th Wheel Camper Skirting, DIY Cut‑to‑Size Custom Fit, 24m/79ft",
+    "type": "should_test",
+    "score": 62.0,
+    "price": 248.0,
+    "bsr": 20139,
+    "image_url": "https://m.media-amazon.com/images/I/71sil0IkPSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H87J975N",
     "walmart_url": null
   },
   {
@@ -8115,6 +8115,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71jwIa4hSRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF8571JM",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5QCNGFG",
+    "title": "2 Pcs E2 Hitch Sway Bracket Jacket, Equalizer Hitch Parts 95015150",
+    "type": "should_test",
+    "score": 60.75,
+    "price": 12.99,
+    "bsr": 18561,
+    "image_url": "https://m.media-amazon.com/images/I/51pSZOX0NEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5QCNGFG",
     "walmart_url": null
   },
   {
@@ -8778,17 +8789,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H4GL3TWC",
-    "title": "Propane Refill Adapter for 1 lb. Tanks, 3FT Hose with Gauge and Valve",
-    "type": "should_test",
-    "score": 59.0,
-    "price": 18.49,
-    "bsr": 18605,
-    "image_url": "https://m.media-amazon.com/images/I/61LCcvlDnRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4GL3TWC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HDLFR8NN",
     "title": "60 inch RV Winterizing Kit with Pressure Gauge, Sprinkler Garden Water Blowout Winterization Hose with 3/4&quot; GHT Blow Out Fitt",
     "type": "should_test",
@@ -8918,17 +8918,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/91q5uCvtDAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9SQ6N6J",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H5K2PSN9",
-    "title": "2026 Upgraded Heavy Duty RV Roof Cover,3000PA Waterproof Camper Top Cover with 16 Adjustable Buckles &amp; 16 Reflective Reinforcement,16ft to 44ft for Travel Trailer Pop-Up Camper",
-    "type": "should_test",
-    "score": 58.75,
-    "price": 89.99,
-    "bsr": 15478,
-    "image_url": "https://m.media-amazon.com/images/I/714zzHNeZ+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5K2PSN9",
     "walmart_url": null
   },
   {
@@ -11319,6 +11308,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGDYNBCB",
+    "title": "LUHLEE 218 LED Magnetic Solar Lights Outdoor, RV Solar Lights Motion Sensor",
+    "type": "candidate",
+    "score": 64.1,
+    "price": 29.99,
+    "bsr": 19165,
+    "image_url": "https://m.media-amazon.com/images/I/81eQs7P8UHL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGDYNBCB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H83XF9GN",
     "title": "Car Camera Lens Protector - 360° All-Round Protection, Anti-Scratch &amp; Waterproof, Sleek Original Design, No Drill Easy Install,Compatible with Most Vehicle Cameras (4PCS)",
     "type": "candidate",
@@ -11558,17 +11558,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WkyWAzxcL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9M7G5CW",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7C349DW",
-    "title": "368 LED Magnetic Solar Lights Outdoor Waterproof with Motion Sensor",
-    "type": "candidate",
-    "score": 62.2,
-    "price": 26.99,
-    "bsr": 9182,
-    "image_url": "https://m.media-amazon.com/images/I/71v2MkvC6BL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7C349DW",
     "walmart_url": null
   },
   {
@@ -11822,6 +11811,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/7115PZqhXHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6DD3CH2",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H7C349DW",
+    "title": "368 LED Magnetic Solar Lights Outdoor Waterproof with Motion Sensor",
+    "type": "candidate",
+    "score": 59.9,
+    "price": 30.99,
+    "bsr": 9297,
+    "image_url": "https://m.media-amazon.com/images/I/71v2MkvC6BL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7C349DW",
     "walmart_url": null
   },
   {
@@ -12441,6 +12441,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H4L8WT7Z",
+    "title": "Hand Crank Generator Mini Portable Emergency Power Supply, Plasma Lighter, Flashlight, FM Radio, Emergency Power Bank, Portable Aluminum Alloy Survival Gear",
+    "type": "candidate",
+    "score": 56.8,
+    "price": 31.59,
+    "bsr": 7734,
+    "image_url": "https://m.media-amazon.com/images/I/61h5Wf1fQHL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4L8WT7Z",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGDGLW93",
     "title": "Caravan Awning Storm Tie‑Down Kit for Roll‑Out Awnings | Complete storm tie‑down set secures caravan awning against heavy win",
     "type": "candidate",
@@ -12680,17 +12691,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61w4+r6JkNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H638Z3FV",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H4L8WT7Z",
-    "title": "Hand Crank Generator Mini Portable Emergency Power Supply, Plasma Lighter, Flashlight, FM Radio, Emergency Power Bank, Portable Aluminum Alloy Survival Gear",
-    "type": "candidate",
-    "score": 55.8,
-    "price": 31.59,
-    "bsr": 23987,
-    "image_url": "https://m.media-amazon.com/images/I/61h5Wf1fQHL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4L8WT7Z",
     "walmart_url": null
   },
   {
@@ -12966,6 +12966,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/917L71KdezL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0FP2Z9S94",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5K2PSN9",
+    "title": "2026 Upgraded Heavy Duty RV Roof Cover,3000PA Waterproof Camper Top Cover with 16 Adjustable Buckles &amp; 16 Reflective Reinforcement,16ft to 44ft for Travel Trailer Pop-Up Camper",
+    "type": "candidate",
+    "score": 55.0,
+    "price": 89.99,
+    "bsr": 8377,
+    "image_url": "https://m.media-amazon.com/images/I/714zzHNeZ+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5K2PSN9",
     "walmart_url": null
   },
   {
@@ -14861,6 +14872,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6ZRC9MR",
+    "title": "Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black)",
+    "type": "candidate",
+    "score": 51.75,
+    "price": 26.99,
+    "bsr": 16728,
+    "image_url": "https://m.media-amazon.com/images/I/71BZEMfAKUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HMJ52324",
     "title": "Rv Rear Door Sunshade Cover 71x45 Inch Black Oxford Cloth | Diamond Check Pattern, Elastic Band and Four Clips, Portable Stor",
     "type": "candidate",
@@ -16409,17 +16431,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81jr-J6g1dL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD7VQ4TM",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6ZRC9MR",
-    "title": "Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black)",
-    "type": "candidate",
-    "score": 49.75,
-    "price": 26.99,
-    "bsr": 18322,
-    "image_url": "https://m.media-amazon.com/images/I/71BZEMfAKUL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
     "walmart_url": null
   },
   {
@@ -19118,6 +19129,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8JZSWNX",
+    "title": "RV Extension Cord 25 FT 50 Amp NEMA 14-50P to 14-50R Heavy Duty Black",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 89.99,
+    "bsr": 11304,
+    "image_url": "https://m.media-amazon.com/images/I/71EsYva7ylL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8JZSWNX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H9XSR655",
     "title": "Neptuiby Car Window Fan Solar Powered Car Vent Fan Dual-mode Blow/suction Ventilator Solar Fans for Vehicles Truck RV Backsea",
     "type": "candidate",
@@ -19464,7 +19486,7 @@
     "type": "candidate",
     "score": 46.25,
     "price": 206.37,
-    "bsr": 19520,
+    "bsr": 18560,
     "image_url": "https://m.media-amazon.com/images/I/61tbFdS5EHL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6GMDS2H",
     "walmart_url": null
@@ -20215,17 +20237,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61UkNBeRUrL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4TFG98J",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8JZSWNX",
-    "title": "RV Extension Cord 25 FT 50 Amp NEMA 14-50P to 14-50R Heavy Duty Black | Flexible 4 Prong Heavy Duty RV Power Cord, Waterproof",
-    "type": "candidate",
-    "score": 45.5,
-    "price": 89.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EsYva7ylL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8JZSWNX",
     "walmart_url": null
   },
   {
@@ -21153,6 +21164,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HFMCM4HL",
+    "title": "RV Wye Sewer Hose Fittings &amp; 4-in-1 Adapter -Built-In Gaskets for Odor",
+    "type": "candidate",
+    "score": 44.1,
+    "price": 22.99,
+    "bsr": 6765,
+    "image_url": "https://m.media-amazon.com/images/I/61b2jfLekpL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFMCM4HL",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8F5ZV3Y",
     "title": "RV Floor Vent Cover 2 Pack, Magnetic RV Vent Register 2&quot;x10&quot; Aluminum Removable Camper Trailer Floor Vent with Magnetic Pull",
     "type": "candidate",
@@ -21205,17 +21227,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71hAkWrvIVL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H97P8KQK",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HFMCM4HL",
-    "title": "RV Wye Sewer Hose Fittings &amp; 4-in-1 Adapter -Built-In Gaskets for Odor",
-    "type": "candidate",
-    "score": 44.0,
-    "price": 22.99,
-    "bsr": 8061,
-    "image_url": "https://m.media-amazon.com/images/I/61b2jfLekpL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFMCM4HL",
     "walmart_url": null
   },
   {
@@ -22341,6 +22352,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H49DDTLW",
+    "title": "2PCS Car Camera Lens Protector, 360° All-Round Protection Transparency Vehicle Backup Camera Shield Cover, Auto Rearview Lens Anti-Scratch Guard Protection Accessories, Universal Fit",
+    "type": "candidate",
+    "score": 42.5,
+    "price": 4.99,
+    "bsr": 9684,
+    "image_url": "https://m.media-amazon.com/images/I/61qXVhyRngL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H49DDTLW",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H3FHZ2NZ",
     "title": "AZXZCS Replacement Camper Cushion,RV Dinette Cushions,2 Sets of PU Leather Dinette Cushions with Memory Foam Camper Trailer B",
     "type": "candidate",
@@ -22437,17 +22459,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81aCdzeWq9L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H99FKRWP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H49DDTLW",
-    "title": "2PCS Car Camera Lens Protector, 360° All-Round Protection Transparency Vehicle Backup Camera Shield Cover, Auto Rearview Lens Anti-Scratch Guard Protection Accessories, Universal Fit",
-    "type": "candidate",
-    "score": 42.25,
-    "price": 4.99,
-    "bsr": 10633,
-    "image_url": "https://m.media-amazon.com/images/I/61qXVhyRngL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H49DDTLW",
     "walmart_url": null
   },
   {
@@ -22830,7 +22841,7 @@
     "type": "candidate",
     "score": 41.5,
     "price": 14.24,
-    "bsr": 5416,
+    "bsr": 5191,
     "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
     "walmart_url": null
@@ -25322,17 +25333,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H2914TR9",
-    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
-    "type": "candidate",
-    "score": 35.7,
-    "price": 4.99,
-    "bsr": 6324,
-    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H69MDDSG",
     "title": "HOMEFISH RV Sewer Hose Fittings 3 Inch Clear Elbow Backflow Preventer | Waste Tank Drain Adapter 360 Rotating Bayonet Gasket",
     "type": "candidate",
@@ -25638,6 +25638,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ju5McYl8L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HH86J6DZ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H2914TR9",
+    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
+    "type": "candidate",
+    "score": 34.7,
+    "price": 4.99,
+    "bsr": 5462,
+    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
     "walmart_url": null
   },
   {
@@ -26565,17 +26576,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H5L89JTJ",
-    "title": "G366 RV Keys, 3 Pack Precut Replacement Keys",
-    "type": "candidate",
-    "score": 32.5,
-    "price": 14.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71+6HEZxOoL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5L89JTJ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H4ZCCVGB",
     "title": "FEXON 49&quot; RV Awning Inner Drive Arm Replaces 404523 | Compatible with Solera Regal 63&quot; Awning Arm Assembly",
     "type": "candidate",
@@ -27222,6 +27222,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/51m1uoAgLbL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC3631MS",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5L89JTJ",
+    "title": "G366 RV Keys, 3 Pack Precut Replacement Keys",
+    "type": "candidate",
+    "score": 30.95,
+    "price": 14.99,
+    "bsr": 9126,
+    "image_url": "https://m.media-amazon.com/images/I/71+6HEZxOoL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5L89JTJ",
     "walmart_url": null
   },
   {
