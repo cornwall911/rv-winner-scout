@@ -165,6 +165,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJ4Y7GZB",
+    "title": "VEVOR Diesel Heater 12V 8KW Fast Heating Portable Diesel Parking Heater",
+    "type": "winner",
+    "score": 89.85,
+    "price": 89.9,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71RBYn+DAaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ4Y7GZB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJYWMHSX",
     "title": "EROMMY 12V DC RV Air Conditioner, 10000 BTU RV AC Unit with LED Light &amp; Auto Swing Airflow, Ultra Quiet, Low Power Consumptio",
     "type": "winner",
@@ -547,17 +558,6 @@
     "bsr": 11317,
     "image_url": "https://m.media-amazon.com/images/I/71FQfqPCsbL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H38KLG52",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJ4Y7GZB",
-    "title": "VEVOR Diesel Heater 12V 8KW Fast Heating Portable Diesel Parking Heater",
-    "type": "winner",
-    "score": 88.7,
-    "price": 83.9,
-    "bsr": 24336,
-    "image_url": "https://m.media-amazon.com/images/I/71RBYn+DAaL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ4Y7GZB",
     "walmart_url": null
   },
   {
@@ -2475,17 +2475,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGGSV85B",
-    "title": "RV Vent Fan 10-Speed Roof Vent Fan with Remote Control &amp; Rain Sensor 14 inch",
-    "type": "should_test",
-    "score": 78.5,
-    "price": 129.5,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VkXvTivKL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGGSV85B",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H85Y52DP",
     "title": "Lrichy Wireless RV Leveling System App,No Calibration Needed,6-Axis Sensor | Precise Camper Leveler For Travel Trailers, 5th",
     "type": "should_test",
@@ -3143,6 +3132,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yQWgUvLEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZPL47RD",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGGSV85B",
+    "title": "RV Vent Fan 10-Speed Roof Vent Fan with Remote Control &amp; Rain Sensor 14 inch",
+    "type": "should_test",
+    "score": 76.25,
+    "price": 129.5,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VkXvTivKL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGGSV85B",
     "walmart_url": null
   },
   {
@@ -9017,17 +9017,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vPGGn-CRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7N7KHYX",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H3ZZ72FZ",
-    "title": "Hon&amp;Guan RV Exhaust Vent Cover Metal with Mesh and Noise Reduction Pad",
-    "type": "should_test",
-    "score": 58.3,
-    "price": 35.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61M9vF3CZfL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3ZZ72FZ",
     "walmart_url": null
   },
   {
@@ -18037,6 +18026,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/612qXWjzdgL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H25QRSCR",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H3ZZ72FZ",
+    "title": "Hon&amp;Guan RV Exhaust Vent Cover Metal with Mesh and Noise Reduction Pad | Magnetic Seal, External Locking Clip, Adjustable Dep",
+    "type": "candidate",
+    "score": 48.0,
+    "price": 35.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61M9vF3CZfL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3ZZ72FZ",
     "walmart_url": null
   },
   {
