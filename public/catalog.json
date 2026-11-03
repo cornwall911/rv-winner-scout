@@ -1189,11 +1189,11 @@
   },
   {
     "asin": "B0HJ31GH9Y",
-    "title": "Anker SOLIX C2000 Gen 2 Portable Power Station&amp;400W Bifacial Panel, 2048Wh",
+    "title": "Anker SOLIX C2000 Gen 2 Solar Powered Generator&amp;400W Bifacial Panel, 2048Wh",
     "type": "winner",
     "score": 82.75,
     "price": 1499.99,
-    "bsr": 1165,
+    "bsr": 1512,
     "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
     "walmart_url": null
@@ -2585,17 +2585,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "should_test",
-    "score": 77.95,
-    "price": 949.0,
-    "bsr": 737,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGKL8DLL",
     "title": "350W Pure Sine Wave Inverter for Ryobi 18V Battery, 4-Bay",
     "type": "should_test",
@@ -2937,6 +2926,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "should_test",
+    "score": 76.95,
+    "price": 949.0,
+    "bsr": 524,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H45LF1S8",
     "title": "Frezon DC 24V RV Air Conditioner 13000btu Truck Air Conditioner Split AC for Camping Vehicles Trucks RVs Trailers Excavators",
     "type": "should_test",
@@ -3011,6 +3011,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71e8+GeEiBL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3NQ7375",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H7HPTDMC",
+    "title": "Jackery Explorer 1000 v2 Portable Power Station series, HP1000V2+200W",
+    "type": "should_test",
+    "score": 76.75,
+    "price": 879.0,
+    "bsr": 30,
+    "image_url": "https://m.media-amazon.com/images/I/61dOQoueLML.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7HPTDMC",
     "walmart_url": null
   },
   {
