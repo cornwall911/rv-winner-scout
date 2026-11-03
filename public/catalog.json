@@ -176,17 +176,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ4Y7GZB",
-    "title": "VEVOR Diesel Heater 12V 8KW Fast Heating Portable Diesel Parking Heater",
-    "type": "winner",
-    "score": 89.85,
-    "price": 89.9,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71RBYn+DAaL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ4Y7GZB",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HC6MSXG6",
     "title": "WIPPRO Diesel Heater 8KW, 12V 24V 110V All-in-One,2Gal Portable Diesel Air Heater with LCD Switch &amp; Remote Control for Car RV Truck Boat Campervans Caravans Campers(Red）",
     "type": "winner",
@@ -338,6 +327,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71-a9guFpjL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMK7B4JP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ4Y7GZB",
+    "title": "VEVOR Diesel Heater 12V 8KW Fast Heating Portable Diesel Parking Heater",
+    "type": "winner",
+    "score": 89.35,
+    "price": 89.9,
+    "bsr": 69215,
+    "image_url": "https://m.media-amazon.com/images/I/71RBYn+DAaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ4Y7GZB",
     "walmart_url": null
   },
   {
@@ -12479,7 +12479,7 @@
     "type": "candidate",
     "score": 57.75,
     "price": 39.99,
-    "bsr": null,
+    "bsr": 68844,
     "image_url": "https://m.media-amazon.com/images/I/61KtLOf7PSL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
     "walmart_url": null
