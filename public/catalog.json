@@ -737,6 +737,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGGSV85B",
+    "title": "RV Vent Fan 10-Speed Roof Vent Fan with Remote Control &amp; Rain Sensor 14 inch",
+    "type": "winner",
+    "score": 85.35,
+    "price": 134.5,
+    "bsr": 64394,
+    "image_url": "https://m.media-amazon.com/images/I/71VkXvTivKL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGGSV85B",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GYPJRC7C",
     "title": "AUTO-VOX Magnetic Solar Wireless Backup Camera with WiFi Connection | No Monitor Needed, Snaps On in 1 Sec, Solar Powered for",
     "type": "winner",
@@ -3143,17 +3154,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yQWgUvLEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZPL47RD",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGGSV85B",
-    "title": "RV Vent Fan 10-Speed Roof Vent Fan with Remote Control &amp; Rain Sensor 14 inch",
-    "type": "should_test",
-    "score": 76.25,
-    "price": 129.5,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VkXvTivKL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGGSV85B",
     "walmart_url": null
   },
   {
