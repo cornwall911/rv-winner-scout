@@ -104,7 +104,7 @@
     "type": "winner",
     "score": 90.0,
     "price": 119.99,
-    "bsr": 11065,
+    "bsr": 10899,
     "image_url": "https://m.media-amazon.com/images/I/71iKDiyTIQL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQJHTCT",
     "walmart_url": null
@@ -1669,17 +1669,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/617hiTnkRGL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJG764YX",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBVDYXZT",
-    "title": "RV Screen Door Protector Adjustable 16.5–31.1 Inch Camper Screen Guard, 2-Panel Steel Mesh Prevents Dogs Pets Scratch Defender for Travel Trailer, Fifth Wheel, Motorhome Entry Doors",
-    "type": "winner",
-    "score": 80.95,
-    "price": 37.49,
-    "bsr": 22106,
-    "image_url": "https://m.media-amazon.com/images/I/81pXkPfqjkL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVDYXZT",
     "walmart_url": null
   },
   {
@@ -3828,6 +3817,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBVDYXZT",
+    "title": "RV Screen Door Protector Adjustable 16.5–31.1 Inch Camper Screen Guard, 2-Panel Steel Mesh Prevents Dogs Pets Scratch Defender for Travel Trailer, Fifth Wheel, Motorhome Entry Doors",
+    "type": "should_test",
+    "score": 74.1,
+    "price": 33.99,
+    "bsr": 21456,
+    "image_url": "https://m.media-amazon.com/images/I/81pXkPfqjkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVDYXZT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H9RWG765",
     "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
     "type": "should_test",
@@ -3902,17 +3902,6 @@
     "bsr": 3832,
     "image_url": "https://m.media-amazon.com/images/I/61xFGtsOhTL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HN5NRFL7",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC7HKS1R",
-    "title": "CTOLITY XP1000 1800W Portable Power Station with 100W Solar Panel | Peak 3600W, 1 Hr Fast Charge, 100W USB-C Output, 20ms UPS",
-    "type": "should_test",
-    "score": 73.5,
-    "price": 559.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81wuCwYZmWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC7HKS1R",
     "walmart_url": null
   },
   {
@@ -4925,6 +4914,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71xteOKU7SL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3TH7HK3",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC7HKS1R",
+    "title": "XP1000 1800W Portable Power Station with 100W Solar Panel",
+    "type": "should_test",
+    "score": 69.6,
+    "price": 579.99,
+    "bsr": 21519,
+    "image_url": "https://m.media-amazon.com/images/I/81wuCwYZmWL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC7HKS1R",
     "walmart_url": null
   },
   {
@@ -11660,17 +11660,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6V2T6GW",
-    "title": "Magnetic Solar Lights Outdoor, 600LM 92 LED Solar Motion Light for RV Shed",
-    "type": "candidate",
-    "score": 62.75,
-    "price": 39.99,
-    "bsr": 24709,
-    "image_url": "https://m.media-amazon.com/images/I/7162bhGOPSL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6V2T6GW",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H9M7JM77",
     "title": "Tiooii RV Loveseat Recliner Sofa, Wall Hugger Reclining RV Couch with USB | RV Reclining Loveseat with Massage, Pocket, Cup H",
     "type": "candidate",
@@ -12119,6 +12108,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RwmUFrZcL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H756JDPJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6V2T6GW",
+    "title": "Magnetic Solar Lights Outdoor, 600LM 92 LED Solar Motion Light for RV Shed",
+    "type": "candidate",
+    "score": 59.5,
+    "price": 39.99,
+    "bsr": 19723,
+    "image_url": "https://m.media-amazon.com/images/I/7162bhGOPSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6V2T6GW",
     "walmart_url": null
   },
   {
@@ -15191,17 +15191,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6ZRC9MR",
-    "title": "Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black)",
-    "type": "candidate",
-    "score": 51.75,
-    "price": 26.99,
-    "bsr": 16728,
-    "image_url": "https://m.media-amazon.com/images/I/71BZEMfAKUL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HB4SZZDL",
     "title": "BlueStars 12ft RV Propane Hose with POL x 1/4&quot; Inverted Male Flare | CSA-Certified Hose Extension Connects 20lb and 30lb LP T",
     "type": "candidate",
@@ -16412,6 +16401,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6ZRC9MR",
+    "title": "Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black)",
+    "type": "candidate",
+    "score": 50.0,
+    "price": 26.99,
+    "bsr": 19861,
+    "image_url": "https://m.media-amazon.com/images/I/71BZEMfAKUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6M36XNT",
     "title": "600D Waterproof RV AC Cover fits RVs Trailer Motorhome Camper | Fits Dometic FreshJet 3, ASA, VEVOR, Furrion RVs Air Conditio",
     "type": "candidate",
@@ -17443,17 +17443,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61juVFGtrTL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H57YSVJP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGL6RYTH",
-    "title": "2 in. Receiver Hitch Riser/Drop, 7 and 9 Inches Extender（2 1/4&quot; Rise",
-    "type": "candidate",
-    "score": 49.0,
-    "price": 29.99,
-    "bsr": 15346,
-    "image_url": "https://m.media-amazon.com/images/I/712PUISic9L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGL6RYTH",
     "walmart_url": null
   },
   {
@@ -20790,6 +20779,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGL6RYTH",
+    "title": "2 in. Receiver Hitch Riser/Drop, 7 and 9 Inches Extender（2 1/4&quot; Rise",
+    "type": "candidate",
+    "score": 45.25,
+    "price": 29.99,
+    "bsr": 19998,
+    "image_url": "https://m.media-amazon.com/images/I/712PUISic9L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGL6RYTH",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H75C99Y2",
     "title": "Aluminum RV Floor Vent Cover 2&quot;x10&quot;, Magnetic Removable Cover, 2 Pack-Khaki | Cleaning Brush Included; Pet hair protection; R",
     "type": "candidate",
@@ -20941,6 +20941,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81dTsGFYMIL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCV9BS9R",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H49DDTLW",
+    "title": "4PCS Car Camera Lens Protector, 360° All-Round Protection Transparency Vehicle Backup Camera Shield Cover, Auto Rearview Lens Anti-Scratch Guard Protection Accessories, Universal Fit",
+    "type": "candidate",
+    "score": 45.25,
+    "price": 5.59,
+    "bsr": 10645,
+    "image_url": "https://m.media-amazon.com/images/I/61bVOGaCagL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H49DDTLW",
     "walmart_url": null
   },
   {
@@ -22844,17 +22855,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71p0dWTp+kL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHKNQRFX",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H49DDTLW",
-    "title": "2PCS Car Camera Lens Protector, 360° All-Round Protection Transparency Vehicle Backup Camera Shield Cover, Auto Rearview Lens Anti-Scratch Guard Protection Accessories, Universal Fit",
-    "type": "candidate",
-    "score": 42.5,
-    "price": 4.99,
-    "bsr": 9684,
-    "image_url": "https://m.media-amazon.com/images/I/61qXVhyRngL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H49DDTLW",
     "walmart_url": null
   },
   {
