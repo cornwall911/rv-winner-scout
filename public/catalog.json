@@ -1661,28 +1661,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBQ3KKKS",
-    "title": "NNG 33 x 80 Inch Magnetic RV Insulated Door Cover for Winter | 3-Layer Thermal RV Door Curtain for Inside Camper &amp; Travel Tra",
-    "type": "winner",
-    "score": 81.0,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+d7C4fWRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQ3KKKS",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBVT555Y",
-    "title": "Lymezato RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in | Powder-Coated Iron Helps Resist Rust and Dog Scrat",
-    "type": "winner",
-    "score": 81.0,
-    "price": 36.9,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81P0gDn+eQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBQCYSHQ",
     "title": "MapleGrace RV Water Heater, 55,000 BTU Tankless Water Heater CSA Certified | Anti-Freeze &amp; High Altitude,Instant Shower with",
     "type": "winner",
@@ -1691,6 +1669,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51FhXyxFjxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQCYSHQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBVT555Y",
+    "title": "Lymezato RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in | Powder-Coated Iron Helps Resist Rust and Dog Scrat",
+    "type": "winner",
+    "score": 80.75,
+    "price": 36.9,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81P0gDn+eQL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
     "walmart_url": null
   },
   {
@@ -3025,6 +3014,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6ZC5T27",
+    "title": "Lyrivan RV Door Window Shade Cover for Blackout &amp; Privacy,16×25 Inch | Universal Fit, 3-Layer Protection, Blocks up to 99% of",
+    "type": "should_test",
+    "score": 77.0,
+    "price": 14.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71djq5-FFgL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6ZC5T27",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF4JKGMC",
     "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
     "type": "should_test",
@@ -3630,17 +3630,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HB9V7Q2D",
-    "title": "INVOTEK 75 x 33 RV Door Cover, Magnetic RV Door Insulated Cover for Winter | Side Opening, Magnetic RV Thermal Insulated Door",
-    "type": "should_test",
-    "score": 75.25,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ctQfvQ8CL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB9V7Q2D",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H2YGNTMR",
     "title": "2 Pack Wireless Motion Sensor Truck Bed Lights Battery Powered",
     "type": "should_test",
@@ -4026,6 +4015,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBQ3KKKS",
+    "title": "NNG 33 x 80 Inch Magnetic RV Insulated Door Cover for Winter | 3-Layer Thermal RV Door Curtain for Inside Camper &amp; Travel Tra",
+    "type": "should_test",
+    "score": 73.5,
+    "price": 29.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+d7C4fWRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQ3KKKS",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HN5NRFL7",
     "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C, Windproof Waterproof Snowproof Bottom Cover with Lock Cable (3.2ft High, 50ft Length)",
     "type": "should_test",
@@ -4353,17 +4353,6 @@
     "bsr": 32655,
     "image_url": "https://m.media-amazon.com/images/I/61KDMTYoHfL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBP479PL",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6ZC5T27",
-    "title": "RV Door Window Shade Cover for Blackout &amp; Privacy,16×25 Inch",
-    "type": "should_test",
-    "score": 71.65,
-    "price": 14.99,
-    "bsr": 41438,
-    "image_url": "https://m.media-amazon.com/images/I/71djq5-FFgL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6ZC5T27",
     "walmart_url": null
   },
   {
@@ -5398,6 +5387,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61I6+q+tkjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQN2CRT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HB9V7Q2D",
+    "title": "INVOTEK 75 x 33 RV Door Cover, Magnetic RV Door Insulated Cover for Winter | Side Opening, Magnetic RV Thermal Insulated Door",
+    "type": "should_test",
+    "score": 68.6,
+    "price": 30.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ctQfvQ8CL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB9V7Q2D",
     "walmart_url": null
   },
   {
@@ -7271,17 +7271,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H4VCJJ4W",
-    "title": "RV Screen Door Protector Adjustable 21.5&quot;-35&quot; Heavy Duty Metal | Stops Scratches &amp; Tears, Fits Most RVs, Heavy Zinc Alloy Iro",
-    "type": "should_test",
-    "score": 63.4,
-    "price": 39.89,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ImZI0FfgL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4VCJJ4W",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HC2L3YBK",
     "title": "DARAN 89.6Wh Ultra-Light Power Station 100W LiFePO4 Generator for Camping | 200W Peak Power, AC Outlets, USB-C PD Fast Chargi",
     "type": "should_test",
@@ -7576,6 +7565,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61VmKdIKdPL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3FHGVC9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H4VCJJ4W",
+    "title": "RV Screen Door Protector Adjustable 21.5&quot;-35&quot; Heavy Duty Metal | Stops Scratches &amp; Tears, Fits Most RVs, Heavy Zinc Alloy Iro",
+    "type": "should_test",
+    "score": 62.75,
+    "price": 39.89,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ImZI0FfgL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4VCJJ4W",
     "walmart_url": null
   },
   {
@@ -12100,17 +12100,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6HJ5B83",
-    "title": "2 Pack Magnetic RV Solar Lights, 100 LED Outdoor Motion Sensor Lights | 3 night modes, four LED light panels, and four 40 mm",
-    "type": "candidate",
-    "score": 62.75,
-    "price": 19.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71S59Tqk+OL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6HJ5B83",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H9M7JM77",
     "title": "Tiooii RV Loveseat Recliner Sofa, Wall Hugger Reclining RV Couch with USB | RV Reclining Loveseat with Massage, Pocket, Cup H",
     "type": "candidate",
@@ -12130,6 +12119,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WDIe0i6-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4FCSV61",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6HJ5B83",
+    "title": "2 Pack Magnetic RV Solar Lights, 100 LED Outdoor Motion Sensor Lights | 3 night modes, four LED light panels, and four 40 mm",
+    "type": "candidate",
+    "score": 62.6,
+    "price": 19.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71S59Tqk+OL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6HJ5B83",
     "walmart_url": null
   },
   {
@@ -13923,17 +13923,6 @@
     "bsr": 9003,
     "image_url": "https://m.media-amazon.com/images/I/714zzHNeZ+L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5K2PSN9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H5JXVVN2",
-    "title": "RV Awning Fabric Replacement for 10ft Camper Awnings, 20.8 oz/yd², Gray",
-    "type": "candidate",
-    "score": 54.75,
-    "price": 64.99,
-    "bsr": 42216,
-    "image_url": "https://m.media-amazon.com/images/I/81YenIxE6jL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5JXVVN2",
     "walmart_url": null
   },
   {
@@ -16662,17 +16651,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61hovK3ABtL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC5WYJY9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HHLWWPT3",
-    "title": "2 Pcs RV Windshield Curtains for Class A Motorhomes, 120&quot; x 41&quot;,Cappuccino | 99% Blackout Privacy RV Window Curtains, 1000GSM",
-    "type": "candidate",
-    "score": 50.5,
-    "price": 143.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gMM9MtvKL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHLWWPT3",
     "walmart_url": null
   },
   {
@@ -19778,6 +19756,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5JXVVN2",
+    "title": "RV Awning Fabric Replacement for 10ft Camper Awnings, 20.8 oz/yd², Gray | 6-Layer Waterproof Vinyl, Heat-Sealed Edges, Pre-In",
+    "type": "candidate",
+    "score": 47.0,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YenIxE6jL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5JXVVN2",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJ5GCH5Z",
     "title": "12Pcs RV Awning Piping Rail Hooks for Motorhome Caravan Tent Hook | Double‑layer polyester fabric hook, holds up to 4.5kg, sl",
     "type": "candidate",
@@ -20501,6 +20490,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71a3kYOYW5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFMYY2F6",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHLWWPT3",
+    "title": "2 Pcs RV Windshield Curtains for Class A Motorhomes, 120&quot; x 41&quot;,Cappuccino",
+    "type": "candidate",
+    "score": 46.25,
+    "price": 143.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71gMM9MtvKL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHLWWPT3",
     "walmart_url": null
   },
   {
@@ -21692,6 +21692,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9Q8T58K",
+    "title": "yeloumiss 10PCS Tarp Clips Heavy Duty Lock Grip with 10 Ball Bungee Cords",
+    "type": "candidate",
+    "score": 45.0,
+    "price": 8.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71cPTJcAHkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9Q8T58K",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC6PG67D",
     "title": "GIMWA 2.6 Gal Collapsible Baby Bottle Wash Basin with Drain Plug",
     "type": "candidate",
@@ -22448,17 +22459,6 @@
     "bsr": 46442,
     "image_url": "https://m.media-amazon.com/images/I/51jPoCUe8YL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4HTPV55",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9Q8T58K",
-    "title": "yeloumiss 10PCS Tarp Clips Heavy Duty Lock Grip with 10 Ball Bungee Cords",
-    "type": "candidate",
-    "score": 44.0,
-    "price": 8.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71cPTJcAHkL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9Q8T58K",
     "walmart_url": null
   },
   {
