@@ -1,16 +1,5 @@
 [
   {
-    "asin": "B0HNK7M4WR",
-    "title": "2027 New Wall Ac Unit, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating, Wall Mount Air Conditioner with Remote, Quiet Op",
-    "type": "winner",
-    "score": 90.85,
-    "price": null,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I4tSGuzDL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HNK7M4WR",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H695SHXG",
     "title": "Venluna Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install | 15000mAh Solar Battery, 5” 1080P Monitor, 500ft Wi",
     "type": "winner",
@@ -63,6 +52,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71TRhbysjNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5VDT9KK",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HNK7M4WR",
+    "title": "2027 New Wall Ac Unit, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating, Wall Mount Air Conditioner with Remote, Quiet Op",
+    "type": "winner",
+    "score": 90.1,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I4tSGuzDL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HNK7M4WR",
     "walmart_url": null
   },
   {
@@ -517,6 +517,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDDRJQT9",
+    "title": "8KW Diesel Heater, DC12-24V Fast Heating, All-in-one Diesel Air Heater with APP Remote Control and LCD Display Screen for RV,",
+    "type": "winner",
+    "score": 88.9,
+    "price": 169.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71PEPKsykfL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDDRJQT9",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H73N41ZG",
     "title": "TP B3 8KW Diesel Heater Camouflage All-in-One with Bluetooth &amp; 3-in-1 Smart Remote (CO Monitor), 12V/24V &amp; 110-240V, 5L Tank, Silent Oil Pump, 18045ft Adaptive Altitude for RV Truck Camping",
     "type": "winner",
@@ -668,17 +679,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71k54pSoj1L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC5LS8FD",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HDDRJQT9",
-    "title": "Diesel Heater 12V/24V/110V 8KW All-in-one Diesel Air Heater with APP Remote Control and LCD Display Parking, Air Heaters",
-    "type": "winner",
-    "score": 87.75,
-    "price": 189.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71PEPKsykfL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDDRJQT9",
     "walmart_url": null
   },
   {
@@ -3179,6 +3179,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHY3BLNN",
+    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200 | Stop venting sewer gases into your RV! Passive",
+    "type": "should_test",
+    "score": 76.5,
+    "price": 100.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H13VS7RS",
     "title": "83&quot; L x 59&quot; Inch Plastic Ventilated Mattress Underlay Pad for RV Boat Camper Interlocking Modular Design, Breathable Mesh RV",
     "type": "should_test",
@@ -3836,17 +3847,6 @@
     "bsr": 17086,
     "image_url": "https://m.media-amazon.com/images/I/71UP0idnBjL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQ26RYC",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HHY3BLNN",
-    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200",
-    "type": "should_test",
-    "score": 74.25,
-    "price": 100.0,
-    "bsr": 50068,
-    "image_url": "https://m.media-amazon.com/images/I/71l7Lz8aQgL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
     "walmart_url": null
   },
   {
@@ -12353,6 +12353,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7H16JBF",
+    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
+    "type": "candidate",
+    "score": 60.0,
+    "price": 39.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HG16DSLY",
     "title": "Garvee Vehicle Awning 6.6x10ft Roof Rack Pull-Out Sun Shade UV50+ PU3000mm Waterproof 600D Oxford Ripstop 4x4 Side Awning for",
     "type": "candidate",
@@ -12735,17 +12746,6 @@
     "bsr": 1699515,
     "image_url": "https://m.media-amazon.com/images/I/71I1AmIbSvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGN2D82P",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7H16JBF",
-    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elixir Heng&#x27;s Jensen 14x14 Vents",
-    "type": "candidate",
-    "score": 57.75,
-    "price": 39.99,
-    "bsr": 68844,
-    "image_url": "https://m.media-amazon.com/images/I/61KtLOf7PSL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
     "walmart_url": null
   },
   {
@@ -16783,17 +16783,6 @@
     "bsr": 467594,
     "image_url": "https://m.media-amazon.com/images/I/71M0YDGVzEL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGFNKG8Z",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HG4L1MR6",
-    "title": "Universal 5.8&quot; Ceiling Garnish Trim Ring for 14&quot; RV Vent Fan",
-    "type": "candidate",
-    "score": 50.25,
-    "price": 29.99,
-    "bsr": 61471,
-    "image_url": "https://m.media-amazon.com/images/I/41odZUirxbL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG4L1MR6",
     "walmart_url": null
   },
   {
@@ -29180,6 +29169,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61OUeP7+mvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2VXDPDD",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HG4L1MR6",
+    "title": "Airtaxi Universal 5.8&quot; Ceiling Garnish Trim Ring for 14&quot; RV Vent Fan | White Modular Design, Simple assembly required before",
+    "type": "candidate",
+    "score": 26.75,
+    "price": 29.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41odZUirxbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG4L1MR6",
     "walmart_url": null
   },
   {
