@@ -1226,7 +1226,7 @@
     "type": "winner",
     "score": 82.75,
     "price": 1499.99,
-    "bsr": 1512,
+    "bsr": 1136,
     "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
     "walmart_url": null
@@ -3063,7 +3063,7 @@
     "type": "should_test",
     "score": 76.95,
     "price": 949.0,
-    "bsr": 524,
+    "bsr": 371,
     "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
