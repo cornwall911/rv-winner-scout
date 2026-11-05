@@ -187,17 +187,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HKV9MTW2",
-    "title": "VEVOR Diesel Heater DC 12-24V 2.38 Gal / 9 L Fuel Tank Diesel Air Heater | For Outdoor Camping, Aluminum Element Fast Heating",
-    "type": "winner",
-    "score": 89.75,
-    "price": null,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+EGDTXIHL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKV9MTW2",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GS5914FR",
     "title": "1080P Strong Magnetic Wireless Backup Camera for RV Trailer 1-Min Install | Long Battery Life &amp; Solar Charging, Clear Night V",
     "type": "winner",
@@ -470,6 +459,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81QArkkS5XL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H28WH54Z",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HKV9MTW2",
+    "title": "VEVOR Diesel Heater DC 12-24V 2.38 Gal / 9 L Fuel Tank Diesel Air Heater | For Outdoor Camping, Aluminum Element Fast Heating",
+    "type": "winner",
+    "score": 89.2,
+    "price": 288.9,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+EGDTXIHL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKV9MTW2",
     "walmart_url": null
   },
   {
@@ -822,17 +822,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51FhXyxFjxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQMPND1",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8RHH69H",
-    "title": "14&quot; RV Roof Vent Fan, 12V 24V 48V, Smart Temp Humidity, LED, Voice Control",
-    "type": "winner",
-    "score": 84.75,
-    "price": 258.9,
-    "bsr": 495273,
-    "image_url": "https://m.media-amazon.com/images/I/71vfFCvat6L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8RHH69H",
     "walmart_url": null
   },
   {
@@ -2175,17 +2164,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71HGpyhfAiL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1BSLPWF",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBVMVD4S",
-    "title": "EROMMY RV Roof Vent, 12V DC 30W RV Vent Fan with 10-Speed Reversible Airflow, Remote Control &amp; Auto Thermostat, 14&quot; x 14&quot; RV",
-    "type": "should_test",
-    "score": 79.35,
-    "price": 189.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ru15f2ejL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVMVD4S",
     "walmart_url": null
   },
   {
@@ -3795,6 +3773,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8RHH69H",
+    "title": "14&quot; RV Roof Vent Fan, 12V 24V 48V, Smart Temp Humidity, LED, Voice Control | 14x14 Thermostat, Air Quality Sensing, Shade &amp; S",
+    "type": "should_test",
+    "score": 75.0,
+    "price": 258.9,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vfFCvat6L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8RHH69H",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HLYX5VC8",
     "title": "PECRON E2400LFP 2048Wh/2400W, Fast Charging in 1.5 Hrs for Emergencies, Camping, RV, Home Use",
     "type": "should_test",
@@ -4353,6 +4342,17 @@
     "bsr": 114673,
     "image_url": "https://m.media-amazon.com/images/I/71LL0IH7PUL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGQVDYPS",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBVMVD4S",
+    "title": "EROMMY RV Roof Vent, 12V DC 30W RV Vent Fan with 10-Speed Reversible Airflow, Remote Control &amp; Auto Thermostat, 14&quot; x 14&quot; RV",
+    "type": "should_test",
+    "score": 71.9,
+    "price": 189.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ru15f2ejL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVMVD4S",
     "walmart_url": null
   },
   {
@@ -7007,17 +7007,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCL9MBV4",
-    "title": "RV Side Vent Fan,Dual Motor Quiet Exhaust (White)",
-    "type": "should_test",
-    "score": 64.05,
-    "price": 21.97,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/51Syg3gLEoL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCL9MBV4",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H35HWG7N",
     "title": "Anycosy RV Mattress Underlay- 3D Mesh Breathable &amp; Washable Airflow Vent Layer Mattress Support Pad with Straps for Camper, M",
     "type": "should_test",
@@ -8041,6 +8030,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCL9MBV4",
+    "title": "RV Side Vent Fan,Dual Motor Quiet Exhaust (White) | High Strength ABS Plastic,White,Dual Motor 12V Exhaust Fan Quiet,Waterpro",
+    "type": "should_test",
+    "score": 61.9,
+    "price": 21.97,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51Syg3gLEoL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCL9MBV4",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZPC8H9J",
     "title": "Step Stool with Handle for Elderly &amp; Seniors,Rv Steps with Handrail 330lbs,Step Stools for Seniors, Adjustables 5-Level Handr",
     "type": "should_test",
@@ -8437,17 +8437,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8MX6JCT",
-    "title": "RddenIy Attic Fan Cover with Velcro Strips for Vents, Whole House Fan Cover for Ceiling, Attic, RV, Garage, Reflective, Therm",
-    "type": "should_test",
-    "score": 61.0,
-    "price": 21.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+Nq9CwbBL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8MX6JCT",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H859G391",
     "title": "110V-240V to 12V Diesel Air Heater Power Supply, 12V 25A AC to DC Converter Adapter for 2KW 5KW 8KW Parking Heaters, RV Campe",
     "type": "should_test",
@@ -8808,6 +8797,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/51WwCWRgKML.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H941TJ67",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8MX6JCT",
+    "title": "RddenIy Attic Fan Cover with Velcro Strips for Vents, Whole House Fan Cover for Ceiling, Attic, RV, Garage, Reflective, Therm",
+    "type": "should_test",
+    "score": 59.75,
+    "price": 21.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+Nq9CwbBL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8MX6JCT",
     "walmart_url": null
   },
   {
@@ -17083,6 +17083,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8F5ZV3Y",
+    "title": "RV Floor Vent Cover 2 Pack, Magnetic RV Vent Register 2&quot;x10&quot; Aluminum Removable Camper Trailer Floor Vent with Magnetic Pull",
+    "type": "candidate",
+    "score": 50.25,
+    "price": 31.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710CE0T5KTL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8F5ZV3Y",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7J755QF",
     "title": "1-Step Manual Drop down Step, Folding RV Step for Caravan, Trailer | Single-Level Step for Caravan and Trailer with a Ground",
     "type": "candidate",
@@ -17501,17 +17512,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8MWD4CP",
-    "title": "10-20270 Roof Vent Lift Motor Replacement Compatible with MaxxAir MaxxFan 4500K-4900K Series, RV Vent Motor Repair Part for C",
-    "type": "candidate",
-    "score": 49.55,
-    "price": 40.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71IX7LJyiIL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8MWD4CP",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H7HVKQB3",
     "title": "Single Layer Aluminum RV Step 440.92LBS Heavy Duty Black Entry Foot Pedal | Carbon steel + aluminum + 304 stainless steel wit",
     "type": "candidate",
@@ -17817,17 +17817,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kb3Q3ohDL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGXZ2T7T",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8F5ZV3Y",
-    "title": "RV Floor Vent Cover 2 Pack, Magnetic RV Vent Register 2&quot;x10&quot; Aluminum Removable Camper Trailer Floor Vent with Magnetic Pull Handle, Double Layer Pet Friendly, Smooth Rounded Edge for Motorhome",
-    "type": "candidate",
-    "score": 49.25,
-    "price": 32.99,
-    "bsr": 478082,
-    "image_url": "https://m.media-amazon.com/images/I/710CE0T5KTL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8F5ZV3Y",
     "walmart_url": null
   },
   {
@@ -23100,6 +23089,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8MWD4CP",
+    "title": "10-20270 Roof Vent Lift Motor Replacement Compatible with MaxxAir MaxxFan 4500K-4900K Series, RV Vent Motor Repair Part for C",
+    "type": "candidate",
+    "score": 43.25,
+    "price": 40.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71IX7LJyiIL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8MWD4CP",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H4L9YNNV",
     "title": "Safoner Aluminum RV Sewer Hose Storage Carrier,Camper Hose Tube Accessorie | Aluminum tube, I-beam mounting, Hinged vented en",
     "type": "candidate",
@@ -26213,6 +26213,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HFS76QRK",
+    "title": "RV Roof Vent Operator Assembly for Ventline Ventadome, Knob &amp; Screw, 1Pack",
+    "type": "candidate",
+    "score": 37.5,
+    "price": 18.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61Qlm+5MQUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFS76QRK",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H98GKCPR",
     "title": "RV Entry Door 24&quot; X 68&quot; Rounded Corners",
     "type": "candidate",
@@ -26320,6 +26331,17 @@
     "bsr": 13684,
     "image_url": "https://m.media-amazon.com/images/I/71cTOnvPrOL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNR8G4Q2",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGKWJGD3",
+    "title": "HUAREW RV Roof Vent Operator Assembly with Knob and Screw, Gray | Compatible with V2119, V2092 and V2128, For 14&quot; x 14&quot; Stand",
+    "type": "candidate",
+    "score": 37.25,
+    "price": 17.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ChbqpBc+L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGKWJGD3",
     "walmart_url": null
   },
   {
@@ -26983,17 +27005,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGKWJGD3",
-    "title": "RV Roof Vent Operator Assembly with Knob and Screw, Gray",
-    "type": "candidate",
-    "score": 34.75,
-    "price": 17.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/51ChbqpBc+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGKWJGD3",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H46N65XL",
     "title": "7 Pin Trailer Wiring Harness, 7 Way &amp; 4 Flat Hitch Receptacle Kit for USCAR | Multi-Tow USCAR Plug for Ford GM Chevy Ram - Sn",
     "type": "candidate",
@@ -27379,17 +27390,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFS76QRK",
-    "title": "RV Roof Vent Operator Assembly for Ventline Ventadome, Knob &amp; Screw, 1Pack",
-    "type": "candidate",
-    "score": 33.75,
-    "price": 18.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61Qlm+5MQUL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFS76QRK",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H4JJK738",
     "title": "10 Proseal Wide Tips A Wide Sealant Tip Fits Most Caulk Nozzles. for Most Any RV, Camper, Motorhome, Trailer, or Autobody and Lap Sealants. (Variety Pack, One of Each Size Tip)",
     "type": "candidate",
@@ -27566,17 +27566,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H3VRP5LY",
-    "title": "Replacement Remote Control for MaxxAir RV Ventilation 00A03540K, 00A03550K | For MaxxAir 00A03540K, 00A03550K, 03540K, 03550K",
-    "type": "candidate",
-    "score": 33.5,
-    "price": 24.88,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71e2DP4XbVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3VRP5LY",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHZG3YG1",
     "title": "Shuaio Tech R001832 12V RV Awning Arm Drive Motor for Carefree of Colorado | Compass Fits for Carefree of Colorado Longitude",
     "type": "candidate",
@@ -27618,17 +27607,6 @@
     "bsr": 373036,
     "image_url": "https://m.media-amazon.com/images/I/61m5TqlnQiL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDYGLNB9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H2BNZPBW",
-    "title": "7 Inch Round RV Air Vent Adjustable Ceiling AC Vent Replacement Cover",
-    "type": "candidate",
-    "score": 33.25,
-    "price": 19.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71GVeQyYqPL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2BNZPBW",
     "walmart_url": null
   },
   {
@@ -28237,6 +28215,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H3VRP5LY",
+    "title": "Replacement Remote Control for MaxxAir RV Ventilation 00A03540K, 00A03550K | For MaxxAir 00A03540K, 00A03550K, 03540K, 03550K",
+    "type": "candidate",
+    "score": 32.0,
+    "price": 24.88,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71e2DP4XbVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3VRP5LY",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H4KNDQDR",
     "title": "431840 Awning Arm Repair Pin Kit for Power RV Camper Trailer Awning 540900 | RV Awning Arm Repair Pin W/Spacers Kit 431840 54",
     "type": "candidate",
@@ -28476,6 +28465,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/412WF9qaQAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKJXZSBP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H2BNZPBW",
+    "title": "OEEGZ 7 Inch Round RV Air Vent Adjustable Ceiling AC Vent Replacement Cover | 2 Pcs White rotating louver vent port with 1/4",
+    "type": "candidate",
+    "score": 31.5,
+    "price": 19.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71GVeQyYqPL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2BNZPBW",
     "walmart_url": null
   },
   {
@@ -30206,17 +30206,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HG24Z6WF",
-    "title": "2-Pack Rear Cab Vent Louvers Compatible with Ram 1500 2500 3500, Replacement for 683236494AB",
-    "type": "candidate",
-    "score": 23.25,
-    "price": 22.99,
-    "bsr": 358934,
-    "image_url": "https://m.media-amazon.com/images/I/61hQ-jhAayL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG24Z6WF",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6B8RNYF",
     "title": "2&quot; Fuel Tank Strap Isolator Kit, 2 Pack 6FT Heavy-Duty Rubber, Anti-Vibration Pads &amp; 304 Stainless Steel Clamps, Semi Truck Fuel Tank Protection",
     "type": "candidate",
@@ -30412,6 +30401,17 @@
     "bsr": 421350,
     "image_url": "https://m.media-amazon.com/images/I/714mPyxXKnL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8XYSLV8",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HG24Z6WF",
+    "title": "2-Pack Rear Cab Vent Louvers Compatible with Ram 1500 2500 3500, Replacement for 683236494AB",
+    "type": "candidate",
+    "score": 19.5,
+    "price": 22.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61hQ-jhAayL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG24Z6WF",
     "walmart_url": null
   },
   {
