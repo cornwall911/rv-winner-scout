@@ -44,17 +44,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H695SHXG",
-    "title": "Venluna Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install | 15000mAh Solar Battery, 5” 1080P Monitor, 500ft Wi",
-    "type": "winner",
-    "score": 90.15,
-    "price": 109.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8105IsnmmVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GYNY421Z",
     "title": "7&quot; Solar Wireless Magnetic Backup Camera, 1-Min Install-Free | Anti-Glare Monitor, No Wiring, Scratch-Proof Rear View Camera,",
     "type": "winner",
@@ -63,6 +52,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VLRlW20bL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYNY421Z",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H695SHXG",
+    "title": "Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install",
+    "type": "winner",
+    "score": 90.0,
+    "price": 109.99,
+    "bsr": 11924,
+    "image_url": "https://m.media-amazon.com/images/I/8105IsnmmVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
     "walmart_url": null
   },
   {
