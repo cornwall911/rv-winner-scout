@@ -1386,6 +1386,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJDBKSY5",
+    "title": "Anker SOLIX S2000 Portable Power Station with Power Strip",
+    "type": "winner",
+    "score": 82.4,
+    "price": 749.99,
+    "bsr": 971,
+    "image_url": "https://m.media-amazon.com/images/I/71eLl6EFViL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJDBKSY5",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H87TPCNC",
     "title": "9V-30V Starlink Mini Car Adapter Booster with Digital Display 16.4FT",
     "type": "winner",
@@ -3003,17 +3014,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "should_test",
-    "score": 77.2,
-    "price": 949.0,
-    "bsr": 411,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H2MC6TJD",
     "title": "Portable Power Station 3600Wh PowerMax 3600 SE With 200W Solar Panel | 3600W (Surge 7200W) Output, LiFePO4 Solar Generator fo",
     "type": "should_test",
@@ -3121,6 +3121,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xy+6uFcSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYDCH27K",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "should_test",
+    "score": 76.75,
+    "price": 949.0,
+    "bsr": 596,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
