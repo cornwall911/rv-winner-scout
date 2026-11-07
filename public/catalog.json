@@ -643,7 +643,7 @@
     "type": "winner",
     "score": 88.4,
     "price": 110.49,
-    "bsr": 3291,
+    "bsr": 3194,
     "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
     "walmart_url": null
@@ -4026,17 +4026,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9RWG765",
-    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
-    "type": "should_test",
-    "score": 74.25,
-    "price": 239.99,
-    "bsr": 2663,
-    "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HC81QFGD",
     "title": "KNOX 5th Wheel RV Skirt with Twist Fasteners, Zippered Panels, 5.5x19.6 ft, Black",
     "type": "should_test",
@@ -4078,6 +4067,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71EVXoSCHwL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFZDYY6L",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H9RWG765",
+    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
+    "type": "should_test",
+    "score": 74.0,
+    "price": 239.99,
+    "bsr": 3329,
+    "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
     "walmart_url": null
   },
   {
