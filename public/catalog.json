@@ -1078,17 +1078,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF4HN94D",
-    "title": "for Starlink Mini Pole Clamp Mount , Starlink Mini Mount Accessories Adjustable Bracket for Car RV Boat Camper, Roof Rack Lad",
-    "type": "winner",
-    "score": 83.45,
-    "price": 18.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eVRUtcOkL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4HN94D",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBWYN8WZ",
     "title": "Digital Propane Tank Warmer Blanket Fits 20 30 40LB LP Gas Cylinders",
     "type": "winner",
@@ -1570,6 +1559,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71sm9kWaTvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1HKQBCX",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF4HN94D",
+    "title": "for Starlink Mini Pole Clamp Mount , Starlink Mini Mount Accessories Adjustable Bracket for Car RV Boat Camper, Roof Rack Lad",
+    "type": "winner",
+    "score": 81.75,
+    "price": 18.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eVRUtcOkL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4HN94D",
     "walmart_url": null
   },
   {
@@ -5808,17 +5808,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ2F13RH",
-    "title": "RV Slide-Out Mouse Guard Compatible with Lippert Slide-Outs, 2 Pack | Split Ring + Support Rod + Gap Cover + Insects + Debris",
-    "type": "should_test",
-    "score": 67.9,
-    "price": 12.98,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nHQTqONpL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ2F13RH",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H39F3PNQ",
     "title": "Magnetic 1LB Propane Tank Holder, Dual-Function Cylinder Mount Bracket Compatible with Coleman 1 lb Camping Gas Canisters, Wa",
     "type": "should_test",
@@ -5992,6 +5981,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61FQv0smFdL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHRDD6L8",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H7JDJB2W",
+    "title": "4 Pack RV Refrigerator Bars, RV Refrigerator Tension Rods, 12.44&quot;-22.63&quot;",
+    "type": "should_test",
+    "score": 67.25,
+    "price": 19.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71S0oeYwaxL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7JDJB2W",
     "walmart_url": null
   },
   {
@@ -6388,6 +6388,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71Od-1l3uKL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9X1WZYZ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ2F13RH",
+    "title": "RV Slide-Out Mouse Guard Compatible with Lippert Slide-Outs, 2 Pack | Split Ring + Support Rod + Gap Cover + Insects + Debris",
+    "type": "should_test",
+    "score": 66.0,
+    "price": 12.98,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nHQTqONpL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ2F13RH",
     "walmart_url": null
   },
   {
@@ -14520,17 +14531,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HDNZ4JDG",
-    "title": "ESUDNT RV Step Covers with Reflective Side Strips 4 Pack 24x7.5 in | Reflective, Non-Slip Rubber Backing, Removable Stair Cov",
-    "type": "candidate",
-    "score": 54.5,
-    "price": 25.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81NeOY+HomL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDNZ4JDG",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H4M4RLTY",
     "title": "Kadrama RV Screen Door Closer, Adjustable Tension, 17-Inch Aluminum | Automatic Closing, Durable Cable, Universal Camper Door",
     "type": "candidate",
@@ -15078,6 +15078,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Ih0RyeG7L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNKCFTH7",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HDNZ4JDG",
+    "title": "ESUDNT RV Step Covers with Reflective Side Strips 4 Pack 24x7.5 in | Reflective, Non-Slip Rubber Backing, Removable Stair Cov",
+    "type": "candidate",
+    "score": 53.5,
+    "price": 25.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81NeOY+HomL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDNZ4JDG",
     "walmart_url": null
   },
   {
@@ -23694,6 +23705,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6MNHZ1V",
+    "title": "TTLCFP 2 PCS 4&quot; RV Bumper Plug End Cap, 4x4 Inch Car Sewer Hose Protective End Cover with Vent Holes, Universal Square Bumper",
+    "type": "candidate",
+    "score": 43.45,
+    "price": 6.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/614mKCIkdAL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6MNHZ1V",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8P63BYS",
     "title": "Rv Entry Door, 28&quot; W×38&quot; H Entry Door Set, RV Camper Teardrop Trailer Door with Tempered Glass and Key Lock, Aluminum Alloy T",
     "type": "candidate",
@@ -24123,17 +24145,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6MNHZ1V",
-    "title": "TTLCFP 2 PCS 4&quot; RV Bumper Plug End Cap, 4x4 Inch Car Sewer Hose Protective End Cover with Vent Holes, Universal Square Bumper",
-    "type": "candidate",
-    "score": 42.7,
-    "price": 6.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/614mKCIkdAL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6MNHZ1V",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H4ZQQ8VC",
     "title": "Pniwuno 12V Marine Boat LED Light Strip, Cuttable IP71 Waterproof RV Front Cap Lights, Golf Cart Underglow Roof Lights Strip",
     "type": "candidate",
@@ -24461,6 +24472,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81aCdzeWq9L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H99FKRWP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8SYQMG4",
+    "title": "6-Pack Universal Cup Holder Inserts Drop-in Holders for RV Boat Golf Cart",
+    "type": "candidate",
+    "score": 42.25,
+    "price": 23.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/719VuTRYy+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8SYQMG4",
     "walmart_url": null
   },
   {
@@ -26650,17 +26672,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71KIVBKEP6L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2LB1MFS",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8SYQMG4",
-    "title": "6-Pack Universal Cup Holder Inserts Drop-in Holders for RV Boat Golf Cart",
-    "type": "candidate",
-    "score": 37.75,
-    "price": 21.59,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/719VuTRYy+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8SYQMG4",
     "walmart_url": null
   },
   {
@@ -29942,6 +29953,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H4QFR527",
+    "title": "RV Tri-Slide Shower Door Handle Assembly with Set Screw for Frameless Doors | 1 Set Replacement RV Shower door parts, Compati",
+    "type": "candidate",
+    "score": 29.75,
+    "price": 39.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61hrgBiotCL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4QFR527",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HKRJF27P",
     "title": "638292 61629722 Refrigerator Interior Light Mounting Bracket for Norcold RV | Compatible with Norcold N4/5, N61/62/64, N81/82",
     "type": "candidate",
@@ -30731,17 +30753,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71C2iIy+vWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H21345WG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H4QFR527",
-    "title": "RV Tri-Slide Shower Door Handle Assembly with Set Screw for Frameless Doors",
-    "type": "candidate",
-    "score": 25.5,
-    "price": 39.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61hrgBiotCL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4QFR527",
     "walmart_url": null
   },
   {
