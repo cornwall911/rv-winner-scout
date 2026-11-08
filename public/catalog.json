@@ -1166,17 +1166,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJDBKSY5",
-    "title": "Anker SOLIX S2000 Portable Power Station with Power Strip",
-    "type": "winner",
-    "score": 83.15,
-    "price": 749.99,
-    "bsr": 1035,
-    "image_url": "https://m.media-amazon.com/images/I/71eLl6EFViL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJDBKSY5",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H14QBS6X",
     "title": "8&#x27; x 13&#x27;3&quot; RV Awning Privacy Shade with Zipper, 90% UV Block, Shadow Black | 8&#x27; x 13&#x27;3&quot;, Shadow Black; breathable zipper mesh",
     "type": "winner",
@@ -1537,6 +1526,17 @@
     "bsr": 2555,
     "image_url": "https://m.media-amazon.com/images/I/71padaLrgjL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZLLJ9PF",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJDBKSY5",
+    "title": "Anker SOLIX S2000 Portable Power Station with Power Strip",
+    "type": "winner",
+    "score": 82.0,
+    "price": 749.99,
+    "bsr": 1280,
+    "image_url": "https://m.media-amazon.com/images/I/71eLl6EFViL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJDBKSY5",
     "walmart_url": null
   },
   {
