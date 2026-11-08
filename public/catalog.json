@@ -137,7 +137,7 @@
     "type": "winner",
     "score": 90.0,
     "price": 119.99,
-    "bsr": 10899,
+    "bsr": 11870,
     "image_url": "https://m.media-amazon.com/images/I/71iKDiyTIQL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQJHTCT",
     "walmart_url": null
@@ -31182,6 +31182,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61QRefsM8mL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9KRDD32",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H948WZD5",
+    "title": "Backup Camera Fit for Ford F-150 2021-2023, Ford Expedition 2022-2023",
+    "type": "candidate",
+    "score": 25.0,
+    "price": 48.34,
+    "bsr": 11559,
+    "image_url": "https://m.media-amazon.com/images/I/61AlIL5gZhL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H948WZD5",
     "walmart_url": null
   },
   {
