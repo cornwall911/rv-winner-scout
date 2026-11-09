@@ -2750,6 +2750,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H94JBM34",
+    "title": "NLQR RV Vent Insulator 14&quot;x14&quot;x3&quot;, 2 Pack — High-Density Memory Foam Skylight Cover with Reflective Surface &amp; Washable Zipper Cover | Blackout, Noise Reduction, Energy Saving | Fits Standard RV/Camper",
+    "type": "should_test",
+    "score": 78.05,
+    "price": 21.49,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/710g4G0aaDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H94JBM34",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF7F1GCC",
     "title": "VEVOR Electric Trailer Dolly, 3600 lbs Max with 2 &amp; 1-7/8 Inch Hitch Balls | Electric Trailer Mover 600lbs Tongue Weight, DC",
     "type": "should_test",
@@ -2824,6 +2835,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71s5jgFMucL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1KZ2N6K",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHY3BLNN",
+    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200 | Stop venting sewer gases into your RV! Passive",
+    "type": "should_test",
+    "score": 77.85,
+    "price": 100.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
     "walmart_url": null
   },
   {
@@ -3839,17 +3861,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HHY3BLNN",
-    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200 | Stop venting sewer gases into your RV! Passive",
-    "type": "should_test",
-    "score": 75.0,
-    "price": 100.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H2KYGWRS",
     "title": "TURBRO Bluetooth Soft Starter for RV AC &amp; HVAC Units | Reduces Power by 75%, Works with Generators, IP6 Protection, 40A FLA f",
     "type": "should_test",
@@ -4045,17 +4056,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/718PYgHYLbL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8SYNZSR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H94JBM34",
-    "title": "NLQR RV Vent Insulator 14&quot;x14&quot;x3&quot;, 2 Pack — High-Density Memory Foam Skylight Cover with Reflective Surface &amp; Washable Zipper",
-    "type": "should_test",
-    "score": 74.1,
-    "price": 21.49,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710g4G0aaDL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H94JBM34",
     "walmart_url": null
   },
   {
@@ -6457,6 +6457,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HPG6ZTZ5",
+    "title": "Leafgreen Solutions LLC Pass Through Wall Port for 3&quot; &amp; 3.5&quot; Diesel Heater Hose Quick Connect to Your Camper RV Van Heater Du",
+    "type": "should_test",
+    "score": 66.0,
+    "price": 34.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MIb1lEUhL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HPG6ZTZ5",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZ2P3FMV",
     "title": "5.3 Gallon Portable Toilet for Camping, with Detachable Tank, Ideal for Boat, Truck &amp; RV Use, Gray",
     "type": "should_test",
@@ -7037,17 +7048,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tLGg5v5uL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H99C4YLX",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HPG6ZTZ5",
-    "title": "Leafgreen Solutions LLC Pass Through Wall Port for 3&quot; &amp; 3.5&quot; Diesel Heater Hose Quick Connect to Your Camper RV Van Heater Du",
-    "type": "should_test",
-    "score": 64.5,
-    "price": 34.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MIb1lEUhL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HPG6ZTZ5",
     "walmart_url": null
   },
   {
@@ -18975,6 +18975,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHHHXQFF",
+    "title": "Diesel Heater Fuel Tank Riser Kit, 24mm Exhaust Elbow Pipes",
+    "type": "candidate",
+    "score": 49.0,
+    "price": 29.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71Bp0IjhABL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHHHXQFF",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H36GT6T6",
     "title": "WXIHYOS Motion Sensor Car Trunk Light,Car Trunk Lights for RV Interior Lighting,Rechargeable Motion Sensor Magnetic Light,2 M",
     "type": "candidate",
@@ -19599,17 +19610,6 @@
     "bsr": 18066,
     "image_url": "https://m.media-amazon.com/images/I/712PUISic9L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGL6RYTH",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H4Z5NTC6",
-    "title": "Aluminum RV Floor Vent Cover, 2x10 Inch Register with Removable Cover,Durable Camper Essential, Pet-Friendly RV Vent Accessories for Inside (2 Pack)",
-    "type": "candidate",
-    "score": 48.5,
-    "price": 26.55,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/81gwVgLKbBL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4Z5NTC6",
     "walmart_url": null
   },
   {
@@ -20867,17 +20867,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HHHHXQFF",
-    "title": "Diesel Heater Fuel Tank Riser Kit, 24mm Exhaust Elbow Pipes",
-    "type": "candidate",
-    "score": 47.25,
-    "price": 29.99,
-    "bsr": 158705,
-    "image_url": "https://m.media-amazon.com/images/I/71Bp0IjhABL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHHHXQFF",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HM7T1DXG",
     "title": "RV Roof Cover Oxford Cloth Waterproof Camper Cover，White：35 ft",
     "type": "candidate",
@@ -21986,6 +21975,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71wKx2RsSJL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBPDMD7X",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H1XJ7JWQ",
+    "title": "7&quot; Round White RV Ceiling AC Vent Covers for Newmar and Other RV 2 Pack",
+    "type": "candidate",
+    "score": 46.25,
+    "price": 10.49,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61+a0JnrgvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1XJ7JWQ",
     "walmart_url": null
   },
   {
@@ -24571,17 +24571,6 @@
     "bsr": 118688,
     "image_url": "https://m.media-amazon.com/images/I/71tFTodnoCL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHKW7M2M",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H1XJ7JWQ",
-    "title": "7&quot; Round White RV Ceiling AC Vent Covers for Newmar and Other RV 2 Pack | Rotatable Louvers Adjustable Airflow Direction, Fit",
-    "type": "candidate",
-    "score": 42.75,
-    "price": 10.49,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+a0JnrgvL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1XJ7JWQ",
     "walmart_url": null
   },
   {
@@ -27277,6 +27266,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ZT408L3+L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFX6SGZD",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H4Z5NTC6",
+    "title": "Aluminum RV Floor Vent Cover, 2x10 Inch Register with Removable Cover,Durable Camper Essential, Pet-Friendly RV Vent Accessor",
+    "type": "candidate",
+    "score": 37.5,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81gwVgLKbBL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4Z5NTC6",
     "walmart_url": null
   },
   {
