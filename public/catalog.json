@@ -11,17 +11,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJPGLTYC",
-    "title": "2027 New Wall Mounted Air Conditioner, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating Wall AC Unit with Remote, Quiet O",
-    "type": "winner",
-    "score": 90.65,
-    "price": null,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I4tSGuzDL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJPGLTYC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HNK7M4WR",
     "title": "2027 New Wall Ac Unit, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating, Wall Mount Air Conditioner with Remote, Quiet Op",
     "type": "winner",
@@ -85,6 +74,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71TRhbysjNL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5VDT9KK",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJPGLTYC",
+    "title": "2027 New Wall Mounted Air Conditioner, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating Wall AC Unit with Remote, Quiet O",
+    "type": "winner",
+    "score": 90.15,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I4tSGuzDL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJPGLTYC",
     "walmart_url": null
   },
   {
@@ -4159,12 +4159,12 @@
   },
   {
     "asin": "B0H714WSSP",
-    "title": "22x14 RV Vent Insulator and Skylight Cover,RV Skylight Insulator(1pack)",
+    "title": "22x14 RV Vent Insulator and Skylight Cover,RV Skylight Insulator(1pack) | Waterproof Universal Camper Roof Vent Plug,Privacy",
     "type": "should_test",
-    "score": 73.7,
+    "score": 73.75,
     "price": 20.99,
     "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/81tKe72MseL.jpg",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81tKe72MseL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H714WSSP",
     "walmart_url": null
   },
@@ -11682,6 +11682,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGY8TG4G",
+    "title": "FOGATTI 35000 BTU RV Furnace | Propane Heater for Camper Trailer Van | Quiet Ducted Forced Air Heating, Compact Replacement W",
+    "type": "should_test",
+    "score": 54.75,
+    "price": 799.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/717Hpa-5Q3L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGY8TG4G",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H4G12QKS",
     "title": "Ustinian 97521 28 FT RV Macerator Hose Kit(9FT Collapsed), 1-1/2 Inch Retractable RV Sewer Hose for Thetford Sani-Con Turbo 4",
     "type": "should_test",
@@ -11888,17 +11899,6 @@
     "bsr": 426362,
     "image_url": "https://m.media-amazon.com/images/I/61eR3PpJvCL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5C5XR16",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGY8TG4G",
-    "title": "FOGATTI 35000 BTU RV Furnace | Propane Heater for Camper Trailer Van | Quiet Ducted Forced Air Heating, Compact Replacement W",
-    "type": "should_test",
-    "score": 53.5,
-    "price": 799.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/717Hpa-5Q3L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGY8TG4G",
     "walmart_url": null
   },
   {
@@ -26004,17 +26004,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H4YPKV92",
-    "title": "2 PCS Car Air Conditioning Wind Deflector, Rectangle Clamp-on AC Vent Extender, Adjustable Direct Airflow Windscreen, Universal Interior Accessories for Most Cars SUVs (Black)",
-    "type": "candidate",
-    "score": 40.25,
-    "price": 9.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/716dMqvXNJL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4YPKV92",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBRC9S2G",
     "title": "4pack RV Awning Arm Safety Strap 1&quot; x 13&quot; | 4 pack 1&quot; x 13&quot; RV Awning Tie Down Straps, Nylon Camper Awning Strap for Travel T",
     "type": "candidate",
@@ -26518,6 +26507,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41s8387fYkL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H729N822",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H4YPKV92",
+    "title": "2 PCS Car Air Conditioning Wind Deflector, Rectangle Clamp-on AC Vent Extender, Adjustable Direct Airflow Windscreen, Universal Interior Accessories for Most Cars SUVs (Black)",
+    "type": "candidate",
+    "score": 39.3,
+    "price": 8.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/716dMqvXNJL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4YPKV92",
     "walmart_url": null
   },
   {
