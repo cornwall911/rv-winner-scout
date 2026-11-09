@@ -1265,6 +1265,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5J3C961",
+    "title": "Car Charger for Starlink Mini, Car Adapter with 10FT Cable, 12V-24V",
+    "type": "winner",
+    "score": 82.8,
+    "price": 25.64,
+    "bsr": 24692,
+    "image_url": "https://m.media-amazon.com/images/I/61ujbHElNuL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5J3C961",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HBJX5YH8",
     "title": "Magnetic RV Insulated Door Cover 33&quot; x 80&quot; Camper Winter Thermal Curtain | Self Closing Weatherproof Oxford Fabric Winter Doo",
     "type": "winner",
@@ -4048,6 +4059,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBQ3KKKS",
+    "title": "NNG 33 x 80 Inch Magnetic RV Insulated Door Cover for Winter",
+    "type": "should_test",
+    "score": 74.05,
+    "price": 29.99,
+    "bsr": 23773,
+    "image_url": "https://m.media-amazon.com/images/I/61+d7C4fWRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQ3KKKS",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8SPMDMZ",
     "title": "Heated Water Hose for RV 35FT, -40°F Freeze Resistant Heated Hose with Thermostat, for Winter Camping, Travel Trailer Motorho",
     "type": "should_test",
@@ -4144,17 +4166,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81EBkIF3k4L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD7HHFZ9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBQ3KKKS",
-    "title": "NNG 33 x 80 Inch Magnetic RV Insulated Door Cover for Winter | 3-Layer Thermal RV Door Curtain for Inside Camper &amp; Travel Tra",
-    "type": "should_test",
-    "score": 73.5,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+d7C4fWRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQ3KKKS",
     "walmart_url": null
   },
   {
@@ -6215,17 +6226,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HDZ6J42W",
-    "title": "SinKeu 300W 260Wh Portable Power Station with 40W Solar Panel Included",
-    "type": "should_test",
-    "score": 66.5,
-    "price": 239.98,
-    "bsr": 16564,
-    "image_url": "https://m.media-amazon.com/images/I/71Ic2bOHeRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDZ6J42W",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HQ3J9T8Q",
     "title": "Leakbee 4-in-1 RV Accessories Gas Detector, (Temp &amp; Humidity) Replace The Old RV Gas Detector #31011,12V DC for Motorhome Tra",
     "type": "should_test",
@@ -6751,6 +6751,17 @@
     "bsr": 23204,
     "image_url": "https://m.media-amazon.com/images/I/817pZjBR82L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGKVHHJW",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HDZ6J42W",
+    "title": "SinKeu 300W 260Wh Portable Power Station with 40W Solar Panel Included",
+    "type": "should_test",
+    "score": 65.0,
+    "price": 239.98,
+    "bsr": 22120,
+    "image_url": "https://m.media-amazon.com/images/I/71Ic2bOHeRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDZ6J42W",
     "walmart_url": null
   },
   {
@@ -20405,17 +20416,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8SJMNVP",
-    "title": "RV Tension Rods, Adjustable Cabinet Rods 12-19.5 in, 6 Pack",
-    "type": "candidate",
-    "score": 47.5,
-    "price": 13.59,
-    "bsr": 24522,
-    "image_url": "https://m.media-amazon.com/images/I/51EGsdJnTDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8SJMNVP",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HC6KR24X",
     "title": "2 in 1 RV Gravity Water Fill Inlet Funnel,Hands-Free Water Tank Fill Funnel | Screw-On,Hands-Free Design,4.1 in Wide Mouth,Ad",
     "type": "candidate",
@@ -21370,6 +21370,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71p9+PUPXwL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9XSR655",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8SJMNVP",
+    "title": "RV Tension Rods, Adjustable Cabinet Rods 12-19.5 in, 6 Pack",
+    "type": "candidate",
+    "score": 46.5,
+    "price": 13.59,
+    "bsr": 23270,
+    "image_url": "https://m.media-amazon.com/images/I/51EGsdJnTDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8SJMNVP",
     "walmart_url": null
   },
   {
