@@ -616,17 +616,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HC5VTXFB",
-    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
-    "type": "winner",
-    "score": 88.65,
-    "price": 110.49,
-    "bsr": 2851,
-    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H3T497ZD",
     "title": "VEKOOTO KS7Pro Magnetic Solar Wireless Backup Camera, 7 Inch Monitor | License Plate Mount in 3 Minutes, 5000 mAh Battery, IP",
     "type": "winner",
@@ -646,6 +635,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71RCj5626sL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFMSXN93",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC5VTXFB",
+    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
+    "type": "winner",
+    "score": 88.45,
+    "price": 129.99,
+    "bsr": 2485,
+    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
     "walmart_url": null
   },
   {
@@ -1504,17 +1504,6 @@
     "bsr": 19082,
     "image_url": "https://m.media-amazon.com/images/I/41w6c1Xl83L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC6K52WC",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "winner",
-    "score": 82.25,
-    "price": 949.0,
-    "bsr": 1032,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -2725,6 +2714,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61U9TYdc1-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQ83DCQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "should_test",
+    "score": 78.1,
+    "price": 949.0,
+    "bsr": 1565,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -5406,7 +5406,7 @@
     "type": "should_test",
     "score": 68.75,
     "price": 399.99,
-    "bsr": 2279,
+    "bsr": 2721,
     "image_url": "https://m.media-amazon.com/images/I/61WdUZq1WgL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
     "walmart_url": null
