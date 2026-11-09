@@ -110,6 +110,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HMK1NCPW",
+    "title": "AUTO-VOX 7.2&quot; Solar Wireless Backup Camera, 1-Min Easy Magnetic Install | Intelligent Blind Spot Obstacle Alarm, 1080P HD IR",
+    "type": "winner",
+    "score": 90.05,
+    "price": 139.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eEEx5f-UL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMK1NCPW",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H93W4JLP",
     "title": "AUTO-VOX 7.2-Inch Solar Wireless Backup Camera, 1-Min Magnetic Mount | 1080P HD IR Night Vision, Dual-Antenna Signal, 2 Split",
     "type": "winner",
@@ -118,17 +129,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Z77+alPTL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H93W4JLP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HMK1NCPW",
-    "title": "AUTO-VOX 7.2&quot; Solar Wireless Backup Camera, 1-Min Easy Magnetic Install",
-    "type": "winner",
-    "score": 90.0,
-    "price": 139.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71eEEx5f-UL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HMK1NCPW",
     "walmart_url": null
   },
   {
@@ -5423,17 +5423,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCHRD3VH",
-    "title": "Dyfizer Mental RV Door Lock Keyless Entry with Keypad/Handle/Remotes/Keys | Full metal RV lock with triple access, jam-free d",
-    "type": "should_test",
-    "score": 68.75,
-    "price": 89.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6155yBbsZNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H98QYNMZ",
     "title": "12V RV Air Conditioner with Heat 11000 BTU Cooling &amp; 3500 BTU Heating, Low Profile Rooftop AC Unit for Off-Grid Campers Van L",
     "type": "should_test",
@@ -5761,6 +5750,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61uKK0y4qBL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H39F3PNQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCHRD3VH",
+    "title": "Dyfizer Mental RV Door Lock Keyless Entry with Keypad/Handle/Remotes/Keys | Full metal RV lock with triple access, jam-free d",
+    "type": "should_test",
+    "score": 67.75,
+    "price": 89.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6155yBbsZNL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
     "walmart_url": null
   },
   {
@@ -12485,17 +12485,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJM1K1Q9",
-    "title": "4Pcs Backup Camera Rain Hood Cover with Curved",
-    "type": "candidate",
-    "score": 64.25,
-    "price": 9.99,
-    "bsr": 12414,
-    "image_url": "https://m.media-amazon.com/images/I/81LCs1G9VyL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJM1K1Q9",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHF8X4GC",
     "title": "MITCHENIFY RV Fresh Water Inlet Funnel with Hose &amp; Suction Cup, RV Gadgets | Universal Funnel, 5-inch Wide Mouth, 360°Flexibl",
     "type": "candidate",
@@ -12526,6 +12515,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/51kglUXeG3L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H83XF9GN",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJM1K1Q9",
+    "title": "4Pcs Backup Camera Rain Hood Cover with Curved",
+    "type": "candidate",
+    "score": 63.95,
+    "price": 9.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/81LCs1G9VyL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJM1K1Q9",
     "walmart_url": null
   },
   {
