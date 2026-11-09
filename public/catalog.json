@@ -1,16 +1,5 @@
 [
   {
-    "asin": "B0H5QBNVRR",
-    "title": "AUTO-VOX Solar Wireless Backup Camera: 1-Minute No-Drill Installation",
-    "type": "winner",
-    "score": 90.9,
-    "price": 149.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/711LpS7xzVL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5QBNVRR",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HNK7M4WR",
     "title": "2027 New Wall Ac Unit, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating, Wall Mount Air Conditioner with Remote, Quiet Op",
     "type": "winner",
@@ -41,6 +30,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81KzGH70jaL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCV5F4XY",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0GYNY421Z",
+    "title": "7&quot; Solar Wireless Magnetic Backup Camera, 1-Min Install-Free | Anti-Glare Monitor, No Wiring, Scratch-Proof Rear View Camera,",
+    "type": "winner",
+    "score": 90.3,
+    "price": 119.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VLRlW20bL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GYNY421Z",
     "walmart_url": null
   },
   {
@@ -85,17 +85,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I4tSGuzDL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJPGLTYC",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0GYNY421Z",
-    "title": "7&quot; Solar Wireless Magnetic Backup Camera, 1-Min Install-Free | Anti-Glare Monitor, No Wiring, Scratch-Proof Rear View Camera,",
-    "type": "winner",
-    "score": 90.1,
-    "price": 119.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VLRlW20bL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GYNY421Z",
     "walmart_url": null
   },
   {
@@ -341,6 +330,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBQG8J4Z",
+    "title": "MROACE Magnetic Solar Wireless Backup Camera for Car, 7&quot; 1080P Monitor | 9600mAh Battery, BSD Alerts, DVR Recording, 170° Vie",
+    "type": "winner",
+    "score": 89.5,
+    "price": 189.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Y5HtahcML._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQG8J4Z",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC6MSXG6",
     "title": "WIPPRO Diesel Heater 8KW, 12V 24V 110V All-in-One,2Gal Portable Diesel Air Heater with LCD Switch &amp; Remote Control for Car RV",
     "type": "winner",
@@ -448,17 +448,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uvHnbnJ2L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H45FXY1V",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBQG8J4Z",
-    "title": "MROACE Magnetic Solar Wireless Backup Camera for Car, 7&quot; 1080P Monitor | 9600mAh Battery, BSD Alerts, DVR Recording, 170° Vie",
-    "type": "winner",
-    "score": 89.25,
-    "price": 189.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Y5HtahcML._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQG8J4Z",
     "walmart_url": null
   },
   {
@@ -583,6 +572,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5QBNVRR",
+    "title": "AUTO-VOX Solar Wireless Backup Camera: 1-Minute No-Drill Installation | Stable Dual Antenna Signal, 6&quot; 1080P Display with Col",
+    "type": "winner",
+    "score": 88.8,
+    "price": 149.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711LpS7xzVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5QBNVRR",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GWQ8BS75",
     "title": "AUTO-VOX 2 Solar Wireless Backup Camera: Dual Antenna for Stable Live View | 1Min Quick Install, 6&quot; Dual-Split Screen with 10",
     "type": "winner",
@@ -613,6 +613,17 @@
     "bsr": 11317,
     "image_url": "https://m.media-amazon.com/images/I/71FQfqPCsbL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H38KLG52",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGGD3HX5",
+    "title": "AUTO-VOX 7.2-Inch Solar Wireless Backup Camera, 1-Min Magnetic Mount | 1080P HD IR Night Vision, Dual-Antenna Signal, 2 Split",
+    "type": "winner",
+    "score": 88.6,
+    "price": 149.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81vJ2eTUZ6L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGGD3HX5",
     "walmart_url": null
   },
   {
@@ -751,7 +762,7 @@
     "asin": "B0HCTV77KN",
     "title": "HEECOOMI 2 Magnetic Solar Wireless Backup Camera System, 7&quot; IPS Touchscreen with DVR, Dual Rechargeable IR Night Vision Rear",
     "type": "winner",
-    "score": 86.5,
+    "score": 86.35,
     "price": 259.99,
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71g2MhnC60L._AC_UL300_SR300,200_.jpg",
@@ -1518,6 +1529,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HG9T5RKN",
+    "title": "Wireless Backup Camera, 7-Inch 2-Channel Split Screen 720P Monitor",
+    "type": "winner",
+    "score": 82.25,
+    "price": 49.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71eC7f7XGnL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG9T5RKN",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZLLJ9PF",
     "title": "RV Shower Head with Hose, High Pressure Handheld RV Shower Head Replacement with On Off Switch,5 Modes,Power Jet, Camper Shower Head for RV,Travel Trailer,Motorhome,Boat RV Essentials,Gray",
     "type": "winner",
@@ -1782,17 +1804,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HH8G5N4Q",
-    "title": "AUTO-VOX Wireless RV Backup Camera System,Dual Lens Rear and Side Coverage",
-    "type": "winner",
-    "score": 80.75,
-    "price": 399.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71t-DUyO6cL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH8G5N4Q",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBVT555Y",
     "title": "Lymezato RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in | Powder-Coated Iron Helps Resist Rust and Dog Scrat",
     "type": "winner",
@@ -2002,17 +2013,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HG9T5RKN",
-    "title": "Wireless Backup Camera, 7-Inch 2-Channel Split Screen 720P Monitor",
-    "type": "winner",
-    "score": 80.25,
-    "price": 49.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71eC7f7XGnL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG9T5RKN",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HC6P54VR",
     "title": "CTOLITY AP1000 1800W Portable Power Station with 100W Solar Panel | 1024Wh LiFePO4 Battery, Peak 3600W,1 Hr Fast Charge, &lt;20m",
     "type": "winner",
@@ -2076,6 +2076,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61jvhwDfMyL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ4F7PLJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HH8G5N4Q",
+    "title": "AUTO-VOX Wireless RV Backup Camera System,Dual Lens Rear and Side Coverage | 7.2&quot; HD Monitor, Triple Split View, IR Night Vis",
+    "type": "winner",
+    "score": 80.0,
+    "price": 399.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71t-DUyO6cL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH8G5N4Q",
     "walmart_url": null
   },
   {
@@ -5181,17 +5192,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8YJBFTT",
-    "title": "Venluna Dual RV Backup Camera System for Truck, 7&quot; Split Screen DVR Monitor | Wired 1080P HD IR Night Vision, IP69 Waterproof",
-    "type": "should_test",
-    "score": 69.5,
-    "price": 89.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81utrVy7v7L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8YJBFTT",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HNSQWQT2",
     "title": "FabStyl Magnetic Solar Lights Outdoor 2 Pack, 700LM Motion Sensor RV Lights, 3 Modes Dusk-to-Dawn, IP65 Waterproof, Strong Ma",
     "type": "should_test",
@@ -5420,6 +5420,17 @@
     "bsr": 21090,
     "image_url": "https://m.media-amazon.com/images/I/71PQkBBWifL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2XN9729",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8YJBFTT",
+    "title": "Dual RV Backup Camera System for Truck, 7&quot; Split Screen DVR Monitor",
+    "type": "should_test",
+    "score": 68.75,
+    "price": 89.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/81utrVy7v7L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8YJBFTT",
     "walmart_url": null
   },
   {
@@ -6545,6 +6556,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5W87QDM",
+    "title": "WSDCAM Two-Way Bike Alarm 120dB, USB-C Rechargeable With Remote",
+    "type": "should_test",
+    "score": 65.65,
+    "price": 31.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71QQPfqMODL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5W87QDM",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZNRBQ4L",
     "title": "VEVOR RV Water Filter System, 5-Micron 3 Stage Premium RV Water Filtration System with Three Cartridges and 3/4&quot; Fitting for",
     "type": "should_test",
@@ -6564,17 +6586,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71e5eUyxf0L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8BP69DF",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H5W87QDM",
-    "title": "WSDCAM Two-Way Bike Alarm 120dB, USB-C Rechargeable With Remote",
-    "type": "should_test",
-    "score": 65.4,
-    "price": 31.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71QQPfqMODL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5W87QDM",
     "walmart_url": null
   },
   {
@@ -6663,17 +6674,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FAPsCFJvL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5CFJ4M4",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJZ76C6D",
-    "title": "Waterproof Car Rearview Camera Rain Guard Backup Hood Cover | Backup Camera Rain Hood Cover with Curved, Black PVC Canopy Uni",
-    "type": "should_test",
-    "score": 65.25,
-    "price": 14.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Kc1ebcFUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJZ76C6D",
     "walmart_url": null
   },
   {
@@ -7381,17 +7381,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HHDW7FVH",
-    "title": "HHXXTTXS RV Door Lock Keyless Entry for Camper, Travel Trailer &amp; 5th Wheel | Anti-Prying Full-Metal RV Lock, Camper/5th Wheel",
-    "type": "should_test",
-    "score": 63.55,
-    "price": 88.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61MRomsF76L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHDW7FVH",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H8N5LH93",
     "title": "CAMPLUX 6 Gallon RV Water Heater, Propane &amp; Electric Hybrid, White | 12000 BTU &amp; 1440W Fast Recovery, Porcelain-Lined Steel T",
     "type": "should_test",
@@ -7634,6 +7623,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHDW7FVH",
+    "title": "HHXXTTXS RV Door Lock Keyless Entry for Camper, Travel Trailer &amp; 5th Wheel | Anti-Prying Full-Metal RV Lock, Camper/5th Wheel",
+    "type": "should_test",
+    "score": 63.15,
+    "price": 88.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61MRomsF76L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHDW7FVH",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H3Q3W3NN",
     "title": "Accumulator Expansion Tank – Reduces Pump Cycling, Smooth Water Flow, Max 150 PSI, 1/2&quot; MNPT, Compact Design for RV, Marine, Boat &amp; Off-Grid Systems (1.0L (33.8 OZ))",
     "type": "should_test",
@@ -7774,6 +7774,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/716Piav52rL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF77YJGJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHCN6HMY",
+    "title": "1080P Heated Backup Camera, Anti-Fog &amp; Anti-Frost, 170° Wide Angle, IP69 Streamlined Waterproof Design, 1/3 Sensor, 6-Glass Lens &amp; Professional Lens Coating, 2 Power Options",
+    "type": "should_test",
+    "score": 63.0,
+    "price": 29.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71oGfVUV9cL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHCN6HMY",
     "walmart_url": null
   },
   {
@@ -9677,6 +9688,17 @@
     "bsr": 21298,
     "image_url": "https://m.media-amazon.com/images/I/71atDq1aJlL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1BVR4FG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFJHBWX9",
+    "title": "Kairiyard RV Trailer Camper Backup Camera, 4 Pin Connector AHD 1080P | 150° View Angle Night Vision Waterproof Reverse Rear V",
+    "type": "should_test",
+    "score": 59.0,
+    "price": 25.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71UrcTxxi4L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFJHBWX9",
     "walmart_url": null
   },
   {
@@ -12419,6 +12441,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHHV2RXX",
+    "title": "2pcs Waterproof Rear View Camera Rain Shield Cover | Backup Camera Rain Hood Cover with Curved, Black PVC Canopy Universal Ca",
+    "type": "candidate",
+    "score": 65.9,
+    "price": 6.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CfypcLiNL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJ1ZZWPF",
     "title": "Backup Camera Rain Shield, 4-Pack Rear View Camera Rain Guard, Black | Adhesive-backed curved PVC hoods, tool-free installati",
     "type": "candidate",
@@ -12449,17 +12482,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71XRNthoaaL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H41M799K",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJW4L1N1",
-    "title": "8Pcs Waterproof Rear View Camera Rain Shield Cover",
-    "type": "candidate",
-    "score": 64.45,
-    "price": 9.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71YFOB-urkL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJW4L1N1",
     "walmart_url": null
   },
   {
@@ -12496,17 +12518,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HHHV2RXX",
-    "title": "2pcs Waterproof Rear View Camera Rain Shield Cover | Backup Camera Rain Hood Cover with Curved, Black PVC Canopy Universal Ca",
-    "type": "candidate",
-    "score": 64.1,
-    "price": 6.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CfypcLiNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H83XF9GN",
     "title": "Car Camera Lens Protector - 360° All-Round Protection, Anti-Scratch &amp; Waterproof, Sleek Original Design, No Drill Easy Install,Compatible with Most Vehicle Cameras (4PCS)",
     "type": "candidate",
@@ -12540,6 +12551,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJZ76C6D",
+    "title": "Waterproof Car Rearview Camera Rain Guard Backup Hood Cover | Backup Camera Rain Hood Cover with Curved, Black PVC Canopy Uni",
+    "type": "candidate",
+    "score": 63.5,
+    "price": 14.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Kc1ebcFUL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJZ76C6D",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H55JLS26",
     "title": "Solar Powered Car Ventilation Fan, Dual Fan Auto Window Exhaust Cooler Fans",
     "type": "candidate",
@@ -12570,6 +12592,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71I6ENYre8L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2DQK633",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJW4L1N1",
+    "title": "8Pcs Waterproof Rear View Camera Rain Shield Cover | Backup Camera Rain Hood Cover with Curved, Black PVC Canopy Universal Ca",
+    "type": "candidate",
+    "score": 63.2,
+    "price": 9.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71YFOB-urkL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJW4L1N1",
     "walmart_url": null
   },
   {
@@ -12947,17 +12980,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ517PMY",
-    "title": "4pcs Backup Camera Rain Hood Cover with Curved Black PVC Canopy, Adhesive-Backed Rear Guard for Outdoor Parking Rear View Lens Hood Car Reversing Cover Black PVC Adhesive Weather Guard Rain",
-    "type": "candidate",
-    "score": 60.95,
-    "price": 6.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71EBS3z3NWL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ517PMY",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGX57XCX",
     "title": "110V Hand Crank Generator, Outdoor Smartphone Laptops Charger, Emergency Manual Dynamo Generator w/Grippy Feet &amp; Easy-hold Grip for Survival Training &amp; Emergency Communication",
     "type": "candidate",
@@ -13208,6 +13230,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/611ov5v1V1L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H49K3SX9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ517PMY",
+    "title": "4pcs Backup Camera Rain Hood Cover with Curved Black PVC Canopy, Adhesive-Backed Rear Guard for Outdoor Parking Rear View Len",
+    "type": "candidate",
+    "score": 59.2,
+    "price": 6.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EBS3z3NWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ517PMY",
     "walmart_url": null
   },
   {
@@ -21505,6 +21538,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HMVMNCFV",
+    "title": "4 Pcs Backup Camera Rain Hood Cover with Curved Black PVC Canopy, Adhesive-Backed Rear Guard for Outdoor Parking Rear View Le",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 8.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71So726tFrL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMVMNCFV",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H9XSR655",
     "title": "Neptuiby Car Window Fan Solar Powered Car Vent Fan Dual-mode Blow/suction Ventilator Solar Fans for Vehicles Truck RV Backsea",
     "type": "candidate",
@@ -23353,6 +23397,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHFFDX7S",
+    "title": "Waterproof Car Rearview Camera Rain Guard Backup Hood Cover Adhesive Backed | PVC Lens Shield Curved Black Protector for Rain",
+    "type": "candidate",
+    "score": 44.5,
+    "price": 5.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81E+vtYrb8L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHFFDX7S",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H4QSJYL9",
     "title": "Geelin 20lb Propane Tank Winter Cover Thickened Built-in Anti-Freezing Felt Openable Top Waterproof Dustproof UV Resistant Frost Resistant Propane Gas Can Protection Cover for Tank Protection(Black)",
     "type": "candidate",
@@ -23845,17 +23900,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/616hveAS3ZL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4QPHMYR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HHFFDX7S",
-    "title": "Waterproof Car Rearview Camera Rain Guard Backup Hood Cover Adhesive Backed | PVC Lens Shield Curved Black Protector for Rain",
-    "type": "candidate",
-    "score": 43.85,
-    "price": 5.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81E+vtYrb8L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHFFDX7S",
     "walmart_url": null
   },
   {
@@ -25542,17 +25586,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HMVMNCFV",
-    "title": "4 Pcs Backup Camera Rain Hood Cover with Curved Black PVC Canopy, Adhesive-Backed Rear Guard for Outdoor Parking Rear View Le",
-    "type": "candidate",
-    "score": 41.25,
-    "price": 8.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71So726tFrL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HMVMNCFV",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GTPSM8CG",
     "title": "Rvhouse 12V RV Exterior Porch Light, 500LM Dual Lens, White | Built-in switch, removable clear and amber lenses, IP65 sealed",
     "type": "candidate",
@@ -26012,17 +26045,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61sAFkZOMqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8BNTV9R",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H713BTZD",
-    "title": "Locking Camper Door Latch with Keys, Fits RVs &amp; Trailers, White",
-    "type": "candidate",
-    "score": 40.4,
-    "price": 25.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71YJML8QwYL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H713BTZD",
     "walmart_url": null
   },
   {
@@ -27302,6 +27324,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H713BTZD",
+    "title": "Avenuebool Locking Camper Door Latch with Keys, Fits RVs &amp; Trailers, White | Pop-Up Camper Door Lock for Entry &amp; Screen Door,",
+    "type": "candidate",
+    "score": 37.75,
+    "price": 25.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71YJML8QwYL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H713BTZD",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGB13GKW",
     "title": "Vibit 10 Pcs Trailer Hitch Pin with Square Wire Retainer, 1/4&quot; × 2-3/4&quot; | Trailer pins, heavy duty coupler pin, high-strength",
     "type": "candidate",
@@ -27629,6 +27662,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61s5aE47WcL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCJMLH2C",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCJHZBKD",
+    "title": "G318 Universal RV Replacement Key Set Compatible with Global Link Trailer Camper Locks, Include G301-G390 Series G391 CH751 R001 Pre Cut Keys",
+    "type": "candidate",
+    "score": 37.25,
+    "price": 12.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61s5aE47WcL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCJHZBKD",
     "walmart_url": null
   },
   {
@@ -31317,17 +31361,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCJHZBKD",
-    "title": "G318 Universal RV Replacement Key Set Compatible with Global Link Trailer Camper Locks, Include G301-G390 Series G391 CH751 R",
-    "type": "candidate",
-    "score": 26.5,
-    "price": 12.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61s5aE47WcL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCJHZBKD",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBBFPXWV",
     "title": "Utility Trailer Cover for Load Trail DS4808 4&#x27;×8&#x27; | Utility Trailer Cover Waterproof Windproof Heavy Duty Dump Trailer Cover,",
     "type": "candidate",
@@ -31515,17 +31548,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6HS5L1P",
-    "title": "J327 Truck Cap Key Replacement for are Leer Truck Cap with Bauer J327 Lock",
-    "type": "candidate",
-    "score": 25.7,
-    "price": 8.55,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61Xc-MHO7TL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6HS5L1P",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HDTC8W11",
     "title": "1.25&#x27;&#x27; Water Tank Fill Hose for RV Concession Fresh Water Tank, 5 FT | Water Fill Hose for RV, Marine, Boat, Camper, Trailer,",
     "type": "candidate",
@@ -31589,6 +31611,17 @@
     "bsr": 51580,
     "image_url": "https://m.media-amazon.com/images/I/71S0JEC5lxL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4LSD9FH",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6HS5L1P",
+    "title": "J327 Truck Cap Key Replacement for are Leer Truck Cap with Bauer J327 Lock",
+    "type": "candidate",
+    "score": 25.45,
+    "price": 8.55,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61Xc-MHO7TL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6HS5L1P",
     "walmart_url": null
   },
   {
