@@ -181,7 +181,7 @@
     "type": "winner",
     "score": 89.85,
     "price": 109.98,
-    "bsr": 9935,
+    "bsr": 11126,
     "image_url": "https://m.media-amazon.com/images/I/81T7qlyeXoL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF7XD1XC",
     "walmart_url": null
@@ -3883,17 +3883,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HC6RZBXL",
-    "title": "AP1000 1800W Portable Power Station with 200W Solar Panel",
-    "type": "should_test",
-    "score": 74.75,
-    "price": 659.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/81E+vmbIRJL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6RZBXL",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H1HHNLNB",
     "title": "420D Oxford Rear Door Shower Curtain for RV Trunk Camper Vans, 90.5&quot;x70.8&quot; Double Layer Changing Curtain with Magnetic Hooks",
     "type": "should_test",
@@ -3990,6 +3979,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81lhlK9dlLL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDCZHCMR",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H878NF4W",
+    "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank",
+    "type": "should_test",
+    "score": 74.25,
+    "price": 199.99,
+    "bsr": 21296,
+    "image_url": "https://m.media-amazon.com/images/I/71K7jU1mFIL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H878NF4W",
     "walmart_url": null
   },
   {
@@ -4158,17 +4158,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H878NF4W",
-    "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank",
-    "type": "should_test",
-    "score": 73.7,
-    "price": 199.99,
-    "bsr": 17171,
-    "image_url": "https://m.media-amazon.com/images/I/71K7jU1mFIL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H878NF4W",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HD7HHFZ9",
     "title": "66.33&#x27;&#x27; Sleeper Sofa Bed Full Size, Convertible Couch for RVs, Gray",
     "type": "should_test",
@@ -4177,6 +4166,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81EBkIF3k4L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD7HHFZ9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC6RZBXL",
+    "title": "AP1000 1800W Portable Power Station with 200W Solar Panel",
+    "type": "should_test",
+    "score": 73.5,
+    "price": 619.99,
+    "bsr": 21466,
+    "image_url": "https://m.media-amazon.com/images/I/81E+vmbIRJL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6RZBXL",
     "walmart_url": null
   },
   {
@@ -12617,6 +12617,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJLXKRBT",
+    "title": "8Pcs Car Camera Cover, Backup Camera Rain Shield, Rear View Lens Protector",
+    "type": "candidate",
+    "score": 63.75,
+    "price": 8.59,
+    "bsr": 10515,
+    "image_url": "https://m.media-amazon.com/images/I/7148yYD2lmL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJLXKRBT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJM22LT2",
     "title": "4 PCS Backup Camera Rain Hood Cover for Outdoor Parking (Black)",
     "type": "candidate",
@@ -14473,17 +14484,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71pNWq14GvL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFMG7N1N",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJLXKRBT",
-    "title": "8Pcs Car Camera Cover, Backup Camera Rain Shield, Rear View Lens Protector",
-    "type": "candidate",
-    "score": 55.25,
-    "price": 8.59,
-    "bsr": 9663,
-    "image_url": "https://m.media-amazon.com/images/I/7148yYD2lmL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJLXKRBT",
     "walmart_url": null
   },
   {
@@ -16992,6 +16992,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ioBMbKCXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HLGBZ5CV",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6ZRC9MR",
+    "title": "Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black)",
+    "type": "candidate",
+    "score": 51.25,
+    "price": 26.99,
+    "bsr": 20037,
+    "image_url": "https://m.media-amazon.com/images/I/71BZEMfAKUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
     "walmart_url": null
   },
   {
@@ -21681,17 +21692,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8SJMNVP",
-    "title": "RV Tension Rods, Adjustable Cabinet Rods 12-19.5 in, 6 Pack",
-    "type": "candidate",
-    "score": 46.5,
-    "price": 13.59,
-    "bsr": 23270,
-    "image_url": "https://m.media-amazon.com/images/I/51EGsdJnTDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8SJMNVP",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H8SJST99",
     "title": "RV Slide Out Seal Kit 018-316 EK Seal Base with 2-7/8&quot; Wiper &amp; 018-312-EKD | 1&quot; x 15/16&quot; x 35&#x27; D-Seal Wiper &amp; 0.5&quot; X 3.66&quot; X",
     "type": "candidate",
@@ -22415,6 +22415,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51bRYSO9YXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJCG2Q7Q",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8SJMNVP",
+    "title": "RV Tension Rods, Adjustable Cabinet Rods 12-19.5 in, 6 Pack",
+    "type": "candidate",
+    "score": 45.75,
+    "price": 13.59,
+    "bsr": 21151,
+    "image_url": "https://m.media-amazon.com/images/I/51EGsdJnTDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8SJMNVP",
     "walmart_url": null
   },
   {
@@ -27409,17 +27420,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61U0mgsk6oL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDSKS45G",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6ZRC9MR",
-    "title": "WanDwel Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black) | Fit 30A/50A Electrical Plug (Non-Handle) Dual Lockin",
-    "type": "candidate",
-    "score": 38.0,
-    "price": 26.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BZEMfAKUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
     "walmart_url": null
   },
   {
