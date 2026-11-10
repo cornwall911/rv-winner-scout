@@ -1793,28 +1793,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBVT555Y",
-    "title": "Lymezato RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in | Powder-Coated Iron Helps Resist Rust and Dog Scrat",
-    "type": "winner",
-    "score": 80.75,
-    "price": 36.9,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81P0gDn+eQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBVDYXZT",
-    "title": "RV Screen Door Protector Adjustable 16.5–31.1 Inch Camper Screen Guard, 2-Panel Steel Mesh Prevents Dogs Pets Scratch Defender for Travel Trailer, Fifth Wheel, Motorhome Entry Doors",
-    "type": "winner",
-    "score": 80.75,
-    "price": 33.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/81pXkPfqjkL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVDYXZT",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HK7NMPWQ",
     "title": "3600W Portable Power Station PowerMax 3600PE with 400W Solar Panel | 2016Wh LiFePO4 Battery, 1 Hr Fast Charge, 4 AC Outlets &amp;",
     "type": "winner",
@@ -1856,6 +1834,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81MHOn8t6eL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H36XG378",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBVDYXZT",
+    "title": "RV Screen Door Protector Adjustable 16.5–31.1 Inch Camper Screen Guard, 2-Panel Steel Mesh Prevents Dogs Pets Scratch Defender for Travel Trailer, Fifth Wheel, Motorhome Entry Doors",
+    "type": "winner",
+    "score": 80.5,
+    "price": 33.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/81pXkPfqjkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVDYXZT",
     "walmart_url": null
   },
   {
@@ -2868,6 +2857,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61lgGxg41VL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8SMM39F",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBVT555Y",
+    "title": "Lymezato RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in | Powder-Coated Iron Helps Resist Rust and Dog Scrat",
+    "type": "should_test",
+    "score": 77.75,
+    "price": 36.9,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81P0gDn+eQL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
     "walmart_url": null
   },
   {
@@ -4059,17 +4059,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBQ3KKKS",
-    "title": "NNG 33 x 80 Inch Magnetic RV Insulated Door Cover for Winter",
-    "type": "should_test",
-    "score": 74.05,
-    "price": 29.99,
-    "bsr": 23773,
-    "image_url": "https://m.media-amazon.com/images/I/61+d7C4fWRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQ3KKKS",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H9RWG765",
     "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
     "type": "should_test",
@@ -4177,6 +4166,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81EBkIF3k4L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD7HHFZ9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBQ3KKKS",
+    "title": "NNG 33 x 80 Inch Magnetic RV Insulated Door Cover for Winter | 3-Layer Thermal RV Door Curtain for Inside Camper &amp; Travel Tra",
+    "type": "should_test",
+    "score": 73.5,
+    "price": 29.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+d7C4fWRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQ3KKKS",
     "walmart_url": null
   },
   {
