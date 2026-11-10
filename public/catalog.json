@@ -1452,17 +1452,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9CN5CFJ",
-    "title": "Banrterd 65,000 BTU RV Tankless Water Heater, 12V DC, 18x15 inches White | with Dual Water Outlet, On Demand Instant Hot Wate",
-    "type": "winner",
-    "score": 82.25,
-    "price": 349.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WhMobM0eL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9CN5CFJ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GLPKFJHX",
     "title": "Silvbott 65000BTU RV Tankless Water Heater, Propane, 12V DC With Black Door | Dual Outlet, 15&quot; x 15&quot; Door, Shower Set, Wired",
     "type": "winner",
@@ -1526,6 +1515,17 @@
     "bsr": 2555,
     "image_url": "https://m.media-amazon.com/images/I/71padaLrgjL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZLLJ9PF",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H9CN5CFJ",
+    "title": "Banrterd 65,000 BTU RV Tankless Water Heater, 12V DC, 18x15 inches White | with Dual Water Outlet, On Demand Instant Hot Wate",
+    "type": "winner",
+    "score": 82.0,
+    "price": 349.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WhMobM0eL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9CN5CFJ",
     "walmart_url": null
   },
   {
@@ -5203,6 +5203,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5HX1G6Y",
+    "title": "30FT Heated Water Hose for RV, -50°F Anti-Freeze RV Drinking Heated Hose | 66.7% Energy Savings Smart Temperature Control, 7-",
+    "type": "should_test",
+    "score": 69.5,
+    "price": 79.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81kaafhTF8L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5HX1G6Y",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HNSQWQT2",
     "title": "FabStyl Magnetic Solar Lights Outdoor 2 Pack, 700LM Motion Sensor RV Lights, 3 Modes Dusk-to-Dawn, IP65 Waterproof, Strong Ma",
     "type": "should_test",
@@ -8228,17 +8239,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6VWS6TQ",
-    "title": "Adjustable Water Pressure Regulator for RV Camper with Gauge,2027 Update | Water Pressure Reducer,RV Accessories,Durable Mate",
-    "type": "should_test",
-    "score": 62.25,
-    "price": 20.98,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AOZdCGYbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6VWS6TQ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHN36HFB",
     "title": "2-in-1\nRV\nUniversal\nDetector | 2-in-1 Detector, LED Indicator Light, 100dB Loud Alarm, Plastic Material, 12 VDC",
     "type": "should_test",
@@ -8269,6 +8269,28 @@
     "bsr": 22598,
     "image_url": "https://m.media-amazon.com/images/I/71i9Q5EMJbL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHK3YL98",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H1RBWFTK",
+    "title": "YYLXTEX 105 Gallon/400L Water Bladder Tank - Portable Collapsible Water Storage Bag with Heavy-Duty PVC Material for Camping,",
+    "type": "should_test",
+    "score": 62.25,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71A9vPQ3NsL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1RBWFTK",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6VWS6TQ",
+    "title": "Adjustable Water Pressure Regulator for RV Camper with Gauge,2027 Update | Water Pressure Reducer,RV Accessories,Durable Mate",
+    "type": "should_test",
+    "score": 62.15,
+    "price": 20.98,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AOZdCGYbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6VWS6TQ",
     "walmart_url": null
   },
   {
@@ -9688,17 +9710,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AB0q-J0gL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1RJJPMP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H1RBWFTK",
-    "title": "YYLXTEX 105 Gallon/400L Water Bladder Tank - Portable Collapsible Water Storage Bag with Heavy-Duty PVC Material for Camping,",
-    "type": "should_test",
-    "score": 59.0,
-    "price": null,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71A9vPQ3NsL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1RBWFTK",
     "walmart_url": null
   },
   {
@@ -31991,7 +32002,7 @@
     "asin": "B0H69D6WM1",
     "title": "1.25&quot; Fresh Water Fill Hose 5FT, RV Concession Tank Hose for Marine/Camper | Transports Fresh Water; Fits RV, Boats, Campers,",
     "type": "candidate",
-    "score": 25.75,
+    "score": 25.65,
     "price": 20.99,
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ehu58ErKL._AC_UL300_SR300,200_.jpg",
