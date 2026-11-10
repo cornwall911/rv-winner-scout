@@ -1727,6 +1727,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBB6CKNY",
+    "title": "INVOTEK 80 x 33&quot; RV Door Cover, Magnetic RV Door Insulated Cover for Winter | Side Opening, Magnetic RV Thermal Insulated Doo",
+    "type": "winner",
+    "score": 81.25,
+    "price": 32.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ctQfvQ8CL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBB6CKNY",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC3J97LL",
     "title": "AUTOXBERT Solar RV Vent Fan - White | No-Wire Solar Powered Roof Vent for Camper, Quiet Odor Moisture Removal, 7&quot; Heavy-Duty Low-Profile Design",
     "type": "winner",
@@ -6575,17 +6586,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81z0YYdXnOL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBXHCJW6",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBB6CKNY",
-    "title": "INVOTEK 80 x 33&quot; RV Door Cover, Magnetic RV Door Insulated Cover for Winter | Side Opening, Magnetic RV Thermal Insulated Doo",
-    "type": "should_test",
-    "score": 65.7,
-    "price": 30.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ctQfvQ8CL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBB6CKNY",
     "walmart_url": null
   },
   {
