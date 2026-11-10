@@ -539,6 +539,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC5VTXFB",
+    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
+    "type": "winner",
+    "score": 88.9,
+    "price": 129.99,
+    "bsr": 2787,
+    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H73N41ZG",
     "title": "TP B3 8KW Diesel Heater Camouflage All-in-One with Bluetooth &amp; 3-in-1 Smart Remote (CO Monitor), 12V/24V &amp; 110-240V, 5L Tank, Silent Oil Pump, 18045ft Adaptive Altitude for RV Truck Camping",
     "type": "winner",
@@ -635,17 +646,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71RCj5626sL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFMSXN93",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC5VTXFB",
-    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
-    "type": "winner",
-    "score": 88.45,
-    "price": 129.99,
-    "bsr": 2485,
-    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
     "walmart_url": null
   },
   {
@@ -2761,17 +2761,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "should_test",
-    "score": 78.1,
-    "price": 949.0,
-    "bsr": 1565,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H94JBM34",
     "title": "NLQR RV Vent Insulator 14&quot;x14&quot;x3&quot;, 2 Pack — High-Density Memory Foam Skylight Cover with Reflective Surface &amp; Washable Zipper Cover | Blackout, Noise Reduction, Energy Saving | Fits Standard RV/Camper",
     "type": "should_test",
@@ -3374,6 +3363,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yQWgUvLEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZPL47RD",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "should_test",
+    "score": 76.25,
+    "price": 949.0,
+    "bsr": 2063,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -5472,7 +5472,7 @@
     "type": "should_test",
     "score": 68.75,
     "price": 399.99,
-    "bsr": 2721,
+    "bsr": 3178,
     "image_url": "https://m.media-amazon.com/images/I/61WdUZq1WgL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
     "walmart_url": null
@@ -6710,6 +6710,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HH9BYJBB",
+    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
+    "type": "should_test",
+    "score": 65.25,
+    "price": 64.99,
+    "bsr": 2848,
+    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6KWSBTT",
     "title": "Waterproof RV Couch Covers for Sofa Bed - 2-Piece Stretchable Jackknife Sleeper Sofa Cover, RV Furniture Slipcover, Dark Gray",
     "type": "should_test",
@@ -7213,17 +7224,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51a-I1wR3jL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ1SR8XJ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HH9BYJBB",
-    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
-    "type": "should_test",
-    "score": 64.0,
-    "price": 64.99,
-    "bsr": 3588,
-    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
