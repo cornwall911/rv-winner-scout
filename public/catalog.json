@@ -1,16 +1,5 @@
 [
   {
-    "asin": "B0HNK7M4WR",
-    "title": "2027 New Wall Ac Unit, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating, Wall Mount Air Conditioner with Remote, Quiet Op",
-    "type": "winner",
-    "score": 90.45,
-    "price": null,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I4tSGuzDL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HNK7M4WR",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H45PFQGV",
     "title": "Solar Magnetic Backup Camera 7&quot; 1080P for RV Trailer Truck",
     "type": "winner",
@@ -206,6 +195,17 @@
     "bsr": 98124,
     "image_url": "https://m.media-amazon.com/images/I/71P83l6R06L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKRYZSY4",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HNK7M4WR",
+    "title": "2027 New Wall Ac Unit, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating, Wall Mount Air Conditioner with Remote, Quiet Op",
+    "type": "winner",
+    "score": 89.8,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I4tSGuzDL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HNK7M4WR",
     "walmart_url": null
   },
   {
@@ -8580,6 +8580,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCLJ86GT",
+    "title": "12V RV Side Vent Fan,Dual Motor Quiet Exhaust (White)",
+    "type": "should_test",
+    "score": 61.75,
+    "price": 21.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/51Syg3gLEoL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCLJ86GT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCNJ9SP8",
     "title": "RV Frame Stabilizer with Replaceable Support Heads, Heavy Duty Anti-Wobble Trailer Stabilizer for I-Beam &amp; Box Frame Chassis,",
     "type": "should_test",
@@ -13076,17 +13087,6 @@
     "bsr": 24095,
     "image_url": "https://m.media-amazon.com/images/I/612uQ+CNKrL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9WQGV28",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCLJ86GT",
-    "title": "Yojinovas 12V RV Side Vent Fan,Dual Motor Quiet Exhaust (Black) | ABS Plastic, Cutout 4.8x2.4 Inches, White, Dual Motor Quiet",
-    "type": "candidate",
-    "score": 61.1,
-    "price": 21.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61LMFau0I+L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCLJ86GT",
     "walmart_url": null
   },
   {
@@ -21483,6 +21483,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6RZ7BXJ",
+    "title": "YQSIYU 3-Pack 6.5&quot; RV Ceiling Vent Covers, Fits 4-5/8&quot; Ducts, White | Durable vent covers for RV air conditioning. Fit 4-5/8&quot;",
+    "type": "candidate",
+    "score": 47.0,
+    "price": 14.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/510hwiYun1L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6RZ7BXJ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHV2ZJRM",
     "title": "RV Floor Vent Cover, 2&quot;x10&quot;, Magnetic Removable Cover, RV Accessories | Pet hair protection | Rust-resistant durability | Eas",
     "type": "candidate",
@@ -23482,17 +23493,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61JDlDuoyLL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDGNK98Q",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGKWJGD3",
-    "title": "HUAREW RV Roof Vent Operator Assembly with Knob and Screw, Gray | Compatible with V2119, V2092 and V2128, For 14&quot; x 14&quot; Stand",
-    "type": "candidate",
-    "score": 44.5,
-    "price": 17.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ChbqpBc+L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGKWJGD3",
     "walmart_url": null
   },
   {
@@ -28677,6 +28677,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGKWJGD3",
+    "title": "RV Roof Vent Operator Assembly with Knob and Screw, Gray",
+    "type": "candidate",
+    "score": 35.0,
+    "price": 17.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/51ChbqpBc+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGKWJGD3",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGLCFNMH",
     "title": "Wireless Magnetic Car Interior LED Lights, Warning Lights Remote Control | For Inside Car SUV Truck RV Night Decor, Secure Ho",
     "type": "candidate",
@@ -29290,6 +29301,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XzhSiF3AL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFVH5KVZ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBWTTGBK",
+    "title": "White 5-1/2&quot; Round Air Register with Damper, Fits 4&quot; Duct, 2&quot; Side, RV Vent | Fits 4&quot; duct, 5-1/2&quot; face, 2&quot; collar; worm-driv",
+    "type": "candidate",
+    "score": 33.65,
+    "price": 11.69,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61j4+KYkkAL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBWTTGBK",
     "walmart_url": null
   },
   {
@@ -29909,17 +29931,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H1LHLG4F",
-    "title": "PIHIL 3313107.015 Rv Air Conditioner Fan Blade | Compatible with Dometic Brisk and Duo-Therm AC Series, Replaces 3313107.0150",
-    "type": "candidate",
-    "score": 32.5,
-    "price": 17.09,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/615TwmdQFwL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1LHLG4F",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HCSSYBHH",
     "title": "BTFO RV Trailer Power Tongue Jack Switch 87570 226023 | Heavy Duty Momentary Up/Down Leveling Switch, Trailer Electric Power",
     "type": "candidate",
@@ -29972,17 +29983,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Od3FMjhhL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9XJRXVY",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBWTTGBK",
-    "title": "White 5-1/2&quot; Round Air Register with Damper, Fits 4&quot; Duct, 2&quot; Side, RV Vent | Fits 4&quot; duct, 5-1/2&quot; face, 2&quot; collar; worm-driv",
-    "type": "candidate",
-    "score": 32.45,
-    "price": 11.69,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61j4+KYkkAL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBWTTGBK",
     "walmart_url": null
   },
   {
@@ -30203,17 +30203,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AL7MXNEIL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4KNDQDR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6RZ7BXJ",
-    "title": "YQSIYU 3-Pack 6.5&quot; RV Ceiling Vent Covers, Fits 4-5/8&quot; Ducts, White | Durable vent covers for RV air conditioning. Fit 4-5/8&quot;",
-    "type": "candidate",
-    "score": 32.0,
-    "price": 14.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/510hwiYun1L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6RZ7BXJ",
     "walmart_url": null
   },
   {
@@ -30544,6 +30533,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DjbL48YIL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3KJG1WF",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H1LHLG4F",
+    "title": "3313107.015 Rv Air Conditioner Fan Blade",
+    "type": "candidate",
+    "score": 31.2,
+    "price": 17.09,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/615TwmdQFwL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1LHLG4F",
     "walmart_url": null
   },
   {
