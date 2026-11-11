@@ -1292,7 +1292,7 @@
     "type": "winner",
     "score": 82.75,
     "price": 28.49,
-    "bsr": null,
+    "bsr": 48433,
     "image_url": "https://m.media-amazon.com/images/I/71OpvccDtBL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5VHNBQK",
     "walmart_url": null
@@ -2882,17 +2882,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBVT555Y",
-    "title": "Lymezato RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in | Powder-Coated Iron Helps Resist Rust and Dog Scrat",
-    "type": "should_test",
-    "score": 77.75,
-    "price": 36.9,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81P0gDn+eQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJWCZN58",
     "title": "Washing For Sink, Travel Washing Machine &amp; Sink Dishwasher (1PCS) | Portable Washing Machine Agitator For Hand Washing Clothe",
     "type": "should_test",
@@ -4133,6 +4122,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zCdFmFA5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1PLKC66",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBVT555Y",
+    "title": "RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in",
+    "type": "should_test",
+    "score": 73.75,
+    "price": 36.9,
+    "bsr": 46202,
+    "image_url": "https://m.media-amazon.com/images/I/81P0gDn+eQL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
     "walmart_url": null
   },
   {
@@ -13772,17 +13772,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCNMLDD9",
-    "title": "10x20 FT RV Outdoor Mat Reversible Blue-Gray RV Patio Rug",
-    "type": "candidate",
-    "score": 58.25,
-    "price": 99.99,
-    "bsr": 25942,
-    "image_url": "https://m.media-amazon.com/images/I/71MVBF+KHkL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCNMLDD9",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H4QKL2VH",
     "title": "RV Awning Tie Down Kit, Heavy Duty Camper Awning Anchors Accessories, RV Awning Anchor Kit for Outdoor Camping",
     "type": "candidate",
@@ -15906,6 +15895,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCNMLDD9",
+    "title": "10x20 FT RV Outdoor Mat, Lightweight Foldable Blue-Gray RV Patio Rug",
+    "type": "candidate",
+    "score": 53.25,
+    "price": 99.99,
+    "bsr": 45810,
+    "image_url": "https://m.media-amazon.com/images/I/71MVBF+KHkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCNMLDD9",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6JF9VBB",
     "title": "camperxlite 12V LED Puck Lights, RV Boat Recessed Ceiling Light 3” 3CCT 3000K/4000K/6000K 3W Full Aluminum for Caravan Interi",
     "type": "candidate",
@@ -16365,17 +16365,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61cs6FcMQbL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGQKJ2G1",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6DST4XB",
-    "title": "GRIZZEX Trailer Hitch Extender, 7 inch Hitch Extension Length | Fits 2 Inch Receiver, with 5/8&quot; Pin &amp; Clip, Rated for 5000 Lb",
-    "type": "candidate",
-    "score": 52.5,
-    "price": 20.9,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xQH1ZrOaL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6DST4XB",
     "walmart_url": null
   },
   {
@@ -17347,6 +17336,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9LVD7GC",
+    "title": "RV Tire Covers, Dual Axle Wheel Cover (2 Packs) Fits 27-30&quot; Diameter Tires",
+    "type": "candidate",
+    "score": 51.25,
+    "price": 25.99,
+    "bsr": 45931,
+    "image_url": "https://m.media-amazon.com/images/I/71eh5Y1OV-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9LVD7GC",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H9L1K3CP",
     "title": "RV Bathroom Faucet-Hot and Cold 2 Handle and Space-Saving 6” High-Arc Spout | Max Work Countertop Thickness 1.5&quot;, Black RV Ba",
     "type": "candidate",
@@ -17520,6 +17520,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eqFWzKQcL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H74ZCKJD",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6DST4XB",
+    "title": "Trailer Hitch Extender, 7 inch Hitch Extension Length",
+    "type": "candidate",
+    "score": 50.75,
+    "price": 20.9,
+    "bsr": 43409,
+    "image_url": "https://m.media-amazon.com/images/I/71xQH1ZrOaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6DST4XB",
     "walmart_url": null
   },
   {
@@ -19005,17 +19016,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71IX7LJyiIL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8MWD4CP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9LVD7GC",
-    "title": "RV Tire Covers, Dual Axle Wheel Cover (2 Packs) Fits 27-30&quot; Diameter Tires | 2 Pack",
-    "type": "candidate",
-    "score": 49.25,
-    "price": 25.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eh5Y1OV-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9LVD7GC",
     "walmart_url": null
   },
   {
@@ -26598,6 +26598,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H65BZK6R",
+    "title": "15 Ton Pintle Hitch, 2 Inch Receiver Military Grade Hook &amp; Lock pin",
+    "type": "candidate",
+    "score": 40.4,
+    "price": 69.99,
+    "bsr": 45613,
+    "image_url": "https://m.media-amazon.com/images/I/81ra6S8seML.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H65BZK6R",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCYFW7SQ",
     "title": "0.6&quot; 30FT RV Black Vinyl Insert Trim Molding Screw Cover",
     "type": "candidate",
@@ -27511,17 +27522,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H65BZK6R",
-    "title": "15 Ton Pintle Hitch, 2 Inch Receiver Military Grade Hook &amp; Lock pin",
-    "type": "candidate",
-    "score": 38.9,
-    "price": 69.99,
-    "bsr": 24130,
-    "image_url": "https://m.media-amazon.com/images/I/81ra6S8seML.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H65BZK6R",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H45T5BBJ",
     "title": "LandCamp ProCamp RV Waste Valve T-Handle | Cable-Actuated Grey Tank Pull | Cable-actuated replacement waste valve T-handle, g",
     "type": "candidate",
@@ -27951,14 +27951,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGB13GKW",
-    "title": "Vibit 10 Pcs Trailer Hitch Pin with Square Wire Retainer, 1/4&quot; × 2-3/4&quot; | Trailer pins, heavy duty coupler pin, high-strength",
+    "asin": "B0H9R5TRZ3",
+    "title": "Rubber Cover Compatible with B&amp;W Gooseneck Hitch Empty Turnoverball Socket",
     "type": "candidate",
-    "score": 37.75,
-    "price": 8.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71krpa00JhL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGB13GKW",
+    "score": 38.0,
+    "price": 14.99,
+    "bsr": 41794,
+    "image_url": "https://m.media-amazon.com/images/I/71rxjML5qDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9R5TRZ3",
     "walmart_url": null
   },
   {
@@ -29576,17 +29576,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41lrhQszILL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5D7G2K8",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9R5TRZ3",
-    "title": "Rubber Cover Compatible with B&amp;W Gooseneck Hitch Empty Turnoverball Socket",
-    "type": "candidate",
-    "score": 33.75,
-    "price": 14.99,
-    "bsr": 22854,
-    "image_url": "https://m.media-amazon.com/images/I/71rxjML5qDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9R5TRZ3",
     "walmart_url": null
   },
   {
@@ -31930,6 +31919,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71T8MAUzGwL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFVSSZGT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGB13GKW",
+    "title": "Vibit 10 Pcs Trailer Hitch Pin with Square Wire Retainer, 1/4&quot; × 2-3/4&quot;",
+    "type": "candidate",
+    "score": 27.45,
+    "price": 8.99,
+    "bsr": 43526,
+    "image_url": "https://m.media-amazon.com/images/I/71krpa00JhL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGB13GKW",
     "walmart_url": null
   },
   {
