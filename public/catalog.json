@@ -2095,7 +2095,7 @@
     "type": "winner",
     "score": 80.0,
     "price": 25.56,
-    "bsr": null,
+    "bsr": 20634,
     "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
     "walmart_url": null
@@ -3806,17 +3806,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBQ26RYC",
-    "title": "Portable Power Station 300W, 296Wh Battery Generator for Emergency Backup",
-    "type": "should_test",
-    "score": 75.15,
-    "price": 149.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71UP0idnBjL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQ26RYC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H948ZS12",
     "title": "RV Rooftop Airflow Vent Deflector Compatible with Coleman Mach AC",
     "type": "should_test",
@@ -3979,6 +3968,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Tyw60XZUL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ5ZWHXV",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBQ26RYC",
+    "title": "Portable Power Station 300W, 296Wh Battery Generator for Emergency Backup",
+    "type": "should_test",
+    "score": 74.25,
+    "price": 139.99,
+    "bsr": 18429,
+    "image_url": "https://m.media-amazon.com/images/I/71UP0idnBjL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQ26RYC",
     "walmart_url": null
   },
   {
@@ -4323,6 +4323,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCZZ39DX",
+    "title": "Anker SOLIX S5000 Portable Power Station, 5,024Wh, 4,500W Rated (120V/240V)",
+    "type": "should_test",
+    "score": 73.0,
+    "price": 2949.0,
+    "bsr": 7364,
+    "image_url": "https://m.media-amazon.com/images/I/71U3EEelixL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCZZ39DX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6HK6QQT",
     "title": "50 Amp RV Surge Protector with Circuit Analyzer: 20000J Surge Protection, Auto Power Disconnect, Real-Time Voltage Display &amp; Overheat Protection for RV Campers and Campgrounds",
     "type": "should_test",
@@ -4444,25 +4455,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCZZ39DX",
-    "title": "Anker SOLIX S5000 Portable Power Station, 5,024Wh, 4,500W Rated (120V/240V)",
+    "asin": "B0HGDYNBCB",
+    "title": "LUHLEE 218 LED Magnetic Solar Lights Outdoor, RV Solar Lights Motion Sensor",
     "type": "should_test",
-    "score": 72.65,
-    "price": 2949.0,
-    "bsr": 8302,
-    "image_url": "https://m.media-amazon.com/images/I/71U3EEelixL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCZZ39DX",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0GXXZT82D",
-    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
-    "type": "should_test",
-    "score": 72.55,
-    "price": 369.99,
-    "bsr": 7738,
-    "image_url": "https://m.media-amazon.com/images/I/71Mt5sMDnLL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
+    "score": 72.6,
+    "price": 29.99,
+    "bsr": 16809,
+    "image_url": "https://m.media-amazon.com/images/I/81eQs7P8UHL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGDYNBCB",
     "walmart_url": null
   },
   {
@@ -4738,6 +4738,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71N2wzdNAXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0F4K8FVD4",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0GXXZT82D",
+    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
+    "type": "should_test",
+    "score": 71.0,
+    "price": 279.29,
+    "bsr": 7014,
+    "image_url": "https://m.media-amazon.com/images/I/71Mt5sMDnLL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
     "walmart_url": null
   },
   {
@@ -7568,17 +7579,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGDYNBCB",
-    "title": "LUHLEE 218 LED Magnetic Solar Lights Outdoor, RV Solar Lights Motion Sensor",
-    "type": "should_test",
-    "score": 63.5,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/81eQs7P8UHL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGDYNBCB",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6J1N8MM",
     "title": "RV AC Unit 18000 BTU with Heat Pump,WiFi &amp;Remote Control",
     "type": "should_test",
@@ -9944,17 +9944,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HDHM6XDG",
-    "title": "TianPtion RV Winterizing Kit with 0-60psi Pressure Gauge &amp; Shut-Off Valve | 17 Inch RV Winterize Blowout Adapter-Garden Sprin",
-    "type": "should_test",
-    "score": 59.0,
-    "price": 24.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xMZH2s0qL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDHM6XDG",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GYSFP6BL",
     "title": "DYC RV 2-Stage Auto Changeover Propane Regulator with 12&quot; Pigtail Hoses, 250 PSI, 287,500 BTU, Bracket &amp; Cover for Travel Tra",
     "type": "should_test",
@@ -10604,6 +10593,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDHM6XDG",
+    "title": "RV Winterizing Kit with 0-60psi Pressure Gauge &amp; Shut-Off Valve",
+    "type": "should_test",
+    "score": 57.0,
+    "price": 24.99,
+    "bsr": 8109,
+    "image_url": "https://m.media-amazon.com/images/I/71xMZH2s0qL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDHM6XDG",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZNVXNM3",
     "title": "VEVOR RV Water Filter System, 0.5-Micron Premium RV Water Filtration System Replacement with Cartridge and Mounting Bracket f",
     "type": "should_test",
@@ -11011,6 +11011,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCVBW5M1",
+    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets for RVs,R502",
+    "type": "should_test",
+    "score": 56.5,
+    "price": 52.99,
+    "bsr": 4893,
+    "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCVBW5M1",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HMR97559",
     "title": "FOGATTI RV Furnace 20,000 BTU for Camper, Motorhome, RV Owners | High-Efficiency, 245CFM Powerful heat, Quiet Comfort for Col",
     "type": "should_test",
@@ -11184,6 +11195,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mt41EzMrL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDPP6N1R",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HNKC4KW8",
+    "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant Camper Top Cover for Travel Trailers, Class A/B/C Motorhomes, Pop-up &amp; Truck Campers, Roof-Only Protection, Fits 16-41ft RVs，Black：32.81 × 9.84 ft",
+    "type": "should_test",
+    "score": 56.25,
+    "price": 116.99,
+    "bsr": 5223,
+    "image_url": "https://m.media-amazon.com/images/I/8179oU6paUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HNKC4KW8",
     "walmart_url": null
   },
   {
@@ -12017,20 +12039,9 @@
     "type": "should_test",
     "score": 54.0,
     "price": 69.99,
-    "bsr": 5567,
+    "bsr": 5768,
     "image_url": "https://m.media-amazon.com/images/I/61++m0b1ViL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ1CH8Y8",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCVBW5M1",
-    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets for RVs,R502",
-    "type": "should_test",
-    "score": 54.0,
-    "price": 52.99,
-    "bsr": 4266,
-    "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCVBW5M1",
     "walmart_url": null
   },
   {
@@ -13464,17 +13475,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H5PS947G",
-    "title": "Propane Tank Gauge Level Indicator, for 5-40LB Propane Tank with QCC1/Type1",
-    "type": "candidate",
-    "score": 59.5,
-    "price": 28.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71aa9OITh5L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5PS947G",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H36VY1XY",
     "title": "4 Pack RV Fridge Bars, Adjustable Refrigerator Tension Rods for Camper RV | 12.44-22.63 Inch Extendable, 304 Stainless Steel,",
     "type": "candidate",
@@ -13582,6 +13582,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71RkCf3iKLL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H366VCZJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5PS947G",
+    "title": "Propane Tank Gauge Level Indicator, for 5-40LB Propane Tank with QCC1/Type1",
+    "type": "candidate",
+    "score": 59.0,
+    "price": 29.99,
+    "bsr": 18356,
+    "image_url": "https://m.media-amazon.com/images/I/71aa9OITh5L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5PS947G",
     "walmart_url": null
   },
   {
@@ -14498,6 +14509,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGKY6SXM",
+    "title": "Adjustable Trailer Hitch for 2&quot; Receiver, Heavy Duty 6&quot; Drop Tow Hitch",
+    "type": "candidate",
+    "score": 55.7,
+    "price": 129.99,
+    "bsr": 16522,
+    "image_url": "https://m.media-amazon.com/images/I/61AFT1Tsg7L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGKY6SXM",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GYD7ZFP5",
     "title": "Motorhome Shower Pipe 1.5M Anti Flexible Tubing Ergonomic Showerhead Multiple Sprayed Modes Bath Necessary ABS Shower Hose",
     "type": "candidate",
@@ -14539,17 +14561,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71pbcEv7C-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H25K1FFM",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H5K2PSN9",
-    "title": "2026 Upgraded Heavy Duty RV Roof Cover,3000PA Waterproof Camper Top Cover with 16 Adjustable Buckles &amp; 16 Reflective Reinforcement,16ft to 44ft for Travel Trailer Pop-Up Camper",
-    "type": "candidate",
-    "score": 55.5,
-    "price": 89.99,
-    "bsr": 4311,
-    "image_url": "https://m.media-amazon.com/images/I/714zzHNeZ+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5K2PSN9",
     "walmart_url": null
   },
   {
@@ -15037,6 +15048,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5K2PSN9",
+    "title": "2026 Upgraded Heavy Duty RV Roof Cover,3000PA Waterproof Camper Top Cover with 16 Adjustable Buckles &amp; 16 Reflective Reinforcement,16ft to 44ft for Travel Trailer Pop-Up Camper",
+    "type": "candidate",
+    "score": 54.9,
+    "price": 109.99,
+    "bsr": 4971,
+    "image_url": "https://m.media-amazon.com/images/I/714zzHNeZ+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5K2PSN9",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJ1MWYBX",
     "title": "Heavy Duty RV Roof Cover, Winter Snow Protection | Fits 16 to 44ft RVs, Adjustable Buckles, Easy Storage, for 5th Wheel, Clas",
     "type": "candidate",
@@ -15386,17 +15408,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71-GrklUtSL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5P5FYKZ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGKY6SXM",
-    "title": "Adjustable Trailer Hitch for 2&quot; Receiver, Heavy Duty 6&quot; Drop Tow Hitch",
-    "type": "candidate",
-    "score": 54.25,
-    "price": 129.99,
-    "bsr": 16330,
-    "image_url": "https://m.media-amazon.com/images/I/61AFT1Tsg7L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGKY6SXM",
     "walmart_url": null
   },
   {
@@ -17116,6 +17127,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6ZRC9MR",
+    "title": "Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black)",
+    "type": "candidate",
+    "score": 51.5,
+    "price": 26.99,
+    "bsr": 15659,
+    "image_url": "https://m.media-amazon.com/images/I/71BZEMfAKUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7K3FHQW",
     "title": "SEAFLO Fresh Water Strainer 02 Series, 3/4&quot; NPT Pump Strainer w/ 50 Mesh 316 Stainless Steel Filter, Clear PC Bowl, Nylon Housing, Inline Water Pump Filter for Marine, RV, Pressure Washer SFWS-750-02",
     "type": "candidate",
@@ -17267,17 +17289,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ioBMbKCXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HLGBZ5CV",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6ZRC9MR",
-    "title": "Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black)",
-    "type": "candidate",
-    "score": 51.25,
-    "price": 26.99,
-    "bsr": 20037,
-    "image_url": "https://m.media-amazon.com/images/I/71BZEMfAKUL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
     "walmart_url": null
   },
   {
@@ -22924,6 +22935,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCB9PTGG",
+    "title": "Tarp Clips Heavy Duty, 30 Pcs Plastic Tarp Clamps Set",
+    "type": "candidate",
+    "score": 45.75,
+    "price": 9.49,
+    "bsr": 19625,
+    "image_url": "https://m.media-amazon.com/images/I/71CnbEVM7pL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCB9PTGG",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5QN71XG",
     "title": "4 Inch T-Style RV Door Holder, 304 Stainless Steel RV Door Latch",
     "type": "candidate",
@@ -24288,6 +24310,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBR46KL5",
+    "title": "500W Boat Engine Compartment Heater HMA500 Boat Bilge Heater, Yellow",
+    "type": "candidate",
+    "score": 44.0,
+    "price": 169.98,
+    "bsr": 19471,
+    "image_url": "https://m.media-amazon.com/images/I/61i5Upo3vPL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBR46KL5",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDSNXCBT",
     "title": "2 Pcs Trailer Coupler Pins, 1/4&quot; x 4&quot; Square Towing Hitch Pins | Heavy-Duty Trailer Safety Coupler Pins, Wire Lock Pin, Trail",
     "type": "candidate",
@@ -24552,17 +24585,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCB9PTGG",
-    "title": "Tarp Clips Heavy Duty, 30 Pcs Plastic Tarp Clamps Set",
-    "type": "candidate",
-    "score": 43.5,
-    "price": 9.49,
-    "bsr": 17338,
-    "image_url": "https://m.media-amazon.com/images/I/71CnbEVM7pL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCB9PTGG",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HF7ZBHW5",
     "title": "Lrichy 232306 232282 Suburban RV Water Heater Thermostat Limit Switch Kit | 12V &amp; 120V T-Stat Compatible with RV Water Heater",
     "type": "candidate",
@@ -24794,14 +24816,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBR46KL5",
-    "title": "500W Boat Engine Compartment Heater HMA500 Boat Bilge Heater, Yellow",
+    "asin": "B0H9YZXF58",
+    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
     "type": "candidate",
-    "score": 43.25,
-    "price": 169.98,
-    "bsr": 22668,
-    "image_url": "https://m.media-amazon.com/images/I/61i5Upo3vPL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBR46KL5",
+    "score": 43.4,
+    "price": 6.99,
+    "bsr": 17299,
+    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
     "walmart_url": null
   },
   {
@@ -24937,6 +24959,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5SDY31C",
+    "title": "Shackle Hitch Receiver 2&quot; Inch Receivers for Vehicle Recovery, Black",
+    "type": "candidate",
+    "score": 43.25,
+    "price": 29.99,
+    "bsr": 14851,
+    "image_url": "https://m.media-amazon.com/images/I/71FpvMSve4L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5SDY31C",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8N1B4NT",
     "title": "RLECS Camper Roof Vent Cover Kit for RV Drain Pipes Plastic Includes 6 Screws for 1/2-inch and 3/8-inch Pipes Black",
     "type": "candidate",
@@ -24956,17 +24989,6 @@
     "bsr": 542992,
     "image_url": "https://m.media-amazon.com/images/I/51TGdND5SkL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHNTF1V7",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H5SDY31C",
-    "title": "Shackle Hitch Receiver 2&quot; Inch Receivers for Vehicle Recovery, Black",
-    "type": "candidate",
-    "score": 43.0,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71FpvMSve4L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5SDY31C",
     "walmart_url": null
   },
   {
@@ -25583,17 +25605,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/719VuTRYy+L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8SYQMG4",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9YZXF58",
-    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
-    "type": "candidate",
-    "score": 42.25,
-    "price": 6.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
     "walmart_url": null
   },
   {
@@ -26724,7 +26735,7 @@
     "type": "candidate",
     "score": 40.0,
     "price": 11.49,
-    "bsr": 5970,
+    "bsr": 5946,
     "image_url": "https://m.media-amazon.com/images/I/51Eq7YfhiqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC8RYH83",
     "walmart_url": null
@@ -26925,6 +26936,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71YJML8QwYL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H713BTZD",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H2914TR9",
+    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
+    "type": "candidate",
+    "score": 39.7,
+    "price": 5.49,
+    "bsr": 7501,
+    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
     "walmart_url": null
   },
   {
@@ -28820,17 +28842,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H2914TR9",
-    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
-    "type": "candidate",
-    "score": 35.7,
-    "price": 5.49,
-    "bsr": 6320,
-    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HFMSYRPW",
     "title": "IAQWE C1614722 11Inch 20Lb Gas Struts for Toolbox Camper Shell | 89N Gas Spring Shock for RV Cabinet Storage Box Lid DIY Proj",
     "type": "candidate",
@@ -30646,17 +30657,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9NZNYXZ",
-    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
-    "type": "candidate",
-    "score": 31.7,
-    "price": 14.24,
-    "bsr": 5669,
-    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H7WYSJSS",
     "title": "643922 Right Side Awning End Cap Cover",
     "type": "candidate",
@@ -30764,6 +30764,17 @@
     "bsr": 9400,
     "image_url": "https://m.media-amazon.com/images/I/71+6HEZxOoL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5L89JTJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H9NZNYXZ",
+    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
+    "type": "candidate",
+    "score": 31.25,
+    "price": 14.24,
+    "bsr": 6244,
+    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
     "walmart_url": null
   },
   {
@@ -31424,6 +31435,17 @@
     "bsr": 25685,
     "image_url": "https://m.media-amazon.com/images/I/61I8qn8bqdL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGF4QZWV",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5KV5GQM",
+    "title": "G389 RV Keys, 3 Pack Precut Replacement Keys",
+    "type": "candidate",
+    "score": 30.0,
+    "price": 14.99,
+    "bsr": 7143,
+    "image_url": "https://m.media-amazon.com/images/I/714DOZqFrvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5KV5GQM",
     "walmart_url": null
   },
   {
