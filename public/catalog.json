@@ -242,17 +242,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H69MDVYL",
-    "title": "SIMOE 6,500 BTU Over-the-Sill RV Window Air Conditioner | Smart Split Window AC Unit with WiFi App &amp; Voice Control, Quiet 50d",
-    "type": "winner",
-    "score": 89.7,
-    "price": 479.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sIeTxtEeL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H69MDVYL",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBQJHTCT",
     "title": "AUTO-VOX Magnetic Solar Wireless Backup Camera for iPhone &amp; Android",
     "type": "winner",
@@ -671,17 +660,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBQZXB3G",
-    "title": "Starlink Mini Suction Cup Mount for RV, Car Roof, Window &amp; Mini X | No-drill temporary mount with strong suction and adjustab",
-    "type": "winner",
-    "score": 88.45,
-    "price": 39.9,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51JzrO2JcyL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQZXB3G",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H3NJC8PS",
     "title": "HEECOOMI Magnetic Solar Wireless Backup Camera System, 7&quot; IPS Touchscreen with DVR, Rechargeable IR Night Vision Rear View Ca",
     "type": "winner",
@@ -924,17 +902,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HDSFWNN1",
-    "title": "Starlink Mini&amp;V5 Clamp Mount, Widen‑Jaw Design, for RV Boat Rail Pole Mount",
-    "type": "winner",
-    "score": 84.4,
-    "price": 33.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61BLYGlZcHL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDSFWNN1",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H456V16B",
     "title": "ZEROXCLUB 4 CAM 10&quot; Touchscreen Magentic Solar Wireless Backup Camera | 2 Rear View Camera 2 Side View Cameras Wireless Solar",
     "type": "winner",
@@ -1108,6 +1075,17 @@
     "bsr": 4668,
     "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H69MDVYL",
+    "title": "SIMOE 6,500 BTU Over-the-Sill RV Window Air Conditioner | Smart Split Window AC Unit with WiFi App &amp; Voice Control, Quiet 50d",
+    "type": "winner",
+    "score": 83.35,
+    "price": 479.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sIeTxtEeL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H69MDVYL",
     "walmart_url": null
   },
   {
@@ -1603,6 +1581,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71sm9kWaTvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1HKQBCX",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBQZXB3G",
+    "title": "Suction Cup Mount for Starlink Mini V5 for RV, Car Roof, Window,Boat | No-drill temporary mount with strong suction and adjus",
+    "type": "winner",
+    "score": 81.75,
+    "price": 39.9,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51JzrO2JcyL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQZXB3G",
     "walmart_url": null
   },
   {
@@ -2354,17 +2343,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HK4D3SCX",
-    "title": "12V RV Air Conditioner, DC RV AC Unit 10,000 BTU Cooling and 3,500 BTU Heating, 12V AC Unit with Heat, Rooftop Camper Air Con",
-    "type": "should_test",
-    "score": 79.25,
-    "price": 559.98,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61SoXtRH+jL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HK4D3SCX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHPPTKJK",
     "title": "MrCool TravelCool RV Heat &amp; AC System | Ductless 15K BTU White",
     "type": "should_test",
@@ -2494,6 +2472,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RQc+sIu1L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDT3BWWL",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHLXHK1V",
+    "title": "Sleeper Chair with Pull Out Bed, 5 In1 Convertible Chair Bed, Black",
+    "type": "should_test",
+    "score": 78.85,
+    "price": 179.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/81k22A-6NXL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHLXHK1V",
     "walmart_url": null
   },
   {
@@ -3729,6 +3718,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDSFWNN1",
+    "title": "Starlink Mini&amp;V5 Clamp Mount, Widen‑Jaw Design, for RV Boat Rail Pole Mount | Upgraded 0.39&quot;-2.36&quot; (10-60mm) wide-jaw clamp g",
+    "type": "should_test",
+    "score": 75.3,
+    "price": 33.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61BLYGlZcHL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDSFWNN1",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7RFYYW7",
     "title": "2‑Inch Hitch Receiver Key Lock Box, 4‑Digit Metal Box with Weather Cover | Secure Car Fob Storage Box for Surfing, Camping, T",
     "type": "should_test",
@@ -3902,6 +3902,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Mgue95gyL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZVJMSHP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H714WSSP",
+    "title": "22x14 RV Vent Insulator and Skylight Cover,RV Skylight Insulator(1pack) | Waterproof Universal Camper Roof Vent Plug,Privacy",
+    "type": "should_test",
+    "score": 74.55,
+    "price": 20.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81tKe72MseL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H714WSSP",
     "walmart_url": null
   },
   {
@@ -4155,17 +4166,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/712f5e8rOSL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8YK61ZQ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H714WSSP",
-    "title": "22x14 RV Vent Insulator and Skylight Cover,RV Skylight Insulator(1pack) | Waterproof Universal Camper Roof Vent Plug,Privacy",
-    "type": "should_test",
-    "score": 73.75,
-    "price": 20.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81tKe72MseL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H714WSSP",
     "walmart_url": null
   },
   {
@@ -5167,6 +5167,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71i6Rh9AuSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7BC6SKC",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HK4D3SCX",
+    "title": "12V RV Air Conditioner, DC RV AC Unit 10,000 BTU Cooling and 3,500 BTU Heating, 12V AC Unit with Heat, Rooftop Camper Air Con",
+    "type": "should_test",
+    "score": 69.75,
+    "price": 509.98,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61SoXtRH+jL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HK4D3SCX",
     "walmart_url": null
   },
   {
@@ -6248,17 +6259,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBCF6Z28",
-    "title": "3 Pack RV Shower Corner Storage Bars, Adjustable 7-13 Inch, Stainless Steel | Adhesive Mount, Tool-Free No-Drill Setup, Bottl",
-    "type": "should_test",
-    "score": 66.75,
-    "price": 15.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81hgviBJlHL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBCF6Z28",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJ73S4NW",
     "title": "Backup Camera Rain Shield, 4Pcs Universal Car Backup Camera Rain Hood Cover, Black PVC Adhesive Rear View Camera Rain Guard, Waterproof Rear View Lens Anti-Rain Cover for Car Reversing Camera",
     "type": "should_test",
@@ -6710,6 +6710,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKVR2KGQ",
+    "title": "RV Skirting for Winter, Heavy Duty Insulated for Travel Trailer, 5th Wheel, Truck Camper Skirt Kit, All-Weather Snow Protecti",
+    "type": "should_test",
+    "score": 65.5,
+    "price": 369.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Q9S7CP1rL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKVR2KGQ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8BP69DF",
     "title": "Festisoul Rv Steps with Handrail, 5 Step Rv Stairs with Removable Handrails | Reflective Strips and Non Slip Strips，Camper St",
     "type": "should_test",
@@ -6839,17 +6850,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/914PDduXJ8L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6MY3L8N",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCL2N5JH",
-    "title": "Apexlife 2 Piece RV Couch Covers for Jackknife Sofa Bed, Brown | 2-Piece Set Stretchable Jackknife Sofa Cover Fits Most Campe",
-    "type": "should_test",
-    "score": 65.15,
-    "price": 32.98,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/813wqGQntQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCL2N5JH",
     "walmart_url": null
   },
   {
@@ -7986,6 +7986,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBCF6Z28",
+    "title": "3 Pack RV Shower Corner Storage Bars, Adjustable 7-13 Inch, Stainless Steel | Adhesive Mount, Tool-Free No-Drill Setup, Bottl",
+    "type": "should_test",
+    "score": 62.75,
+    "price": 15.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81hgviBJlHL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBCF6Z28",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF7W3KCJ",
     "title": "Heavy‑Weight Rollable Felt RV Skirting 22m/72ft | 90cm Height RV Skirting,Supplied with 10M Hook‑and‑Loop Tape for Winter Out",
     "type": "should_test",
@@ -8027,6 +8038,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ivbdaWOWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8SP81MD",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCLJ86GT",
+    "title": "Yojinovas 12V RV Side Vent Fan,Dual Motor Quiet Exhaust (Black) | ABS Plastic, Cutout 4.8x2.4 Inches, White, Dual Motor Quiet",
+    "type": "should_test",
+    "score": 62.75,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61LMFau0I+L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCLJ86GT",
     "walmart_url": null
   },
   {
@@ -8646,17 +8668,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF7SKLQ6",
-    "title": "Snow Barrier RV Skirting for Travel Trailer 26m/85ft | 90cm Height RV Skirting,Supplied with 10M Hook‑and‑Loop Tape for Winte",
-    "type": "should_test",
-    "score": 61.75,
-    "price": 268.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/716ooKpiFzL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF7SKLQ6",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HNP5GWWB",
     "title": "RV Skirting 26m/85ft 5th Wheel Bottom Skirt | 10M Hook-and-Loop Tape Included. Winter snow-resistant design, perfect for stat",
     "type": "should_test",
@@ -8775,28 +8786,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/712sdsbt64L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HP1SGK6D",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCLJ86GT",
-    "title": "12V RV Side Vent Fan,Dual Motor Quiet Exhaust (White)",
-    "type": "should_test",
-    "score": 61.75,
-    "price": 21.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/51Syg3gLEoL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCLJ86GT",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HKVR2KGQ",
-    "title": "RV Skirting for Winter, Heavy Duty Insulated for Travel Trailer, 5th Wheel, Truck Camper Skirt Kit, All-Weather Snow Protection, Windproof for Class A B C Motorhome(Green-3.2FT H,105FT L)",
-    "type": "should_test",
-    "score": 61.75,
-    "price": 369.0,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71Q9S7CP1rL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKVR2KGQ",
     "walmart_url": null
   },
   {
@@ -9248,6 +9237,17 @@
     "bsr": 124365,
     "image_url": "https://m.media-amazon.com/images/I/61gKuEEBFLL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFN3RQWC",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HL7KJGWR",
+    "title": "TUSOMA 18000 BTU RV Air Conditioner, WiFi &amp; Remote Control, 110-120V | Non-Ducted Rooftop RV AC Unit with Heat Pump, Camper A",
+    "type": "should_test",
+    "score": 60.75,
+    "price": 899.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/619ZUzLVUJL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HL7KJGWR",
     "walmart_url": null
   },
   {
@@ -9842,6 +9842,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AB0q-J0gL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1RJJPMP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF7SKLQ6",
+    "title": "Snow Barrier RV Skirting for Travel Trailer 26m/85ft | 90cm Height RV Skirting,Supplied with 10M Hook‑and‑Loop Tape for Winte",
+    "type": "should_test",
+    "score": 59.0,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/716ooKpiFzL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF7SKLQ6",
     "walmart_url": null
   },
   {
@@ -11385,6 +11396,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGY8TG4G",
+    "title": "FOGATTI 35000 BTU RV Furnace | Propane Heater for Camper Trailer Van | Quiet Ducted Forced Air Heating, Compact Replacement W",
+    "type": "should_test",
+    "score": 55.75,
+    "price": 799.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/717Hpa-5Q3L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGY8TG4G",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF85DGSZ",
     "title": "2-Stage Automatic Changeover LP Propane RV Gas Regulator 2 tank camper kit",
     "type": "should_test",
@@ -11946,17 +11968,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGY8TG4G",
-    "title": "FOGATTI 35000 BTU RV Furnace | Propane Heater for Camper Trailer Van | Quiet Ducted Forced Air Heating, Compact Replacement W",
-    "type": "should_test",
-    "score": 54.75,
-    "price": 799.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/717Hpa-5Q3L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGY8TG4G",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H4G12QKS",
     "title": "Ustinian 97521 28 FT RV Macerator Hose Kit(9FT Collapsed), 1-1/2 Inch Retractable RV Sewer Hose for Thetford Sani-Con Turbo 4",
     "type": "should_test",
@@ -12375,6 +12386,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8BCKSS6",
+    "title": "Coleman-Mach 15 15,000 BTU PowerSaver Ducted Quiet RV AC, White",
+    "type": "should_test",
+    "score": 52.5,
+    "price": 1059.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61otgVq9HsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8BCKSS6",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8NRKTQT",
     "title": "Lingvee 3 Pack RV Winterizer Kit with 17&#x27;&#x27; Hose Pressure Gauge Pump Plug | For Camper Boat Trailer Winterizing, Hand Siphon P",
     "type": "should_test",
@@ -12438,17 +12460,6 @@
     "bsr": 247615,
     "image_url": "https://m.media-amazon.com/images/I/61kDENaUxlL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6RFSBW4",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8BCKSS6",
-    "title": "Coleman-Mach 15 15,000 BTU PowerSaver Ducted Quiet RV AC, White | 15,000 BTU PowerSaver ducted quiet RV AC; 13.9A, 320 CFM, R",
-    "type": "should_test",
-    "score": 52.0,
-    "price": 1059.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61otgVq9HsL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8BCKSS6",
     "walmart_url": null
   },
   {
@@ -13299,6 +13310,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCL2N5JH",
+    "title": "Apexlife 2 Piece RV Couch Covers for Jackknife Sofa Bed, Brown | 2-Piece Set Stretchable Jackknife Sofa Cover Fits Most Campe",
+    "type": "candidate",
+    "score": 61.1,
+    "price": 32.98,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/813wqGQntQL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCL2N5JH",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H36R4D2C",
     "title": "3 Pack RV Shower Corner Storage Bar, Camper Bathroom Organizer Accessories | Keeps Shower Essentials Secure and Organization,",
     "type": "candidate",
@@ -13527,17 +13549,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nX1KWsejL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7WFX6DD",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H86K5LD2",
-    "title": "RV Door Holder, 304 Stainless Steel Camper Door Latch, Adhesive &amp; Screws | RV Door Stop Accessories with No-Drill or Screw Mo",
-    "type": "candidate",
-    "score": 59.5,
-    "price": 6.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CDGtuQF2L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H86K5LD2",
     "walmart_url": null
   },
   {
@@ -13912,6 +13923,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71aVNmRgIyL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4QX7R7H",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8SJMNVP",
+    "title": "Kadrama RV Tension Rods, Adjustable Cabinet Rods 12-19.5 in, 6 Pack | Non-Slip Rubber Ends, Tool-Free Setup, Metal Constructi",
+    "type": "candidate",
+    "score": 57.75,
+    "price": 13.59,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51EGsdJnTDL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8SJMNVP",
     "walmart_url": null
   },
   {
@@ -17545,17 +17567,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9YTXKCR",
-    "title": "RV Door Holder 5 Pack, Camper Baggage Door Catch for Trailer, White",
-    "type": "candidate",
-    "score": 50.75,
-    "price": 9.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61r8vE-HpiL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9YTXKCR",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHXD3J2R",
     "title": "Aluminum Retractable Ladder, Foldable with Hook, 10.5 ft, 330 lb Load Capacity, for RV, Attic, and Home",
     "type": "candidate",
@@ -18854,6 +18865,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9WQGV28",
+    "title": "FOCSPROD Update Adhesive RV Shower Corner Storage Bar, 2 Pack | Stainless Steel RV Storage Organization Corner Bar, RV Shower",
+    "type": "candidate",
+    "score": 49.75,
+    "price": 9.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/612uQ+CNKrL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9WQGV28",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HBVY6661",
     "title": "FORGEDX Trailer Lock Heavy Duty Anti Theft, Fits 2 5/16-Inch Couplers, Secures Safety Chains, for Trailers, RVs, and Boats, S",
     "type": "candidate",
@@ -19214,17 +19236,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51Qxgey8FlL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFMCRP16",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8F5ZV3Y",
-    "title": "RV Floor Vent Cover 2 Pack, Magnetic RV Vent Register 2&quot;x10&quot; Aluminum Removable Camper Trailer Floor Vent with Magnetic Pull",
-    "type": "candidate",
-    "score": 49.25,
-    "price": 31.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710CE0T5KTL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8F5ZV3Y",
     "walmart_url": null
   },
   {
@@ -19786,6 +19797,17 @@
     "bsr": 67832,
     "image_url": "https://m.media-amazon.com/images/I/71xwd4MZItL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H74YBZPQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H4GPLM8Y",
+    "title": "6 Inch RV Bunk Mattress, 28&quot; x 72&quot; RV Mattress Gel Memory Foam - High Density Medium Certified Camper Bunk Mattress with Brea",
+    "type": "candidate",
+    "score": 48.75,
+    "price": 159.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ov2cym3TL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4GPLM8Y",
     "walmart_url": null
   },
   {
@@ -20449,6 +20471,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5QN71XG",
+    "title": "Qeykizy 4 Inch T-Style RV Door Holder, 304 Stainless Steel RV Door Latch | Door Holder Catch for RV, Camper, Travel Trailer,",
+    "type": "candidate",
+    "score": 48.25,
+    "price": 6.98,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eXi1p5cxL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5QN71XG",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H3TP4RYJ",
     "title": "Multifunctional Insulated RV Trailer Door, 30&quot; W×36&quot; H Soundproof Waterproof Camper Door, Mosquito-Proof Ventilated Aluminum Alloy Replacement Doors (Right)",
     "type": "candidate",
@@ -20479,17 +20512,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71M+2Yye42L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H92VKGDT",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9WQGV28",
-    "title": "FOCSPROD Update Adhesive RV Shower Corner Storage Bar, 2 Pack | Stainless Steel RV Storage Organization Corner Bar, RV Shower",
-    "type": "candidate",
-    "score": 48.0,
-    "price": 9.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/612uQ+CNKrL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9WQGV28",
     "walmart_url": null
   },
   {
@@ -21197,6 +21219,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9YTXKCR",
+    "title": "Kadrama RV Door Holder 5 Pack, Camper Baggage Door Catch for Trailer, White | Spring Loaded ABS Design, Includes Mounting Scr",
+    "type": "candidate",
+    "score": 47.25,
+    "price": 9.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61r8vE-HpiL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9YTXKCR",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCBM6Y8S",
     "title": "FUSCH Aluminum RV Table and Floor Mounting Base, Heavy-Duty Thickened | Heavy Duty Aluminum RV Table Base Mount For Camper Tr",
     "type": "candidate",
@@ -21205,17 +21238,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/719hxL4uGfL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCBM6Y8S",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H4GPLM8Y",
-    "title": "6 Inch RV Bunk Mattress, 28&quot; x 72&quot; RV Mattress Gel Memory Foam - High Density Medium Certified Camper Bunk Mattress with Brea",
-    "type": "candidate",
-    "score": 47.25,
-    "price": 151.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ov2cym3TL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4GPLM8Y",
     "walmart_url": null
   },
   {
@@ -21714,14 +21736,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HHV2ZJRM",
-    "title": "RV Floor Vent Cover, 2&quot;x10&quot;, Magnetic Removable Cover, RV Accessories | Pet hair protection | Rust-resistant durability | Eas",
+    "asin": "B0HN7BYSPJ",
+    "title": "14&quot; x 14&quot; Replacement Roof Vent Cover Camper RV Trailer Wedge Style",
     "type": "candidate",
-    "score": 46.9,
-    "price": 19.99,
+    "score": 47.0,
+    "price": 72.99,
     "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61t9+3TJ0bL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHV2ZJRM",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51zvJjc758L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HN7BYSPJ",
     "walmart_url": null
   },
   {
@@ -21975,6 +21997,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61QBxG4o3dL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HH92BH1J",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8CH3MH9",
+    "title": "RV Toilet Parts Compatible with Thetford Aqua-Magic (42048+42049) | RV Toilet Valve, Waste Ball and Drive Arm Repair Kits Com",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 32.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nGtca9nuL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8CH3MH9",
     "walmart_url": null
   },
   {
@@ -22297,6 +22330,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H86K5LD2",
+    "title": "RV Door Holder, 304 Stainless Steel Camper Door Latch, Adhesive &amp; Screws",
+    "type": "candidate",
+    "score": 46.25,
+    "price": 6.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61CDGtuQF2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H86K5LD2",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJYTZVBB",
     "title": "Expedeck 4x4 Portable Deck Landing, Assembled RV Stairs, 21 in Straight | Fully assembled, freestanding, no footings, RV stai",
     "type": "candidate",
@@ -22470,17 +22514,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71wKx2RsSJL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBPDMD7X",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H5BT7V98",
-    "title": "Safoner Aluminum RV Floor Vent Cover, 4&quot;x8&quot; Register RV Vent Accessories",
-    "type": "candidate",
-    "score": 46.25,
-    "price": 52.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71+Dfh62S+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5BT7V98",
     "walmart_url": null
   },
   {
@@ -22770,17 +22803,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8SJMNVP",
-    "title": "RV Tension Rods, Adjustable Cabinet Rods 12-19.5 in, 6 Pack",
-    "type": "candidate",
-    "score": 45.75,
-    "price": 13.59,
-    "bsr": 21151,
-    "image_url": "https://m.media-amazon.com/images/I/51EGsdJnTDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8SJMNVP",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GF27BWJ6",
     "title": "AHD1080P Backup Camera for Cars, CCD Sensor (Outperforms CMOS),Black",
     "type": "candidate",
@@ -22965,17 +22987,6 @@
     "bsr": 14369,
     "image_url": "https://m.media-amazon.com/images/I/718PS78I1qL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGKPYXLZ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H5QN71XG",
-    "title": "4 Inch T-Style RV Door Holder, 304 Stainless Steel RV Door Latch",
-    "type": "candidate",
-    "score": 45.5,
-    "price": 6.98,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71eXi1p5cxL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5QN71XG",
     "walmart_url": null
   },
   {
@@ -23705,6 +23716,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8F5ZV3Y",
+    "title": "RV Floor Vent Cover 2 Pack, Magnetic RV Vent Register 2&quot;x10&quot; Aluminum Removable Camper Trailer Floor Vent with Magnetic Pull",
+    "type": "candidate",
+    "score": 44.65,
+    "price": 31.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710CE0T5KTL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8F5ZV3Y",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDGNK98Q",
     "title": "17.5mm Backup Camera Lens Protector, 2 Pack, Anti-Fog Clear Cover",
     "type": "candidate",
@@ -24010,17 +24032,6 @@
     "bsr": 665948,
     "image_url": "https://m.media-amazon.com/images/I/71-c-RcYpgL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HPSWLB37",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H4FJZDH4",
-    "title": "GIMILI Gold Kitchen Faucet with Pull Down Sprayer | Deck Plate for 1 or 3 Hole Sink Farmhouses, RV, Laundry Room, Outdoor Sin",
-    "type": "candidate",
-    "score": 44.25,
-    "price": 49.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51K2YRP3r0L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4FJZDH4",
     "walmart_url": null
   },
   {
@@ -25113,6 +25124,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5BT7V98",
+    "title": "Safoner Aluminum RV Floor Vent Cover, 4&quot;x8&quot; Register RV Vent Accessories | Removable Cover, Durable Aluminum, Blocks Pet Hair",
+    "type": "candidate",
+    "score": 42.75,
+    "price": 52.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+Dfh62S+L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5BT7V98",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5NRS2GD",
     "title": "Rv Entry Door, 30“ x 36” Entry Door, Black Aluminum Alloy Teardrop Trailer Door with Tempered Glass and Key Lock for RVs, Campers, Horse Trailers, Cargo Trailers (30&#x27;&#x27;Wx36&#x27;&#x27;H, Left)",
     "type": "candidate",
@@ -25242,6 +25264,17 @@
     "bsr": 872616,
     "image_url": "https://m.media-amazon.com/images/I/81mV++317mL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8384SSG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H4FJZDH4",
+    "title": "GIMILI Gold Kitchen Faucet with Pull Down Sprayer | Deck Plate for 1 or 3 Hole Sink Farmhouses, RV, Laundry Room, Outdoor Sin",
+    "type": "candidate",
+    "score": 42.65,
+    "price": 49.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51K2YRP3r0L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4FJZDH4",
     "walmart_url": null
   },
   {
@@ -26620,6 +26653,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHV2ZJRM",
+    "title": "RV Floor Vent Cover, 2&quot;x10&quot;, Magnetic Removable Cover, RV Accessories",
+    "type": "candidate",
+    "score": 40.25,
+    "price": 19.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61t9+3TJ0bL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHV2ZJRM",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCYFW7SQ",
     "title": "0.6&quot; 30FT RV Black Vinyl Insert Trim Molding Screw Cover",
     "type": "candidate",
@@ -26727,6 +26771,17 @@
     "bsr": 34327,
     "image_url": "https://m.media-amazon.com/images/I/51Pl4krk7gL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3QD5F91",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGQBGLB9",
+    "title": "RV for Coleman Mach 1, 3, 10, 15 &amp; Q RV Air Conditioners – NOT Universal - Does NOT Fit Mach 8, Dometic, Furrion, GE or Non-D",
+    "type": "candidate",
+    "score": 40.25,
+    "price": 78.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+sa5QRtGL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGQBGLB9",
     "walmart_url": null
   },
   {
@@ -27159,6 +27214,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGXT5D5W",
+    "title": "seork 8 Pack Trailer Roof Vent Mounting Kit Replacement | for Maxxair 00-225000 Zero-Leak RV Roof Vent Cover Stainless Steel",
+    "type": "candidate",
+    "score": 39.5,
+    "price": 18.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I-oQQIGUL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGXT5D5W",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H729N822",
     "title": "Black Solid Color Spare Tire Covers for RV Trailer SUV Truck,15IN | Black Tire Covers Universal Fit for Jeep Vehicles,Waterpr",
     "type": "candidate",
@@ -27178,17 +27244,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/716dMqvXNJL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4YPKV92",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8CH3MH9",
-    "title": "RV Toilet Parts Compatible with Thetford Aqua-Magic (42048+42049) | RV Toilet Valve, Waste Ball and Drive Arm Repair Kits Com",
-    "type": "candidate",
-    "score": 39.25,
-    "price": 31.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71nGtca9nuL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8CH3MH9",
     "walmart_url": null
   },
   {
@@ -27500,6 +27555,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCZHXYQ6",
+    "title": "6.5&quot; Round Rv Vent Cover Ceiling Air Conditioner Vent Lid,Fits 4-5/8 ,6 Pcs | Beige ceiling replacement for camper, trailer m",
+    "type": "candidate",
+    "score": 39.0,
+    "price": 21.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yARfwWOPL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCZHXYQ6",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGDRP5QZ",
     "title": "Waste Ball Kit 34117,RV Toilet Parts for Thetford Aqua Magic RV Toilet | RV Waste Ball Kit for Style II,Style Lite,Style Plus",
     "type": "candidate",
@@ -27632,17 +27698,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H5C1V9BF",
-    "title": "Safoner Aluminum RV Floor Register 4&quot;x10&quot;, Removable Cover, Brown, 2 Pack | Aluminum Construction, Magnetic Removable Cover,",
-    "type": "candidate",
-    "score": 38.75,
-    "price": 53.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KYDyK-S2L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5C1V9BF",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H8NB5P82",
     "title": "3317085.000U RV Awning Motor Cover Kit Replacement for Dometic 9200 Series | Compatible with Dometic Hardware 8962001.400U 89",
     "type": "candidate",
@@ -27750,17 +27805,6 @@
     "bsr": 95758,
     "image_url": "https://m.media-amazon.com/images/I/71g5R0UA89L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFGFJNY1",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCZHXYQ6",
-    "title": "6.5&quot; Round Rv Vent Cover Ceiling Air Conditioner Vent Lid,Fits 4-5/8 ,6 Pcs | Beige ceiling replacement for camper, trailer m",
-    "type": "candidate",
-    "score": 38.25,
-    "price": 21.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yARfwWOPL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCZHXYQ6",
     "walmart_url": null
   },
   {
@@ -28600,17 +28644,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFS76QRK",
-    "title": "RV Roof Vent Operator Assembly for Ventline Ventadome, Knob &amp; Screw, 1Pack | Fits 14 x 14in RV roof vents with wedge covers;",
-    "type": "candidate",
-    "score": 36.5,
-    "price": 18.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Qlm+5MQUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFS76QRK",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GHFF6QWP",
     "title": "RTV Silicone Sealant Adhesive, 100% Silicone Waterproof Caulk Strength Adhesive for Car Windshield, Window, Bathroom &amp; Kitchen Shrink &amp; Crack Proof (Black, 40g/1.4oz)",
     "type": "candidate",
@@ -28619,6 +28652,17 @@
     "bsr": 126000,
     "image_url": "https://m.media-amazon.com/images/I/612fvdBAyLL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GHFF6QWP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFS76QRK",
+    "title": "RV Roof Vent Operator Assembly for Ventline Ventadome, Knob &amp; Screw, 1Pack | Fits 14 x 14in RV roof vents with wedge covers;",
+    "type": "candidate",
+    "score": 36.25,
+    "price": 18.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Qlm+5MQUL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFS76QRK",
     "walmart_url": null
   },
   {
@@ -28897,6 +28941,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H2BHBRCP",
+    "title": "OEEGZ 7 Inch White Round Ceiling Air Vent Port, Adjustable Rotate Louvers with 1/4 Inch Collar Replacement Vent Cover for RV",
+    "type": "candidate",
+    "score": 35.75,
+    "price": 6.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51GVUy9XRgL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2BHBRCP",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFMSYRPW",
     "title": "IAQWE C1614722 11Inch 20Lb Gas Struts for Toolbox Camper Shell | 89N Gas Spring Shock for RV Cabinet Storage Box Lid DIY Proj",
     "type": "candidate",
@@ -29059,6 +29114,17 @@
     "bsr": 422904,
     "image_url": "https://m.media-amazon.com/images/I/71mDPW2gvvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCYDD33Z",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5C1V9BF",
+    "title": "Safoner Aluminum RV Floor Register 4&quot;x10&quot;, Removable Cover, Brown, 2 Pack | Aluminum Construction, Magnetic Removable Cover,",
+    "type": "candidate",
+    "score": 35.0,
+    "price": 53.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KYDyK-S2L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5C1V9BF",
     "walmart_url": null
   },
   {
@@ -29700,6 +29766,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBWTTGBK",
+    "title": "White 5-1/2&quot; Round Air Register with Damper, Fits 4&quot; Duct, 2&quot; Side, RV Vent",
+    "type": "candidate",
+    "score": 33.75,
+    "price": 11.69,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61j4+KYkkAL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBWTTGBK",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5L3D3GR",
     "title": "G363 RV Keys, 3 Pack Precut Replacement Keys",
     "type": "candidate",
@@ -29719,17 +29796,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XzhSiF3AL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFVH5KVZ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBWTTGBK",
-    "title": "White 5-1/2&quot; Round Air Register with Damper, Fits 4&quot; Duct, 2&quot; Side, RV Vent | Fits 4&quot; duct, 5-1/2&quot; face, 2&quot; collar; worm-driv",
-    "type": "candidate",
-    "score": 33.65,
-    "price": 11.69,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61j4+KYkkAL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBWTTGBK",
     "walmart_url": null
   },
   {
@@ -31185,17 +31251,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H2BHBRCP",
-    "title": "OEEGZ 7 Inch White Round Ceiling Air Vent Port, Adjustable Rotate Louvers with 1/4 Inch Collar Replacement Vent Cover for RV",
-    "type": "candidate",
-    "score": 30.5,
-    "price": 6.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51GVUy9XRgL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2BHBRCP",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJ2RP765",
     "title": "BVC0573-31 Roof Vent Frame Screen for Ventline Ventadome V2092",
     "type": "candidate",
@@ -32183,17 +32238,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61RiDnz+i4L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3KNHTKG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGXT5D5W",
-    "title": "seork 8 Pack Trailer Roof Vent Mounting Kit Replacement | for Maxxair 00-225000 Zero-Leak RV Roof Vent Cover Stainless Steel",
-    "type": "candidate",
-    "score": 26.25,
-    "price": 18.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I-oQQIGUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGXT5D5W",
     "walmart_url": null
   },
   {
