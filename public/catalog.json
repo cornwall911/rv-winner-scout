@@ -517,6 +517,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKV9MTW2",
+    "title": "VEVOR Diesel Heater DC 12-24V 2.38 Gal / 9 L Fuel Tank Diesel Air Heater | For Outdoor Camping, Aluminum Element Fast Heating",
+    "type": "winner",
+    "score": 89.2,
+    "price": 288.9,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+EGDTXIHL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKV9MTW2",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC5V3KLK",
     "title": "AUTO-VOX 2 Solar Wireless Backup Camera, 7.2&quot; Split Screen for Dual Views",
     "type": "winner",
@@ -528,24 +539,13 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HKV9MTW2",
-    "title": "VEVOR Diesel Heater DC 12-24V 2.38 Gal / 9 L Fuel Tank Diesel Air Heater | For Outdoor Camping, Aluminum Element Fast Heating",
-    "type": "winner",
-    "score": 89.05,
-    "price": 288.9,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+EGDTXIHL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKV9MTW2",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HKZ6GS5B",
-    "title": "8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fi",
+    "title": "8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fishing SUV Car Trailer Camper Van Boat",
     "type": "winner",
-    "score": 89.05,
-    "price": 101.99,
+    "score": 89.1,
+    "price": 103.99,
     "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61-A7GZ-2XL._AC_UL300_SR300,200_.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/61-A7GZ-2XL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKZ6GS5B",
     "walmart_url": null
   },
@@ -3168,17 +3168,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H94JBM34",
-    "title": "NLQR RV Vent Insulator 14&quot;x14&quot;x3&quot;, 2 Pack — High-Density Memory Foam Skylight Cover with Reflective Surface &amp; Washable Zipper",
-    "type": "should_test",
-    "score": 77.0,
-    "price": 21.92,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710g4G0aaDL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H94JBM34",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJND75QS",
     "title": "6 Pack Waterproof Backup Camera Rain Shield Rear View Camera Rain Shield",
     "type": "should_test",
@@ -3451,6 +3440,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81udknamjuL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GSVYK7MG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H94JBM34",
+    "title": "NLQR RV Vent Insulator 14&quot;x14&quot;x3&quot;, 2 Pack — High-Density Memory Foam Skylight Cover with Reflective Surface &amp; Washable Zipper",
+    "type": "should_test",
+    "score": 76.0,
+    "price": 21.92,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710g4G0aaDL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H94JBM34",
     "walmart_url": null
   },
   {
@@ -7458,6 +7458,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8728XS4",
+    "title": "YeloDeer 120V RV Tank Heater Pad 12&quot; x 18&quot;, with Lighted Plug (2 Pads) | RV Water Tank Heater Built-In Overheat Protection fo",
+    "type": "should_test",
+    "score": 63.9,
+    "price": 59.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bpAwRiHZL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8728XS4",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHN66XW6",
     "title": "DC Portable Power Station, 256Wh, 100W, Outdoor Camping",
     "type": "should_test",
@@ -7631,17 +7642,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71o6sfEStJL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC2L3YBK",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8728XS4",
-    "title": "YeloDeer 120V RV Tank Heater Pad 12&quot; x 18&quot;, with Lighted Plug (2 Pads) | RV Water Tank Heater Built-In Overheat Protection fo",
-    "type": "should_test",
-    "score": 63.25,
-    "price": 59.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bpAwRiHZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8728XS4",
     "walmart_url": null
   },
   {
@@ -13101,6 +13101,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7H16JBF",
+    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
+    "type": "candidate",
+    "score": 62.15,
+    "price": 39.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H2CLB19D",
     "title": "sooogd 8 Pack Solar RV Step Lights, IP68 Waterproof Warm White Stair Lights | Auto Dusk-to-Dawn Lighting With Magnetic Pad, A",
     "type": "candidate",
@@ -13725,17 +13736,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81CMiQYKqlL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDYL4MTS",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7H16JBF",
-    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
-    "type": "candidate",
-    "score": 58.25,
-    "price": 39.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
     "walmart_url": null
   },
   {
@@ -26587,6 +26587,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKFY9QRZ",
+    "title": "SsllZdq RV Roof Vent Operator Assembly with Knob &amp; Screws, Gray | Replacement for Ventline Ventadome 14 x 14 Camper Trailer R",
+    "type": "candidate",
+    "score": 40.5,
+    "price": 16.69,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vxwRtAgqL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKFY9QRZ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H65BZK6R",
     "title": "15 Ton Pintle Hitch, 2 Inch Receiver Military Grade Hook &amp; Lock pin",
     "type": "candidate",
@@ -28072,6 +28083,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HG4L1MR6",
+    "title": "Airtaxi Universal 5.8&quot; Ceiling Garnish Trim Ring for 14&quot; RV Vent Fan | White Modular Design, Simple assembly required before",
+    "type": "candidate",
+    "score": 37.75,
+    "price": 29.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41odZUirxbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG4L1MR6",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFX6SGZD",
     "title": "Utility Trailer Cover for Carry-On 5X8 Single Axle Utility Trailer 2021-Present, Water Resistant Outdoor Trailer Cover, Fits",
     "type": "candidate",
@@ -28333,17 +28355,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61s5aE47WcL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCJHZBKD",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HG4L1MR6",
-    "title": "Airtaxi Universal 5.8&quot; Ceiling Garnish Trim Ring for 14&quot; RV Vent Fan | White Modular Design, Simple assembly required before",
-    "type": "candidate",
-    "score": 37.25,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41odZUirxbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG4L1MR6",
     "walmart_url": null
   },
   {
@@ -28839,17 +28850,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51yMDeVz7kL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF76WBHN",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HKFY9QRZ",
-    "title": "SsllZdq RV Roof Vent Operator Assembly with Knob &amp; Screws, Gray | Replacement for Ventline Ventadome 14 x 14 Camper Trailer R",
-    "type": "candidate",
-    "score": 35.75,
-    "price": 16.69,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vxwRtAgqL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKFY9QRZ",
     "walmart_url": null
   },
   {
