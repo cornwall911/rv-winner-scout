@@ -1408,6 +1408,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHY3BLNN",
+    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200 | Stop venting sewer gases into your RV! Passive",
+    "type": "winner",
+    "score": 82.5,
+    "price": 100.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1Q4CX8C",
     "title": "12V 12000 BTU Split Truck Air Conditioner, Super Quiet Fast Cooling DC Parking AC for Semi Truck, RV, Camper, Construction Ve",
     "type": "winner",
@@ -3660,17 +3671,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81HH32ucFWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GHF8P4CK",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HHY3BLNN",
-    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200 | Stop venting sewer gases into your RV! Passive",
-    "type": "should_test",
-    "score": 75.5,
-    "price": 100.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
     "walmart_url": null
   },
   {
@@ -21725,17 +21725,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H1XJ7JWQ",
-    "title": "7&quot; Round White RV Ceiling AC Vent Covers for Newmar and Other RV 2 Pack | Rotatable Louvers Adjustable Airflow Direction, Fit",
-    "type": "candidate",
-    "score": 46.9,
-    "price": 10.49,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+a0JnrgvL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1XJ7JWQ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H8NMHV81",
     "title": "Trailer Coupler Pin Lock, 1.1 Inch Span, Trailer Combination Lock",
     "type": "candidate",
@@ -22503,6 +22492,17 @@
     "bsr": 95844,
     "image_url": "https://m.media-amazon.com/images/I/81HW6otp5NL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD787WJG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H1XJ7JWQ",
+    "title": "7&quot; Round White RV Ceiling AC Vent Covers for Newmar and Other RV 2 Pack | Rotatable Louvers Adjustable Airflow Direction, Fit",
+    "type": "candidate",
+    "score": 46.15,
+    "price": 10.49,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+a0JnrgvL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1XJ7JWQ",
     "walmart_url": null
   },
   {
