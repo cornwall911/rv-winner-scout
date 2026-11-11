@@ -1,9 +1,9 @@
 {
-  "started_at": "2026-11-10T09:04:10.142727+00:00",
-  "finished_at": "2026-11-10T11:49:21.006737+00:00",
+  "started_at": "2026-11-11T08:43:46.244082+00:00",
+  "finished_at": "2026-11-11T11:29:02.608995+00:00",
   "amazon": {
     "ok": true,
-    "products_seen": 4412,
+    "products_seen": 4357,
     "error": null
   },
   "walmart": {
