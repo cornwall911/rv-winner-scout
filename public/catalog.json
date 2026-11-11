@@ -1100,6 +1100,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJ31GH9Y",
+    "title": "Anker SOLIX C2000 Gen 2 Solar Powered Generator&amp;400W Bifacial Panel, 2048Wh",
+    "type": "winner",
+    "score": 83.4,
+    "price": 1449.99,
+    "bsr": 4668,
+    "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDY23WVV",
     "title": "2027 New Wall Mounted Air Conditioner, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating Wall AC Unit with Remote, Quiet O",
     "type": "winner",
@@ -2208,17 +2219,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71nJeWSweFL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHRNLSZZ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJ31GH9Y",
-    "title": "Anker SOLIX C2000 Gen 2 Solar Powered Generator&amp;400W Bifacial Panel, 2048Wh",
-    "type": "should_test",
-    "score": 79.6,
-    "price": 1449.99,
-    "bsr": 4198,
-    "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
     "walmart_url": null
   },
   {
@@ -3421,17 +3421,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "should_test",
-    "score": 76.25,
-    "price": 949.0,
-    "bsr": 2063,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GYVSHS5R",
     "title": "PAULINN RV Screen Door Protector for Dogs, Adjusts from 16.5 to 30.5 inch, Adjustable Camper Screen Door Guard w/Screw Mount,",
     "type": "should_test",
@@ -3484,6 +3473,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81udknamjuL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GSVYK7MG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "should_test",
+    "score": 76.0,
+    "price": 949.0,
+    "bsr": 2904,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -4309,6 +4309,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81ImZI0FfgL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4VCJJ4W",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HH9BYJBB",
+    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
+    "type": "should_test",
+    "score": 73.0,
+    "price": 64.99,
+    "bsr": 3639,
+    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
@@ -5494,7 +5505,7 @@
     "type": "should_test",
     "score": 68.75,
     "price": 399.99,
-    "bsr": 3178,
+    "bsr": 3401,
     "image_url": "https://m.media-amazon.com/images/I/61WdUZq1WgL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
     "walmart_url": null
@@ -6773,17 +6784,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FAPsCFJvL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5CFJ4M4",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HH9BYJBB",
-    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
-    "type": "should_test",
-    "score": 65.25,
-    "price": 64.99,
-    "bsr": 2848,
-    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
@@ -26917,17 +26917,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HPBDYFRN",
-    "title": "USB Hand Crank for charger Portable Generator for Mobile Phone (Blue)",
-    "type": "candidate",
-    "score": 39.75,
-    "price": 6.8,
-    "bsr": 4569,
-    "image_url": "https://m.media-amazon.com/images/I/5148gZCi2-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HPBDYFRN",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H713BTZD",
     "title": "Avenuebool Locking Camper Door Latch with Keys, Fits RVs &amp; Trailers, White | Pop-Up Camper Door Lock for Entry &amp; Screen Door,",
     "type": "candidate",
@@ -27475,6 +27464,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41Bgeef9nuL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H45T5BBJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HPBDYFRN",
+    "title": "USB Hand Crank for charger Portable Generator for Mobile Phone (Blue)",
+    "type": "candidate",
+    "score": 38.75,
+    "price": 6.8,
+    "bsr": 2193,
+    "image_url": "https://m.media-amazon.com/images/I/5148gZCi2-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HPBDYFRN",
     "walmart_url": null
   },
   {
