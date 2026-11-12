@@ -1683,17 +1683,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFJJJ4J2",
-    "title": "Magnetic RV Insulated Door Cover for Winter, Curtain Size 30&#x27;&#x27; x 75&#x27;&#x27; | Upgraded Aluminum-Coated Insulation, Reinforced Wear-",
-    "type": "winner",
-    "score": 81.65,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81u7hbFa03L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFJJJ4J2",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H2YYKNGW",
     "title": "220W Power Inverter Compatible with DeWALT 20V MAX Batteries",
     "type": "winner",
@@ -1867,6 +1856,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51FhXyxFjxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQCYSHQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFJJJ4J2",
+    "title": "Magnetic RV Insulated Door Cover for Winter, Curtain Size 30&#x27;&#x27; x 75&#x27;&#x27;",
+    "type": "winner",
+    "score": 80.75,
+    "price": 29.99,
+    "bsr": 19403,
+    "image_url": "https://m.media-amazon.com/images/I/81u7hbFa03L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFJJJ4J2",
     "walmart_url": null
   },
   {
@@ -3399,6 +3399,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC6RZBXL",
+    "title": "AP1000 1800W Portable Power Station with 200W Solar Panel",
+    "type": "should_test",
+    "score": 76.25,
+    "price": 619.99,
+    "bsr": 18572,
+    "image_url": "https://m.media-amazon.com/images/I/81E+vmbIRJL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6RZBXL",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HBB6CKNY",
     "title": "INVOTEK 80 x 33&quot; RV Door Cover, Magnetic RV Door Insulated Cover for Winter | Side Opening, Magnetic RV Thermal Insulated Doo",
     "type": "should_test",
@@ -3495,17 +3506,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/719DH1JvFRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2PDBV1B",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H1GCCH84",
-    "title": "Plastic Ventilated Mattress Underlay Pad for RV, Camper &amp; Boat",
-    "type": "should_test",
-    "score": 76.0,
-    "price": 35.14,
-    "bsr": 21725,
-    "image_url": "https://m.media-amazon.com/images/I/81mwneSioeL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1GCCH84",
     "walmart_url": null
   },
   {
@@ -4144,17 +4144,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lWMprlVlL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8SPMDMZ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC6RZBXL",
-    "title": "CTOLITY AP1000 1800W Portable Power Station with 200W Solar Panel | 1024Wh LiFePO4 Battery, Peak 3600W,1 Hr Fast Charge, &lt;20m",
-    "type": "should_test",
-    "score": 74.0,
-    "price": 619.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81E+vmbIRJL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6RZBXL",
     "walmart_url": null
   },
   {
@@ -5189,6 +5178,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81-wpypYixL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9XTCRTB",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H1GCCH84",
+    "title": "Plastic Ventilated Mattress Underlay Pad for RV, Camper &amp; Boat",
+    "type": "should_test",
+    "score": 69.95,
+    "price": 35.14,
+    "bsr": 19057,
+    "image_url": "https://m.media-amazon.com/images/I/81mwneSioeL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1GCCH84",
     "walmart_url": null
   },
   {
@@ -6457,17 +6457,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFHQFRGJ",
-    "title": "2-Pack Magnetic Solar Light Outdoor, 176LED Motion Sensor RV Light Exterior",
-    "type": "should_test",
-    "score": 66.2,
-    "price": 28.49,
-    "bsr": 22270,
-    "image_url": "https://m.media-amazon.com/images/I/71O882XECOL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFHQFRGJ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H3DY2D5B",
     "title": "Portable Shower Pan, 40&quot;x40&quot;x6&quot; Foldable Shower Base &amp; Basin Floor with Detachable Drain Pipe - Camp Shower Base for RV, Beac",
     "type": "should_test",
@@ -7510,6 +7499,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/712D5+sL1RL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF742WJX",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H87BQ6LR",
+    "title": "DIY Cut Insulated RV Skirting, Fits 5th Wheel &amp; Trailers 18m/59ft",
+    "type": "should_test",
+    "score": 63.75,
+    "price": 188.0,
+    "bsr": 19027,
+    "image_url": "https://m.media-amazon.com/images/I/71dIMaeblML.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H87BQ6LR",
     "walmart_url": null
   },
   {
@@ -9336,17 +9336,6 @@
     "bsr": 21011,
     "image_url": "https://m.media-amazon.com/images/I/61LCcvlDnRL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4GL3TWC",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H87BQ6LR",
-    "title": "Camper Skirting for Winter, RV &amp; Trailer Winter Skirt,30m/98ft | 10M Hook‑and‑Loop Tape",
-    "type": "should_test",
-    "score": 60.25,
-    "price": 308.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sil0IkPSL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H87BQ6LR",
     "walmart_url": null
   },
   {
@@ -12980,6 +12969,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HFHQFRGJ",
+    "title": "2-Pack Magnetic Solar Light Outdoor, 176LED Motion Sensor RV Light Exterior",
+    "type": "candidate",
+    "score": 62.75,
+    "price": 28.49,
+    "bsr": 19116,
+    "image_url": "https://m.media-amazon.com/images/I/71O882XECOL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFHQFRGJ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCYHG4LJ",
     "title": "Magnetic RV Solar Lights Outdoor with Motion Sensor, IP65 Waterproof , 2PCS | RV Camper Accessories | RV Outside Lights Awnin",
     "type": "candidate",
@@ -14432,17 +14432,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBN835N5",
-    "title": "Collapsible Wash Basin with Drain Plug, 2.4Gal/9L Foldable Dish Tub",
-    "type": "candidate",
-    "score": 56.0,
-    "price": 13.95,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/51gyQi4e37L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBN835N5",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HN4HMK5Q",
     "title": "Double Sided Magnetic Glass Cleaner with Extension Handle，1",
     "type": "candidate",
@@ -15089,6 +15078,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MVBF+KHkL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCNDD18L",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBN835N5",
+    "title": "Collapsible Wash Basin with Drain Plug, 2.4Gal/9L Foldable Dish Tub",
+    "type": "candidate",
+    "score": 54.75,
+    "price": 13.95,
+    "bsr": 18590,
+    "image_url": "https://m.media-amazon.com/images/I/51gyQi4e37L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBN835N5",
     "walmart_url": null
   },
   {
