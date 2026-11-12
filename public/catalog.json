@@ -2106,7 +2106,7 @@
     "type": "winner",
     "score": 80.0,
     "price": 25.56,
-    "bsr": 20634,
+    "bsr": 17522,
     "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
     "walmart_url": null
@@ -11429,17 +11429,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H4GLB7SP",
-    "title": "RV-Mattress 10 Inch Short-Queen Foam with Cooling Gel Memory for RV",
-    "type": "should_test",
-    "score": 55.75,
-    "price": 332.49,
-    "bsr": 24277,
-    "image_url": "https://m.media-amazon.com/images/I/81NN-sg6+AL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4GLB7SP",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HM7QPM3Q",
     "title": "RV Roof Cover Oxford Cloth Waterproof Camper Cover，Black：31.5 ft",
     "type": "should_test",
@@ -12903,17 +12892,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJLXKRBT",
-    "title": "8Pcs Car Camera Cover, Backup Camera Rain Shield, Rear View Lens Protector",
-    "type": "candidate",
-    "score": 63.75,
-    "price": 8.59,
-    "bsr": 10515,
-    "image_url": "https://m.media-amazon.com/images/I/7148yYD2lmL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJLXKRBT",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJM22LT2",
     "title": "4 PCS Backup Camera Rain Hood Cover for Outdoor Parking (Black)",
     "type": "candidate",
@@ -13439,6 +13417,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71RBE2bUO2L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ7LLN5K",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJLXKRBT",
+    "title": "8Pcs Car Camera Cover, Backup Camera Rain Shield, Rear View Lens Protector",
+    "type": "candidate",
+    "score": 60.4,
+    "price": 8.99,
+    "bsr": 9551,
+    "image_url": "https://m.media-amazon.com/images/I/7148yYD2lmL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJLXKRBT",
     "walmart_url": null
   },
   {
@@ -15815,6 +15804,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/716qEK9+KrL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNK7WNW4",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H4GLB7SP",
+    "title": "RV-Mattress 10 Inch Short-Queen Foam with Cooling Gel Memory for RV",
+    "type": "candidate",
+    "score": 53.5,
+    "price": 349.99,
+    "bsr": 16682,
+    "image_url": "https://m.media-amazon.com/images/I/81NN-sg6+AL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4GLB7SP",
     "walmart_url": null
   },
   {
@@ -24480,7 +24480,7 @@
     "type": "candidate",
     "score": 44.0,
     "price": 169.98,
-    "bsr": 19471,
+    "bsr": 17195,
     "image_url": "https://m.media-amazon.com/images/I/61i5Upo3vPL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBR46KL5",
     "walmart_url": null
@@ -25011,17 +25011,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61h9y8Bcl2L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8WVYKMZ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9YZXF58",
-    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
-    "type": "candidate",
-    "score": 43.4,
-    "price": 6.99,
-    "bsr": 17299,
-    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
     "walmart_url": null
   },
   {
@@ -28663,6 +28652,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/91HmpTgw2ML._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8QN3GQS",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H9YZXF58",
+    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
+    "type": "candidate",
+    "score": 36.75,
+    "price": 6.99,
+    "bsr": 16903,
+    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
     "walmart_url": null
   },
   {
