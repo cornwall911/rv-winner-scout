@@ -418,17 +418,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF7XD1XC",
-    "title": "1296P HD 7.2&#x27;&#x27; Magnetic Wireless Backup Camera for Trucks Clear Day &amp; Night",
-    "type": "winner",
-    "score": 89.3,
-    "price": 109.98,
-    "bsr": 11412,
-    "image_url": "https://m.media-amazon.com/images/I/81T7qlyeXoL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF7XD1XC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H45FXY1V",
     "title": "ZEROXCLUB 3 CAM 7&quot; Touchscreen Magentic Solar Wireless Backup Camera | 1 Rear View Camera 2 Side View Cameras Wireless Solar",
     "type": "winner",
@@ -437,6 +426,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81uvHnbnJ2L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H45FXY1V",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF7XD1XC",
+    "title": "1296P HD 7.2&#x27;&#x27; Magnetic Wireless Backup Camera for Trucks Clear Day &amp; Night",
+    "type": "winner",
+    "score": 89.25,
+    "price": 109.98,
+    "bsr": 9302,
+    "image_url": "https://m.media-amazon.com/images/I/81T7qlyeXoL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF7XD1XC",
     "walmart_url": null
   },
   {
@@ -8624,6 +8624,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJ1CH8Y8",
+    "title": "4-in-1 RV Accessories Gas Detector,Hardwired 12V DC for Motorhome Travel Trailer, Motor Coach, Truck Camper",
+    "type": "should_test",
+    "score": 61.9,
+    "price": 69.99,
+    "bsr": 6428,
+    "image_url": "https://m.media-amazon.com/images/I/61++m0b1ViL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ1CH8Y8",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5PFKY2H",
     "title": "Hitch Holder for Truck Bed， 2-inch Trailer Hitch Storage,Black Hitch Mount",
     "type": "should_test",
@@ -10642,7 +10653,7 @@
     "type": "should_test",
     "score": 57.0,
     "price": 24.99,
-    "bsr": 8109,
+    "bsr": 8205,
     "image_url": "https://m.media-amazon.com/images/I/71xMZH2s0qL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDHM6XDG",
     "walmart_url": null
@@ -12078,17 +12089,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ1CH8Y8",
-    "title": "4-in-1 RV Accessories Gas Detector,Hardwired 12V DC for Motorhome Travel Trailer, Motor Coach, Truck Camper",
-    "type": "should_test",
-    "score": 54.0,
-    "price": 69.99,
-    "bsr": 5768,
-    "image_url": "https://m.media-amazon.com/images/I/61++m0b1ViL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ1CH8Y8",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H2MJL9WQ",
     "title": "Zahawn 2.5 to 2 Inch Hitch Reducer Ford F250 F350 F450 F550 with Lock Pin | 2-1/2&quot; to 2&quot; Trailer Receiver Adapter, 2.5 to 2 i",
     "type": "should_test",
@@ -13035,6 +13035,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H93H2R8P",
+    "title": "Backup Camera Rain Shield with 2PCS Clear Car Camera Lens Protector",
+    "type": "candidate",
+    "score": 62.6,
+    "price": 5.99,
+    "bsr": 9191,
+    "image_url": "https://m.media-amazon.com/images/I/61nn9oFFkkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H93H2R8P",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJNCTYSY",
     "title": "Rearview Camera Rain Guard for Car, Adhesive Backed Waterproof Lens Shield | Curved Black PVC Canopy Universal Car Backup Cam",
     "type": "candidate",
@@ -13054,17 +13065,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/710PKWDYOqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8J84XDG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H93H2R8P",
-    "title": "Backup Camera Rain Shield with 2PCS Clear Car Camera Lens Protector",
-    "type": "candidate",
-    "score": 62.4,
-    "price": 5.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61nn9oFFkkL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H93H2R8P",
     "walmart_url": null
   },
   {
@@ -13486,6 +13486,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7C349DW",
+    "title": "368 LED Magnetic Solar Lights Outdoor Waterproof with Motion Sensor",
+    "type": "candidate",
+    "score": 60.2,
+    "price": 30.99,
+    "bsr": 7511,
+    "image_url": "https://m.media-amazon.com/images/I/71v2MkvC6BL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7C349DW",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJM1K1Q9",
     "title": "4Pcs Backup Camera Rain Hood Cover with Curved | Waterproof Rear View Camera Rain Shield Cover, Adhesive-Backed Rear Cover, C",
     "type": "candidate",
@@ -13527,17 +13538,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/91raZwPBnGL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBBH8BVD",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7C349DW",
-    "title": "368 LED Magnetic Solar Lights Outdoor Waterproof with Motion Sensor",
-    "type": "candidate",
-    "score": 59.8,
-    "price": 30.99,
-    "bsr": 8605,
-    "image_url": "https://m.media-amazon.com/images/I/71v2MkvC6BL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7C349DW",
     "walmart_url": null
   },
   {
@@ -21890,6 +21890,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HD6NRXBB",
+    "title": "20A 125V AC Port Plug,12AWG Heavy-Duty RV Shore Power Inlet Plug with 5-in-1 T-Blade Adapter &amp; 3FT Extension Cord,Waterproof AC Power Inlet Socket Outlet Box Integrated Outdoor Electrical Receptacle",
+    "type": "candidate",
+    "score": 47.0,
+    "price": 21.99,
+    "bsr": 15866,
+    "image_url": "https://m.media-amazon.com/images/I/71g59vpac2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HD6NRXBB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HG4FZ6DN",
     "title": "BBTO RV Water Inlet Funnel 4.72 Inch Wide Mouth Fresh Water Filler, White | Travel Trailer Essentials Accessories, Quick Fill",
     "type": "candidate",
@@ -23237,7 +23248,7 @@
     "type": "candidate",
     "score": 45.3,
     "price": 37.99,
-    "bsr": 6347,
+    "bsr": 8187,
     "image_url": "https://m.media-amazon.com/images/I/61O2dT0Lc-L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMH1V3DX",
     "walmart_url": null
@@ -25146,17 +25157,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H5SDY31C",
-    "title": "Shackle Hitch Receiver 2&quot; Inch Receivers for Vehicle Recovery, Black",
-    "type": "candidate",
-    "score": 43.25,
-    "price": 29.99,
-    "bsr": 14851,
-    "image_url": "https://m.media-amazon.com/images/I/71FpvMSve4L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5SDY31C",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HG56H6BD",
     "title": "AMSPRAC 418203 RV Awning Drive Head Gear Pack for 373566 266149 | 12-Tooth Power Awning Motor Gear Replacement, RV Camper Awn",
     "type": "candidate",
@@ -25407,6 +25407,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51K2YRP3r0L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4FJZDH4",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5SDY31C",
+    "title": "Shackle Hitch Receiver 2&quot; Inch Receivers for Vehicle Recovery, Black",
+    "type": "candidate",
+    "score": 42.5,
+    "price": 29.99,
+    "bsr": 15490,
+    "image_url": "https://m.media-amazon.com/images/I/71FpvMSve4L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5SDY31C",
     "walmart_url": null
   },
   {
@@ -26983,6 +26994,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H2914TR9",
+    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
+    "type": "candidate",
+    "score": 40.05,
+    "price": 5.49,
+    "bsr": 8059,
+    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6M9PK69",
     "title": "Drive Shaft Head Compatible with Lippert Solera 12V 18V Power Awning RV | Replace LC93FR LC273478",
     "type": "candidate",
@@ -27038,17 +27060,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HC8RYH83",
-    "title": "Hand Crank Phone for charger 2-Pack USB Manual Generator Hand",
-    "type": "candidate",
-    "score": 40.0,
-    "price": 11.49,
-    "bsr": 5946,
-    "image_url": "https://m.media-amazon.com/images/I/51Eq7YfhiqL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC8RYH83",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HLN6BY37",
     "title": "VEVOR 50 20 Amp RV Temporary Power Outlet Box Electrical Panel with Breaker",
     "type": "candidate",
@@ -27068,6 +27079,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51p3f00M-bL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6LRYWFP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC8RYH83",
+    "title": "Hand Crank Phone for charger 2-Pack USB Manual Generator Hand",
+    "type": "candidate",
+    "score": 39.75,
+    "price": 11.49,
+    "bsr": 7250,
+    "image_url": "https://m.media-amazon.com/images/I/51Eq7YfhiqL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC8RYH83",
     "walmart_url": null
   },
   {
@@ -27255,17 +27277,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/8199FYArasL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HB4MX3ZN",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H2914TR9",
-    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
-    "type": "candidate",
-    "score": 39.7,
-    "price": 5.49,
-    "bsr": 7501,
-    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
     "walmart_url": null
   },
   {
@@ -32755,6 +32766,17 @@
     "bsr": 7742,
     "image_url": "https://m.media-amazon.com/images/I/71eWdPQFoQL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5L32PR9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5KMD2R9",
+    "title": "G368 RV Keys, 3 Pack Precut Replacement Keys",
+    "type": "candidate",
+    "score": 25.25,
+    "price": 14.99,
+    "bsr": 8290,
+    "image_url": "https://m.media-amazon.com/images/I/71rVVihAJkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5KMD2R9",
     "walmart_url": null
   },
   {
