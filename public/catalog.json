@@ -473,17 +473,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H98QYNMZ",
-    "title": "12V RV Air Conditioner with Heat 11000 BTU Cooling &amp; 3500 BTU Heating, Low Profile Rooftop AC Unit for Off-Grid Campers Van Life Boats Trailers,Fast Cooling Quiet Operation Solar &amp; Battery Powered",
-    "type": "winner",
-    "score": 89.2,
-    "price": 509.0,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/6191LRYbfEL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H98QYNMZ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HKV9MTW2",
     "title": "VEVOR Diesel Heater DC 12-24V 2.38 Gal / 9 L Fuel Tank Diesel Air Heater | For Outdoor Camping, Aluminum Element Fast Heating",
     "type": "winner",
@@ -1306,6 +1295,17 @@
     "bsr": 48433,
     "image_url": "https://m.media-amazon.com/images/I/71OpvccDtBL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5VHNBQK",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HQBRYX93",
+    "title": "Kohree 14&quot; RV Vent Fan, 12V for Camper Vent Trailer, Blue",
+    "type": "winner",
+    "score": 82.75,
+    "price": 138.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61X9mzNNAvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQBRYX93",
     "walmart_url": null
   },
   {
@@ -5313,6 +5313,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H98QYNMZ",
+    "title": "12V RV Air Conditioner with Heat 11000 BTU Cooling &amp; 3500 BTU Heating, Low Profile Rooftop AC Unit for Off-Grid Campers Van L",
+    "type": "should_test",
+    "score": 69.25,
+    "price": 509.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6191LRYbfEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H98QYNMZ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6F2MNVW",
     "title": "GRIZZEX Hitch Tightener Anti Rattle Stabilizer for 1.25&quot; to 2&quot; Hitch | Heavy-Duty Steel Hitch Stabilizer for Trailer Hitch Re",
     "type": "should_test",
@@ -8027,17 +8038,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71bx2ThFjhL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H358JXY6",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HDNXGCL3",
-    "title": "Window Vent Duct Adapter Compatible with EcoFlow Wave 2 Wave 3",
-    "type": "should_test",
-    "score": 62.55,
-    "price": 59.99,
-    "bsr": 382063,
-    "image_url": "https://m.media-amazon.com/images/I/61AKRx-k5pL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDNXGCL3",
     "walmart_url": null
   },
   {
@@ -12199,17 +12199,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HK4VBV2B",
-    "title": "DFMDH35111 RV Propane Furnace 35000 BTU 12V Camper Trailer Motorhome",
-    "type": "should_test",
-    "score": 53.5,
-    "price": 729.95,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71KPiWPRSWL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HK4VBV2B",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5C5XR16",
     "title": "FOGATTI RV Furnace Core 35K BTU Quiet -Compatible with SF-xxFQ/Q Series",
     "type": "should_test",
@@ -12295,6 +12284,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/615flw99M-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHF1Y67F",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HK4VBV2B",
+    "title": "DFMDH35111 RV Propane Furnace 35000 BTU 12V Camper Trailer Motorhome",
+    "type": "should_test",
+    "score": 53.0,
+    "price": 729.95,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71KPiWPRSWL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HK4VBV2B",
     "walmart_url": null
   },
   {
@@ -13948,6 +13948,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7BLJ7J5",
+    "title": "14 Inch RV Roof Vent Cover Replacement Lid, No Drill, Low Profile, White | Low-profile replacement lid with continuous hinge.",
+    "type": "candidate",
+    "score": 57.75,
+    "price": 39.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ZEwWR6ToL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7BLJ7J5",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H2F7LZ9X",
     "title": "Trailer Hitch Lock with Keys,Universal 1-7/8&quot;,2&quot;,2-5/16&quot;Trailer Tongue Lock | Heavy-Duty Adjustable Steel Ball Hitch Coupler",
     "type": "candidate",
@@ -14110,17 +14121,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Za1lYi-+L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGG5J8TG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7BLJ7J5",
-    "title": "14 Inch RV Roof Vent Cover Replacement Lid, No Drill, Low Profile, White | Low-profile replacement lid with continuous hinge.",
-    "type": "candidate",
-    "score": 56.9,
-    "price": 39.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ZEwWR6ToL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7BLJ7J5",
     "walmart_url": null
   },
   {
@@ -17017,6 +17017,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDNXGCL3",
+    "title": "Window Vent Duct Adapter Compatible with EcoFlow Wave 2 Wave 3",
+    "type": "candidate",
+    "score": 51.6,
+    "price": 54.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61AKRx-k5pL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDNXGCL3",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HMJ52324",
     "title": "Rv Rear Door Sunshade Cover 71x45 Inch Black Oxford Cloth | Diamond Check Pattern, Elastic Band and Four Clips, Portable Stor",
     "type": "candidate",
@@ -19305,6 +19316,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCZDK7VH",
+    "title": "2PCS 12V RV Side Air Vent Fan Cooling Exhaust for Trailer Boat Marine Yacht | 15W Air Vent Ventilation Exhaust Fan, Black RV",
+    "type": "candidate",
+    "score": 49.25,
+    "price": 34.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61EWHDux5EL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCZDK7VH",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6Q6TZLH",
     "title": "[100% Solid Brass] BlueStars 100 lb Propane Tank Adapter POL Propane Gauge",
     "type": "candidate",
@@ -21296,17 +21318,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCZDK7VH",
-    "title": "2PCS 12V RV Side Air Vent Fan Cooling Exhaust for Trailer Boat Marine Yacht | 15W Air Vent Ventilation Exhaust Fan, Black RV",
-    "type": "candidate",
-    "score": 47.5,
-    "price": 34.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61EWHDux5EL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCZDK7VH",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBQQYH5Y",
     "title": "RV Air Vent Cover with Adjustable Airflow Damper 11.8 x 3.5 Inch (1pcs) | Sliding damper control, Durable plastic constructio",
     "type": "candidate",
@@ -22726,14 +22737,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H1XJ7JWQ",
-    "title": "7&quot; Round White RV Ceiling AC Vent Covers for Newmar and Other RV 2 Pack | Rotatable Louvers Adjustable Airflow Direction, Fit",
+    "asin": "B0H8F5ZV3Y",
+    "title": "RV Floor Vent Cover 2 Pack, Magnetic RV Vent Register 2&quot;x10&quot; Aluminum Removable Camper Trailer Floor Vent with Magnetic Pull",
     "type": "candidate",
     "score": 46.15,
-    "price": 10.49,
+    "price": 31.99,
     "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+a0JnrgvL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1XJ7JWQ",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710CE0T5KTL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8F5ZV3Y",
     "walmart_url": null
   },
   {
@@ -22954,6 +22965,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/51gAdqkYVWL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFRHJ63S",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H1XJ7JWQ",
+    "title": "7&quot; Round White RV Ceiling AC Vent Covers for Newmar and Other RV 2 Pack | Rotatable Louvers Adjustable Airflow Direction, Fit",
+    "type": "candidate",
+    "score": 45.9,
+    "price": 10.49,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+a0JnrgvL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1XJ7JWQ",
     "walmart_url": null
   },
   {
@@ -23933,17 +23955,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81E+vtYrb8L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHFFDX7S",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8F5ZV3Y",
-    "title": "RV Floor Vent Cover 2 Pack, Magnetic RV Vent Register 2&quot;x10&quot; Aluminum Removable Camper Trailer Floor Vent with Magnetic Pull",
-    "type": "candidate",
-    "score": 44.65,
-    "price": 31.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710CE0T5KTL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8F5ZV3Y",
     "walmart_url": null
   },
   {
@@ -25751,17 +25762,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HG13D3MX",
-    "title": "Spqnzon 3313107.015 RV AC Condenser Fan Blade for Dometic | Fits Duo-Therm Brisk Air Series, Replaces 3107914.008, 317937.000",
-    "type": "candidate",
-    "score": 42.45,
-    "price": 14.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qlPVXhShL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HDCRN6LJ",
     "title": "Black Gravity Plastic City Water Tank Inlet Hatch Camper Trailer RV Lock Door",
     "type": "candidate",
@@ -25963,7 +25963,7 @@
     "asin": "B0HG1KLMBW",
     "title": "400W Boat Engine Compartment Heater, Bilge Heater for Boats | Automatic Thermostat, Self-Regulating PTC for Boats, RVs, Campe",
     "type": "candidate",
-    "score": 42.05,
+    "score": 42.0,
     "price": 139.99,
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/612wgaBot2L._AC_UL300_SR300,200_.jpg",
@@ -27049,6 +27049,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HG13D3MX",
+    "title": "Spqnzon 3313107.015 RV AC Condenser Fan Blade for Dometic | Fits Duo-Therm Brisk Air Series, Replaces 3107914.008, 317937.000",
+    "type": "candidate",
+    "score": 40.0,
+    "price": 14.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qlPVXhShL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6M9PK69",
     "title": "Drive Shaft Head Compatible with Lippert Solera 12V 18V Power Awning RV | Replace LC93FR LC273478",
     "type": "candidate",
@@ -27497,17 +27508,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41+e+swGEcL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQGQKZP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGXT5D5W",
-    "title": "seork 8 Pack Trailer Roof Vent Mounting Kit Replacement | for Maxxair 00-225000 Zero-Leak RV Roof Vent Cover Stainless Steel",
-    "type": "candidate",
-    "score": 39.5,
-    "price": 18.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I-oQQIGUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGXT5D5W",
     "walmart_url": null
   },
   {
@@ -29260,6 +29260,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGXT5D5W",
+    "title": "seork 8 Pack Trailer Roof Vent Mounting Kit Replacement | for Maxxair 00-225000 Zero-Leak RV Roof Vent Cover Stainless Steel",
+    "type": "candidate",
+    "score": 35.25,
+    "price": 18.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71I-oQQIGUL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGXT5D5W",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7W7D5JG",
     "title": "2 PCS 6 Inch Oval Trailer Tail Lights, 10 LEDs High Brightness Stop/Turn/Brake Tail Lights, Waterproof Brake Reverse LED Light for Car RV Truck Boat, Car Accessories (Red)",
     "type": "candidate",
@@ -29466,6 +29477,17 @@
     "bsr": 76128,
     "image_url": "https://m.media-amazon.com/images/I/61qJAmKabbL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCBNC17N",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBWTTGBK",
+    "title": "White 5-1/2&quot; Round Air Register with Damper, Fits 4&quot; Duct, 2&quot; Side, RV Vent",
+    "type": "candidate",
+    "score": 35.0,
+    "price": 11.69,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61j4+KYkkAL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBWTTGBK",
     "walmart_url": null
   },
   {
@@ -29961,17 +29983,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71e2DP4XbVL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3VRP5LY",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBWTTGBK",
-    "title": "White 5-1/2&quot; Round Air Register with Damper, Fits 4&quot; Duct, 2&quot; Side, RV Vent",
-    "type": "candidate",
-    "score": 33.75,
-    "price": 11.69,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61j4+KYkkAL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBWTTGBK",
     "walmart_url": null
   },
   {
@@ -33176,6 +33187,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HG24Z6WF",
+    "title": "2-Pack Rear Cab Vent Louvers Compatible with Ram 1500 2500 3500, Replacement for 683236494AB",
+    "type": "candidate",
+    "score": 21.25,
+    "price": 22.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61hQ-jhAayL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG24Z6WF",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8C8F3DF",
     "title": "Refrigerator Inverter Board W10133449 W10629033 Replacement",
     "type": "candidate",
@@ -33217,17 +33239,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71LD1-uBYoL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDJ6SGJ5",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HG24Z6WF",
-    "title": "2-Pack Rear Cab Vent Louvers Compatible with Ram 1500 2500 3500, Replacement for 683236494AB",
-    "type": "candidate",
-    "score": 19.5,
-    "price": 22.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61hQ-jhAayL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG24Z6WF",
     "walmart_url": null
   },
   {
