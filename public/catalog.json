@@ -1930,7 +1930,7 @@
     "type": "winner",
     "score": 80.75,
     "price": 29.99,
-    "bsr": 19403,
+    "bsr": 19012,
     "image_url": "https://m.media-amazon.com/images/I/81u7hbFa03L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFJJJ4J2",
     "walmart_url": null
@@ -17468,17 +17468,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6ZRC9MR",
-    "title": "Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black)",
-    "type": "candidate",
-    "score": 51.5,
-    "price": 26.99,
-    "bsr": 19966,
-    "image_url": "https://m.media-amazon.com/images/I/71BZEMfAKUL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HDBBQCMN",
     "title": "RV External Shower Hose,15FT Retractable Shower Hose for RV Outdoor Shower | RV outdoor shower hose with multi‑mode nozzle, i",
     "type": "candidate",
@@ -18169,6 +18158,17 @@
     "bsr": 17513,
     "image_url": "https://m.media-amazon.com/images/I/712PUISic9L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGL6RYTH",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6ZRC9MR",
+    "title": "Aluminum RV Power Cord Hatch Cover Rubber Cable Access (Black)",
+    "type": "candidate",
+    "score": 50.55,
+    "price": 26.99,
+    "bsr": 18812,
+    "image_url": "https://m.media-amazon.com/images/I/71BZEMfAKUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6ZRC9MR",
     "walmart_url": null
   },
   {
