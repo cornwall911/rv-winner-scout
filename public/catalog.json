@@ -1303,7 +1303,7 @@
     "type": "winner",
     "score": 82.75,
     "price": 1449.99,
-    "bsr": 3602,
+    "bsr": 3685,
     "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
     "walmart_url": null
@@ -28017,6 +28017,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HPBDYFRN",
+    "title": "USB Hand Crank for charger Portable Generator for Mobile Phone (Blue)",
+    "type": "candidate",
+    "score": 39.25,
+    "price": 6.8,
+    "bsr": 1581,
+    "image_url": "https://m.media-amazon.com/images/I/5148gZCi2-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HPBDYFRN",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H25RGTWG",
     "title": "BSYXJWX 7&quot; Round RV AC Ceiling Vent Cover,Rotatable Louver Grille White | Fits RVs, Campers, and Trailers Vents Minimalist Ae",
     "type": "candidate",
@@ -28729,17 +28740,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ZT408L3+L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFX6SGZD",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HPBDYFRN",
-    "title": "USB Hand Crank for charger Portable Generator for Mobile Phone (Blue)",
-    "type": "candidate",
-    "score": 37.5,
-    "price": 6.8,
-    "bsr": 2572,
-    "image_url": "https://m.media-amazon.com/images/I/5148gZCi2-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HPBDYFRN",
     "walmart_url": null
   },
   {
