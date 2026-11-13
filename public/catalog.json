@@ -616,17 +616,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HC5VTXFB",
-    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
-    "type": "winner",
-    "score": 88.65,
-    "price": 129.99,
-    "bsr": 4183,
-    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H3T497ZD",
     "title": "VEKOOTO KS7Pro Magnetic Solar Wireless Backup Camera, 7 Inch Monitor | License Plate Mount in 3 Minutes, 5000 mAh Battery, IP",
     "type": "winner",
@@ -646,6 +635,17 @@
     "bsr": 11383,
     "image_url": "https://m.media-amazon.com/images/I/71iKDiyTIQL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQJHTCT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC5VTXFB",
+    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
+    "type": "winner",
+    "score": 88.4,
+    "price": 129.99,
+    "bsr": 4379,
+    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
     "walmart_url": null
   },
   {
@@ -1548,6 +1548,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71eC7f7XGnL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HG9T5RKN",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "winner",
+    "score": 82.1,
+    "price": 949.0,
+    "bsr": 4025,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -3025,17 +3036,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "should_test",
-    "score": 77.5,
-    "price": 949.0,
-    "bsr": 3588,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H1GYXTF6",
     "title": "RV Exterior Sprayer Kit Without Port, 16.4FT Coiled Water Hose with 8-Pattern Sprayer &amp; GHT 3/4&quot; Quick Connect Adapter,Waterproof Bag Anti-Kink Coil Hose",
     "type": "should_test",
@@ -4323,6 +4323,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HH9BYJBB",
+    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
+    "type": "should_test",
+    "score": 73.25,
+    "price": 64.99,
+    "bsr": 3540,
+    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HLCYKGVW",
     "title": "Power Station with 15V 400A Automobile Charging Cable, 1800W",
     "type": "should_test",
@@ -4518,17 +4529,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/715PVROzCCL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNTF86D5",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0GXXZT82D",
-    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
-    "type": "should_test",
-    "score": 72.5,
-    "price": 274.0,
-    "bsr": 5671,
-    "image_url": "https://m.media-amazon.com/images/I/71Mt5sMDnLL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
     "walmart_url": null
   },
   {
@@ -6259,6 +6259,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0GXXZT82D",
+    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
+    "type": "should_test",
+    "score": 67.1,
+    "price": 274.0,
+    "bsr": 4714,
+    "image_url": "https://m.media-amazon.com/images/I/71Mt5sMDnLL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H454FKT8",
     "title": "ARKOVEX RV Exhaust Vent Fan, 12V 2.4W Silent Wind Ventilation Side Wall Fan Upgraded Kit for Camper, Caravan, Motorhome, Trai",
     "type": "should_test",
@@ -6633,6 +6644,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H98TT1MN",
+    "title": "PowerSmart 3800 Watt Portable Inverter Generator for Home Use",
+    "type": "should_test",
+    "score": 66.0,
+    "price": 399.99,
+    "bsr": 3836,
+    "image_url": "https://m.media-amazon.com/images/I/61WdUZq1WgL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZ2P3FMV",
     "title": "5.3 Gallon Portable Toilet for Camping, with Detachable Tank, Ideal for Boat, Truck &amp; RV Use, Gray",
     "type": "should_test",
@@ -6776,17 +6798,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H98TT1MN",
-    "title": "PowerSmart 3800 Watt Portable Inverter Generator for Home Use",
-    "type": "should_test",
-    "score": 65.5,
-    "price": 399.99,
-    "bsr": 3203,
-    "image_url": "https://m.media-amazon.com/images/I/61WdUZq1WgL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GZNRBQ4L",
     "title": "VEVOR RV Water Filter System, 5-Micron 3 Stage Premium RV Water Filtration System with Three Cartridges and 3/4&quot; Fitting for",
     "type": "should_test",
@@ -6817,17 +6828,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xE2OhLJmL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6KWSBTT",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HH9BYJBB",
-    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
-    "type": "should_test",
-    "score": 65.25,
-    "price": 64.99,
-    "bsr": 3461,
-    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
@@ -11335,7 +11335,7 @@
     "type": "should_test",
     "score": 56.25,
     "price": 116.99,
-    "bsr": 4811,
+    "bsr": 4179,
     "image_url": "https://m.media-amazon.com/images/I/8179oU6paUL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNKC4KW8",
     "walmart_url": null
@@ -14487,17 +14487,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H5K2PSN9",
-    "title": "2026 Upgraded Heavy Duty RV Roof Cover,3000PA Waterproof Camper Top Cover with 16 Adjustable Buckles &amp; 16 Reflective Reinforcement,16ft to 44ft for Travel Trailer Pop-Up Camper",
-    "type": "candidate",
-    "score": 56.25,
-    "price": 109.99,
-    "bsr": 5456,
-    "image_url": "https://m.media-amazon.com/images/I/714zzHNeZ+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5K2PSN9",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H7QZQRG7",
     "title": "RV Dual Flag Pole Mount for 2&quot; &amp; 2-1/4&quot; Trailer Tongue Jack, 1&quot; Flagpoles | Heavy-Duty Aluminum No-Drill Flag Holder with Too",
     "type": "candidate",
@@ -16178,6 +16167,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61GFI4Kow6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2TD9N6S",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5K2PSN9",
+    "title": "2026 Upgraded Heavy Duty RV Roof Cover,3000PA Waterproof Camper Top Cover with 16 Adjustable Buckles &amp; 16 Reflective Reinforcement,16ft to 44ft for Travel Trailer Pop-Up Camper",
+    "type": "candidate",
+    "score": 53.35,
+    "price": 109.99,
+    "bsr": 5013,
+    "image_url": "https://m.media-amazon.com/images/I/714zzHNeZ+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5K2PSN9",
     "walmart_url": null
   },
   {
@@ -25685,6 +25685,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9NZNYXZ",
+    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
+    "type": "candidate",
+    "score": 42.95,
+    "price": 14.24,
+    "bsr": 5311,
+    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGRWL6L1",
     "title": "100 lb Propane Tank Cover for Outside Waterproof 1200D Double Layer Black",
     "type": "candidate",
@@ -27387,17 +27398,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+sa5QRtGL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGQBGLB9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H2914TR9",
-    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
-    "type": "candidate",
-    "score": 40.05,
-    "price": 5.49,
-    "bsr": 8059,
-    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
     "walmart_url": null
   },
   {
@@ -29598,6 +29598,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41lrhQszILL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5D7G2K8",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H2914TR9",
+    "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
+    "type": "candidate",
+    "score": 35.7,
+    "price": 5.49,
+    "bsr": 5833,
+    "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
     "walmart_url": null
   },
   {
@@ -32645,17 +32656,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71xld2K59mL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDJ5VBWB",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9NZNYXZ",
-    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
-    "type": "candidate",
-    "score": 27.95,
-    "price": 14.24,
-    "bsr": 5390,
-    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
     "walmart_url": null
   },
   {
