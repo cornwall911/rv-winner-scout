@@ -1078,6 +1078,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HB9V7Q2D",
+    "title": "INVOTEK 75 x 33&quot; RV Door Cover, Magnetic RV Door Insulated Cover for Winter | Side Opening, Magnetic RV Thermal Insulated Doo",
+    "type": "winner",
+    "score": 83.5,
+    "price": 33.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ctQfvQ8CL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB9V7Q2D",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HBWYN8WZ",
     "title": "Digital Propane Tank Warmer Blanket Fits 20 30 40LB LP Gas Cylinders",
     "type": "winner",
@@ -3605,17 +3616,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71eoavl87cL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1CWXPF4",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HB9V7Q2D",
-    "title": "75 x 33&quot; RV Door Cover, Magnetic RV Door Insulated Cover for Winter",
-    "type": "should_test",
-    "score": 75.75,
-    "price": 32.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/81ctQfvQ8CL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB9V7Q2D",
     "walmart_url": null
   },
   {
