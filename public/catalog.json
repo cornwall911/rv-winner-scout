@@ -751,7 +751,7 @@
     "asin": "B0HKV9MTW2",
     "title": "VEVOR Diesel Heater DC 12-24V 2.38 Gal / 9 L Fuel Tank Diesel Air Heater | For Outdoor Camping, Aluminum Element Fast Heating",
     "type": "winner",
-    "score": 86.8,
+    "score": 87.05,
     "price": 288.9,
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+EGDTXIHL._AC_UL300_SR300,200_.jpg",
@@ -1350,17 +1350,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eVRUtcOkL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF4HN94D",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HHY3BLNN",
-    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200 | Stop venting sewer gases into your RV! Passive",
-    "type": "winner",
-    "score": 82.65,
-    "price": 100.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
     "walmart_url": null
   },
   {
@@ -3341,6 +3330,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51Kz0pXJrCL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYBKTKC1",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHY3BLNN",
+    "title": "Exhaustrex RV Cassette Toilet Ventilation System | Fits Thetford C220, C200 | Stop venting sewer gases into your RV! Passive",
+    "type": "should_test",
+    "score": 76.5,
+    "price": 100.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71l7Lz8aQgL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHY3BLNN",
     "walmart_url": null
   },
   {
@@ -23617,6 +23617,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKFY9QRZ",
+    "title": "RV Roof Vent Operator Assembly with Knob &amp; Screws, Gray",
+    "type": "candidate",
+    "score": 45.75,
+    "price": 16.69,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61vxwRtAgqL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKFY9QRZ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H94G7P3K",
     "title": "RV Gate Valve, 3-Inch RV Waste Valve, RV Dump Valve with Bayonet Adapter | RV Black Tank Valve Fits 3 inch RV Sewer Hose Fitt",
     "type": "candidate",
@@ -27552,17 +27563,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61sAFkZOMqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8BNTV9R",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HKFY9QRZ",
-    "title": "SsllZdq RV Roof Vent Operator Assembly with Knob &amp; Screws, Gray | Replacement for Ventline Ventadome 14 x 14 Camper Trailer R",
-    "type": "candidate",
-    "score": 40.5,
-    "price": 16.69,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vxwRtAgqL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKFY9QRZ",
     "walmart_url": null
   },
   {
