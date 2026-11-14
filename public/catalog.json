@@ -99,6 +99,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC5VTXFB",
+    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
+    "type": "winner",
+    "score": 90.2,
+    "price": 129.99,
+    "bsr": 4603,
+    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJPGLTYC",
     "title": "2027 New Wall Mounted Air Conditioner, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating Wall AC Unit with Remote, Quiet O",
     "type": "winner",
@@ -624,17 +635,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61fi7kxoLoL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3T497ZD",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC5VTXFB",
-    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
-    "type": "winner",
-    "score": 88.4,
-    "price": 129.99,
-    "bsr": 4379,
-    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
     "walmart_url": null
   },
   {
@@ -1570,17 +1570,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71eC7f7XGnL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HG9T5RKN",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "winner",
-    "score": 82.1,
-    "price": 949.0,
-    "bsr": 4025,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -3146,6 +3135,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "should_test",
+    "score": 77.25,
+    "price": 949.0,
+    "bsr": 4214,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZ4DKYZF",
     "title": "RV Cable Wall Pass Through Kit for Starlink Mini, Waterproof Design | Aluminum Bulkhead Wall Socket, DC 5.5x2.1mm Female Conn",
     "type": "should_test",
@@ -4136,17 +4136,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9RWG765",
-    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
-    "type": "should_test",
-    "score": 74.15,
-    "price": 239.99,
-    "bsr": 6618,
-    "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HFZDYY6L",
     "title": "﻿Datanly 8 Pcs Heavy Duty Residue-Free Vacuum Suction Cup Hook Adhesive",
     "type": "should_test",
@@ -4356,17 +4345,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HH9BYJBB",
-    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
-    "type": "should_test",
-    "score": 73.25,
-    "price": 64.99,
-    "bsr": 3540,
-    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H94JBM34",
     "title": "NLQR RV Vent Insulator 14&quot;x14&quot;x3&quot;, 2 Pack — High-Density Memory Foam Skylight Cover with Reflective Surface &amp; Washable Zipper",
     "type": "should_test",
@@ -4408,6 +4386,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81ImZI0FfgL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4VCJJ4W",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0GXXZT82D",
+    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
+    "type": "should_test",
+    "score": 73.0,
+    "price": 274.0,
+    "bsr": 3852,
+    "image_url": "https://m.media-amazon.com/images/I/71Mt5sMDnLL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
     "walmart_url": null
   },
   {
@@ -5500,6 +5489,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9RWG765",
+    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
+    "type": "should_test",
+    "score": 69.05,
+    "price": 359.99,
+    "bsr": 6630,
+    "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFV7PYQ5",
     "title": "CTOLITY AP400 Portable Power Station, 345Wh 500W LFP Solar Generator | Backup LiFePO4 Battery, Fast Charging, with Wireless C",
     "type": "should_test",
@@ -6226,14 +6226,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0GXXZT82D",
-    "title": "AIVOLT 1750W Inverter Generator Portable Gas Generator for Camping Home",
+    "asin": "B0HH9BYJBB",
+    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
     "type": "should_test",
     "score": 67.1,
-    "price": 274.0,
-    "bsr": 4714,
-    "image_url": "https://m.media-amazon.com/images/I/71Mt5sMDnLL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GXXZT82D",
+    "price": 64.99,
+    "bsr": 3415,
+    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
@@ -12133,6 +12133,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCVBW5M1",
+    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets for RVs,R502",
+    "type": "should_test",
+    "score": 55.0,
+    "price": 52.99,
+    "bsr": 4926,
+    "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCVBW5M1",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7R169T6",
     "title": "RV Toilet Water Valve Kit for Dometic 300/301/310/311/320/321",
     "type": "should_test",
@@ -12449,17 +12460,6 @@
     "bsr": 426362,
     "image_url": "https://m.media-amazon.com/images/I/61eR3PpJvCL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5C5XR16",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCVBW5M1",
-    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets for RVs,R502",
-    "type": "should_test",
-    "score": 53.25,
-    "price": 52.99,
-    "bsr": 4153,
-    "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCVBW5M1",
     "walmart_url": null
   },
   {
@@ -14740,17 +14740,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HNKHJ7LN",
-    "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant Camper Top Cover for Travel Trailers, Class A/B/C Motorhomes, Pop-up &amp; Truck Campers, Roof-Only Protection, Fits 16-41ft RVs，Black：27.89 × 9.84 ft",
-    "type": "candidate",
-    "score": 55.75,
-    "price": 89.99,
-    "bsr": 4932,
-    "image_url": "https://m.media-amazon.com/images/I/8179oU6paUL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HNKHJ7LN",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GYD7ZFP5",
     "title": "Motorhome Shower Pipe 1.5M Anti Flexible Tubing Ergonomic Showerhead Multiple Sprayed Modes Bath Necessary ABS Shower Hose",
     "type": "candidate",
@@ -16519,6 +16508,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iR6U3Ct-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGL8D26M",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HNKHJ7LN",
+    "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant Camper Top Cover for Travel Trailers, Class A/B/C Motorhomes, Pop-up &amp; Truck Campers, Roof-Only Protection, Fits 16-41ft RVs，Black：27.89 × 9.84 ft",
+    "type": "candidate",
+    "score": 52.9,
+    "price": 93.99,
+    "bsr": 3635,
+    "image_url": "https://m.media-amazon.com/images/I/8179oU6paUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HNKHJ7LN",
     "walmart_url": null
   },
   {
@@ -24409,6 +24409,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9NZNYXZ",
+    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
+    "type": "candidate",
+    "score": 44.7,
+    "price": 14.24,
+    "bsr": 5315,
+    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDGNK98Q",
     "title": "17.5mm Backup Camera Lens Protector, 2 Pack, Anti-Fog Clear Cover",
     "type": "candidate",
@@ -25913,17 +25924,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rbkZ1wANL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H98GKCPR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9NZNYXZ",
-    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
-    "type": "candidate",
-    "score": 42.95,
-    "price": 14.24,
-    "bsr": 5311,
-    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
     "walmart_url": null
   },
   {
