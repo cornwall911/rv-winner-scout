@@ -374,17 +374,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HKZ6GS5B",
-    "title": "8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fi",
-    "type": "winner",
-    "score": 89.35,
-    "price": 102.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61-A7GZ-2XL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKZ6GS5B",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H45FXY1V",
     "title": "ZEROXCLUB 3 CAM 7&quot; Touchscreen Magentic Solar Wireless Backup Camera | 1 Rear View Camera 2 Side View Cameras Wireless Solar",
     "type": "winner",
@@ -448,6 +437,17 @@
     "bsr": 7219,
     "image_url": "https://m.media-amazon.com/images/I/710nzG257dL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC5V3KLK",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HKZ6GS5B",
+    "title": "8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fi",
+    "type": "winner",
+    "score": 89.1,
+    "price": 99.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61-A7GZ-2XL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKZ6GS5B",
     "walmart_url": null
   },
   {
@@ -12596,12 +12596,12 @@
   },
   {
     "asin": "B0HK4VBV2B",
-    "title": "DFMDH35111 RV Propane Furnace 35000 BTU 12V Camper Trailer Motorhome",
+    "title": "DFMDH35111 RV Propane Furnace 35000 BTU 12V Camper Trailer Motorhome | Doorless Design, Quiet Operation with Soft Start Techn",
     "type": "should_test",
     "score": 53.0,
     "price": 729.95,
     "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71KPiWPRSWL.jpg",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KPiWPRSWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HK4VBV2B",
     "walmart_url": null
   },
