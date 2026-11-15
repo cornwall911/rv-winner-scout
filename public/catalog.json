@@ -1474,17 +1474,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBVT555Y",
-    "title": "Lymezato RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in | Powder-Coated Iron Helps Resist Rust and Dog Scrat",
-    "type": "winner",
-    "score": 82.5,
-    "price": 36.9,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81P0gDn+eQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H1Q4CX8C",
     "title": "12V 12000 BTU Split Truck Air Conditioner, Super Quiet Fast Cooling DC Parking AC for Semi Truck, RV, Camper, Construction Ve",
     "type": "winner",
@@ -2145,6 +2134,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0GZGF2SWX",
+    "title": "Agrieyes T312C Wireless Trailer Lights w/Receiver, Magnetic Tow Light",
+    "type": "winner",
+    "score": 80.25,
+    "price": 109.99,
+    "bsr": 3145,
+    "image_url": "https://m.media-amazon.com/images/I/71Mpk7eqTRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZGF2SWX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDHXLGLS",
     "title": "RV AC Soft Starter for 13.5K-15K BTU 120V Air Conditioners, Soft Start Kit | For Campers &amp; Travel Trailers, Compatible with D",
     "type": "winner",
@@ -2560,17 +2560,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RQc+sIu1L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDT3BWWL",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0GZGF2SWX",
-    "title": "Agrieyes T312C Wireless Trailer Lights w/Receiver, Magnetic Tow Light",
-    "type": "should_test",
-    "score": 78.85,
-    "price": 109.99,
-    "bsr": 3481,
-    "image_url": "https://m.media-amazon.com/images/I/71Mpk7eqTRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZGF2SWX",
     "walmart_url": null
   },
   {
@@ -4584,6 +4573,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/715PVROzCCL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNTF86D5",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBVT555Y",
+    "title": "RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in",
+    "type": "should_test",
+    "score": 72.45,
+    "price": 36.9,
+    "bsr": 44224,
+    "image_url": "https://m.media-amazon.com/images/I/81P0gDn+eQL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
     "walmart_url": null
   },
   {
@@ -7667,6 +7667,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDLSRCFT",
+    "title": "Johorn Gooseneck Hitch Holder for Truck Bed, Hitch Storage Compatible with 2007-2026 Chevy Silverado/GMC Sierra 2500 3500 HD, Goose Neck Hitch Receiver Bracket Frame for RV, ATV, Boat, Farm &amp; Camper",
+    "type": "should_test",
+    "score": 63.65,
+    "price": 158.99,
+    "bsr": 41801,
+    "image_url": "https://m.media-amazon.com/images/I/71Qd+CzJ7tL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDLSRCFT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HLZ9B92N",
     "title": "BILT HARD 4500 Watts Gasoline Open Frame Inverter Generator | 3500 Running Watts, 4-Stroke 223 OHV Engine, Parallel-Ready Des",
     "type": "should_test",
@@ -9952,17 +9963,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Bhd0ZjJoL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0DKG254R5",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HG9GQBC9",
-    "title": "Adjustable Trailer Hitch Receiver for 2-Inch Receiver, Steel Tow Hitch Multiple Height Levels for Level Towing, Heavy-Duty Co",
-    "type": "should_test",
-    "score": 59.5,
-    "price": 49.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/517+0BRgPwL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG9GQBC9",
     "walmart_url": null
   },
   {
@@ -13244,6 +13244,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDCP8KJL",
+    "title": "Magnetic RV Solar Light with Amber Lights",
+    "type": "candidate",
+    "score": 64.35,
+    "price": 29.99,
+    "bsr": 46481,
+    "image_url": "https://m.media-amazon.com/images/I/71Wq120Z-KL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDCP8KJL",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H83XF9GN",
     "title": "Car Camera Lens Protector - 360° All-Round Protection, Anti-Scratch &amp; Waterproof, Sleek Original Design, No Drill Easy Install,Compatible with Most Vehicle Cameras (4PCS)",
     "type": "candidate",
@@ -13915,17 +13926,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HDCP8KJL",
-    "title": "Magnetic RV Solar Light with Amber Lights | 218 LED RV Light Outdoor with Motion Sense, Waterproof 3 Modes RV Porch Lights fo",
-    "type": "candidate",
-    "score": 59.5,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Wq120Z-KL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDCP8KJL",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6M764LC",
     "title": "230 LED Magnetic Solar Lights Outdoor with Motion Sensor(2 Pack) | 3 Lighting Modes, Waterproof RV Solar Lights, Strong Magne",
     "type": "candidate",
@@ -14432,17 +14432,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9LVD7GC",
-    "title": "RV Tire Covers, Dual Axle Wheel Cover (2 Packs) Fits 27-30&quot; Diameter Tires | 2 Pack",
-    "type": "candidate",
-    "score": 57.5,
-    "price": 31.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eh5Y1OV-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9LVD7GC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6NT4FNR",
     "title": "DanDee RV Hose Bag with AIR Flow System - 4-Pack (2.0) | Waterproof Material, Airflow Ventilation, Fresh Water &amp; Sewer Hose S",
     "type": "candidate",
@@ -14638,6 +14627,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61w4+r6JkNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H638Z3FV",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H9LVD7GC",
+    "title": "RV Tire Covers, Dual Axle Wheel Cover (2 Packs) Fits 27-30&quot; Diameter Tires",
+    "type": "candidate",
+    "score": 56.5,
+    "price": 31.99,
+    "bsr": 40613,
+    "image_url": "https://m.media-amazon.com/images/I/71eh5Y1OV-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9LVD7GC",
     "walmart_url": null
   },
   {
@@ -19481,6 +19481,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCYY118C",
+    "title": "RV Electric Tongue Jack Cover Large Size, Trailer Chain Holder Organizer",
+    "type": "candidate",
+    "score": 49.75,
+    "price": 17.99,
+    "bsr": 43018,
+    "image_url": "https://m.media-amazon.com/images/I/610DUquD-JL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCYY118C",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H38K4GNV",
     "title": "4&quot; x 20FT RV Underbelly Tape, Waterproof Flexible Belly Repair Tape with Permanent Adhesive, Seal Tears for Mobile Home Camper Travel Trailer (Black)",
     "type": "candidate",
@@ -20438,17 +20449,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCYY118C",
-    "title": "RV Electric Tongue Jack Cover Large Size, Trailer Chain Holder Organizer | Waterproof PVC, Wider Fit, Built-In Chain Hooks, T",
-    "type": "candidate",
-    "score": 48.75,
-    "price": 17.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/610DUquD-JL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCYY118C",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHW7TLJD",
     "title": "RV Fiberglass Gloss Oil Shine Restorer RV Fiberglass Gloss Restorer  (5PCS) | RV Fiberglass Shell Gloss Oil RV Fiberglass Glo",
     "type": "candidate",
@@ -20820,6 +20820,17 @@
     "bsr": 476596,
     "image_url": "https://m.media-amazon.com/images/I/71VFmRxMiFL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HB4BXHC5",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H7BB6H4R",
+    "title": "Adjustable Trailer Hitch, 8In Drop Hitch Only Fit 2.5 Inch Receiver",
+    "type": "candidate",
+    "score": 48.5,
+    "price": 119.99,
+    "bsr": 47122,
+    "image_url": "https://m.media-amazon.com/images/I/6107IGYryrL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7BB6H4R",
     "walmart_url": null
   },
   {
@@ -23086,6 +23097,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tbNuYCYaL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H96VJHKJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HG9GQBC9",
+    "title": "Adjustable Trailer Hitch Receiver for 2-Inch Receiver, Steel Tow Hitch Multiple Height Levels for Level Towing, Heavy-Duty Construction for Truck, SUV, RV, or Trailer",
+    "type": "candidate",
+    "score": 46.25,
+    "price": 49.99,
+    "bsr": 37770,
+    "image_url": "https://m.media-amazon.com/images/I/517+0BRgPwL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG9GQBC9",
     "walmart_url": null
   },
   {
@@ -26180,17 +26202,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HHNQ58SS",
-    "title": "4 PCS 1/4&quot; Trailer Coupler Pin with Anti-Loss Cable | Heavy duty corrosion-resistant steel build, no tools needed for install",
-    "type": "candidate",
-    "score": 42.7,
-    "price": 9.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71U2tdFP5ZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHNQ58SS",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBBJB4QP",
     "title": "RV Sewer Termination Adapter Replacement for T1029-2, 3&quot; Bayonet x 3&quot; Hub | RV Sewer Hose Connector with Stainless Steel Clam",
     "type": "candidate",
@@ -26873,6 +26884,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHNQ58SS",
+    "title": "4 PCS 1/4&quot; Trailer Coupler Pin with Anti-Loss Cable",
+    "type": "candidate",
+    "score": 41.9,
+    "price": 9.99,
+    "bsr": 44853,
+    "image_url": "https://m.media-amazon.com/images/I/71U2tdFP5ZL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHNQ58SS",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7S71XQK",
     "title": "3316250.712 RV Thermostat Fit For Furnace Control in RVs/Campers 3-Wire 12V",
     "type": "candidate",
@@ -27178,17 +27200,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/712iPuL+i3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5CCXZG3",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGB13GKW",
-    "title": "Vibit 10 Pcs Trailer Hitch Pin with Square Wire Retainer, 1/4&quot; × 2-3/4&quot; | Trailer pins, heavy duty coupler pin, high-strength",
-    "type": "candidate",
-    "score": 41.25,
-    "price": 7.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71krpa00JhL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGB13GKW",
     "walmart_url": null
   },
   {
@@ -28974,17 +28985,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9R5TRZ3",
-    "title": "Rubber Cover Compatible with B&amp;W Gooseneck Hitch Empty Turnoverball Socket",
-    "type": "candidate",
-    "score": 38.0,
-    "price": 14.99,
-    "bsr": 41794,
-    "image_url": "https://m.media-amazon.com/images/I/71rxjML5qDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9R5TRZ3",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HB4SZZDL",
     "title": "BlueStars 12ft RV Propane Hose with POL x 1/4&quot; Inverted Male Flare",
     "type": "candidate",
@@ -29279,6 +29279,17 @@
     "bsr": 17738,
     "image_url": "https://m.media-amazon.com/images/I/71GY9Nj0-1L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGRW675H",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H9R5TRZ3",
+    "title": "Rubber Cover Compatible with B&amp;W Gooseneck Hitch Empty Turnoverball Socket",
+    "type": "candidate",
+    "score": 37.25,
+    "price": 14.99,
+    "bsr": 40539,
+    "image_url": "https://m.media-amazon.com/images/I/71rxjML5qDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9R5TRZ3",
     "walmart_url": null
   },
   {
@@ -30159,6 +30170,17 @@
     "bsr": 422904,
     "image_url": "https://m.media-amazon.com/images/I/71mDPW2gvvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCYDD33Z",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFTPRYST",
+    "title": "2 Inch Trailer Hitch Cover Tube Cover Plug Cap for Ford Pickup, SUV, Jeep, Cars, Trucks, RV &amp; More Exterior Accessories(s‘t)",
+    "type": "candidate",
+    "score": 35.2,
+    "price": 13.99,
+    "bsr": 43775,
+    "image_url": "https://m.media-amazon.com/images/I/617l6RO8YUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFTPRYST",
     "walmart_url": null
   },
   {
@@ -31058,7 +31080,7 @@
     "type": "candidate",
     "score": 33.25,
     "price": 17.63,
-    "bsr": 51759,
+    "bsr": 41753,
     "image_url": "https://m.media-amazon.com/images/I/71bVtLGdeOL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7CPSHJK",
     "walmart_url": null
@@ -32824,6 +32846,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5WNK7VB",
+    "title": "2&quot; x 12&quot; inch Hitch Receiver Tube Weld-On Trailer Combo Raw Steel",
+    "type": "candidate",
+    "score": 30.0,
+    "price": 23.99,
+    "bsr": 38886,
+    "image_url": "https://m.media-amazon.com/images/I/71yGHB6id5L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5WNK7VB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H2RGWYCG",
     "title": "643922 Regal Head Covers Drive Front End Cap Cover, Compatible with Lippert Components and Solera Camper Trailer Awning Motor",
     "type": "candidate",
@@ -33209,17 +33242,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H5WNK7VB",
-    "title": "2&quot; x 12&quot; inch Hitch Receiver Tube Weld-On Trailer Combo Raw Steel",
-    "type": "candidate",
-    "score": 27.75,
-    "price": 23.99,
-    "bsr": 41881,
-    "image_url": "https://m.media-amazon.com/images/I/71yGHB6id5L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5WNK7VB",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5QC9775",
     "title": "JoyLamoria RV Camper Curtain Camo Hunting Oak Tree Leaf Kitchen Curtains | Short Curtains Cafe 36 Inch Length for Living Room",
     "type": "candidate",
@@ -33261,6 +33283,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71T8MAUzGwL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFVSSZGT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGB13GKW",
+    "title": "Vibit 10 Pcs Trailer Hitch Pin with Square Wire Retainer, 1/4&quot; × 2-3/4&quot;",
+    "type": "candidate",
+    "score": 27.45,
+    "price": 7.99,
+    "bsr": 47392,
+    "image_url": "https://m.media-amazon.com/images/I/71krpa00JhL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGB13GKW",
     "walmart_url": null
   },
   {
@@ -33514,17 +33547,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61RiDnz+i4L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3KNHTKG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HFTPRYST",
-    "title": "2 Inch Trailer Hitch Cover Tube Cover Plug Cap for Ford Pickup, SUV, Jeep, Cars, Trucks, RV &amp; More Exterior Accessories(s‘t)",
-    "type": "candidate",
-    "score": 26.2,
-    "price": 13.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/617l6RO8YUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFTPRYST",
     "walmart_url": null
   },
   {
