@@ -1903,17 +1903,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFJJJ4J2",
-    "title": "Magnetic RV Insulated Door Cover for Winter, Curtain Size 30&#x27;&#x27; x 75&#x27;&#x27;",
-    "type": "winner",
-    "score": 81.0,
-    "price": 29.99,
-    "bsr": 18825,
-    "image_url": "https://m.media-amazon.com/images/I/81u7hbFa03L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFJJJ4J2",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HLYX5VC8",
     "title": "PECRON E2400LFP 2048Wh/2400W, Fast Charging in 1.5 Hrs for Emergencies, Camping, RV, Home Use",
     "type": "winner",
@@ -1944,6 +1933,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51FhXyxFjxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQCYSHQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFJJJ4J2",
+    "title": "Magnetic RV Insulated Door Cover for Winter, Curtain Size 30&#x27;&#x27; x 75&#x27;&#x27;",
+    "type": "winner",
+    "score": 80.75,
+    "price": 29.99,
+    "bsr": 20242,
+    "image_url": "https://m.media-amazon.com/images/I/81u7hbFa03L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFJJJ4J2",
     "walmart_url": null
   },
   {
@@ -11748,6 +11748,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJ5Q2R79",
+    "title": "600D Heavy-Duty RV Roof Cover for 37-40ft Travel Trailer Motorhome Camper",
+    "type": "should_test",
+    "score": 55.75,
+    "price": 125.77,
+    "bsr": 10923,
+    "image_url": "https://m.media-amazon.com/images/I/71GHcvZbAML.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ5Q2R79",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDLZXVDR",
     "title": "RV Tank Rinser with Gate Valve, 2-in-1 RV Waste Valve Black Tank Flush Kit",
     "type": "should_test",
@@ -11888,17 +11899,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61r2EHq0NaL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMK4VTPP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJ5Q2R79",
-    "title": "600D Heavy-Duty RV Roof Cover for 37-40ft Travel Trailer Motorhome Camper | Reflective Strips,Camper roof Cover, Waterproof U",
-    "type": "should_test",
-    "score": 55.25,
-    "price": 118.77,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71GHcvZbAML._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ5Q2R79",
     "walmart_url": null
   },
   {
@@ -17721,6 +17721,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBS1WC22",
+    "title": "24V for battery Balancer for Active Equalizer for Series Connected Batteries - Voltage Controller Regulator with LCD Display for RV Solar Systems 85x75mm",
+    "type": "candidate",
+    "score": 51.5,
+    "price": 51.03,
+    "bsr": 5395479,
+    "image_url": "https://m.media-amazon.com/images/I/61gxBempHfL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBS1WC22",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDP92QTW",
     "title": "Heavy Duty RV Roof Cover Waterproof Fits 16 to 41ft RVs, Black, 24.6*9.8ft | Travel Trailers and Campers, Black All Season Pr",
     "type": "candidate",
@@ -18642,17 +18653,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61AAexpfb8L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7BDRTW8",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H82Q1KT2",
-    "title": "RV TV Antenna Roof Mount, 360° Omni Directional Reception with Built-in Signal Amplifier, Outdoor HDTV Antenna for Camper, Mo",
-    "type": "candidate",
-    "score": 50.5,
-    "price": 79.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/717ETRTp1NL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H82Q1KT2",
     "walmart_url": null
   },
   {
@@ -22231,6 +22231,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H82Q1KT2",
+    "title": "RV TV Antenna Roof Mount, 360° Omni Directional Reception with Built-in Signal Amplifier, Outdoor HDTV Antenna for Camper, Motorhome, Travel Trailer &amp; Boat, Supports 4K 1080P, 16.4FT RG6 Cable（Black）",
+    "type": "candidate",
+    "score": 47.05,
+    "price": 79.99,
+    "bsr": 4397742,
+    "image_url": "https://m.media-amazon.com/images/I/717ETRTp1NL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H82Q1KT2",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFJHPFH5",
     "title": "RV Toilet Seal Kit, Gasket Parts Replacement for Dometic 300 310 320 | Toilet Seal for Dometic 400 410 420, Flange Flush Seal",
     "type": "candidate",
@@ -22492,17 +22503,6 @@
     "bsr": 15866,
     "image_url": "https://m.media-amazon.com/images/I/71g59vpac2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD6NRXBB",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBS1WC22",
-    "title": "24V for battery Balancer for Active Equalizer for Series Connected Batteries - Voltage Controller Regulator with LCD Display for RV Solar Systems 85x75mm",
-    "type": "candidate",
-    "score": 47.0,
-    "price": 51.03,
-    "bsr": 5381265,
-    "image_url": "https://m.media-amazon.com/images/I/61gxBempHfL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBS1WC22",
     "walmart_url": null
   },
   {
@@ -25938,17 +25938,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0FBKY5G96",
-    "title": "Winegard TRAV&#x27;LER Pro SK2DISH Roof-Mount Satellite Antenna",
-    "type": "candidate",
-    "score": 43.25,
-    "price": 2249.0,
-    "bsr": 2639539,
-    "image_url": "https://m.media-amazon.com/images/I/71Khk+y09PL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0FBKY5G96",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H8N1B4NT",
     "title": "RLECS Camper Roof Vent Cover Kit for RV Drain Pipes Plastic Includes 6 Screws for 1/2-inch and 3/8-inch Pipes Black",
     "type": "candidate",
@@ -26221,6 +26210,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71YJML8QwYL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H713BTZD",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0FBKY5G96",
+    "title": "Winegard TRAV&#x27;LER Pro SK2DISH Roof-Mount Satellite Antenna",
+    "type": "candidate",
+    "score": 42.5,
+    "price": 2249.0,
+    "bsr": 2706418,
+    "image_url": "https://m.media-amazon.com/images/I/71Khk+y09PL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0FBKY5G96",
     "walmart_url": null
   },
   {
@@ -29601,6 +29601,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H87C3BJS",
+    "title": "Trailer Pin 8 Pack, 2-3/4&quot; x 1/4&quot; Hitch Pins with Shaft Locking Coupler Pins, Square Lock Pin and PTO Pins for Farm Trailers, Towing, Tractor, Yard and Hunting Equipment",
+    "type": "candidate",
+    "score": 36.65,
+    "price": 5.99,
+    "bsr": 11877,
+    "image_url": "https://m.media-amazon.com/images/I/71ZS61IX7EL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H87C3BJS",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCYFW7SQ",
     "title": "0.6&quot; 30FT RV Black Vinyl Insert Trim Molding Screw Cover",
     "type": "candidate",
@@ -30492,6 +30503,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6B3347T",
+    "title": "360SPB 55&quot; Outdoor TV, 4K Google TV, 2500nits Ultra-High Outdoor Television, IP65 Waterproof TV, Weatherproof TVs with Voice Assistant Remote, Compatible with Dolby for Patios",
+    "type": "candidate",
+    "score": 34.5,
+    "price": 2099.0,
+    "bsr": 4523394,
+    "image_url": "https://m.media-amazon.com/images/I/71Em8Sj3WZL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6B3347T",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H4VCJ8BZ",
     "title": "RV Water Heater Door Latch 2pcs Stainless Steel Cam Lock Replacement Part | Stainless Steel Cam Lock Replacement Metal Water",
     "type": "candidate",
@@ -30533,17 +30555,6 @@
     "bsr": 33364,
     "image_url": "https://m.media-amazon.com/images/I/61I8qn8bqdL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGF4QZWV",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6B3347T",
-    "title": "360SPB 55&quot; Outdoor TV, 4K Google TV, 2500nits Ultra-High Outdoor Television, IP65 Waterproof TV, Weatherproof TVs with Voice Assistant Remote, Compatible with Dolby for Patios",
-    "type": "candidate",
-    "score": 34.25,
-    "price": 2099.0,
-    "bsr": 4519930,
-    "image_url": "https://m.media-amazon.com/images/I/71Em8Sj3WZL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6B3347T",
     "walmart_url": null
   },
   {
@@ -33286,17 +33297,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H87C3BJS",
-    "title": "REGUICORP Trailer Pin 8 Pack, 2-3/4&quot; x 1/4&quot; Hitch Pins with Shaft Locking Coupler Pins, Square Lock Pin and PTO Pins for Farm",
-    "type": "candidate",
-    "score": 27.0,
-    "price": 5.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZS61IX7EL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H87C3BJS",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H93W5BZ9",
     "title": "Rear View Backup Camera OE: FL1Z-19G490-B Fit for 2015-2017 Expedition",
     "type": "candidate",
@@ -34490,7 +34490,7 @@
     "type": "candidate",
     "score": 16.95,
     "price": 26.88,
-    "bsr": 316985,
+    "bsr": 486621,
     "image_url": "https://m.media-amazon.com/images/I/71LsDppK+4L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ7K7RLH",
     "walmart_url": null
