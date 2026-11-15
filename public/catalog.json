@@ -1749,17 +1749,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HLYX5VC8",
-    "title": "PECRON E2400LFP 2048Wh/2400W, Fast Charging in 1.5 Hrs for Emergencies, Camping, RV, Home Use",
-    "type": "winner",
-    "score": 81.6,
-    "price": 649.0,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61DSWskbY-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HLYX5VC8",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H2YYKNGW",
     "title": "220W Power Inverter Compatible with DeWALT 20V MAX Batteries",
     "type": "winner",
@@ -1922,6 +1911,17 @@
     "bsr": 18825,
     "image_url": "https://m.media-amazon.com/images/I/81u7hbFa03L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFJJJ4J2",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HLYX5VC8",
+    "title": "PECRON E2400LFP 2048Wh/2400W, Fast Charging in 1.5 Hrs for Emergencies, Camping, RV, Home Use",
+    "type": "winner",
+    "score": 80.95,
+    "price": 649.0,
+    "bsr": 16328,
+    "image_url": "https://m.media-amazon.com/images/I/61DSWskbY-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLYX5VC8",
     "walmart_url": null
   },
   {
