@@ -1232,6 +1232,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJ31GH9Y",
+    "title": "Anker SOLIX C2000 Gen 2 Solar Powered Generator&amp;400W Bifacial Panel, 2048Wh",
+    "type": "winner",
+    "score": 83.25,
+    "price": 1449.99,
+    "bsr": 2305,
+    "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1L4BNN3",
     "title": "12V Rooftop RV Air Conditioner with Cooling and Heating, 12000BTU 12 Volt AC Unit, Ultra Thin Low Profile Ultra Quiet Easy In",
     "type": "winner",
@@ -2442,17 +2453,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ31GH9Y",
-    "title": "Anker SOLIX C2000 Gen 2 Solar Powered Generator&amp;400W Bifacial Panel, 2048Wh",
-    "type": "should_test",
-    "score": 79.25,
-    "price": 1449.99,
-    "bsr": 2294,
-    "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H87F5N3R",
     "title": "Starlink Wall Pass Through,RJ45 CAT6 Ethernet Socket and DC Wall Socket for Starlink Mini, Gen3/4, V5, Aluminum Bulkhead Wall Socket,DC 5.5x2.1mm Female Connector Adapter, Panel Mount for RV Van Boat",
     "type": "should_test",
@@ -3036,17 +3036,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "should_test",
-    "score": 77.75,
-    "price": 949.0,
-    "bsr": 2065,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H14BPJKM",
     "title": "Silvbott RV Awning Sun Shade Screen with Zipper, 8&#x27; x 17&#x27;3&quot;, 95% UV Block | 1200D Oxford Fabric + 8.2 oz Vinyl Mesh, Heavy-Du",
     "type": "should_test",
@@ -3220,6 +3209,17 @@
     "bsr": 22062,
     "image_url": "https://m.media-amazon.com/images/I/710ZXi8pelL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC6NW8H7",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "should_test",
+    "score": 77.25,
+    "price": 949.0,
+    "bsr": 2069,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -6666,6 +6666,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H98TT1MN",
+    "title": "PowerSmart 3800 Watt Portable Inverter Generator for Home Use",
+    "type": "should_test",
+    "score": 66.25,
+    "price": 399.99,
+    "bsr": 1538,
+    "image_url": "https://m.media-amazon.com/images/I/61WdUZq1WgL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H3DY2D5B",
     "title": "Portable Shower Pan, 40&quot;x40&quot;x6&quot; Foldable Shower Base &amp; Basin Floor with Detachable Drain Pipe - Camp Shower Base for RV, Beac",
     "type": "should_test",
@@ -6795,17 +6806,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71yHMZ-DhjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGM2V4M9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H98TT1MN",
-    "title": "PowerSmart 3800 Watt Portable Inverter Generator for Home Use",
-    "type": "should_test",
-    "score": 65.75,
-    "price": 399.99,
-    "bsr": 1544,
-    "image_url": "https://m.media-amazon.com/images/I/61WdUZq1WgL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
     "walmart_url": null
   },
   {
