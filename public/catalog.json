@@ -1650,6 +1650,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8RHH69H",
+    "title": "14&quot; RV Roof Vent Fan, 12V 24V 48V, Smart Temp Humidity, LED, Voice Control | 14x14 Thermostat, Air Quality Sensing, Shade &amp; S",
+    "type": "winner",
+    "score": 82.15,
+    "price": 258.9,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vfFCvat6L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8RHH69H",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHDW9N5T",
     "title": "30V Boost Starlink Mini Car Adapter, PD 45W/USB-A 30W, 16.4FT",
     "type": "winner",
@@ -4829,17 +4840,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H98QYNMZ",
-    "title": "12V RV Air Conditioner with Heat 11000 BTU Cooling &amp; 3500 BTU Heating, Low Profile Rooftop AC Unit for Off-Grid Campers Van L",
-    "type": "should_test",
-    "score": 71.5,
-    "price": 509.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6191LRYbfEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H98QYNMZ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5BTXSVN",
     "title": "FOGATTI Camper Heater 35,000 BTU - for Camper, Motorhome, RV Owners | 40dB Whisper-Quiet ，Easy Installation for Camper, Motor",
     "type": "should_test",
@@ -5266,17 +5266,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Xz4qRogTL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJH6T7X2",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8RHH69H",
-    "title": "14&quot; RV Roof Vent Fan, 12V 24V 48V, Smart Temp Humidity, LED, Voice Control | 14x14 Thermostat, Air Quality Sensing, Shade &amp; S",
-    "type": "should_test",
-    "score": 70.25,
-    "price": 258.9,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vfFCvat6L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8RHH69H",
     "walmart_url": null
   },
   {
@@ -5761,6 +5750,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61I6+q+tkjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQN2CRT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H98QYNMZ",
+    "title": "12V RV Air Conditioner with Heat 11000 BTU Cooling &amp; 3500 BTU Heating, Low Profile Rooftop AC Unit for Off-Grid Campers Van L",
+    "type": "should_test",
+    "score": 68.5,
+    "price": 509.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6191LRYbfEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H98QYNMZ",
     "walmart_url": null
   },
   {
@@ -6611,6 +6611,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HPG6ZTZ5",
+    "title": "Leafgreen Solutions LLC Pass Through Wall Port for 3&quot; &amp; 3.5&quot; Diesel Heater Hose Quick Connect to Your Camper RV Van Heater Du",
+    "type": "should_test",
+    "score": 66.5,
+    "price": 34.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MIb1lEUhL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HPG6ZTZ5",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H93H2R8P",
     "title": "Backup Camera Rain Shield with 2PCS Clear Car Camera Lens Protector",
     "type": "should_test",
@@ -7103,17 +7114,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FbHUpUrUL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8HF9VH5",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HPG6ZTZ5",
-    "title": "Leafgreen Solutions LLC Pass Through Wall Port for 3&quot; &amp; 3.5&quot; Diesel Heater Hose Quick Connect to Your Camper RV Van Heater Du",
-    "type": "should_test",
-    "score": 65.0,
-    "price": 34.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MIb1lEUhL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HPG6ZTZ5",
     "walmart_url": null
   },
   {
@@ -8811,6 +8811,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HK4VBV2B",
+    "title": "DFMDH35111 RV Propane Furnace 35000 BTU 12V Camper Trailer Motorhome | Doorless Design, Quiet Operation with Soft Start Techn",
+    "type": "should_test",
+    "score": 62.25,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KPiWPRSWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HK4VBV2B",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF7WG8GJ",
     "title": "Camper Undercarriage Snow‑Proof Protective Skirt 28m/92ft | 90cm Height RV Skirting,Supplied with 10M Hook‑and‑Loop Tape for",
     "type": "should_test",
@@ -10425,17 +10436,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/813SJXsCiYL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQCCQ8DJ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7HMMM91",
-    "title": "Boat Engine Compartment Heater 700W，Boat Engine Compartment Heater with Dual Components，Multi-Use Bilge Heater Provide Freeze Protection in Harsh Winter Conditions",
-    "type": "should_test",
-    "score": 58.95,
-    "price": 149.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61Nd+AnncRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7HMMM91",
     "walmart_url": null
   },
   {
@@ -12845,17 +12845,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/615flw99M-L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHF1Y67F",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HK4VBV2B",
-    "title": "DFMDH35111 RV Propane Furnace 35000 BTU 12V Camper Trailer Motorhome | Doorless Design, Quiet Operation with Soft Start Techn",
-    "type": "should_test",
-    "score": 53.0,
-    "price": 729.95,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KPiWPRSWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HK4VBV2B",
     "walmart_url": null
   },
   {
@@ -29370,6 +29359,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7HMMM91",
+    "title": "Aurvest Boat Engine Compartment Heater 700W，Boat Engine Compartment Heater with Dual Components，Multi-Use Bilge Heater Provid",
+    "type": "candidate",
+    "score": 37.65,
+    "price": 149.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Nd+AnncRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7HMMM91",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFX6SGZD",
     "title": "Utility Trailer Cover for Carry-On 5X8 Single Axle Utility Trailer 2021-Present, Water Resistant Outdoor Trailer Cover, Fits",
     "type": "candidate",
@@ -32241,17 +32241,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGFPYPS2",
-    "title": "BVC0573-31 Roof Vent Frame Screen Replacement Compatible with Ventadome | Birch white, 13.5x13.5 inches, rv vent screen repla",
-    "type": "candidate",
-    "score": 31.5,
-    "price": 23.98,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61S3NGYfeRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGFPYPS2",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGF7BQDT",
     "title": "RV Window Awning Replacement Pull Strap, 27&quot; Camper Window Awning Straps | 901012 Window Awning Tie Down Kit for RV Travel Tr",
     "type": "candidate",
@@ -32612,6 +32601,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/51lxLax3jsL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6SJW4F3",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGFPYPS2",
+    "title": "BVC0573-31 Roof Vent Frame Screen Replacement Compatible with Ventadome | Birch white, 13.5x13.5 inches, rv vent screen repla",
+    "type": "candidate",
+    "score": 30.75,
+    "price": 23.98,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61S3NGYfeRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGFPYPS2",
     "walmart_url": null
   },
   {
