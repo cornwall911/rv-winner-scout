@@ -1573,6 +1573,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBVT555Y",
+    "title": "Lymezato RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in | Powder-Coated Iron Helps Resist Rust and Dog Scrat",
+    "type": "winner",
+    "score": 82.35,
+    "price": 36.9,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81P0gDn+eQL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJDBKJWL",
     "title": "Anker SOLIX S2000 Portable Power Station with Car Charging Cable",
     "type": "winner",
@@ -4617,17 +4628,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/715PVROzCCL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNTF86D5",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBVT555Y",
-    "title": "RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in",
-    "type": "should_test",
-    "score": 72.45,
-    "price": 36.9,
-    "bsr": 44224,
-    "image_url": "https://m.media-amazon.com/images/I/81P0gDn+eQL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
     "walmart_url": null
   },
   {
