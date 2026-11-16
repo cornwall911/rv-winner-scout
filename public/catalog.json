@@ -80,7 +80,7 @@
     "asin": "B0HBQJHTCT",
     "title": "AUTO-VOX Magnetic Solar Wireless Backup Camera for iPhone &amp; Android | 1S Quick Start, Solar Panel Longer Runtime, Magnetic Mo",
     "type": "winner",
-    "score": 90.1,
+    "score": 90.0,
     "price": 139.99,
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iKDiyTIQL._AC_UL300_SR300,200_.jpg",
@@ -118,6 +118,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Z77+alPTL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H93W4JLP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H695SHXG",
+    "title": "Venluna Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install | 15000mAh Solar Battery, 5” 1080P Monitor, 500ft Wi",
+    "type": "winner",
+    "score": 90.0,
+    "price": 109.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8105IsnmmVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
     "walmart_url": null
   },
   {
@@ -308,6 +319,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5QBNVRR",
+    "title": "AUTO-VOX Solar Wireless Backup Camera: 1-Minute No-Drill Installation | Stable Dual Antenna Signal, 6&quot; 1080P Display with Col",
+    "type": "winner",
+    "score": 89.55,
+    "price": 149.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711LpS7xzVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5QBNVRR",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HMK7B4JP",
     "title": "AUTO-VOX Dual Solar Wireless Magnetic Backup Camera, 2-Min Easy Install",
     "type": "winner",
@@ -404,17 +426,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/718boxrmhsL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC6MSXG6",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H695SHXG",
-    "title": "Venluna Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install | 15000mAh Solar Battery, 5” 1080P Monitor, 500ft Wi",
-    "type": "winner",
-    "score": 89.3,
-    "price": 109.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8105IsnmmVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
     "walmart_url": null
   },
   {
@@ -558,17 +569,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71syvKrSPaL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4VWSK2M",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H5QBNVRR",
-    "title": "AUTO-VOX Solar Wireless Backup Camera: 1-Minute No-Drill Installation | Stable Dual Antenna Signal, 6&quot; 1080P Display with Col",
-    "type": "winner",
-    "score": 88.8,
-    "price": 149.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711LpS7xzVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5QBNVRR",
     "walmart_url": null
   },
   {
@@ -2079,6 +2079,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJH32RVP",
+    "title": "RV Keyless Entry Door Lock with Fingerprint Remote and Keypad for Camper | Fits right-hinged B-Class RV doors with 2.75&quot;×3.75",
+    "type": "winner",
+    "score": 80.45,
+    "price": 169.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KPW6bxWJL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJH32RVP",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5BJQJW3",
     "title": "RV Stabilizer Jack, Heavy Duty I-Beam Camper Anti-Sway, Fits Most Trailers",
     "type": "winner",
@@ -2648,17 +2659,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71w4BZ-LmpL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GHF8F2PR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJH32RVP",
-    "title": "RV Keyless Entry Door Lock with Fingerprint Remote and Keypad for Camper | Fits right-hinged B-Class RV doors with 2.75&quot;×3.75",
-    "type": "should_test",
-    "score": 78.75,
-    "price": 169.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71KPW6bxWJL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJH32RVP",
     "walmart_url": null
   },
   {
@@ -5849,17 +5849,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81gavFKnPPL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZ3NHX3Z",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HHHV2RXX",
-    "title": "2pcs Waterproof Rear View Camera Rain Shield Cover | Backup Camera Rain Hood Cover with Curved, Black PVC Canopy Universal Ca",
-    "type": "should_test",
-    "score": 68.3,
-    "price": 6.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CfypcLiNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
     "walmart_url": null
   },
   {
@@ -13343,6 +13332,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHHV2RXX",
+    "title": "2pcs Waterproof Rear View Camera Rain Shield Cover | Backup Camera Rain Hood Cover with Curved, Black PVC Canopy Universal Ca",
+    "type": "candidate",
+    "score": 65.05,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CfypcLiNL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHHV2RXX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHSC7N3R",
     "title": "Backup Camera Rain Hood Cover，Waterproof Rear View Camera Rain Shield Cover | Rear View Rearview Camera Rain Guard ，Curved Bl",
     "type": "candidate",
@@ -13472,17 +13472,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71I6ENYre8L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2DQK633",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJM1K1Q9",
-    "title": "4Pcs Backup Camera Rain Hood Cover with Curved | Waterproof Rear View Camera Rain Shield Cover, Adhesive-Backed Rear Cover, C",
-    "type": "candidate",
-    "score": 63.2,
-    "price": 9.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81LCs1G9VyL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJM1K1Q9",
     "walmart_url": null
   },
   {
@@ -13780,6 +13769,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61E6UNGLpKL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD6DPW1X",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJM1K1Q9",
+    "title": "4Pcs Backup Camera Rain Hood Cover with Curved | Waterproof Rear View Camera Rain Shield Cover, Adhesive-Backed Rear Cover, C",
+    "type": "candidate",
+    "score": 61.4,
+    "price": 9.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81LCs1G9VyL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJM1K1Q9",
     "walmart_url": null
   },
   {
@@ -14242,6 +14242,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+NWcqzkfL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5K8QHT5",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ517PMY",
+    "title": "4pcs Backup Camera Rain Hood Cover with Curved Black PVC Canopy, Adhesive-Backed Rear Guard for Outdoor Parking Rear View Len",
+    "type": "candidate",
+    "score": 58.7,
+    "price": 6.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EBS3z3NWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ517PMY",
     "walmart_url": null
   },
   {
@@ -17047,17 +17058,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gwmZe8HWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HM7HFLS4",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJ517PMY",
-    "title": "4pcs Backup Camera Rain Hood Cover with Curved Black PVC Canopy, Adhesive-Backed Rear Guard for Outdoor Parking Rear View Lens Hood Car Reversing Cover Black PVC Adhesive Weather Guard Rain",
-    "type": "candidate",
-    "score": 52.25,
-    "price": 6.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71EBS3z3NWL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ517PMY",
     "walmart_url": null
   },
   {
@@ -26202,17 +26202,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HD6LLV2S",
-    "title": "CH751 RV Camper Door Key Replacement for Travel Trailers Locks 4Pack | Replacement for Original RV Locks,Compatible With Camp",
-    "type": "candidate",
-    "score": 43.25,
-    "price": 4.49,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vW4RhTfzL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HD6LLV2S",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H9XRXDSB",
     "title": "Alocs T1003-6MN RV Sewer Valve Handle Replacement for Waste Water Tank | RV Grey Metal Waste Handle for Camco for 1 1/2&quot; and",
     "type": "candidate",
@@ -27566,17 +27555,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9KFPG5B",
-    "title": "5PCS CH510 Keys Fits RV Compartment Locks, Truck Tool Boxes Locks, Trailers &amp; Cabinets with 1 Key Ring",
-    "type": "candidate",
-    "score": 41.0,
-    "price": 5.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zRNxJW2bL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9KFPG5B",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H4TBLR42",
     "title": "2 Pack RV T-Style Door Holder, 6 Inch ABS Camper Door Catch, Black",
     "type": "candidate",
@@ -28069,6 +28047,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+sa5QRtGL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGQBGLB9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HD6LLV2S",
+    "title": "CH751 RV Camper Door Key Replacement for Travel Trailers Locks 4Pack | Replacement for Original RV Locks,Compatible With Camp",
+    "type": "candidate",
+    "score": 40.0,
+    "price": 4.49,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vW4RhTfzL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HD6LLV2S",
     "walmart_url": null
   },
   {
@@ -30459,6 +30448,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCJYLGZF",
+    "title": "G350 Universal RV Replacement Key Set Compatible with Global Link Trailer Camper Locks, Include G301-G390 Series G391 CH751 R",
+    "type": "candidate",
+    "score": 35.25,
+    "price": 12.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61s5aE47WcL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCJYLGZF",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCYDD33Z",
     "title": "Aluminum RV Bumper End Caps, 4 Inch Square Sewer Hose Storage, 2 Pack",
     "type": "candidate",
@@ -31446,6 +31446,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61nv6krYqYL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQ48G3HF",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H9KFPG5B",
+    "title": "5PCS CH510 Keys Fits RV Compartment Locks, Truck Tool Boxes Locks, Trailers &amp; Cabinets with 1 Key Ring",
+    "type": "candidate",
+    "score": 33.2,
+    "price": 5.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zRNxJW2bL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9KFPG5B",
     "walmart_url": null
   },
   {
@@ -33503,6 +33514,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sBiLLXQWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3DQSLQC",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGND4VCL",
+    "title": "Fvqqdw 1 Pack 1-1/8&quot; Thumb Cam Lock, Keyless Offset RV Cabinet Latch Locks | 1-1/8 inch keyless thumb cam lock rv latch, 4-ca",
+    "type": "candidate",
+    "score": 27.75,
+    "price": 8.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61mM0QKpMjL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGND4VCL",
     "walmart_url": null
   },
   {
