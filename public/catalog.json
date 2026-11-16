@@ -1760,6 +1760,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HFHQFRGJ",
+    "title": "2-Pack Magnetic Solar Light Outdoor, 176LED Motion Sensor RV Light Exterior | No-Drill Magnet Mount, 800LM RV Awning Lights,",
+    "type": "winner",
+    "score": 81.75,
+    "price": 24.77,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O882XECOL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFHQFRGJ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HBW6Y851",
     "title": "12V Rooftop RV Air Conditioner, Rooftop Parking AC Unit with Remote Control, 2600W Cooling/1500W Heating, Truck Cab Parking A",
     "type": "winner",
@@ -6941,17 +6952,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFHQFRGJ",
-    "title": "2-Pack Magnetic Solar Light Outdoor, 176LED Motion Sensor RV Light Exterior",
-    "type": "should_test",
-    "score": 65.25,
-    "price": 24.77,
-    "bsr": 22219,
-    "image_url": "https://m.media-amazon.com/images/I/71O882XECOL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFHQFRGJ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HCNM426T",
     "title": "Evernexta 3000W Inverter Generator, Ultra Quiet Portable Gas Generator RV | Ultra-quiet 3000W power, fuel-saving Eco Mode, li",
     "type": "should_test",
@@ -10010,6 +10010,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGKY6SXM",
+    "title": "XPE Adjustable Trailer Hitch for 2&quot; Receiver, Heavy Duty 6&quot; Drop Tow Hitch | 2-Inch &amp; 2-5/16-Inch Balls, Up to 20,000 lbs GTW",
+    "type": "should_test",
+    "score": 59.75,
+    "price": 129.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61AFT1Tsg7L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGKY6SXM",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHLX4QB1",
     "title": "1000W Power Inverter 12V to 110V/120V，Power Inverters for Vehicles",
     "type": "should_test",
@@ -10513,6 +10524,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51zsu1CZr+L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H94KR9HS",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8GXHTJ9",
+    "title": "1200D Heavy-Duty 7-Layer Travel Trailer Cover, Khaki, 31.2×11.8ft | Wider 3.6m/11.8ft, Windproof, Rainproof, Leaf-proof, Tear",
+    "type": "should_test",
+    "score": 58.75,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BSrjOBF5L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8GXHTJ9",
     "walmart_url": null
   },
   {
@@ -12207,17 +12229,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wqacuSM5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8J9XHWH",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8GXHTJ9",
-    "title": "1200D Heavy-Duty 7-Layer Travel Trailer Cover, Khaki, 31.2×11.8ft | Wider 3.6m/11.8ft, Windproof, Rainproof, Leaf-proof, Tear",
-    "type": "should_test",
-    "score": 55.25,
-    "price": 168.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BSrjOBF5L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8GXHTJ9",
     "walmart_url": null
   },
   {
@@ -15067,17 +15078,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Kx8JzLMZL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H54KS3NS",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGKY6SXM",
-    "title": "Adjustable Trailer Hitch for 2&quot; Receiver, Heavy Duty 6&quot; Drop Tow Hitch",
-    "type": "candidate",
-    "score": 55.75,
-    "price": 129.99,
-    "bsr": 22010,
-    "image_url": "https://m.media-amazon.com/images/I/61AFT1Tsg7L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGKY6SXM",
     "walmart_url": null
   },
   {
@@ -20603,17 +20603,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H82CWR1Z",
-    "title": "RV TV Antenna with Built-in Signal Amplifier, 360° Omni Directional Roof Mount Antenna for Camper, Motorhome &amp; Travel Trailer, Supports 4K 1080P HD, VHF/UHF Reception, 16.4FT RG6 Cable（White）",
-    "type": "candidate",
-    "score": 48.5,
-    "price": 79.99,
-    "bsr": 2533144,
-    "image_url": "https://m.media-amazon.com/images/I/61ZfqiWeo7L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H82CWR1Z",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6NZR5N4",
     "title": "LIWEIKE RV Shower Faucet, Matte Black, Single Handle Camper Shower Faucet | G1/2 Thread, Mental 4&quot; RV Shower Faucet with Hose",
     "type": "candidate",
@@ -21293,6 +21282,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71cPTJcAHkL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9Q8T58K",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H82Q1KT2",
+    "title": "RV TV Antenna Roof Mount, 360° Omni Directional Reception with Built-in Signal Amplifier, Outdoor HDTV Antenna for Camper, Mo",
+    "type": "candidate",
+    "score": 48.25,
+    "price": 79.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/717ETRTp1NL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H82Q1KT2",
     "walmart_url": null
   },
   {
@@ -22396,17 +22396,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H82Q1KT2",
-    "title": "RV TV Antenna Roof Mount, 360° Omni Directional Reception with Built-in Signal Amplifier, Outdoor HDTV Antenna for Camper, Motorhome, Travel Trailer &amp; Boat, Supports 4K 1080P, 16.4FT RG6 Cable（Black）",
-    "type": "candidate",
-    "score": 47.05,
-    "price": 79.99,
-    "bsr": 4397742,
-    "image_url": "https://m.media-amazon.com/images/I/717ETRTp1NL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H82Q1KT2",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H8G5XBLM",
     "title": "Roof Vent Pipe Flashing Repair Kit 2 Pcs 1.5&quot; to 2&quot; Rubber Roof Collar Boot Vent with Stainless Steel Clamp Fit",
     "type": "candidate",
@@ -22690,6 +22679,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ivvyNsQZL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HG4FZ6DN",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H82CWR1Z",
+    "title": "RV TV Antenna with Built-in Signal Amplifier, 360° Omni Directional Roof Mount Antenna for Camper, Motorhome &amp; Travel Trailer, Supports 4K 1080P HD, VHF/UHF Reception, 16.4FT RG6 Cable（White）",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 79.99,
+    "bsr": 2594271,
+    "image_url": "https://m.media-amazon.com/images/I/61ZfqiWeo7L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H82CWR1Z",
     "walmart_url": null
   },
   {
@@ -29920,17 +29920,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H87C3BJS",
-    "title": "Trailer Pin 8 Pack, 2-3/4&quot; x 1/4&quot; Hitch Pins with Shaft Locking Coupler Pins, Square Lock Pin and PTO Pins for Farm Trailers, Towing, Tractor, Yard and Hunting Equipment",
-    "type": "candidate",
-    "score": 36.65,
-    "price": 5.99,
-    "bsr": 11877,
-    "image_url": "https://m.media-amazon.com/images/I/71ZS61IX7EL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H87C3BJS",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H32K9ZHG",
     "title": "ZJTBLL 520814 RV Water Heater Ignition Control Module Board with Lid Replacement for Suburban RV Water Heater SW Series SW4D",
     "type": "candidate",
@@ -33704,6 +33693,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H87C3BJS",
+    "title": "REGUICORP Trailer Pin 8 Pack, 2-3/4&quot; x 1/4&quot; Hitch Pins with Shaft Locking Coupler Pins, Square Lock Pin and PTO Pins for Farm",
+    "type": "candidate",
+    "score": 26.7,
+    "price": 5.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZS61IX7EL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H87C3BJS",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHM64KQ9",
     "title": "TeiuFio 90032 39‑3/4 Inch Single Propane Tank Strap with Quick Snap Buckle | RV Replacement Strap for Single Propane Gas Tank",
     "type": "candidate",
@@ -35035,6 +35035,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H88CFJNV",
+    "title": "zggsWZBWK Front Door Speaker Assembly Compatible with Honda Civic Accord CRV 2008-2025 Replaces 39120-SNA-A01 39120-TA0-A01",
+    "type": "candidate",
+    "score": 11.0,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rIxtWyeyL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H88CFJNV",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7WF24RY",
     "title": "86180-D3000 Pillar Trim Molding for Hyundai Tucson 2016-2021 86180D3000",
     "type": "candidate",
@@ -35043,17 +35054,6 @@
     "bsr": 2242324,
     "image_url": "https://m.media-amazon.com/images/I/51jpMXkeP1L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7WF24RY",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H88CFJNV",
-    "title": "zggsWZBWK Front Door Speaker Assembly Compatible with Honda Civic Accord CRV 2008-2025 Replaces 39120-SNA-A01 39120-TA0-A01",
-    "type": "candidate",
-    "score": 10.5,
-    "price": null,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rIxtWyeyL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H88CFJNV",
     "walmart_url": null
   }
 ]
