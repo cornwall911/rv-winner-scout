@@ -1309,6 +1309,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HLF7D3NL",
+    "title": "Kohree\nUpgraded\nSmart\nRV\nDoor\nLock\nKeyless\nEntry,\n4-in-1\nRV\nDoor\nLocks | Fingerprint, APP, Keypad &amp; Keys, USB-C Rechargeable",
+    "type": "winner",
+    "score": 82.9,
+    "price": 159.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tK04OcSLL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLF7D3NL",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H14QPC23",
     "title": "8&#x27; x 10&#x27;3&quot; RV Awning Privacy Shade with Zipper, 90% UV Block, Shadow Black | 8&#x27; x 10&#x27;3&quot;, Shadow Black; breathable zipper mesh",
     "type": "winner",
@@ -2318,17 +2329,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61FNlZ9xg2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H36WBTV5",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HLF7D3NL",
-    "title": "Kohree\nUpgraded\nSmart\nRV\nDoor\nLock\nKeyless\nEntry,\n4-in-1\nRV\nDoor\nLocks | Fingerprint, APP, Keypad &amp; Keys, USB-C Rechargeable",
-    "type": "should_test",
-    "score": 79.75,
-    "price": 159.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tK04OcSLL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HLF7D3NL",
     "walmart_url": null
   },
   {
@@ -24959,17 +24959,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HHFFDX7S",
-    "title": "Waterproof Car Rearview Camera Rain Guard Backup Hood Cover Adhesive Backed | PVC Lens Shield Curved Black Protector for Rain",
-    "type": "candidate",
-    "score": 44.75,
-    "price": 5.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81E+vtYrb8L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHFFDX7S",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HMH1V3DX",
     "title": "OUTPRIZE 15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow | EXTREME Heavy Duty 24 Mil, TPE Material, Abrasio",
     "type": "candidate",
@@ -27376,6 +27365,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61kd7Oc-fAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJZQJ2KG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHFFDX7S",
+    "title": "Waterproof Car Rearview Camera Rain Guard Backup Hood Cover Adhesive Backed | PVC Lens Shield Curved Black Protector for Rain",
+    "type": "candidate",
+    "score": 41.75,
+    "price": 5.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81E+vtYrb8L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHFFDX7S",
     "walmart_url": null
   },
   {
