@@ -1628,17 +1628,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HNSQWQT2",
-    "title": "Magnetic Solar Lights Outdoor 2 Pack, 700LM Motion Sensor RV Lights, 3 Modes Dusk-to-Dawn, IP65 Waterproof, Strong Magnets + Metal Plates for Fiberglass RV Camper Awning Porch Carport",
-    "type": "winner",
-    "score": 82.25,
-    "price": 29.88,
-    "bsr": 37127,
-    "image_url": "https://m.media-amazon.com/images/I/817A20k0DyL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HNSQWQT2",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H8RHH69H",
     "title": "14&quot; RV Roof Vent Fan, 12V 24V 48V, Smart Temp Humidity, LED, Voice Control | 14x14 Thermostat, Air Quality Sensing, Shade &amp; S",
     "type": "winner",
@@ -1716,6 +1705,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0GZGF2SWX",
+    "title": "Agrieyes T312C Wireless Trailer Lights w/Receiver, Magnetic Tow Light | Real-time Monitor | USB-C Charge | 20H Tail Runtime |",
+    "type": "winner",
+    "score": 82.0,
+    "price": 109.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Mpk7eqTRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZGF2SWX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFWPS5JM",
     "title": "BQDRTMZ 12V RV Air Conditioner with PTC Heating,Remote Control | Clear Display Screen,Adjustable Wind Outlets,Low Power Draw",
     "type": "winner",
@@ -1768,17 +1768,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61EgUXTPW4L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2ZTJMZ8",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0GZGF2SWX",
-    "title": "Agrieyes T312C Wireless Trailer Lights w/Receiver, Magnetic Tow Light | Real-time Monitor | USB-C Charge | 20H Tail Runtime |",
-    "type": "winner",
-    "score": 81.75,
-    "price": 109.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Mpk7eqTRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZGF2SWX",
     "walmart_url": null
   },
   {
@@ -3363,6 +3352,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xy+6uFcSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYDCH27K",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HNSQWQT2",
+    "title": "FabStyl Magnetic Solar Lights Outdoor 2 Pack, 700LM Motion Sensor RV Lights, 3 Modes Dusk-to-Dawn, IP65 Waterproof, Strong Ma",
+    "type": "should_test",
+    "score": 76.75,
+    "price": 31.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/817A20k0DyL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HNSQWQT2",
     "walmart_url": null
   },
   {
@@ -9845,6 +9845,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HG9GQBC9",
+    "title": "Adjustable Trailer Hitch Receiver for 2-Inch Receiver, Steel Tow Hitch Multiple Height Levels for Level Towing, Heavy-Duty Co",
+    "type": "should_test",
+    "score": 60.0,
+    "price": 49.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/517+0BRgPwL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG9GQBC9",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF85KSJV",
     "title": "Travel Trailer Snow-Shield Underbelly Skirt, 98ft /30m Roll | Heavy-Duty Tear Resistant RV Bottom Winter Cover, Cold Weather",
     "type": "should_test",
@@ -11374,17 +11385,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HG9GQBC9",
-    "title": "Adjustable Trailer Hitch Receiver for 2-Inch Receiver, Steel Tow Hitch Multiple Height Levels for Level Towing, Heavy-Duty Co",
-    "type": "should_test",
-    "score": 56.75,
-    "price": 49.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/517+0BRgPwL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG9GQBC9",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6WRY7L1",
     "title": "FormiPow 42&quot; × 80&quot; Semi Truck &amp; RV Mattress, Memory Foam Mattress Topper, Dual-Layer Design, Heavy Duty, Pressure Relief Supp",
     "type": "should_test",
@@ -11569,17 +11569,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sMo7GsjdL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQGJFLQH",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HKR5C9TQ",
-    "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant for RVs, Class A/B/C Motorhomes, Popup &amp; Truck Campers, Travel Trailers,",
-    "type": "should_test",
-    "score": 56.5,
-    "price": 59.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xKmNJ9vcL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKR5C9TQ",
     "walmart_url": null
   },
   {
@@ -14784,6 +14773,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HPB98SVR",
+    "title": "Hicover 600D Rv Roof Cover Waterproof Fits 16ft to 20ft Motorhome Caravan | Camper Roof Cover Wind,Rain and Snow Proof Pop up",
+    "type": "candidate",
+    "score": 56.75,
+    "price": 59.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vPGGn-CRL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HPB98SVR",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H2VFCC3B",
     "title": "AC Duct and Sound Suppressor Compatible with Dometic Duo",
     "type": "candidate",
@@ -14803,17 +14803,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Q1DgLR05L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6TSCRDH",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9LVD7GC",
-    "title": "RV Tire Covers, Dual Axle Wheel Cover (2 Packs) Fits 27-30&quot; Diameter Tires",
-    "type": "candidate",
-    "score": 56.5,
-    "price": 31.99,
-    "bsr": 40613,
-    "image_url": "https://m.media-amazon.com/images/I/71eh5Y1OV-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9LVD7GC",
     "walmart_url": null
   },
   {
@@ -17193,6 +17182,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKR5C9TQ",
+    "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant for RVs, Class A/B/C Motorhomes, Popup &amp; Truck Campers, Travel Trailers,",
+    "type": "candidate",
+    "score": 52.25,
+    "price": 59.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xKmNJ9vcL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKR5C9TQ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCBTQ7FD",
     "title": "RV AC Duct For Dometic Brisk II Blizzard NXT &amp; FreshJet 3 Airflow Upgrade",
     "type": "candidate",
@@ -18147,6 +18147,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61BS+gbTvfL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDSJ3DD2",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H9LVD7GC",
+    "title": "RV Tire Covers, Dual Axle Wheel Cover (2 Packs) Fits 27-30&quot; Diameter Tires | 2 Pack",
+    "type": "candidate",
+    "score": 51.0,
+    "price": 31.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eh5Y1OV-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9LVD7GC",
     "walmart_url": null
   },
   {
@@ -19877,17 +19888,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCYY118C",
-    "title": "RV Electric Tongue Jack Cover Large Size, Trailer Chain Holder Organizer | Waterproof PVC, Wider Fit, Built-In Chain Hooks, T",
-    "type": "candidate",
-    "score": 49.25,
-    "price": 17.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/610DUquD-JL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCYY118C",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GVY5VPY6",
     "title": "30 Amp to 110V 20 Amp RV Power Adapter, NEMA TT-30P to 3x5-15R/20R with LED",
     "type": "candidate",
@@ -21032,6 +21032,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCYY118C",
+    "title": "RV Electric Tongue Jack Cover Large Size, Trailer Chain Holder Organizer | Waterproof PVC, Wider Fit, Built-In Chain Hooks, T",
+    "type": "candidate",
+    "score": 48.25,
+    "price": 17.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/610DUquD-JL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCYY118C",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H4GPLM8Y",
     "title": "6 Inch RV Bunk Mattress, 28&quot; x 72&quot; RV Mattress Gel Memory Foam - High Density Medium Certified Camper Bunk Mattress with Breathable Soft &amp; Washable Removable Cover for Travel Trailer/Cargo Van/RVs",
     "type": "candidate",
@@ -21898,17 +21909,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81cpisMCL5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJCN5RRP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HPB98SVR",
-    "title": "Hicover 600D Rv Roof Cover Waterproof Fits 16ft to 20ft Motorhome Caravan | Camper Roof Cover Wind,Rain and Snow Proof Pop up",
-    "type": "candidate",
-    "score": 47.75,
-    "price": 59.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vPGGn-CRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HPB98SVR",
     "walmart_url": null
   },
   {
