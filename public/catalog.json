@@ -1232,17 +1232,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ31GH9Y",
-    "title": "Anker SOLIX C2000 Gen 2 Solar Powered Generator&amp;400W Bifacial Panel, 2048Wh",
-    "type": "winner",
-    "score": 83.25,
-    "price": 1449.99,
-    "bsr": 2305,
-    "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H1L4BNN3",
     "title": "12V Rooftop RV Air Conditioner with Cooling and Heating, 12000BTU 12 Volt AC Unit, Ultra Thin Low Profile Ultra Quiet Easy In",
     "type": "winner",
@@ -1713,6 +1702,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sh8XuJ3JL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFWPS5JM",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ31GH9Y",
+    "title": "Anker SOLIX C2000 Gen 2 Solar Powered Generator&amp;400W Bifacial Panel, 2048Wh",
+    "type": "winner",
+    "score": 81.85,
+    "price": 1449.99,
+    "bsr": 2298,
+    "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
     "walmart_url": null
   },
   {
@@ -2981,6 +2981,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "should_test",
+    "score": 77.95,
+    "price": 949.0,
+    "bsr": 2062,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1KZ2N6K",
     "title": "SleYuYir 12V RV Air Conditioner, DC RV AC Unit 10,000 BTU Cooling and 3,500 BTU Heating, 12V AC Unit with Heat, Rooftop Campe",
     "type": "should_test",
@@ -3220,17 +3231,6 @@
     "bsr": 22062,
     "image_url": "https://m.media-amazon.com/images/I/710ZXi8pelL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC6NW8H7",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "should_test",
-    "score": 77.25,
-    "price": 949.0,
-    "bsr": 2069,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -4375,6 +4375,17 @@
     "bsr": 3076,
     "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H98TT1MN",
+    "title": "PowerSmart 3800 Watt Portable Inverter Generator for Home Use",
+    "type": "should_test",
+    "score": 73.5,
+    "price": 409.99,
+    "bsr": 1533,
+    "image_url": "https://m.media-amazon.com/images/I/61WdUZq1WgL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
     "walmart_url": null
   },
   {
@@ -6707,17 +6718,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DcizyTZsL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H44YQ35S",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H98TT1MN",
-    "title": "PowerSmart 3800 Watt Portable Inverter Generator for Home Use",
-    "type": "should_test",
-    "score": 66.25,
-    "price": 399.99,
-    "bsr": 1538,
-    "image_url": "https://m.media-amazon.com/images/I/61WdUZq1WgL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
     "walmart_url": null
   },
   {
@@ -28447,12 +28447,12 @@
   },
   {
     "asin": "B0HPBDYFRN",
-    "title": "USB Hand Crank for charger Portable Generator for Mobile Phone (Black)",
+    "title": "USB Hand Crank for charger Portable Generator for Mobile Phone (Blue)",
     "type": "candidate",
     "score": 39.75,
-    "price": 6.81,
-    "bsr": 932,
-    "image_url": "https://m.media-amazon.com/images/I/51E5VaJG9pL.jpg",
+    "price": 6.8,
+    "bsr": 923,
+    "image_url": "https://m.media-amazon.com/images/I/5148gZCi2-L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HPBDYFRN",
     "walmart_url": null
   },
@@ -33096,6 +33096,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mz3ObsyOL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1QJ1TZP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HP9W9RS3",
+    "title": "2Pack Hand Crank Charger, USB Manual  Emergency Portable Charger(C)",
+    "type": "candidate",
+    "score": 30.25,
+    "price": 10.56,
+    "bsr": 1322,
+    "image_url": "https://m.media-amazon.com/images/I/613y9oVhvaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HP9W9RS3",
     "walmart_url": null
   },
   {
