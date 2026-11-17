@@ -1892,17 +1892,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HMCBN8RJ",
-    "title": "30QT Portable Car Refrigerator, Compressor Freezer AC/DC for Camping RV SUV | Car Refrigerator, 12/24V DC, 110V AC, Compresso",
-    "type": "winner",
-    "score": 81.25,
-    "price": 99.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61MEo2YblnL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HMCBN8RJ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HC3J97LL",
     "title": "AUTOXBERT Solar RV Vent Fan - White | No-Wire Solar Powered Roof Vent for Camper, Quiet Odor Moisture Removal, 7&quot; Heavy-Duty Low-Profile Design",
     "type": "winner",
@@ -1966,6 +1955,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51FhXyxFjxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQCYSHQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HMCBN8RJ",
+    "title": "30QT Portable Car Refrigerator, Compressor Freezer AC/DC for Camping RV SUV | Car Refrigerator, 12/24V DC, 110V AC, Compresso",
+    "type": "winner",
+    "score": 80.75,
+    "price": 94.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61MEo2YblnL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMCBN8RJ",
     "walmart_url": null
   },
   {
@@ -8767,6 +8767,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HF854JLL",
+    "title": "Winter‑Ready Roll‑Up RV Skirting for 5th Wheel RV Camper Trailer, 18m/59ft | 90cm Height RV Skirting,Supplied with 10M Hook‑a",
+    "type": "should_test",
+    "score": 62.25,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/716ooKpiFzL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF854JLL",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF7WG8GJ",
     "title": "Camper Undercarriage Snow‑Proof Protective Skirt 28m/92ft | 90cm Height RV Skirting,Supplied with 10M Hook‑and‑Loop Tape for",
     "type": "should_test",
@@ -8918,17 +8929,6 @@
     "bsr": 8138,
     "image_url": "https://m.media-amazon.com/images/I/61++m0b1ViL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ1CH8Y8",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HF854JLL",
-    "title": "Winter‑Ready Roll‑Up RV Skirting for 5th Wheel RV Camper Trailer, 18m/59ft | 90cm Height RV Skirting,Supplied with 10M Hook‑a",
-    "type": "should_test",
-    "score": 61.9,
-    "price": null,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/716ooKpiFzL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF854JLL",
     "walmart_url": null
   },
   {
@@ -14927,6 +14927,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6JH24B9",
+    "title": "12V LED Puck Lights, RV Boat Recessed Ceiling Light 3” 3CCT 3000K/4000K/6000K 3W Full Aluminum for Caravan Interior Under Cabinet Lighting (White,6 Pack)",
+    "type": "candidate",
+    "score": 56.25,
+    "price": 39.9,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61iXZsQfyJL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6JH24B9",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7QZQRG7",
     "title": "RV Dual Flag Pole Mount for 2&quot; &amp; 2-1/4&quot; Trailer Tongue Jack, 1&quot; Flagpoles | Heavy-Duty Aluminum No-Drill Flag Holder with Too",
     "type": "candidate",
@@ -16731,6 +16742,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9L1K3CP",
+    "title": "RV Bathroom Faucet-Hot and Cold 2 Handle and Space-Saving 6” High-Arc Spout | Max Work Countertop Thickness 1.5&quot;, Black RV Ba",
+    "type": "candidate",
+    "score": 53.05,
+    "price": 19.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61grrY2APDL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9L1K3CP",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HNDPTXX9",
     "title": "RV Steps with Dual Anti-Slip Handrails, 3-Step Heavy Duty Portable Outdoor Stairs for Camper, Travel Trailer, Mobile Home, Ho",
     "type": "candidate",
@@ -16849,17 +16871,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/714UxibLhEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCBL7GHN",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGL8D26M",
-    "title": "RV Shower Faucet with Handheld Showerhead, Hose and On/Off Valve | ABS shower set with diverter and 2 knobs; soft hose, leak-",
-    "type": "candidate",
-    "score": 53.0,
-    "price": 27.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iR6U3Ct-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGL8D26M",
     "walmart_url": null
   },
   {
@@ -19668,6 +19679,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGL8D26M",
+    "title": "RV Shower Faucet with Handheld Showerhead, Hose and On/Off Valve | ABS shower set with diverter and 2 knobs; soft hose, leak-",
+    "type": "candidate",
+    "score": 49.65,
+    "price": 27.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iR6U3Ct-L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGL8D26M",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GY43GC6N",
     "title": "2PCS 15 IN RV Propane Hose with Pressure Gauge, 1/4&quot; Male, 250PSI | Stainless Steel Braided Gas Tubing for Standard RV Dual-S",
     "type": "candidate",
@@ -19841,17 +19863,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71cpY1xUK3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJWG89FB",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6JH24B9",
-    "title": "camperxlite 12V LED Puck Lights, RV Boat Recessed Ceiling Light 3” 3CCT 3000K/4000K/6000K 3W Full Aluminum for Caravan Interi",
-    "type": "candidate",
-    "score": 49.4,
-    "price": 39.9,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61iXZsQfyJL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6JH24B9",
     "walmart_url": null
   },
   {
@@ -20358,28 +20369,6 @@
     "bsr": 22427,
     "image_url": "https://m.media-amazon.com/images/I/71gwmZe8HWL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HM7SYHVH",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HB41WFKR",
-    "title": "SolYehom 4&quot; RV Shower Faucet with Hose Kit for RV, Camper, Motorhome | Camper Shower Faucet Replacement Kit,ABS RV Tub Faucet",
-    "type": "candidate",
-    "score": 49.0,
-    "price": 36.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61nTEGTEP0L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB41WFKR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCBM6Y8S",
-    "title": "FUSCH Aluminum RV Table and Floor Mounting Base, Heavy-Duty Thickened | Heavy Duty Aluminum RV Table Base Mount For Camper Tr",
-    "type": "candidate",
-    "score": 49.0,
-    "price": 25.69,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719hxL4uGfL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCBM6Y8S",
     "walmart_url": null
   },
   {
@@ -21648,6 +21637,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCBM6Y8S",
+    "title": "FUSCH Aluminum RV Table and Floor Mounting Base, Heavy-Duty Thickened | Heavy Duty Aluminum RV Table Base Mount For Camper Tr",
+    "type": "candidate",
+    "score": 47.75,
+    "price": 25.69,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719hxL4uGfL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCBM6Y8S",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HK3JQ8W1",
     "title": "Meguiar&#x27;s Marine and RV Hybrid Ceramic All Surface Sealant, 6 Pack 32 oz | Boat Gel Coat Protectant Spray, Boosts Gloss and W",
     "type": "candidate",
@@ -22448,17 +22448,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/516mGZqFyQL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHDLDS2B",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9L1K3CP",
-    "title": "RV Bathroom Faucet-Hot and Cold 2 Handle and Space-Saving 6” High-Arc Spout | Max Work Countertop Thickness 1.5&quot;, Black RV Ba",
-    "type": "candidate",
-    "score": 47.25,
-    "price": 19.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61grrY2APDL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9L1K3CP",
     "walmart_url": null
   },
   {
@@ -23837,6 +23826,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC6MM3BX",
+    "title": "6 Inch Aluminum RV Door Catch | Heavy Duty Trailer Door Hold Back",
+    "type": "candidate",
+    "score": 46.0,
+    "price": 21.28,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71oa7-5y7PL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6MM3BX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HH92BH1J",
     "title": "Rv Awning Cleaner, Powerful Rv Awning Cleaner for Fabric Cleaner, 1PC",
     "type": "candidate",
@@ -24967,6 +24967,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61JDlDuoyLL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDGNK98Q",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HB41WFKR",
+    "title": "SolYehom 4&quot; RV Shower Faucet with Hose Kit for RV, Camper, Motorhome | Camper Shower Faucet Replacement Kit,ABS RV Tub Faucet",
+    "type": "candidate",
+    "score": 44.5,
+    "price": 36.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61nTEGTEP0L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB41WFKR",
     "walmart_url": null
   },
   {
@@ -29348,17 +29359,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HP4QZ29W",
-    "title": "Car Mattress for Tesla Model Y, Camping Bed, Non-inflatable &amp; Easy Setup | No Air Leaks, Less Gear, Foam Sleeping Pad for 1-2",
-    "type": "candidate",
-    "score": 38.0,
-    "price": 139.9,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/712uXEJKIUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HP4QZ29W",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5BT7V98",
     "title": "Safoner Aluminum RV Floor Vent Cover, 4&quot;x8&quot; Register RV Vent Accessories | Removable Cover, Durable Aluminum, Blocks Pet Hair",
     "type": "candidate",
@@ -32219,6 +32219,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HP4QZ29W",
+    "title": "Mattress for Tesla Model Y/3/Juniper,Camping Bed,No Inflation &amp; Easy Setup | No Air Leaks, Less Gear, Foam Sleeping Pad for 1",
+    "type": "candidate",
+    "score": 31.75,
+    "price": 139.9,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/712uXEJKIUL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HP4QZ29W",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCNMVGQS",
     "title": "3310455.062 RV Power Awning Control Switch for Dometic 9100 Series 12V 40A | 12V DC 40A 4-Terminal Rocker Switch, Includes Fa",
     "type": "candidate",
@@ -32392,17 +32403,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/412WF9qaQAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKJXZSBP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC6MM3BX",
-    "title": "6 Inch Aluminum RV Door Catch | Heavy Duty Trailer Door Hold Back | Aluminum ball-socket holdback;For Camper, Cargo Trailer,",
-    "type": "candidate",
-    "score": 31.5,
-    "price": 21.28,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71oa7-5y7PL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6MM3BX",
     "walmart_url": null
   },
   {
