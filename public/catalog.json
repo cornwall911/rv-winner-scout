@@ -143,6 +143,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HFMSXN93",
+    "title": "AUTO-VOX Solar Wireless Backup Camera, 1 Minute DIY Install, 5&quot; HD Monito",
+    "type": "winner",
+    "score": 89.95,
+    "price": 129.99,
+    "bsr": 9352,
+    "image_url": "https://m.media-amazon.com/images/I/71RCj5626sL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFMSXN93",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5VDT9KK",
     "title": "MOTOCOCHE Solar Magnetic 1080P WiFi Backup Camera No‑Drill RV Trailer | 9600mAh solar WiFi backup cam;1080P IR night‑vision,n",
     "type": "winner",
@@ -602,17 +613,6 @@
     "bsr": 11317,
     "image_url": "https://m.media-amazon.com/images/I/71FQfqPCsbL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H38KLG52",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HFMSXN93",
-    "title": "AUTO-VOX Solar Wireless Backup Camera, 1 Minute DIY Install, 5&quot; HD Monito",
-    "type": "winner",
-    "score": 88.7,
-    "price": 110.49,
-    "bsr": 9422,
-    "image_url": "https://m.media-amazon.com/images/I/71RCj5626sL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFMSXN93",
     "walmart_url": null
   },
   {
@@ -4829,6 +4829,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBQ26RYC",
+    "title": "Portable Power Station 300W, 296Wh Battery Generator for Emergency Backup",
+    "type": "should_test",
+    "score": 71.65,
+    "price": 129.99,
+    "bsr": 12947,
+    "image_url": "https://m.media-amazon.com/images/I/71UP0idnBjL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQ26RYC",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HQ6GF9P3",
     "title": "Kohree 14&quot; RV Vent Fan, 12V for Camper Vent Trailer, Green | 10 Speed Reversible, Super Quiet, With Remote Control, Temperatu",
     "type": "should_test",
@@ -5489,17 +5500,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBQ26RYC",
-    "title": "Portable Power Station 300W, 296Wh Battery Generator for Emergency Backup | MPPT controller, 20W flashlight, 360° camping lig",
-    "type": "should_test",
-    "score": 69.25,
-    "price": 139.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71UP0idnBjL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQ26RYC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H878NF4W",
     "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank | 100W PD Fast Charge, 2 AC Outlets, LiFePO4 Sola",
     "type": "should_test",
@@ -5563,6 +5563,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wLwPWvTmL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6PRX7TZ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8SP7SNL",
+    "title": "Heated Water Hose for RV 25FT, -40°F Freeze Resistant Heated Hose with Thermostat, for Winter Camping, Travel Trailer Motorhome",
+    "type": "should_test",
+    "score": 69.25,
+    "price": 63.16,
+    "bsr": 14464,
+    "image_url": "https://m.media-amazon.com/images/I/71lWMprlVlL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8SP7SNL",
     "walmart_url": null
   },
   {
@@ -5728,17 +5739,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71w5WocKA5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8276HFG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8SP7SNL",
-    "title": "Heated Water Hose for RV 25FT, -40°F Freeze Resistant Heated Hose with Thermostat, for Winter Camping, Travel Trailer Motorhome",
-    "type": "should_test",
-    "score": 68.75,
-    "price": 63.16,
-    "bsr": 13000,
-    "image_url": "https://m.media-amazon.com/images/I/71lWMprlVlL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8SP7SNL",
     "walmart_url": null
   },
   {
@@ -8346,6 +8346,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+-ddHIs0L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ7G4R22",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HN1MNNH3",
+    "title": "EF EcoFlow TITAN 5000 Power Station, 5017Wh LFP, 7200W120V/240V AC Output",
+    "type": "should_test",
+    "score": 62.75,
+    "price": 3199.0,
+    "bsr": 13360,
+    "image_url": "https://m.media-amazon.com/images/I/61USbcbDZcL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HN1MNNH3",
     "walmart_url": null
   },
   {
@@ -15334,6 +15345,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDYMJTG3",
+    "title": "RV Roof Cover Oxford Cloth Waterproof Camper Cover, Black, 21.5 ft",
+    "type": "candidate",
+    "score": 55.5,
+    "price": 68.0,
+    "bsr": 13733,
+    "image_url": "https://m.media-amazon.com/images/I/714UxibLhEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDYMJTG3",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H29BK8Z3",
     "title": "Dual Color RV Lights Exterior, Aluminum 180° 3-Sided RV LED Porch Light 1600LM Super Bright Outdoor Outside White/Amber Lighting fit for RVs Travel Trailer Truck Camper 5th Wheel Motorhome (2X)",
     "type": "candidate",
@@ -15452,17 +15474,6 @@
     "bsr": 3436,
     "image_url": "https://m.media-amazon.com/images/I/818H4pNzEwL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNKCPFWQ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGKP721G",
-    "title": "Adjustable Trailer Hitch for 2.5&quot; Receiver,Heavy Duty 6&quot; Drop Tow Hitch",
-    "type": "candidate",
-    "score": 55.0,
-    "price": 139.99,
-    "bsr": 13104,
-    "image_url": "https://m.media-amazon.com/images/I/71HXzRRdHbL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGKP721G",
     "walmart_url": null
   },
   {
@@ -16255,6 +16266,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71J9bR9B+cL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDBBQCMN",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGKP721G",
+    "title": "Adjustable Trailer Hitch for 2.5&quot; Receiver,Heavy Duty 6&quot; Drop Tow Hitch",
+    "type": "candidate",
+    "score": 54.0,
+    "price": 119.99,
+    "bsr": 14008,
+    "image_url": "https://m.media-amazon.com/images/I/71HXzRRdHbL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGKP721G",
     "walmart_url": null
   },
   {
@@ -19965,17 +19987,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFMCM4HL",
-    "title": "RV Wye Sewer Hose Fittings &amp; 4-in-1 Adapter -Built-In Gaskets for Odor | UV-resistant,Odor-Proof and Leak-Proof,90° Removable",
-    "type": "candidate",
-    "score": 49.5,
-    "price": 22.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61b2jfLekpL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFMCM4HL",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJWG89FB",
     "title": "Miisiya Wireless Truck Bed Lights Motion Sensor for RV Pickup White 2Pack | Truck Roof Ceiling Light Motion Sensor &amp; Constant",
     "type": "candidate",
@@ -19984,17 +19995,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71cpY1xUK3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJWG89FB",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H4GVQQZF",
-    "title": "6 Inch RV Bunk Mattress, 34&quot; x 75&quot; RV Mattress Gel Memory Foam, High Density Certified Camper Bunk Mattress for Travel Camper Trailer/Truck/RV, Medium Firm &amp;Removable Cover",
-    "type": "candidate",
-    "score": 49.4,
-    "price": 180.49,
-    "bsr": 19854,
-    "image_url": "https://m.media-amazon.com/images/I/81ov2cym3TL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4GVQQZF",
     "walmart_url": null
   },
   {
@@ -20523,6 +20523,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61pTkg1HFyL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H36GT6T6",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H4GVQQZF",
+    "title": "6 Inch RV Bunk Mattress, 34&quot; x 75&quot; RV Mattress Gel Memory Foam, High Density Certified Camper Bunk Mattress for Travel Camper Trailer/Truck/RV, Medium Firm &amp;Removable Cover",
+    "type": "candidate",
+    "score": 48.75,
+    "price": 199.99,
+    "bsr": 13859,
+    "image_url": "https://m.media-amazon.com/images/I/81ov2cym3TL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4GVQQZF",
     "walmart_url": null
   },
   {
@@ -23672,6 +23683,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HMH1V3DX",
+    "title": "15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow",
+    "type": "candidate",
+    "score": 46.2,
+    "price": 37.99,
+    "bsr": 7627,
+    "image_url": "https://m.media-amazon.com/images/I/61O2dT0Lc-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMH1V3DX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8F5ZV3Y",
     "title": "RV Floor Vent Cover 2 Pack, Magnetic RV Vent Register 2&quot;x10&quot; Aluminum Removable Camper Trailer Floor Vent with Magnetic Pull",
     "type": "candidate",
@@ -24343,6 +24365,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8JZSWNX",
+    "title": "RV Extension Cord 25 FT 50 Amp NEMA 14-50P to 14-50R Heavy Duty Black",
+    "type": "candidate",
+    "score": 45.5,
+    "price": 89.99,
+    "bsr": 15075,
+    "image_url": "https://m.media-amazon.com/images/I/71EsYva7ylL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8JZSWNX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H3KWHK84",
     "title": "RV Toilet Seal Replacement 2 Pack for Dometic 300 310 320 Series, Flush Ball Seal Gasket Kit, Upgraded RV Toilet Seal Replacement Part #385311658",
     "type": "candidate",
@@ -24571,17 +24604,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gH6YIffsL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHMXGSSL",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8JZSWNX",
-    "title": "RV Extension Cord 25 FT 50 Amp NEMA 14-50P to 14-50R Heavy Duty Black",
-    "type": "candidate",
-    "score": 45.0,
-    "price": 89.99,
-    "bsr": 15743,
-    "image_url": "https://m.media-amazon.com/images/I/71EsYva7ylL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8JZSWNX",
     "walmart_url": null
   },
   {
@@ -25025,17 +25047,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HMH1V3DX",
-    "title": "OUTPRIZE 15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow | EXTREME Heavy Duty 24 Mil, TPE Material, Abrasio",
-    "type": "candidate",
-    "score": 44.7,
-    "price": 37.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61O2dT0Lc-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HMH1V3DX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6BSY29B",
     "title": "2 Pcs Trailer Coupler Pin with Anti-Lost Rope Ring, Arch Trailer Hitch Pin, Locking Pins for Farm Trailers, Towing Accessorie",
     "type": "candidate",
@@ -25473,6 +25484,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51ZfbUooH6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5WDT6ND",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFMCM4HL",
+    "title": "RV Wye Sewer Hose Fittings &amp; 4-in-1 Adapter -Built-In Gaskets for Odor",
+    "type": "candidate",
+    "score": 44.0,
+    "price": 22.99,
+    "bsr": 14527,
+    "image_url": "https://m.media-amazon.com/images/I/61b2jfLekpL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFMCM4HL",
     "walmart_url": null
   },
   {
@@ -26961,17 +26983,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HQ5R96PV",
-    "title": "Portable Outdoor Hand Crank Emergency Generator with Radio Light | 1000mAh LED Flashlight,Electronic Igniter, Survival Gear f",
-    "type": "candidate",
-    "score": 42.5,
-    "price": 30.59,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61h5Wf1fQHL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HQ5R96PV",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HDH84YYL",
     "title": "17.5mm Backup Camera Lens Protector, 2 Pack, Anti-Fog Clear Cover",
     "type": "candidate",
@@ -27764,6 +27775,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HRFPVS14",
+    "title": "2PCS Hand Crank Generator USB Emergency Charger for Mobile Phones",
+    "type": "candidate",
+    "score": 41.25,
+    "price": 19.98,
+    "bsr": 12836,
+    "image_url": "https://m.media-amazon.com/images/I/71O3rlPAxSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HRFPVS14",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJ19ZFBV",
     "title": "RV Waste Valve Handle T1003-6MN Replacement for Camco RV Sewer Valve Handle | Fit for Valterra Metal Camper Dump Valve Handle",
     "type": "candidate",
@@ -28006,6 +28028,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HQ5R96PV",
+    "title": "Portable Outdoor Hand Crank Emergency Generator with Radio Light",
+    "type": "candidate",
+    "score": 40.5,
+    "price": 30.59,
+    "bsr": 12736,
+    "image_url": "https://m.media-amazon.com/images/I/61h5Wf1fQHL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQ5R96PV",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5SDY31C",
     "title": "Shackle Hitch Receiver 2&quot; Inch Receivers for Vehicle Recovery, Black",
     "type": "candidate",
@@ -28157,6 +28190,28 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61AAexpfb8L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFVNS7N2",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HLN6BY37",
+    "title": "VEVOR 50 20 Amp RV Temporary Power Outlet Box Electrical Panel with Breaker",
+    "type": "candidate",
+    "score": 40.5,
+    "price": 56.61,
+    "bsr": 13026,
+    "image_url": "https://m.media-amazon.com/images/I/71rxqOnLFRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLN6BY37",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HG16KDGJ",
+    "title": "RUGCEL Electric Winch 12V 3500lb, 12V Electric Winches with Synthetic Winch Rope",
+    "type": "candidate",
+    "score": 40.5,
+    "price": 89.99,
+    "bsr": 13943,
+    "image_url": "https://m.media-amazon.com/images/I/71bTNFoXUYL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG16KDGJ",
     "walmart_url": null
   },
   {
@@ -28355,17 +28410,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/514Z3RtGzML._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6RVFZS9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HLN6BY37",
-    "title": "VEVOR 50 20 Amp RV Temporary Power Outlet Box Electrical Panel with Breaker",
-    "type": "candidate",
-    "score": 40.0,
-    "price": 60.9,
-    "bsr": 22568,
-    "image_url": "https://m.media-amazon.com/images/I/71rxqOnLFRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HLN6BY37",
     "walmart_url": null
   },
   {
@@ -28743,6 +28787,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HQHV6T4J",
+    "title": "Hand Crank Charger for Cell Phone,Mobile Phone Usb Hand Crank Charger,Blue",
+    "type": "candidate",
+    "score": 39.5,
+    "price": 5.55,
+    "bsr": 13921,
+    "image_url": "https://m.media-amazon.com/images/I/71NS04ZAN9L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQHV6T4J",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H729N822",
     "title": "Black Solid Color Spare Tire Covers for RV Trailer SUV Truck,15IN | Black Tire Covers Universal Fit for Jeep Vehicles,Waterpr",
     "type": "candidate",
@@ -29048,6 +29103,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yARfwWOPL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCZHXYQ6",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HQ92XRCT",
+    "title": "Hand Crank USB Generator for charger, 5.5V Manual Power Generator(BLUE)",
+    "type": "candidate",
+    "score": 39.0,
+    "price": 9.99,
+    "bsr": 15535,
+    "image_url": "https://m.media-amazon.com/images/I/51MM5lVl9SL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQ92XRCT",
     "walmart_url": null
   },
   {
@@ -29799,6 +29865,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9YZXF58",
+    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
+    "type": "candidate",
+    "score": 37.5,
+    "price": 6.99,
+    "bsr": 7751,
+    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H9R5TRZ3",
     "title": "Rubber Cover Compatible with B&amp;W Gooseneck Hitch Empty Turnoverball Socket",
     "type": "candidate",
@@ -30159,17 +30236,6 @@
     "bsr": 1562036,
     "image_url": "https://m.media-amazon.com/images/I/51-dOxvJJZL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H95GB72V",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9YZXF58",
-    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
-    "type": "candidate",
-    "score": 36.5,
-    "price": 6.99,
-    "bsr": 13806,
-    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
     "walmart_url": null
   },
   {
