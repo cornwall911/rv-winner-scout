@@ -1419,17 +1419,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF4HN94D",
-    "title": "for Starlink Mini Pole Clamp Mount , Starlink Mini Mount Accessories Adjustable Bracket for Car RV Boat Camper, Roof Rack Lad",
-    "type": "winner",
-    "score": 82.7,
-    "price": 18.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eVRUtcOkL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4HN94D",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBVG98GD",
     "title": "12V RV Air Conditioner 10000 BTU w/o Duct, 12V DC Rooftop AC Unit for Camper Van, 40dB Off-Grid Battery Powered RV AC Unit",
     "type": "winner",
@@ -1570,6 +1559,17 @@
     "bsr": 16560,
     "image_url": "https://m.media-amazon.com/images/I/71EV2yOARhL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJDBKJWL",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF4HN94D",
+    "title": "for Starlink Mini Pole Clamp Mount , Starlink Mini Mount Accessories Adjustable Bracket for Car RV Boat Camper, Roof Rack Lad",
+    "type": "winner",
+    "score": 82.25,
+    "price": 18.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eVRUtcOkL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4HN94D",
     "walmart_url": null
   },
   {
@@ -3396,6 +3396,17 @@
     "bsr": 30,
     "image_url": "https://m.media-amazon.com/images/I/61dOQoueLML.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7HPTDMC",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8XKTSBP",
+    "title": "RV Shower Head with Hose, 8-Setting Handheld Shower Head with Power Wash | Top Power Wash Jet, 58-Inch Stainless Steel Hose a",
+    "type": "should_test",
+    "score": 76.75,
+    "price": 23.98,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81GfFTm4e5L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8XKTSBP",
     "walmart_url": null
   },
   {
@@ -8932,6 +8943,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8DD2N5F",
+    "title": "DIY Cut Insulated RV Skirting, Fits 5th Wheel &amp; Trailers 18m/59ft | Weatherproof Trailer Undercarriage Skirt for Winter Freez",
+    "type": "should_test",
+    "score": 62.0,
+    "price": 188.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71dIMaeblML._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8DD2N5F",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZPC8H9J",
     "title": "Step Stool with Handle for Elderly &amp; Seniors,Rv Steps with Handrail 330lbs,Step Stools for Seniors, Adjustables 5-Level Handr",
     "type": "should_test",
@@ -9130,6 +9152,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HQ73PM5L",
+    "title": "RV Skirting for Winter, Camper Insulated Skirting Kit for Travel Trailer &amp; 5th Wheel, Heavy Duty Windproof RV Skirt for Class",
+    "type": "should_test",
+    "score": 61.75,
+    "price": 119.36,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZvXNHWBPL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQ73PM5L",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCNJ9SP8",
     "title": "RV Frame Stabilizer with Replaceable Support Heads, Heavy Duty Anti-Wobble Trailer Stabilizer for I-Beam &amp; Box Frame Chassis,",
     "type": "should_test",
@@ -9193,17 +9226,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61o6OJQcD6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQHV5MY",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HQ73PM5L",
-    "title": "RV Skirting for Winter, Camper Insulated Skirting Kit for Travel Trailer &amp; 5th Wheel, Heavy Duty Windproof RV Skirt for Class",
-    "type": "should_test",
-    "score": 61.5,
-    "price": 119.36,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZvXNHWBPL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HQ73PM5L",
     "walmart_url": null
   },
   {
@@ -9713,6 +9735,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6WXPD9N",
+    "title": "Adjustable Bunk Bed Ladder 52-64 in, Foldable RV Bunk Ladder, Holds 300 lb | 4 wide anti-slip steps, heavy-duty metal frame a",
+    "type": "should_test",
+    "score": 60.5,
+    "price": 72.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zxtscpTrL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6WXPD9N",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8Y3VFZ6",
     "title": "Garvee 5 RV Steps with Dual Handrails for Camper, Travel Trailers &amp; Porch Entry",
     "type": "should_test",
@@ -9889,17 +9922,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6WXPD9N",
-    "title": "Adjustable Bunk Bed Ladder 52-64 in, Foldable RV Bunk Ladder, Holds 300 lb | 4 wide anti-slip steps, heavy-duty metal frame a",
-    "type": "should_test",
-    "score": 60.0,
-    "price": 72.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zxtscpTrL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6WXPD9N",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJV9PKJP",
     "title": "RV Dual C-O and L-P G-as Sensor, 12V DC for RVs, Hardwired, White",
     "type": "should_test",
@@ -9952,17 +9974,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/91mdlpI6DuL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBVY6661",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H69WSJ3R",
-    "title": "CKJSJ RV Fridge Tension Rods 4 Pack 14-25.6 Inch Stainless Steel | Tool-Free Adhesive Install, Adjustable Swivel Base, Preven",
-    "type": "should_test",
-    "score": 59.9,
-    "price": 23.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xqT4BWhmL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H69WSJ3R",
     "walmart_url": null
   },
   {
@@ -10568,6 +10579,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71BSrjOBF5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8GXHTJ9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGLDH2MX",
+    "title": "HIHWEM RV Toilet Treatment Holding Tank Deodorizer Cleaner Pods | RV Toilet Treatment with Dissolvable Packets, Odor Control",
+    "type": "should_test",
+    "score": 58.75,
+    "price": 26.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71yiWJLVGaL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGLDH2MX",
     "walmart_url": null
   },
   {
@@ -14982,6 +15004,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HB4GGMDD",
+    "title": "Furgatti Reclining Loveseat Sofa, RV Loveseats Recliner Sofas Wall Hugger, Double Recliners Couch with USB-A/Type C, Cup Hold",
+    "type": "candidate",
+    "score": 56.4,
+    "price": 759.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81cV4aYQFyL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB4GGMDD",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H4ZFHMG9",
     "title": "RV Step Covers 4 Pack, 23.6 x 7.5 in Non-Slip Camper Step Mats, Dark Gray | Self-Adhesive Trimmable EVA Foam RV Stair Covers",
     "type": "candidate",
@@ -15012,17 +15045,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71joNzviuaL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGL8PDS6",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6JH24B9",
-    "title": "12V LED Puck Lights, RV Boat Recessed Ceiling Light 3” 3CCT 3000K/4000K/6000K 3W Full Aluminum for Caravan Interior Under Cabinet Lighting (White,6 Pack)",
-    "type": "candidate",
-    "score": 56.25,
-    "price": 39.9,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61iXZsQfyJL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6JH24B9",
     "walmart_url": null
   },
   {
@@ -17611,6 +17633,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H69WSJ3R",
+    "title": "CKJSJ RV Fridge Tension Rods 4 Pack 14-25.6 Inch Stainless Steel | Tool-Free Adhesive Install, Adjustable Swivel Base, Preven",
+    "type": "candidate",
+    "score": 52.0,
+    "price": 23.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xqT4BWhmL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H69WSJ3R",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCTZPY4Q",
     "title": "Kooprimit RV Black Tank Rinser with Gate Valve and Backflow Preventer | Gate Valve Controls Fill-And-Release Rinsing; Clear 4",
     "type": "candidate",
@@ -19382,17 +19415,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFS17ZM1",
-    "title": "RV Electric Tongue Jack Cover with D Rings, 600D, Black Reflective Strip | RV Accessory, Tongue Jack Protection",
-    "type": "candidate",
-    "score": 50.25,
-    "price": 13.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/716EdqqxxAL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFS17ZM1",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHWWLPRF",
     "title": "RV Water Inlet Funnel 3.35&quot; Wide for Fresh Water Tank Filler Mouth White",
     "type": "candidate",
@@ -19415,11 +19437,33 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6JH24B9",
+    "title": "camperxlite 12V LED Puck Lights, RV Boat Recessed Ceiling Light 3” 3CCT 3000K/4000K/6000K 3W Full Aluminum for Caravan Interi",
+    "type": "candidate",
+    "score": 50.0,
+    "price": 39.9,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61iXZsQfyJL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6JH24B9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFS17ZM1",
+    "title": "RV Electric Tongue Jack Cover with D Rings, 600D, Black Reflective Strip | RV Accessory, Tongue Jack Protection",
+    "type": "candidate",
+    "score": 50.0,
+    "price": 13.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/716EdqqxxAL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFS17ZM1",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HB49C72B",
     "title": "SolYehom Black 4 Inch RV Shower Faucet with Head and Hose Kit for Motorhome | Camper Shower Faucet Replacement Kit,4-Inch RV",
     "type": "candidate",
-    "score": 50.05,
-    "price": 38.99,
+    "score": 50.0,
+    "price": 39.99,
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/614DvyGL0hL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HB49C72B",
@@ -20911,6 +20955,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCBM6Y8S",
+    "title": "FUSCH Aluminum RV Table and Floor Mounting Base, Heavy-Duty Thickened | Heavy Duty Aluminum RV Table Base Mount For Camper Tr",
+    "type": "candidate",
+    "score": 48.75,
+    "price": 25.69,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719hxL4uGfL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCBM6Y8S",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H418JLC8",
     "title": "Hon&amp;Guan Metal RV Exhaust Vent Cover with Mesh and Noise Reduction Pad | Magnetic Seal, External Locking Clip, Adjustable Dep",
     "type": "candidate",
@@ -21876,17 +21931,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61kfr-G0F2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HN8WTLX1",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCBM6Y8S",
-    "title": "FUSCH Aluminum RV Table and Floor Mounting Base, Heavy-Duty Thickened | Heavy Duty Aluminum RV Table Base Mount For Camper Tr",
-    "type": "candidate",
-    "score": 47.75,
-    "price": 25.69,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719hxL4uGfL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCBM6Y8S",
     "walmart_url": null
   },
   {
@@ -24684,6 +24728,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8J84XDG",
+    "title": "Keiurot Truck Bed Lights Motion Sensor for RV Pickup Camper White 2Pack | 2 Modes Wireless 1500mAh Battery Rechargeable for C",
+    "type": "candidate",
+    "score": 45.25,
+    "price": 24.89,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710PKWDYOqL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8J84XDG",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHMXGSSL",
     "title": "R001832 060744-001 RV Awning Motor - Compatible with Carefree of Colorado | Replaces 060744001 Compatible with Compass/Longit",
     "type": "candidate",
@@ -25143,17 +25198,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61nTEGTEP0L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HB41WFKR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJ7LY1Y5",
-    "title": "8 Pcs Pentesting Master Key Set, Camper Keys, Equipment Maintenance Keys | RV Replacement Keys Compatible with CH545 CH751 CH",
-    "type": "candidate",
-    "score": 44.5,
-    "price": 7.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7115xDvdwpL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ7LY1Y5",
     "walmart_url": null
   },
   {
@@ -25773,6 +25817,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9YTXKCR",
+    "title": "Kadrama RV Door Holder 5 Pack, Camper Baggage Door Catch for Trailer, White | Spring Loaded ABS Design, Includes Mounting Scr",
+    "type": "candidate",
+    "score": 44.0,
+    "price": 9.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61r8vE-HpiL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9YTXKCR",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJ517PMY",
     "title": "4pcs Backup Camera Rain Hood Cover with Curved Black PVC Canopy, Adhesive-Backed Rear Guard for Outdoor Parking Rear View Lens Hood Car Reversing Cover Black PVC Adhesive Weather Guard Rain",
     "type": "candidate",
@@ -25858,28 +25913,6 @@
     "bsr": 4567505,
     "image_url": "https://m.media-amazon.com/images/I/717ETRTp1NL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H82Q1KT2",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8J84XDG",
-    "title": "Keiurot Truck Bed Lights Motion Sensor for RV Pickup Camper White 2Pack | 2 Modes Wireless 1500mAh Battery Rechargeable for C",
-    "type": "candidate",
-    "score": 43.75,
-    "price": 24.89,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710PKWDYOqL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8J84XDG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9YTXKCR",
-    "title": "Kadrama RV Door Holder 5 Pack, Camper Baggage Door Catch for Trailer, White | Spring Loaded ABS Design, Includes Mounting Scr",
-    "type": "candidate",
-    "score": 43.75,
-    "price": 9.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61r8vE-HpiL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9YTXKCR",
     "walmart_url": null
   },
   {
@@ -26166,17 +26199,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71oot8AwvpL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF7ZBHW5",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7GBX69H",
-    "title": "Kit for Kwikee 369299 RV Step Magnetic Switch for Kwikee 32 Series Steps",
-    "type": "candidate",
-    "score": 43.5,
-    "price": 11.88,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71xqGM9v1wL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7GBX69H",
     "walmart_url": null
   },
   {
@@ -30558,6 +30580,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7GBX69H",
+    "title": "Kit for Kwikee 369299 RV Step Magnetic Switch for Kwikee 32 Series Steps | 369299 Magnetic Switch Kit, Door Switch for Kwikee",
+    "type": "candidate",
+    "score": 36.2,
+    "price": 11.88,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xqGM9v1wL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7GBX69H",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHNJVZHL",
     "title": "Suburban LP-BTCON Inverted T-Connection for LP Propane Lines",
     "type": "candidate",
@@ -31226,6 +31259,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eiAZgp9kL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5LF18Z3",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ7LY1Y5",
+    "title": "8 Pcs Pentesting Master Key Set, Camper Keys, Equipment Maintenance Keys | RV Replacement Keys Compatible with CH545 CH751 CH",
+    "type": "candidate",
+    "score": 34.5,
+    "price": 9.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/7115xDvdwpL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ7LY1Y5",
     "walmart_url": null
   },
   {
