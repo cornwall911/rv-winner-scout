@@ -187,17 +187,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFMSXN93",
-    "title": "AUTO-VOX Solar Wireless Backup Camera, 1 Minute DIY Install, 5&quot; HD Monito",
-    "type": "winner",
-    "score": 89.95,
-    "price": 129.99,
-    "bsr": 9352,
-    "image_url": "https://m.media-amazon.com/images/I/71RCj5626sL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFMSXN93",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H36H3XG5",
     "title": "HEECOOMI 3 Magnetic Solar Wireless Backup Camera, 360° Rotating Lens + 10.1&quot; HD Touchscreen DVR, 3x10000mAh Rechargeable IR R",
     "type": "winner",
@@ -536,6 +525,17 @@
     "bsr": 8411,
     "image_url": "https://m.media-amazon.com/images/I/71RBYn+DAaL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ4Y7GZB",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFMSXN93",
+    "title": "AUTO-VOX Solar Wireless Backup Camera, 1 Minute DIY Install, 5&quot; HD Monito",
+    "type": "winner",
+    "score": 89.05,
+    "price": 103.99,
+    "bsr": 9380,
+    "image_url": "https://m.media-amazon.com/images/I/71RCj5626sL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFMSXN93",
     "walmart_url": null
   },
   {
@@ -1691,17 +1691,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/716F1UA5s5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZ2RS58N",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HFHQFRGJ",
-    "title": "2-Pack Magnetic Solar Light Outdoor, 176LED Motion Sensor RV Light Exterior | No-Drill Magnet Mount, 800LM RV Awning Lights,",
-    "type": "winner",
-    "score": 82.0,
-    "price": 24.77,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O882XECOL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFHQFRGJ",
     "walmart_url": null
   },
   {
@@ -4675,6 +4664,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HN1MNNH3",
+    "title": "EF EcoFlow TITAN 5000 Power Station, 5017Wh LFP, 7200W120V/240V AC Output",
+    "type": "should_test",
+    "score": 72.4,
+    "price": 3199.0,
+    "bsr": 13369,
+    "image_url": "https://m.media-amazon.com/images/I/61USbcbDZcL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HN1MNNH3",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HL8WPNWP",
     "title": "Trygoal 5 in 1 Convertible Sleeper Chair, Sofa Bed with Holder, Dark Gray | Built with a Phone Holder, Cup Holder and USB Por",
     "type": "should_test",
@@ -4785,6 +4785,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBQ26RYC",
+    "title": "Portable Power Station 300W, 296Wh Battery Generator for Emergency Backup",
+    "type": "should_test",
+    "score": 71.75,
+    "price": 129.99,
+    "bsr": 12945,
+    "image_url": "https://m.media-amazon.com/images/I/71UP0idnBjL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQ26RYC",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HBP479PL",
     "title": "Portable Cordless Cleaner with Tank: Foldable Electric Cleaning Tool",
     "type": "should_test",
@@ -4837,17 +4848,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81gjU0WvScL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFBXN8Z2",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBQ26RYC",
-    "title": "Portable Power Station 300W, 296Wh Battery Generator for Emergency Backup",
-    "type": "should_test",
-    "score": 71.65,
-    "price": 129.99,
-    "bsr": 12947,
-    "image_url": "https://m.media-amazon.com/images/I/71UP0idnBjL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQ26RYC",
     "walmart_url": null
   },
   {
@@ -5478,6 +5478,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8SP7SNL",
+    "title": "Heated Water Hose for RV 25FT, -40°F Freeze Resistant Heated Hose with Thermostat, for Winter Camping, Travel Trailer Motorhome",
+    "type": "should_test",
+    "score": 69.5,
+    "price": 63.16,
+    "bsr": 14509,
+    "image_url": "https://m.media-amazon.com/images/I/71lWMprlVlL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8SP7SNL",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFW699CJ",
     "title": "2 Inch Hitch Receiver Key Safe, 4-Digit Metal Lock Box with Weather Cover",
     "type": "should_test",
@@ -5563,17 +5574,6 @@
     "bsr": 17112,
     "image_url": "https://m.media-amazon.com/images/I/71aa9OITh5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5PS947G",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8SP7SNL",
-    "title": "Heated Water Hose for RV 25FT, -40°F Freeze Resistant Heated Hose with Thermostat, for Winter Camping, Travel Trailer Motorhome",
-    "type": "should_test",
-    "score": 69.25,
-    "price": 63.16,
-    "bsr": 14464,
-    "image_url": "https://m.media-amazon.com/images/I/71lWMprlVlL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8SP7SNL",
     "walmart_url": null
   },
   {
@@ -8434,17 +8434,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61LMFau0I+L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCLJ86GT",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HN1MNNH3",
-    "title": "EF EcoFlow TITAN 5000 Power Station, 5017Wh LFP, 7200W120V/240V AC Output",
-    "type": "should_test",
-    "score": 62.75,
-    "price": 3199.0,
-    "bsr": 13360,
-    "image_url": "https://m.media-amazon.com/images/I/61USbcbDZcL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HN1MNNH3",
     "walmart_url": null
   },
   {
@@ -12122,6 +12111,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HQ4HSKMR",
+    "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant Camper Roof Cover, Class A/B/C Motorhomes, Pop-up &amp; Truck Campers, Roof-Only Protection, Snow Protection, Fits 16-42ft RVs，Black：27.89 × 9.84 ft",
+    "type": "should_test",
+    "score": 55.75,
+    "price": 99.99,
+    "bsr": 12257,
+    "image_url": "https://m.media-amazon.com/images/I/813cRF+AuSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQ4HSKMR",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6J1N8MM",
     "title": "JULIBA RV AC Unit 18000 BTU with Heat Pump,WiFi &amp;Remote Control | 110-120V Non-Ducted Rooftop RV Air Conditioner,Cooling &amp;Hea",
     "type": "should_test",
@@ -13714,6 +13714,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/7162bhGOPSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6V2T6GW",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFHQFRGJ",
+    "title": "2-Pack Magnetic Solar Light Outdoor, 176LED Motion Sensor RV Light Exterior",
+    "type": "candidate",
+    "score": 62.9,
+    "price": 19.22,
+    "bsr": 14481,
+    "image_url": "https://m.media-amazon.com/images/I/71O882XECOL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFHQFRGJ",
     "walmart_url": null
   },
   {
@@ -15411,6 +15422,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDYMJTG3",
+    "title": "RV Roof Cover Oxford Cloth Waterproof Camper Cover, Black, 21.5 ft",
+    "type": "candidate",
+    "score": 55.75,
+    "price": 68.0,
+    "bsr": 13775,
+    "image_url": "https://m.media-amazon.com/images/I/714UxibLhEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDYMJTG3",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GYD7ZFP5",
     "title": "Motorhome Shower Pipe 1.5M Anti Flexible Tubing Ergonomic Showerhead Multiple Sprayed Modes Bath Necessary ABS Shower Hose",
     "type": "candidate",
@@ -15573,17 +15595,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mC4O1Wn9L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDYS2337",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HDYMJTG3",
-    "title": "RV Roof Cover Oxford Cloth Waterproof Camper Cover, Black, 21.5 ft",
-    "type": "candidate",
-    "score": 55.5,
-    "price": 68.0,
-    "bsr": 13733,
-    "image_url": "https://m.media-amazon.com/images/I/714UxibLhEL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDYMJTG3",
     "walmart_url": null
   },
   {
@@ -16599,6 +16610,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGKP721G",
+    "title": "Adjustable Trailer Hitch for 2.5&quot; Receiver,Heavy Duty 6&quot; Drop Tow Hitch",
+    "type": "candidate",
+    "score": 54.2,
+    "price": 139.99,
+    "bsr": 14039,
+    "image_url": "https://m.media-amazon.com/images/I/71HXzRRdHbL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGKP721G",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHLX4QB1",
     "title": "1000W Power Inverter 12V to 110V/120V，Power Inverters for Vehicles",
     "type": "candidate",
@@ -16607,28 +16629,6 @@
     "bsr": 5783,
     "image_url": "https://m.media-amazon.com/images/I/81oO-mSlP6L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHLX4QB1",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HQ4HSKMR",
-    "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant Camper Roof Cover, Class A/B/C Motorhomes, Pop-up &amp; Truck Campers, Roof-Only Protection, Snow Protection, Fits 16-42ft RVs，Black：27.89 × 9.84 ft",
-    "type": "candidate",
-    "score": 54.0,
-    "price": 93.99,
-    "bsr": 11481,
-    "image_url": "https://m.media-amazon.com/images/I/813cRF+AuSL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HQ4HSKMR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGKP721G",
-    "title": "Adjustable Trailer Hitch for 2.5&quot; Receiver,Heavy Duty 6&quot; Drop Tow Hitch",
-    "type": "candidate",
-    "score": 54.0,
-    "price": 119.99,
-    "bsr": 14008,
-    "image_url": "https://m.media-amazon.com/images/I/71HXzRRdHbL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGKP721G",
     "walmart_url": null
   },
   {
@@ -18403,6 +18403,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H4GVQQZF",
+    "title": "6 Inch RV Bunk Mattress, 34&quot; x 75&quot; RV Mattress Gel Memory Foam, High Density Certified Camper Bunk Mattress for Travel Camper Trailer/Truck/RV, Medium Firm &amp;Removable Cover",
+    "type": "candidate",
+    "score": 51.4,
+    "price": 169.99,
+    "bsr": 13900,
+    "image_url": "https://m.media-amazon.com/images/I/81ov2cym3TL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H4GVQQZF",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HBS1WC22",
     "title": "24V for battery Balancer for Active Equalizer for Series Connected Batteries - Voltage Controller Regulator with LCD Display for RV Solar Systems 85x75mm",
     "type": "candidate",
@@ -18609,6 +18620,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81LNdNKuYfL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDY72LZZ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8JZSWNX",
+    "title": "RV Extension Cord 25 FT 50 Amp NEMA 14-50P to 14-50R Heavy Duty Black",
+    "type": "candidate",
+    "score": 51.25,
+    "price": 89.99,
+    "bsr": 15100,
+    "image_url": "https://m.media-amazon.com/images/I/71EsYva7ylL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8JZSWNX",
     "walmart_url": null
   },
   {
@@ -20908,17 +20930,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71CPFNQEvJL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HG92QHY2",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H4GVQQZF",
-    "title": "6 Inch RV Bunk Mattress, 34&quot; x 75&quot; RV Mattress Gel Memory Foam, High Density Certified Camper Bunk Mattress for Travel Camper Trailer/Truck/RV, Medium Firm &amp;Removable Cover",
-    "type": "candidate",
-    "score": 48.75,
-    "price": 199.99,
-    "bsr": 13859,
-    "image_url": "https://m.media-amazon.com/images/I/81ov2cym3TL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H4GVQQZF",
     "walmart_url": null
   },
   {
@@ -23507,6 +23518,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HMH1V3DX",
+    "title": "15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 44.99,
+    "bsr": 7642,
+    "image_url": "https://m.media-amazon.com/images/I/61O2dT0Lc-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMH1V3DX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H9XSR655",
     "title": "Neptuiby Car Window Fan Solar Powered Car Vent Fan Dual-mode Blow/suction Ventilator Solar Fans for Vehicles Truck RV Backsea",
     "type": "candidate",
@@ -24021,17 +24043,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Cv4oaIc2L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHG5NDM6",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HMH1V3DX",
-    "title": "15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow",
-    "type": "candidate",
-    "score": 46.2,
-    "price": 37.99,
-    "bsr": 7627,
-    "image_url": "https://m.media-amazon.com/images/I/61O2dT0Lc-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HMH1V3DX",
     "walmart_url": null
   },
   {
@@ -24563,6 +24574,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HG16KDGJ",
+    "title": "RUGCEL Electric Winch 12V 3500lb, 12V Electric Winches with Synthetic Winch Rope",
+    "type": "candidate",
+    "score": 45.65,
+    "price": 89.99,
+    "bsr": 13979,
+    "image_url": "https://m.media-amazon.com/images/I/71bTNFoXUYL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG16KDGJ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJWG89FB",
     "title": "Miisiya Wireless Truck Bed Lights Motion Sensor for RV Pickup White 2Pack | Truck Roof Ceiling Light Motion Sensor &amp; Constant",
     "type": "candidate",
@@ -24725,17 +24747,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/619jBdG6ACL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGLCX8W6",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8JZSWNX",
-    "title": "RV Extension Cord 25 FT 50 Amp NEMA 14-50P to 14-50R Heavy Duty Black",
-    "type": "candidate",
-    "score": 45.5,
-    "price": 89.99,
-    "bsr": 15075,
-    "image_url": "https://m.media-amazon.com/images/I/71EsYva7ylL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8JZSWNX",
     "walmart_url": null
   },
   {
@@ -25833,7 +25844,7 @@
     "type": "candidate",
     "score": 44.0,
     "price": 22.99,
-    "bsr": 14527,
+    "bsr": 14575,
     "image_url": "https://m.media-amazon.com/images/I/61b2jfLekpL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFMCM4HL",
     "walmart_url": null
@@ -26056,6 +26067,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61r8vE-HpiL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9YTXKCR",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HQ5R96PV",
+    "title": "Portable Outdoor Hand Crank Emergency Generator with Radio Light | 1000mAh LED Flashlight,Electronic Igniter, Survival Gear f",
+    "type": "candidate",
+    "score": 44.0,
+    "price": 30.59,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61h5Wf1fQHL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQ5R96PV",
     "walmart_url": null
   },
   {
@@ -28182,17 +28204,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HRFPVS14",
-    "title": "2PCS Hand Crank Generator USB Emergency Charger for Mobile Phones",
-    "type": "candidate",
-    "score": 41.25,
-    "price": 19.98,
-    "bsr": 12836,
-    "image_url": "https://m.media-amazon.com/images/I/71O3rlPAxSL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HRFPVS14",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HDSKS45G",
     "title": "RV Awning Pitch Arm, 31.5&quot; Black Anodized Aluminum for 69&quot; Flat Awning | Fits Solera Regal 69&quot; Flat Awnings. Black Anodized A",
     "type": "candidate",
@@ -28468,17 +28479,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HQ5R96PV",
-    "title": "Portable Outdoor Hand Crank Emergency Generator with Radio Light",
-    "type": "candidate",
-    "score": 40.5,
-    "price": 30.59,
-    "bsr": 12736,
-    "image_url": "https://m.media-amazon.com/images/I/61h5Wf1fQHL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HQ5R96PV",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5SDY31C",
     "title": "Shackle Hitch Receiver 2&quot; Inch Receivers for Vehicle Recovery, Black",
     "type": "candidate",
@@ -28622,25 +28622,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HLN6BY37",
-    "title": "VEVOR 50 20 Amp RV Temporary Power Outlet Box Electrical Panel with Breaker",
+    "asin": "B0HQHV6T4J",
+    "title": "Hand Crank Charger for Cell Phone,Mobile Phone Usb Hand Crank Charger,Blue",
     "type": "candidate",
     "score": 40.5,
-    "price": 56.61,
-    "bsr": 13026,
-    "image_url": "https://m.media-amazon.com/images/I/71rxqOnLFRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HLN6BY37",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HG16KDGJ",
-    "title": "RUGCEL Electric Winch 12V 3500lb, 12V Electric Winches with Synthetic Winch Rope",
-    "type": "candidate",
-    "score": 40.5,
-    "price": 89.99,
-    "bsr": 13943,
-    "image_url": "https://m.media-amazon.com/images/I/71bTNFoXUYL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG16KDGJ",
+    "price": 5.55,
+    "bsr": 13925,
+    "image_url": "https://m.media-amazon.com/images/I/71NS04ZAN9L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQHV6T4J",
     "walmart_url": null
   },
   {
@@ -29227,17 +29216,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HQHV6T4J",
-    "title": "Hand Crank Charger for Cell Phone,Mobile Phone Usb Hand Crank Charger,Blue",
-    "type": "candidate",
-    "score": 39.5,
-    "price": 5.55,
-    "bsr": 13921,
-    "image_url": "https://m.media-amazon.com/images/I/71NS04ZAN9L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HQHV6T4J",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBQGQKZP",
     "title": "RV Baggage Cargo Access Locking Door 40 x 16 Light Gray",
     "type": "candidate",
@@ -29562,7 +29540,7 @@
     "type": "candidate",
     "score": 39.0,
     "price": 9.99,
-    "bsr": 15535,
+    "bsr": 15540,
     "image_url": "https://m.media-amazon.com/images/I/51MM5lVl9SL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQ92XRCT",
     "walmart_url": null
@@ -29730,6 +29708,17 @@
     "bsr": 5606,
     "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HRFPVS14",
+    "title": "2PCS Hand Crank Generator USB Emergency Charger for Mobile Phones",
+    "type": "candidate",
+    "score": 38.55,
+    "price": 19.98,
+    "bsr": 12839,
+    "image_url": "https://m.media-amazon.com/images/I/71O3rlPAxSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HRFPVS14",
     "walmart_url": null
   },
   {
@@ -34163,6 +34152,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61205KiHFNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5HZL16Z",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HLN6BY37",
+    "title": "VEVOR 50 20 Amp RV Temporary Power Outlet Box Electrical Panel with Breaker",
+    "type": "candidate",
+    "score": 28.75,
+    "price": 60.9,
+    "bsr": 13061,
+    "image_url": "https://m.media-amazon.com/images/I/71rxqOnLFRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLN6BY37",
     "walmart_url": null
   },
   {
