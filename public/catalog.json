@@ -44,17 +44,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HC5V3KLK",
-    "title": "AUTO-VOX 2 Solar Wireless Backup Camera, 7.2&quot; Split Screen for Dual Views | 3 Min Install, 1080P Dual View, Dual Antenna Sign",
-    "type": "winner",
-    "score": 90.3,
-    "price": 199.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710nzG257dL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC5V3KLK",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJPNYB3P",
     "title": "2027 New Wall Mounted Air Conditioner, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating Wall AC Unit with Remote, Quiet O",
     "type": "winner",
@@ -63,17 +52,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71arQ5Ch5yL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJPNYB3P",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HM3FCQ7W",
-    "title": "Magnetic Solar Wireless Backup Camera for Trucks &amp; Trailer, 5&#x27;&#x27; HD Monitor | IP69, 5W Panel, 28H Battery Life, Auto Sleep &amp; I",
-    "type": "winner",
-    "score": 90.25,
-    "price": 79.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71XgbB3B+8L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HM3FCQ7W",
     "walmart_url": null
   },
   {
@@ -110,6 +88,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HM3FCQ7W",
+    "title": "Magnetic Solar Wireless Backup Camera for Trucks &amp; Trailer, 5&#x27;&#x27; HD Monitor | IP69, 5W Panel, 28H Battery Life, Auto Sleep &amp; I",
+    "type": "winner",
+    "score": 90.0,
+    "price": 79.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71XgbB3B+8L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HM3FCQ7W",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGGD3HX5",
     "title": "AUTO-VOX 7.2-Inch Solar Wireless Backup Camera, 1-Min Magnetic Mount | 1080P HD IR Night Vision, Dual-Antenna Signal, 2 Split",
     "type": "winner",
@@ -118,17 +107,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81vJ2eTUZ6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGGD3HX5",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H695SHXG",
-    "title": "Venluna Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install | 15000mAh Solar Battery, 5” 1080P Monitor, 500ft Wi",
-    "type": "winner",
-    "score": 90.0,
-    "price": 109.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8105IsnmmVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
     "walmart_url": null
   },
   {
@@ -352,6 +330,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC5V3KLK",
+    "title": "AUTO-VOX 2 Solar Wireless Backup Camera, 7.2&quot; Split Screen for Dual Views | 3 Min Install, 1080P Dual View, Dual Antenna Sign",
+    "type": "winner",
+    "score": 89.5,
+    "price": 169.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710nzG257dL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC5V3KLK",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HMK7B4JP",
     "title": "AUTO-VOX Dual Solar Wireless Magnetic Backup Camera, 2-Min Easy Install",
     "type": "winner",
@@ -536,6 +525,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lKz5qMyIL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCT3PC3K",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H695SHXG",
+    "title": "Venluna Magnetic Wireless Backup Camera for Truck Trailer, 1-Min Install | 15000mAh Solar Battery, 5” 1080P Monitor, 500ft Wi",
+    "type": "winner",
+    "score": 89.0,
+    "price": 84.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/8105IsnmmVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
     "walmart_url": null
   },
   {
@@ -4664,6 +4664,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9KCGGLR",
+    "title": "Rocoren Starlink Mini Car Adapter 10FT 60W DC USB-C 45W USB-A 30W 12V-24V",
+    "type": "should_test",
+    "score": 72.5,
+    "price": 20.18,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71dnGdX4N8L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9KCGGLR",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5B29WJ9",
     "title": "MUTAOMAY 5000 Watt Inverter Generator, 4000W Running, Home Backup &amp; RV | 4000W Running, TT-30R Outlet，57.2 lb Lightweight, 30",
     "type": "should_test",
@@ -5489,17 +5500,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ2N7FJ1",
-    "title": "Efurden 6000W Inverter Generator, Portable Gas Powered Generator | 3 Gal Fuel Tank, ECO Mode, RV Ready 30A Outlet, USB Port,",
-    "type": "should_test",
-    "score": 69.5,
-    "price": 473.67,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81moB1xmQiL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ2N7FJ1",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H8SP7SNL",
     "title": "Heated Water Hose for RV 25FT, -40°F Freeze Resistant Heated Hose with Thermostat, for Winter Camping, Travel Trailer Motorhome",
     "type": "should_test",
@@ -5764,6 +5764,28 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKJN9RCW",
+    "title": "EFURDEN 4300W Inverter Portable Generator, Gas Powered Quiet Generator for Home Use &amp; Camping, 30A RV Ready, 45 Lbs, EPA Comp",
+    "type": "should_test",
+    "score": 68.75,
+    "price": 379.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71oUf-MK6TL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKJN9RCW",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0GPWBVY58",
+    "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
+    "type": "should_test",
+    "score": 68.75,
+    "price": 329.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71O9LSJyirL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8SX8VPF",
     "title": "Aluminum Car Roof Step for Hyundai Santa Cruz",
     "type": "should_test",
@@ -5904,6 +5926,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71rmJGwyPHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8D17HTQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ2N7FJ1",
+    "title": "Efurden 6000W Inverter Generator, Portable Gas Powered Generator | 3 Gal Fuel Tank, ECO Mode, RV Ready 30A Outlet, USB Port,",
+    "type": "should_test",
+    "score": 68.25,
+    "price": 378.93,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81moB1xmQiL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ2N7FJ1",
     "walmart_url": null
   },
   {
@@ -6094,17 +6127,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9KCGGLR",
-    "title": "Rocoren Starlink Mini Car Adapter 10FT 60W DC USB-C 45W USB-A 30W 12V-24V",
-    "type": "should_test",
-    "score": 68.0,
-    "price": 24.99,
-    "bsr": 17703,
-    "image_url": "https://m.media-amazon.com/images/I/71dnGdX4N8L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9KCGGLR",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6B26NFS",
     "title": "2PCS Carbon Fiber Backup Camera Rain Shield, No Drill Self-Adhesive Waterproof Anti-Rain Cover, Universal Rear View Reverse Camera Protector for Cars, SUVs, Trucks（Black）",
     "type": "should_test",
@@ -6113,39 +6135,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61OIF+GBP1L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6B26NFS",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCHRD3VH",
-    "title": "Dyfizer Mental RV Door Lock Keyless Entry with Keypad/Handle/Remotes/Keys | Full metal RV lock with triple access, jam-free d",
-    "type": "should_test",
-    "score": 68.0,
-    "price": 89.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6155yBbsZNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0GPWBVY58",
-    "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
-    "type": "should_test",
-    "score": 68.0,
-    "price": 329.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O9LSJyirL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HKJN9RCW",
-    "title": "EFURDEN 4300W Inverter Portable Generator, Gas Powered Quiet Generator for Home Use &amp; Camping, 30A RV Ready, 45 Lbs, EPA Comp",
-    "type": "should_test",
-    "score": 68.0,
-    "price": 419.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71oUf-MK6TL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKJN9RCW",
     "walmart_url": null
   },
   {
@@ -6179,6 +6168,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61uKK0y4qBL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H39F3PNQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCHRD3VH",
+    "title": "Dyfizer Mental RV Door Lock Keyless Entry with Keypad/Handle/Remotes/Keys | Full metal RV lock with triple access, jam-free d",
+    "type": "should_test",
+    "score": 67.75,
+    "price": 89.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6155yBbsZNL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
     "walmart_url": null
   },
   {
@@ -7084,6 +7084,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJZ2P3XQ",
+    "title": "Rain &amp; Sun-Resistant Backup Camera Rain Shield,Reverse Camera Protection",
+    "type": "should_test",
+    "score": 65.45,
+    "price": 5.59,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61ifwJAmYqL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJZ2P3XQ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6HN2LZ6",
     "title": "Genkins 4200W Portable Inverter Generator, Quiet Lightweight for Camping Home Backup",
     "type": "should_test",
@@ -7455,6 +7466,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61++m0b1ViL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ1CH8Y8",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ5NLZJJ",
+    "title": "4800W Portable Open Frame Gas Inverter Generator for Home Backup &amp; RV Power | 55 lbs portable inverter generator with &lt;3% THD",
+    "type": "should_test",
+    "score": 64.55,
+    "price": 339.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O0+9ThBzL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ5NLZJJ",
     "walmart_url": null
   },
   {
@@ -9339,17 +9361,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ5NLZJJ",
-    "title": "4800W Portable Open Frame Gas Inverter Generator for Home Backup &amp; RV Power | 55 lbs portable inverter generator with &lt;3% THD",
-    "type": "should_test",
-    "score": 61.5,
-    "price": 339.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O0+9ThBzL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ5NLZJJ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H4QCCP7J",
     "title": "FOGATTI RV Air Conditioner 18K BTU Cooling with 1,800W Heating, WiFi &amp; Remote Control &amp; Alexa, Rooftop AC, Easy Install, Duct",
     "type": "should_test",
@@ -10409,7 +10420,7 @@
     "asin": "B0HHRDJ3YP",
     "title": "Efurden 6000W Portable Inverter Generator, Open Frame Gas Powered Generator for Home Use, 30A RV Ready, 3-Gallon Fuel Tank fo",
     "type": "should_test",
-    "score": 59.25,
+    "score": 59.4,
     "price": 439.99,
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/817loRTxGpL._AC_UL300_SR300,200_.jpg",
@@ -19756,6 +19767,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0GVY5VPY6",
+    "title": "30 Amp to 110V 20 Amp RV Power Adapter, NEMA TT-30P to 3x5-15R/20R with LED | 30 Amp to 3-Prong 15 Amp/20 Amp to Multiple Hou",
+    "type": "candidate",
+    "score": 50.25,
+    "price": 14.44,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71fLsYeU-jL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GVY5VPY6",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GY43GC6N",
     "title": "2PCS 15 IN RV Propane Hose with Pressure Gauge, 1/4&quot; Male, 250PSI | Stainless Steel Braided Gas Tubing for Standard RV Dual-S",
     "type": "candidate",
@@ -24255,17 +24277,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0GVY5VPY6",
-    "title": "30 Amp to 110V 20 Amp RV Power Adapter, NEMA TT-30P to 3x5-15R/20R with LED | 30 Amp to 3-Prong 15 Amp/20 Amp to Multiple Hou",
-    "type": "candidate",
-    "score": 46.0,
-    "price": 16.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71fLsYeU-jL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GVY5VPY6",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HD787WJG",
     "title": "20 lb Propane Tank Cover Gas Cylinder Cover 600D Waterproof Oxford",
     "type": "candidate",
@@ -25605,6 +25616,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eFbKF4sRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGK55437",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HKHRDZQQ",
+    "title": "Hather CH751 Replacement Keys with Key Rings, 8 Pack | For compatible CH751-coded RV, camper, trailer and cabinet locks. Incl",
+    "type": "candidate",
+    "score": 44.7,
+    "price": 6.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81NrB16cufL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKHRDZQQ",
     "walmart_url": null
   },
   {
@@ -28105,6 +28127,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7X5TP51",
+    "title": "WF-8955-AD-MBA 55A RV Power Converter Main Board only, Auto-Detect WF-8900 | Fits select WF-8955 and WF-8900 power centers. s",
+    "type": "candidate",
+    "score": 41.75,
+    "price": 51.68,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xn8IcOt4L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7X5TP51",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7JDQB4Y",
     "title": "UNXMRFF BA15D 1142 LED Bulb RV Interior Ceiling Dome Light White, DC/AC 12-24V Bayonet Double Contact Base S8 90 1004 LED Bul",
     "type": "candidate",
@@ -28223,17 +28256,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/6113bbkyOwL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8D174BV",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7X5TP51",
-    "title": "WF-8955-AD-MBA 55A RV Power Converter Main Board only, Auto-Detect WF-8900 | Fits select WF-8955 and WF-8900 power centers. s",
-    "type": "candidate",
-    "score": 41.5,
-    "price": 68.9,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xn8IcOt4L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7X5TP51",
     "walmart_url": null
   },
   {
@@ -35065,17 +35087,6 @@
     "bsr": 51580,
     "image_url": "https://m.media-amazon.com/images/I/71S0JEC5lxL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4LSD9FH",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HKHRDZQQ",
-    "title": "Hather CH751 Replacement Keys with Key Rings, 8 Pack | For compatible CH751-coded RV, camper, trailer and cabinet locks. Incl",
-    "type": "candidate",
-    "score": 25.45,
-    "price": 5.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81NrB16cufL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKHRDZQQ",
     "walmart_url": null
   },
   {
