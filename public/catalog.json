@@ -1254,17 +1254,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGPNJLK8",
-    "title": "XIHIRCD Magnetic RV Insulated Door Cover, 33x75in/84x190cm Thermal Curtain | Oxford Fabric Fast Magnetic Closure with No-Dril",
-    "type": "winner",
-    "score": 83.1,
-    "price": 27.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sKDT4UAgL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGPNJLK8",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H14QBS6X",
     "title": "8&#x27; x 13&#x27;3&quot; RV Awning Privacy Shade with Zipper, 90% UV Block, Shadow Black | 8&#x27; x 13&#x27;3&quot;, Shadow Black; breathable zipper mesh",
     "type": "winner",
@@ -1526,17 +1515,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51S4JfuJT2L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1LR27X1",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBVT555Y",
-    "title": "Lymezato RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in | Powder-Coated Iron Helps Resist Rust and Dog Scrat",
-    "type": "winner",
-    "score": 82.35,
-    "price": 36.9,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81P0gDn+eQL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
     "walmart_url": null
   },
   {
@@ -2170,7 +2148,7 @@
     "asin": "B0H71HT9VM",
     "title": "Universal RV Awning Sun Shade with Zipper Window, 12&#x27; x 6&#x27;7&quot; Fit 13&#x27; Awning | Roll-Up Mesh Window, UPF 50+ &amp; Waterproof, Comp",
     "type": "winner",
-    "score": 80.25,
+    "score": 80.2,
     "price": null,
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/7123R8SbuWL._AC_UL300_SR300,200_.jpg",
@@ -3883,6 +3861,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7WF83XV",
+    "title": "RV Door Window Blackout Shade, 16 x 25 Inch UV Block Privacy Oxford Cover for Camper Travel Trailer",
+    "type": "should_test",
+    "score": 75.5,
+    "price": 9.48,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/911A2AZDMnL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7WF83XV",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H29ZGFN9",
     "title": "Silent 130CFM Solar for exhaust Fan 12V with 10W Panel, 4 Inch Inline Ventilation System for Yacht RV Camper Shed, Energy Saving Weatherproof Air Extractor",
     "type": "should_test",
@@ -4499,6 +4488,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBVT555Y",
+    "title": "RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in",
+    "type": "should_test",
+    "score": 72.95,
+    "price": 36.9,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/81P0gDn+eQL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHLXHK1V",
     "title": "Sleeper Chair with Pull Out Bed, 5 In1 Convertible Chair Bed, Black",
     "type": "should_test",
@@ -4609,6 +4609,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGPNJLK8",
+    "title": "XIHIRCD Magnetic RV Insulated Door Cover, 33x75in/84x190cm Thermal Curtain | Oxford Fabric Fast Magnetic Closure with No-Dril",
+    "type": "should_test",
+    "score": 72.75,
+    "price": 27.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sKDT4UAgL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGPNJLK8",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC7HKS1R",
     "title": "CTOLITY XP1000 1800W Portable Power Station with 100W Solar Panel | Peak 3600W, 1 Hr Fast Charge, 100W USB-C Output, 20ms UPS",
     "type": "should_test",
@@ -4617,6 +4628,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81wuCwYZmWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC7HKS1R",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HQMJQWDP",
+    "title": "RV Door Window Shade Cover - Magnetic RV Blackout Window Cover with UV Protection and Privacy Features (25 * 16 in) Foldable",
+    "type": "should_test",
+    "score": 72.75,
+    "price": 22.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AXeCXDxvL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQMJQWDP",
     "walmart_url": null
   },
   {
@@ -5112,17 +5134,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61FQv0smFdL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHRJL69D",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H86W5YGT",
-    "title": "Vnivxte Magnetic Insulated RV Door Curtain for Winter, 33.5&quot; W x 75&quot; H | Helps Reduce Cold Drafts and Heat Loss, Hands-Free M",
-    "type": "should_test",
-    "score": 70.75,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81x4rT5H7eL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H86W5YGT",
     "walmart_url": null
   },
   {
@@ -5808,17 +5819,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HP1S6511",
-    "title": "RV Slide-Out Mouse Guard Compatible with Lippert Slide-Outs, 2 Pack (black) | Split Ring + Support Rod + Gap Cover + Insects",
-    "type": "should_test",
-    "score": 68.5,
-    "price": 12.98,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719QKGt59aL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HP1S6511",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6PRX7TZ",
     "title": "30FT Heated Water Hose for RV, -45°F Freeze Protection, 6-Layer Reinforced | 6-Layer Reinforced Design, Extra PVC Protective",
     "type": "should_test",
@@ -6237,17 +6237,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HQMJQWDP",
-    "title": "RV Door Window Shade Cover - Magnetic RV Blackout Window Cover with UV Protection and Privacy Features (25 * 16 in) Foldable",
-    "type": "should_test",
-    "score": 67.65,
-    "price": 24.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81AXeCXDxvL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HQMJQWDP",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHDW7FVH",
     "title": "RV Door Lock Keyless Entry for Camper, Travel Trailer &amp; 5th Wheel",
     "type": "should_test",
@@ -6278,6 +6267,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71fkGP+4gSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQ3J9T8Q",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HP1S6511",
+    "title": "RV Slide-Out Mouse Guard Compatible with Lippert Slide-Outs, 2 Pack (black) | Split Ring + Support Rod + Gap Cover + Insects",
+    "type": "should_test",
+    "score": 67.5,
+    "price": 12.98,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719QKGt59aL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HP1S6511",
     "walmart_url": null
   },
   {
@@ -6564,17 +6564,6 @@
     "bsr": 1632,
     "image_url": "https://m.media-amazon.com/images/I/61-b-Uh9-+L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7WF83XV",
-    "title": "RV Door Window Blackout Shade, 16 x 25 Inch UV Block Privacy Oxford Cover for Camper Travel Trailer",
-    "type": "should_test",
-    "score": 66.75,
-    "price": 9.48,
-    "bsr": 38555,
-    "image_url": "https://m.media-amazon.com/images/I/911A2AZDMnL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7WF83XV",
     "walmart_url": null
   },
   {
@@ -7216,6 +7205,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H86W5YGT",
+    "title": "Vnivxte Magnetic Insulated RV Door Curtain for Winter, 33.5&quot; W x 75&quot; H | Helps Reduce Cold Drafts and Heat Loss, Hands-Free M",
+    "type": "should_test",
+    "score": 65.1,
+    "price": 29.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81x4rT5H7eL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H86W5YGT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF7N44WK",
     "title": "Fold Down RV Water Tap Faucet for Caravan and Motorhome | 360° Rotation Hot and Cold Mixer, Foldable Kitchen Sink Faucet",
     "type": "should_test",
@@ -7634,6 +7634,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDY72LZZ",
+    "title": "RV Windshield Curtains 120x40 for Class A Motorhome, Insulated Blackout | 3-Layer Window Insulation Shade for Class A RV Wind",
+    "type": "should_test",
+    "score": 64.4,
+    "price": 93.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81LNdNKuYfL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDY72LZZ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H876DCPV",
     "title": "12V RV Tank Heater Pad 12&quot; x 18&quot;, with Toggle Switch",
     "type": "should_test",
@@ -7895,17 +7906,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61BzfmTPPxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBPYSJ25",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBVDYXZT",
-    "title": "Rynharta 2-Panel RV Screen Door Protector, Adjustable 16.5-31.1 Inch | Camper Screen Guard Steel Mesh Prevents Dogs Pets Scra",
-    "type": "should_test",
-    "score": 63.75,
-    "price": 37.48,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81pXkPfqjkL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVDYXZT",
     "walmart_url": null
   },
   {
@@ -8569,6 +8569,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBVDYXZT",
+    "title": "Rynharta 2-Panel RV Screen Door Protector, Adjustable 16.5-31.1 Inch | Camper Screen Guard Steel Mesh Prevents Dogs Pets Scra",
+    "type": "should_test",
+    "score": 62.5,
+    "price": 37.48,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81pXkPfqjkL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVDYXZT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HML6VHDK",
     "title": "RV Skirting for Winter, Camper Insulated Skirt Travel Trailers &amp; 5th Wheels | 20m/65ft Wind &amp; Snow Proof,RV Underbelly Cover,",
     "type": "should_test",
@@ -8932,6 +8943,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6SBBX4Y",
+    "title": "2-Pack RV Awning Support Poles, 44-116 in Fiberglass Telescoping Tarp Poles | Quick Twist Lock,4 Pulley Guylines,Ground Stake",
+    "type": "should_test",
+    "score": 62.25,
+    "price": 69.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81f6yThKuWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6SBBX4Y",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF7WG8GJ",
     "title": "Camper Undercarriage Snow‑Proof Protective Skirt 28m/92ft | 90cm Height RV Skirting,Supplied with 10M Hook‑and‑Loop Tape for",
     "type": "should_test",
@@ -9105,17 +9127,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71icWvtVRPL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5PFKY2H",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6SBBX4Y",
-    "title": "2-Pack RV Awning Support Poles, 44-116 in Fiberglass Telescoping Tarp Poles | Quick Twist Lock,4 Pulley Guylines,Ground Stake",
-    "type": "should_test",
-    "score": 61.75,
-    "price": 69.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81f6yThKuWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6SBBX4Y",
     "walmart_url": null
   },
   {
@@ -18601,17 +18612,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HDY72LZZ",
-    "title": "RV Windshield Curtains for Class A Motorhome, Insulated Blackout 120x40 | Machine Washable 3-Layer Window Insulation Shade fo",
-    "type": "candidate",
-    "score": 51.25,
-    "price": 121.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81LNdNKuYfL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDY72LZZ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H8JZSWNX",
     "title": "RV Extension Cord 25 FT 50 Amp NEMA 14-50P to 14-50R Heavy Duty Black",
     "type": "candidate",
@@ -20306,6 +20306,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HH86J6DZ",
+    "title": "Replacement 418203 RV Awning Drive Head Gear Pack, Fits 373566 &amp; 266149",
+    "type": "candidate",
+    "score": 49.75,
+    "price": 26.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71ju5McYl8L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH86J6DZ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGF9NF61",
     "title": "Propane Tank Storage Bag with Rigid Panel, Holds 6 Pack 1LB Propane Tanks | Propane Storage,Propane Tank Bag,Camping Storage",
     "type": "candidate",
@@ -21054,17 +21065,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HLQDLJCX",
-    "title": "Asandliy 4pack RV Awning Arm Safety Strap 1&quot; x 13&quot;+ | 4 Pack 1&quot; x 13&quot;+ Extra Long RV Awning Tie Down Straps, Nylon Camper Awn",
-    "type": "candidate",
-    "score": 48.75,
-    "price": 14.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/812BgTZ+xBL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HLQDLJCX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HG92QHY2",
     "title": "OUYPLTNY 4 Pcs RV Generator Exhaust Extension Kit, Metal Suction-Cup Mount | No‑Drill Silver Camper Exhaust Pipe Holder with",
     "type": "candidate",
@@ -21315,17 +21315,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Nn-87PDSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC17VBCP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HHR1M2Y4",
-    "title": "Kozlira 373566 418203 RV Awning Motor &amp; Gear Pack Fit for Solera Awning | 266149 12V Electric Motor Replacement for Solera Po",
-    "type": "candidate",
-    "score": 48.75,
-    "price": 69.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71GYKBRDVZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHR1M2Y4",
     "walmart_url": null
   },
   {
@@ -21703,17 +21692,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HHJ8S99N",
-    "title": "RV Awning Adjustable Pitch Arm 30&quot; for Dometic 9100/9200 Power W/Fasteners | Fits Dometic 9100/9200 Power Awning Main Hardwar",
-    "type": "candidate",
-    "score": 48.5,
-    "price": 118.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61VK2pb4WjL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHJ8S99N",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H4GPLM8Y",
     "title": "6 Inch RV Bunk Mattress, 28&quot; x 72&quot; RV Mattress Gel Memory Foam - High Density Medium Certified Camper Bunk Mattress with Breathable Soft &amp; Washable Removable Cover for Travel Trailer/Cargo Van/RVs",
     "type": "candidate",
@@ -22030,6 +22008,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/612qXWjzdgL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H25QRSCR",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHJ8S99N",
+    "title": "RV Awning Adjustable Pitch Arm 30&quot; for Dometic 9100/9200 Power W/Fasteners | Fits Dometic 9100/9200 Power Awning Main Hardwar",
+    "type": "candidate",
+    "score": 48.0,
+    "price": 118.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61VK2pb4WjL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHJ8S99N",
     "walmart_url": null
   },
   {
@@ -24783,6 +24772,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC2F525X",
+    "title": "30 Pack Nylon Tarp Clips Heavy Duty Lock Grip, Tarp Tie Down Clips",
+    "type": "candidate",
+    "score": 45.75,
+    "price": 13.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/713x2IIvo1L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC2F525X",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H94G7P3K",
     "title": "RV Gate Valve, 3-Inch RV Waste Valve, RV Dump Valve with Bayonet Adapter | RV Black Tank Valve Fits 3 inch RV Sewer Hose Fitt",
     "type": "candidate",
@@ -26620,6 +26620,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHR1M2Y4",
+    "title": "Kozlira 373566 418203 RV Awning Motor &amp; Gear Pack Fit for Solera Awning | 266149 12V Electric Motor Replacement for Solera Po",
+    "type": "candidate",
+    "score": 43.5,
+    "price": 69.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71GYKBRDVZL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHR1M2Y4",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8J84XDG",
     "title": "Keiurot Truck Bed Lights Motion Sensor for RV Pickup Camper White 2Pack | 2 Modes Wireless 1500mAh Battery Rechargeable for C",
     "type": "candidate",
@@ -26639,17 +26650,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MqqfkWpsL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMBR6WHH",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC2F525X",
-    "title": "30 Pack Nylon Tarp Clips Heavy Duty Lock Grip, Tarp Tie Down Clips",
-    "type": "candidate",
-    "score": 43.5,
-    "price": 13.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/713x2IIvo1L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC2F525X",
     "walmart_url": null
   },
   {
@@ -28182,6 +28182,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HLQDLJCX",
+    "title": "Asandliy 4pack RV Awning Arm Safety Strap 1&quot; x 13&quot;+ | 4 Pack 1&quot; x 13&quot;+ Extra Long RV Awning Tie Down Straps, Nylon Camper Awn",
+    "type": "candidate",
+    "score": 41.5,
+    "price": 14.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/812BgTZ+xBL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLQDLJCX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H697ZMPG",
     "title": "EcoBrisa 7/8&quot; RV Trim Molding Insert, 100FT Heavy Duty RV Vinyl Trim, UV Resistant RV Weather Stripping Exterior, Flexible Mo",
     "type": "candidate",
@@ -28963,17 +28974,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HKJ5HNY8",
-    "title": "643922 &amp; 643921 Head Cover Drive Front/Idler Back",
-    "type": "candidate",
-    "score": 40.0,
-    "price": 28.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61VImBMU3JL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKJ5HNY8",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6M9PK69",
     "title": "Drive Shaft Head Compatible with Lippert Solera 12V 18V Power Awning RV | Replace LC93FR LC273478",
     "type": "candidate",
@@ -29609,17 +29609,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/7195mNzRhrL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H98LPSKB",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HH86J6DZ",
-    "title": "Replacement 418203 RV Awning Drive Head Gear Pack, Fits 373566 &amp; 266149 | Replacement Gear Pack 418203, Compatible with 12 To",
-    "type": "candidate",
-    "score": 39.0,
-    "price": 26.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ju5McYl8L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH86J6DZ",
     "walmart_url": null
   },
   {
@@ -31834,6 +31823,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKJ5HNY8",
+    "title": "643922 &amp; 643921 Head Cover Drive Front/Idler Back",
+    "type": "candidate",
+    "score": 34.25,
+    "price": 28.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61VImBMU3JL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKJ5HNY8",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6P5YSNT",
     "title": "RV Water Heater Gas Valve 161109 Replacement",
     "type": "candidate",
@@ -32370,17 +32370,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/8154Ls6KRUL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5QCY1D2",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGLPZCZV",
-    "title": "RV Awning Drive Shaft Shear Pin Fits Solera LC273478 LC93FR, Regal Head | Replaces LC273478 and LC93FR. Drive shaft shear pin",
-    "type": "candidate",
-    "score": 33.2,
-    "price": 15.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41jBaPloYXL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGLPZCZV",
     "walmart_url": null
   },
   {
@@ -33913,17 +33902,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HB8WJZCD",
-    "title": "RV Awning Bottom Bracket Foot Fit for Dometic Sunchaser II Rounded Hardware | Left or Right Side (Bracket U2), 2Pack",
-    "type": "candidate",
-    "score": 30.45,
-    "price": 35.19,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51BlDBrqhaL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB8WJZCD",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HP9W9RS3",
     "title": "2Pack Hand Crank Charger, USB Manual  Emergency Portable Charger(C)",
     "type": "candidate",
@@ -33998,6 +33976,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51OxOQDh8nL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8DYZQGT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HB8WJZCD",
+    "title": "RV Awning Bottom Bracket Foot Fit for Dometic Sunchaser II Rounded Hardware | Left or Right Side (Bracket U2), 2Pack",
+    "type": "candidate",
+    "score": 30.0,
+    "price": 35.19,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51BlDBrqhaL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB8WJZCD",
     "walmart_url": null
   },
   {
@@ -34878,6 +34867,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61EhhS1bMJL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBBFPXWV",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGLPZCZV",
+    "title": "RV Awning Drive Shaft Shear Pin Fits Solera LC273478 LC93FR, Regal Head | Replaces LC273478 and LC93FR. Drive shaft shear pin",
+    "type": "candidate",
+    "score": 26.25,
+    "price": 15.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41jBaPloYXL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGLPZCZV",
     "walmart_url": null
   },
   {
