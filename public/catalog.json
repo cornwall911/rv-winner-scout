@@ -506,6 +506,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HF8FMS5G",
+    "title": "Diesel Heater 12KW, 8L All in One Diesel Air Heater 110/12/24V Parking Heater with App Control, Wireless Temperature Sensing and Altitude Mode for RV Garage Camper",
+    "type": "winner",
+    "score": 89.2,
+    "price": 227.91,
+    "bsr": 7444,
+    "image_url": "https://m.media-amazon.com/images/I/716N7nKiHyL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF8FMS5G",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HKZ6GS5B",
     "title": "8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fi",
     "type": "winner",
@@ -569,17 +580,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71PEPKsykfL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDDRJQT9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HF8FMS5G",
-    "title": "Diesel Heater 12KW, 8L All in One Diesel Air Heater 110/12/24V Parking Heater with App Control, Wireless Temperature Sensing and Altitude Mode for RV Garage Camper",
-    "type": "winner",
-    "score": 88.85,
-    "price": 239.99,
-    "bsr": 7434,
-    "image_url": "https://m.media-amazon.com/images/I/716N7nKiHyL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF8FMS5G",
     "walmart_url": null
   },
   {
@@ -2343,17 +2343,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ31GH9Y",
-    "title": "Anker SOLIX C2000 Gen 2 Solar Powered Generator&amp;400W Bifacial Panel, 2048Wh",
-    "type": "should_test",
-    "score": 79.5,
-    "price": 1449.99,
-    "bsr": 1497,
-    "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H7BF7TH8",
     "title": "Anker SOLIX C1000 Gen 2 Portable Power Station, 2,000W (Peak 3,000W) Solar Generator, Full Charge in 49 Min, 1,024Wh LiFePO4",
     "type": "should_test",
@@ -2640,6 +2629,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJ31GH9Y",
+    "title": "Anker SOLIX C2000 Gen 2 Solar Powered Generator&amp;400W Bifacial Panel, 2048Wh",
+    "type": "should_test",
+    "score": 78.75,
+    "price": 1319.99,
+    "bsr": 1500,
+    "image_url": "https://m.media-amazon.com/images/I/81EFJjWKIzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ31GH9Y",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H4WB83JJ",
     "title": "FOSSiBOT F2400 Portable Power Station, 2048Wh LiFePO4 Solar Generator, 2400W (4800W Surge) AC Output, 1100W Adjustable Fast Charging, 8ms UPS Battery Backup for Home Use, Power Outage, Off-Grid (BLK)",
     "type": "should_test",
@@ -2692,6 +2692,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71EHE6TenDL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMCQHYJJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCZZ39DX",
+    "title": "Anker SOLIX S5000 Portable Power Station, 5,024Wh, 4,500W Rated (120V/240V)",
+    "type": "should_test",
+    "score": 78.75,
+    "price": 2499.99,
+    "bsr": 4596,
+    "image_url": "https://m.media-amazon.com/images/I/71U3EEelixL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCZZ39DX",
     "walmart_url": null
   },
   {
@@ -2959,17 +2970,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "should_test",
-    "score": 77.95,
-    "price": 949.0,
-    "bsr": 1871,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H1KZ2N6K",
     "title": "SleYuYir 12V RV Air Conditioner, DC RV AC Unit 10,000 BTU Cooling and 3,500 BTU Heating, 12V AC Unit with Heat, Rooftop Campe",
     "type": "should_test",
@@ -3187,6 +3187,17 @@
     "bsr": 22062,
     "image_url": "https://m.media-amazon.com/images/I/710ZXi8pelL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC6NW8H7",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "should_test",
+    "score": 77.25,
+    "price": 949.0,
+    "bsr": 1875,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -4081,6 +4092,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8D77TGT",
+    "title": "Daran 500W Mini Portable Power Station,1.6H 0-80% Fast Charging,288Wh",
+    "type": "should_test",
+    "score": 74.75,
+    "price": 279.99,
+    "bsr": 7038,
+    "image_url": "https://m.media-amazon.com/images/I/81lsD1AzCSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8D77TGT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGXVHVFN",
     "title": "BLUETTI FridgePower Portable Power Station with Screen, 2016Wh 1800W LFP | 3600W Surge, 4W Self-Consumption , Ultra-Slim 75mm",
     "type": "should_test",
@@ -4195,8 +4217,8 @@
     "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
     "type": "should_test",
     "score": 74.25,
-    "price": 239.99,
-    "bsr": 2994,
+    "price": 218.39,
+    "bsr": 2995,
     "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
     "walmart_url": null
@@ -4331,17 +4353,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/712f5e8rOSL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8YK61ZQ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8D77TGT",
-    "title": "Daran 500W Mini Portable Power Station,1.6H 0-80% Fast Charging,288Wh",
-    "type": "should_test",
-    "score": 73.75,
-    "price": 279.99,
-    "bsr": 6590,
-    "image_url": "https://m.media-amazon.com/images/I/81lsD1AzCSL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8D77TGT",
     "walmart_url": null
   },
   {
@@ -4705,17 +4716,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/710g4G0aaDL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H94JBM34",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCZZ39DX",
-    "title": "Anker SOLIX S5000 Portable Power Station, 5,024Wh, 4,500W Rated (120V/240V)",
-    "type": "should_test",
-    "score": 72.15,
-    "price": 2949.0,
-    "bsr": 4592,
-    "image_url": "https://m.media-amazon.com/images/I/71U3EEelixL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCZZ39DX",
     "walmart_url": null
   },
   {
@@ -5280,17 +5280,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6HN2LZ6",
-    "title": "Genkins 4200W Portable Inverter Generator, Quiet Lightweight for Camping Home Backup",
-    "type": "should_test",
-    "score": 70.25,
-    "price": 369.0,
-    "bsr": 7760,
-    "image_url": "https://m.media-amazon.com/images/I/617cM83953L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6HN2LZ6",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHRWHM3P",
     "title": "RV Air Conditioner Duct for Coleman Mach 1 3 10 15 &amp; Q, Improves Airflow | RV Air Conditioner Airflow System, For Ducted Syst",
     "type": "should_test",
@@ -5376,17 +5365,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71i6Rh9AuSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7BC6SKC",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HH9BYJBB",
-    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
-    "type": "should_test",
-    "score": 69.85,
-    "price": 64.99,
-    "bsr": 3124,
-    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
@@ -5739,17 +5717,6 @@
     "bsr": 21090,
     "image_url": "https://m.media-amazon.com/images/I/71PQkBBWifL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2XN9729",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H98TT1MN",
-    "title": "PowerSmart 3800 Watt Portable Inverter Generator for Home Use",
-    "type": "should_test",
-    "score": 68.75,
-    "price": 409.99,
-    "bsr": 1628,
-    "image_url": "https://m.media-amazon.com/images/I/61WdUZq1WgL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
     "walmart_url": null
   },
   {
@@ -6358,6 +6325,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H87PBMSN",
+    "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank",
+    "type": "should_test",
+    "score": 67.45,
+    "price": 129.99,
+    "bsr": 7567,
+    "image_url": "https://m.media-amazon.com/images/I/81m1eRMHl-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H87PBMSN",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFZKWVCS",
     "title": "YeloDeer 20ft In-Hose RV Sewer Heating System | Self-Regulating 120V Heating Cable Inside Hose, Full-Path Freeze Protection f",
     "type": "should_test",
@@ -6542,6 +6520,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71oGfVUV9cL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHCN6HMY",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H98TT1MN",
+    "title": "PowerSmart\n2500\nWatt\nPortable\nInverter\nGenerator\nfor\nCamping",
+    "type": "should_test",
+    "score": 66.75,
+    "price": 299.99,
+    "bsr": 1632,
+    "image_url": "https://m.media-amazon.com/images/I/61-b-Uh9-+L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
     "walmart_url": null
   },
   {
@@ -7103,6 +7092,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xE2OhLJmL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6KWSBTT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6HN2LZ6",
+    "title": "Genkins 4200W Portable Inverter Generator, Quiet Lightweight for Camping Home Backup",
+    "type": "should_test",
+    "score": 65.35,
+    "price": 369.0,
+    "bsr": 7767,
+    "image_url": "https://m.media-amazon.com/images/I/617cM83953L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6HN2LZ6",
     "walmart_url": null
   },
   {
@@ -7895,17 +7895,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61BzfmTPPxL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBPYSJ25",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H87PBMSN",
-    "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank",
-    "type": "should_test",
-    "score": 63.75,
-    "price": 259.99,
-    "bsr": 7552,
-    "image_url": "https://m.media-amazon.com/images/I/81m1eRMHl-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H87PBMSN",
     "walmart_url": null
   },
   {
@@ -8885,6 +8874,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71jwIa4hSRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF7WG8GJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HH9BYJBB",
+    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
+    "type": "should_test",
+    "score": 62.0,
+    "price": 64.99,
+    "bsr": 3123,
+    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
@@ -11987,17 +11987,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/714zzHNeZ+L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HB32L47G",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HHLX4QB1",
-    "title": "1000W Power Inverter 12V to 110V/120V，Power Inverters for Vehicles",
-    "type": "should_test",
-    "score": 55.75,
-    "price": 68.99,
-    "bsr": 5876,
-    "image_url": "https://m.media-amazon.com/images/I/81oO-mSlP6L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHLX4QB1",
     "walmart_url": null
   },
   {
@@ -15411,6 +15400,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HNKCPFWQ",
+    "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant Camper Top Cover for Travel Trailers, Class A/B/C Motorhomes, Pop-up &amp; Truck Campers, Roof-Only Protection, Fits 16-41ft RVs，Silver：27.89 × 9.84 ft",
+    "type": "candidate",
+    "score": 55.75,
+    "price": 99.99,
+    "bsr": 3437,
+    "image_url": "https://m.media-amazon.com/images/I/818H4pNzEwL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HNKCPFWQ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GYD7ZFP5",
     "title": "Motorhome Shower Pipe 1.5M Anti Flexible Tubing Ergonomic Showerhead Multiple Sprayed Modes Bath Necessary ABS Shower Hose",
     "type": "candidate",
@@ -15727,17 +15727,6 @@
     "bsr": 130275,
     "image_url": "https://m.media-amazon.com/images/I/71sHRVzqfiL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC6NS2HR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HNKCPFWQ",
-    "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant Camper Top Cover for Travel Trailers, Class A/B/C Motorhomes, Pop-up &amp; Truck Campers, Roof-Only Protection, Fits 16-41ft RVs，Silver：27.89 × 9.84 ft",
-    "type": "candidate",
-    "score": 55.0,
-    "price": 93.99,
-    "bsr": 3436,
-    "image_url": "https://m.media-amazon.com/images/I/818H4pNzEwL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HNKCPFWQ",
     "walmart_url": null
   },
   {
@@ -16607,6 +16596,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/617n6dQ5phL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMX37XY5",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHLX4QB1",
+    "title": "1000W Power Inverter 12V to 110V/120V，Power Inverters for Vehicles",
+    "type": "candidate",
+    "score": 54.0,
+    "price": 58.64,
+    "bsr": 5783,
+    "image_url": "https://m.media-amazon.com/images/I/81oO-mSlP6L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHLX4QB1",
     "walmart_url": null
   },
   {
@@ -20581,17 +20581,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8CX296Q",
-    "title": "NEMA L14-30P to 14-50R RV Generator Adapter, Twist Lock 30 to 50 Amp",
-    "type": "candidate",
-    "score": 49.25,
-    "price": 19.99,
-    "bsr": 6510,
-    "image_url": "https://m.media-amazon.com/images/I/714vS9vZ-HL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HDNTD2F3",
     "title": "RV Water Hose 25 Ft Drinking, 5/8&#x27;&#x27; Camper Fresh Water Fill Hose | Potable Flexible Drinking Safe Collapsible Lightweight Dur",
     "type": "candidate",
@@ -22679,6 +22668,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51jf9tk4vML._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8S1N7G3",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8CX296Q",
+    "title": "NEMA L14-30P to 14-50R RV Generator Adapter, Twist Lock 30 to 50 Amp",
+    "type": "candidate",
+    "score": 47.25,
+    "price": 15.99,
+    "bsr": 6522,
+    "image_url": "https://m.media-amazon.com/images/I/714vS9vZ-HL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
     "walmart_url": null
   },
   {
@@ -29051,6 +29051,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC8RYH83",
+    "title": "Hand Crank Phone for charger 2-Pack USB Manual Generator Hand",
+    "type": "candidate",
+    "score": 39.75,
+    "price": 12.49,
+    "bsr": 7836,
+    "image_url": "https://m.media-amazon.com/images/I/51Eq7YfhiqL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC8RYH83",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HKJMXQCQ",
     "title": "Trailer Hitch Ball Mount with 1-7/8&quot; Ball, 2&quot; Tow Receiver, 2&quot; Drop",
     "type": "candidate",
@@ -29213,17 +29224,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51JYE4qTKjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8LNHQ7C",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC8RYH83",
-    "title": "Hand Crank Phone for charger 2-Pack USB Manual Generator Hand",
-    "type": "candidate",
-    "score": 39.5,
-    "price": 12.49,
-    "bsr": 7825,
-    "image_url": "https://m.media-amazon.com/images/I/51Eq7YfhiqL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC8RYH83",
     "walmart_url": null
   },
   {
@@ -29722,6 +29722,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9NZNYXZ",
+    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
+    "type": "candidate",
+    "score": 38.7,
+    "price": 14.99,
+    "bsr": 5606,
+    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H713BTZD",
     "title": "Avenuebool Locking Camper Door Latch with Keys, Fits RVs &amp; Trailers, White | Pop-Up Camper Door Lock for Entry &amp; Screen Door,",
     "type": "candidate",
@@ -29956,9 +29967,9 @@
     "asin": "B0HPBDYFRN",
     "title": "USB Hand Crank for charger Portable Generator for Mobile Phone (Blue)",
     "type": "candidate",
-    "score": 38.15,
+    "score": 38.0,
     "price": 6.8,
-    "bsr": 6775,
+    "bsr": 6787,
     "image_url": "https://m.media-amazon.com/images/I/5148gZCi2-L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HPBDYFRN",
     "walmart_url": null
@@ -33517,17 +33528,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HP9W9RS3",
-    "title": "2Pack Hand Crank Charger, USB Manual  Emergency Portable Charger(C)",
-    "type": "candidate",
-    "score": 30.75,
-    "price": 10.56,
-    "bsr": 938,
-    "image_url": "https://m.media-amazon.com/images/I/613y9oVhvaL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HP9W9RS3",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5L7CPYT",
     "title": "G370 RV Keys, 3 Pack Precut Replacement Keys | G301-G390 Series RV Keys Compatible with Global Link RV Trailer Camper Locks,",
     "type": "candidate",
@@ -33759,6 +33759,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HP9W9RS3",
+    "title": "2Pack Hand Crank Charger, USB Manual  Emergency Portable Charger(C)",
+    "type": "candidate",
+    "score": 30.25,
+    "price": 10.56,
+    "bsr": 934,
+    "image_url": "https://m.media-amazon.com/images/I/613y9oVhvaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HP9W9RS3",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1LHLG4F",
     "title": "PIHIL 3313107.015 Rv Air Conditioner Fan Blade | Compatible with Dometic Brisk and Duo-Therm AC Series, Replaces 3313107.0150",
     "type": "candidate",
@@ -33987,17 +33998,6 @@
     "bsr": 22895,
     "image_url": "https://m.media-amazon.com/images/I/610s7VE55dL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6JN2J4G",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9NZNYXZ",
-    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
-    "type": "candidate",
-    "score": 29.5,
-    "price": 14.99,
-    "bsr": 5606,
-    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
     "walmart_url": null
   },
   {
@@ -34738,17 +34738,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H5L7X4L3",
-    "title": "G387 RV Keys, 3 Pack Precut Replacement Keys",
-    "type": "candidate",
-    "score": 26.2,
-    "price": 14.99,
-    "bsr": 7395,
-    "image_url": "https://m.media-amazon.com/images/I/71RfmOIDvYL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5L7X4L3",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HCJP5C4W",
     "title": "G339 Universal RV Replacement Key Set Compatible with Global Link Trailer Camper Locks, Include G301-G390 Series G391 CH751 R",
     "type": "candidate",
@@ -34779,6 +34768,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61jEy3cfMdL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDP2LMDB",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5L7X4L3",
+    "title": "G387 RV Keys, 3 Pack Precut Replacement Keys",
+    "type": "candidate",
+    "score": 25.95,
+    "price": 14.99,
+    "bsr": 7412,
+    "image_url": "https://m.media-amazon.com/images/I/71RfmOIDvYL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5L7X4L3",
     "walmart_url": null
   },
   {
