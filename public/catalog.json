@@ -22,17 +22,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HMK1NCPW",
-    "title": "AUTO-VOX 7.2&quot; Solar Wireless Backup Camera, 1-Min Easy Magnetic Install | Intelligent Blind Spot Obstacle Alarm, 1080P HD IR",
-    "type": "winner",
-    "score": 90.3,
-    "price": 139.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eEEx5f-UL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HMK1NCPW",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H45PFQGV",
     "title": "Solar Magnetic Backup Camera 7&quot; 1080P for RV Trailer Truck",
     "type": "winner",
@@ -77,6 +66,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HM3FCQ7W",
+    "title": "Magnetic Solar Wireless Backup Camera for Trucks &amp; Trailer, 5&#x27;&#x27; HD Monitor | IP69, 5W Panel, 28H Battery Life, Auto Sleep &amp; I",
+    "type": "winner",
+    "score": 90.2,
+    "price": 79.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71XgbB3B+8L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HM3FCQ7W",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJPGLTYC",
     "title": "2027 New Wall Mounted Air Conditioner, 1800W Ductless Portable 2-in-1 Cooling &amp; PTC Heating Wall AC Unit with Remote, Quiet O",
     "type": "winner",
@@ -88,14 +88,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HM3FCQ7W",
-    "title": "Magnetic Solar Wireless Backup Camera for Trucks &amp; Trailer, 5&#x27;&#x27; HD Monitor | IP69, 5W Panel, 28H Battery Life, Auto Sleep &amp; I",
+    "asin": "B0HMK1NCPW",
+    "title": "AUTO-VOX 7.2&quot; Solar Wireless Backup Camera, 1-Min Easy Magnetic Install | Intelligent Blind Spot Obstacle Alarm, 1080P HD IR",
     "type": "winner",
     "score": 90.0,
-    "price": 79.99,
+    "price": 132.99,
     "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71XgbB3B+8L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HM3FCQ7W",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eEEx5f-UL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMK1NCPW",
     "walmart_url": null
   },
   {
@@ -25872,17 +25872,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HKHRDZQQ",
-    "title": "Hather CH751 Replacement Keys with Key Rings, 8 Pack | For compatible CH751-coded RV, camper, trailer and cabinet locks. Incl",
-    "type": "candidate",
-    "score": 44.7,
-    "price": 6.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81NrB16cufL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKHRDZQQ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HDGNK98Q",
     "title": "17.5mm Backup Camera Lens Protector, 2 Pack, Anti-Fog Clear Cover",
     "type": "candidate",
@@ -27959,6 +27948,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61t0Gu11BFL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF41T8TK",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HKHRDZQQ",
+    "title": "Hather CH751 Replacement Keys with Key Rings, 8 Pack | For compatible CH751-coded RV, camper, trailer and cabinet locks. Incl",
+    "type": "candidate",
+    "score": 42.45,
+    "price": 5.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81NrB16cufL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKHRDZQQ",
     "walmart_url": null
   },
   {
@@ -31075,6 +31075,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCJRSFNW",
+    "title": "G383 Universal RV Replacement Key Set Compatible with Global Link Trailer Camper Locks, Include G301-G390 Series G391 CH751 R",
+    "type": "candidate",
+    "score": 37.0,
+    "price": 12.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61s5aE47WcL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCJRSFNW",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFMV7VHN",
     "title": "Chanjunovire 418203 RV Awning Drive Head Gear Pack for 373566 &amp; 266149 | Internal Gear Replacement for Compatible 12-Tooth RV",
     "type": "candidate",
@@ -32373,28 +32384,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCJRSFNW",
-    "title": "G383 Universal RV Replacement Key Set Compatible with Global Link Trailer Camper Locks, Include G301-G390 Series G391 CH751 R",
-    "type": "candidate",
-    "score": 33.75,
-    "price": 12.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61s5aE47WcL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCJRSFNW",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGND4VCL",
-    "title": "Fvqqdw 1 Pack 1-1/8&quot; Thumb Cam Lock, Keyless Offset RV Cabinet Latch Locks | 1-1/8 inch keyless thumb cam lock rv latch, 4-ca",
-    "type": "candidate",
-    "score": 33.75,
-    "price": 8.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61mM0QKpMjL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGND4VCL",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGXFJ8MX",
     "title": "IPJCZ 3310725001 Fan Motor Service Kit with Inserts and Grommets | Camper Trailer RV Air Conditioner Replacement Hardware Kit",
     "type": "candidate",
@@ -32623,6 +32612,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61MsKJQ5WFL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4QHVDSH",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGND4VCL",
+    "title": "Fvqqdw 1 Pack 1-1/8&quot; Thumb Cam Lock, Keyless Offset RV Cabinet Latch Locks | 1-1/8 inch keyless thumb cam lock rv latch, 4-ca",
+    "type": "candidate",
+    "score": 33.25,
+    "price": 8.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61mM0QKpMjL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGND4VCL",
     "walmart_url": null
   },
   {
