@@ -1408,6 +1408,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6X8ND5D",
+    "title": "Magnetic RV Insulated Door Cover for Winter, Size 30&#x27;&#x27; x 75&#x27;&#x27;",
+    "type": "winner",
+    "score": 82.75,
+    "price": 39.99,
+    "bsr": 5299,
+    "image_url": "https://m.media-amazon.com/images/I/813q47y4xIL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6X8ND5D",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HB4NXXZ3",
     "title": "Treeligo 12V Truck Air Conditioner, Mini Split AC Unit, 8000 BTU Fast Cooling DC Air Conditioner for Semi Truck, Camper, Cons",
     "type": "winner",
@@ -2695,17 +2706,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCZZ39DX",
-    "title": "Anker SOLIX S5000 Portable Power Station, 5,024Wh, 4,500W Rated (120V/240V)",
-    "type": "should_test",
-    "score": 78.75,
-    "price": 2499.99,
-    "bsr": 4596,
-    "image_url": "https://m.media-amazon.com/images/I/71U3EEelixL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCZZ39DX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H94VKD5F",
     "title": "DaranEner Portable Power Station 576Wh, 600W AC Output (1200W Peak) | 100W PD USB-C Charge, 1.5Hr Fast Recharge, 3 AC Outlets",
     "type": "should_test",
@@ -2813,6 +2813,17 @@
     "bsr": 26250,
     "image_url": "https://m.media-amazon.com/images/I/61HXj-dZGNL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYNFDL5J",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCZZ39DX",
+    "title": "Anker SOLIX S5000 Portable Power Station, 5,024Wh, 4,500W Rated (120V/240V)",
+    "type": "should_test",
+    "score": 78.45,
+    "price": 2499.99,
+    "bsr": 2054,
+    "image_url": "https://m.media-amazon.com/images/I/71U3EEelixL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCZZ39DX",
     "walmart_url": null
   },
   {
@@ -3217,7 +3228,7 @@
     "type": "should_test",
     "score": 77.25,
     "price": 949.0,
-    "bsr": 1875,
+    "bsr": 1382,
     "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
@@ -4026,17 +4037,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6X8ND5D",
-    "title": "Gociean Magnetic RV Insulated Door Cover for Winter, Size 30&#x27;&#x27; x 75&#x27;&#x27; | 3-Layer Thermal Insulation, Water-Resistant 300D Oxfo",
-    "type": "should_test",
-    "score": 75.0,
-    "price": 32.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/813q47y4xIL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6X8ND5D",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJHRSRJ7",
     "title": "RV Skirting for Winter, Insulated Camper Skirt Kit 18m/59ft | Wind &amp; Snow Proof, Quick Install, RV Underbelly Cover, All Weat",
     "type": "should_test",
@@ -4239,8 +4239,8 @@
     "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
     "type": "should_test",
     "score": 74.25,
-    "price": 218.39,
-    "bsr": 2995,
+    "price": 203.99,
+    "bsr": 3355,
     "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
     "walmart_url": null
@@ -5753,6 +5753,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H98TT1MN",
+    "title": "PowerSmart 4000 Watt Portable Inverter Generator for Home Use, Gas Powered",
+    "type": "should_test",
+    "score": 68.9,
+    "price": 399.99,
+    "bsr": 1827,
+    "image_url": "https://m.media-amazon.com/images/I/71Q6qq79UpL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H2XN9729",
     "title": "AIVOLT 4200W Inverter Generator Gas Powered, Portable Open Frame Generator",
     "type": "should_test",
@@ -6564,17 +6575,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71oGfVUV9cL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHCN6HMY",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H98TT1MN",
-    "title": "PowerSmart\n2500\nWatt\nPortable\nInverter\nGenerator\nfor\nCamping",
-    "type": "should_test",
-    "score": 66.75,
-    "price": 299.99,
-    "bsr": 1632,
-    "image_url": "https://m.media-amazon.com/images/I/61-b-Uh9-+L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
     "walmart_url": null
   },
   {
@@ -7697,6 +7697,17 @@
     "bsr": 168965,
     "image_url": "https://m.media-amazon.com/images/I/51dtA33VdaL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HN6BTNNM",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HH9BYJBB",
+    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
+    "type": "should_test",
+    "score": 64.25,
+    "price": 64.99,
+    "bsr": 3388,
+    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
@@ -8962,17 +8973,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71aHdgylMRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGXR84MW",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HH9BYJBB",
-    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
-    "type": "should_test",
-    "score": 62.0,
-    "price": 64.99,
-    "bsr": 3123,
-    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
@@ -17674,17 +17674,6 @@
     "bsr": 15134,
     "image_url": "https://m.media-amazon.com/images/I/71EV5LQezXL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GVHGJ418",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJR84BR5",
-    "title": "Portable High Power Hand Crank Generator, Aluminum Survival Gear | Aviation Aluminum Build, Plasma Arc Igniter, FM/SW Radio &amp;",
-    "type": "candidate",
-    "score": 52.4,
-    "price": 32.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61h5Wf1fQHL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJR84BR5",
     "walmart_url": null
   },
   {
@@ -28974,6 +28963,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJR84BR5",
+    "title": "Portable High Power Hand Crank Generator, Aluminum Survival Gear",
+    "type": "candidate",
+    "score": 40.25,
+    "price": 32.99,
+    "bsr": 4490,
+    "image_url": "https://m.media-amazon.com/images/I/61h5Wf1fQHL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJR84BR5",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7BDRTW8",
     "title": "RV Entry Door 26&quot; W x 36&quot; H Camper Teardrop Door for Driver Side | Aluminum Alloy Teardrop Trailer Door with Tempered Glass a",
     "type": "candidate",
@@ -30002,7 +30002,7 @@
     "type": "candidate",
     "score": 38.7,
     "price": 14.99,
-    "bsr": 5606,
+    "bsr": 4727,
     "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
     "walmart_url": null
