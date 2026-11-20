@@ -1991,17 +1991,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H798WNYX",
-    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
-    "type": "winner",
-    "score": 80.75,
-    "price": 25.56,
-    "bsr": 15811,
-    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HK7NMPWQ",
     "title": "3600W Portable Power Station PowerMax 3600PE with 400W Solar Panel | 2016Wh LiFePO4 Battery, 1 Hr Fast Charge, 4 AC Outlets &amp;",
     "type": "winner",
@@ -2010,6 +1999,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81NwPRdlUML._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HK7NMPWQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H798WNYX",
+    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
+    "type": "winner",
+    "score": 80.65,
+    "price": 21.72,
+    "bsr": 16138,
+    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
     "walmart_url": null
   },
   {
