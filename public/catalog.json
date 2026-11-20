@@ -1320,6 +1320,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HK6MY2RV",
+    "title": "Eyoo RV Tankless Water Heater, 78,000 BTU with 15&quot;x15&quot; White Door",
+    "type": "winner",
+    "score": 83.0,
+    "price": 207.2,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61Nam45vuFL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HK6MY2RV",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZW6T12W",
     "title": "Starlink Wall Pass Through Kit, IP68 Waterproof Aluminum RJ45 CAT6 Bulkhead Socket, Hidden Cable Style for Starlink Gen3/4/4X / Mini Only, Ideal for RV Camper Boat Trailer &amp; Off-Grid Users",
     "type": "winner",
@@ -5962,17 +5973,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCHL8RQJ",
-    "title": "Heated Water Hose for RV 15 FT, Drinking Water Anti-Freezing Hose | with 7-Layer PET Braided Insulation &amp; Constant Power Heat",
-    "type": "should_test",
-    "score": 68.5,
-    "price": 69.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81h7zY3yxdL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCHL8RQJ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBVCFC4N",
     "title": "VEVOR 30FT Heated Water Hose for RV Antifreeze to -45°F Drinking Water Hos | 1/2&quot; ID, Smooth Surface, Built-in Thermostat, Fr",
     "type": "should_test",
@@ -6542,6 +6542,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71UWS3T1r2L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H454FKT8",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCHL8RQJ",
+    "title": "Heated Water Hose for RV 15 FT, Drinking Water Anti-Freezing Hose | with 6-Layer PET Braided Insulation &amp; Constant Power Heat",
+    "type": "should_test",
+    "score": 67.0,
+    "price": 69.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81h7zY3yxdL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCHL8RQJ",
     "walmart_url": null
   },
   {
