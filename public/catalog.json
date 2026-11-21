@@ -660,17 +660,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HC5VTXFB",
-    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
-    "type": "winner",
-    "score": 88.65,
-    "price": 103.99,
-    "bsr": 5884,
-    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBQJHTCT",
     "title": "AUTO-VOX Magnetic Solar Wireless Backup Camera for iPhone &amp; Android | 1S Quick Start, Solar Panel Longer Runtime, Magnetic Mo",
     "type": "winner",
@@ -679,6 +668,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iKDiyTIQL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQJHTCT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC5VTXFB",
+    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
+    "type": "winner",
+    "score": 88.45,
+    "price": 103.99,
+    "bsr": 5427,
+    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
     "walmart_url": null
   },
   {
@@ -18573,7 +18573,7 @@
     "type": "candidate",
     "score": 52.0,
     "price": 15.99,
-    "bsr": 5983,
+    "bsr": 6177,
     "image_url": "https://m.media-amazon.com/images/I/714vS9vZ-HL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
     "walmart_url": null
