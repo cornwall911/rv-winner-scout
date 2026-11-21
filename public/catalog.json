@@ -2145,6 +2145,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0GGY4GKNP",
+    "title": "OFFO High Pressure RV Shower Head with Hose, 5 Mode Shower Head with On/Off Switch, 60&quot; Ultra-Flex PVC Shower Hose and Shower Head Holder for RV, Camper, Van, Travel Trailer, Chrome",
+    "type": "winner",
+    "score": 80.75,
+    "price": 19.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61XERKFDjCL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GGY4GKNP",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HK7NMPWQ",
     "title": "3600W Portable Power Station PowerMax 3600PE with 400W Solar Panel | 2016Wh LiFePO4 Battery, 1 Hr Fast Charge, 4 AC Outlets &amp;",
     "type": "winner",
@@ -4089,17 +4100,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61239IFM0dL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3QQFTRP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0GGY4GKNP",
-    "title": "OFFO High Pressure RV Shower Head with Hose, 5 Mode Shower Head with On/Off Switch, 60&quot; Ultra-Flex PVC Shower Hose and Shower",
-    "type": "should_test",
-    "score": 75.25,
-    "price": 24.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XERKFDjCL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GGY4GKNP",
     "walmart_url": null
   },
   {
