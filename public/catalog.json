@@ -445,7 +445,7 @@
     "type": "winner",
     "score": 89.4,
     "price": 227.91,
-    "bsr": 6825,
+    "bsr": 6841,
     "image_url": "https://m.media-amazon.com/images/I/716N7nKiHyL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF8FMS5G",
     "walmart_url": null
@@ -21802,6 +21802,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HMH1V3DX",
+    "title": "15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow",
+    "type": "candidate",
+    "score": 49.0,
+    "price": 33.99,
+    "bsr": 6536,
+    "image_url": "https://m.media-amazon.com/images/I/61O2dT0Lc-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMH1V3DX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDNRJWGW",
     "title": "Glooglitter 3 ft RV Heated Sewer Hose Cover, Black | RV Sewer Hose Kit, -20°F RVs Heated Waste Discharge Hosepipe Sleeve, Win",
     "type": "candidate",
@@ -22789,17 +22800,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MI4bbvu9L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD6NL2DM",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HMH1V3DX",
-    "title": "15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow",
-    "type": "candidate",
-    "score": 48.25,
-    "price": 33.99,
-    "bsr": 8259,
-    "image_url": "https://m.media-amazon.com/images/I/61O2dT0Lc-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HMH1V3DX",
     "walmart_url": null
   },
   {
@@ -30217,6 +30217,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9NZNYXZ",
+    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
+    "type": "candidate",
+    "score": 39.95,
+    "price": 14.99,
+    "bsr": 6543,
+    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCXZ1PJY",
     "title": "RV Electric Tongue Jack Cover, PVC Mesh, Flag Print, Universal Fit | Heavy-Duty 0.5mm PVC-Coated Reinforced Mesh, Durable D R",
     "type": "candidate",
@@ -31006,17 +31017,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/51E5VaJG9pL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HPB9NFV3",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9NZNYXZ",
-    "title": "4&quot; Stainless Steel 5/8&quot; Trailer Hitch Pin with Hitch Pin Clip Black",
-    "type": "candidate",
-    "score": 38.7,
-    "price": 14.99,
-    "bsr": 6719,
-    "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
     "walmart_url": null
   },
   {
