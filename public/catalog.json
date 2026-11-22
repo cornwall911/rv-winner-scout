@@ -1804,6 +1804,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HF7Z18Y3",
+    "title": "12V RV Macerator Pump, 20.5 Ft Extended Cables, 12 GPM, Storage Box",
+    "type": "winner",
+    "score": 82.2,
+    "price": 89.24,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71qb2VXlbmL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF7Z18Y3",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC5SLZHZ",
     "title": "LF Bros 12V/110V 5KW Diesel Heater with Plateau Mode with Timer Controller",
     "type": "winner",
@@ -2142,17 +2153,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41a1xALUpfL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4QJRMRT",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HF7Z18Y3",
-    "title": "FIDISP 12V RV Macerator Pump, 20.5 Ft Extended Cables, 12 GPM, Storage Box | 3 Extended Power Cords, 10 Ft Lift &amp; 3.5 Ft Suct",
-    "type": "winner",
-    "score": 81.1,
-    "price": 89.24,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71qb2VXlbmL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF7Z18Y3",
     "walmart_url": null
   },
   {
@@ -18851,6 +18851,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71-NOMU63IL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNHRY87G",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HQJ75YVX",
+    "title": "Bucket Toilet Seat with Lid, Portable Toilet Seat Fits 5 Gallon Bucket | Emergency Portable Toilet for Camping RV Hiking Trav",
+    "type": "candidate",
+    "score": 52.25,
+    "price": 14.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/510Gj9RS6iL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQJ75YVX",
     "walmart_url": null
   },
   {
