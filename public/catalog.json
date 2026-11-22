@@ -14,8 +14,8 @@
     "asin": "B0HGGD3HX5",
     "title": "AUTO-VOX 7.2-Inch Solar Wireless Backup Camera, 1-Min Magnetic Mount | 1080P HD IR Night Vision, Dual-Antenna Signal, 2 Split",
     "type": "winner",
-    "score": 90.4,
-    "price": 127.49,
+    "score": 90.3,
+    "price": 169.99,
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81vJ2eTUZ6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGGD3HX5",
@@ -143,17 +143,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFMSXN93",
-    "title": "AUTO-VOX Solar Wireless Backup Camera, 1 Minute DIY Install, 5&quot; HD Monito | 1080P Rear View, Solar Assisted Battery, Night Vi",
-    "type": "winner",
-    "score": 90.05,
-    "price": 129.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71RCj5626sL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFMSXN93",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H7RNQ74N",
     "title": "WiFi Solar Magnetic Backup Camera, 1080P Night Vision RV Trailer",
     "type": "winner",
@@ -173,17 +162,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Z77+alPTL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H93W4JLP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H5QBNVRR",
-    "title": "AUTO-VOX Solar Wireless Backup Camera: 1-Minute No-Drill Installation | Stable Dual Antenna Signal, 6&quot; 1080P Display with Col",
-    "type": "winner",
-    "score": 90.0,
-    "price": 119.69,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711LpS7xzVL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5QBNVRR",
     "walmart_url": null
   },
   {
@@ -418,6 +396,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HFMSXN93",
+    "title": "AUTO-VOX Solar Wireless Backup Camera, 1 Minute DIY Install, 5&quot; HD Monito | 1080P Rear View, Solar Assisted Battery, Night Vi",
+    "type": "winner",
+    "score": 89.5,
+    "price": 103.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71RCj5626sL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFMSXN93",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC5V3KLK",
     "title": "AUTO-VOX 2 Solar Wireless Backup Camera, 7.2&quot; Split Screen for Dual Views | 3 Min Install, 1080P Dual View, Dual Antenna Sign",
     "type": "winner",
@@ -558,6 +547,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81QArkkS5XL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H28WH54Z",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5QBNVRR",
+    "title": "AUTO-VOX Solar Wireless Backup Camera: 1-Minute No-Drill Installation | Stable Dual Antenna Signal, 6&quot; 1080P Display with Col",
+    "type": "winner",
+    "score": 89.2,
+    "price": 119.69,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/711LpS7xzVL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5QBNVRR",
     "walmart_url": null
   },
   {
@@ -1749,17 +1749,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HLK3FG1K",
-    "title": "OUKITEL BP3000 3200W 6400W Peak Portable Power Station with 2x 100W Panels,Expandable up to 16kWh, 2048Wh LFP, 4×120V AC, UPS",
-    "type": "winner",
-    "score": 82.3,
-    "price": 1229.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81vhZ2B6FNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HLK3FG1K",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GLPKFJHX",
     "title": "Silvbott 65000BTU RV Tankless Water Heater, Propane, 12V DC With Black Door | Dual Outlet, 15&quot; x 15&quot; Door, Shower Set, Wired",
     "type": "winner",
@@ -2604,17 +2593,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71Elte71XNL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDN8XY2N",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC6RZBXL",
-    "title": "AP1000 1800W Portable Power Station with 200W Solar Panel",
-    "type": "should_test",
-    "score": 79.65,
-    "price": 550.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/81E+vmbIRJL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6RZBXL",
     "walmart_url": null
   },
   {
@@ -3586,6 +3564,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC6RZBXL",
+    "title": "AP1000 1800W Portable Power Station with 200W Solar Panel",
+    "type": "should_test",
+    "score": 76.85,
+    "price": 550.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/81E+vmbIRJL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6RZBXL",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC6P54VR",
     "title": "AP1000 1800W Portable Power Station with 100W Solar Panel",
     "type": "should_test",
@@ -3781,17 +3770,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yQWgUvLEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZPL47RD",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC7HKS1R",
-    "title": "CTOLITY XP1000 1800W Portable Power Station with 100W Solar Panel | Peak 3600W, 1 Hr Fast Charge, 100W USB-C Output, 20ms UPS",
-    "type": "should_test",
-    "score": 76.25,
-    "price": 478.79,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81wuCwYZmWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC7HKS1R",
     "walmart_url": null
   },
   {
@@ -4477,6 +4455,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC7HKS1R",
+    "title": "CTOLITY XP1000 1800W Portable Power Station with 100W Solar Panel | Peak 3600W, 1 Hr Fast Charge, 100W USB-C Output, 20ms UPS",
+    "type": "should_test",
+    "score": 74.25,
+    "price": 478.79,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81wuCwYZmWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC7HKS1R",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HD6NKZY9",
     "title": "DARAN Portable Power Station 1000W(2000W Peak) Emergency Battery Backup | 1.8H Fast Charging, Emergency Backup for Home Use,",
     "type": "should_test",
@@ -4587,17 +4576,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8SMM39F",
-    "title": "OUPES Exodus 350 Portable Power Station, 288Wh 350W LiFePO4 Solar Generator",
-    "type": "should_test",
-    "score": 74.0,
-    "price": 180.49,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61lgGxg41VL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8SMM39F",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HFHJ7H47",
     "title": "SanHima Awning Shower Tent with Roof, Portable Car Side Shower Room | w/LED Light, Camping Waterproof Portable Privacy Shelte",
     "type": "should_test",
@@ -4653,6 +4631,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8SMM39F",
+    "title": "OUPES Exodus 350 Portable Power Station, 288Wh 350W LiFePO4 Solar Generator | Pure Sine Wave AC, &lt;10ms 600W UPS, 140W PD USB-",
+    "type": "should_test",
+    "score": 73.75,
+    "price": 180.49,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61lgGxg41VL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8SMM39F",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H4Q5R8NC",
     "title": "TURBRO 12V DC 12,000 BTU RV Air Conditioner with Inverter Compressor | Non-Ducted Ultra-Low Profile Rooftop Unit, Quiet Opera",
     "type": "should_test",
@@ -4705,6 +4694,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61D-xH-pAqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMCFPTRT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HLK3FG1K",
+    "title": "OUKITEL BP3000 3200W 6400W Peak Portable Power Station with 2x 100W Panels,Expandable up to 16kWh, 2048Wh LFP, 4×120V AC, UPS",
+    "type": "should_test",
+    "score": 73.45,
+    "price": 1229.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81vhZ2B6FNL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLK3FG1K",
     "walmart_url": null
   },
   {
@@ -6226,17 +6226,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0GPWBVY58",
-    "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
-    "type": "should_test",
-    "score": 68.25,
-    "price": 329.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O9LSJyirL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GZ4BLFMS",
     "title": "EFURDEN 4300 Watts Portable Inverter Generator, Gas Generator for Outdoor Camping, Home Use, 30A RV Ready, 45 Lbs, EPA Compli",
     "type": "should_test",
@@ -6267,6 +6256,17 @@
     "bsr": 2679,
     "image_url": "https://m.media-amazon.com/images/I/71Q6qq79UpL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0GPWBVY58",
+    "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
+    "type": "should_test",
+    "score": 68.0,
+    "price": 329.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O9LSJyirL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
     "walmart_url": null
   },
   {
@@ -10824,17 +10824,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCNWZWQS",
-    "title": "Obeaming 120W RV USB Outlet, Dual PD3.0 Type-C 100W Laptop Car Charger | Aluminum Faceplate, 100W+20W Fast charging, PD 3.0,",
-    "type": "should_test",
-    "score": 59.5,
-    "price": 39.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vOXw4kZiL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCNWZWQS",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H1R5842J",
     "title": "YYLXTEX 105 Gallon/400L Water Bladder Tank - Portable Collapsible Water Storage Bag with Heavy-Duty PVC Material for Camping,",
     "type": "should_test",
@@ -10953,6 +10942,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/817loRTxGpL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHRDJ3YP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCNWZWQS",
+    "title": "Obeaming 120W RV USB Outlet, Dual PD3.0 Type-C 100W Laptop Car Charger | Aluminum Faceplate, 100W+20W Fast charging, PD 3.0,",
+    "type": "should_test",
+    "score": 59.25,
+    "price": 39.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vOXw4kZiL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCNWZWQS",
     "walmart_url": null
   },
   {
@@ -13893,17 +13893,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HN1WCQNZ",
-    "title": "EF EcoFlow TITAN 5000 Plus Power Station, 5017Wh LFP, 7.2kW Up to 10kW",
-    "type": "should_test",
-    "score": 52.9,
-    "price": 3699.0,
-    "bsr": 14284,
-    "image_url": "https://m.media-amazon.com/images/I/61FgzTb84fL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HN1WCQNZ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJ29G73N",
     "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC for Motorhome Travel Trailer, Motor Coach, Truck Camper,R502-White",
     "type": "should_test",
@@ -13934,6 +13923,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71J31kZv+pL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC6PHMJJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HN1WCQNZ",
+    "title": "EF EcoFlow TITAN 5000 Plus Power Station, 5017Wh LFP, 7.2kW Up to 10kW",
+    "type": "should_test",
+    "score": 52.65,
+    "price": 3699.0,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61FgzTb84fL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HN1WCQNZ",
     "walmart_url": null
   },
   {
@@ -22352,6 +22352,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGX5Y5YX",
+    "title": "HOLDLY RV Fresh Water Tank Fill Kit, 1.25&quot; NPT Fill Port, 3/8&quot; NPT | Complete Gravity Fill Kit with Three Tubes, Cap, Spigot,",
+    "type": "candidate",
+    "score": 48.75,
+    "price": 34.39,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/716pE2fxxkL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGX5Y5YX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF84ZPHX",
     "title": "ElaraBerry 2 Pcs 20 lb Propane Tank Mount Brackets with Strap Holders | Heavy Duty Propane Tank Holder for Car Rv Trailers Tr",
     "type": "candidate",
@@ -23683,17 +23694,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0GXVQTQJ3",
-    "title": "30 Amp RV Extension Cord 25FT, Heavy Duty 10 Gauge 125V 3750W | NEMA TT-30P Plug, ETL Listed, Waterproof Outdoor, Shore Power",
-    "type": "candidate",
-    "score": 47.75,
-    "price": 43.19,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FWN3UohYL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GXVQTQJ3",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H97B19GX",
     "title": "Cididu 2Pcs Trailer Hitch Storage Bracket, 2 in Hitch Holder for Truck Bed",
     "type": "candidate",
@@ -24560,6 +24560,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61iN8qDzCjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4FNTK92",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0GXVQTQJ3",
+    "title": "30 Amp RV Extension Cord 25FT, Heavy Duty 10 Gauge 125V 3750W | NEMA TT-30P Plug, ETL Listed, Waterproof Outdoor, Shore Power",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 53.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FWN3UohYL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GXVQTQJ3",
     "walmart_url": null
   },
   {
@@ -25693,6 +25704,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51MZu78n0kL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H87HD2RP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H7BLX886",
+    "title": "Ziquruv 30A RV Male Replacement Plug, TT-30P, Pull Handle, Black | 125v Cord-End Repair, Nylon Housing, Copper Contacts, 10/3",
+    "type": "candidate",
+    "score": 45.95,
+    "price": 7.07,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51TMEjQLV8L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7BLX886",
     "walmart_url": null
   },
   {
@@ -27200,6 +27222,17 @@
     "bsr": 124164,
     "image_url": "https://m.media-amazon.com/images/I/71DeS2nP+fL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF3BZPJL",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5L1FMV2",
+    "title": "G355 RV Keys, 3 Pack Precut Replacement Keys | G301-G390 Series RV Keys Compatible with Global Link RV Trailer Camper Locks,",
+    "type": "candidate",
+    "score": 44.25,
+    "price": 14.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71qb7i8+M8L._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5L1FMV2",
     "walmart_url": null
   },
   {
@@ -29073,17 +29106,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H7BLX886",
-    "title": "Ziquruv 30A RV Male Replacement Plug, TT-30P, Pull Handle, Black | 125v Cord-End Repair, Nylon Housing, Copper Contacts, 10/3",
-    "type": "candidate",
-    "score": 42.45,
-    "price": 11.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51TMEjQLV8L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7BLX886",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HFMCM4HL",
     "title": "RV Wye Sewer Hose Fittings &amp; 4-in-1 Adapter -Built-In Gaskets for Odor",
     "type": "candidate",
@@ -30107,6 +30129,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJNJ1CTC",
+    "title": "2 Pack USB Hand Crank for charger 5.5V Output for Phones Black",
+    "type": "candidate",
+    "score": 40.7,
+    "price": 9.59,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/51xveHJdAVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJNJ1CTC",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7WN3KG4",
     "title": "Aepiraza Class A RV Side Mirror Covers for Motorhomes, 2Pcs Silver 26Inch Motorhome Side Mirror Covers with Drawstrings, Wint",
     "type": "candidate",
@@ -30987,6 +31020,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HQ92XRCT",
+    "title": "Hand Crank USB Generator for charger, 5.5V Manual Power Generator(BLUE)",
+    "type": "candidate",
+    "score": 39.25,
+    "price": 9.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/51MM5lVl9SL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQ92XRCT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H2914TR9",
     "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
     "type": "candidate",
@@ -31105,17 +31149,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yARfwWOPL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCZHXYQ6",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HQ92XRCT",
-    "title": "Hand Crank USB Generator for charger, 5.5V Manual Power Generator(BLUE)",
-    "type": "candidate",
-    "score": 39.0,
-    "price": 9.99,
-    "bsr": 15540,
-    "image_url": "https://m.media-amazon.com/images/I/51MM5lVl9SL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HQ92XRCT",
     "walmart_url": null
   },
   {
@@ -31548,17 +31581,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HPBDYFRN",
-    "title": "USB Hand Crank for charger Portable Generator for Mobile Phone (Blue)",
-    "type": "candidate",
-    "score": 38.25,
-    "price": 6.8,
-    "bsr": 10178,
-    "image_url": "https://m.media-amazon.com/images/I/5148gZCi2-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HPBDYFRN",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJ7P8CXP",
     "title": "2 Pack 51&quot; BVD0455-01 RV Roof Vent Seal Vinyl Seal for Camco Roof Ventline &amp; Hengs",
     "type": "candidate",
@@ -31567,6 +31589,17 @@
     "bsr": 229875,
     "image_url": "https://m.media-amazon.com/images/I/61befVlXCzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ7P8CXP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HPBDYFRN",
+    "title": "USB Hand Crank for charger Portable Generator for Mobile Phone (Blue)",
+    "type": "candidate",
+    "score": 38.0,
+    "price": 6.8,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/5148gZCi2-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HPBDYFRN",
     "walmart_url": null
   },
   {
@@ -33415,17 +33448,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/610QcArXWAL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H867F3XG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H5L1FMV2",
-    "title": "G355 RV Keys, 3 Pack Precut Replacement Keys",
-    "type": "candidate",
-    "score": 34.4,
-    "price": 14.99,
-    "bsr": 6640,
-    "image_url": "https://m.media-amazon.com/images/I/71qb7i8+M8L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5L1FMV2",
     "walmart_url": null
   },
   {
