@@ -2233,17 +2233,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H798WNYX",
-    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
-    "type": "winner",
-    "score": 80.65,
-    "price": 21.72,
-    "bsr": 16138,
-    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GZSMCDPJ",
     "title": "Wireless RV Leveling System, Bluetooth App Leveler for Camper and Trailer | 6-Axis Precise Inclination Angle Indicator for Tr",
     "type": "winner",
@@ -2406,6 +2395,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/817jjP3xY4L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJPZLFY2",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H798WNYX",
+    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
+    "type": "winner",
+    "score": 80.2,
+    "price": 29.99,
+    "bsr": 8263,
+    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
     "walmart_url": null
   },
   {
@@ -5453,17 +5453,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+H9Qj9UeL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6BF292Q",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HL5QDG35",
-    "title": "Propane Refill Adapter with Gauge for 1 lb. Tanks, 3FT Hose &amp; Valve",
-    "type": "should_test",
-    "score": 70.55,
-    "price": 23.99,
-    "bsr": 8435,
-    "image_url": "https://m.media-amazon.com/images/I/51QwsiC7NHL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HL5QDG35",
     "walmart_url": null
   },
   {
@@ -8789,17 +8778,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ1CH8Y8",
-    "title": "4-in-1 RV Accessories Gas Detector,Hardwired 12V DC for Motorhome Travel Trailer, Motor Coach, Truck Camper",
-    "type": "should_test",
-    "score": 62.65,
-    "price": 69.99,
-    "bsr": 8227,
-    "image_url": "https://m.media-amazon.com/images/I/61++m0b1ViL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ1CH8Y8",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJWXJDRJ",
     "title": "15000 BTU 115V RV Air Conditioner with Heat Pump, Rooftop AC Unit for Cooling &amp; Heating, All-in-One DC Air Conditioner for RV",
     "type": "should_test",
@@ -10560,6 +10538,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HL5QDG35",
+    "title": "Propane Refill Adapter with Gauge for 1 lb. Tanks, 3FT Hose &amp; Valve",
+    "type": "should_test",
+    "score": 59.75,
+    "price": 23.99,
+    "bsr": 7552,
+    "image_url": "https://m.media-amazon.com/images/I/51QwsiC7NHL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HL5QDG35",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHRWZN3P",
     "title": "RV Windshield Cover for Jayco Seneca 2005-2010; 2012-2027, Exterior Reflective Motorhome Windshield Cover with Magnetic Attac",
     "type": "should_test",
@@ -11866,6 +11855,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71hCkI01YaL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HK7PJZRQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ1CH8Y8",
+    "title": "4-in-1 RV Accessories Gas Detector,Hardwired 12V DC for Motorhome Travel Trailer, Motor Coach, Truck Camper",
+    "type": "should_test",
+    "score": 57.0,
+    "price": 69.99,
+    "bsr": 7758,
+    "image_url": "https://m.media-amazon.com/images/I/61++m0b1ViL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ1CH8Y8",
     "walmart_url": null
   },
   {
