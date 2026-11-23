@@ -1600,7 +1600,7 @@
     "type": "winner",
     "score": 82.75,
     "price": 26.33,
-    "bsr": null,
+    "bsr": 37814,
     "image_url": "https://m.media-amazon.com/images/I/51JzrO2JcyL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQZXB3G",
     "walmart_url": null
@@ -2640,6 +2640,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H73X6X1W",
+    "title": "12V Fahrenheit DC RV Air Conditioner, 8500 BTU Ultra-Quiet AC",
+    "type": "should_test",
+    "score": 79.75,
+    "price": 552.0,
+    "bsr": 444404,
+    "image_url": "https://m.media-amazon.com/images/I/61hSXvCt0qL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H73X6X1W",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC5SLZHZ",
     "title": "LF Bros 12V/110V 5KW Diesel Heater with Plateau Mode with Timer Controller",
     "type": "should_test",
@@ -2791,17 +2802,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ZoNIgIkGL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H1HP71J3",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H73X6X1W",
-    "title": "12V Fahrenheit DC RV Air Conditioner, 8500 BTU Ultra-Quiet AC | Fast Cooling and Heating Rooftop RV AC Unit, Easy Install Non",
-    "type": "should_test",
-    "score": 79.05,
-    "price": 545.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61hSXvCt0qL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H73X6X1W",
     "walmart_url": null
   },
   {
@@ -5643,6 +5643,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9WQGV28",
+    "title": "Update Adhesive RV Shower Corner Storage Bar, 2 Pack",
+    "type": "should_test",
+    "score": 70.4,
+    "price": 9.49,
+    "bsr": 27537,
+    "image_url": "https://m.media-amazon.com/images/I/612uQ+CNKrL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9WQGV28",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCMN6LFC",
     "title": "ECO-WORTHY RV Macerator Pump 12V Portable Macerator Waste Pump 12GPM Suction 3.2 feet Lift 10 feet Quick Release Sewage Pump",
     "type": "should_test",
@@ -6289,6 +6300,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZpSQ-3K0L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBVCFC4N",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H1GCCH84",
+    "title": "Plastic Ventilated Mattress Underlay Pad for RV, Camper &amp; Boat",
+    "type": "should_test",
+    "score": 68.5,
+    "price": 36.99,
+    "bsr": 34345,
+    "image_url": "https://m.media-amazon.com/images/I/81mwneSioeL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1GCCH84",
     "walmart_url": null
   },
   {
@@ -6993,17 +7015,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/7160R51ucRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD6CKB8C",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H1GCCH84",
-    "title": "MAJOOLUD Plastic Ventilated Mattress Underlay Pad for RV, Camper &amp; Boat | 83&quot; L x 59&quot; RV Queen Size, Interlocking Modular Air",
-    "type": "should_test",
-    "score": 66.75,
-    "price": 36.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81mwneSioeL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1GCCH84",
     "walmart_url": null
   },
   {
@@ -14707,6 +14718,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HG1MV1M2",
+    "title": "24V 12000 BTU Universal Electric Underdash Air Conditioner Kit",
+    "type": "candidate",
+    "score": 63.2,
+    "price": 639.0,
+    "bsr": 453600,
+    "image_url": "https://m.media-amazon.com/images/I/71RwEMriPeL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG1MV1M2",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HKJPH219",
     "title": "Waterproof Rear View Camera Rain Shield Cover, Backup Camera Rain Shield",
     "type": "candidate",
@@ -15331,6 +15353,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RwmUFrZcL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H756JDPJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8J84XDG",
+    "title": "Keiurot Truck Bed Lights Motion Sensor for RV Pickup Camper White 2Pack",
+    "type": "candidate",
+    "score": 59.65,
+    "price": 25.39,
+    "bsr": 35732,
+    "image_url": "https://m.media-amazon.com/images/I/710PKWDYOqL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8J84XDG",
     "walmart_url": null
   },
   {
@@ -18601,17 +18634,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H7LM16MX",
-    "title": "2 PCS Car Air Conditioning Wind Deflector, ABS Rectangle Car Air Vent Wind Deflector, Adjustable Clip-on Auto AC Vent Mount, for Women &amp; Mom, for Most Vehicles (Black)",
-    "type": "candidate",
-    "score": 52.75,
-    "price": 12.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71VCoIvUzNL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7LM16MX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGF62S5D",
     "title": "WHODNUS Manual Retractable RV Step,Foldable Camper Step Without Light | Camper Entry Step w/Yellow Stripes,17.95&quot; Pedal Lengt",
     "type": "candidate",
@@ -21216,17 +21238,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61DvMRD4nhL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHWWLPRF",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9WQGV28",
-    "title": "FOCSPROD Update Adhesive RV Shower Corner Storage Bar, 2 Pack | Stainless Steel RV Storage Organization Corner Bar, RV Shower",
-    "type": "candidate",
-    "score": 50.0,
-    "price": 9.49,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/612uQ+CNKrL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9WQGV28",
     "walmart_url": null
   },
   {
@@ -26488,17 +26499,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H5QN71XG",
-    "title": "Qeykizy 4 Inch T-Style RV Door Holder, 304 Stainless Steel RV Door Latch | Door Holder Catch for RV, Camper, Travel Trailer,",
-    "type": "candidate",
-    "score": 45.0,
-    "price": 6.78,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eXi1p5cxL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5QN71XG",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HMVZWFZJ",
     "title": "5 Step RV Step Ladder with Handrail, Heavy Duty 660lbs Outdoor Stairs",
     "type": "candidate",
@@ -26785,17 +26785,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8J84XDG",
-    "title": "Keiurot Truck Bed Lights Motion Sensor for RV Pickup Camper White 2Pack | 2 Modes Wireless 1500mAh Battery Rechargeable for C",
-    "type": "candidate",
-    "score": 44.75,
-    "price": 24.89,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710PKWDYOqL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8J84XDG",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H941TJ67",
     "title": "2-Step RV Steps with Dual Handrails and 4 Locking Wheels high storage 350lb | Indoor Reach for High Storage: Kitchen cabinets",
     "type": "candidate",
@@ -26925,17 +26914,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71E8I7BPm5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2MSY4CN",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HG1MV1M2",
-    "title": "24V Cool &amp; Heat Universal Electric Underdash Air Conditioner Kit",
-    "type": "candidate",
-    "score": 44.75,
-    "price": 640.0,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/717TlzwHGgL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG1MV1M2",
     "walmart_url": null
   },
   {
@@ -28721,17 +28699,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9YZXF58",
-    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
-    "type": "candidate",
-    "score": 43.0,
-    "price": 6.99,
-    "bsr": 8917,
-    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HNJ3XDPH",
     "title": "Butyl Sealant Tape 19Ft x 1/4&quot;, Flex Rubber Butyl Tape for Headlight",
     "type": "candidate",
@@ -29257,6 +29224,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71B4qs4CCwL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFJ973LX",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC6279N4",
+    "title": "Heater Air Vent Diffuser for Truma Combi 4 | RV Heating Air Outlet",
+    "type": "candidate",
+    "score": 42.5,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/517G242AECL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6279N4",
     "walmart_url": null
   },
   {
@@ -30049,6 +30027,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61h5Wf1fQHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQ5R96PV",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H5QN71XG",
+    "title": "4 Inch T-Style RV Door Holder, 304 Stainless Steel RV Door Latch",
+    "type": "candidate",
+    "score": 41.0,
+    "price": 6.78,
+    "bsr": 31658,
+    "image_url": "https://m.media-amazon.com/images/I/71eXi1p5cxL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5QN71XG",
     "walmart_url": null
   },
   {
@@ -31350,6 +31339,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HP9MK4TR",
+    "title": "Solar LED Car Trunk Light Gravity Sensor Auto On Off Type-C Rechargeable",
+    "type": "candidate",
+    "score": 39.0,
+    "price": 15.99,
+    "bsr": 20707,
+    "image_url": "https://m.media-amazon.com/images/I/51ZOps8bgcL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HP9MK4TR",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGDRP5QZ",
     "title": "Waste Ball Kit 34117,RV Toilet Parts for Thetford Aqua Magic RV Toilet | RV Waste Ball Kit for Style II,Style Lite,Style Plus",
     "type": "candidate",
@@ -31823,17 +31823,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HP9MK4TR",
-    "title": "Solar LED Car Trunk Light Gravity Sensor Auto On Off Type-C Rechargeable",
-    "type": "candidate",
-    "score": 38.0,
-    "price": 15.99,
-    "bsr": 15018,
-    "image_url": "https://m.media-amazon.com/images/I/51ZOps8bgcL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HP9MK4TR",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5BT7V98",
     "title": "Safoner Aluminum RV Floor Vent Cover, 4&quot;x8&quot; Register RV Vent Accessories | Removable Cover, Durable Aluminum, Blocks Pet Hair",
     "type": "candidate",
@@ -32153,6 +32142,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9YZXF58",
+    "title": "Wall Phone Holder 2 Pack for iPhone Android - Adhesive No Drill Phone Mount",
+    "type": "candidate",
+    "score": 37.25,
+    "price": 6.99,
+    "bsr": 10754,
+    "image_url": "https://m.media-amazon.com/images/I/71I-F3pac2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9YZXF58",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7BGQSBR",
     "title": "K2035-81 Fan-Tastic Vent Replacement Parts for RV Vent Screen Replacement | Fantastic fan replacement parts, compatible for D",
     "type": "candidate",
@@ -32436,6 +32436,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/412Ezo3S2cL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6ZJD9DN",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHHR83NK",
+    "title": "Calvana 2 Pack RV Roof Vent Operator Kit with Knobs and Screws, 6.5 Inch",
+    "type": "candidate",
+    "score": 37.0,
+    "price": 24.99,
+    "bsr": 456546,
+    "image_url": "https://m.media-amazon.com/images/I/6110VQi7THL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHHR83NK",
     "walmart_url": null
   },
   {
@@ -32758,6 +32769,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HG13D3MX",
+    "title": "3313107.015 RV AC Condenser Fan Blade for Dometic",
+    "type": "candidate",
+    "score": 36.25,
+    "price": 13.99,
+    "bsr": 483274,
+    "image_url": "https://m.media-amazon.com/images/I/61qlPVXhShL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6FJXGWF",
     "title": "12PCS Tarp Clips, Heavy Duty Lock Grip Tarp Clamps, Plastic Grip Clips",
     "type": "candidate",
@@ -33063,17 +33085,6 @@
     "bsr": 17394,
     "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HG13D3MX",
-    "title": "Spqnzon 3313107.015 RV AC Condenser Fan Blade for Dometic | Fits Duo-Therm Brisk Air Series, Replaces 3107914.008, 317937.000",
-    "type": "candidate",
-    "score": 35.7,
-    "price": 13.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qlPVXhShL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
     "walmart_url": null
   },
   {
@@ -34705,17 +34716,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HC6279N4",
-    "title": "Heater Air Vent Diffuser for Truma Combi 4 | RV Heating Air Outlet",
-    "type": "candidate",
-    "score": 32.25,
-    "price": 2.42,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/517G242AECL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6279N4",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5BP5HHJ",
     "title": "KNFRXO WF-8930/50NPB RV Power Distribution Center | 30 or 50 Amp Camper AC Panel, 120/240V Input, 12 AC &amp; 15 DC Circuits for",
     "type": "candidate",
@@ -36341,6 +36341,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/518lju8sWSL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HPKF8JS1",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H7LM16MX",
+    "title": "2 PCS Car Air Conditioning Wind Deflector, ABS Rectangle Car Air Vent Wind Deflector, Adjustable Clip-on Auto AC Vent Mount, for Women &amp; Mom, for Most Vehicles (Black)",
+    "type": "candidate",
+    "score": 28.25,
+    "price": 7.39,
+    "bsr": 474525,
+    "image_url": "https://m.media-amazon.com/images/I/71VCoIvUzNL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7LM16MX",
     "walmart_url": null
   },
   {
@@ -38090,6 +38101,17 @@
     "bsr": 1175293,
     "image_url": "https://m.media-amazon.com/images/I/716spTil-FL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H71GNRTQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HQJYV4VP",
+    "title": "Mytee Products 6.58&#x27; x 43&#x27; Reefer Air Chute with Nylon Rivets Compatible with 43&#x27; &amp; 53&#x27; Refrigerated Trailers &amp; Containers - 10 oz 340 GSM PVC Knife-Coated Polyester Standard Air Chute",
+    "type": "candidate",
+    "score": 12.5,
+    "price": 114.99,
+    "bsr": 365421,
+    "image_url": "https://m.media-amazon.com/images/I/31JhCQFbUvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQJYV4VP",
     "walmart_url": null
   },
   {
