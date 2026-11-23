@@ -1056,6 +1056,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HFCVVZ21",
+    "title": "350W Pure Sine Wave Power Inverter for Ryobi 18V Battery, 2-Bay",
+    "type": "winner",
+    "score": 84.7,
+    "price": 85.99,
+    "bsr": 50998,
+    "image_url": "https://m.media-amazon.com/images/I/71AY5l8VN7L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFCVVZ21",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H45F7CZY",
     "title": "ZEROXCLUB 4 CAM 7&quot; Touchscreen Magentic Solar Wireless Backup Camera | 2 Rear View Camera 2 Side View Cameras Wireless Solar",
     "type": "winner",
@@ -6391,6 +6402,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0GPWBVY58",
+    "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
+    "type": "should_test",
+    "score": 68.5,
+    "price": 309.99,
+    "bsr": 44823,
+    "image_url": "https://m.media-amazon.com/images/I/71O9LSJyirL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFVGLPHW",
     "title": "AP400 Portable Power Station 345Wh 500W, with 100W Solar Panel",
     "type": "should_test",
@@ -6531,17 +6553,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/512LT3PNfkL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZP764SC",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0GPWBVY58",
-    "title": "2800W Portable Inverter Generator, Quiet Gas Generator for Camping, RVs, Home Backup and Outdoor Activities, EPA Compliant",
-    "type": "should_test",
-    "score": 68.0,
-    "price": 329.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O9LSJyirL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GPWBVY58",
     "walmart_url": null
   },
   {
@@ -24662,17 +24673,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFNFR1Y8",
-    "title": "300W Car Power Inverter 12V DC to 110V AC",
-    "type": "candidate",
-    "score": 47.0,
-    "price": 16.95,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/81LGhNJ++lL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFNFR1Y8",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5JXVVN2",
     "title": "RV Awning Fabric Replacement for 10ft Camper Awnings, 20.8 oz/yd², Gray | 6-Layer Waterproof Vinyl, Heat-Sealed Edges, Pre-In",
     "type": "candidate",
@@ -27948,6 +27948,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/616hveAS3ZL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4QPHMYR",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFNFR1Y8",
+    "title": "150W Power Inverters for Vehicles 12V DC to 110V AC Car Power Inverter",
+    "type": "candidate",
+    "score": 43.75,
+    "price": 16.35,
+    "bsr": 50503,
+    "image_url": "https://m.media-amazon.com/images/I/71seOPc6aKL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFNFR1Y8",
     "walmart_url": null
   },
   {
