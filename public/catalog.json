@@ -1100,17 +1100,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HD6GN86Q",
-    "title": "BLUETTI Elite 100 mini Portable Power Station for Camping 1004.8Wh 700W LFP",
-    "type": "winner",
-    "score": 84.05,
-    "price": 379.99,
-    "bsr": 316,
-    "image_url": "https://m.media-amazon.com/images/I/71GLt3VSqTL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HD6GN86Q",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H9DBF2RV",
     "title": "65,000 BTU RV Tankless Water Heater, 12V DC, 18x18 inches White",
     "type": "winner",
@@ -1295,6 +1284,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71RNl2nEYHL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZLFDS9G",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HD6GN86Q",
+    "title": "BLUETTI Elite 100 mini Portable Power Station for Camping 1004.8Wh 700W LFP",
+    "type": "winner",
+    "score": 83.25,
+    "price": 379.99,
+    "bsr": 337,
+    "image_url": "https://m.media-amazon.com/images/I/71GLt3VSqTL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HD6GN86Q",
     "walmart_url": null
   },
   {
