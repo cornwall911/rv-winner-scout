@@ -286,17 +286,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ4Y7GZB",
-    "title": "VEVOR Diesel Heater 12V 8KW Fast Heating Portable Diesel Parking Heater",
-    "type": "winner",
-    "score": 89.8,
-    "price": 89.9,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71RBYn+DAaL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ4Y7GZB",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H3T497ZD",
     "title": "VEKOOTO KS7Pro Magnetic Solar Wireless Backup Camera, 7 Inch Monitor | License Plate Mount in 3 Minutes, 5000 mAh Battery, IP",
     "type": "winner",
@@ -506,6 +495,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJ4Y7GZB",
+    "title": "VEVOR Diesel Heater 12V 8KW Fast Heating Portable Diesel Parking Heater",
+    "type": "winner",
+    "score": 89.25,
+    "price": 89.9,
+    "bsr": 44782,
+    "image_url": "https://m.media-amazon.com/images/I/71RBYn+DAaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ4Y7GZB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJ7S8Y2K",
     "title": "8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fi",
     "type": "winner",
@@ -605,6 +605,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6WTQSX5",
+    "title": "WIPPRO Diesel Heater 12KW, 8L All in One Diesel Air Heater 110/12/24V Parking Heater with App Control, Wireless Temperature Sensing and Altitude Mode for RV Garage Camper",
+    "type": "winner",
+    "score": 88.95,
+    "price": 227.99,
+    "bsr": 34032,
+    "image_url": "https://m.media-amazon.com/images/I/71N8UtushvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6WTQSX5",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDDRJQT9",
     "title": "8KW Diesel Heater, DC12-24V Fast Heating, All-in-one Diesel Air Heater with APP Remote Control and LCD Display Screen for RV,",
     "type": "winner",
@@ -624,17 +635,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/714UN78v-5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMVYBJJ8",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6WTQSX5",
-    "title": "WIPPRO Diesel Heater 12KW, 8L All in One Diesel Air Heater 110/12/24V Parking Heater with App Control, Wireless Temperature Sensing and Altitude Mode for RV Garage Camper",
-    "type": "winner",
-    "score": 88.9,
-    "price": 227.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71N8UtushvL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6WTQSX5",
     "walmart_url": null
   },
   {
@@ -2728,6 +2728,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCGTKJKS",
+    "title": "Electric Trailer Dolly 9000Lbs, 48V 800W Super Handy Electric Trailer Dolly",
+    "type": "should_test",
+    "score": 79.25,
+    "price": 1376.0,
+    "bsr": 42174,
+    "image_url": "https://m.media-amazon.com/images/I/71m+x5HpdJL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCGTKJKS",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1HP71J3",
     "title": "VTOMAN Jump 600X 600W Portable Power Station, 268.8Wh LiFePO4 Battery | 1200W Surge, 2-Hour AC Recharge, 100W USB-C, UPS and",
     "type": "should_test",
@@ -3190,6 +3201,28 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HD5Z3CMC",
+    "title": "Propane Tank Heating Blanket, Electric Tank Warmer",
+    "type": "should_test",
+    "score": 78.0,
+    "price": 40.79,
+    "bsr": 141082,
+    "image_url": "https://m.media-amazon.com/images/I/81qmOVnSpcL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HD5Z3CMC",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJV7FT65",
+    "title": "3-in-1 RV Propane Gas Detector, USB-C or 12V Hidden Terminal Wire Powered",
+    "type": "should_test",
+    "score": 78.0,
+    "price": 55.99,
+    "bsr": 453603,
+    "image_url": "https://m.media-amazon.com/images/I/514edXDhnML.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJV7FT65",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGKL8DLL",
     "title": "350W Pure Sine Wave Inverter for Ryobi 18V Battery, 4-Bay",
     "type": "should_test",
@@ -3308,17 +3341,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81G83kSa8iL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H75DT9GX",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7WF83XV",
-    "title": "RV Door Window Blackout Shade, 16 x 25 Inch UV Block Privacy Oxford Cover for Camper Travel Trailer",
-    "type": "should_test",
-    "score": 77.75,
-    "price": 9.48,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/911A2AZDMnL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7WF83XV",
     "walmart_url": null
   },
   {
@@ -4103,6 +4125,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7WF83XV",
+    "title": "RV Door Window Blackout Shade, 16 x 25 Inch UV Block Privacy Oxford Cover for Camper Travel Trailer",
+    "type": "should_test",
+    "score": 75.5,
+    "price": 9.48,
+    "bsr": 52030,
+    "image_url": "https://m.media-amazon.com/images/I/911A2AZDMnL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7WF83XV",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H83DLDV3",
     "title": "RV Airflow Systems RV Air Conditioning Vent, 360° Rotating Ceiling Vent | Up to 15% Increased Airflow, 360° Rotating Airflow",
     "type": "should_test",
@@ -4444,17 +4477,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6ZD82CS",
-    "title": "Lyrivan RV Skylight Cover Roof Vent Sun Blackout &amp; Insulator, 16x16 Inch | 3-Layer Protection, Block up to 99% of Light, Keep",
-    "type": "should_test",
-    "score": 74.35,
-    "price": 13.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/810ycJ760OL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6ZD82CS",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5W87QDM",
     "title": "WSDCAM Two-Way Bike Alarm 120dB, USB-C Rechargeable With Remote",
     "type": "should_test",
@@ -4606,17 +4628,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lWMprlVlL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8SPMDMZ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HD5Z3CMC",
-    "title": "EZIRVLIFE Propane Tank Heating Blanket, Electric Tank Warmer | Wraparound warmth for your propane cylinder, with fastening st",
-    "type": "should_test",
-    "score": 74.0,
-    "price": 40.79,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81qmOVnSpcL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HD5Z3CMC",
     "walmart_url": null
   },
   {
@@ -4950,17 +4961,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFJJJ4J2",
-    "title": "Magnetic RV Insulated Door Cover for Winter, Curtain Size 30&#x27;&#x27; x 75&#x27;&#x27;",
-    "type": "should_test",
-    "score": 72.65,
-    "price": 31.99,
-    "bsr": 17456,
-    "image_url": "https://m.media-amazon.com/images/I/81u7hbFa03L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFJJJ4J2",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHLXHK1V",
     "title": "Sleeper Chair with Pull Out Bed, 5 In1 Convertible Chair Bed, Gray",
     "type": "should_test",
@@ -4994,6 +4994,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBQ3KKKS",
+    "title": "33 x 80 Inch Magnetic RV Insulated Door Cover for Winter",
+    "type": "should_test",
+    "score": 72.5,
+    "price": 33.99,
+    "bsr": 50879,
+    "image_url": "https://m.media-amazon.com/images/I/61+d7C4fWRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQ3KKKS",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5B29WJ9",
     "title": "MUTAOMAY 5000 Watt Inverter Generator, 4000W Running, Home Backup &amp; RV | 4000W Running, TT-30R Outlet，57.2 lb Lightweight, 30",
     "type": "should_test",
@@ -5013,6 +5024,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71hvyklMlbL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2RM82NK",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFJJJ4J2",
+    "title": "Magnetic RV Insulated Door Cover for Winter, Curtain Size 30&#x27;&#x27; x 75&#x27;&#x27;",
+    "type": "should_test",
+    "score": 72.25,
+    "price": 32.99,
+    "bsr": 20975,
+    "image_url": "https://m.media-amazon.com/images/I/81u7hbFa03L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFJJJ4J2",
     "walmart_url": null
   },
   {
@@ -5233,6 +5255,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sdfKSCcOL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5BTXSVN",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6ZD82CS",
+    "title": "RV Skylight Cover Roof Vent Sun Blackout &amp; Insulator, 16x16 Inch",
+    "type": "should_test",
+    "score": 71.25,
+    "price": 13.99,
+    "bsr": 53806,
+    "image_url": "https://m.media-amazon.com/images/I/810ycJ760OL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6ZD82CS",
     "walmart_url": null
   },
   {
@@ -5673,6 +5706,17 @@
     "bsr": 6675,
     "image_url": "https://m.media-amazon.com/images/I/61USbcbDZcL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HN1MNNH3",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGQVDYPS",
+    "title": "RV Camper Propane Tank Heater Cover Dual 30LB for Travel Trailers RV Parts",
+    "type": "should_test",
+    "score": 70.15,
+    "price": 129.99,
+    "bsr": 115259,
+    "image_url": "https://m.media-amazon.com/images/I/71LL0IH7PUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGQVDYPS",
     "walmart_url": null
   },
   {
@@ -6149,6 +6193,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HQ86MHML",
+    "title": "Digital Propane Tank Gauge with LCD Display – Accurate Gas Level Indicator, PSI &amp; Percentage Readout, Temperature-Sensing, Fits 5–40 lb Tanks (Type 1 Connection) (Navy)",
+    "type": "should_test",
+    "score": 68.55,
+    "price": null,
+    "bsr": 299789,
+    "image_url": "https://m.media-amazon.com/images/I/61bBy-QD+FL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQ86MHML",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6PRX7TZ",
     "title": "30FT Heated Water Hose for RV, -45°F Freeze Protection, 6-Layer Reinforced | 6-Layer Reinforced Design, Extra PVC Protective",
     "type": "should_test",
@@ -6435,17 +6490,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJV7FT65",
-    "title": "3-in-1 RV Propane Gas Detector, USB-C or 12V Hidden Terminal Wire Powered | Target gas: CO, Propane, Natural Gas, For RVs, Tr",
-    "type": "should_test",
-    "score": 68.0,
-    "price": 52.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/514edXDhnML._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJV7FT65",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6B26NFS",
     "title": "2PCS Carbon Fiber Backup Camera Rain Shield, No Drill Self-Adhesive Waterproof Anti-Rain Cover, Universal Rear View Reverse Camera Protector for Cars, SUVs, Trucks（Black）",
     "type": "should_test",
@@ -6465,17 +6509,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/6155yBbsZNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCHRD3VH",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HQ3J9T8Q",
-    "title": "Leakbee 4-in-1 RV Accessories Gas Detector, (Temp &amp; Humidity) Replace The Old RV Gas Detector #31011,12V DC for Motorhome Tra",
-    "type": "should_test",
-    "score": 67.95,
-    "price": 69.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71fkGP+4gSL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HQ3J9T8Q",
     "walmart_url": null
   },
   {
@@ -6952,17 +6985,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGQVDYPS",
-    "title": "RV Camper Propane Tank Heater Cover Dual 30LB for Travel Trailers RV Parts | Thermostat Control (41-122°F), Timer Function, Y",
-    "type": "should_test",
-    "score": 66.75,
-    "price": 129.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LL0IH7PUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGQVDYPS",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H2YD61PV",
     "title": "Electric Trailer Jack with Bubble Level, Power Tongue Jack 12V DC, 5000 lbs | Momentary Control, with Motor Protection &amp; LED",
     "type": "should_test",
@@ -7128,17 +7150,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCGTKJKS",
-    "title": "Electric Trailer Dolly 9000Lbs, 48V 800W Super Handy Electric Trailer Dolly | with All-Terrain 6Wheels, Anti-Tip Design, Adju",
-    "type": "should_test",
-    "score": 66.5,
-    "price": 1376.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71m+x5HpdJL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCGTKJKS",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBB9MTHS",
     "title": "1 PC Car Rear View Camera Cover, Rain &amp; Snow Proof Anti-glare Shield for Backup Camera, Self-adhesive Carbon Fiber Guard, Universal for Most Cars, Trucks, SUVs (Carbon Fiber Black)",
     "type": "should_test",
@@ -7147,17 +7158,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71Apy6pIxAL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBB9MTHS",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBQ3KKKS",
-    "title": "33 x 80 Inch Magnetic RV Insulated Door Cover for Winter",
-    "type": "should_test",
-    "score": 66.35,
-    "price": 33.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61+d7C4fWRL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQ3KKKS",
     "walmart_url": null
   },
   {
@@ -7337,17 +7337,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBVDYXZT",
-    "title": "2-Panel RV Screen Door Protector, Adjustable 16.5-31.1 Inch",
-    "type": "should_test",
-    "score": 65.9,
-    "price": 37.48,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/81pXkPfqjkL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVDYXZT",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHR1ZMQ7",
     "title": "RV Slide Out Opening Cover Magnetic Gap Guard Compatible with Lippert 2 Pk | Magnetic RV slide out cover with split ring desi",
     "type": "should_test",
@@ -7502,6 +7491,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGG3Z661",
+    "title": "RV Windshield Cover for Ford E350/E450 Class C 1997-2026",
+    "type": "should_test",
+    "score": 65.45,
+    "price": 24.99,
+    "bsr": 56374,
+    "image_url": "https://m.media-amazon.com/images/I/71MLPIO1hDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGG3Z661",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HBVT555Y",
     "title": "RV Screen Door Protector, Adjustable Iron Dog Guard, 22-31.5 in",
     "type": "should_test",
@@ -7510,6 +7510,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81P0gDn+eQL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBVT555Y",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBVDYXZT",
+    "title": "2-Panel RV Screen Door Protector, Adjustable 16.5-31.1 Inch",
+    "type": "should_test",
+    "score": 65.35,
+    "price": 37.48,
+    "bsr": 57366,
+    "image_url": "https://m.media-amazon.com/images/I/81pXkPfqjkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVDYXZT",
     "walmart_url": null
   },
   {
@@ -7920,6 +7931,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJ61VWC1",
+    "title": "2-in-1 RV Accessories Gas Detector, Hardwired - DC 12V for RVs, Black",
+    "type": "should_test",
+    "score": 64.75,
+    "price": 51.99,
+    "bsr": 34336,
+    "image_url": "https://m.media-amazon.com/images/I/81Bm6RrCHaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ61VWC1",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJ5NLZJJ",
     "title": "4800W Portable Open Frame Gas Inverter Generator for Home Backup &amp; RV Power | 55 lbs portable inverter generator with &lt;3% THD",
     "type": "should_test",
@@ -8280,17 +8302,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Yxl9Lrr6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNC5WMH2",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJ7G4R22",
-    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets for RVs,R502",
-    "type": "should_test",
-    "score": 64.0,
-    "price": 52.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/712q4o15AsL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ7G4R22",
     "walmart_url": null
   },
   {
@@ -8841,17 +8852,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gT9dtZGKL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6MHK8ZC",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9R7HBV8",
-    "title": "briidea\n2-in-1\nRV\nAccessories\nGas\nDetector | Dual UL Listed Sensors with Separate LED Indicator Lights, 12V DC for RVs, Trave",
-    "type": "should_test",
-    "score": 62.95,
-    "price": 52.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/616LU9mHytL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9R7HBV8",
     "walmart_url": null
   },
   {
@@ -9570,17 +9570,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJV9PKJP",
-    "title": "RV Dual C-O and L-P G-as Sensor, 12V DC for RVs, Hardwired, White | LED Indicator, Audible Siren, Digital Display, Travel Tra",
-    "type": "should_test",
-    "score": 62.0,
-    "price": 64.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kv5Ys3TZL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJV9PKJP",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HKVWZ98S",
     "title": "RV Skirting for Winter, Heavy Duty Insulated for Travel Trailer, 5th Wheel, Truck Camper Skirt Kit, All-Weather Snow Protecti",
     "type": "should_test",
@@ -9820,6 +9809,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81XVHUn5BQL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5K2F15F",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ87RYNH",
+    "title": "Fuel Cartridge Refill Adapter Compatible with Thermacell",
+    "type": "should_test",
+    "score": 61.55,
+    "price": 19.99,
+    "bsr": 411928,
+    "image_url": "https://m.media-amazon.com/images/I/61yitABHDmL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ87RYNH",
     "walmart_url": null
   },
   {
@@ -10109,6 +10109,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKHRHN3B",
+    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets and Screwdriver for RVs,R502",
+    "type": "should_test",
+    "score": 61.25,
+    "price": 52.99,
+    "bsr": 44431,
+    "image_url": "https://m.media-amazon.com/images/I/61AgxGPp2xL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKHRHN3B",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCLLN2LL",
     "title": "Yojinovas 12V RV Side Vent Fan,Dual Motor Quiet Exhaust (White) | ABS Plastic, Cutout 4.8x2.4 Inches, White, Dual Motor Quiet",
     "type": "should_test",
@@ -10340,17 +10351,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGG3Z661",
-    "title": "RV Windshield Cover for Ford E350/E450 Class C 1997-2026 | 4-Layer Protection, All-Season Shield, Mirror Cutouts, Wind Resist",
-    "type": "should_test",
-    "score": 60.65,
-    "price": 24.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MLPIO1hDL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGG3Z661",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HG4KV9WZ",
     "title": "RV Skirting for Winter,2.6 ft High x 52 ft Long Heavy Duty Camper Skirt for Travel Trailer, Motorhome &amp; Class A/B/C, Windproo",
     "type": "should_test",
@@ -10406,6 +10406,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HRJ682DX",
+    "title": "Propane Detector &amp; Natural Gas Detector for RV Home",
+    "type": "should_test",
+    "score": 60.4,
+    "price": 58.98,
+    "bsr": 303216,
+    "image_url": "https://m.media-amazon.com/images/I/61NfLoFMb6L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HRJ682DX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HPJL1SRG",
     "title": "RV Skirting Kits for Winter All-Weather Protection Windproof Camper Cover | Travel Trailer Skirt, Insulated Skirt with Night",
     "type": "should_test",
@@ -10414,6 +10425,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/718UERf4LjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HPJL1SRG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HD198QRX",
+    "title": "Natural Gas Y Splitter 1/2 Inch, 2 Way Gas Splitter with Shut Off Valve",
+    "type": "should_test",
+    "score": 60.3,
+    "price": 22.99,
+    "bsr": 367112,
+    "image_url": "https://m.media-amazon.com/images/I/61bP7p11wFL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HD198QRX",
     "walmart_url": null
   },
   {
@@ -10524,6 +10546,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61pTzco+k+L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNSVKC4Y",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJV9PKJP",
+    "title": "RV Dual C-O and L-P G-as Sensor, 12V DC for RVs, Hardwired, White",
+    "type": "should_test",
+    "score": 60.0,
+    "price": 54.99,
+    "bsr": 115836,
+    "image_url": "https://m.media-amazon.com/images/I/71kv5Ys3TZL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJV9PKJP",
     "walmart_url": null
   },
   {
@@ -10692,6 +10725,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJ7G4R22",
+    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets for RVs,R502",
+    "type": "should_test",
+    "score": 59.75,
+    "price": 52.99,
+    "bsr": 23796,
+    "image_url": "https://m.media-amazon.com/images/I/712q4o15AsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ7G4R22",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HQ3P1C7Y",
     "title": "Electric Tank Water Heater-4 Gallon Under Sink Instant Hot Water for RV, Camper, Kitchen, Food Truck, 120V 1500W, Gray, Wall or Floor Mounted",
     "type": "should_test",
@@ -10857,6 +10901,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HMC3CZM5",
+    "title": "Haoguo 500W Boat Engine Compartment Heater with Thermostat, Grey",
+    "type": "should_test",
+    "score": 59.65,
+    "price": 127.99,
+    "bsr": 34904,
+    "image_url": "https://m.media-amazon.com/images/I/61uQex7KnrL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMC3CZM5",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HKW6NMV2",
     "title": "Werpladua Camper Skirting, 0.9m Tall 24m/78ft for Travel Trailers | Ideal winter accessory for travel trailers. High-density",
     "type": "should_test",
@@ -10865,17 +10920,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Rz6jLzpQL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKW6NMV2",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJ61VWC1",
-    "title": "2-in-1 RV Accessories Gas Detector, Hardwired - DC 12V for RVs, Black",
-    "type": "should_test",
-    "score": 59.5,
-    "price": 51.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Bm6RrCHaL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ61VWC1",
     "walmart_url": null
   },
   {
@@ -10986,17 +11030,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/714eb37CGdL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2YHPGJT",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HD198QRX",
-    "title": "Natural Gas Y Splitter 1/2 Inch, 2 Way Gas Splitter with Shut Off Valve",
-    "type": "should_test",
-    "score": 59.45,
-    "price": 22.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61bP7p11wFL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HD198QRX",
     "walmart_url": null
   },
   {
@@ -11143,14 +11176,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HRJ682DX",
-    "title": "Propane Detector &amp; Natural Gas Detector for RV Home",
+    "asin": "B0HQ4HSKMR",
+    "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant Camper Roof Cover, Class A/B/C Motorhomes, Pop-up &amp; Truck Campers, Roof-Only Protection, Snow Protection, Fits 16-42ft RVs，Black：27.89 × 9.84 ft",
     "type": "should_test",
-    "score": 59.2,
-    "price": 58.98,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61NfLoFMb6L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HRJ682DX",
+    "score": 59.25,
+    "price": 99.99,
+    "bsr": 23910,
+    "image_url": "https://m.media-amazon.com/images/I/813cRF+AuSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQ4HSKMR",
     "walmart_url": null
   },
   {
@@ -11162,17 +11195,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61K5at5IloL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H73ZJRT9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HKHRHN3B",
-    "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets and Screwdriver for RVs,R502",
-    "type": "should_test",
-    "score": 59.0,
-    "price": 52.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61AgxGPp2xL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKHRHN3B",
     "walmart_url": null
   },
   {
@@ -11272,6 +11294,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81mfPJK49eL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7HX8VDP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGLKY722",
+    "title": "Hooshing Propane Refill Elbow Adapter with Valve &amp; Gauge for 1 lb. Tanks",
+    "type": "should_test",
+    "score": 59.0,
+    "price": 18.99,
+    "bsr": 302982,
+    "image_url": "https://m.media-amazon.com/images/I/61MalqjCh0L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGLKY722",
     "walmart_url": null
   },
   {
@@ -11429,17 +11462,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HMY3HBG9",
-    "title": "Flame King KT12POLACR-2 2-Stage Auto Changeover LP Regulator Kit with POL",
-    "type": "should_test",
-    "score": 58.5,
-    "price": 54.95,
-    "bsr": 393744,
-    "image_url": "https://m.media-amazon.com/images/I/61W9xAd1KQL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HMY3HBG9",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HDLF5YK9",
     "title": "60 inch RV Winterizing Kit with Pressure Gauge, 0-200psi Garden Sprinkler Water Blowout Adapter, 3/4&quot; GHT Blow Out Fitting Ad",
     "type": "should_test",
@@ -11459,17 +11481,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71hTqEJ6BEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6HMT2MM",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7BB6H4R",
-    "title": "Tlvuvmo Adjustable Trailer Hitch, 8In Drop Hitch Only Fit 2.5 Inch Receiver | 20,000 LBS MAX GTW, Tow Hitch with 2&quot; &amp; 2-5/16&quot;",
-    "type": "should_test",
-    "score": 58.5,
-    "price": 103.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/6107IGYryrL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7BB6H4R",
     "walmart_url": null
   },
   {
@@ -11616,14 +11627,25 @@
     "walmart_url": null
   },
   {
-    "asin": "B0GT49ZTB9",
-    "title": "Antbay Adjustable Trailer Hitch, 6 Inch Drop/Rise Drop Hitch for 2&quot; Hitch Receiver, Dual 2&quot; &amp; 2‑5/16&quot; Ball Mounts, Max 14,500",
+    "asin": "B0HGKP721G",
+    "title": "Adjustable Trailer Hitch for 2.5&quot; Receiver,Heavy Duty 6&quot; Drop Tow Hitch",
     "type": "should_test",
     "score": 58.25,
-    "price": 151.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71i+HKju9gL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GT49ZTB9",
+    "price": 94.99,
+    "bsr": 12564,
+    "image_url": "https://m.media-amazon.com/images/I/71HXzRRdHbL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGKP721G",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H92VKGDT",
+    "title": "Propane Tank Gauge, 3 Colors Coded Universal for Cylinder, Grill, Heater, RV Camper and More, 5-40 Pound LP Tank Gas Level Indicator, QCC1 / Type 1 Connection (Pack of 3)",
+    "type": "should_test",
+    "score": 58.15,
+    "price": 34.35,
+    "bsr": 355564,
+    "image_url": "https://m.media-amazon.com/images/I/71M+2Yye42L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H92VKGDT",
     "walmart_url": null
   },
   {
@@ -11734,6 +11756,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81o6w1EgJKL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQBHQWKQ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HMK4VTPP",
+    "title": "VEVOR Weight Distribution Hitch, 14000 lbs Max. Towing with Sway Control",
+    "type": "should_test",
+    "score": 58.0,
+    "price": 262.56,
+    "bsr": 40928,
+    "image_url": "https://m.media-amazon.com/images/I/61r2EHq0NaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMK4VTPP",
     "walmart_url": null
   },
   {
@@ -12009,6 +12042,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71fBecl+7uL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5BVQBJ9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HQZKXDMY",
+    "title": "Leakbee 2-in-1 RV Accessories Gas Detector,Replace The Old RV Gas Detector #31011,100dB Loud Alarm,12V DC for Motorhome Travel Trailer, Motor Coach (R503 Flush Mount-Black)",
+    "type": "should_test",
+    "score": 57.25,
+    "price": 52.99,
+    "bsr": 56435,
+    "image_url": "https://m.media-amazon.com/images/I/71aNTO4V6RL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQZKXDMY",
     "walmart_url": null
   },
   {
@@ -12529,17 +12573,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HQZKXDMY",
-    "title": "Leakbee 2-in-1 RV Accessories Gas Detector,Replace The Old RV Gas Detector #31011,100dB Loud Alarm,12V DC for Motorhome Trave",
-    "type": "should_test",
-    "score": 56.25,
-    "price": 52.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71aNTO4V6RL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HQZKXDMY",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HCC852NM",
     "title": "Heavy Duty RV Roof Cover Waterproof Fits 16 to 41ft RVs, Black, 41.0*9.84ft",
     "type": "should_test",
@@ -12760,6 +12793,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HMY3HBG9",
+    "title": "Flame King KT12ACR-2POL 2-Stage Auto Changeover LP Regulator Kit with POL",
+    "type": "should_test",
+    "score": 56.0,
+    "price": 49.95,
+    "bsr": 695,
+    "image_url": "https://m.media-amazon.com/images/I/61W9xAd1KQL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMY3HBG9",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HG9GQBC9",
     "title": "Adjustable Trailer Hitch Receiver for 2-Inch Receiver, Steel Tow Hitch Multiple Height Levels for Level Towing, Heavy-Duty Co",
     "type": "should_test",
@@ -12969,17 +13013,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HQ4HSKMR",
-    "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant Camper Roof Cover, Class A/B/C Motorhomes, Pop-up &amp; Truck Campers, Roof-Only Protection, Snow Protection, Fits 16-42ft RVs，Black：27.89 × 9.84 ft",
-    "type": "should_test",
-    "score": 55.75,
-    "price": 99.99,
-    "bsr": 19158,
-    "image_url": "https://m.media-amazon.com/images/I/813cRF+AuSL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HQ4HSKMR",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H6J1N8MM",
     "title": "JULIBA RV AC Unit 18000 BTU with Heat Pump,WiFi &amp;Remote Control | 110-120V Non-Ducted Rooftop RV Air Conditioner,Cooling &amp;Hea",
     "type": "should_test",
@@ -13109,17 +13142,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71IBJQE3TBL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8S3YFGG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HMK4VTPP",
-    "title": "VEVOR Weight Distribution Hitch, 14000 lbs Max. Towing with Sway Control",
-    "type": "should_test",
-    "score": 55.4,
-    "price": 278.01,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61r2EHq0NaL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HMK4VTPP",
     "walmart_url": null
   },
   {
@@ -13285,6 +13307,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71mBNiFewSL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYJDMK18",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H9R7HBV8",
+    "title": "briidea\n2-in-1\nRV\nAccessories\nGas\nDetector",
+    "type": "should_test",
+    "score": 55.0,
+    "price": 42.39,
+    "bsr": 41682,
+    "image_url": "https://m.media-amazon.com/images/I/616LU9mHytL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9R7HBV8",
     "walmart_url": null
   },
   {
@@ -14487,6 +14520,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGF44YWX",
+    "title": "LUHLEE 218 LED Magnetic Solar Lights Outdoor, RV Solar Lights Motion Sensor",
+    "type": "candidate",
+    "score": 64.45,
+    "price": 43.69,
+    "bsr": 20960,
+    "image_url": "https://m.media-amazon.com/images/I/911x20YVNEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGF44YWX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHSC7N3R",
     "title": "Backup Camera Rain Hood Cover，Waterproof Rear View Camera Rain Shield Cover | Rear View Rearview Camera Rain Guard ，Curved Bl",
     "type": "candidate",
@@ -14792,17 +14836,6 @@
     "bsr": 9626,
     "image_url": "https://m.media-amazon.com/images/I/71gv-WS8EPL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKLT16HR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGF44YWX",
-    "title": "LUHLEE 218 LED Magnetic Solar Lights Outdoor, RV Solar Lights Motion Sensor | Upgraded 1.7&quot; Strong Magnet RV Motion Light, 27",
-    "type": "candidate",
-    "score": 62.3,
-    "price": 43.69,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/911x20YVNEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGF44YWX",
     "walmart_url": null
   },
   {
@@ -15356,6 +15389,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGF9NF61",
+    "title": "Propane Tank Storage Bag with Rigid Panel, Holds 6 Pack 1LB Propane Tanks",
+    "type": "candidate",
+    "score": 59.3,
+    "price": 35.99,
+    "bsr": 20123,
+    "image_url": "https://m.media-amazon.com/images/I/81bcF+nKbTL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGF9NF61",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGML4H5Q",
     "title": "YTaraHub Double RV Refrigerator Bars, 9.85-15.75 in, Black, 2 Sets | Non-Slip Adjustable",
     "type": "candidate",
@@ -15763,17 +15807,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGKP721G",
-    "title": "XPE Adjustable Trailer Hitch for 2.5&quot; Receiver,Heavy Duty 6&quot; Drop Tow Hitch | 2-Inch &amp; 2-5/16-Inch Balls, Up to 22,000 lbs GT",
-    "type": "candidate",
-    "score": 57.75,
-    "price": 94.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71HXzRRdHbL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGKP721G",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5P5FYKZ",
     "title": "Mmtowus Adjustable Trailer Hitch -Drop Hitch Fit 2.5&quot; Receiver-8&quot; Drop/Rise | Tri Ball Mount with Hook (1-7/8&#x27;&#x27;, 2&#x27;&#x27; &amp; 2-5/16",
     "type": "candidate",
@@ -15947,6 +15980,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71cEIu90wRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6FMLGNZ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0GY43GC6N",
+    "title": "2PCS 15 IN RV Propane Hose with Pressure Gauge, 1/4&quot; Male, 250PSI",
+    "type": "candidate",
+    "score": 57.5,
+    "price": 19.99,
+    "bsr": 47999,
+    "image_url": "https://m.media-amazon.com/images/I/71gOV5hZH7L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GY43GC6N",
     "walmart_url": null
   },
   {
@@ -16379,6 +16423,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDYMJTG3",
+    "title": "RV Roof Cover Oxford Cloth Waterproof Camper Cover, Black, 21.5 ft",
+    "type": "candidate",
+    "score": 56.0,
+    "price": 68.0,
+    "bsr": 12870,
+    "image_url": "https://m.media-amazon.com/images/I/714UxibLhEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDYMJTG3",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HN4HMK5Q",
     "title": "Double Sided Magnetic Glass Cleaner with Extension Handle，1",
     "type": "candidate",
@@ -16464,17 +16519,6 @@
     "bsr": 17087,
     "image_url": "https://m.media-amazon.com/images/I/818H4pNzEwL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNKCPFWQ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HDYMJTG3",
-    "title": "RV Roof Cover Oxford Cloth Waterproof Camper Cover, Black, 21.5 ft",
-    "type": "candidate",
-    "score": 55.75,
-    "price": 68.0,
-    "bsr": 13775,
-    "image_url": "https://m.media-amazon.com/images/I/714UxibLhEL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDYMJTG3",
     "walmart_url": null
   },
   {
@@ -16596,17 +16640,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WTfAbZXzL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGD87JGF",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCNG91H2",
-    "title": "6 FT Round Outdoor Mat, Reversible Blue Gray RV Patio Rug",
-    "type": "candidate",
-    "score": 55.5,
-    "price": 59.99,
-    "bsr": 28517,
-    "image_url": "https://m.media-amazon.com/images/I/710Jpl5cH3L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCNG91H2",
     "walmart_url": null
   },
   {
@@ -17292,6 +17325,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCNG91H2",
+    "title": "8x20 FT RV Outdoor Mat, Lightweight Foldable Blue-Gray RV Patio Rug",
+    "type": "candidate",
+    "score": 54.5,
+    "price": 69.99,
+    "bsr": 11755,
+    "image_url": "https://m.media-amazon.com/images/I/71MVBF+KHkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCNG91H2",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC5WYJY9",
     "title": "OUTPRIZE 21“ Aluminum Manual RV Step, Folding Trailer Step, 400LBS Capacity | 1-Step, Heavy Duty, Steel Support Plate, Alumin",
     "type": "candidate",
@@ -17512,6 +17556,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJWDNDG6",
+    "title": "2 Pack Dual 20 lb Propane Tank Cover Rv Trailer Camper Black",
+    "type": "candidate",
+    "score": 54.5,
+    "price": 30.99,
+    "bsr": 103579,
+    "image_url": "https://m.media-amazon.com/images/I/61qFQP-kF9L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJWDNDG6",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H69DVPJN",
     "title": "7/8&quot; RV Trim Molding Insert, 100FT Heavy Duty RV Vinyl Trim, UV Resistant RV Weather Stripping Exterior, Flexible Molding Trim, Waterproof Screw Cover for Camper Travel Trailer Boat Channel, White",
     "type": "candidate",
@@ -17726,7 +17781,7 @@
     "type": "candidate",
     "score": 54.25,
     "price": 29.99,
-    "bsr": 53066,
+    "bsr": 54191,
     "image_url": "https://m.media-amazon.com/images/I/71oCba2RZdL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HPD6PLL7",
     "walmart_url": null
@@ -17971,6 +18026,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/718lEPy+XWL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJLB7MH9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0GT49ZTB9",
+    "title": "Adjustable Trailer Hitch, 6 Inch Drop/Rise Drop Hitch for 2&quot; Hitch Receiver, Dual 2&quot; &amp; 2‑5/16&quot; Ball Mounts, Max 14,500 LBS GTW Heavy‑Duty Aluminum Tow Hitch for Truck SUV RV ATV",
+    "type": "candidate",
+    "score": 53.5,
+    "price": 151.99,
+    "bsr": 44756,
+    "image_url": "https://m.media-amazon.com/images/I/71i+HKju9gL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GT49ZTB9",
     "walmart_url": null
   },
   {
@@ -18301,6 +18367,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/614DBj1MEXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HLKY4SVN",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HQ3J9T8Q",
+    "title": "Leakbee 4-in-1 RV Accessories Gas Detector, (Temp &amp; Humidity) Replace The Old RV Gas Detector #31011,12V DC for Motorhome Travel Trailer, Motor Coach (DP-E01 Flush Mount-Black)",
+    "type": "candidate",
+    "score": 53.0,
+    "price": 69.99,
+    "bsr": 153174,
+    "image_url": "https://m.media-amazon.com/images/I/71fkGP+4gSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQ3J9T8Q",
     "walmart_url": null
   },
   {
@@ -19294,6 +19371,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HB4SZZDL",
+    "title": "BlueStars 12ft RV Propane Hose with POL x 1/4&quot; Inverted Male Flare",
+    "type": "candidate",
+    "score": 51.75,
+    "price": 37.99,
+    "bsr": 103344,
+    "image_url": "https://m.media-amazon.com/images/I/81VUrIztLRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB4SZZDL",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HNVBF1WS",
     "title": "RV Roof Cover 210D Oxford, Waterproof UV Protection Camper Top Cover | With 22 Securing Straps &amp; Storage Bag, Snowproof Dustp",
     "type": "candidate",
@@ -19745,6 +19833,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBQHV5MY",
+    "title": "RV Tote Tank Gauge, Portable Fill Level Indicator for Waste Tanks",
+    "type": "candidate",
+    "score": 51.25,
+    "price": 14.99,
+    "bsr": 545587,
+    "image_url": "https://m.media-amazon.com/images/I/61o6OJQcD6L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQHV5MY",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HH5YH1GT",
     "title": "Journey-6 RV Bunk Mattress,6 Inch Thick x 38 x 74 inch Gel Memory Foam Mattress for RV and Camper Trailer, Medium-Firm Made i",
     "type": "candidate",
@@ -19984,6 +20083,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eqFWzKQcL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H74ZCKJD",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H74YBZPQ",
+    "title": "Propane Tank Storage Bag for 1lb Cylinders, Holds 6 (Camouflage Yellow)",
+    "type": "candidate",
+    "score": 50.9,
+    "price": 21.99,
+    "bsr": 415359,
+    "image_url": "https://m.media-amazon.com/images/I/71whB6Bn6bL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H74YBZPQ",
     "walmart_url": null
   },
   {
@@ -20229,6 +20339,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7BB6H4R",
+    "title": "Adjustable Trailer Hitch, 8In Drop Hitch Only Fit 2.5 Inch Receiver",
+    "type": "candidate",
+    "score": 50.5,
+    "price": 103.99,
+    "bsr": 48915,
+    "image_url": "https://m.media-amazon.com/images/I/6107IGYryrL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7BB6H4R",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8SJMNVP",
     "title": "RV Tension Rods, Adjustable Cabinet Rods 12-19.5 in, 6 Pack",
     "type": "candidate",
@@ -20237,17 +20358,6 @@
     "bsr": 14934,
     "image_url": "https://m.media-amazon.com/images/I/51EGsdJnTDL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8SJMNVP",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0GY43GC6N",
-    "title": "2PCS 15 IN RV Propane Hose with Pressure Gauge, 1/4&quot; Male, 250PSI | Stainless Steel Braided Gas Tubing for Standard RV Dual-S",
-    "type": "candidate",
-    "score": 50.5,
-    "price": 19.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gOV5hZH7L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GY43GC6N",
     "walmart_url": null
   },
   {
@@ -21373,17 +21483,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJWDNDG6",
-    "title": "ElaraBerry 2 Pack Dual 20 lb Propane Tank Cover Rv Trailer Camper Black | Waterproof 600d Oxford, Zipper Valve Access, Weathe",
-    "type": "candidate",
-    "score": 49.5,
-    "price": 30.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qFQP-kF9L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJWDNDG6",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBBT1CMZ",
     "title": "WUMZIJ 301702 RV Entry Step Control Module and 300-1406 Motor Kit",
     "type": "candidate",
@@ -22154,17 +22253,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGF9NF61",
-    "title": "Propane Tank Storage Bag with Rigid Panel, Holds 6 Pack 1LB Propane Tanks | Propane Storage,Propane Tank Bag,Camping Storage",
-    "type": "candidate",
-    "score": 48.9,
-    "price": 35.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81bcF+nKbTL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGF9NF61",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H9MCZWJK",
     "title": "RV Windshield Curtain for Class A Motorhomes, 120&quot;x40&quot;, Grey, 2 Pcs | 99% Blackout Privacy Cover, 1000GSM Cotton Blend, Rustp",
     "type": "candidate",
@@ -22184,17 +22272,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71CPFNQEvJL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HG92QHY2",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H74YBZPQ",
-    "title": "Propane Tank Storage Bag for 1lb Cylinders, Holds 6 (Black)",
-    "type": "candidate",
-    "score": 48.75,
-    "price": 21.99,
-    "bsr": 53790,
-    "image_url": "https://m.media-amazon.com/images/I/71xwd4MZItL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H74YBZPQ",
     "walmart_url": null
   },
   {
@@ -23452,17 +23529,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6Q6TZLH",
-    "title": "[100% Solid Brass] BlueStars 100 lb Propane Tank Adapter POL Propane Gauge",
-    "type": "candidate",
-    "score": 48.0,
-    "price": 19.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71pEv2epGIL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6Q6TZLH",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H75D5TYY",
     "title": "Aluminum RV Floor Vent Cover 2&quot;x10&quot;, Magnetic Removable Cover, 1 Pack-Khaki",
     "type": "candidate",
@@ -23482,17 +23548,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81--oQDSc7L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDF8668D",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HB4SZZDL",
-    "title": "BlueStars 12ft RV Propane Hose with POL x 1/4&quot; Inverted Male Flare | CSA-Certified Hose Extension Connects 20lb and 30lb LP T",
-    "type": "candidate",
-    "score": 47.75,
-    "price": 37.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81VUrIztLRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB4SZZDL",
     "walmart_url": null
   },
   {
@@ -23793,6 +23848,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7CPSHJK",
+    "title": "Bed Plug Cover Kit for Ram 2500 3500 2014-2026 with Storage Bag",
+    "type": "candidate",
+    "score": 47.75,
+    "price": 17.97,
+    "bsr": 54839,
+    "image_url": "https://m.media-amazon.com/images/I/71bVtLGdeOL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7CPSHJK",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H97B19GX",
     "title": "Cididu 2Pcs Trailer Hitch Storage Bracket, 2 in Hitch Holder for Truck Bed",
     "type": "candidate",
@@ -23801,6 +23867,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71NZV9drETL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H97B19GX",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6Q6TZLH",
+    "title": "[100% Solid Brass] BlueStars 100 lb Propane Tank Adapter POL Propane Gauge",
+    "type": "candidate",
+    "score": 47.5,
+    "price": 19.99,
+    "bsr": 33621,
+    "image_url": "https://m.media-amazon.com/images/I/71pEv2epGIL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6Q6TZLH",
     "walmart_url": null
   },
   {
@@ -24373,17 +24450,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61r8vE-HpiL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9YTXKCR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H92VKGDT",
-    "title": "CALPOSE Propane Tank Gauge, 3 Colors Coded Universal for Cylinder, Grill, Heater, RV Camper and More, 5-40 Pound LP Tank Gas",
-    "type": "candidate",
-    "score": 47.0,
-    "price": 3630.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71M+2Yye42L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H92VKGDT",
     "walmart_url": null
   },
   {
@@ -24981,6 +25047,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HD787WJG",
+    "title": "20 lb Propane Tank Cover Gas Cylinder Cover 600D Waterproof Oxford",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 26.99,
+    "bsr": 88037,
+    "image_url": "https://m.media-amazon.com/images/I/81HW6otp5NL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HD787WJG",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H9XSR655",
     "title": "Neptuiby Car Window Fan Solar Powered Car Vent Fan Dual-mode Blow/suction Ventilator Solar Fans for Vehicles Truck RV Backsea",
     "type": "candidate",
@@ -25190,17 +25267,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H99H2TYV",
-    "title": "RecDec 3 Pack Fuel Canister Stand Compact Bracket for Camping | Fuel Gas Canister Stabilizer Holder Tripod Feet for Butane Ca",
-    "type": "candidate",
-    "score": 46.5,
-    "price": 7.97,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/5151YYlmLkL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H99H2TYV",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HRF8GJ4H",
     "title": "RV Floor Vent Cover 2x10 in, Aluminum, Magnetic Cover &amp; Mesh Filter | Aluminum RV Floor Vent Cover",
     "type": "candidate",
@@ -25231,17 +25297,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41Z1X1eIC4L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6CTWD3L",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H96VJHKJ",
-    "title": "Flame King 0–90 Ohm Twin-Site Remote Dial Gauge for Vertical Non RV Propane Tanks (Bolt-On Design)",
-    "type": "candidate",
-    "score": 46.5,
-    "price": 29.95,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tbNuYCYaL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H96VJHKJ",
     "walmart_url": null
   },
   {
@@ -25520,6 +25575,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7S2Y7K7",
+    "title": "2 Inch Trailer Hitch Ball Mount with 2-Inch Ball, 7500Lb Capacity",
+    "type": "candidate",
+    "score": 46.25,
+    "price": 18.39,
+    "bsr": 53783,
+    "image_url": "https://m.media-amazon.com/images/I/517STdMP5fL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7S2Y7K7",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H94G7P3K",
     "title": "RV Gate Valve, 3-Inch RV Waste Valve, RV Dump Valve with Bayonet Adapter | RV Black Tank Valve Fits 3 inch RV Sewer Hose Fitt",
     "type": "candidate",
@@ -25550,17 +25616,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kSJDG-oPL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDNTD2F3",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HD787WJG",
-    "title": "20 lb Propane Tank Cover Gas Cylinder Cover 600D Waterproof Oxford",
-    "type": "candidate",
-    "score": 46.0,
-    "price": 24.99,
-    "bsr": 48657,
-    "image_url": "https://m.media-amazon.com/images/I/81HW6otp5NL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HD787WJG",
     "walmart_url": null
   },
   {
@@ -26191,17 +26246,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBQHV5MY",
-    "title": "RV Tote Tank Gauge, Portable Fill Level Indicator for Waste Tanks",
-    "type": "candidate",
-    "score": 45.25,
-    "price": 14.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61o6OJQcD6L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQHV5MY",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H7BPSH6H",
     "title": "RV Bathroom Faucet-Hot and Cold 2 Handle and Space-Saving 6” High-Arc Spout | Max Work Countertop Thickness 1.5&quot;, Black RV Ba",
     "type": "candidate",
@@ -26210,17 +26254,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/618H9ogvtLL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7BPSH6H",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGL6RYTH",
-    "title": "2 in. Receiver Hitch Riser/Drop, 7 and 9 Inches Extender（2 1/4&quot; Rise",
-    "type": "candidate",
-    "score": 45.25,
-    "price": 29.99,
-    "bsr": 16815,
-    "image_url": "https://m.media-amazon.com/images/I/712PUISic9L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGL6RYTH",
     "walmart_url": null
   },
   {
@@ -26389,17 +26422,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFGFJNY1",
-    "title": "Gas Can Spout Replacement Kit, Gas Can Nozzle Replacement 4 Kits",
-    "type": "candidate",
-    "score": 45.25,
-    "price": 16.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71g5R0UA89L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFGFJNY1",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHMXGSSL",
     "title": "R001832 060744-001 RV Awning Motor - Compatible with Carefree of Colorado | Replaces 060744001 Compatible with Compass/Longit",
     "type": "candidate",
@@ -26408,6 +26430,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71gH6YIffsL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHMXGSSL",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGL6RYTH",
+    "title": "2 in. Receiver Hitch Riser/Drop, 7 and 9 Inches Extender（2 1/4&quot; Rise",
+    "type": "candidate",
+    "score": 45.0,
+    "price": 29.99,
+    "bsr": 22321,
+    "image_url": "https://m.media-amazon.com/images/I/712PUISic9L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGL6RYTH",
     "walmart_url": null
   },
   {
@@ -26906,17 +26939,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6BSY29B",
-    "title": "2 Pcs Trailer Coupler Pin with Anti-Lost Rope Ring, Arch Trailer Hitch Pin, Locking Pins for Farm Trailers, Towing Accessorie",
-    "type": "candidate",
-    "score": 44.7,
-    "price": 7.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61J87awHX2L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6BSY29B",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HDGNK98Q",
     "title": "17.5mm Backup Camera Lens Protector, 2 Pack, Anti-Fog Clear Cover",
     "type": "candidate",
@@ -26925,6 +26947,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61JDlDuoyLL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDGNK98Q",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H96VJHKJ",
+    "title": "Flame King 0–90 Ohm Twin-Site Remote Dial Gauge for Vertical Non RV Propane Tanks (Bolt-On Design)",
+    "type": "candidate",
+    "score": 44.5,
+    "price": 29.95,
+    "bsr": 474984,
+    "image_url": "https://m.media-amazon.com/images/I/71tbNuYCYaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H96VJHKJ",
     "walmart_url": null
   },
   {
@@ -27071,17 +27104,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBXJPZ2V",
-    "title": "Triple 5 Gallon Gas Can Holder for Trailer, Heavy Duty Fuel Jug Mount Rack | Metal Trailer Rack Holds Three 5-gallon Cans or",
-    "type": "candidate",
-    "score": 44.5,
-    "price": 76.49,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61trtM6wW0L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBXJPZ2V",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGBW279Z",
     "title": "Fuel Jug Holder Holds 3 x 5-gallon Gas Cans, Silver, 33 x 11 &#x27;&#x27;, Aluminum | Heavy Duty Trailer Gas Can Container Mount Compat",
     "type": "candidate",
@@ -27090,17 +27112,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71v73BXFh6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGBW279Z",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8X6LFCT",
-    "title": "5ft RV Propane Hose, POL x 1/4&quot; Inverted Male Flare RV Propane Extension Tank hose Connect to 20lb or 30lb Propane Tank, Rubb",
-    "type": "candidate",
-    "score": 44.5,
-    "price": 33.96,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/719eZSLPDNL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8X6LFCT",
     "walmart_url": null
   },
   {
@@ -27621,6 +27632,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHR2MMDD",
+    "title": "European Propane Tank Adapter with Gauge for Qcc1 European Propane",
+    "type": "candidate",
+    "score": 44.0,
+    "price": 15.7,
+    "bsr": 539322,
+    "image_url": "https://m.media-amazon.com/images/I/61EJ177kAbL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHR2MMDD",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDSNXCBT",
     "title": "2 Pcs Trailer Coupler Pins, 1/4&quot; x 4&quot; Square Towing Hitch Pins | Heavy-Duty Trailer Safety Coupler Pins, Wire Lock Pin, Trail",
     "type": "candidate",
@@ -27885,6 +27907,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKNZLZ9S",
+    "title": "15&quot; Propane Regulator Copper Pigtail Tubing Hose POL x POL 7/8&quot; HEX",
+    "type": "candidate",
+    "score": 43.7,
+    "price": 17.99,
+    "bsr": 377823,
+    "image_url": "https://m.media-amazon.com/images/I/61ZWicFiqDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKNZLZ9S",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7QT55W1",
     "title": "2 Pack Aluminum RV Floor Vent Cover 2x10 inch Rustproof RV Heater Covers | RV Grade Floor Register with Magnetic Removable Co",
     "type": "candidate",
@@ -27929,6 +27962,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHNTF1V7",
+    "title": "Suburban LP-PT20M 20-Inch Pigtail Hose with Male Fitting",
+    "type": "candidate",
+    "score": 43.65,
+    "price": 18.09,
+    "bsr": 504186,
+    "image_url": "https://m.media-amazon.com/images/I/51TGdND5SkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHNTF1V7",
+    "walmart_url": null
+  },
+  {
     "asin": "B08LDCXV3K",
     "title": "Tree Saver Strap, 3 inchX9 Foot Winch Strap, Tow Strap, Heavy Duty 36,000 Pound Capacity 2-Packs",
     "type": "candidate",
@@ -27956,7 +28000,7 @@
     "type": "candidate",
     "score": 43.5,
     "price": 9.49,
-    "bsr": null,
+    "bsr": 41024,
     "image_url": "https://m.media-amazon.com/images/I/71CnbEVM7pL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCB9PTGG",
     "walmart_url": null
@@ -28226,6 +28270,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8X6LFCT",
+    "title": "5ft RV Propane Hose, POL x 1/4&quot; Inverted Male Flare RV Propane Extension Tank hose Connect to 20lb or 30lb Propane Tank, Rubber propane supply hose for RV Trailer, Camping, Gas Grill (Pack of 2)",
+    "type": "candidate",
+    "score": 43.25,
+    "price": 33.96,
+    "bsr": 478256,
+    "image_url": "https://m.media-amazon.com/images/I/719eZSLPDNL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8X6LFCT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGKWJGD3",
     "title": "HUAREW RV Roof Vent Operator Assembly with Knob and Screw, Gray | Compatible with V2119, V2092 and V2128, For 14&quot; x 14&quot; Stand",
     "type": "candidate",
@@ -28435,17 +28490,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H832JVS7",
-    "title": "21507 Heavy-Duty Trailer Hitch Pin &amp; Clip , 5/8-Inch Diameter",
-    "type": "candidate",
-    "score": 43.2,
-    "price": 7.39,
-    "bsr": 44564,
-    "image_url": "https://m.media-amazon.com/images/I/61tM3ZNv0RL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H832JVS7",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGZLK45D",
     "title": "T1028 Rotating Rigid Pipe Adapter, RV Sewer Adapter 3&quot; Hub x Bayonet Hooks | Rotating Bayonet to Hub Adapter for Rigid Sewer",
     "type": "candidate",
@@ -28465,17 +28509,6 @@
     "bsr": 368193,
     "image_url": "https://m.media-amazon.com/images/I/51WjXNEk9aL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8N1B4NT",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HHNTF1V7",
-    "title": "Suburban LP-PT20M 20-Inch Pigtail Hose with Male Fitting",
-    "type": "candidate",
-    "score": 43.05,
-    "price": 18.09,
-    "bsr": 542992,
-    "image_url": "https://m.media-amazon.com/images/I/51TGdND5SkL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHNTF1V7",
     "walmart_url": null
   },
   {
@@ -28586,17 +28619,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71p2IIlOyXL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6JBHPGJ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJ87RYNH",
-    "title": "Fuel Cartridge Refill Adapter Compatible with Thermacell | Portable Gas Canister Transfer Filling Tool for Camping, Hiking, a",
-    "type": "candidate",
-    "score": 43.0,
-    "price": 19.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yitABHDmL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ87RYNH",
     "walmart_url": null
   },
   {
@@ -29370,6 +29392,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H832JVS7",
+    "title": "21507 Heavy-Duty Trailer Hitch Pin &amp; Clip , 5/8-Inch Diameter",
+    "type": "candidate",
+    "score": 42.1,
+    "price": 7.39,
+    "bsr": 45138,
+    "image_url": "https://m.media-amazon.com/images/I/61tM3ZNv0RL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H832JVS7",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDSKS45G",
     "title": "RV Awning Pitch Arm, 31.5&quot; Black Anodized Aluminum for 69&quot; Flat Awning | Fits Solera Regal 69&quot; Flat Awnings. Black Anodized A",
     "type": "candidate",
@@ -29546,6 +29579,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKR8DKRT",
+    "title": "Car Heater,12V 200W Portable Car Heater that Plugs into Cigarette Lighter,Defroster for Car Windshield,2 in 1 Heating &amp; Cooling Fans,with Hidden Handle Car Heaters for Vehicle",
+    "type": "candidate",
+    "score": 42.0,
+    "price": 20.79,
+    "bsr": 37615,
+    "image_url": "https://m.media-amazon.com/images/I/71mNoFz2EZL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKR8DKRT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7S71XQK",
     "title": "3316250.712 RV Thermostat Fit For Furnace Control in RVs/Campers 3-Wire 12V",
     "type": "candidate",
@@ -29587,17 +29631,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81E+vtYrb8L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHFFDX7S",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6FJXGWF",
-    "title": "12PCS Tarp Clips, Heavy Duty Lock Grip Tarp Clamps, Plastic Grip Clips",
-    "type": "candidate",
-    "score": 41.75,
-    "price": 6.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71fX1kvOLkL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6FJXGWF",
     "walmart_url": null
   },
   {
@@ -29708,6 +29741,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51XFYSzpoNL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQB2D92Y",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HDZB64ZX",
+    "title": "POL to QCC1 Propane Tank Adapter Heavy Duty Solid Brass Converter",
+    "type": "candidate",
+    "score": 41.75,
+    "price": 8.97,
+    "bsr": 30827,
+    "image_url": "https://m.media-amazon.com/images/I/71OB-RGky2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDZB64ZX",
     "walmart_url": null
   },
   {
@@ -29851,6 +29895,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/712iPuL+i3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5CCXZG3",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFGFJNY1",
+    "title": "Gas Can Spout Replacement Kit, Gas Can Nozzle Replacement 4 Kits",
+    "type": "candidate",
+    "score": 41.25,
+    "price": 16.99,
+    "bsr": 102247,
+    "image_url": "https://m.media-amazon.com/images/I/71g5R0UA89L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFGFJNY1",
     "walmart_url": null
   },
   {
@@ -30225,6 +30280,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61jQehMeoJL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7WN3KG4",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HNJZ4LNL",
+    "title": "Propane Tank Cover 600D Oxford Fabric Fit 20lb Propane Cylinder | Outdoor Waterproof Propane Gas Tank Cover with Elasticated Bottom (Pack of 2)",
+    "type": "candidate",
+    "score": 40.55,
+    "price": 27.58,
+    "bsr": 283861,
+    "image_url": "https://m.media-amazon.com/images/I/81GDod7nFxL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HNJZ4LNL",
     "walmart_url": null
   },
   {
@@ -30789,6 +30855,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBVDV7K1",
+    "title": "AccEncyc 2Pcs Racing Fuel Jug Hose and Cap Kit with 1Pcs Hose Benders Clear",
+    "type": "candidate",
+    "score": 39.55,
+    "price": 12.99,
+    "bsr": 43888,
+    "image_url": "https://m.media-amazon.com/images/I/61eI+Z-LghL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVDV7K1",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HRFPVS14",
     "title": "2PCS Hand Crank Generator USB Emergency Charger for Mobile Phones",
     "type": "candidate",
@@ -30973,6 +31050,28 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/716dMqvXNJL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4YPKV92",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H99H2TYV",
+    "title": "3 Pack Fuel Canister Stand Compact Bracket for Camping",
+    "type": "candidate",
+    "score": 39.25,
+    "price": 7.97,
+    "bsr": 389707,
+    "image_url": "https://m.media-amazon.com/images/I/5151YYlmLkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H99H2TYV",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBXJPZ2V",
+    "title": "Triple 5 Gallon Gas Can Holder for Trailer, Heavy Duty Fuel Jug Mount Rack",
+    "type": "candidate",
+    "score": 39.25,
+    "price": 76.49,
+    "bsr": 316790,
+    "image_url": "https://m.media-amazon.com/images/I/61trtM6wW0L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBXJPZ2V",
     "walmart_url": null
   },
   {
@@ -31493,6 +31592,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9R5TRZ3",
+    "title": "Rubber Cover Compatible with B&amp;W Gooseneck Hitch Empty Turnoverball Socket",
+    "type": "candidate",
+    "score": 38.5,
+    "price": 15.99,
+    "bsr": 40413,
+    "image_url": "https://m.media-amazon.com/images/I/71rxjML5qDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9R5TRZ3",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6RZ7BXJ",
     "title": "YQSIYU 3-Pack 6.5&quot; RV Ceiling Vent Covers, Fits 4-5/8&quot; Ducts, White | Durable vent covers for RV air conditioning. Fit 4-5/8&quot;",
     "type": "candidate",
@@ -31966,28 +32076,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8ZBBP1D",
-    "title": "2.5&quot; Black USA Flag Stainless Steel Hitch Cover",
-    "type": "candidate",
-    "score": 37.5,
-    "price": 23.74,
-    "bsr": 49527,
-    "image_url": "https://m.media-amazon.com/images/I/71M8rdKTVqL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8ZBBP1D",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HBVDV7K1",
-    "title": "AccEncyc 2Pcs Racing Fuel Jug Hose and Cap Kit with 1Pcs Hose Benders Clear",
-    "type": "candidate",
-    "score": 37.5,
-    "price": 12.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61eI+Z-LghL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVDV7K1",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGF7BQDT",
     "title": "RV Window Awning Replacement Pull Strap, 27&quot; Camper Window Awning Straps | 901012 Window Awning Tie Down Kit for RV Travel Tr",
     "type": "candidate",
@@ -32029,28 +32117,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71AIvZHeUEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7BGQSBR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HHR2MMDD",
-    "title": "European Propane Tank Adapter with Gauge for Qcc1 European Propane",
-    "type": "candidate",
-    "score": 37.25,
-    "price": 15.7,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61EJ177kAbL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHR2MMDD",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9R5TRZ3",
-    "title": "Rubber Cover Compatible with B&amp;W Gooseneck Hitch Empty Turnoverball Socket",
-    "type": "candidate",
-    "score": 37.25,
-    "price": 14.99,
-    "bsr": 40539,
-    "image_url": "https://m.media-amazon.com/images/I/71rxjML5qDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9R5TRZ3",
     "walmart_url": null
   },
   {
@@ -32150,6 +32216,28 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61gyX5O0r0L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMZP7QQJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGDD68CX",
+    "title": "Dual Trash Can Hauler Hitch for 2&quot; Receiver Fit for Truck Golf Cart ATV UTV",
+    "type": "candidate",
+    "score": 37.25,
+    "price": 79.99,
+    "bsr": 52225,
+    "image_url": "https://m.media-amazon.com/images/I/71MgEtOX7BL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGDD68CX",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H7JF9ZFR",
+    "title": "3PCS QCC1 Acme Nut Propane Gas Adapter,QCC1 and POL Connector Set",
+    "type": "candidate",
+    "score": 37.25,
+    "price": 19.99,
+    "bsr": 435974,
+    "image_url": "https://m.media-amazon.com/images/I/61hLfvpDK9L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7JF9ZFR",
     "walmart_url": null
   },
   {
@@ -32428,6 +32516,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHNJVZHL",
+    "title": "Suburban LP-BTCON Inverted T-Connection for LP Propane Lines",
+    "type": "candidate",
+    "score": 36.7,
+    "price": 12.53,
+    "bsr": 420789,
+    "image_url": "https://m.media-amazon.com/images/I/61qgWlOjIeL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHNJVZHL",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H9XY72ZP",
     "title": "30 Inch Heavy Duty Window Awning Brackets, Angled Awning Rack Stands",
     "type": "candidate",
@@ -32439,14 +32538,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H7CPSHJK",
-    "title": "Bed Plug Cover Kit for Ram 2500 3500 2014-2026 with Storage Bag",
+    "asin": "B0H8ZBBP1D",
+    "title": "2.5&quot; Black USA Flag Stainless Steel Hitch Cover",
     "type": "candidate",
-    "score": 36.6,
-    "price": 17.63,
-    "bsr": 38563,
-    "image_url": "https://m.media-amazon.com/images/I/71bVtLGdeOL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7CPSHJK",
+    "score": 36.5,
+    "price": 23.74,
+    "bsr": 48418,
+    "image_url": "https://m.media-amazon.com/images/I/71M8rdKTVqL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8ZBBP1D",
     "walmart_url": null
   },
   {
@@ -32593,17 +32692,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6WR2ZJQ",
-    "title": "OPD Valve Removal Tool for 20 30 40 LB QCC-1 Propane Tanks",
-    "type": "candidate",
-    "score": 36.25,
-    "price": 35.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61dMyfdXMaL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6WR2ZJQ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGF1JGKP",
     "title": "3317085.000U RV Awning End Cap Kit Compatible with Dometic 9200 Series | Includes left idler and right motor end caps; rigid",
     "type": "candidate",
@@ -32626,14 +32714,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HHNJVZHL",
-    "title": "Suburban LP-BTCON Inverted T-Connection for LP Propane Lines",
+    "asin": "B0H6FJXGWF",
+    "title": "12PCS Tarp Clips, Heavy Duty Lock Grip Tarp Clamps, Plastic Grip Clips",
     "type": "candidate",
-    "score": 36.2,
-    "price": 11.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61qgWlOjIeL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHNJVZHL",
+    "score": 36.15,
+    "price": 6.49,
+    "bsr": 24559,
+    "image_url": "https://m.media-amazon.com/images/I/71fX1kvOLkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6FJXGWF",
     "walmart_url": null
   },
   {
@@ -32791,6 +32879,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HFTPRYST",
+    "title": "2 Inch Trailer Hitch Cover Tube Cover Plug Cap for Ford Pickup, SUV, Jeep, Cars, Trucks, RV &amp; More Exterior Accessories(s‘t)",
+    "type": "candidate",
+    "score": 35.95,
+    "price": 13.99,
+    "bsr": 54620,
+    "image_url": "https://m.media-amazon.com/images/I/617l6RO8YUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFTPRYST",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8SNQG6S",
     "title": "3 Pack RV Waste Valve Handle Replacement, Valve Extension Rod RV Tank Pull | RV Sewer Valve Handle Replacement for RV Dump Va",
     "type": "candidate",
@@ -32901,6 +33000,28 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HF52GPDX",
+    "title": "2.5&quot; USA Black American Flag Hitch Cover",
+    "type": "candidate",
+    "score": 35.75,
+    "price": 17.99,
+    "bsr": 50620,
+    "image_url": "https://m.media-amazon.com/images/I/712zQQ44-OL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF52GPDX",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCZFDR4R",
+    "title": "4 Packs Car Wheel Dolly Set, Heavy Duty 7000lbs Steel Vehicle Dolly, Red",
+    "type": "candidate",
+    "score": 35.75,
+    "price": 109.99,
+    "bsr": 54760,
+    "image_url": "https://m.media-amazon.com/images/I/71OuBRCsjlL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCZFDR4R",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H2914TR9",
     "title": "6PCS Trailer Pin, Standard 1/4 Hitch Pin, Strong Trailer Coupler Pin Clip, Locking Safety Pin, Wire Lock Pin and PTO Pins for Tractor, RV, Farm Trailers Towing, Yard and Hunting Equipment",
     "type": "candidate",
@@ -32931,17 +33052,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51kY-f+DZVL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFMSYRPW",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HDZB64ZX",
-    "title": "POL to QCC1 Propane Tank Adapter Heavy Duty Solid Brass Converter",
-    "type": "candidate",
-    "score": 35.5,
-    "price": 7.97,
-    "bsr": 41063,
-    "image_url": "https://m.media-amazon.com/images/I/71OB-RGky2L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDZB64ZX",
     "walmart_url": null
   },
   {
@@ -33341,17 +33451,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF52GPDX",
-    "title": "2.5&quot; USA Black American Flag Hitch Cover",
-    "type": "candidate",
-    "score": 34.75,
-    "price": 17.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/712zQQ44-OL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF52GPDX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBRC13GZ",
     "title": "RV Awning Arm Strap for Camper 2 Pack 1&quot; x 13&quot; | Awning Tie Down Strap for RV, Nylon Camper Awning Strap Replacement for Trav",
     "type": "candidate",
@@ -33360,6 +33459,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71y3ZQGz4nL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBRC13GZ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HKRFTZ85",
+    "title": "Car Heater Plug in Cigarette Lighter 12V 200W Windshield Defroster Defogger",
+    "type": "candidate",
+    "score": 34.75,
+    "price": 25.99,
+    "bsr": 25653,
+    "image_url": "https://m.media-amazon.com/images/I/71n2MTk69YL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKRFTZ85",
     "walmart_url": null
   },
   {
@@ -33616,17 +33726,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCZFDR4R",
-    "title": "4 Packs Car Wheel Dolly Set, Heavy Duty 7000lbs Steel Vehicle Dolly, Red",
-    "type": "candidate",
-    "score": 34.0,
-    "price": 109.99,
-    "bsr": 54393,
-    "image_url": "https://m.media-amazon.com/images/I/71OuBRCsjlL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCZFDR4R",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HN1X2QZP",
     "title": "161123 RV Furnace Heater Gas Valve Fit for Suburban NT | for NT-12 NT-16 NT-20 NT-24 NT-30 NT-34 NT-40 NT-42 RV Furnaces, 12V",
     "type": "candidate",
@@ -33748,6 +33847,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKJRB7N6",
+    "title": "for ATV UTV Trailer Hitch Receiver Adapter, 2&quot; Rear Bumper Hitch Kit",
+    "type": "candidate",
+    "score": 33.75,
+    "price": 23.19,
+    "bsr": 50756,
+    "image_url": "https://m.media-amazon.com/images/I/61DA-VHO0AL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKJRB7N6",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5L3D3GR",
     "title": "G363 RV Keys, 3 Pack Precut Replacement Keys",
     "type": "candidate",
@@ -33789,17 +33899,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61CE3-P-ORL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7X1QS6R",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HKRFTZ85",
-    "title": "Car Heater Plug in Cigarette Lighter 12V 200W Windshield Defroster Defogger",
-    "type": "candidate",
-    "score": 33.5,
-    "price": 25.99,
-    "bsr": 17853,
-    "image_url": "https://m.media-amazon.com/images/I/71n2MTk69YL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKRFTZ85",
     "walmart_url": null
   },
   {
@@ -34207,6 +34306,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61dIVNen+dL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6RR2NLL",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H7RHPG6S",
+    "title": "POL to QCC1 Propane Tank Adapter, Solid Brass Old to New Propane Adapter Fitting, 5-100 lb Propane Tank Adapter Converts POL LP Tank Service to QCC1/Type1 Hose or Regulator",
+    "type": "candidate",
+    "score": 33.0,
+    "price": 8.39,
+    "bsr": 386062,
+    "image_url": "https://m.media-amazon.com/images/I/61y+TI9XLDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7RHPG6S",
     "walmart_url": null
   },
   {
@@ -34683,6 +34793,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKJN7S3C",
+    "title": "for ATV UTV 3 in 1 Trailer Hitch with 2 Inch Ball Fits 2&quot; Receiver",
+    "type": "candidate",
+    "score": 32.0,
+    "price": 23.19,
+    "bsr": 54304,
+    "image_url": "https://m.media-amazon.com/images/I/614FMHZAkQL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKJN7S3C",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H86WPFVD",
     "title": "350184 RV Furnace Combustion Air Wheel fit for Suburban SF-25 SF-30 SF-35",
     "type": "candidate",
@@ -34856,17 +34977,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DEglItDmL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3KPS5QF",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HNJZ4LNL",
-    "title": "Propane Tank Cover 600D Oxford Fabric Fit 20lb Propane Cylinder | Outdoor Waterproof Propane Gas Tank Cover with Elasticated Bottom (Pack of 2)",
-    "type": "candidate",
-    "score": 31.75,
-    "price": 27.38,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/81GDod7nFxL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HNJZ4LNL",
     "walmart_url": null
   },
   {
@@ -35816,6 +35926,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6WR2ZJQ",
+    "title": "OPD Valve Removal Tool for 20 30 40 LB QCC-1 Propane Tanks",
+    "type": "candidate",
+    "score": 29.65,
+    "price": 35.99,
+    "bsr": 535874,
+    "image_url": "https://m.media-amazon.com/images/I/61dMyfdXMaL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6WR2ZJQ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8DWVVGP",
     "title": "LLPTA Satin Aluminum RV Awning Rafter Claw for Dometic Sunchaser II | Heavy duty satin aluminum awning rafter claw rivet set,",
     "type": "candidate",
@@ -36344,17 +36465,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBVFFG39",
-    "title": "5430 Gas Stove Regulator 15 PSI for Coleman Stoves",
-    "type": "candidate",
-    "score": 27.7,
-    "price": 14.19,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/51pgwpKnCXL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBVFFG39",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GW3FV2B6",
     "title": "FewNvWa RV Electrical Cable 5inch Easy Installation Round with Lid",
     "type": "candidate",
@@ -36498,17 +36608,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HD23C141",
-    "title": "Vaunn Medical Foot Step Stool 350lbs Heavy-Duty Anti Skid Rubber Platform with Handle, Lightweight Sturdy Stool for Children, Adults and Seniors (Bichrome)",
-    "type": "candidate",
-    "score": 26.75,
-    "price": 44.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/614TZ7wkDwL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HD23C141",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H7MDG4GG",
     "title": "UPGRADED DA97-05557Y Freezer Door Gasket Replacement Compatible with Samsung Refrigerator Parts Door Seal, Replaces DA97-05557B DA97-07192A Freezer Door Seal, Fit RF267AZRS RF26XAZRS RFG298HDRS",
     "type": "candidate",
@@ -36649,6 +36748,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61RiDnz+i4L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3KNHTKG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6BSY29B",
+    "title": "2 Pcs Trailer Coupler Pin with Anti-Lost Rope Ring, Arch Trailer Hitch Pin, Locking Pins for Farm Trailers, Towing Accessories, for Farm Lawn Garden Wagons Towing,Size 1/4&quot; x 3.2&quot;(6.3mm x 80mm)",
+    "type": "candidate",
+    "score": 26.2,
+    "price": 6.39,
+    "bsr": 43311,
+    "image_url": "https://m.media-amazon.com/images/I/61J87awHX2L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6BSY29B",
     "walmart_url": null
   },
   {
@@ -36814,6 +36924,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/512rVp3-uIL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNRM9VHC",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBVFFG39",
+    "title": "5430 Gas Stove Regulator 15 PSI for Coleman Stoves",
+    "type": "candidate",
+    "score": 25.75,
+    "price": 14.19,
+    "bsr": 293628,
+    "image_url": "https://m.media-amazon.com/images/I/51pgwpKnCXL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBVFFG39",
     "walmart_url": null
   },
   {
@@ -37103,17 +37224,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFTPRYST",
-    "title": "2 Inch Trailer Hitch Cover Tube Cover Plug Cap for Ford Pickup, SUV, Jeep, Cars, Trucks, RV &amp; More Exterior Accessories(s‘t)",
-    "type": "candidate",
-    "score": 24.7,
-    "price": 13.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/617l6RO8YUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFTPRYST",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HFX3FSN3",
     "title": "2026 Wireless Backup Camera 1080P, 2.4GHz WiFi No Monitor Needed, License Plate Reverse Camera, 170° Wide Angle Night Vision IP68 Waterproof, Front Rear View for iPhone Android, Car SUV Van Pickup",
     "type": "candidate",
@@ -37199,6 +37309,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41dE8hCyMCL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7X4L31F",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HD23C141",
+    "title": "Vaunn Medical Foot Step Stool 350lbs Heavy-Duty Anti Skid Rubber Platform with Handle, Lightweight Sturdy Stool for Children, Adults and Seniors (Bichrome)",
+    "type": "candidate",
+    "score": 23.5,
+    "price": 44.99,
+    "bsr": 45765,
+    "image_url": "https://m.media-amazon.com/images/I/614TZ7wkDwL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HD23C141",
     "walmart_url": null
   },
   {
@@ -37364,6 +37485,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51N4UnL92hL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GDWNJVDF",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HDGZYGKN",
+    "title": "Fuel Tank Strap Isolator 4&#x27;&#x27;x6Ft Rubber Pad for Semi‑Trailer Anti‑Squeak",
+    "type": "candidate",
+    "score": 20.25,
+    "price": 19.99,
+    "bsr": 470955,
+    "image_url": "https://m.media-amazon.com/images/I/614Yaj3ZpHL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDGZYGKN",
     "walmart_url": null
   },
   {
@@ -37568,9 +37700,9 @@
     "asin": "B0HBQTT6TJ",
     "title": "Forklift Propane Tank Adapter, 1-1/4&quot; Female to 1-5/16&quot; Male",
     "type": "candidate",
-    "score": 17.75,
-    "price": 49.99,
-    "bsr": 315606,
+    "score": 17.7,
+    "price": 68.59,
+    "bsr": 320858,
     "image_url": "https://m.media-amazon.com/images/I/81DxEJo+x0L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQTT6TJ",
     "walmart_url": null
@@ -37581,7 +37713,7 @@
     "type": "candidate",
     "score": 17.7,
     "price": 24.99,
-    "bsr": 60181,
+    "bsr": 97937,
     "image_url": "https://m.media-amazon.com/images/I/71XlEqbkIwL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDY98LHS",
     "walmart_url": null
@@ -37617,17 +37749,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71PI50Y6fwL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJRBVKYK",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJ7K7RLH",
-    "title": "Kurtz Car Top Roof Speaker Frame Trim Cover for Grand Highlander 2024 2025 2026 Inner Roof Top Speaker Audio Trim Frame ABS Anti-Scratch Waterproof Accessories 2PCS(Carbon Fiber)",
-    "type": "candidate",
-    "score": 17.7,
-    "price": 26.88,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71LsDppK+4L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ7K7RLH",
     "walmart_url": null
   },
   {
@@ -37705,6 +37826,17 @@
     "bsr": 11999,
     "image_url": "https://m.media-amazon.com/images/I/614WgBV5wEL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQ9TQ3B",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJ7K7RLH",
+    "title": "Kurtz Car Top Roof Speaker Frame Trim Cover for Grand Highlander 2024 2025 2026 Inner Roof Top Speaker Audio Trim Frame ABS Anti-Scratch Waterproof Accessories 2PCS(Carbon Fiber)",
+    "type": "candidate",
+    "score": 16.95,
+    "price": 26.88,
+    "bsr": 341746,
+    "image_url": "https://m.media-amazon.com/images/I/71LsDppK+4L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ7K7RLH",
     "walmart_url": null
   },
   {
