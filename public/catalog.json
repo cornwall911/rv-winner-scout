@@ -1859,17 +1859,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF7Z18Y3",
-    "title": "12V RV Macerator Pump, 20.5 Ft Extended Cables, 12 GPM, Storage Box",
-    "type": "winner",
-    "score": 82.2,
-    "price": 89.24,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71qb2VXlbmL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF7Z18Y3",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGLYS6X1",
     "title": "QGHMWCZ 12V RV Air Conditioner with Heater,Portable Inverter Ac | Small Rv Ac Unit Low Power Draw 50db Quiet forCamper Truck",
     "type": "winner",
@@ -2219,6 +2208,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71jZsmTSGQL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQJQN4FC",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF7Z18Y3",
+    "title": "12V RV Macerator Pump, 20.5 Ft Extended Cables, 12 GPM, Storage Box",
+    "type": "winner",
+    "score": 81.0,
+    "price": 89.24,
+    "bsr": 175750,
+    "image_url": "https://m.media-amazon.com/images/I/71qb2VXlbmL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF7Z18Y3",
     "walmart_url": null
   },
   {
@@ -26950,6 +26950,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HFHVTH48",
+    "title": "4&quot; Extension Clear RV Sewer HoseAdapter - Odor-Proof &amp; Leak-Proof",
+    "type": "candidate",
+    "score": 45.0,
+    "price": 10.99,
+    "bsr": 174718,
+    "image_url": "https://m.media-amazon.com/images/I/71Lv48mUt6L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFHVTH48",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC6PG67D",
     "title": "GIMWA 2.6 Gal Collapsible Baby Bottle Wash Basin with Drain Plug",
     "type": "candidate",
@@ -28718,17 +28729,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71eFbKF4sRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGK55437",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HFHVTH48",
-    "title": "4&quot; Extension Clear RV Sewer HoseAdapter - Odor-Proof &amp; Leak-Proof | Anti-Aging Resin, Leak-Proof &amp; Odor-Proof Waste Valve Con",
-    "type": "candidate",
-    "score": 43.2,
-    "price": 10.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Lv48mUt6L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFHVTH48",
     "walmart_url": null
   },
   {
@@ -33833,6 +33833,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/610QcArXWAL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H867F3XG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6PQ29T5",
+    "title": "161109 525042 12V Gas Valve for Suburban SW4/SW6/SW10/SW12/SW16",
+    "type": "candidate",
+    "score": 34.3,
+    "price": 34.99,
+    "bsr": 172918,
+    "image_url": "https://m.media-amazon.com/images/I/81BcqUQ0kAL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6PQ29T5",
     "walmart_url": null
   },
   {
