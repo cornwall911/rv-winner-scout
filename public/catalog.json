@@ -2409,17 +2409,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H798WNYX",
-    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
-    "type": "winner",
-    "score": 80.5,
-    "price": 29.99,
-    "bsr": 7826,
-    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5BJQJW3",
     "title": "RV Stabilizer Jack, Heavy Duty I-Beam Camper Anti-Sway, Fits Most Trailers",
     "type": "winner",
@@ -2560,6 +2549,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61LyEYXaQmL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDZ5Y71X",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H798WNYX",
+    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
+    "type": "winner",
+    "score": 80.15,
+    "price": 29.99,
+    "bsr": 8927,
+    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
     "walmart_url": null
   },
   {
