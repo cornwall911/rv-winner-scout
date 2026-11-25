@@ -429,6 +429,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HL8GM6WY",
+    "title": "8KW Diesel Heater, 12V/24V Parking Heater with LCD Display, Automatic Start and Stop, for RV Garage Camper Fishing SUV Car Trailer Camper Van Boat",
+    "type": "winner",
+    "score": 89.35,
+    "price": 97.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71YRfntBKZL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HL8GM6WY",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HKYXJH9L",
     "title": "8KW Diesel Heater, 12V/24V Parking Heater with App Control and LCD Display, Automatic Start and Stop, for RV Garage Camper Fishing SUV Car Trailer Camper Van Boat",
     "type": "winner",
@@ -561,6 +572,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHWNG3G7",
+    "title": "VEVOR Diesel Heater DC 12 V All-in-One Fast Heating Diesel Air Heater",
+    "type": "winner",
+    "score": 89.2,
+    "price": 97.11,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71lNK1xBj4L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHWNG3G7",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7VR5FJ2",
     "title": "Magnetic Wireless Backup Camera WiFi Hitch Cam for Trailer RV 720P",
     "type": "winner",
@@ -591,17 +613,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/8105IsnmmVL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H695SHXG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HL8GM6WY",
-    "title": "8KW Diesel Heater, 12V/24V Parking Heater with LCD Display, Automatic Start and Stop, for RV Garage Camper Fishing SUV Car Trailer Camper Van Boat",
-    "type": "winner",
-    "score": 88.95,
-    "price": 96.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71YRfntBKZL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HL8GM6WY",
     "walmart_url": null
   },
   {
@@ -833,17 +844,6 @@
     "bsr": 5846,
     "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HHWNG3G7",
-    "title": "VEVOR Diesel Heater DC 12 V All-in-One Fast Heating Diesel Air Heater",
-    "type": "winner",
-    "score": 87.85,
-    "price": 97.11,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71lNK1xBj4L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHWNG3G7",
     "walmart_url": null
   },
   {
@@ -3399,6 +3399,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H714WSSP",
+    "title": "22x14 RV Vent Insulator and Skylight Cover,RV Skylight Insulator(1pack)",
+    "type": "should_test",
+    "score": 77.9,
+    "price": 16.79,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/81tKe72MseL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H714WSSP",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1KZ2N6K",
     "title": "SleYuYir 12V RV Air Conditioner, DC RV AC Unit 10,000 BTU Cooling and 3,500 BTU Heating, 12V AC Unit with Heat, Rooftop Campe",
     "type": "should_test",
@@ -4386,17 +4397,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/810kfQ8kkYL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJCYZQTB",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H714WSSP",
-    "title": "22x14 RV Vent Insulator and Skylight Cover,RV Skylight Insulator(1pack) | Waterproof Universal Camper Roof Vent Plug,Privacy",
-    "type": "should_test",
-    "score": 75.35,
-    "price": 16.79,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81tKe72MseL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H714WSSP",
     "walmart_url": null
   },
   {
@@ -6391,17 +6391,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8BX7X5L",
-    "title": "RV Magnetic Fireplace Fan, 12V DC Camper Stove Fan with Timer",
-    "type": "should_test",
-    "score": 68.6,
-    "price": 103.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71WYcSwpVcL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8BX7X5L",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBQ26RYC",
     "title": "Portable Power Station 300W, 296Wh Battery Generator for Emergency Backup",
     "type": "should_test",
@@ -6831,14 +6820,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGF73NJ3",
-    "title": "2Pack RV Tank Heater Pads with Automatic Thermostat,17.9 x 11.8in,120V | Self-Adhesive RV Holding Tank Heater with 2 Tape Rol",
+    "asin": "B0H8BX7X5L",
+    "title": "RV Magnetic Fireplace Fan, 12V DC Camper Stove Fan with Timer | Auto &amp; Manual Modes, 6 Speeds, Quiet Operation, 2 Mounting Op",
     "type": "should_test",
-    "score": 67.6,
-    "price": 29.99,
+    "score": 67.55,
+    "price": 103.99,
     "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61BJtVbp-CL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGF73NJ3",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71WYcSwpVcL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8BX7X5L",
     "walmart_url": null
   },
   {
@@ -7697,6 +7686,17 @@
     "bsr": 17261,
     "image_url": "https://m.media-amazon.com/images/I/81G38dzH6xL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HK33PRW7",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGF73NJ3",
+    "title": "2Pack RV Tank Heater Pads with Automatic Thermostat,17.9 x 11.8in,120V | Self-Adhesive RV Holding Tank Heater with 2 Tape Rol",
+    "type": "should_test",
+    "score": 65.6,
+    "price": 29.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61BJtVbp-CL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGF73NJ3",
     "walmart_url": null
   },
   {
@@ -14223,6 +14223,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HFWV8H2K",
+    "title": "400W Boat Engine Compartment Heater, Self-Regulating Bilge Heater",
+    "type": "should_test",
+    "score": 53.15,
+    "price": 149.0,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71Mk4n2GUKL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFWV8H2K",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1HZLGPS",
     "title": "BruyanXuan Upgraded OEM 520820 521099 RV Furnace Control Circuit Module Board 12V DC Compatible with Suburban SF20/25/30/35/4",
     "type": "should_test",
@@ -15738,6 +15749,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+6Hy6vJ7L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMDDT7DG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H7H16JBF",
+    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
+    "type": "candidate",
+    "score": 59.25,
+    "price": 31.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
     "walmart_url": null
   },
   {
@@ -18202,17 +18224,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+6leeWWsL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFJCMZQ7",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7H16JBF",
-    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elixir Heng&#x27;s Jensen 14x14 Vents",
-    "type": "candidate",
-    "score": 53.9,
-    "price": 31.99,
-    "bsr": 104193,
-    "image_url": "https://m.media-amazon.com/images/I/61KtLOf7PSL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
     "walmart_url": null
   },
   {
@@ -27643,17 +27654,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFWV8H2K",
-    "title": "400W Boat Engine Compartment Heater, Self-Regulating Bilge Heater",
-    "type": "candidate",
-    "score": 44.25,
-    "price": 149.0,
-    "bsr": 118980,
-    "image_url": "https://m.media-amazon.com/images/I/71Mk4n2GUKL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFWV8H2K",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HF81L3PM",
     "title": "1 Pair RV Side Mirror Cover for Class A RV Mirrors, 26&quot; x 14&quot; (for RV Mirrors)",
     "type": "candidate",
@@ -33374,6 +33374,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HG13D3MX",
+    "title": "Spqnzon 3313107.015 RV AC Condenser Fan Blade for Dometic | Fits Duo-Therm Brisk Air Series, Replaces 3107914.008, 317937.000",
+    "type": "candidate",
+    "score": 36.25,
+    "price": 13.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qlPVXhShL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HBPYPJJ4",
     "title": "MHAEDWV R001832 Awning Arm Motor Replace 060744-001 060744001 | Fit for Carefree of Colorado RV Compass Longitude Altitude, O",
     "type": "candidate",
@@ -34078,17 +34089,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HG13D3MX",
-    "title": "Spqnzon 3313107.015 RV AC Condenser Fan Blade for Dometic | Fits Duo-Therm Brisk Air Series, Replaces 3107914.008, 317937.000",
-    "type": "candidate",
-    "score": 34.5,
-    "price": 13.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61qlPVXhShL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG13D3MX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5C97P8L",
     "title": "Truck Bed Light Compatible with 19-26 Chevy Silverado GMC Sierra",
     "type": "candidate",
@@ -34251,17 +34251,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/610bJJkH1kL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFXC4RMF",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HFSTLPYM",
-    "title": "Luboyear 1 Pcs 2 Inch ×50 ft Rv Flex Aluminum Foil Air Ducting Hose Silver | Flexible Air Duct for Rv Camper Travel Trailer,",
-    "type": "candidate",
-    "score": 34.0,
-    "price": 45.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81q2rivOwvL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFSTLPYM",
     "walmart_url": null
   },
   {
@@ -37815,6 +37804,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VNRndCHSL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8XSY5CN",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFSTLPYM",
+    "title": "Luboyear 1 Pcs 2 Inch ×50 ft Rv Flex Aluminum Foil Air Ducting Hose Silver | Flexible Air Duct for Rv Camper Travel Trailer,",
+    "type": "candidate",
+    "score": 25.0,
+    "price": 44.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81q2rivOwvL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFSTLPYM",
     "walmart_url": null
   },
   {
