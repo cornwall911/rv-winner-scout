@@ -99,17 +99,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HC5VTXFB",
-    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
-    "type": "winner",
-    "score": 90.15,
-    "price": 103.99,
-    "bsr": 5673,
-    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H4YHS1XK",
     "title": "AUTO-VOX Solar Wireless Backup Camera, 3 Minute Easy Install | 7.2&quot; HD Split Screen Monitor, Dual Antenna 500ft Signal, 1080P",
     "type": "winner",
@@ -833,6 +822,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51lKz5qMyIL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCT3PC3K",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC5VTXFB",
+    "title": "AUTO-VOX Solar Wireless Backup Camera, 2 Minute DIY Install, 5&quot; Monitor",
+    "type": "winner",
+    "score": 88.0,
+    "price": 103.99,
+    "bsr": 5846,
+    "image_url": "https://m.media-amazon.com/images/I/71+idK5laDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC5VTXFB",
     "walmart_url": null
   },
   {
@@ -3234,6 +3234,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HLSH5GWK",
+    "title": "EF ECOFLOW 3072Wh DELTA 3000 Gen4 Portable Power Station, 3600W AC Output",
+    "type": "should_test",
+    "score": 78.25,
+    "price": 1299.0,
+    "bsr": 3477,
+    "image_url": "https://m.media-amazon.com/images/I/617+1969uzL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLSH5GWK",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GYS6SKR6",
     "title": "Sporthfish RV Skylight Insulator 14&quot;x22&quot;x3&quot; for Roof Vents Skylights 1PCS | Skylight Shade for Most Motorhome Camper Trailer",
     "type": "should_test",
@@ -3344,17 +3355,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HLVRNZDC",
-    "title": "EF ECOFLOW 3763Wh DELTA 3800 Gen4 Portable Power Station, 3600W AC Output",
-    "type": "should_test",
-    "score": 78.0,
-    "price": 1699.0,
-    "bsr": 846,
-    "image_url": "https://m.media-amazon.com/images/I/61jcQqQsR6L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HLVRNZDC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGKL8DLL",
     "title": "350W Pure Sine Wave Inverter for Ryobi 18V Battery, 4-Bay",
     "type": "should_test",
@@ -3462,17 +3462,6 @@
     "bsr": 8239,
     "image_url": "https://m.media-amazon.com/images/I/614Ud6BBIXL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2MFBDZL",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "should_test",
-    "score": 77.75,
-    "price": 949.0,
-    "bsr": 4633,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -3638,6 +3627,17 @@
     "bsr": 22062,
     "image_url": "https://m.media-amazon.com/images/I/710ZXi8pelL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC6NW8H7",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "should_test",
+    "score": 77.25,
+    "price": 949.0,
+    "bsr": 4768,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -3935,6 +3935,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81lozsfy08L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ7K2HS7",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HLVRNZDC",
+    "title": "EF ECOFLOW 3763Wh DELTA 3800 Gen4 Portable Power Station, 3600W AC Output",
+    "type": "should_test",
+    "score": 76.35,
+    "price": 1699.0,
+    "bsr": 1241,
+    "image_url": "https://m.media-amazon.com/images/I/61jcQqQsR6L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLVRNZDC",
     "walmart_url": null
   },
   {
@@ -4796,6 +4807,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9RWG765",
+    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
+    "type": "should_test",
+    "score": 74.0,
+    "price": 203.99,
+    "bsr": 1099,
+    "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HH3M98N4",
     "title": "Vehicle Awning 4.9&#x27;×6.5&#x27;, Retractable Car SUV Truck Van Camper Awning | Roof Rack Pull-out Side Sun Shade UV50+600D Oxford Wa",
     "type": "should_test",
@@ -4859,17 +4881,6 @@
     "bsr": 42869,
     "image_url": "https://m.media-amazon.com/images/I/81hPJrgs7kL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC7FK9V7",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H9RWG765",
-    "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
-    "type": "should_test",
-    "score": 73.75,
-    "price": 203.99,
-    "bsr": 988,
-    "image_url": "https://m.media-amazon.com/images/I/81hASwXbptL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9RWG765",
     "walmart_url": null
   },
   {
@@ -5409,17 +5420,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61sdfKSCcOL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5BTXSVN",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HLSH5GWK",
-    "title": "EF ECOFLOW 3072Wh DELTA 3000 Gen4 Portable Power Station, 3600W AC Output",
-    "type": "should_test",
-    "score": 71.3,
-    "price": 1299.0,
-    "bsr": 3773,
-    "image_url": "https://m.media-amazon.com/images/I/617+1969uzL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HLSH5GWK",
     "walmart_url": null
   },
   {
@@ -6039,17 +6039,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H98TT1MN",
-    "title": "PowerSmart 4000 Watt Portable Inverter Generator for Home Use, Gas Powered",
-    "type": "should_test",
-    "score": 69.75,
-    "price": 409.99,
-    "bsr": 3585,
-    "image_url": "https://m.media-amazon.com/images/I/71Q6qq79UpL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJ2N7FJ1",
     "title": "Efurden 6000W Inverter Generator, Portable Gas Powered Generator | 3 Gal Fuel Tank, ECO Mode, RV Ready 30A Outlet, USB Port,",
     "type": "should_test",
@@ -6633,6 +6622,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJ1CH8Y8",
+    "title": "4-in-1 RV Accessories Gas Detector,Hardwired 12V DC for Motorhome Travel Trailer, Motor Coach, Truck Camper",
+    "type": "should_test",
+    "score": 68.25,
+    "price": 69.99,
+    "bsr": 6155,
+    "image_url": "https://m.media-amazon.com/images/I/61++m0b1ViL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJ1CH8Y8",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZ4BLFMS",
     "title": "EFURDEN 4300 Watts Portable Inverter Generator, Gas Generator for Outdoor Camping, Home Use, 30A RV Ready, 45 Lbs, EPA Compli",
     "type": "should_test",
@@ -7106,6 +7106,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HH9BYJBB",
+    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
+    "type": "should_test",
+    "score": 67.05,
+    "price": 64.99,
+    "bsr": 5686,
+    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7BKD16S",
     "title": "12V 15000 BTU RV Air Conditioner, Heating&amp;Cooling Electric Rooftop Quiet Thin Electric Parking AC Unit Efficient Scroll Compr",
     "type": "should_test",
@@ -7191,17 +7202,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61mUICnW1AL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ6D435J",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HH9BYJBB",
-    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
-    "type": "should_test",
-    "score": 66.9,
-    "price": 64.99,
-    "bsr": 5208,
-    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
@@ -7598,6 +7598,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FNg-gJQgL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHR1ZMQ7",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H98TT1MN",
+    "title": "PowerSmart 4000 Watt Portable Inverter Generator for Home Use, Gas Powered",
+    "type": "should_test",
+    "score": 65.75,
+    "price": 409.99,
+    "bsr": 4181,
+    "image_url": "https://m.media-amazon.com/images/I/71Q6qq79UpL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H98TT1MN",
     "walmart_url": null
   },
   {
@@ -9020,17 +9031,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJ1CH8Y8",
-    "title": "4-in-1 RV Accessories Gas Detector,Hardwired 12V DC for Motorhome Travel Trailer, Motor Coach, Truck Camper",
-    "type": "should_test",
-    "score": 63.15,
-    "price": 69.99,
-    "bsr": 5888,
-    "image_url": "https://m.media-amazon.com/images/I/61++m0b1ViL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJ1CH8Y8",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H3Q3W3NN",
     "title": "Accumulator Expansion Tank – Reduces Pump Cycling, Smooth Water Flow, Max 150 PSI, 1/2&quot; MNPT, Compact Design for RV, Marine, Boat &amp; Off-Grid Systems (1.0L (33.8 OZ))",
     "type": "should_test",
@@ -9259,17 +9259,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61VmKdIKdPL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3FHGVC9",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HCZZ39DX",
-    "title": "Anker SOLIX S5000 with Transfer Switch Kit, 5,024Wh, 8,000W Peak",
-    "type": "should_test",
-    "score": 62.75,
-    "price": 2999.99,
-    "bsr": 1372,
-    "image_url": "https://m.media-amazon.com/images/I/71PhDc1YQYL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCZZ39DX",
     "walmart_url": null
   },
   {
@@ -9823,14 +9812,14 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HN1MNNH3",
-    "title": "EF EcoFlow TITAN 5000 Power Station, 5017Wh LFP, 7200W120V/240V AC Output",
+    "asin": "B0HCZZ39DX",
+    "title": "Anker SOLIX S5000 with Transfer Switch Kit, 5,024Wh, 8,000W Peak",
     "type": "should_test",
     "score": 62.0,
-    "price": 3199.0,
-    "bsr": 7002,
-    "image_url": "https://m.media-amazon.com/images/I/61USbcbDZcL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HN1MNNH3",
+    "price": 2999.99,
+    "bsr": 2792,
+    "image_url": "https://m.media-amazon.com/images/I/71PhDc1YQYL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCZZ39DX",
     "walmart_url": null
   },
   {
@@ -10524,6 +10513,17 @@
     "bsr": 44431,
     "image_url": "https://m.media-amazon.com/images/I/61AgxGPp2xL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKHRHN3B",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HN1MNNH3",
+    "title": "EF EcoFlow TITAN 5000 Power Station, 5017Wh LFP, 7200W120V/240V AC Output",
+    "type": "should_test",
+    "score": 61.0,
+    "price": 3199.0,
+    "bsr": 5688,
+    "image_url": "https://m.media-amazon.com/images/I/61USbcbDZcL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HN1MNNH3",
     "walmart_url": null
   },
   {
@@ -13164,6 +13164,17 @@
     "bsr": 1664457,
     "image_url": "https://m.media-amazon.com/images/I/61DnhWerMaL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJZLTJ2T",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8CX296Q",
+    "title": "NEMA L14-30P to 14-50R RV Generator Adapter, Twist Lock 30 to 50 Amp",
+    "type": "should_test",
+    "score": 56.25,
+    "price": 15.99,
+    "bsr": 4575,
+    "image_url": "https://m.media-amazon.com/images/I/714vS9vZ-HL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
     "walmart_url": null
   },
   {
@@ -21516,17 +21527,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8CX296Q",
-    "title": "NEMA L14-30P to 14-50R RV Generator Adapter, Twist Lock 30 to 50 Amp",
-    "type": "candidate",
-    "score": 50.0,
-    "price": 15.99,
-    "bsr": 5613,
-    "image_url": "https://m.media-amazon.com/images/I/714vS9vZ-HL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H8MSHBWH",
     "title": "RV Awning Repair Tape, 8 in x 21 ft Heavy-Duty RV Underbelly Tape, UV Guard | UV Resistant PVC RV Awning Cover Guard and Awni",
     "type": "candidate",
@@ -24970,6 +24970,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HMH1V3DX",
+    "title": "15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow",
+    "type": "candidate",
+    "score": 47.0,
+    "price": 44.99,
+    "bsr": 3950,
+    "image_url": "https://m.media-amazon.com/images/I/61O2dT0Lc-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMH1V3DX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HG4FZ6DN",
     "title": "BBTO RV Water Inlet Funnel 4.72 Inch Wide Mouth Fresh Water Filler, White | Travel Trailer Essentials Accessories, Quick Fill",
     "type": "candidate",
@@ -26573,17 +26584,6 @@
     "bsr": 23657,
     "image_url": "https://m.media-amazon.com/images/I/51A-aoI2GqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3KWHK84",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HMH1V3DX",
-    "title": "15FT RV Sewer Hose with Bayonet Fittings and 4-in-1 Adapter Elbow",
-    "type": "candidate",
-    "score": 45.3,
-    "price": 33.99,
-    "bsr": 4509,
-    "image_url": "https://m.media-amazon.com/images/I/61O2dT0Lc-L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HMH1V3DX",
     "walmart_url": null
   },
   {
@@ -36943,7 +36943,7 @@
     "type": "candidate",
     "score": 27.95,
     "price": 14.24,
-    "bsr": 5994,
+    "bsr": 5603,
     "image_url": "https://m.media-amazon.com/images/I/51EW64gwgzL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9NZNYXZ",
     "walmart_url": null
