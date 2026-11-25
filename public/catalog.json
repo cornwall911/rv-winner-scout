@@ -1551,17 +1551,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6X8ND5D",
-    "title": "Magnetic RV Insulated Door Cover for Winter, Size 30&#x27;&#x27; x 75&#x27;&#x27;",
-    "type": "winner",
-    "score": 82.75,
-    "price": 39.99,
-    "bsr": 7304,
-    "image_url": "https://m.media-amazon.com/images/I/813q47y4xIL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6X8ND5D",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBB6PS4G",
     "title": "Magnetic RV Insulated Door Cover for Winter 33 x 77 in Gray | Thermal Insulation RV Door Curtain Keep Heat In and Cold Out Ma",
     "type": "winner",
@@ -2546,7 +2535,7 @@
     "type": "winner",
     "score": 80.15,
     "price": 29.99,
-    "bsr": 8927,
+    "bsr": 12696,
     "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
     "walmart_url": null
@@ -2791,6 +2780,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51hapjzd6fL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYW2KZ4M",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6X8ND5D",
+    "title": "Magnetic RV Insulated Door Cover for Winter, Size 30&#x27;&#x27; x 75&#x27;&#x27;",
+    "type": "should_test",
+    "score": 79.35,
+    "price": 39.99,
+    "bsr": 7632,
+    "image_url": "https://m.media-amazon.com/images/I/813q47y4xIL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6X8ND5D",
     "walmart_url": null
   },
   {
@@ -7689,6 +7689,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HLZ9B92N",
+    "title": "BILT HARD 4500 Watts Gasoline Open Frame Inverter Generator",
+    "type": "should_test",
+    "score": 65.75,
+    "price": 339.99,
+    "bsr": 11040,
+    "image_url": "https://m.media-amazon.com/images/I/71VmR3Nps3L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLZ9B92N",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HK33PRW7",
     "title": "RV Window Insulation Cover, Thermal Shade for Winter, Roll Up, 42 x 28 in",
     "type": "should_test",
@@ -7774,17 +7785,6 @@
     "bsr": 402389,
     "image_url": "https://m.media-amazon.com/images/I/717Hpa-5Q3L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGY8TG4G",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HLZ9B92N",
-    "title": "BILT HARD 4500 Watts Gasoline Open Frame Inverter Generator | 3500 Running Watts, 4-Stroke 223 OHV Engine, Parallel-Ready Des",
-    "type": "should_test",
-    "score": 65.25,
-    "price": 339.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VmR3Nps3L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HLZ9B92N",
     "walmart_url": null
   },
   {
@@ -10901,6 +10901,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HL5QDG35",
+    "title": "Propane Refill Adapter with Gauge for 1 lb. Tanks, 3FT Hose &amp; Valve",
+    "type": "should_test",
+    "score": 60.25,
+    "price": 24.99,
+    "bsr": 9168,
+    "image_url": "https://m.media-amazon.com/images/I/51QwsiC7NHL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HL5QDG35",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCT439DT",
     "title": "QJSZMEI RV Winter Skirting with Waste Disposal Window (85.3ft×2.6ft) | Camper Insulated Skirting Travel Trailers, Rv Skirting",
     "type": "should_test",
@@ -11030,17 +11041,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71u+DNMsywL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8DLCCPC",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HL5QDG35",
-    "title": "Propane Refill Adapter with Gauge for 1 lb. Tanks, 3FT Hose &amp; Valve",
-    "type": "should_test",
-    "score": 60.0,
-    "price": 24.99,
-    "bsr": 5475,
-    "image_url": "https://m.media-amazon.com/images/I/51QwsiC7NHL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HL5QDG35",
     "walmart_url": null
   },
   {
@@ -16321,17 +16321,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61DdhbGOsOL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6NT4FNR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0GVHGJ418",
-    "title": "1200W Peak Power Inverter, Car Inverter with 3 USB、Type-c and 3 AC Outlets",
-    "type": "candidate",
-    "score": 57.25,
-    "price": 48.44,
-    "bsr": 11080,
-    "image_url": "https://m.media-amazon.com/images/I/71EV5LQezXL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GVHGJ418",
     "walmart_url": null
   },
   {
@@ -24662,6 +24651,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0GVHGJ418",
+    "title": "1200W Peak Power Inverter, Car Inverter with 3 USB、Type-c and 3 AC Outlets",
+    "type": "candidate",
+    "score": 47.15,
+    "price": 48.44,
+    "bsr": 9815,
+    "image_url": "https://m.media-amazon.com/images/I/71EV5LQezXL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GVHGJ418",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7WWRSH1",
     "title": "EyGde RV Plumbing Vent Cap Stainless Steel with Filter Screen, 2 Packs | Durable stainless steel RV roof vent cap for campers",
     "type": "candidate",
@@ -31633,6 +31633,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/51MM5lVl9SL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQ92XRCT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HRFQCK9L",
+    "title": "2PCS Hand Crank Generator USB Emergency Charger for Mobile Phones",
+    "type": "candidate",
+    "score": 39.25,
+    "price": 19.98,
+    "bsr": 9571,
+    "image_url": "https://m.media-amazon.com/images/I/71Zew0cp+XL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HRFQCK9L",
     "walmart_url": null
   },
   {
