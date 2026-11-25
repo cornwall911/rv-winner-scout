@@ -363,17 +363,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF8FMS5G",
-    "title": "Diesel Heater 12KW, 8L All in One Diesel Air Heater 110/12/24V Parking Heater with App Control, Wireless Temperature Sensing and Altitude Mode for RV Garage Camper",
-    "type": "winner",
-    "score": 89.4,
-    "price": 227.91,
-    "bsr": 6316,
-    "image_url": "https://m.media-amazon.com/images/I/716N7nKiHyL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF8FMS5G",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HCNZ34D1",
     "title": "for Starlink Mini DeWalt Battery Adapter,Over-Discharge Protection",
     "type": "winner",
@@ -492,6 +481,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61-A7GZ-2XL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKZ6GS5B",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF8FMS5G",
+    "title": "Diesel Heater 12KW, 8L All in One Diesel Air Heater 110/12/24V Parking Heater with App Control, Wireless Temperature Sensing and Altitude Mode for RV Garage Camper",
+    "type": "winner",
+    "score": 89.2,
+    "price": 227.91,
+    "bsr": 7505,
+    "image_url": "https://m.media-amazon.com/images/I/716N7nKiHyL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF8FMS5G",
     "walmart_url": null
   },
   {
@@ -3487,17 +3487,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HC6RZBXL",
-    "title": "AP1000 1800W Portable Power Station with 200W Solar Panel",
-    "type": "should_test",
-    "score": 77.7,
-    "price": 550.99,
-    "bsr": 11602,
-    "image_url": "https://m.media-amazon.com/images/I/81E+vmbIRJL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6RZBXL",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GX9XY9LH",
     "title": "2 PCS Car Backup Camera Protector Covers, Clear HD Anti-Scratch Lens Cap, Car Rear View Camera Protection Cover, Universal for Most Cars",
     "type": "should_test",
@@ -3759,6 +3748,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71cMUV2gliL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H45LF1S8",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC6RZBXL",
+    "title": "AP1000 1800W Portable Power Station with 200W Solar Panel",
+    "type": "should_test",
+    "score": 76.85,
+    "price": 550.99,
+    "bsr": 8806,
+    "image_url": "https://m.media-amazon.com/images/I/81E+vmbIRJL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6RZBXL",
     "walmart_url": null
   },
   {
@@ -28853,6 +28853,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJR84BR5",
+    "title": "Portable High Power Hand Crank Generator, Aluminum Survival Gear | Aviation Aluminum Build, Plasma Arc Igniter, FM/SW Radio &amp;",
+    "type": "candidate",
+    "score": 43.25,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61h5Wf1fQHL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJR84BR5",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGK55437",
     "title": "DripCraft 3 Inch RV Sewer Termination Cap Fits Valterra T1020, Leak and Odor Proof Waste Valve Cap with Rubber Gasket and Tet",
     "type": "candidate",
@@ -31292,17 +31303,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41owbOk6uBL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCZ6RX5Y",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJR84BR5",
-    "title": "Portable High Power Hand Crank Generator, Aluminum Survival Gear",
-    "type": "candidate",
-    "score": 39.75,
-    "price": 32.99,
-    "bsr": 7222,
-    "image_url": "https://m.media-amazon.com/images/I/61h5Wf1fQHL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJR84BR5",
     "walmart_url": null
   },
   {
