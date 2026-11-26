@@ -1551,6 +1551,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6X8ND5D",
+    "title": "Magnetic RV Insulated Door Cover for Winter, Size 30&#x27;&#x27; x 75&#x27;&#x27;",
+    "type": "winner",
+    "score": 82.85,
+    "price": 39.99,
+    "bsr": 9406,
+    "image_url": "https://m.media-amazon.com/images/I/813q47y4xIL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6X8ND5D",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5J3C961",
     "title": "Car Charger for Starlink Mini, Car Adapter with 10FT Cable, 12V-24V",
     "type": "winner",
@@ -2772,17 +2783,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H6X8ND5D",
-    "title": "Magnetic RV Insulated Door Cover for Winter, Size 30&#x27;&#x27; x 75&#x27;&#x27;",
-    "type": "should_test",
-    "score": 79.35,
-    "price": 39.99,
-    "bsr": 7632,
-    "image_url": "https://m.media-amazon.com/images/I/813q47y4xIL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6X8ND5D",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H1BSLPWF",
     "title": "24V RV 10000 BTU Air Conditioner Pro - Ultra-Quiet Cooling System with Remote Control, Energy-Efficient Design for Camper Van, Travel Trailer, Motorhome",
     "type": "should_test",
@@ -3311,6 +3311,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC6RZBXL",
+    "title": "AP1000 1800W Portable Power Station with 200W Solar Panel",
+    "type": "should_test",
+    "score": 78.15,
+    "price": 550.99,
+    "bsr": 9340,
+    "image_url": "https://m.media-amazon.com/images/I/81E+vmbIRJL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6RZBXL",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF7F1GCC",
     "title": "VEVOR Electric Trailer Dolly, 3600 lbs Max with 2 &amp; 1-7/8 Inch Hitch Balls | Electric Trailer Mover 600lbs Tongue Weight, DC",
     "type": "should_test",
@@ -3759,17 +3770,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71cMUV2gliL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H45LF1S8",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC6RZBXL",
-    "title": "AP1000 1800W Portable Power Station with 200W Solar Panel",
-    "type": "should_test",
-    "score": 76.85,
-    "price": 550.99,
-    "bsr": 8806,
-    "image_url": "https://m.media-amazon.com/images/I/81E+vmbIRJL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6RZBXL",
     "walmart_url": null
   },
   {
@@ -7414,6 +7414,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HFN1KW91",
+    "title": "VTOMAN Jump 300 Portable Power Station, 230Wh Solar Generator for Camping",
+    "type": "should_test",
+    "score": 66.45,
+    "price": 159.99,
+    "bsr": 10028,
+    "image_url": "https://m.media-amazon.com/images/I/71bAOwLh1cL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFN1KW91",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HBB9MTHS",
     "title": "1 PC Car Rear View Camera Cover, Rain &amp; Snow Proof Anti-glare Shield for Backup Camera, Self-adhesive Carbon Fiber Guard, Universal for Most Cars, Trucks, SUVs (Carbon Fiber Black)",
     "type": "should_test",
@@ -11044,17 +11055,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HDHM6XDG",
-    "title": "TianPtion RV Winterizing Kit with 0-60psi Pressure Gauge &amp; Shut-Off Valve | 17 Inch RV Winterize Blowout Adapter-Garden Sprin",
-    "type": "should_test",
-    "score": 60.25,
-    "price": 24.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xMZH2s0qL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDHM6XDG",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HCT439DT",
     "title": "QJSZMEI RV Winter Skirting with Waste Disposal Window (85.3ft×2.6ft) | Camper Insulated Skirting Travel Trailers, Rv Skirting",
     "type": "should_test",
@@ -11547,6 +11547,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/51a-I1wR3jL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFK7QH2V",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HDHM6XDG",
+    "title": "RV Winterizing Kit with 0-60psi Pressure Gauge &amp; Shut-Off Valve",
+    "type": "should_test",
+    "score": 59.25,
+    "price": 24.99,
+    "bsr": 9319,
+    "image_url": "https://m.media-amazon.com/images/I/71xMZH2s0qL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDHM6XDG",
     "walmart_url": null
   },
   {
