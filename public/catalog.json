@@ -1199,6 +1199,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HNSDT43F",
+    "title": "EF ECOFLOW RIVER 260 Gen4 Portable Power Station, 256Wh, X-Boost 600W, LFP",
+    "type": "winner",
+    "score": 84.0,
+    "price": 219.0,
+    "bsr": 20227,
+    "image_url": "https://m.media-amazon.com/images/I/61DcyM7pz3L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HNSDT43F",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1KVL7GH",
     "title": "12V DC RV Air Conditioner 12000 BTU 12 Volt Mini Split Truck RV AC Unit for Semi Trucks Vans Campers Trucks Excavators Farm V",
     "type": "winner",
@@ -5115,17 +5126,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFHQFRGJ",
-    "title": "2-Pack Magnetic Solar Light Outdoor, 176LED Motion Sensor RV Light Exterior",
-    "type": "should_test",
-    "score": 72.55,
-    "price": 19.22,
-    "bsr": 18503,
-    "image_url": "https://m.media-amazon.com/images/I/71O882XECOL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFHQFRGJ",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HG9GGK4B",
     "title": "RV Insulated Door Cover,33x80&quot; Magnetic Insulated Rv Door Cover for Winter",
     "type": "should_test",
@@ -5915,6 +5915,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71EVXoSCHwL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFZDYY6L",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC7284XB",
+    "title": "XP1000 1800W Portable Power Station with 400W Solar Panel",
+    "type": "should_test",
+    "score": 70.1,
+    "price": 598.49,
+    "bsr": 19568,
+    "image_url": "https://m.media-amazon.com/images/I/81AB885gD7L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC7284XB",
     "walmart_url": null
   },
   {
@@ -7711,17 +7722,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HLZ9B92N",
-    "title": "BILT HARD 4500 Watts Gasoline Open Frame Inverter Generator",
-    "type": "should_test",
-    "score": 65.75,
-    "price": 339.99,
-    "bsr": 11040,
-    "image_url": "https://m.media-amazon.com/images/I/71VmR3Nps3L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HLZ9B92N",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJGCLYXG",
     "title": "300W 25A 110V/120V to 12V Power Supply Converter for Webasto Eberspacher Chinese 2KW 5KW 8KW Heaters AC to DC Transformer for Air Parking Heater Accessories",
     "type": "should_test",
@@ -8679,17 +8679,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H9R7HBV8",
-    "title": "briidea\n2-in-1\nRV\nAccessories\nGas\nDetector | Dual UL Listed Sensors with Separate LED Indicator Lights, 12V DC for RVs, Trave",
-    "type": "should_test",
-    "score": 63.9,
-    "price": 42.39,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/616LU9mHytL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H9R7HBV8",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H5BY7SP5",
     "title": "FOGATTI RV Furnace 30K BTU High-Efficiency for Motorhome, Camper, RV Owners | Smart Temp Control ，Easy Installation for Campe",
     "type": "should_test",
@@ -8698,6 +8687,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71HKMIe1TRL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5BY7SP5",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HLZ9B92N",
+    "title": "BILT HARD 4500 Watts Gasoline Open Frame Inverter Generator",
+    "type": "should_test",
+    "score": 63.75,
+    "price": 339.99,
+    "bsr": 17380,
+    "image_url": "https://m.media-amazon.com/images/I/71VmR3Nps3L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLZ9B92N",
     "walmart_url": null
   },
   {
@@ -14564,6 +14564,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9R7HBV8",
+    "title": "briidea\n2-in-1\nRV\nAccessories\nGas\nDetector",
+    "type": "should_test",
+    "score": 52.25,
+    "price": 42.39,
+    "bsr": 18889,
+    "image_url": "https://m.media-amazon.com/images/I/616LU9mHytL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9R7HBV8",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H82SH4LP",
     "title": "RV Holding Tank Swivel Stik Rinser,RV Black Tank Cleaning Wand 360° Rotatable Spray Nozzle 304 Stainless Steel Build 30 Inch",
     "type": "should_test",
@@ -15048,6 +15059,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGF44YWX",
+    "title": "LUHLEE 218 LED Magnetic Solar Lights Outdoor, RV Solar Lights Motion Sensor",
+    "type": "candidate",
+    "score": 65.1,
+    "price": 43.69,
+    "bsr": 15061,
+    "image_url": "https://m.media-amazon.com/images/I/911x20YVNEL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGF44YWX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HN4M3XBM",
     "title": "2PCS Silicone Backup Camera Rain Shield,Dual Protection for Outdoor Parking | Soft Curved Rear View Camera Rain Shield,Blocks",
     "type": "candidate",
@@ -15100,17 +15122,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/51kglUXeG3L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H83XF9GN",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGF44YWX",
-    "title": "LUHLEE 218 LED Magnetic Solar Lights Outdoor, RV Solar Lights Motion Sensor",
-    "type": "candidate",
-    "score": 63.75,
-    "price": 43.69,
-    "bsr": 16643,
-    "image_url": "https://m.media-amazon.com/images/I/911x20YVNEL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGF44YWX",
     "walmart_url": null
   },
   {
@@ -15221,6 +15232,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71OS4RgikjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H93B4KPN",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFHQFRGJ",
+    "title": "2-Pack Magnetic Solar Light Outdoor, 176LED Motion Sensor RV Light Exterior",
+    "type": "candidate",
+    "score": 63.0,
+    "price": 19.22,
+    "bsr": 17664,
+    "image_url": "https://m.media-amazon.com/images/I/71O882XECOL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFHQFRGJ",
     "walmart_url": null
   },
   {
@@ -20812,6 +20834,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H9QPYJ49",
+    "title": "RV Winterizing Kit Garden Hose to Antifreeze Bottle Adapter, Yellow, Orange",
+    "type": "candidate",
+    "score": 50.75,
+    "price": 18.99,
+    "bsr": 17157,
+    "image_url": "https://m.media-amazon.com/images/I/71vXyhCHLgL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H9QPYJ49",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGFB8ZVL",
     "title": "WUSILILU Manual RV Step,Foldable Camper Steps(1 Step,with Light) | 12V 4W Retractable RV Step w/Non-Slip Tread,17.95&quot; Pedal L",
     "type": "candidate",
@@ -20853,17 +20886,6 @@
     "bsr": 48915,
     "image_url": "https://m.media-amazon.com/images/I/6107IGYryrL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7BB6H4R",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8SJMNVP",
-    "title": "RV Tension Rods, Adjustable Cabinet Rods 12-19.5 in, 6 Pack",
-    "type": "candidate",
-    "score": 50.5,
-    "price": 15.99,
-    "bsr": 14379,
-    "image_url": "https://m.media-amazon.com/images/I/51EGsdJnTDL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8SJMNVP",
     "walmart_url": null
   },
   {
@@ -25242,6 +25264,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61iN8qDzCjL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H4FNTK92",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8SJMNVP",
+    "title": "RV Tension Rods, Adjustable Cabinet Rods 12-19.5 in, 6 Pack",
+    "type": "candidate",
+    "score": 46.75,
+    "price": 15.99,
+    "bsr": 18985,
+    "image_url": "https://m.media-amazon.com/images/I/51EGsdJnTDL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8SJMNVP",
     "walmart_url": null
   },
   {
@@ -32362,6 +32395,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGRW675H",
+    "title": "100 lb Propane Tank Cover for Outside Waterproof 600D Heavy Duty Black",
+    "type": "candidate",
+    "score": 38.75,
+    "price": 24.99,
+    "bsr": 17747,
+    "image_url": "https://m.media-amazon.com/images/I/71GY9Nj0-1L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGRW675H",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HRFQCK9L",
     "title": "2PCS Hand Crank Generator USB Emergency Charger for Mobile Phones",
     "type": "candidate",
@@ -32670,17 +32714,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGRW675H",
-    "title": "100 lb Propane Tank Cover for Outside Waterproof 600D Heavy Duty Black",
-    "type": "candidate",
-    "score": 38.25,
-    "price": 24.99,
-    "bsr": 17439,
-    "image_url": "https://m.media-amazon.com/images/I/71GY9Nj0-1L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGRW675H",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HPBDYFRN",
     "title": "USB Hand Crank for charger Portable Generator for Mobile Phone (Blue)",
     "type": "candidate",
@@ -32722,17 +32755,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yoHSot64L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7J2SX1D",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H6FJXGWF",
-    "title": "12PCS Tarp Clips, Heavy Duty Lock Grip Tarp Clamps, Plastic Grip Clips",
-    "type": "candidate",
-    "score": 37.9,
-    "price": 6.49,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71fX1kvOLkL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H6FJXGWF",
     "walmart_url": null
   },
   {
@@ -33929,7 +33951,7 @@
     "type": "candidate",
     "score": 35.7,
     "price": 5.49,
-    "bsr": 16218,
+    "bsr": 18377,
     "image_url": "https://m.media-amazon.com/images/I/61b3Df8M2HL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2914TR9",
     "walmart_url": null
@@ -35871,6 +35893,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H6FJXGWF",
+    "title": "12PCS Tarp Clips, Heavy Duty Lock Grip Tarp Clamps, Plastic Grip Clips",
+    "type": "candidate",
+    "score": 31.65,
+    "price": 6.49,
+    "bsr": 18801,
+    "image_url": "https://m.media-amazon.com/images/I/71fX1kvOLkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6FJXGWF",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGCVSL36",
     "title": "675364 33&quot; Pitch Arm Fits Lippert Solera Regal 63&quot; Overall Awning | RV Awning Inner Drive Arm Replacement",
     "type": "candidate",
@@ -36253,6 +36286,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61gW4Mz2PJL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7SDXS1F",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HPDNKLS5",
+    "title": "KYX Snowmobile Dolly with 1750 LBS Capacity,Heavy Duty Snowmobile Dolly Set",
+    "type": "candidate",
+    "score": 31.0,
+    "price": 50.99,
+    "bsr": 15666,
+    "image_url": "https://m.media-amazon.com/images/I/71qgXC4yb9L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HPDNKLS5",
     "walmart_url": null
   },
   {
@@ -37133,17 +37177,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/611KDnWRJdL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9D9GNXC",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HPDNKLS5",
-    "title": "KYX Snowmobile Dolly with 1750 LBS Capacity,Heavy Duty Snowmobile Dolly Set",
-    "type": "candidate",
-    "score": 28.5,
-    "price": 59.99,
-    "bsr": 52150,
-    "image_url": "https://m.media-amazon.com/images/I/71qgXC4yb9L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HPDNKLS5",
     "walmart_url": null
   },
   {
