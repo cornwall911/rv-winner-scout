@@ -2530,17 +2530,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H798WNYX",
-    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
-    "type": "winner",
-    "score": 80.15,
-    "price": 29.99,
-    "bsr": 12696,
-    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H8RJDHGQ",
     "title": "RV Skirting Kits for Winter, Easy Installation - Black, 2.62 x 85.3 ft",
     "type": "winner",
@@ -2560,6 +2549,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61jvhwDfMyL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ4F7PLJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H798WNYX",
+    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
+    "type": "winner",
+    "score": 80.0,
+    "price": 29.99,
+    "bsr": 13827,
+    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
     "walmart_url": null
   },
   {
@@ -7983,6 +7983,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81g0q3Z3mnL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJPYRKZH",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HKLT16HR",
+    "title": "Backup Camera Rain Shield, 2 Pack Universal Rear View Camera",
+    "type": "should_test",
+    "score": 65.05,
+    "price": 5.89,
+    "bsr": 9688,
+    "image_url": "https://m.media-amazon.com/images/I/71gv-WS8EPL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKLT16HR",
     "walmart_url": null
   },
   {
@@ -15012,17 +15023,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/611EEBxy8wL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6GRRYPT",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HKLT16HR",
-    "title": "Backup Camera Rain Shield, 2 Pack Universal Rear View Camera",
-    "type": "candidate",
-    "score": 65.6,
-    "price": 5.89,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71gv-WS8EPL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKLT16HR",
     "walmart_url": null
   },
   {
