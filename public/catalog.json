@@ -7084,6 +7084,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HGF73NJ3",
+    "title": "2Pack RV Tank Heater Pads with Automatic Thermostat,17.9 x 11.8in,120V | Self-Adhesive RV Holding Tank Heater with 2 Tape Rol",
+    "type": "should_test",
+    "score": 67.3,
+    "price": 29.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61BJtVbp-CL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGF73NJ3",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJ2N7FJ1",
     "title": "6000W Inverter Generator, Portable Gas Powered Generator",
     "type": "should_test",
@@ -7752,17 +7763,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FNg-gJQgL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHR1ZMQ7",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGF73NJ3",
-    "title": "2Pack RV Tank Heater Pads with Automatic Thermostat,17.9 x 11.8in,120V | Self-Adhesive RV Holding Tank Heater with 2 Tape Rol",
-    "type": "should_test",
-    "score": 65.85,
-    "price": 29.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61BJtVbp-CL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGF73NJ3",
     "walmart_url": null
   },
   {
@@ -9130,17 +9130,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGY3VFMM",
-    "title": "FOGATTI RV Furnace 35,000 BTU for Camper, Motorhome, RV Owners | High-Efficiency, 40dB Quiet Operation, Smart Thermostat 4-Le",
-    "type": "should_test",
-    "score": 63.25,
-    "price": 699.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tyVKHSWEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGY3VFMM",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHD7T62W",
     "title": "3 Pack RV Water Tank Heater Pad with Toggle Switch",
     "type": "should_test",
@@ -9446,6 +9435,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61VmKdIKdPL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H3FHGVC9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGY3VFMM",
+    "title": "FOGATTI RV Furnace 35,000 BTU for Camper, Motorhome, RV Owners | High-Efficiency, 40dB Quiet Operation, Smart Thermostat 4-Le",
+    "type": "should_test",
+    "score": 62.75,
+    "price": 639.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71tyVKHSWEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGY3VFMM",
     "walmart_url": null
   },
   {
@@ -15994,17 +15994,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H7H16JBF",
-    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elix",
-    "type": "candidate",
-    "score": 60.0,
-    "price": 31.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KtLOf7PSL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBBH8BVD",
     "title": "Roomark Loveseat Recliner with Massage and Heat, Wall Hugger Manual Recline Sofa for RV,Home Theater Seating,Living Room,Smal",
     "type": "candidate",
@@ -17025,6 +17014,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/71xN5xcMA5L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H74TPQX9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H7H16JBF",
+    "title": "14 Inch RV Roof Vent Cover, No Drilling Aerodynamic Weatherproof Replacement for Camper Trailer Motorhome, Fits Ventline Elixir Heng&#x27;s Jensen 14x14 Vents",
+    "type": "candidate",
+    "score": 56.3,
+    "price": 31.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61KtLOf7PSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7H16JBF",
     "walmart_url": null
   },
   {
