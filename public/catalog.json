@@ -2211,6 +2211,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "winner",
+    "score": 81.3,
+    "price": 949.0,
+    "bsr": 5977,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFJMLDW7",
     "title": "Magnetic RV Insulated Door Cover for Winter, Curtain Size 33&#x27;&#x27; x 75&#x27;&#x27; | Upgraded Aluminum-Coated Insulation, Reinforced Wear-",
     "type": "winner",
@@ -3839,17 +3850,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "should_test",
-    "score": 76.75,
-    "price": 949.0,
-    "bsr": 6336,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GYS3TD5L",
     "title": "P2001 Pro 3200W/2048Wh Portable Power Station with 2x100W Solar Panel",
     "type": "should_test",
@@ -5134,6 +5134,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81dcyGdavZL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HB4JXX75",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HN1MNNH3",
+    "title": "EF EcoFlow TITAN 5000 Power Station, 5017Wh LFP, 7200W120V/240V AC Output",
+    "type": "should_test",
+    "score": 72.75,
+    "price": 3199.0,
+    "bsr": 5383,
+    "image_url": "https://m.media-amazon.com/images/I/61USbcbDZcL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HN1MNNH3",
     "walmart_url": null
   },
   {
@@ -9754,17 +9765,6 @@
     "bsr": 144820,
     "image_url": "https://m.media-amazon.com/images/I/61-36rqi77L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFKX3FGQ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HN1MNNH3",
-    "title": "EF EcoFlow TITAN 5000 Power Station, 5017Wh LFP, 7200W120V/240V AC Output",
-    "type": "should_test",
-    "score": 62.5,
-    "price": 3199.0,
-    "bsr": 5632,
-    "image_url": "https://m.media-amazon.com/images/I/61USbcbDZcL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HN1MNNH3",
     "walmart_url": null
   },
   {
