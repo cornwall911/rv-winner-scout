@@ -1122,6 +1122,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HD6GN86Q",
+    "title": "BLUETTI Elite 100 mini Portable Power Station for Camping 1004.8Wh 700W LFP",
+    "type": "winner",
+    "score": 84.3,
+    "price": 379.99,
+    "bsr": 350,
+    "image_url": "https://m.media-amazon.com/images/I/71GLt3VSqTL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HD6GN86Q",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJYWMHSX",
     "title": "EROMMY 12V DC RV Air Conditioner, 10000 BTU RV AC Unit with LED Light &amp; Auto Swing Airflow, Ultra Quiet, Low Power Consumptio",
     "type": "winner",
@@ -3000,17 +3011,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71w4BZ-LmpL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GHF8F2PR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HD6GN86Q",
-    "title": "BLUETTI Elite 100 mini Portable Power Station for Camping 1004.8Wh 700W LFP",
-    "type": "should_test",
-    "score": 78.75,
-    "price": 379.99,
-    "bsr": 358,
-    "image_url": "https://m.media-amazon.com/images/I/71GLt3VSqTL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HD6GN86Q",
     "walmart_url": null
   },
   {
