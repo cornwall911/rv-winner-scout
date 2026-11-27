@@ -242,17 +242,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H36H3XG5",
-    "title": "HEECOOMI 3 Magnetic Solar Wireless Backup Camera, 360° Rotating Lens + 10.1&quot; HD Touchscreen DVR, 3x10000mAh Rechargeable IR R",
-    "type": "winner",
-    "score": 89.8,
-    "price": null,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Gza+O78LL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H36H3XG5",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HDYCVWFW",
     "title": "AUTO-VOX 2 Solar Wireless Backup Cameras: 6&quot; Split Screen for Wider View | 1-Min No-Drill Setup, Smooth Real-time View with D",
     "type": "winner",
@@ -272,6 +261,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+EGDTXIHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKV9MTW2",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H36H3XG5",
+    "title": "HEECOOMI 3 Magnetic Solar Wireless Backup Camera, 360° Rotating Lens + 10.1&quot; HD Touchscreen DVR, 3x10000mAh Rechargeable IR R",
+    "type": "winner",
+    "score": 89.7,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Gza+O78LL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H36H3XG5",
     "walmart_url": null
   },
   {
@@ -1771,6 +1771,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HB9V7Q2D",
+    "title": "INVOTEK 75 x 33&quot; RV Door Cover, Magnetic RV Door Insulated Cover for Winter | Side Opening, Magnetic RV Thermal Insulated Doo",
+    "type": "winner",
+    "score": 82.5,
+    "price": 37.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ctQfvQ8CL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB9V7Q2D",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H1Q4CX8C",
     "title": "12V 12000 BTU Split Truck Air Conditioner, Super Quiet Fast Cooling DC Parking AC for Semi Truck, RV, Camper, Construction Ve",
     "type": "winner",
@@ -1911,6 +1922,17 @@
     "bsr": 346307,
     "image_url": "https://m.media-amazon.com/images/I/51phnDG11gL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ67BVFB",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HLSSYDPB",
+    "title": "Starlink Mini Magnetic Roof Car Mount with Built-In Booster &amp; 3m Cable",
+    "type": "winner",
+    "score": 82.25,
+    "price": 119.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71xnsW93bVL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLSSYDPB",
     "walmart_url": null
   },
   {
@@ -2791,17 +2813,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51hapjzd6fL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYW2KZ4M",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HB9V7Q2D",
-    "title": "75 x 33&quot; RV Door Cover, Magnetic RV Door Insulated Cover for Winter",
-    "type": "should_test",
-    "score": 79.35,
-    "price": 36.99,
-    "bsr": 14771,
-    "image_url": "https://m.media-amazon.com/images/I/81ctQfvQ8CL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB9V7Q2D",
     "walmart_url": null
   },
   {
@@ -12863,7 +12874,7 @@
     "title": "YITAHOME Upgraded 27-30FT Travel Trailer Cover 9 Layers RV Camper Cover | Waterproof Anti-UV Motorhome Covers with Tongue Jac",
     "type": "should_test",
     "score": 57.0,
-    "price": 125.15,
+    "price": 149.99,
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81PdLeY8JQL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDS8BNL2",
@@ -13549,6 +13560,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71oncTR09GL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQ6FDD1V",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HB352WN4",
+    "title": "Heavy Duty RV Roof Cover Waterproof 3000PA Camper Roof Protector for Travel Trailer &amp; Pop-Up Camper, Reinforced Trailer Top C",
+    "type": "should_test",
+    "score": 56.0,
+    "price": 79.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ndHKsYMbL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB352WN4",
     "walmart_url": null
   },
   {
@@ -18964,6 +18986,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDYQ2NJD",
+    "title": "RV Roof Cover Oxford Cloth Waterproof Camper Cover, Black, 28 ft | Adjustable Straps, UV Rain Snow Protection, Foldable Stora",
+    "type": "candidate",
+    "score": 53.25,
+    "price": 94.0,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/714UxibLhEL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDYQ2NJD",
+    "walmart_url": null
+  },
+  {
     "asin": "B0DQWD919X",
     "title": "20 inch RV Propane Hose with Gauge 2 Pack-Stainless Steel Braided LP Tank Hose for Standard Two-Stage Regulator 1/4&quot; Male NPT",
     "type": "candidate",
@@ -19228,17 +19261,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HDYQ2NJD",
-    "title": "RV Roof Cover Oxford Cloth Waterproof Camper Cover, Black, 28 ft | Adjustable Straps, UV Rain Snow Protection, Foldable Stora",
-    "type": "candidate",
-    "score": 52.75,
-    "price": 85.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/714UxibLhEL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDYQ2NJD",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HCZDK7VH",
     "title": "2PCS 12V RV Side Air Vent Fan Cooling Exhaust for Trailer Boat Marine Yacht | 15W Air Vent Ventilation Exhaust Fan, Black RV",
     "type": "candidate",
@@ -19258,6 +19280,17 @@
     "bsr": 4296,
     "image_url": "https://m.media-amazon.com/images/I/714vS9vZ-HL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HS52BQR4",
+    "title": "RV Control System RVMC201B Smart Multiplex Keypad Panel App WiFi Bluetooth | Wall mount keypad console for smart RV multiplex",
+    "type": "candidate",
+    "score": 52.75,
+    "price": 287.45,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uD+-pg6KL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HS52BQR4",
     "walmart_url": null
   },
   {
@@ -20534,17 +20567,6 @@
     "bsr": 545587,
     "image_url": "https://m.media-amazon.com/images/I/61o6OJQcD6L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQHV5MY",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HS52BQR4",
-    "title": "RV Control System RVMC201B Smart Multiplex Keypad Panel App WiFi Bluetooth | Wall mount keypad console for smart RV multiplex",
-    "type": "candidate",
-    "score": 51.25,
-    "price": 285.02,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uD+-pg6KL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HS52BQR4",
     "walmart_url": null
   },
   {
@@ -23287,17 +23309,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H73WKJVX",
-    "title": "Antenna Replacement for Furrion Back Up RV Camera | Dual Band WiFi 2.4GHz 5GHz 5.8GHz Mimo Antenna Boost Wireless Signals, 2",
-    "type": "candidate",
-    "score": 48.75,
-    "price": 6.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vIl1CBcUL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H73WKJVX",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HH5W8GKZ",
     "title": "Journey-6 RV Bunk Mattress,6 Inch Thick x 30 x 75 inch Gel Memory Foam Mattress for RV and Camper Trailer, Medium-Firm Made i",
     "type": "candidate",
@@ -24365,17 +24376,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HPSWLB37",
-    "title": "RV Antenna Amplified Roof Mount 4K 1080P for All TVs, 10m Cable | Reliable Local Channel Reception for Campgrounds, RV Parks",
-    "type": "candidate",
-    "score": 47.75,
-    "price": 59.49,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71-c-RcYpgL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HPSWLB37",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HC17VBCP",
     "title": "6.5&quot; RV Ceiling Vent Cover with Adjustable Louver for 4-5/8&quot; Ducting | 360° Full Wind Direction Control, Exact Fit for 4-5/8&quot;",
     "type": "candidate",
@@ -24857,6 +24857,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61t2ZdNvHeL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HBQQYH5Y",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HPSWLB37",
+    "title": "RV Antenna Amplified Roof Mount 4K 1080P for All TVs, 10m Cable | Reliable Local Channel Reception for Campgrounds, RV Parks",
+    "type": "candidate",
+    "score": 47.25,
+    "price": 59.49,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71-c-RcYpgL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HPSWLB37",
     "walmart_url": null
   },
   {
@@ -25484,6 +25495,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/41yfrxxXQ3L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMLN4GYK",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HB4BXHC5",
+    "title": "GZMJRD RV TV Antenna Roof Mounted, Portable RV Antenna for Camper，Black | 720° Long Range Omni Directional Reception Digital",
+    "type": "candidate",
+    "score": 47.0,
+    "price": 66.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VFmRxMiFL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB4BXHC5",
     "walmart_url": null
   },
   {
@@ -26741,17 +26763,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HB4BXHC5",
-    "title": "GZMJRD RV TV Antenna Roof Mounted, Portable RV Antenna for Camper，Black | 720° Long Range Omni Directional Reception Digital",
-    "type": "candidate",
-    "score": 45.75,
-    "price": 66.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VFmRxMiFL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB4BXHC5",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HFJHPFH5",
     "title": "RV Toilet Seal Kit, Gasket Parts Replacement for Dometic 300 310 320 | Toilet Seal for Dometic 400 410 420, Flange Flush Seal",
     "type": "candidate",
@@ -27409,6 +27420,17 @@
     "bsr": 5854,
     "image_url": "https://m.media-amazon.com/images/I/71HLihd04iL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HP1FDCP1",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H73WKJVX",
+    "title": "Antenna Replacement for Furrion Back Up RV Camera",
+    "type": "candidate",
+    "score": 45.0,
+    "price": 6.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61vIl1CBcUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H73WKJVX",
     "walmart_url": null
   },
   {
@@ -28355,6 +28377,17 @@
     "bsr": 415285,
     "image_url": "https://m.media-amazon.com/images/I/71DeS2nP+fL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF3BZPJL",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HNX3H851",
+    "title": "RV801-001 420617 Slide Out and Seat Motor Fits For Atwood RV Mobile Motor | Fits For Forest River, Fits For Coachmen, Fits Fo",
+    "type": "candidate",
+    "score": 44.25,
+    "price": 64.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51yJUjTD0jL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HNX3H851",
     "walmart_url": null
   },
   {
@@ -34023,17 +34056,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HNX3H851",
-    "title": "RV801-001 420617 Slide Out and Seat Motor Fits For Atwood RV Mobile Motor | Fits For Forest River, Fits For Coachmen, Fits Fo",
-    "type": "candidate",
-    "score": 36.0,
-    "price": 64.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51yJUjTD0jL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HNX3H851",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBPYPJJ4",
     "title": "MHAEDWV R001832 Awning Arm Motor Replace 060744-001 060744001 | Fit for Carefree of Colorado RV Compass Longitude Altitude, O",
     "type": "candidate",
@@ -39061,17 +39083,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0GW9M1R9S",
-    "title": "Dash Speakers for 1968-1982 Chevrolet Corvette [Size: 4 in. x 6 in.] | 1968-1982 Chevy Corvette, 80 Watts Power Handling, 60",
-    "type": "candidate",
-    "score": 17.7,
-    "price": 71.98,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61+d1gEPBRL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GW9M1R9S",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H4PTCT91",
     "title": "[2 PACK] W10407212 Refrigerator Door Gasket Replacement Compatible with Whirlpool, Maytag, KitchenAid Refrigerator Door Seal, Replaces Part Number W10407146 W10873938 2683744 Fridge Door Gasket",
     "type": "candidate",
@@ -39399,6 +39410,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61rIxtWyeyL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H88CFJNV",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0GW9M1R9S",
+    "title": "Dash Speakers for 1968-1982 Chevrolet Corvette [Size: 4 in. x 6 in.]",
+    "type": "candidate",
+    "score": 12.15,
+    "price": 71.98,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/61+d1gEPBRL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GW9M1R9S",
     "walmart_url": null
   },
   {
