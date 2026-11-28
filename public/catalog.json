@@ -220,6 +220,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H36H3XG5",
+    "title": "HEECOOMI 3 Magnetic Solar Wireless Backup Camera, 360° Rotating Lens + 10.1&quot; HD Touchscreen DVR, 3x10000mAh Rechargeable IR R",
+    "type": "winner",
+    "score": 89.8,
+    "price": null,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Gza+O78LL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H36H3XG5",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFWRY1N9",
     "title": "AUTO-VOX 7.2&quot; Solar Wireless Backup Camera with Suction Cup Bendable Mount | 1-Min Magnetic Install, 1080P HD DVR &amp; IR Night",
     "type": "winner",
@@ -250,17 +261,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71+EGDTXIHL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKV9MTW2",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H36H3XG5",
-    "title": "HEECOOMI 3 Magnetic Solar Wireless Backup Camera, 360° Rotating Lens + 10.1&quot; HD Touchscreen DVR, 3x10000mAh Rechargeable IR R",
-    "type": "winner",
-    "score": 89.7,
-    "price": null,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Gza+O78LL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H36H3XG5",
     "walmart_url": null
   },
   {
@@ -19657,17 +19657,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HS52BQR4",
-    "title": "RV Control System RVMC201B Smart Multiplex Keypad Panel App WiFi Bluetooth | Wall mount keypad console for smart RV multiplex",
-    "type": "candidate",
-    "score": 52.75,
-    "price": 287.45,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71uD+-pg6KL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HS52BQR4",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HR9TLXCF",
     "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant Camper Top Cover | UV &amp; Frost Resistant, Class A/B/C Motorhomes, Pop-up &amp;",
     "type": "candidate",
@@ -23397,6 +23386,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HPSWLB37",
+    "title": "RV Antenna Amplified Roof Mount 4K 1080P for All TVs, 10m Cable",
+    "type": "candidate",
+    "score": 49.0,
+    "price": 59.49,
+    "bsr": 259113,
+    "image_url": "https://m.media-amazon.com/images/I/71-c-RcYpgL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HPSWLB37",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDNRJWGW",
     "title": "Glooglitter 3 ft RV Heated Sewer Hose Cover, Black | RV Sewer Hose Kit, -20°F RVs Heated Waste Discharge Hosepipe Sleeve, Win",
     "type": "candidate",
@@ -25289,17 +25289,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HPSWLB37",
-    "title": "RV Antenna Amplified Roof Mount 4K 1080P for All TVs, 10m Cable | Reliable Local Channel Reception for Campgrounds, RV Parks",
-    "type": "candidate",
-    "score": 47.25,
-    "price": 59.49,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71-c-RcYpgL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HPSWLB37",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HGFWJB1W",
     "title": "Holder Wall Mount Bracket Compatible with RV Propane Tank (1) | For 1LB 16 oz Propane Cylinder, Single Bottle Storage Rack fo",
     "type": "candidate",
@@ -25894,17 +25883,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HB4BXHC5",
-    "title": "GZMJRD RV TV Antenna Roof Mounted, Portable RV Antenna for Camper，Black | 720° Long Range Omni Directional Reception Digital",
-    "type": "candidate",
-    "score": 47.0,
-    "price": 66.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71VFmRxMiFL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HB4BXHC5",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H941TJ67",
     "title": "2-Step RV Steps with Dual Handrails and 4 Locking Wheels high storage 350lb",
     "type": "candidate",
@@ -26265,6 +26243,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81HW6otp5NL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HD787WJG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HB4BXHC5",
+    "title": "RV TV Antenna Roof Mounted, Portable RV Antenna for Camper，Black",
+    "type": "candidate",
+    "score": 46.5,
+    "price": 66.99,
+    "bsr": 889565,
+    "image_url": "https://m.media-amazon.com/images/I/71VFmRxMiFL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HB4BXHC5",
     "walmart_url": null
   },
   {
@@ -27654,6 +27643,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H73WKJVX",
+    "title": "Antenna Replacement for Furrion Back Up RV Camera",
+    "type": "candidate",
+    "score": 45.5,
+    "price": 6.99,
+    "bsr": 1171928,
+    "image_url": "https://m.media-amazon.com/images/I/61vIl1CBcUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H73WKJVX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H3KWHK84",
     "title": "RV Toilet Seal Replacement 2 Pack for Dometic 300 310 320 Series, Flush Ball Seal Gasket Kit, Upgraded RV Toilet Seal Replacement Part #385311658",
     "type": "candidate",
@@ -27926,17 +27926,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61r8vE-HpiL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9YTXKCR",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H73WKJVX",
-    "title": "Antenna Replacement for Furrion Back Up RV Camera",
-    "type": "candidate",
-    "score": 45.0,
-    "price": 6.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61vIl1CBcUL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H73WKJVX",
     "walmart_url": null
   },
   {
@@ -33349,6 +33338,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61UVfSehh2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8B1HDM4",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HS52BQR4",
+    "title": "RV Control System RVMC201B Smart Multiplex Keypad Panel App WiFi Bluetooth",
+    "type": "candidate",
+    "score": 38.5,
+    "price": 287.36,
+    "bsr": 492905,
+    "image_url": "https://m.media-amazon.com/images/I/71uD+-pg6KL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HS52BQR4",
     "walmart_url": null
   },
   {
