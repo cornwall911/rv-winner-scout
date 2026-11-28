@@ -352,6 +352,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HN4WJF7N",
+    "title": "65000BTU RV Tankless Propane Water Heater with 18 x 18 Inches RV Water Heater Door",
+    "type": "winner",
+    "score": 89.55,
+    "price": 65.99,
+    "bsr": 169945,
+    "image_url": "https://m.media-amazon.com/images/I/516BPU-J2AL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HN4WJF7N",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC5V3KLK",
     "title": "AUTO-VOX 2 Solar Wireless Backup Camera, 7.2&quot; Split Screen for Dual Views | 3 Min Install, 1080P Dual View, Dual Antenna Sign",
     "type": "winner",
@@ -899,17 +910,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71k54pSoj1L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC5LS8FD",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HDYPV2HV",
-    "title": "OEVANT RV Tankless Water Heater, Propane gas, 12V DC, CSA Certified | On-Demand Hot Water, Remote Temperature Control, Dual W",
-    "type": "winner",
-    "score": 87.75,
-    "price": 239.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71o8mXbmDeL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDYPV2HV",
     "walmart_url": null
   },
   {
@@ -1793,6 +1793,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDYPV2HV",
+    "title": "RV Tankless Water Heater, Propane gas, 12V DC, CSA Certified",
+    "type": "winner",
+    "score": 82.5,
+    "price": 239.99,
+    "bsr": 150342,
+    "image_url": "https://m.media-amazon.com/images/I/71o8mXbmDeL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDYPV2HV",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZLGTZWJ",
     "title": "for Starlink Mini Power Supply Cable 12V 24V to 30V 3.5A DC Step Up Converter,10FT/3M 9V–28V Input IP68 Waterproof Adapter Cable for RV Camping Battery Pack Boat (DC Power Cord for Starlink Mini)",
     "type": "winner",
@@ -2585,6 +2596,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H798WNYX",
+    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
+    "type": "winner",
+    "score": 80.15,
+    "price": 29.99,
+    "bsr": 13091,
+    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H8RJDHGQ",
     "title": "RV Skirting Kits for Winter, Easy Installation - Black, 2.62 x 85.3 ft",
     "type": "winner",
@@ -2615,17 +2637,6 @@
     "bsr": 10274,
     "image_url": "https://m.media-amazon.com/images/I/41w6c1Xl83L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC6K52WC",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H798WNYX",
-    "title": "200W AC 110V Power Inverter Compatible with DEWALT 20V Battery",
-    "type": "winner",
-    "score": 80.0,
-    "price": 29.99,
-    "bsr": 13827,
-    "image_url": "https://m.media-amazon.com/images/I/71NT0jB6UvL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H798WNYX",
     "walmart_url": null
   },
   {
@@ -4906,17 +4917,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBQ26RYC",
-    "title": "Portable Power Station 300W, 296Wh Battery Generator for Emergency Backup | MPPT controller, 20W flashlight, 360° camping lig",
-    "type": "should_test",
-    "score": 74.25,
-    "price": 103.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71UP0idnBjL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQ26RYC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H9RWG765",
     "title": "LIBRIDS Portable Power Station C600, 640Wh Solar Generator 600W 4 AC Output",
     "type": "should_test",
@@ -5068,17 +5068,6 @@
     "bsr": 42869,
     "image_url": "https://m.media-amazon.com/images/I/81hPJrgs7kL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC7FK9V7",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H87PBMSN",
-    "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank | 100W PD Fast Charge, 2 AC Outlets, LiFePO4 Sola",
-    "type": "should_test",
-    "score": 73.75,
-    "price": 129.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81m1eRMHl-L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H87PBMSN",
     "walmart_url": null
   },
   {
@@ -5343,6 +5332,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81PRQRJUEAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GY8WY7LL",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HBQ26RYC",
+    "title": "Portable Power Station 300W, 296Wh Battery Generator for Emergency Backup",
+    "type": "should_test",
+    "score": 72.75,
+    "price": 119.99,
+    "bsr": 12322,
+    "image_url": "https://m.media-amazon.com/images/I/71UP0idnBjL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBQ26RYC",
     "walmart_url": null
   },
   {
@@ -6058,17 +6058,6 @@
     "bsr": 425039,
     "image_url": "https://m.media-amazon.com/images/I/8110UKl8LSL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ797D8B",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HQ3P1C7Y",
-    "title": "Feelrogast Electric Tank Water Heater-4 Gallon Under Sink Instant Hot Water for RV, Camper, Kitchen, Food Truck, 120V 1500W,",
-    "type": "should_test",
-    "score": 70.25,
-    "price": 118.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51qWGNSSEwL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HQ3P1C7Y",
     "walmart_url": null
   },
   {
@@ -7161,6 +7150,28 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKHKLYTF",
+    "title": "ITEHIL RV Water Filter System，3-Stage 0.2 Micron Camper Water Filter Fitting for RVs &amp; Campers",
+    "type": "should_test",
+    "score": 67.5,
+    "price": 199.99,
+    "bsr": 136514,
+    "image_url": "https://m.media-amazon.com/images/I/71mcyev47RL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKHKLYTF",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H6PK5QWC",
+    "title": "50FT Heated Water Hose for RV, -45°F Freeze Protection, 6-Layer Reinforced | 6-Layer Reinforced Design, Extra PVC Protective",
+    "type": "should_test",
+    "score": 67.5,
+    "price": 109.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71NlDm1I-NL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H6PK5QWC",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HDP83874",
     "title": "2‑in‑1 RV Gravity Fresh Water Fill Funnel, Bayonet Lock Inlet, Blue | Hands‑Free 4 Inch Wide Mouth Funnel with Replaceable Ad",
     "type": "should_test",
@@ -7975,6 +7986,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H87PBMSN",
+    "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank",
+    "type": "should_test",
+    "score": 65.65,
+    "price": 129.99,
+    "bsr": 10922,
+    "image_url": "https://m.media-amazon.com/images/I/81m1eRMHl-L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H87PBMSN",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HK33PRW7",
     "title": "RV Window Insulation Cover, Thermal Shade for Winter, Roll Up, 42 x 28 in",
     "type": "should_test",
@@ -8294,17 +8316,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HHD2DGQP",
-    "title": "2 Pack 18&quot;x12&quot; RV Tank Heater Pad 12V/13.5V 45W with Toggle Switch | RV Holding Tank Heater Pad with Automatic Thermostat Con",
-    "type": "should_test",
-    "score": 65.0,
-    "price": 37.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ADLTAhqnL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHD2DGQP",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HPS9F6YM",
     "title": "Leakbee 2-in-1 RV Accessories Gas Detector,Replace The Old RV Gas Detector #31011,100dB Loud Alarm,12V DC for Motorhome Trave",
     "type": "should_test",
@@ -8379,6 +8390,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81LNdNKuYfL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDY72LZZ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHD2DGQP",
+    "title": "2 Pack 18&quot;x12&quot; RV Tank Heater Pad 12V/13.5V 45W with Toggle Switch",
+    "type": "should_test",
+    "score": 64.75,
+    "price": 40.99,
+    "bsr": 189269,
+    "image_url": "https://m.media-amazon.com/images/I/81ADLTAhqnL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHD2DGQP",
     "walmart_url": null
   },
   {
@@ -8522,17 +8544,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71O0+9ThBzL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ5NLZJJ",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HKHKLYTF",
-    "title": "ITEHIL RV Water Filter System，3-Stage 0.2 Micron Camper Water Filter Fitting for RVs &amp; Campers",
-    "type": "should_test",
-    "score": 64.5,
-    "price": 199.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71mcyev47RL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKHKLYTF",
     "walmart_url": null
   },
   {
@@ -11176,6 +11187,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H961H7GS",
+    "title": "SEAFLO Foot Galley Pump, 240 GPH / 4 GPM Manual Diaphragm Water Pump, Self-Priming, Dry Run Safe, 1/2&quot; Hose, Foot Pedal Pump for Marine RV Caravan Yacht Sink, SFGP-G240-03, 4-Year Warranty",
+    "type": "should_test",
+    "score": 60.8,
+    "price": 69.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/51-QpFshgrL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H961H7GS",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HKHRHN3B",
     "title": "2-in-1 RV Accessories Gas Detector,Hardwired 12V DC with 3 Different Brackets and Screwdriver for RVs,R502",
     "type": "should_test",
@@ -12001,6 +12023,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HQ3P1C7Y",
+    "title": "Electric Tank Water Heater-4 Gallon Under Sink Instant Hot Water for RV, Camper, Kitchen, Food Truck, 120V 1500W, Gray, Wall or Floor Mounted",
+    "type": "should_test",
+    "score": 59.25,
+    "price": 118.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/51qWGNSSEwL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQ3P1C7Y",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HBQL2QSN",
     "title": "2000W Power Inverter 12V to 110V/120V AC, 4000W Peak for RV Truck Home Use",
     "type": "should_test",
@@ -12251,6 +12284,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61r2EHq0NaL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HMXVTTP9",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8DLCCPC",
+    "title": "4 Pack RV Winterizer Kit, Blowout Ball Valve &amp; Plug, 3/4&quot; GHT 1/4&quot; Connect | For Camper Boat Trailer Winterizing, Brass Const",
+    "type": "should_test",
+    "score": 59.0,
+    "price": 28.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71u+DNMsywL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8DLCCPC",
     "walmart_url": null
   },
   {
@@ -14982,6 +15026,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HCV9BS9R",
+    "title": "8330D3351 Thermostat fit for Coleman-Mach RV Comfort zc Thermostat",
+    "type": "should_test",
+    "score": 53.0,
+    "price": 98.0,
+    "bsr": 157240,
+    "image_url": "https://m.media-amazon.com/images/I/81dTsGFYMIL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCV9BS9R",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HN1WCQNZ",
     "title": "EF EcoFlow TITAN 5000 Plus Power Station, 5017Wh LFP, 7.2kW Up to 10kW",
     "type": "should_test",
@@ -15144,17 +15199,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61otgVq9HsL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8BCKSS6",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8DLCCPC",
-    "title": "4 Pack RV Winterizer Kit, Blowout Ball Valve &amp; Plug, 3/4&quot; GHT 1/4&quot; Connect | For Camper Boat Trailer Winterizing, Brass Const",
-    "type": "should_test",
-    "score": 52.25,
-    "price": 28.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71u+DNMsywL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8DLCCPC",
     "walmart_url": null
   },
   {
@@ -16035,6 +16079,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81mhDG6vzaL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H86SFMB6",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC6KR24X",
+    "title": "2 in 1 RV Gravity Water Fill Inlet Funnel,Hands-Free Water Tank Fill Funnel",
+    "type": "candidate",
+    "score": 61.95,
+    "price": 19.99,
+    "bsr": 179436,
+    "image_url": "https://m.media-amazon.com/images/I/51vT2VFG2DL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6KR24X",
     "walmart_url": null
   },
   {
@@ -17798,6 +17853,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HDZWR41C",
+    "title": "RV Water Inlet Funnel, 3.4 Inch Wide Mouth Fresh Water Fill Adapter",
+    "type": "candidate",
+    "score": 55.65,
+    "price": 12.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/614mS6P5XJL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDZWR41C",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HNKHJ7LN",
     "title": "Heavy Duty RV Roof Cover, Waterproof &amp; UV Resistant Camper Top Cover for Travel Trailers, Class A/B/C Motorhomes, Pop-up &amp; Truck Campers, Roof-Only Protection, Fits 16-41ft RVs，Black：27.89 × 9.84 ft",
     "type": "candidate",
@@ -17941,6 +18007,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC3J7KGT",
+    "title": "Kadrama RV Tank Rinser, Flush Adapter with Shut-Off Valve, 45-Degree Elbow | Reverse Jet Spray, Clear Elbow View, Swivel 3-In",
+    "type": "candidate",
+    "score": 55.5,
+    "price": 24.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71dHGEjs6ML._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC3J7KGT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H29BK8Z3",
     "title": "Dual Color RV Lights Exterior, Aluminum 180° 3-Sided RV LED Porch Light 1600LM Super Bright Outdoor Outside White/Amber Lighting fit for RVs Travel Trailer Truck Camper 5th Wheel Motorhome (2X)",
     "type": "candidate",
@@ -18037,17 +18114,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71yupDCropL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNV7FBN3",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC3J7KGT",
-    "title": "Kadrama RV Tank Rinser, Flush Adapter with Shut-Off Valve, 45-Degree Elbow | Reverse Jet Spray, Clear Elbow View, Swivel 3-In",
-    "type": "candidate",
-    "score": 55.2,
-    "price": 24.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71dHGEjs6ML._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC3J7KGT",
     "walmart_url": null
   },
   {
@@ -22220,17 +22286,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HDZWR41C",
-    "title": "Uswin RV Water Inlet Funnel, 3.4 Inch Wide Mouth Fresh Water Fill Adapter | Travel Trailer Accessories, Quick Fill Tank Jug I",
-    "type": "candidate",
-    "score": 50.25,
-    "price": 12.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/614mS6P5XJL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDZWR41C",
-    "walmart_url": null
-  },
-  {
     "asin": "B0GG9QGG7G",
     "title": "Alomejor RV Tank Rinser, Transparent Material, 45 Degree Backflow Preventer for RV Waste Tank Cleaning and Flushing, Ideal fo",
     "type": "candidate",
@@ -22572,6 +22627,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HKW7GCP4",
+    "title": "14.5 Gallon RV Water Tank, LLDPE Fresh Water Storage Tank, 15.7×7.8×27.5in",
+    "type": "candidate",
+    "score": 50.0,
+    "price": 69.99,
+    "bsr": 179658,
+    "image_url": "https://m.media-amazon.com/images/I/41Ce-KXE-4L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKW7GCP4",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HGQKJ2G1",
     "title": "OUTPRIZE RV Sewer Hose Storage Tube Carrier, Adjustable 50-94 Inch",
     "type": "candidate",
@@ -22888,6 +22954,17 @@
     "bsr": 117478,
     "image_url": "https://m.media-amazon.com/images/I/41odZUirxbL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HG4L1MR6",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H2H36JPH",
+    "title": "KES All Metal RV City Water Inlet with Lead-Free 90 Degree Elbow Hose",
+    "type": "candidate",
+    "score": 49.75,
+    "price": 38.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/810prOOO1pL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2H36JPH",
     "walmart_url": null
   },
   {
@@ -23317,17 +23394,6 @@
     "bsr": 132753,
     "image_url": "https://m.media-amazon.com/images/I/61kyyqsh49L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H7HQMK21",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HGX5Y5YX",
-    "title": "HOLDLY RV Fresh Water Tank Fill Kit, 1.25&quot; NPT Fill Port, 3/8&quot; NPT | Complete Gravity Fill Kit with Three Tubes, Cap, Spigot,",
-    "type": "candidate",
-    "score": 49.25,
-    "price": 34.39,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/716pE2fxxkL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGX5Y5YX",
     "walmart_url": null
   },
   {
@@ -23936,6 +24002,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HFHMYHKD",
+    "title": "6&quot; Extension Clear RV Sewer Hose Adapter - Odor-Proof &amp; Leak-Proof | Anti-Aging Resin, Leak-Proof &amp; Odor-Proof Waste Valve Co",
+    "type": "candidate",
+    "score": 48.75,
+    "price": 13.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710fu5SrEWL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFHMYHKD",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HF84ZPHX",
     "title": "ElaraBerry 2 Pcs 20 lb Propane Tank Mount Brackets with Strap Holders | Heavy Duty Propane Tank Holder for Car Rv Trailers Tr",
     "type": "candidate",
@@ -24241,17 +24318,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71elTpjI5dL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H6NNZD78",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC6KR24X",
-    "title": "2 in 1 RV Gravity Water Fill Inlet Funnel,Hands-Free Water Tank Fill Funnel | Screw-On,Hands-Free Design,4.1 in Wide Mouth,Ad",
-    "type": "candidate",
-    "score": 48.5,
-    "price": 19.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51vT2VFG2DL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6KR24X",
     "walmart_url": null
   },
   {
@@ -25784,6 +25850,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H44WB8QT",
+    "title": "5 in 1 RV Water Heater Replacement Kit for Atwood, Includes 91365 Circuit Board, 93844 Solenoid Gas Valve, 91638 Burner Tube, 91447 ECO Thermostat &amp; Thermal Cut Off, 93868 Spark Igniter",
+    "type": "candidate",
+    "score": 47.25,
+    "price": 89.99,
+    "bsr": 180373,
+    "image_url": "https://m.media-amazon.com/images/I/71K6KDBTnLL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H44WB8QT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H7WWRSH1",
     "title": "EyGde RV Plumbing Vent Cap Stainless Steel with Filter Screen, 2 Packs | Durable stainless steel RV roof vent cap for campers",
     "type": "candidate",
@@ -26961,17 +27038,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HBP3F6DL",
-    "title": "T1028 RV Sewer Hose Adapter, 3 inch Rotating Rigid Pipe Adapter with Bayonet Hooks",
-    "type": "candidate",
-    "score": 46.25,
-    "price": 13.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61ntO3HxJkL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HBP3F6DL",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HBVWGLV5",
     "title": "Tailgate Handle Backup Camera 15228539 fit for Chevy Silverado 1999-2007",
     "type": "candidate",
@@ -27621,17 +27687,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCV9BS9R",
-    "title": "8330D3351 Thermostat fit for Coleman-Mach RV Comfort zc Thermostat | for Coleman-Mach 8xxx Series,Heat/Cool,Wall-Mount,LCD Di",
-    "type": "candidate",
-    "score": 45.5,
-    "price": 98.0,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81dTsGFYMIL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCV9BS9R",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H9WT8M7B",
     "title": "Forklift Propane Tank Adapter 1-1/4in to 1-5/16in",
     "type": "candidate",
@@ -28212,17 +28267,6 @@
     "bsr": 92383,
     "image_url": "https://m.media-amazon.com/images/I/81eishIH5nL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDZKP3ML",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HFHMYHKD",
-    "title": "6&quot; Extension Clear RV Sewer Hose Adapter - Odor-Proof &amp; Leak-Proof | Anti-Aging Resin, Leak-Proof &amp; Odor-Proof Waste Valve Co",
-    "type": "candidate",
-    "score": 45.0,
-    "price": 13.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/710fu5SrEWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFHMYHKD",
     "walmart_url": null
   },
   {
@@ -29722,17 +29766,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HGZHMXJ9",
-    "title": "T1028 Rotating Rigid Pipe Adapter, RV Sewer Adapter 3&quot; Hub x Bayonet Hooks | Rotating Bayonet to Hub Adapter for Rigid Sewer",
-    "type": "candidate",
-    "score": 43.7,
-    "price": 14.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71186OkicmL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HGZHMXJ9",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HKNZLZ9S",
     "title": "15&quot; Propane Regulator Copper Pigtail Tubing Hose POL x POL 7/8&quot; HEX",
     "type": "candidate",
@@ -30503,6 +30536,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HBP3F6DL",
+    "title": "T1028 RV Sewer Hose Adapter, 3 inch Rotating Rigid Pipe Adapter with Bayonet Hooks",
+    "type": "candidate",
+    "score": 42.8,
+    "price": 13.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ntO3HxJkL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HBP3F6DL",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HFYS2H62",
     "title": "Gardner RV Elastomeric Roof Coating",
     "type": "candidate",
@@ -31160,17 +31204,6 @@
     "bsr": 42983,
     "image_url": "https://m.media-amazon.com/images/I/51eLrAU3I2L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H28S6J2W",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H2H36JPH",
-    "title": "KES All Metal RV City Water Inlet with Lead-Free 90 Degree Elbow Hose | 18/8 Stainless Steel RV Water Inlet Replacement with",
-    "type": "candidate",
-    "score": 42.25,
-    "price": 38.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/810prOOO1pL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2H36JPH",
     "walmart_url": null
   },
   {
@@ -33374,17 +33407,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HKWF55WH",
-    "title": "1.25&quot; Fresh Water Tank Hose Connection Kit  for RV Camper Travel Trailer | 4 FT Camper Fresh Water Hose Kit for Travel Traile",
-    "type": "candidate",
-    "score": 39.0,
-    "price": 37.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/813r2ZdvfvL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HKWF55WH",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HJG7C2JN",
     "title": "2027 Upgrade Car Heater for Vehicle,200W Fast Heating Portable Windshield Defroster defogger that Plugs into Cigarette Lighter,2 in 1 Heating &amp; Cooling,12V Heater for Car SUV Truck RV",
     "type": "candidate",
@@ -33426,6 +33448,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ehu58ErKL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H69D6WM1",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGX5Y5YX",
+    "title": "RV Fresh Water Tank Fill Kit, 1.25&quot; NPT Fill Port, 3/8&quot; NPT",
+    "type": "candidate",
+    "score": 38.75,
+    "price": 34.39,
+    "bsr": 171035,
+    "image_url": "https://m.media-amazon.com/images/I/716pE2fxxkL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGX5Y5YX",
     "walmart_url": null
   },
   {
@@ -33866,6 +33899,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61zR4+0474L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9XRXDSB",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HKWF55WH",
+    "title": "1.25&quot; Fresh Water Tank Hose Connection Kit  for RV Camper Travel Trailer",
+    "type": "candidate",
+    "score": 38.0,
+    "price": 37.99,
+    "bsr": 137948,
+    "image_url": "https://m.media-amazon.com/images/I/813r2ZdvfvL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HKWF55WH",
     "walmart_url": null
   },
   {
@@ -35142,6 +35186,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71SX88ulUzL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HFHMZTF1",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HGZHMXJ9",
+    "title": "T1028 Rotating Rigid Pipe Adapter, RV Sewer Adapter 3&quot; Hub x Bayonet Hooks",
+    "type": "candidate",
+    "score": 35.7,
+    "price": 14.99,
+    "bsr": 148980,
+    "image_url": "https://m.media-amazon.com/images/I/71186OkicmL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HGZHMXJ9",
     "walmart_url": null
   },
   {
@@ -37004,6 +37059,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HL7RG1LX",
+    "title": "2 Pack RV Sewer Hose Carrier End Caps Replacement Door with Twist Latch",
+    "type": "candidate",
+    "score": 31.95,
+    "price": 9.49,
+    "bsr": 157069,
+    "image_url": "https://m.media-amazon.com/images/I/61CM23544WL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HL7RG1LX",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H6744SFD",
     "title": "Gas Can Spout Kit, 8.1 In Nozzle for 1-10 Gallon Jerry Cans, 2 Kit",
     "type": "candidate",
@@ -37419,6 +37485,28 @@
     "bsr": 7768,
     "image_url": "https://m.media-amazon.com/images/I/71Y5B4FlcuL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5KXQX56",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HDSWLVK3",
+    "title": "1.25&quot; Fill Hose for RV Concession Fresh Water Tank - With Two Clamps 5 FT",
+    "type": "candidate",
+    "score": 31.2,
+    "price": 19.99,
+    "bsr": null,
+    "image_url": "https://m.media-amazon.com/images/I/71spp1mQu4L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HDSWLVK3",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HJQZG4LR",
+    "title": "Ziazlla 2-Pack 1/2&quot; NPT Female Coupler Fitting with Seal Tape | FNPT Union Connector for SEAFLO Shurflo 12V 24V RV Boat Campe",
+    "type": "candidate",
+    "score": 31.2,
+    "price": 7.99,
+    "bsr": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51b7hI3U4oL._AC_UL300_SR300,200_.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJQZG4LR",
     "walmart_url": null
   },
   {
@@ -38948,17 +39036,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61mTZdKySlL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HKTCSKLL",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HDSWLVK3",
-    "title": "1.25&quot; Fill Hose for RV Concession Fresh Water Tank - With Two Clamps 5 FT | RV Water Tank Fill Hose fit for Marine, Boats, Ca",
-    "type": "candidate",
-    "score": 26.75,
-    "price": 19.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71spp1mQu4L._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HDSWLVK3",
     "walmart_url": null
   },
   {
