@@ -286,17 +286,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HF7XD1XC",
-    "title": "1296P HD 7.2&#x27;&#x27; Magnetic Wireless Backup Camera for Trucks Clear Day &amp; Night",
-    "type": "winner",
-    "score": 89.7,
-    "price": 84.98,
-    "bsr": 9050,
-    "image_url": "https://m.media-amazon.com/images/I/81T7qlyeXoL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF7XD1XC",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HM3FCQ7W",
     "title": "Magnetic Solar Wireless Backup Camera for Trucks &amp; Trailer, 5&#x27;&#x27; HD Monitor | IP69, 5W Panel, 28H Battery Life, Auto Sleep &amp; I",
     "type": "winner",
@@ -316,6 +305,17 @@
     "bsr": 7578,
     "image_url": "https://m.media-amazon.com/images/I/71RgBFVD2iL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC5X73XW",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF7XD1XC",
+    "title": "1296P HD 7.2&#x27;&#x27; Magnetic Wireless Backup Camera for Trucks Clear Day &amp; Night",
+    "type": "winner",
+    "score": 89.6,
+    "price": 84.98,
+    "bsr": 7033,
+    "image_url": "https://m.media-amazon.com/images/I/81T7qlyeXoL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF7XD1XC",
     "walmart_url": null
   },
   {
@@ -11957,17 +11957,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HHLX4QB1",
-    "title": "1000W Power Inverter 12V to 110V/120V，Power Inverters for Vehicles",
-    "type": "should_test",
-    "score": 59.15,
-    "price": 74.99,
-    "bsr": 9726,
-    "image_url": "https://m.media-amazon.com/images/I/81oO-mSlP6L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HHLX4QB1",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HHN36HFB",
     "title": "2-in-1\nRV\nUniversal\nDetector",
     "type": "should_test",
@@ -12108,6 +12097,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/81hGFnzZSlL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HR5DBZ22",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HHLX4QB1",
+    "title": "1000W Power Inverter 12V to 110V/120V，Power Inverters for Vehicles",
+    "type": "should_test",
+    "score": 58.75,
+    "price": 58.64,
+    "bsr": 7722,
+    "image_url": "https://m.media-amazon.com/images/I/81oO-mSlP6L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHLX4QB1",
     "walmart_url": null
   },
   {
@@ -15466,6 +15466,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HL83JDPP",
+    "title": "2-Pack Backup Camera Rain Shield for Cars, Rear Camera Rain Cover Hood",
+    "type": "candidate",
+    "score": 65.2,
+    "price": 7.99,
+    "bsr": 6353,
+    "image_url": "https://m.media-amazon.com/images/I/61ElnssphUL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HL83JDPP",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HN4M3XBM",
     "title": "2PCS Silicone Backup Camera Rain Shield,Dual Protection for Outdoor Parking | Soft Curved Rear View Camera Rain Shield,Blocks",
     "type": "candidate",
@@ -15507,17 +15518,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61402ygPeFL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HHF8X4GC",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HL83JDPP",
-    "title": "2-Pack Backup Camera Rain Shield for Cars, Rear Camera Rain Cover Hood",
-    "type": "candidate",
-    "score": 64.1,
-    "price": 7.99,
-    "bsr": 10618,
-    "image_url": "https://m.media-amazon.com/images/I/61ElnssphUL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HL83JDPP",
     "walmart_url": null
   },
   {
