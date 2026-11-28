@@ -198,17 +198,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HC6MSXG6",
-    "title": "WIPPRO Diesel Heater 8KW, 12V 24V 110V All-in-One,2Gal Portable Diesel Air Heater with LCD Switch &amp; Remote Control for Car RV",
-    "type": "winner",
-    "score": 89.9,
-    "price": 127.42,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/718boxrmhsL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC6MSXG6",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HKRYZSY4",
     "title": "VEVOR Diesel Heater DC 12-24V 1.32 Gal / 5 L Fuel Tank Diesel Air Heater",
     "type": "winner",
@@ -283,6 +272,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/812Wp3BRL7L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H835MLB2",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC6MSXG6",
+    "title": "WIPPRO Diesel Heater 8KW, 12V 24V 110V All-in-One,2Gal Portable Diesel Air Heater with LCD Switch &amp; Remote Control for Car RV Truck Boat Campervans Caravans Campers(Red）",
+    "type": "winner",
+    "score": 89.65,
+    "price": 127.42,
+    "bsr": 48561,
+    "image_url": "https://m.media-amazon.com/images/I/718boxrmhsL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC6MSXG6",
     "walmart_url": null
   },
   {
@@ -11264,6 +11264,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HMC3CZM5",
+    "title": "Haoguo 500W Boat Engine Compartment Heater with Thermostat, Grey",
+    "type": "should_test",
+    "score": 60.45,
+    "price": 127.99,
+    "bsr": 46080,
+    "image_url": "https://m.media-amazon.com/images/I/61uQex7KnrL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMC3CZM5",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HPJL1SRG",
     "title": "RV Skirting Kits for Winter All-Weather Protection Windproof Camper Cover | Travel Trailer Skirt, Insulated Skirt with Night",
     "type": "should_test",
@@ -11723,17 +11734,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71EGCN39KUL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0F9R43Z5G",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HMC3CZM5",
-    "title": "Haoguo 500W Boat Engine Compartment Heater with Thermostat, Grey",
-    "type": "should_test",
-    "score": 59.65,
-    "price": 127.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61uQex7KnrL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HMC3CZM5",
     "walmart_url": null
   },
   {
