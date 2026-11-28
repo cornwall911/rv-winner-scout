@@ -759,6 +759,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HMHG3WLR",
+    "title": "2026 5L Large Diesel Heater, 10kw 240V/110V/12V/24V All in One Diesel Heater with Plateau Mod, LCD Switch, Remote Controller, 10-35H Runtime, Ideal for Truck, RV, Tent, Car, Boat, Warehouse, Orange",
+    "type": "winner",
+    "score": 88.75,
+    "price": 128.95,
+    "bsr": 331384,
+    "image_url": "https://m.media-amazon.com/images/I/61QM7Ogc1eL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMHG3WLR",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H38KLG52",
     "title": "8L Diesel Heater, 8KW 12V/24V/110V/240V All in One Diesel Heater with LCD Switch, Remote Control, Muffler for Truck, RV, Home, Car, Campers, Boat, White",
     "type": "winner",
@@ -1947,6 +1958,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HQ6GF9P3",
+    "title": "Kohree 14&quot; RV Vent Fan, 12V for Camper Vent Trailer, Green",
+    "type": "winner",
+    "score": 82.1,
+    "price": 111.99,
+    "bsr": 332000,
+    "image_url": "https://m.media-amazon.com/images/I/71IrmPZLvPL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HQ6GF9P3",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZLLJ9PF",
     "title": "RV Shower Head with Hose, High Pressure Handheld RV Shower Head Replacement with On Off Switch,5 Modes,Power Jet, Camper Shower Head for RV,Travel Trailer,Motorhome,Boat RV Essentials,Gray",
     "type": "winner",
@@ -2054,17 +2076,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/61EgUXTPW4L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H2ZTJMZ8",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HQ6GF9P3",
-    "title": "Kohree 14&quot; RV Vent Fan, 12V for Camper Vent Trailer, Green",
-    "type": "winner",
-    "score": 81.75,
-    "price": 125.99,
-    "bsr": 358328,
-    "image_url": "https://m.media-amazon.com/images/I/71IrmPZLvPL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HQ6GF9P3",
     "walmart_url": null
   },
   {
@@ -3542,6 +3553,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJZ4293P",
+    "title": "Daisypower 3 Inch Diesel Heater Car Window Vent Kit,Adjustable Window Vent Seal Panels Fit for 16.5&quot;~31.5&quot; Wide Car Window,Easy Installation for Cars,Vans, RVs &amp; Trucks",
+    "type": "should_test",
+    "score": 77.7,
+    "price": 31.99,
+    "bsr": 330475,
+    "image_url": "https://m.media-amazon.com/images/I/71E7HiXy2pL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJZ4293P",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GX9XY9LH",
     "title": "2 PCS Car Backup Camera Protector Covers, Clear HD Anti-Scratch Lens Cap, Car Rear View Camera Protection Cover, Universal for Most Cars",
     "type": "should_test",
@@ -3759,17 +3781,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/817A20k0DyL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HNSQWQT2",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HJZ4293P",
-    "title": "Daisypower 3 Inch Diesel Heater Car Window Vent Kit,Adjustable Window Vent Seal Panels Fit for 16.5&quot;~31.5&quot; Wide Car Window,Easy Installation for Cars,Vans, RVs &amp; Trucks",
-    "type": "should_test",
-    "score": 77.0,
-    "price": 31.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71E7HiXy2pL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJZ4293P",
     "walmart_url": null
   },
   {
@@ -18205,6 +18216,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H7BLJ7J5",
+    "title": "14 Inch RV Roof Vent Cover Replacement Lid, No Drill, Low Profile, White",
+    "type": "candidate",
+    "score": 55.0,
+    "price": 31.99,
+    "bsr": 304138,
+    "image_url": "https://m.media-amazon.com/images/I/61ZEwWR6ToL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H7BLJ7J5",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HHMXGNW4",
     "title": "14&quot; x 14&quot; Roof Vent Cover Camper RV Trailer Wedge Style Replacement",
     "type": "candidate",
@@ -18906,17 +18928,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/51jf9tk4vML.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8S1N7G3",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H7BLJ7J5",
-    "title": "14 Inch RV Roof Vent Cover Replacement Lid, No Drill, Low Profile, White | Low-profile replacement lid with continuous hinge.",
-    "type": "candidate",
-    "score": 54.0,
-    "price": 31.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ZEwWR6ToL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H7BLJ7J5",
     "walmart_url": null
   },
   {
@@ -29766,17 +29777,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HFS7KQ23",
-    "title": "RV Roof Vent Operator Assembly for Ventline Ventadome, Knob &amp; Screw, 2PCS | Fits 14 x 14in RV roof vents with wedge covers; c",
-    "type": "candidate",
-    "score": 43.5,
-    "price": 36.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61WsepeXALL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HFS7KQ23",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H42JRZ92",
     "title": "RecPro 100 Gallon RV Water Tank with Fittings Kit | BPA Free Polyethylene, Rotomolded Construction, Large Capacity, Made in U",
     "type": "candidate",
@@ -34526,6 +34526,17 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/41jCfiFiJvL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9XY72ZP",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HFS7KQ23",
+    "title": "RV Roof Vent Operator Assembly for Ventline Ventadome, Knob &amp; Screw, 2PCS",
+    "type": "candidate",
+    "score": 36.5,
+    "price": 36.99,
+    "bsr": 299028,
+    "image_url": "https://m.media-amazon.com/images/I/61WsepeXALL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HFS7KQ23",
     "walmart_url": null
   },
   {
