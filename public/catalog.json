@@ -1683,6 +1683,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H756JDPJ",
+    "title": "RV Flag Pole Mount, Hitch Bumper Mount for Flagpole and Starlink",
+    "type": "winner",
+    "score": 82.85,
+    "price": 47.99,
+    "bsr": 676438,
+    "image_url": "https://m.media-amazon.com/images/I/61RwmUFrZcL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H756JDPJ",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H5J3C961",
     "title": "Car Charger for Starlink Mini, Car Adapter with 10FT Cable, 12V-24V",
     "type": "winner",
@@ -10670,6 +10681,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHN7SD78",
+    "title": "Roof Rack Awning Clamps, 2-Pack",
+    "type": "should_test",
+    "score": 61.85,
+    "price": 39.0,
+    "bsr": 646699,
+    "image_url": "https://m.media-amazon.com/images/I/71tExc9IM1L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHN7SD78",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HCL9MBV4",
     "title": "RV Side Vent Fan,Dual Motor Quiet Exhaust (White) | High Strength ABS Plastic,White,Dual Motor 12V Exhaust Fan Quiet,Waterpro",
     "type": "should_test",
@@ -16508,17 +16530,6 @@
     "bsr": 31293,
     "image_url": "https://m.media-amazon.com/images/I/710PKWDYOqL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H8J84XDG",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H756JDPJ",
-    "title": "EJYTRVT RV Flag Pole Mount, Hitch Bumper Mount for Flagpole and Starlink | 3-Second Fold, 180° Adjustment, Up to 20-Inch Clea",
-    "type": "candidate",
-    "score": 60.0,
-    "price": 47.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61RwmUFrZcL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H756JDPJ",
     "walmart_url": null
   },
   {
@@ -27736,7 +27747,7 @@
     "type": "candidate",
     "score": 45.75,
     "price": 13.99,
-    "bsr": null,
+    "bsr": 655179,
     "image_url": "https://m.media-amazon.com/images/I/713x2IIvo1L.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HC2F525X",
     "walmart_url": null
@@ -29015,17 +29026,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71v73BXFh6L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HGBW279Z",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HG56H6BD",
-    "title": "AMSPRAC 418203 RV Awning Drive Head Gear Pack for 373566 266149 | 12-Tooth Power Awning Motor Gear Replacement, RV Camper Awn",
-    "type": "candidate",
-    "score": 44.5,
-    "price": 27.99,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71TWkZDACWL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HG56H6BD",
     "walmart_url": null
   },
   {
@@ -31611,6 +31611,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61kd7Oc-fAL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJZQJ2KG",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HG56H6BD",
+    "title": "418203 RV Awning Drive Head Gear Pack for 373566 266149",
+    "type": "candidate",
+    "score": 41.75,
+    "price": 27.99,
+    "bsr": 629700,
+    "image_url": "https://m.media-amazon.com/images/I/71TWkZDACWL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HG56H6BD",
     "walmart_url": null
   },
   {
