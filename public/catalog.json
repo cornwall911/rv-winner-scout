@@ -429,17 +429,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HCNZ34D1",
-    "title": "for Starlink Mini DeWalt Battery Adapter,Over-Discharge Protection",
-    "type": "winner",
-    "score": 89.35,
-    "price": 34.19,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/61eBApXyDeL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HCNZ34D1",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H748Y253",
     "title": "2026 TB10WF 8KW Toolbox Diesel Heater with WiFi &amp; Bluetooth APP, 3-in-1 Smart Remote, 12V/24V Portable Heater for Camping RV Truck, Silent Oil Pump with CO Monitor &amp;18045ft Altitude Adapt",
     "type": "winner",
@@ -877,6 +866,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61w9bH3WXLL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HN52B8LJ",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HCNZ34D1",
+    "title": "for Starlink Mini DeWalt Battery Adapter,Over-Discharge Protection",
+    "type": "winner",
+    "score": 88.0,
+    "price": 34.19,
+    "bsr": 49455,
+    "image_url": "https://m.media-amazon.com/images/I/61eBApXyDeL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HCNZ34D1",
     "walmart_url": null
   },
   {
@@ -2211,17 +2211,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H5C6KTNW",
-    "title": "300W Car Power Inverter with Starlink Mini Adapter",
-    "type": "winner",
-    "score": 81.3,
-    "price": 29.58,
-    "bsr": 42991,
-    "image_url": "https://m.media-amazon.com/images/I/71hV3ISG+FL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H5C6KTNW",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HC36QZ77",
     "title": "Magnetic RV Insulated Door Cover 33&quot; x 80&quot; Thermal Door Curtain for Camper | Winter Door Insulation Blanket with Thick Waterp",
     "type": "winner",
@@ -3025,6 +3014,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HHRY9LZ6",
+    "title": "LIVOWALNY 350W Portable Power Inverter Compatible with Ryobi 18V Battery (Tool Only), Compact Station: 2x70W USB-C PD, AC, USB-A, 12V DC, 800lm LED &amp; Display – Camping, Jobsite, Road Trip, Emergency",
+    "type": "should_test",
+    "score": 78.85,
+    "price": 56.99,
+    "bsr": 48630,
+    "image_url": "https://m.media-amazon.com/images/I/71wAsuo0NSL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HHRY9LZ6",
+    "walmart_url": null
+  },
+  {
     "asin": "B0H2665NKK",
     "title": "EROMMY 12V DC RV Air Conditioner with Heat Pump, 10000 BTU Cooling &amp; 6120 BTU Heating RV AC Unit with LED Light, Auto Swing A",
     "type": "should_test",
@@ -3619,6 +3619,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H5C6KTNW",
+    "title": "300W Car Power Inverter with Starlink Mini Adapter",
+    "type": "should_test",
+    "score": 77.65,
+    "price": 29.58,
+    "bsr": 35884,
+    "image_url": "https://m.media-amazon.com/images/I/71hV3ISG+FL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H5C6KTNW",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GX9XY9LH",
     "title": "2 PCS Car Backup Camera Protector Covers, Clear HD Anti-Scratch Lens Cap, Car Rear View Camera Protection Cover, Universal for Most Cars",
     "type": "should_test",
@@ -4136,6 +4147,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HC77BPRT",
+    "title": "AP200 192Wh 200W Portable Power Bank Station,LiFePO4 Battery",
+    "type": "should_test",
+    "score": 76.35,
+    "price": 69.99,
+    "bsr": 42313,
+    "image_url": "https://m.media-amazon.com/images/I/712UzQaBP1L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC77BPRT",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZPL47RD",
     "title": "24V RV Air Conditioner 12500 BTU With Heater, DC Rooftop AC Unit for Camper Van, 40dB Off-Grid Battery Powered RV AC Unit",
     "type": "should_test",
@@ -4243,6 +4265,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xQKQrwUmL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H83DJHFD",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HRFBJFP8",
+    "title": "Jackery Explorer 3000 v2 Portable Power Station, 3072Wh Capacity, 3600W (7200W Surge) AC Output, 120V LiFePO4 Solar Generator for Home Backup (Renewed)",
+    "type": "should_test",
+    "score": 75.95,
+    "price": 999.0,
+    "bsr": 40021,
+    "image_url": "https://m.media-amazon.com/images/I/61VZN7os4YL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HRFBJFP8",
     "walmart_url": null
   },
   {
@@ -5181,6 +5214,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0H8SMM39F",
+    "title": "OUPES Exodus 350 Portable Power Station, 288Wh 350W LiFePO4 Solar Generator",
+    "type": "should_test",
+    "score": 73.25,
+    "price": 180.49,
+    "bsr": 35032,
+    "image_url": "https://m.media-amazon.com/images/I/61lgGxg41VL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8SMM39F",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HLCYKGVW",
     "title": "Power Station with 15V 400A Automobile Charging Cable, 1800W",
     "type": "should_test",
@@ -5981,17 +6025,6 @@
     "bsr": null,
     "image_url": "https://m.media-amazon.com/images/I/512Oex6+XYL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQC3PMC2",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HC77BPRT",
-    "title": "AP200 192Wh 200W Portable Power Bank Station,LiFePO4 Battery",
-    "type": "should_test",
-    "score": 70.45,
-    "price": 69.99,
-    "bsr": 45905,
-    "image_url": "https://m.media-amazon.com/images/I/712UzQaBP1L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC77BPRT",
     "walmart_url": null
   },
   {
@@ -7975,17 +8008,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HJGCLYXG",
-    "title": "300W 25A 110V/120V to 12V Power Supply Converter for Webasto Eberspacher Chinese 2KW 5KW 8KW Heaters AC to DC Transformer for Air Parking Heater Accessories",
-    "type": "should_test",
-    "score": 65.75,
-    "price": 28.99,
-    "bsr": null,
-    "image_url": "https://m.media-amazon.com/images/I/71bBeq2qMqL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HJGCLYXG",
-    "walmart_url": null
-  },
-  {
     "asin": "B0H87PBMSN",
     "title": "DARAN R200 Portable Power Station 192Wh, 200W(400W Peak) Compact Power Bank",
     "type": "should_test",
@@ -9020,6 +9042,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HJGCLYXG",
+    "title": "300W 25A 110V/120V to 12V Power Supply Converter for Webasto Eberspacher Chinese 2KW 5KW 8KW Heaters AC to DC Transformer for Air Parking Heater Accessories",
+    "type": "should_test",
+    "score": 63.75,
+    "price": 28.99,
+    "bsr": 48612,
+    "image_url": "https://m.media-amazon.com/images/I/71bBeq2qMqL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HJGCLYXG",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HJ1CH8Y8",
     "title": "4-in-1 RV Accessories Gas Detector,Hardwired 12V DC for Motorhome Travel Trailer, Motor Coach, Truck Camper",
     "type": "should_test",
@@ -9028,17 +9061,6 @@
     "bsr": 7827,
     "image_url": "https://m.media-amazon.com/images/I/61++m0b1ViL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HJ1CH8Y8",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HLZ9B92N",
-    "title": "BILT HARD 4500 Watts Gasoline Open Frame Inverter Generator",
-    "type": "should_test",
-    "score": 63.75,
-    "price": 339.99,
-    "bsr": 17380,
-    "image_url": "https://m.media-amazon.com/images/I/71VmR3Nps3L.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HLZ9B92N",
     "walmart_url": null
   },
   {
@@ -9138,6 +9160,17 @@
     "bsr": 41801,
     "image_url": "https://m.media-amazon.com/images/I/71Qd+CzJ7tL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HDLSRCFT",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HLZ9B92N",
+    "title": "BILT HARD 4500 Watts Gasoline Open Frame Inverter Generator",
+    "type": "should_test",
+    "score": 63.5,
+    "price": 339.99,
+    "bsr": 38273,
+    "image_url": "https://m.media-amazon.com/images/I/71VmR3Nps3L.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HLZ9B92N",
     "walmart_url": null
   },
   {
@@ -10502,17 +10535,6 @@
     "bsr": 64013,
     "image_url": "https://m.media-amazon.com/images/I/71ZvXNHWBPL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQ73PM5L",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0H8SMM39F",
-    "title": "OUPES Exodus 350 Portable Power Station, 288Wh 350W LiFePO4 Solar Generator | Pure Sine Wave AC, &lt;10ms 600W UPS, 140W PD USB-",
-    "type": "should_test",
-    "score": 61.85,
-    "price": 180.49,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61lgGxg41VL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8SMM39F",
     "walmart_url": null
   },
   {
@@ -28468,6 +28490,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HMBJJW3N",
+    "title": "50A RV Replacement Twist-Lock Female Connector, SS2-50R Locking Female Plug",
+    "type": "candidate",
+    "score": 45.0,
+    "price": 36.79,
+    "bsr": 40744,
+    "image_url": "https://m.media-amazon.com/images/I/61KfEBxuECL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HMBJJW3N",
+    "walmart_url": null
+  },
+  {
     "asin": "B0HC6PG67D",
     "title": "GIMWA 2.6 Gal Collapsible Baby Bottle Wash Basin with Drain Plug",
     "type": "candidate",
@@ -28883,6 +28916,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/715Z-4oWy5L._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HK3RPPG2",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HRKX9JWH",
+    "title": "Portable Hand Crank Generator with USB Charger, FM/Shortwave Radio and LEDs",
+    "type": "candidate",
+    "score": 44.5,
+    "price": 29.9,
+    "bsr": 34027,
+    "image_url": "https://m.media-amazon.com/images/I/61NZ7XiFoFL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HRKX9JWH",
     "walmart_url": null
   },
   {
@@ -29433,17 +29477,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51AZv89J5QL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HR5TG74J",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HMBJJW3N",
-    "title": "50A RV Replacement Twist-Lock Female Connector, SS2-50R Locking Female Plug | For RV/Marine/Generator/Home Use, 125/250V, 45°",
-    "type": "candidate",
-    "score": 44.0,
-    "price": 36.79,
-    "bsr": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61KfEBxuECL._AC_UL300_SR300,200_.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HMBJJW3N",
     "walmart_url": null
   },
   {
@@ -32197,17 +32230,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0HC8RYH83",
-    "title": "Hand Crank Phone for charger 2-Pack USB Manual Generator Hand",
-    "type": "candidate",
-    "score": 40.75,
-    "price": 12.49,
-    "bsr": 17570,
-    "image_url": "https://m.media-amazon.com/images/I/51Eq7YfhiqL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HC8RYH83",
-    "walmart_url": null
-  },
-  {
     "asin": "B0FBKY5G96",
     "title": "Winegard TRAV&#x27;LER Pro SK2DISH Roof-Mount Satellite Antenna",
     "type": "candidate",
@@ -34097,6 +34119,17 @@
     "bsr": 108955,
     "image_url": "https://m.media-amazon.com/images/I/61nv6krYqYL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HQ48G3HF",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HC8RYH83",
+    "title": "Hand Crank Phone for charger 2-Pack USB Manual Generator Hand",
+    "type": "candidate",
+    "score": 37.5,
+    "price": 12.49,
+    "bsr": 37129,
+    "image_url": "https://m.media-amazon.com/images/I/51Eq7YfhiqL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HC8RYH83",
     "walmart_url": null
   },
   {
