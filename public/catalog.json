@@ -390,7 +390,7 @@
     "type": "winner",
     "score": 89.4,
     "price": 227.91,
-    "bsr": 8116,
+    "bsr": 6373,
     "image_url": "https://m.media-amazon.com/images/I/716N7nKiHyL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HF8FMS5G",
     "walmart_url": null
@@ -2175,17 +2175,6 @@
     "bsr": 42991,
     "image_url": "https://m.media-amazon.com/images/I/71hV3ISG+FL.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H5C6KTNW",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HF4JKGMC",
-    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    "type": "winner",
-    "score": 81.3,
-    "price": 949.0,
-    "bsr": 5977,
-    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -4078,6 +4067,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61yQWgUvLEL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GZPL47RD",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0HF4JKGMC",
+    "title": "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
+    "type": "should_test",
+    "score": 76.25,
+    "price": 949.0,
+    "bsr": 6004,
+    "image_url": "https://m.media-amazon.com/images/I/61MICgKkURL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HF4JKGMC",
     "walmart_url": null
   },
   {
@@ -7227,6 +7227,17 @@
     "walmart_url": null
   },
   {
+    "asin": "B0HH9BYJBB",
+    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
+    "type": "should_test",
+    "score": 67.25,
+    "price": 64.99,
+    "bsr": 5623,
+    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
+    "walmart_url": null
+  },
+  {
     "asin": "B0GZLHBWK1",
     "title": "Heavy-Duty 1680D Water-Resistant Griddle Carry Bag for Blackstone 2363 2250 2246 2364 Adventure Ready 14&quot; with Adjustable Shoulder Strap &amp; Front Pocket",
     "type": "should_test",
@@ -8698,17 +8709,6 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/61NFA8UL6mL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0HCNJ9SP8",
-    "walmart_url": null
-  },
-  {
-    "asin": "B0HH9BYJBB",
-    "title": "RV Skirting for Winter - Heavy Duty Insulated Camper Skirt for Travel Trailer,5th Wheel,Motorhome &amp; Class A/B/C,Windproof Waterproof Snowproof Bottom Cover with Lock Cable (2.6ft High, 20ft Length)",
-    "type": "should_test",
-    "score": 64.0,
-    "price": 64.99,
-    "bsr": 5416,
-    "image_url": "https://m.media-amazon.com/images/I/61P7O0fp4jL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0HH9BYJBB",
     "walmart_url": null
   },
   {
@@ -19646,17 +19646,6 @@
     "walmart_url": null
   },
   {
-    "asin": "B0H8CX296Q",
-    "title": "NEMA L14-30P to 14-50R RV Generator Adapter, Twist Lock 30 to 50 Amp",
-    "type": "candidate",
-    "score": 52.75,
-    "price": 15.99,
-    "bsr": 4296,
-    "image_url": "https://m.media-amazon.com/images/I/714vS9vZ-HL.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
-    "walmart_url": null
-  },
-  {
     "asin": "B0HS52BQR4",
     "title": "RV Control System RVMC201B Smart Multiplex Keypad Panel App WiFi Bluetooth | Wall mount keypad console for smart RV multiplex",
     "type": "candidate",
@@ -26562,6 +26551,17 @@
     "bsr": null,
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/51o6PMQl-XL._AC_UL300_SR300,200_.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H9LJH38P",
+    "walmart_url": null
+  },
+  {
+    "asin": "B0H8CX296Q",
+    "title": "NEMA L14-30P to 14-50R RV Generator Adapter, Twist Lock 30 to 50 Amp",
+    "type": "candidate",
+    "score": 46.25,
+    "price": 15.99,
+    "bsr": 4818,
+    "image_url": "https://m.media-amazon.com/images/I/714vS9vZ-HL.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H8CX296Q",
     "walmart_url": null
   },
   {
